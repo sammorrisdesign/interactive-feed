@@ -1,0 +1,12 @@
+{
+  "feeds": [{
+    "publication": "The New York Times",
+    "feedType": "NewYorkTimesAPI"
+  },
+  {
+    "publication": "Washington Post",
+    "feedType": "RSS",
+    "rss": "URL GOES HERE",
+    "filters": ["url", "/interactives/"]
+  }]
+}
