@@ -11,4 +11,8 @@ cron.schedule('0 */6 * * *', async() => {
   }
 });
 
-feeds.check();
+(async() => {
+  await feeds.check();
+  console.log('done');
+})()
+
