@@ -1,12 +1,86 @@
 {
-  "feeds": [{
-    "publication": "The New York Times",
-    "feedType": "NewYorkTimesAPI"
-  },
-  {
-    "publication": "Washington Post",
-    "feedType": "RSS",
-    "rss": "URL GOES HERE",
-    "filters": ["url", "/interactives/"]
-  }]
+  "feeds": [
+    {
+      "publication": "The New York Times",
+      "feedType": "NewYorkTimesAPI"
+    },
+    {
+      "publication": "Washington Post",
+      "feedType": "RSS",
+      "rss": "URL GOES HERE",
+      "filters": [
+        "url",
+        "/interactives/"
+      ]
+    },
+    {
+      "publication": "LA Times"
+    },
+    {
+      "publication": "NPR"
+    },
+    {
+      "publication": "Reuters"
+    },
+    {
+      "publication": "Quartz"
+    },
+    {
+      "publication": "Pudding"
+    },
+    {
+      "publication": "Marshall Project"
+    },
+    {
+      "publication": "The Guardian"
+    },
+    {
+      "publication": "CNN"
+    },
+    {
+      "publication": "National Geographic"
+    },
+    {
+      "publication": "WSJ"
+    },
+    {
+      "publication": "Minnepolis Star Tribune"
+    },
+    {
+      "publication": "Miami Herald"
+    },
+    {
+      "publication": "FT"
+    },
+    {
+      "publication": "Politico"
+    },
+    {
+      "publication": "Texas Tribune"
+    },
+    {
+      "publication": "Bloomberg"
+    },
+    {
+      "publication": "FiveThirtyEight"
+    },
+    {
+      "publication": "Atlantic"
+    },
+    {
+      "publication": "New Yorker"
+    },
+    {
+      "publication": "Boston Globe"
+    },
+    {
+      "publication": "CBC"
+    },
+    {
+      "publication": "Toronto Star"
+    },
+    {
+      "publication": "San Francisco Chronicle"
+    }
+  ]
 }
