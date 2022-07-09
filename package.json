@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sammorrisdesign/interactive-feed#readme",
   "dependencies": {
+    "fs-extra": "^10.1.0",
     "node-cron": "^3.0.0",
     "node-fetch": "^2.6.7"
   }

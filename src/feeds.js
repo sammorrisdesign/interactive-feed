@@ -1,3 +1,4 @@
+const fs = require('fs-extra');
 const config = require('./config.json');
 const fetchers = require('./fetchers');
 
@@ -6,28 +7,74 @@ const pullRecentFeeds = async() => {
 
   for (const feed of config.feeds) {
     if (feed.type) {
-      data[feed.publication] = await fetchers[feed.type](feed);
+      const fetchedArticles = await fetchers[feed.type](feed);
+
+      if (fetchedArticles) {
+        data[feed.publication] = fetchedArticles
+      }
     }
   }
 
   return data;
 }
 
+const handlise = string => {
+  if (string) {
+    return string.replace(/[^\w\s]/gi, '').replace(/ /g, '-').toLowerCase();
+  }
+}
+
+const findNewArticles = async(data) => {
+  let newArticles = new Array;
+
+  // loop through recently fetched feeds
+  for (const feed of Object.keys(data)) {
+    const path = `./data/${handlise(feed)}.json`;
+
+    // create /data/publication-name.json if it doesn't exist
+    if (!fs.existsSync(path)) {
+      fs.writeFileSync(path, JSON.stringify({
+        lastUpdated: new Date(),
+        articles: []
+      }, null, 2));
+    }
+
+    const savedData = fs.readJSONSync(path);
+    const fetchedArticles = data[feed];
+    let newArticlesFromFeed = new Array;
+
+    // loop through recently fetched articles
+    for (const article of fetchedArticles) {
+      // does article exist in savedData, add to newArticlesFromFeed if it's new
+      const isOld = savedData.articles.length !== 0 || savedData.articles.some(article.isOld);
+
+      if (!isOld) {
+        newArticlesFromFeed.push(article);
+      }
+    }
+
+    // if we have new articles to add
+    if (newArticlesFromFeed.length > 0) {
+      // update savedData
+      savedData.lastUpdated = new Date();
+      savedData.articles = [...newArticlesFromFeed, ...savedData.articles];
+      fs.writeFileSync(path, JSON.stringify(savedData, null, 2));
+
+      // add to global new articles array in this check
+      newArticles = [...newArticles, ...newArticlesFromFeed];
+    }
+  }
+
+  return newArticles;
+}
+
 module.exports = {
   check: async() => {
     const data = await pullRecentFeeds();
+    const newArticles = await findNewArticles(data);
 
-    console.log(data);
-
-    // loop through all publications in data
-    // grab perm data source (or create it)
-    // check for each Article within perm data source
-    // 
-
-
-
-    // figure out what's new from a perm source of data
-    // tweet out new ones
-    // save perm source of data
+    if (newArticles) {
+      // do something with new articles
+    }
   }
 }
