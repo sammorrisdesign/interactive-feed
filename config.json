@@ -41,10 +41,7 @@
       }
     },
     {
-      "publication": "WSJ",
-      "type": "XML",
-      "format": "Sitemap",
-      "path": "https://www.wsj.com/wsj_graphics_sitemap.xml"
+      "publication": "WSJ"
     },
     {
       "publication": "Reuters"
