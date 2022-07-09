@@ -5,13 +5,7 @@
       "type": "NewYorkTimesAPI"
     },
     {
-      "publication": "Washington Post",
-      "type": "RSS",
-      "rss": "URL GOES HERE",
-      "filters": [
-        "url",
-        "/interactives/"
-      ]
+      "publication": "Washington Post"
     },
     {
       "publication": "LA Times"
@@ -26,13 +20,17 @@
       "publication": "Quartz"
     },
     {
-      "publication": "Pudding"
+      "publication": "The Pudding",
+      "type": "RSS",
+      "rss": "https://pudding.cool/rss.xml"
     },
     {
       "publication": "Marshall Project"
     },
     {
-      "publication": "The Guardian"
+      "publication": "The Guardian",
+      "type": "RSS",
+      "rss": "https://www.theguardian.com/interactive/rss"
     },
     {
       "publication": "CNN"

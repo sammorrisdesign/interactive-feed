@@ -19,6 +19,7 @@
   "dependencies": {
     "fs-extra": "^10.1.0",
     "node-cron": "^3.0.0",
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^2.6.7",
+    "rss-parser": "^3.12.0"
   }
 }

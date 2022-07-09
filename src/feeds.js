@@ -1,10 +1,11 @@
 const fs = require('fs-extra');
-const config = require('./config.json');
+const config = require('../config.json');
 const fetchers = require('./fetchers');
 
 const pullRecentFeeds = async() => {
   let data = new Object;
 
+  // loop through all feeds and fetch them
   for (const feed of config.feeds) {
     if (feed.type) {
       const fetchedArticles = await fetchers[feed.type](feed);
