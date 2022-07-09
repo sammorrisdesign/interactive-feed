@@ -2,20 +2,24 @@ const config = require('./config.json');
 const fetchers = require('./fetchers');
 
 const pullRecentFeeds = async() => {
-  config.feeds.forEach(async(publication) => {
-    await fetchers[publication.feedType](publication);
+  let data = new Object;
 
-  });
+  for (const feed of config.feeds) {
+    if (feed.type) {
+      data[feed.publication] = await fetchers[feed.type](feed);
+    }
+  }
 
-  return 'finished';
+  return data;
 }
 
 module.exports = {
   check: async() => {
-
     const data = await pullRecentFeeds();
-    // loop through config.feeds
-    // trigger various fetchers based on a config's feedType
+
+    console.log(data);
+    // figure out what's new from a perm source of data
+
     // return articles in a standarised way
     // do something with those articles (twitter bot?)
   }

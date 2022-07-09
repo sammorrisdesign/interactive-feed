@@ -2,11 +2,11 @@
   "feeds": [
     {
       "publication": "The New York Times",
-      "feedType": "NewYorkTimesAPI"
+      "type": "NewYorkTimesAPI"
     },
     {
       "publication": "Washington Post",
-      "feedType": "RSS",
+      "type": "RSS",
       "rss": "URL GOES HERE",
       "filters": [
         "url",
