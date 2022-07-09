@@ -74,6 +74,30 @@
       "path": "https://www.sfchronicle.com/projects/sitemap_projects.xml"
     },
     {
+      "publication": "The Philadelphia Inquirer",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.inquirer.com/sitemaps/current-month-sitemap-i.xml",
+      "filters": {
+        "url": "/inq2"
+      }
+    },
+    {
+      "publication": "South China Morning Post",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.scmp.com/sitemap_infographics.xml"
+    },
+    {
+      "publication": "NBC News",
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://feeds.nbcnews.com/nbcnews/public/news",
+      "filters": {
+        "url": "/data-graphics"
+      }
+    },
+    {
       "publication": "WSJ"
     },
     {
