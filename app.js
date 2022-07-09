@@ -4,4 +4,3 @@ const feeds = require('./src/feeds');
   await feeds.check();
   console.log('done');
 })()
-

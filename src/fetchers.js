@@ -23,13 +23,20 @@ const RSS = async(feed) => {
   try {
     const parser = new Parser();
     const data = await parser.parseURL(feed.rss);
+
     let articles = data.items;
     articles = articles.map(article => new Article(
       publication = feed.publication,
       url = article.link,
       headline = article.title,
-      timestamp = article.pubDate
+      timestamp = article.isoDate || article.pubDate
     ));
+
+    if (feed.filters) {
+      for (const key of Object.keys(feed.filters)) {
+        articles = articles.filter(article => article[key].includes(feed.filters[key]));
+      }
+    }
 
     return articles;
   } catch(e) {

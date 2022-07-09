@@ -5,7 +5,33 @@
       "type": "NewYorkTimesAPI"
     },
     {
-      "publication": "Washington Post"
+      "publication": "The Pudding",
+      "type": "RSS",
+      "rss": "https://pudding.cool/rss.xml"
+    },
+    {
+      "publication": "The Guardian",
+      "type": "RSS",
+      "rss": "https://www.theguardian.com/interactive/rss"
+    },
+    {
+      "publication": "Quartz",
+      "type": "RSS",
+      "rss": "https://cms.qz.com/feed/tag/quartzthings/"
+    },
+    {
+      "publication": "CNN",
+      "type": "RSS",
+      "rss": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "filters": {
+        "url": "/interactive"
+      }
+    },
+    {
+      "publication": "Reuters"
+    },
+    {
+      "publication": "The Washington Post"
     },
     {
       "publication": "LA Times"
@@ -14,26 +40,7 @@
       "publication": "NPR"
     },
     {
-      "publication": "Reuters"
-    },
-    {
-      "publication": "Quartz"
-    },
-    {
-      "publication": "The Pudding",
-      "type": "RSS",
-      "rss": "https://pudding.cool/rss.xml"
-    },
-    {
       "publication": "Marshall Project"
-    },
-    {
-      "publication": "The Guardian",
-      "type": "RSS",
-      "rss": "https://www.theguardian.com/interactive/rss"
-    },
-    {
-      "publication": "CNN"
     },
     {
       "publication": "National Geographic"
