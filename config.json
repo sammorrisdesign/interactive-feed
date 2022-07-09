@@ -41,6 +41,39 @@
       }
     },
     {
+      "publication": "FT",
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://www.ft.com/visual-and-data-journalism?format=rss"
+    },
+    {
+      "publication": "Politico",
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://www.politico.com/rss/politicopicks.xml",
+      "filters": {
+        "url": "/interactives"
+      }
+    },
+    {
+      "publication": "Bloomberg",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://fivethirtyeight.com/interactives/feed/"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.sfchronicle.com/projects/sitemap_projects.xml"
+    },
+    {
       "publication": "WSJ"
     },
     {
@@ -65,37 +98,22 @@
       "publication": "Miami Herald"
     },
     {
-      "publication": "FT"
-    },
-    {
-      "publication": "Politico"
-    },
-    {
       "publication": "Texas Tribune"
     },
     {
-      "publication": "Bloomberg"
-    },
-    {
-      "publication": "FiveThirtyEight"
-    },
-    {
-      "publication": "Atlantic"
-    },
-    {
-      "publication": "New Yorker"
+      "publication": "The Atlantic"
     },
     {
       "publication": "Boston Globe"
+    },
+    {
+      "publication": "New Yorker"
     },
     {
       "publication": "CBC"
     },
     {
       "publication": "Toronto Star"
-    },
-    {
-      "publication": "San Francisco Chronicle"
     }
   ]
 }
