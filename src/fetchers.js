@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const Parser = require('rss-parser');
+const { XMLParser } = require('fast-xml-parser');
 
 const { Article } = require("./article");
 const secrets = require('../secrets.json');
@@ -19,18 +19,30 @@ const NewYorkTimesAPI = async(feed) => {
   return articles;
 }
 
-const RSS = async(feed) => {
+const XML = async(feed) => {
   try {
-    const parser = new Parser();
-    const data = await parser.parseURL(feed.rss);
+    const parser = new XMLParser();
+    const response = await fetch(feed.path);
+    let data = parser.parse(await response.text());
+    let articles;
 
-    let articles = data.items;
-    articles = articles.map(article => new Article(
-      publication = feed.publication,
-      url = article.link,
-      headline = article.title,
-      timestamp = article.isoDate || article.pubDate
-    ));
+    if (feed.format == 'RSS') {
+      data = data.rss.channel.item;
+      articles = data.map(article => new Article(
+        publication = feed.publication,
+        url = article.link,
+        headline = article.title,
+        timestamp = article.isoDate || article.pubDate
+      ))
+    } else if (feed.format == 'Sitemap') {
+      data = data.urlset.url;
+      articles = data.map(article => new Article(
+        publication = feed.publication,
+        url = article.loc,
+        headline = article?.['news:news']?.['news:title'],
+        timestamp = article?.['news:news']?.['news:publication_date'] || article.lastmod
+      ));
+    }
 
     if (feed.filters) {
       for (const key of Object.keys(feed.filters)) {
@@ -41,11 +53,10 @@ const RSS = async(feed) => {
     return articles;
   } catch(e) {
     console.log(e);
-    console.log('rss fail');
   }
 }
 
 module.exports = {
   NewYorkTimesAPI: NewYorkTimesAPI,
-  RSS: RSS
+  XML: XML
 }

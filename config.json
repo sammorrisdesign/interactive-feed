@@ -6,32 +6,48 @@
     },
     {
       "publication": "The Pudding",
-      "type": "RSS",
-      "rss": "https://pudding.cool/rss.xml"
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://pudding.cool/rss.xml"
     },
     {
       "publication": "The Guardian",
-      "type": "RSS",
-      "rss": "https://www.theguardian.com/interactive/rss"
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://www.theguardian.com/interactive/rss"
     },
     {
       "publication": "Quartz",
-      "type": "RSS",
-      "rss": "https://cms.qz.com/feed/tag/quartzthings/"
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://cms.qz.com/feed/tag/quartzthings/"
     },
     {
       "publication": "CNN",
-      "type": "RSS",
-      "rss": "http://rss.cnn.com/rss/cnn_topstories.rss",
+      "type": "XML",
+      "format": "RSS",
+      "path": "http://rss.cnn.com/rss/cnn_topstories.rss",
       "filters": {
         "url": "/interactive"
       }
     },
     {
-      "publication": "Reuters"
+      "publication": "The Washington Post",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.washingtonpost.com/arcio/news-sitemap/",
+      "filters": {
+        "url": "/interactive"
+      }
     },
     {
-      "publication": "The Washington Post"
+      "publication": "WSJ",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.wsj.com/wsj_graphics_sitemap.xml"
+    },
+    {
+      "publication": "Reuters"
     },
     {
       "publication": "LA Times"
@@ -44,9 +60,6 @@
     },
     {
       "publication": "National Geographic"
-    },
-    {
-      "publication": "WSJ"
     },
     {
       "publication": "Minnepolis Star Tribune"
