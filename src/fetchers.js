@@ -5,7 +5,6 @@ const { TwitterApi } = require('twitter-api-v2');
 const secrets = require('../secrets.json');
 const { Article } = require("./article");
 const utils = require('./utils');
-const tweet = require('./tweet');
 
 const NewYorkTimesAPI = async(feed) => {
   const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,type_of_material&sort=newest&api-key=${secrets.nyt.key}`);
@@ -32,6 +31,11 @@ const XML = async(feed) => {
 
     if (feed.format == 'RSS') {
       data = data.rss.channel.item;
+
+      if (feed.domain) {
+        data = data.filter(item => item.link.includes(feed.domain))
+      }
+
       articles = data.map(article => new Article(
         publication = feed.publication,
         handle = feed.handle,
@@ -71,17 +75,17 @@ const Twitter = async(feed) => {
       accessSecret: secrets.twitter.accessSecret,
     });
 
+    // get all tweets from given account and retweets
     let { tweets = _realdata.data } = await client.v2.userTimeline(feed.twitterID, { exclude: ['replies'],
       "expansions": "referenced_tweets.id"
     });
-
     tweets = tweets.map(tweet => tweet.referenced_tweets ? tweet.referenced_tweets[0].id : tweet.id);
     tweets = await client.v2.tweets(tweets, {
       "tweet.fields": ["entities"]
     });
 
+    // get a unique set of links from tweet that match the domain
     let uniqueLinks = [];
-
     let links = tweets.data.flatMap(tweet => tweet?.entities?.urls ? tweet.entities.urls.flatMap(url => {
       const preferredUrl = utils.cleanURL(url.unwound_url || url.expanded_url);
 
@@ -96,8 +100,6 @@ const Twitter = async(feed) => {
       }
     }) : []);
     links = links.filter(link => link.url.includes(feed.domain));
-
-    console.log(links);
 
     let articles = links.map(link => new Article(
       publication = feed.publication,

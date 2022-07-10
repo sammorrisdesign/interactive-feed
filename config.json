@@ -10,7 +10,8 @@
       "handle": "puddingviz",
       "type": "XML",
       "format": "RSS",
-      "path": "https://pudding.cool/rss.xml"
+      "path": "https://pudding.cool/rss.xml",
+      "domain": "pudding.cool"
     },
     {
       "publication": "The Guardian",
