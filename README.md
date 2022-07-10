@@ -14,7 +14,3 @@ Vox, The Verge, SB Nation, ProPublica, USA Today, Marshall Project, National Geo
 
 Know of how any of these newsrooms can be added? Make a PR!
 Know of any newsrooms we should add? Tweet me [@SamMorrisDesign](https://twitter.com/SamMorrisDesign) or add a GitHub Issue
-
-## ToDo
-- Get running on GitHub Actions
-- Style Twitter account
