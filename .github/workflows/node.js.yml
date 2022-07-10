@@ -21,5 +21,6 @@ jobs:
         node-version: 14.x
         cache: 'npm'
     - run: npm ci
+    - run: echo ${{ secrets.SECRETS }} > secrets.json
     - run: npm run start --if-present
     - run: git commit -am "Update Feeds"
