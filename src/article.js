@@ -1,8 +1,10 @@
+const utils = require('./utils');
+
 class Article {
   constructor(publication, handle, url, headline, timestamp) {
     this.publication = publication;
     this.handle = handle;
-    this.url = url;
+    this.url = utils.cleanURL(url);
     this.headline = headline;
     this.timestamp = new Date(timestamp);
   }

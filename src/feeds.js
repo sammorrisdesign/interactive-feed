@@ -2,13 +2,14 @@ const fs = require('fs-extra');
 const config = require('../config.json');
 const fetchers = require('./fetchers');
 const tweet = require('./tweet');
+const utils = require('./utils');
 
 const pullRecentFeeds = async() => {
   let data = new Object;
 
   // loop through all feeds and fetch them
   for (const feed of config.feeds) {
-    if (feed.type) {
+    if (feed.type === 'Twitter') {
       console.log("Pulling feed for", feed.publication);
       const fetchedArticles = await fetchers[feed.type](feed);
 
@@ -21,18 +22,12 @@ const pullRecentFeeds = async() => {
   return data;
 }
 
-const handlise = string => {
-  if (string) {
-    return string.replace(/[^\w\s]/gi, '').replace(/ /g, '-').toLowerCase();
-  }
-}
-
 const findNewArticles = async(data) => {
   let newArticles = new Array;
 
   // loop through recently fetched feeds
   for (const feed of Object.keys(data)) {
-    const path = `./data/${handlise(feed)}.json`;
+    const path = `./data/${utils.handlise(feed)}.json`;
 
     // create /data/publication-name.json if it doesn't exist
     if (!fs.existsSync(path)) {
@@ -76,8 +71,6 @@ module.exports = {
   check: async() => {
     const data = await pullRecentFeeds();
     const newArticles = await findNewArticles(data);
-
-    console.log(newArticles);
 
     if (newArticles) {
       console.log(newArticles.length, "new articles found");

@@ -112,13 +112,25 @@
       }
     },
     {
-      "publication": "WSJ"
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "type": "Twitter",
+      "twitterID": "19564105",
+      "domain": "wsj.com/articles"
     },
     {
-      "publication": "Reuters"
+      "publication": "LA Times",
+      "handle": "datagraphics",
+      "type": "Twitter",
+      "twitterID": "17918860",
+      "domain": "latimes.com"
     },
     {
-      "publication": "LA Times"
+      "publication": "Reuters",
+      "handle": "ReutersGraphics",
+      "type": "Twitter",
+      "twitterID": "1310201424",
+      "domain": "tmsnrt.rs/"
     },
     {
       "publication": "NPR"

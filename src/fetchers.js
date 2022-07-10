@@ -1,8 +1,11 @@
 const fetch = require('node-fetch');
 const { XMLParser } = require('fast-xml-parser');
+const { TwitterApi } = require('twitter-api-v2');
 
-const { Article } = require("./article");
 const secrets = require('../secrets.json');
+const { Article } = require("./article");
+const utils = require('./utils');
+const tweet = require('./tweet');
 
 const NewYorkTimesAPI = async(feed) => {
   const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,type_of_material&sort=newest&api-key=${secrets.nyt.key}`);
@@ -59,7 +62,59 @@ const XML = async(feed) => {
   }
 }
 
+const Twitter = async(feed) => {
+  try {
+    const client = new TwitterApi({
+      appKey: secrets.twitter.key,
+      appSecret: secrets.twitter.secret,
+      accessToken: secrets.twitter.accessToken,
+      accessSecret: secrets.twitter.accessSecret,
+    });
+
+    let { tweets = _realdata.data } = await client.v2.userTimeline(feed.twitterID, { exclude: ['replies'],
+      "expansions": "referenced_tweets.id"
+    });
+
+    tweets = tweets.map(tweet => tweet.referenced_tweets ? tweet.referenced_tweets[0].id : tweet.id);
+    tweets = await client.v2.tweets(tweets, {
+      "tweet.fields": ["entities"]
+    });
+
+    let uniqueLinks = [];
+
+    let links = tweets.data.flatMap(tweet => tweet?.entities?.urls ? tweet.entities.urls.flatMap(url => {
+      const preferredUrl = utils.cleanURL(url.unwound_url || url.expanded_url);
+
+      if (!uniqueLinks.includes(preferredUrl)) {
+        uniqueLinks.push(preferredUrl);
+        return {
+          "url": url.unwound_url || url.expanded_url,
+          "title": url.title
+        }
+      } else {
+        return [];
+      }
+    }) : []);
+    links = links.filter(link => link.url.includes(feed.domain));
+
+    console.log(links);
+
+    let articles = links.map(link => new Article(
+      publication = feed.publication,
+      handle = feed.handle,
+      url = link.url,
+      headline = link.title,
+      timestamp = new Date()
+    ));
+
+    return articles;
+  } catch(e) {
+    console.log(e);
+  }
+}
+
 module.exports = {
   NewYorkTimesAPI: NewYorkTimesAPI,
-  XML: XML
+  XML: XML,
+  Twitter: Twitter
 }
