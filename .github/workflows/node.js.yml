@@ -20,20 +20,13 @@ jobs:
       with:
         node-version: 14.x
         cache: 'npm'
-        
+
     - run: npm ci
     - name: Create secrets file
       run: export KEY=${{ secrets.KEY }} && npm run decrypt-secrets
     - run: cat secrets.json
     - run: npm run start
-    - name: Push changes
+
+    - uses: stefanzweifel/git-auto-commit-action@v4
       with:
-        repo-token: ${{ secrets.GITHUB_TOKEN }}
-      run: |
-        date > generated.txt
-        git config user.name Automated Action
-        git config user.email github-actions@github.com
-        git add .
-        git commit -m "generated"
-        git push
-        
+        commit_message: Automated update of feed
