@@ -17,5 +17,4 @@ Know of any newsrooms we should add? Tweet me [@SamMorrisDesign](https://twitter
 
 ## ToDo
 - Get running on GitHub Actions
-- Remove params from urls
 - Style Twitter account
