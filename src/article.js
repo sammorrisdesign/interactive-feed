@@ -13,11 +13,6 @@ class Article {
       return a;
     }, {});
   }
-
-  isOld(old) {
-    console.log(old);
-    return old.url === url
-  }
 }
 
 module.exports = { Article };

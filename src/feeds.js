@@ -49,7 +49,7 @@ const findNewArticles = async(data) => {
     // loop through recently fetched articles
     for (const article of fetchedArticles) {
       // does article exist in savedData, add to newArticlesFromFeed if it's new
-      const isOld = savedData.articles.length !== 0 || savedData.articles.some(article.isOld);
+      const isOld = savedData.articles.some(savedArticle => savedArticle.url === article.url);
 
       if (!isOld) {
         console.log("Found new article");
@@ -76,6 +76,8 @@ module.exports = {
   check: async() => {
     const data = await pullRecentFeeds();
     const newArticles = await findNewArticles(data);
+
+    console.log(newArticles);
 
     if (newArticles) {
       console.log(newArticles.length, "new articles found");

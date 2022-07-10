@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-10T18:51:40.176Z",
+  "lastUpdated": "2022-07-10T19:07:16.171Z",
   "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/",
+      "headline": "2022 Election Forecast",
+      "timestamp": "2022-06-30T14:00:11.000Z"
+    },
     {
       "publication": "FiveThirtyEight",
       "handle": "FiveThirtyEight",

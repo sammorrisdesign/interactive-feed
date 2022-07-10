@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-07-10T18:51:40.205Z",
+  "lastUpdated": "2022-07-10T19:07:56.678Z",
   "articles": [
+    {
+      "publication": "South China Morning Post",
+      "handle": "SCMPgraphics",
+      "url": "https://www.scmp.com/infographics/china/article/3142519/chinas-henan-province-inundated-catastrophic-floods",
+      "timestamp": "2021-07-26T07:25:00.000Z"
+    },
     {
       "publication": "South China Morning Post",
       "handle": "SCMPgraphics",
@@ -120,12 +126,6 @@
       "handle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/sport/article/3144708/biggest-gold-medal-cash-prize-italy-no11-hong-kong-no-3-whos-no1",
       "timestamp": "2021-08-12T05:00:00.000Z"
-    },
-    {
-      "publication": "South China Morning Post",
-      "handle": "SCMPgraphics",
-      "url": "https://www.scmp.com/infographics/china/article/3142519/chinas-henan-province-inundated-catastrophic-floods",
-      "timestamp": "2021-07-26T07:25:00.000Z"
     },
     {
       "publication": "South China Morning Post",
