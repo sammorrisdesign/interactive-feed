@@ -23,6 +23,6 @@ jobs:
     - run: npm ci
     - name: Create secrets file
       run: echo ${{ secrets.SECRETS }} > secrets.json
-      run: cat secrets.json
+    - run: cat secrets.json
     - run: npm run start --if-present
     - run: git commit -am "Update Feeds"
