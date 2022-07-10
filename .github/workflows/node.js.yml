@@ -24,5 +24,11 @@ jobs:
     - name: Create secrets file
       run: export KEY=${{ secrets.KEY }} && npm run decrypt-secrets
     - run: cat secrets.json
-    - run: npm run start --if-present
-    - run: git commit -am "Update Feeds"
+    - run: npm run start
+    - run: |
+        date > generated.txt
+        git config user.name Automated Action
+        git config user.email github-actions@github.com
+        git add .
+        git commit -m "generated"
+        git push
