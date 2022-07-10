@@ -134,37 +134,18 @@
       "domain": "tmsnrt.rs/"
     },
     {
-      "publication": "NPR"
+      "publication": "NPR",
+      "handle": "nprviz",
+      "type": "Twitter",
+      "twitterID": "582282558",
+      "domain": "npr.org/20"
     },
     {
-      "publication": "Marshall Project"
-    },
-    {
-      "publication": "National Geographic"
-    },
-    {
-      "publication": "Minnepolis Star Tribune"
-    },
-    {
-      "publication": "Miami Herald"
-    },
-    {
-      "publication": "Texas Tribune"
-    },
-    {
-      "publication": "The Atlantic"
-    },
-    {
-      "publication": "Boston Globe"
-    },
-    {
-      "publication": "New Yorker"
-    },
-    {
-      "publication": "CBC"
-    },
-    {
-      "publication": "Toronto Star"
+      "publication": "Axios",
+      "handle": "axiosvisuals",
+      "type": "Twitter",
+      "twitterID": "822466626515861506",
+      "domain": "www.axios.com"
     }
   ]
 }

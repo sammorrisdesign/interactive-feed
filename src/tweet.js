@@ -10,15 +10,15 @@ const newArticles = articles => {
   });
 
   for (let article of articles) {
-    let tweet = `New on @${article.handle}${article.headline ? `": ${article.headline}"` : ""} ${article.url}`;
+    let tweet = `New on @${article.handle}${article.headline ? `: "${article.headline}"` : ""} ${article.url}`;
 
     console.log("Tweeting:", tweet);
 
-    // client.v2.tweet(tweet).then(val => {
-    //   console.log(`Successfully tweeted: https://twitter.com/InteractiveFeed/status/${val.data.id}`);
-    // }).catch(err => {
-    //   console.log(err);
-    // })
+    client.v2.tweet(tweet).then(val => {
+      console.log(`Successfully tweeted: https://twitter.com/InteractiveFeed/status/${val.data.id}`);
+    }).catch(err => {
+      console.log(err);
+    })
   }
 }
 
