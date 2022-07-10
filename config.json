@@ -2,28 +2,33 @@
   "feeds": [
     {
       "publication": "The New York Times",
+      "handle": "nytimes",
       "type": "NewYorkTimesAPI"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "type": "XML",
       "format": "RSS",
       "path": "https://pudding.cool/rss.xml"
     },
     {
       "publication": "The Guardian",
+      "handle": "GuardianVisuals",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.theguardian.com/interactive/rss"
     },
     {
       "publication": "Quartz",
+      "handle": "quartzthings",
       "type": "XML",
       "format": "RSS",
       "path": "https://cms.qz.com/feed/tag/quartzthings/"
     },
     {
       "publication": "CNN",
+      "handle": "CNN",
       "type": "XML",
       "format": "RSS",
       "path": "http://rss.cnn.com/rss/cnn_topstories.rss",
@@ -33,6 +38,7 @@
     },
     {
       "publication": "The Washington Post",
+      "handle": "PostGraphics",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.washingtonpost.com/arcio/news-sitemap/",
@@ -42,12 +48,14 @@
     },
     {
       "publication": "FT",
+      "handle": "ftdata",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.ft.com/visual-and-data-journalism?format=rss"
     },
     {
       "publication": "Politico",
+      "handle": "politico",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.politico.com/rss/politicopicks.xml",
@@ -57,24 +65,28 @@
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml"
     },
     {
       "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
       "type": "XML",
       "format": "RSS",
       "path": "https://fivethirtyeight.com/interactives/feed/"
     },
     {
       "publication": "San Francisco Chronicle",
+      "handle": "sfchronicle",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.sfchronicle.com/projects/sitemap_projects.xml"
     },
     {
       "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.inquirer.com/sitemaps/current-month-sitemap-i.xml",
@@ -84,12 +96,14 @@
     },
     {
       "publication": "South China Morning Post",
+      "handle": "SCMPgraphics",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.scmp.com/sitemap_infographics.xml"
     },
     {
       "publication": "NBC News",
+      "handle": "NBCNewsGraphics",
       "type": "XML",
       "format": "RSS",
       "path": "https://feeds.nbcnews.com/nbcnews/public/news",

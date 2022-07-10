@@ -9,6 +9,7 @@ const pullRecentFeeds = async() => {
   // loop through all feeds and fetch them
   for (const feed of config.feeds) {
     if (feed.type) {
+      console.log("Pulling feed for", feed.publication);
       const fetchedArticles = await fetchers[feed.type](feed);
 
       if (fetchedArticles) {
@@ -51,6 +52,7 @@ const findNewArticles = async(data) => {
       const isOld = savedData.articles.length !== 0 || savedData.articles.some(article.isOld);
 
       if (!isOld) {
+        console.log("Found new article");
         newArticlesFromFeed.push(article);
       }
     }
@@ -75,9 +77,8 @@ module.exports = {
     const data = await pullRecentFeeds();
     const newArticles = await findNewArticles(data);
 
-    console.log(newArticles);
-
     if (newArticles) {
+      console.log(newArticles.length, "new articles found");
       tweet.newArticles(newArticles);
     }
   }

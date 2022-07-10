@@ -1,116 +1,135 @@
 {
-  "lastUpdated": "2022-07-09T21:55:11.222Z",
+  "lastUpdated": "2022-07-10T18:51:40.175Z",
   "articles": [
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/2022-artificial-turf-grass-lawns-climate-change/",
       "headline": "The Suburban Lawn Will Never Be the Same",
       "timestamp": "2022-07-08T09:00:11.168Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/2022-pound-performance-under-boris-johnson/",
       "headline": "The Pound Flashes a Warning Signal for Boris Johnson",
       "timestamp": "2022-07-06T13:03:22.352Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/10-companies-to-watch/",
       "headline": "Inflation, Travel, and the Metaverse: 10 Companies to Watch in Q3",
       "timestamp": "2022-07-06T09:00:11.591Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/electric-vehicles/",
       "headline": "Bloomberg Green’s Electric Car Ratings",
       "timestamp": "2022-07-06T09:00:05.857Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/us-economic-recession-tracker/",
       "headline": "US Recession Chances Surge to 38%, Bloomberg Economics Model Says",
       "timestamp": "2022-07-05T09:00:08.312Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/2022-london-property-prices-apartment-values-fall/",
       "headline": "London Has a Two-Tier Home Market as Apartment Values Fall 11%",
       "timestamp": "2022-07-05T04:00:06.729Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/2022-chanel-rolex-robberies-los-angeles-celebrity-crime-spree/",
       "headline": "The Open House Hunters Who Hit LA’s Rich and Famous",
       "timestamp": "2022-07-01T11:00:04.567Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/2022-shale-oil-frack-master-ponzi-scheme/",
       "headline": "The Frack Master’s $70 Million Shale Scam Worked&mdash;Until It Didn’t",
       "timestamp": "2022-06-30T10:00:07.676Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/covid-resilience-ranking/",
       "headline": "The Best and Worst Places to Be as World Enters Next Covid Phase",
       "timestamp": "2022-06-29T09:00:05.673Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/2022-cambodia-met-museum-art-heist/",
       "headline": "The Epic Temple Heist That Looted a Nation’s History",
       "timestamp": "2022-06-29T04:01:04.727Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/2022-opinion-abortion-maps-by-state-and-pregnancy-week/",
       "headline": "Interactive Map: How the Abortion Ruling Changes Everything",
       "timestamp": "2022-06-27T10:00:40.201Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/2022-carbon-offset-credits-mexico-forest-bp/",
       "headline": "BP Paid Rural Mexicans a “Pittance” for Wall Street’s Favorite Climate Solution",
       "timestamp": "2022-06-27T09:00:35.044Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/2022-supreme-court-abortion-travel/",
       "headline": "Americans in 26 States Will Have to Travel 552 Miles For Abortions",
       "timestamp": "2022-06-25T00:15:33.311Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/how-to-invest-a-million-dollars/",
       "headline": "Where to Invest $1 Million: Large-Cap Stocks, Distressed Tech, Blockchain",
       "timestamp": "2022-06-24T09:00:34.138Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/2022-china-africa-iron-mining-simandou-mountains/",
       "headline": "China’s Quest for Iron Threatens West African Ecosystem",
       "timestamp": "2022-06-23T21:00:36.945Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/2022-inflation-ron-johnson-senate-wisconsin/",
       "headline": "Inflation Could Be Path to Re-election for GOP's Most Vulnerable Senator",
       "timestamp": "2022-06-23T08:00:37.808Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/uk-levelling-up/wakefield-by-election.html",
       "headline": "Boris Johnson’s Support Fades Among New Tory Voters and Old (Repeat)",
       "timestamp": "2022-06-23T04:00:04.532Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/features/2022-juneteenth-food-menus/",
       "headline": "Chefs From Around America Share Their Juneteenth Cookout Menus",
       "timestamp": "2022-06-15T11:15:09.934Z"
     },
     {
       "publication": "Bloomberg",
+      "handle": "BBGVisualData",
       "url": "https://www.bloomberg.com/graphics/2022-opinion-inflation-rising-prices-gas-food-comparison",
       "headline": "How Close Are We Really to 1970s-Style Inflation?",
       "timestamp": "2022-06-13T16:47:08.370Z"

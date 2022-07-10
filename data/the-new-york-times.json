@@ -1,35 +1,33 @@
 {
-  "lastUpdated": "2022-07-09T18:50:53.574Z",
+  "lastUpdated": "2022-07-10T18:51:40.161Z",
   "articles": [
     {
       "publication": "The New York Times",
-      "url": "https://www.nytimes.com/interactive/2022/07/09/us/highland-park-shooting-funeral-victims.html",
-      "headline": "Mourning After a Holiday Shooting",
-      "timestamp": "2022-07-09T13:04:19.000Z"
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/10/nyregion/metropolitan-diary-vespa.html",
+      "headline": "A Scooter Mystery Solved",
+      "timestamp": "2022-07-10T12:59:39.000Z"
     },
     {
       "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/09/us/highland-park-shooting-funeral-victims.html",
+      "headline": "Mourning After a Holiday Shooting",
+      "timestamp": "2022-07-09T13:04:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
       "url": "https://www.nytimes.com/interactive/2022/07/09/world/asia/hong-kong-old-bus-video.html",
       "headline": "Aboard a ‘Hot Dog Bus’ in Hong Kong",
       "timestamp": "2022-07-09T06:20:36.000Z"
     },
     {
       "publication": "The New York Times",
+      "handle": "nytimes",
       "url": "https://www.nytimes.com/interactive/2022/07/08/nyregion/bronx-fire-nyc.html",
       "headline": "The Chain of Failures That Left 17 Dead in a Bronx Apartment Fire",
       "timestamp": "2022-07-08T20:05:41.000Z"
-    },
-    {
-      "publication": "The New York Times",
-      "url": "https://www.nytimes.com/interactive/2022/07/08/briefing/the-weekender.html",
-      "headline": "The Weekender",
-      "timestamp": "2022-07-08T17:00:02.000Z"
-    },
-    {
-      "publication": "The New York Times",
-      "url": "https://www.nytimes.com/interactive/2022/07/08/books/review/paperback-row-10.html",
-      "headline": "6 New Paperbacks to Check Out This Week",
-      "timestamp": "2022-07-08T16:53:21.000Z"
     }
   ]
 }

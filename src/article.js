@@ -1,6 +1,7 @@
 class Article {
-  constructor(publication, url, headline, timestamp) {
+  constructor(publication, handle, url, headline, timestamp) {
     this.publication = publication;
+    this.handle = handle;
     this.url = url;
     this.headline = headline;
     this.timestamp = new Date(timestamp);

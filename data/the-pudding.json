@@ -1,122 +1,142 @@
 {
-  "lastUpdated": "2022-07-09T19:24:42.721Z",
+  "lastUpdated": "2022-07-10T18:51:40.163Z",
   "articles": [
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/06/streaming",
       "headline": "How Artists Get Paid From Streaming",
       "timestamp": "2022-06-30T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/06/aztec-gods",
       "headline": "A Visual Guide to the Aztec Pantheon",
       "timestamp": "2022-06-15T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://www.youtube.com/watch?v=S1m-KgEpoow",
       "headline": "We tracked what happens after TikTok songs go viral",
       "timestamp": "2022-06-02T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/projects/heat-records",
       "headline": "Tracking Heat Records in 400 U.S. Cities",
       "timestamp": "2022-05-25T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/04/random",
       "headline": "We think this cool study we found is flawed. Help us reproduce it.",
       "timestamp": "2022-04-27T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/04/banknotes",
-      "headline": "Who’s in Your Wallet? ",
+      "headline": "Who’s in Your Wallet?",
       "timestamp": "2022-04-12T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://journal-doi.org/10.731/pcbi.1007742/",
       "headline": "Chalamet Coughs, Dune Wins",
       "timestamp": "2022-03-23T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/03/weather-map",
       "headline": "How many days since a record-high temperature?",
       "timestamp": "2022-03-17T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/02/redraft",
       "headline": "The NBA Redrafted 2.0",
       "timestamp": "2022-02-28T05:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/02/plain",
       "headline": "What Makes Writing More Readable?",
       "timestamp": "2022-02-17T05:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/02/women-in-headlines",
       "headline": "When Women Make Headlines",
       "timestamp": "2022-02-02T05:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/projects/caption-contest",
       "headline": "Help a Computer Win the New Yorker Cartoon Caption Contest",
       "timestamp": "2022-01-27T05:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2022/01/deepwork",
       "headline": "Deepwork",
       "timestamp": "2022-01-19T05:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2021/12/sesame",
       "headline": "The Hidden Risks of Sesame Allergies",
       "timestamp": "2021-12-14T05:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2021/10/lenna",
       "headline": "Can Data Die? Tracking the Lenna Image",
       "timestamp": "2021-10-29T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2021/08/spades",
       "headline": "How you play Spades is how you play life",
       "timestamp": "2021-08-30T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2021/08/nba-carry",
       "headline": "Ranking the Biggest NBA Finals Carry Jobs",
       "timestamp": "2021-08-17T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2021/07/rickrolling",
       "headline": "A Visual History of Rickrolling",
       "timestamp": "2021-07-20T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2021/06/same-gender-lyrics",
       "headline": "“I Kissed A Girl” to “Call Me By Your Name”",
       "timestamp": "2021-06-29T04:00:00.000Z"
     },
     {
       "publication": "The Pudding",
+      "handle": "puddingviz",
       "url": "https://pudding.cool/2021/04/solo",
       "headline": "How many artists overshadow their band after going solo?",
       "timestamp": "2021-04-22T04:00:00.000Z"

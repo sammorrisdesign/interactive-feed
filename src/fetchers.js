@@ -11,6 +11,7 @@ const NewYorkTimesAPI = async(feed) => {
   articles = articles.filter(article => article.web_url.includes('interactive'));
   articles = articles.map(article => new Article(
     publication = feed.publication,
+    handle = feed.handle,
     url = article.web_url,
     headline = article.headline.main,
     timestamp = article.pub_date
@@ -30,6 +31,7 @@ const XML = async(feed) => {
       data = data.rss.channel.item;
       articles = data.map(article => new Article(
         publication = feed.publication,
+        handle = feed.handle,
         url = article.link,
         headline = article.title,
         timestamp = article.isoDate || article.pubDate
@@ -38,6 +40,7 @@ const XML = async(feed) => {
       data = data.urlset.url;
       articles = data.map(article => new Article(
         publication = feed.publication,
+        handle = feed.handle,
         url = article.loc,
         headline = article?.['news:news']?.['news:title'],
         timestamp = article?.['news:news']?.['news:publication_date'] || article.lastmod
