@@ -9,8 +9,6 @@ on:
   pull_request:
     branches: [ "main" ]
 
-permissions: read-all|write-all
-
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -22,15 +20,20 @@ jobs:
       with:
         node-version: 14.x
         cache: 'npm'
+        
     - run: npm ci
     - name: Create secrets file
       run: export KEY=${{ secrets.KEY }} && npm run decrypt-secrets
     - run: cat secrets.json
     - run: npm run start
-    - run: |
+    - name: Push changes
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+      run: |
         date > generated.txt
         git config user.name Automated Action
         git config user.email github-actions@github.com
         git add .
         git commit -m "generated"
         git push
+        
