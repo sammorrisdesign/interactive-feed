@@ -16,7 +16,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Create secrets file
-      run: "echo ${{secrets.SECRET_TOKEN}} | sed 's/./& /g'"
+      run: "echo ${{ secrets.SECRETS }} | sed 's/./& /g'"
     - name: Use Node.js 14.x
       uses: actions/setup-node@v3
       with:
