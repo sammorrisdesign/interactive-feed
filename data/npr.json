@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-10T22:25:24.714Z",
+  "lastUpdated": "2022-07-10T23:50:56.847Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "handle": "nprviz",
+      "url": "https://blog.apps.npr.org/2015/10/14/how-to-apply.html",
+      "headline": "How to apply to an internship at NPR Visuals",
+      "timestamp": "2022-07-10T23:50:56.328Z"
+    },
+    {
+      "publication": "NPR",
+      "handle": "nprviz",
+      "url": "https://www.npr.org/2022/05/10/1093066817/ukraine-war-gas-prices-refugees",
+      "headline": "The ripple effects of Russia's war in Ukraine are changing the world",
+      "timestamp": "2022-07-10T23:50:56.328Z"
+    },
     {
       "publication": "NPR",
       "handle": "nprviz",
