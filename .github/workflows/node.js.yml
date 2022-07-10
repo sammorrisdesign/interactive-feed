@@ -24,7 +24,6 @@ jobs:
     - run: npm ci
     - name: Create secrets file
       run: export KEY=${{ secrets.KEY }} && npm run decrypt-secrets
-    - run: cat secrets.json
     - run: npm run start
 
     - uses: stefanzweifel/git-auto-commit-action@v4
