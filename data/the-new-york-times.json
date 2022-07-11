@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-11T09:13:13.446Z",
+  "lastUpdated": "2022-07-11T09:34:38.560Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/11/opinion/immigrants-success-america.html",
+      "headline": "Why So Many Children of Immigrants Rise to the Top",
+      "timestamp": "2022-07-11T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
