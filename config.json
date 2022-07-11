@@ -79,13 +79,6 @@
       "path": "https://fivethirtyeight.com/interactives/feed/"
     },
     {
-      "publication": "San Francisco Chronicle",
-      "handle": "sfchronicle",
-      "type": "XML",
-      "format": "Sitemap",
-      "path": "https://www.sfchronicle.com/projects/sitemap_projects.xml"
-    },
-    {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",
       "type": "XML",
