@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-11T03:46:14.771Z",
+  "lastUpdated": "2022-07-11T07:12:06.990Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/rural-broadband-internet-fcc-11655300008",
+      "headline": "Why Rural Americans Keep Waiting for Fast Internet, Despite Billions Spent",
+      "timestamp": "2022-07-11T07:12:04.654Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",

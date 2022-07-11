@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-10T18:51:40.161Z",
+  "lastUpdated": "2022-07-11T07:12:06.965Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/11/world/americas/amazon-murder-dom-phillips-bruno-pereira.html",
+      "headline": "Inside the Amazon Journey That Left a Journalist and Activist Dead",
+      "timestamp": "2022-07-11T07:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
