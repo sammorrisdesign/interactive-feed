@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-11T09:34:38.560Z",
+  "lastUpdated": "2022-07-11T21:39:16.115Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/11/nyregion/eid-nyc-yemen.html",
+      "headline": "Celebrating Eid, and Yemen, in New York",
+      "timestamp": "2022-07-11T21:36:17.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
