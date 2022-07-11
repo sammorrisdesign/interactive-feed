@@ -1,19 +1,12 @@
-# This workflow will do a clean installation of node dependencies, cache/restore them, build the source code and run tests across different versions of node
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-nodejs-with-github-actions
-
-name: Node.js CI
-
+name: Automated Check
 on:
   schedule:
     - cron: '*/15 * * * *'
-
-  # For manually triggered workflows
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v3
       with:
@@ -23,12 +16,10 @@ jobs:
       with:
         node-version: 14.x
         cache: 'npm'
-
     - run: npm ci
     - name: Create secrets file
       run: export KEY=${{ secrets.KEY }} && npm run decrypt-secrets
     - run: npm run start
-
     - uses: stefanzweifel/git-auto-commit-action@v4
       with:
         commit_message: Automated update of feed
