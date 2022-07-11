@@ -7,6 +7,9 @@ on:
   schedule:
     - cron: '*/5 * * * *'
 
+  # For manually triggered workflows
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
