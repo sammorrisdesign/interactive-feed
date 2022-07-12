@@ -154,8 +154,8 @@
       "publication": "Le Monde",
       "handle": "lemonde",
       "type": "XML",
-      "format": "Sitemap",
-      "path": "https://www.lemonde.fr/sitemap_news.xml",
+      "format": "RSS",
+      "path": "https://www.lemonde.fr/data-visualisation/rss_full.xml",
       "filters": {
         "url": "/les-decodeurs"
       }
