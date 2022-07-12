@@ -139,6 +139,36 @@
       "type": "Twitter",
       "twitterID": "822466626515861506",
       "domain": "www.axios.com"
+    },
+    {
+      "publication": "Kontinentalist",
+      "handle": "konti_sg",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://kontinentalist.com/sitemap-stories.xml",
+      "filters": {
+        "url": "/stories"
+      }
+    },
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://www.lemonde.fr/data-visualisation/rss_full.xml",
+      "filters": {
+        "url": "/les-decodeurs"
+      }
+    },
+    {
+      "publication": "The Straits Times",
+      "handle": "straits_times",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.straitstimes.com/googlenews.xml",
+      "filters": {
+        "url": "/multimedia/graphics"
+      }
     }
   ]
 }
