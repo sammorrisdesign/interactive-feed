@@ -142,7 +142,7 @@
     },
     {
       "publication": "Kontinentalist",
-      "handle": "kontinentalist",
+      "handle": "konti_sg",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://kontinentalist.com/sitemap-stories.xml",
@@ -152,7 +152,7 @@
     },
     {
       "publication": "Le Monde",
-      "handle": "lemonde",
+      "handle": "lemondefr",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.lemonde.fr/data-visualisation/rss_full.xml",
@@ -162,7 +162,7 @@
     },
     {
       "publication": "The Straits Times",
-      "handle": "straitstimes",
+      "handle": "straits_times",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.straitstimes.com/googlenews.xml",
