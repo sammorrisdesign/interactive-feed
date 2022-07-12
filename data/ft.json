@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-10T18:51:40.173Z",
+  "lastUpdated": "2022-07-12T16:27:05.590Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/5ed407bd-ac0d-4293-a0fe-c01dfa15d9d2",
+      "headline": "Tory leadership election tracker",
+      "timestamp": "2022-07-12T15:46:02.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
