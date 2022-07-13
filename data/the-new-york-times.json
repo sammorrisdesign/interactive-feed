@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-12T18:22:42.070Z",
+  "lastUpdated": "2022-07-13T17:44:27.664Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/13/learning/writing-prompts-teenagers-talking.html",
+      "headline": "5 Writing Prompts That Got Teenagers Talking",
+      "timestamp": "2022-07-13T17:25:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/13/us/politics/jan-6-hearings-revelations.html",
+      "headline": "Key Revelations From the Jan. 6 Hearings",
+      "timestamp": "2022-07-13T17:03:59.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
