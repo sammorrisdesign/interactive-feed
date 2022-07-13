@@ -1,6 +1,167 @@
 {
-  "lastUpdated": "2022-07-12T18:48:05.862Z",
+  "lastUpdated": "2022-07-13T19:29:12.243Z",
   "articles": [
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2173461/leaded-airplane-fuel-is-poisoning-a-new-generation-of-americans/",
+      "headline": "Leaded airplane fuel is poisoning a new generation of American children",
+      "timestamp": "2022-06-16T11:01:42.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2158594/do-you-live-near-enough-to-a-small-airport-to-have-lead-exposure/",
+      "headline": "Do you live close enough to a small US airport to have lead exposure? Check our maps",
+      "timestamp": "2022-06-16T11:01:40.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2153221/is-the-electric-hummer-better-for-the-climate-than-gasoline-cars/",
+      "headline": "Is an electric Hummer actually helpful to the climate?",
+      "timestamp": "2022-04-12T11:00:21.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2129098/are-high-rare-earth-prices-good-for-china/",
+      "headline": "Are high rare earth prices good for China?",
+      "timestamp": "2022-03-07T22:00:22.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2126051/entry-level-costs-of-starting-a-winter-olympic-sport/",
+      "headline": "Entry-level costs of starting a Winter Olympic sport",
+      "timestamp": "2022-02-11T18:10:25.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2122792/former-winter-olympic-cities-wont-have-the-snow-to-host-in-2080/",
+      "headline": "Hardly any past Winter Olympic host cities will have the snow to host in 60 years",
+      "timestamp": "2022-02-10T13:03:36.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2123349/what-do-you-know-about-the-winter-olympics/",
+      "headline": "What do you know about the Winter Olympics?",
+      "timestamp": "2022-02-08T16:20:06.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2122264/business-leaders-and-politicians-views-on-crypto-and-big-tech/",
+      "headline": "See which global business leader most closely shares your views on crypto and Big Tech",
+      "timestamp": "2022-02-07T15:35:47.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2120509/how-att-turned-timewarner-into-warnermedia-and-warner-bros-discovery/",
+      "headline": "The history of WarnerMedia now that AT&T is spinning it off",
+      "timestamp": "2022-02-01T18:53:24.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2090824/the-243-most-ambitious-companies-carbon-footprint-reduction-plans/",
+      "headline": "Walmart and IKEA are among the 243 most ambitious companies on reducing emissions",
+      "timestamp": "2022-01-24T10:00:07.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2108874/the-maximum-amount-of-money-you-could-have-made-trading-in-2021/",
+      "headline": "How you could have turned $1,000 into $1.4 trillion by perfectly trading the S&P 500 in 2021",
+      "timestamp": "2022-01-04T09:01:32.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2107712/omicron-variant-understanding-cdcs-cut-to-quarantine-time/",
+      "headline": "New CDC guidance confusing you? Ask our chatbot if you only need a five day quarantine",
+      "timestamp": "2021-12-29T18:05:02.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2102283/the-most-popular-us-library-books-of-2021/",
+      "headline": "The most popular US library books of 2021",
+      "timestamp": "2021-12-22T13:30:18.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2103874/the-cakes-pastries-and-bread-trends-at-us-bakeries-in-2021/",
+      "headline": "The trendy cakes, pastries, and breads sold by US bakeries in 2021",
+      "timestamp": "2021-12-22T13:30:08.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2096606/the-most-popular-wikipedia-page-for-every-day-in-2021/",
+      "headline": "The most popular Wikipedia article for every day in 2021",
+      "timestamp": "2021-12-20T17:31:18.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/work/2093462/calculator-how-much-of-your-income-would-be-covered-by-the-us-paid-leave-proposal/",
+      "headline": "Calculator: How much of your income would be covered by the US paid leave proposal",
+      "timestamp": "2021-12-09T15:06:23.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2098152/how-often-are-supreme-court-decisions-overturned/",
+      "headline": "As the US Supreme Court revisits Roe v. Wade, let’s revisit its history of overturned rulings",
+      "timestamp": "2021-12-04T09:00:42.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/work/2096005/a-list-of-brands-and-artists-virgil-abloh-collaborated-with/",
+      "headline": "Virgil Abloh’s adventurous career, summarized through the brands he worked with",
+      "timestamp": "2021-11-30T08:04:51.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2091136/how-indigenous-food-systems-promote-sustainability/",
+      "headline": "Indigenous knowledge is central to making the global food system sustainable",
+      "timestamp": "2021-11-23T15:50:45.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2088955/us-food-prices-are-rising-take-a-quiz-to-find-out-by-how-much/",
+      "headline": "Guess how much prices on 11 common grocery items have risen in one year",
+      "timestamp": "2021-11-17T11:00:47.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2089111/austria-imposes-lockdown-for-unvaccinated-residents/",
+      "headline": "Austria’s new covid-19 lockdown only applies to the unvaccinated",
+      "timestamp": "2021-11-14T21:53:27.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2087493/how-fibcs-and-super-sacks-are-helping-solve-supply-chain-issues/",
+      "headline": "Shipping companies are turning to a container alternative: industrial bags",
+      "timestamp": "2021-11-11T13:13:14.000Z"
+    },
+    {
+      "publication": "Quartz",
+      "handle": "quartzthings",
+      "url": "https://qz.com/2084753/the-complete-searchable-list-of-people-and-companies-at-cop26/",
+      "headline": "The complete, searchable list of people and companies at COP26",
+      "timestamp": "2021-11-05T07:00:45.000Z"
+    },
     {
       "publication": "Quartz",
       "handle": "quartzthings",
