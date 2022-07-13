@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-07-13T17:44:27.664Z",
+  "lastUpdated": "2022-07-13T19:14:48.109Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-nebraska-us-house-district-1.html",
+      "headline": "Nebraska First Congressional District Special Election Results",
+      "timestamp": "2022-07-13T18:50:09.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado-attorney-general.html",
+      "headline": "Colorado Attorney General Primary Election Results",
+      "timestamp": "2022-07-13T18:50:08.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado-us-house-district-1.html",
+      "headline": "Colorado First Congressional District Primary Election Results",
+      "timestamp": "2022-07-13T18:50:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-new-york-governor.html",
+      "headline": "New York Governor Primary Election Results",
+      "timestamp": "2022-07-13T18:50:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma-governor.html",
+      "headline": "Oklahoma Governor Primary Election Results",
+      "timestamp": "2022-07-13T18:50:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-utah-us-house-district-1.html",
+      "headline": "Utah First Congressional District Primary Election Results",
+      "timestamp": "2022-07-13T18:50:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-14.html",
+      "headline": "Illinois 14th Congressional District Primary Election Results",
+      "timestamp": "2022-07-13T18:50:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma-us-house-district-1.html",
+      "headline": "Oklahoma First Congressional District Primary Election Results",
+      "timestamp": "2022-07-13T18:50:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado-us-house-district-4.html",
+      "headline": "Colorado Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-07-13T18:50:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma-attorney-general.html",
+      "headline": "Oklahoma Attorney General Primary Election Results",
+      "timestamp": "2022-07-13T18:50:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
