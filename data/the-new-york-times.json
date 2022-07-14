@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-14T11:14:52.355Z",
+  "lastUpdated": "2022-07-14T19:37:04.962Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/14/well/live/14HealthQuiz-07142022.html",
+      "headline": "Weekly Health Quiz: Mental Health, College and Chocolate",
+      "timestamp": "2022-07-14T19:14:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
