@@ -169,6 +169,16 @@
       "filters": {
         "url": "/multimedia/graphics"
       }
+    },
+    {
+      "publication": "ESPN",
+      "handle": "ESPN",
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://www.espn.com/espn/rss/news",
+      "filters": {
+        "url": "espn/feature/"
+      }
     }
   ]
 }
