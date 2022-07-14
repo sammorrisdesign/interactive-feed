@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-13T19:14:48.109Z",
+  "lastUpdated": "2022-07-14T05:30:39.571Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/14/opinion/focus-group-pro-choice-supporters.html",
+      "headline": "10 Pro-Choice Voters on Who’s to Blame for the End of Roe",
+      "timestamp": "2022-07-14T05:23:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/14/opinion/focus-group-pro-life-supporters.html",
+      "headline": "‘That’s Between Them and God.’ 12 Pro-Life Voters on Abortion in America.",
+      "timestamp": "2022-07-14T05:22:38.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
