@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-14T09:18:42.533Z",
+  "lastUpdated": "2022-07-14T11:14:52.355Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/14/arts/editors-recommendations-williams.html",
+      "headline": "What’s in Our Queue? Dance and More",
+      "timestamp": "2022-07-14T11:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
