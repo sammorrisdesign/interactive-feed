@@ -10,7 +10,7 @@ You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed).
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-The New York Times, The Washington Post, The Pudding, The Guardian, Quartz, CNN, FT, Politico, Bloomberg, FiveThirtyEight, The Philadelphia Inquirer, South China Morning Post, NBC News, Wall Street Journal, LA Times, Reuters, NPR, Axios, Kontinentalist, Le Monde, and The Straits Times.
+The New York Times, The Washington Post, The Pudding, The Guardian, Quartz, CNN, FT, Politico, Bloomberg, FiveThirtyEight, The Philadelphia Inquirer, South China Morning Post, NBC News, Wall Street Journal, LA Times, Reuters, NPR, Axios, Kontinentalist, Le Monde, The Straits Times, and ESPN.
 
 These are listed in `config.json` and can be added to with a PR. Ideal sources are APIs or specific RSS feeds. You can test whether a publication's feed is working with `npm run test --project="The New York Times"`
 
