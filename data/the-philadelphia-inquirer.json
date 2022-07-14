@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2022-07-12T12:37:58.396Z",
+  "lastUpdated": "2022-07-14T10:20:22.140Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/philadelphia/inq2/philadelphia-loop-program-reassessments-property-taxes-20220714.html",
+      "timestamp": "2022-07-14T09:25:03.757Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/zanzibar-blue-philadelphia-86d-20220714.html",
+      "timestamp": "2022-07-14T09:47:17.830Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/more-perfect-union-maternal-morbidity-philadelphia-doula-20220714.html",
+      "timestamp": "2022-07-14T09:00:01.791Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/zanzibar-blue-shrimp-etouffee-recipe-20220714.html",
+      "timestamp": "2022-07-14T09:00:01.418Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",
