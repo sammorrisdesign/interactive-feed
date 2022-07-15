@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-15T09:17:26.480Z",
+  "lastUpdated": "2022-07-15T15:20:44.275Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/15/briefing/the-weekender.html",
+      "headline": "The Weekender",
+      "timestamp": "2022-07-15T14:44:49.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
