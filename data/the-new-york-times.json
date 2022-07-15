@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-07-14T19:37:04.962Z",
+  "lastUpdated": "2022-07-15T09:17:26.480Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/15/arts/15wkd-thingstodo.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-07-15T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/15/briefing/news-quiz-shinzo-abe-joe-biden-emmys.html",
+      "headline": "The New York Times News Quiz, July 15, 2022",
+      "timestamp": "2022-07-15T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/15/books/review/paperback-row.html",
+      "headline": "6 New Paperback Titles to Read This Week",
+      "timestamp": "2022-07-15T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
