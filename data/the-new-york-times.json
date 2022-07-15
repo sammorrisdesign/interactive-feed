@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-15T15:20:44.275Z",
+  "lastUpdated": "2022-07-15T20:18:56.812Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/15/us/texas-heat.html",
+      "headline": "Living Through Texas’ Hottest Summer",
+      "timestamp": "2022-07-15T20:05:44.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
