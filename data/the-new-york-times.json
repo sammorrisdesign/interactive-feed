@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-16T09:16:44.556Z",
+  "lastUpdated": "2022-07-16T15:17:17.249Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/16/opinion/roe-abortion-alex-citrin.html",
+      "headline": "A Body of One’s Own",
+      "timestamp": "2022-07-16T15:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/16/us/politics/olson-memo-trump-election.html",
+      "headline": "Read William J. Olson’s Memo to Trump",
+      "timestamp": "2022-07-16T14:42:46.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
