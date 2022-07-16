@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-16T07:15:50.546Z",
+  "lastUpdated": "2022-07-16T09:16:44.556Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/16/business/strong-dollar.html",
+      "headline": "The Dollar Is Extremely Strong, Pushing Down the World",
+      "timestamp": "2022-07-16T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
