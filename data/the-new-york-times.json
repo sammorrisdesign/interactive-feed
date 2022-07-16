@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-15T20:18:56.812Z",
+  "lastUpdated": "2022-07-16T07:15:50.546Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/16/world/middleeast/egypt-prisoners.html",
+      "headline": "Egypt’s Revolving Jailhouse Door: One Pretrial Detention After Another",
+      "timestamp": "2022-07-16T07:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
