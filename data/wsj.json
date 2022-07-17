@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-07-17T14:15:31.764Z",
+  "lastUpdated": "2022-07-17T14:38:18.889Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/chicago-vs-dallas-why-the-north-lags-behind-the-south-and-west-in-racial-integration-11657936680",
+      "timestamp": "2022-07-17T14:38:12.039Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
