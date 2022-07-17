@@ -2,24 +2,29 @@ const fetch = require('node-fetch');
 const { XMLParser } = require('fast-xml-parser');
 const { TwitterApi } = require('twitter-api-v2');
 
-const secrets = require('../secrets.json');
 const { Article } = require("./article");
 const utils = require('./utils');
 
 const NewYorkTimesAPI = async(feed) => {
-  const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,type_of_material&sort=newest&api-key=${secrets.nyt.key}`);
-  const data = await response.json();
-  let articles = data.response.docs;
-  articles = articles.filter(article => article.web_url.includes('interactive'));
-  articles = articles.map(article => new Article(
-    publication = feed.publication,
-    handle = feed.handle,
-    url = article.web_url,
-    headline = article.headline.main,
-    timestamp = article.pub_date
-  ));
+  const secrets = await utils.getSecrets();
 
-  return articles;
+  if (secrets) {
+    const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,type_of_material&sort=newest&api-key=${secrets.nyt.key}`);
+    const data = await response.json();
+    let articles = data.response.docs;
+    articles = articles.filter(article => article.web_url.includes('interactive'));
+    articles = articles.map(article => new Article(
+      publication = feed.publication,
+      handle = feed.handle,
+      url = article.web_url,
+      headline = article.headline.main,
+      timestamp = article.pub_date
+    ));
+
+    return articles;
+  } else {
+    console.log("Unable to fetch feed for The New York Times. Please check your secrets.json file");
+  }
 }
 
 const XML = async(feed) => {
@@ -68,48 +73,54 @@ const XML = async(feed) => {
 
 const Twitter = async(feed) => {
   try {
-    const client = new TwitterApi({
-      appKey: secrets.twitter.key,
-      appSecret: secrets.twitter.secret,
-      accessToken: secrets.twitter.accessToken,
-      accessSecret: secrets.twitter.accessSecret,
-    });
+    const secrets = await utils.getSecrets();
 
-    // get all tweets from given account and retweets
-    let { tweets = _realdata.data } = await client.v2.userTimeline(feed.twitterID, { exclude: ['replies'],
-      "expansions": "referenced_tweets.id"
-    });
-    tweets = tweets.map(tweet => tweet.referenced_tweets ? tweet.referenced_tweets[0].id : tweet.id);
-    tweets = await client.v2.tweets(tweets, {
-      "tweet.fields": ["entities"]
-    });
+    if (secrets) {
+      const client = new TwitterApi({
+        appKey: secrets.twitter.key,
+        appSecret: secrets.twitter.secret,
+        accessToken: secrets.twitter.accessToken,
+        accessSecret: secrets.twitter.accessSecret,
+      });
 
-    // get a unique set of links from tweet that match the domain
-    let uniqueLinks = [];
-    let links = tweets.data.flatMap(tweet => tweet?.entities?.urls ? tweet.entities.urls.flatMap(url => {
-      const preferredUrl = utils.cleanURL(url.unwound_url || url.expanded_url);
+      // get all tweets from given account and retweets
+      let { tweets = _realdata.data } = await client.v2.userTimeline(feed.twitterID, { exclude: ['replies'],
+        "expansions": "referenced_tweets.id"
+      });
+      tweets = tweets.map(tweet => tweet.referenced_tweets ? tweet.referenced_tweets[0].id : tweet.id);
+      tweets = await client.v2.tweets(tweets, {
+        "tweet.fields": ["entities"]
+      });
 
-      if (!uniqueLinks.includes(preferredUrl)) {
-        uniqueLinks.push(preferredUrl);
-        return {
-          "url": url.unwound_url || url.expanded_url,
-          "title": url.title
+      // get a unique set of links from tweet that match the domain
+      let uniqueLinks = [];
+      let links = tweets.data.flatMap(tweet => tweet?.entities?.urls ? tweet.entities.urls.flatMap(url => {
+        const preferredUrl = utils.cleanURL(url.unwound_url || url.expanded_url);
+
+        if (!uniqueLinks.includes(preferredUrl)) {
+          uniqueLinks.push(preferredUrl);
+          return {
+            "url": url.unwound_url || url.expanded_url,
+            "title": url.title
+          }
+        } else {
+          return [];
         }
-      } else {
-        return [];
-      }
-    }) : []);
-    links = links.filter(link => link.url.includes(feed.domain));
+      }) : []);
+      links = links.filter(link => link.url.includes(feed.domain));
 
-    let articles = links.map(link => new Article(
-      publication = feed.publication,
-      handle = feed.handle,
-      url = link.url,
-      headline = link.title,
-      timestamp = new Date()
-    ));
+      let articles = links.map(link => new Article(
+        publication = feed.publication,
+        handle = feed.handle,
+        url = link.url,
+        headline = link.title,
+        timestamp = new Date()
+      ));
 
-    return articles;
+      return articles;
+    } else {
+      console.log(`Unable to fetch feed for ${feed.publication}. Please check your secrets.json file`);
+    }
   } catch(e) {
     console.log(e);
   }

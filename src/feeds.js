@@ -74,7 +74,7 @@ module.exports = {
 
     if (newArticles) {
       console.log(newArticles.length, "new articles found");
-      tweet.newArticles(newArticles);
+      await tweet.newArticles(newArticles);
     }
   }
 }

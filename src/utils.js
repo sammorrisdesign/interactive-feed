@@ -12,5 +12,14 @@ module.exports = {
     if (string) {
       return string.replace(/[^\w\s]/gi, '').replace(/ /g, '-').toLowerCase();
     }
+  },
+
+  getSecrets: async() => {
+    try {
+      const config = require('../secrets.json');
+      return config;
+    } catch(e) {
+      return false;
+    }
   }
 }
