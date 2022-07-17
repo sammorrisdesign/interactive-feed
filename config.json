@@ -197,6 +197,13 @@
       "filters": {
         "url": "/visuals"
       }
+    },
+    {
+      "publication": "Texas Tribune",
+      "handle": "TexasTribune",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.texastribune.org/sitemap-data-apps.xml"
     }
   ]
 }
