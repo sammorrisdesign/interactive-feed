@@ -187,6 +187,16 @@
       "type": "Twitter",
       "twitterID": "74987950",
       "domain": "economist.com/interactive"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.nzz.ch/sitemap/news0.xml",
+      "filters": {
+        "url": "/visuals"
+      }
     }
   ]
 }
