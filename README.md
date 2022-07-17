@@ -10,7 +10,7 @@ You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed).
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-The New York Times, The Washington Post, The Pudding, The Guardian, Quartz, CNN, FT, Politico, Bloomberg, FiveThirtyEight, The Philadelphia Inquirer, South China Morning Post, NBC News, Wall Street Journal, LA Times, Reuters, NPR, Axios, Kontinentalist, Le Monde, The Straits Times, and ESPN.
+Axios, Bloomberg, CNN, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, NBC News, NPR, Politico, Quartz, Reuters, San Francisco Chronicle, South China Morning Post, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Washington Post, and WSJ.
 
 These are listed in `config.json` and can be added to with a PR. Ideal sources are APIs or specific RSS feeds. You can test whether a publication's feed is working with `npm run test --project="The New York Times"`
 
@@ -18,7 +18,10 @@ These are listed in `config.json` and can be added to with a PR. Ideal sources a
 ## Missing Publications
 Not all publications have specific feeds or repeatable url structures to get the types of stories we're looking to share. While this isn't a complete list of what's missing, here's some major newsrooms that we don't have hooked up...
 
-Vox, The Verge, SB Nation, ProPublica, USA Today, SF Chronicle, Marshall Project, National Geographic, Minnepolis Star Tribune, Miami Herald, Texas Tribune, The Atlantic, Boston Globe, New Yorker, CBC, Toronto Star, Al Jazeera, The Economist, The City, Le Monde, El Pais, La Nacion, Zeit and many more.
+Al Jazeera, Associated Press, BBC News, Berliner Morgenpost, Bayerischer Rundfunk,
+
+
+Vox, The Verge, SB Nation, ProPublica, USA Today,  Marshall Project, National Geographic, Minnepolis Star Tribune, Miami Herald, Texas Tribune, The Atlantic, Boston Globe, New Yorker, CBC, Toronto Star, Al Jazeera, The Economist, The City, Le Monde, El Pais, La Nacion, Zeit and many more.
 
 Know of how any of these newsrooms can be added? Make a PR!
 Know of any newsrooms we should add? Tweet me [@SamMorrisDesign](https://twitter.com/SamMorrisDesign) or add a GitHub Issue

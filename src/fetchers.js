@@ -125,7 +125,8 @@ const Twitter = async(feed) => {
 
       // get all tweets from given account and retweets
       let { tweets = _realdata.data } = await client.v2.userTimeline(feed.twitterID, { exclude: ['replies'],
-        "expansions": "referenced_tweets.id"
+        "expansions": "referenced_tweets.id",
+        "max_results": 20
       });
       tweets = tweets.map(tweet => tweet.referenced_tweets ? tweet.referenced_tweets[0].id : tweet.id);
       tweets = await client.v2.tweets(tweets, {
@@ -147,6 +148,7 @@ const Twitter = async(feed) => {
           return [];
         }
       }) : []);
+
       links = links.filter(link => link.url.includes(feed.domain));
 
       let articles = links.map(link => new Article(

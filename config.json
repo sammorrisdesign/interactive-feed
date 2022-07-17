@@ -180,6 +180,13 @@
       "filters": {
         "url": "espn/feature/"
       }
+    },
+    {
+      "publication": "The Economist",
+      "handle": "ECONdailycharts",
+      "type": "Twitter",
+      "twitterID": "74987950",
+      "domain": "economist.com/interactive"
     }
   ]
 }
