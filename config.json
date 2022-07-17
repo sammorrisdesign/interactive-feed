@@ -16,9 +16,7 @@
     {
       "publication": "The Guardian",
       "handle": "GuardianVisuals",
-      "type": "XML",
-      "format": "RSS",
-      "path": "https://www.theguardian.com/interactive/rss"
+      "type": "TheGuardianAPI"
     },
     {
       "publication": "Quartz",

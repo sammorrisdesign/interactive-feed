@@ -27,6 +27,27 @@ const NewYorkTimesAPI = async(feed) => {
   }
 }
 
+const TheGuardianAPI = async(feed) => {
+  const secrets = await utils.getSecrets();
+
+  if (secrets) {
+    const response = await fetch(`https://content.guardianapis.com/search?api-key=${secrets.guardian}&type=interactive&q=NOT%20cartoon&order-by=newest`);
+    const data = await response.json();
+    let articles = data.response.results;
+    articles = articles.map(article => new Article(
+      publication = feed.publication,
+      handle = feed.handle,
+      url = article.webUrl,
+      headline = article.webTitle,
+      timestamp = article.webPublicationDate
+    ));
+
+    return articles;
+  } else {
+    console.log("Unable to fetch feed for The Guardian. Please check your secrets.json file");
+  }
+}
+
 const XML = async(feed) => {
   try {
     const parser = new XMLParser();
@@ -128,6 +149,7 @@ const Twitter = async(feed) => {
 
 module.exports = {
   NewYorkTimesAPI: NewYorkTimesAPI,
+  TheGuardianAPI: TheGuardianAPI,
   XML: XML,
   Twitter: Twitter
 }
