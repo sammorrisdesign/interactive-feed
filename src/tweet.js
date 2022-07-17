@@ -1,6 +1,8 @@
 const { TwitterApi } = require('twitter-api-v2');
 const secrets = require("../secrets.json");
 
+const isTweeting = process.env.npm_config_tweet == "true"
+
 const newArticles = articles => {
   const client = new TwitterApi({
     appKey: secrets.twitter.key,
@@ -14,11 +16,15 @@ const newArticles = articles => {
 
     console.log("Tweeting:", tweet);
 
-    client.v2.tweet(tweet).then(val => {
-      console.log(`Successfully tweeted: https://twitter.com/InteractiveFeed/status/${val.data.id}`);
-    }).catch(err => {
-      console.log(err);
-    })
+    if (isTweeting) {
+      client.v2.tweet(tweet).then(val => {
+        console.log(`Successfully tweeted: https://twitter.com/InteractiveFeed/status/${val.data.id}`);
+      }).catch(err => {
+        console.log(err);
+      });
+    } else {
+      console.log("Tweeting is turned off, please use 'npm run start --tweet=true'")
+    }
   }
 }
 

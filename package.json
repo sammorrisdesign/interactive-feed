@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node app.js $npm_config_tweet",
     "test": "node src/test.js $npm_config_publication",
     "encrypt-secrets": "openssl aes-256-cbc -e -md sha256 -in ./secrets.json -out ./encrypted-secrets -k $KEY",
     "decrypt-secrets": "openssl aes-256-cbc -d -md sha256 -in ./encrypted-secrets -out ./secrets.json -k $KEY"
