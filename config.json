@@ -67,7 +67,10 @@
       "handle": "BBGVisualData",
       "type": "XML",
       "format": "Sitemap",
-      "path": "https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml"
+      "path": "https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml",
+      "filters": {
+        "url": "/graphics"
+      }
     },
     {
       "publication": "FiveThirtyEight",
