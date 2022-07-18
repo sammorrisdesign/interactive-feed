@@ -211,6 +211,13 @@
       "type": "Twitter",
       "twitterID": "1362370976",
       "domain": "elpais.com"
+    },
+    {
+      "publication": "La Vanguardia",
+      "handle": "WebVanguardia",
+      "type": "Twitter",
+      "twitterID": "1346043480980803584",
+      "domain": "stories.lavanguardia.com"
     }
   ]
 }
