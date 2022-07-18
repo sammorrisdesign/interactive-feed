@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-07-18T15:25:45.521Z",
+  "lastUpdated": "2022-07-18T17:45:24.741Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-south-carolina-us-senate-runoff.html",
+      "headline": "South Carolina U.S. Senate Primary Runoff Election Results",
+      "timestamp": "2022-07-18T17:08:30.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-17.html",
+      "headline": "Illinois 17th Congressional District Primary Election Results",
+      "timestamp": "2022-07-18T17:08:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-utah-us-senate.html",
+      "headline": "Utah U.S. Senate Primary Election Results",
+      "timestamp": "2022-07-18T17:08:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma-us-senate.html",
+      "headline": "Oklahoma U.S. Senate Primary Election Results",
+      "timestamp": "2022-07-18T17:08:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-10.html",
+      "headline": "Illinois 10th Congressional District Primary Election Results",
+      "timestamp": "2022-07-18T17:08:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-utah.html",
+      "headline": "Utah Primary Election Results",
+      "timestamp": "2022-07-18T17:08:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-4.html",
+      "headline": "Illinois Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-07-18T17:08:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-new-york-attorney-general.html",
+      "headline": "New York Attorney General Primary Election Results",
+      "timestamp": "2022-07-18T17:08:19.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado-us-house-district-8.html",
+      "headline": "Colorado Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-07-18T17:08:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-attorney-general.html",
+      "headline": "Illinois Attorney General Primary Election Results",
+      "timestamp": "2022-07-18T17:08:16.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
