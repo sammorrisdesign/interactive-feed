@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-18T06:50:52.984Z",
+  "lastUpdated": "2022-07-18T14:19:15.864Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/baby-formula-shortage-spurs-stockpiling-data-show-11655213065",
+      "headline": "Baby Formula Shortage Spurs Stockpiling, Data Show",
+      "timestamp": "2022-07-18T14:19:06.398Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
