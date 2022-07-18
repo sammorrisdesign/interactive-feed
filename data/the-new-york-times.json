@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-16T15:17:17.249Z",
+  "lastUpdated": "2022-07-18T09:17:40.644Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/18/magazine/herman-daly-interview.html",
+      "headline": "This Pioneering Economist Says Our Obsession With Growth Must End",
+      "timestamp": "2022-07-18T09:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
