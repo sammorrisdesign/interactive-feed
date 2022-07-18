@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-18T09:17:40.644Z",
+  "lastUpdated": "2022-07-18T15:25:45.521Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/18/us/stamps-price.html",
+      "headline": "It Costs More to Mail a Letter",
+      "timestamp": "2022-07-18T15:13:11.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
