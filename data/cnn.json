@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-17T23:16:48.024Z",
+  "lastUpdated": "2022-07-18T05:30:21.362Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2020/health/coronavirus-questions-answers/",
+      "headline": "What's this new variant BA.5, and is it worse than the Omicron variant?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
