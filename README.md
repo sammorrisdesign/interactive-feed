@@ -10,7 +10,7 @@ You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed).
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-Axios, Bloomberg, CNN, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, NBC News, NPR, NZZ, Politico, Quartz, Reuters, San Francisco Chronicle, South China Morning Post, Texas Tribune, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Washington Post, and WSJ.
+Axios, Bloomberg, CNN, El País, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, NBC News, NPR, NZZ, Politico, Quartz, Reuters, San Francisco Chronicle, South China Morning Post, Texas Tribune, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Washington Post, and WSJ.
 
 These are listed in `config.json` and can be added to with a PR. Ideal sources are APIs or specific RSS feeds. You can test whether a publication's feed is working with `npm run test --project="The New York Times"`
 
@@ -18,9 +18,7 @@ These are listed in `config.json` and can be added to with a PR. Ideal sources a
 ## Missing Publications
 Not all publications have specific feeds or repeatable url structures to get the types of stories we're looking to share. While this isn't a complete list of what's missing, here's some major newsrooms that we don't have hooked up...
 
-Al Jazeera, Associated Press, BBC News, Berliner Morgenpost, Bayerischer Rundfunk, El Diario, Helsingin Sanomat, National Geographic, Radio Canada, SRF, Süddeutsche Zeitung, Tampa Bay Times,
-
-Seattle Times, Vox, The Verge, SB Nation, ProPublica, USA Today,  Marshall Project, National Geographic, Minnepolis Star Tribune, Miami Herald, Texas Tribune, The Atlantic, Boston Globe, New Yorker, CBC, Toronto Star, The City, Le Monde, El Pais, La Nacion, Zeit and many more.
+Al Jazeera, Associated Press, Bayerischer Rundfunk, BBC News, Berliner Morgenpost, Boston Globe, CBC, El Diario, Helsingin Sanomat, Le Monde, Le Nacion, Insider, Marshall Project, Minnepolis Star Tribune, Miami Herald, National Geographic, ProPublica, Radio Canada, SB Nation,Seattle Times, SRF, Süddeutsche Zeitung, Tampa Bay Times, The Atlantic, The City, The New Yorker, The Verge, The Times of London, Toronto Star, USA Today, Vox, Zeit
 
 Know of how any of these newsrooms can be added? Make a PR!
 Know of any newsrooms we should add? Tweet me [@SamMorrisDesign](https://twitter.com/SamMorrisDesign) or add a GitHub Issue

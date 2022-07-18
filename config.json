@@ -204,6 +204,13 @@
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.texastribune.org/sitemap-data-apps.xml"
+    },
+    {
+      "publication": "El País",
+      "handle": "elpais_info",
+      "type": "Twitter",
+      "twitterID": "1362370976",
+      "domain": "elpais.com"
     }
   ]
 }
