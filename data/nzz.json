@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-07-17T21:57:18.468Z",
+  "lastUpdated": "2022-07-18T07:39:00.805Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/coronavirus-weltweit-die-wichtigsten-grafiken-ld.1608094",
+      "headline": "Die wichtigsten Daten und Fakten zum Coronavirus weltweit in Grafiken",
+      "timestamp": "2022-07-18T07:22:11.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/corona-impfung-wie-schnell-die-laender-impfen-eine-uebersicht-ld.1599814",
+      "headline": "So schnell impft die Welt gegen Corona",
+      "timestamp": "2022-07-18T07:20:23.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/wie-sich-der-ukraine-krieg-auf-die-preise-und-die-wirtschaft-auswirkt-ld.1674617",
+      "headline": "Wie sich der Ukraine-Krieg auf die Preise und die Wirtschaft auswirkt",
+      "timestamp": "2022-07-18T07:19:41.000Z"
+    },
     {
       "publication": "NZZ",
       "handle": "??",
