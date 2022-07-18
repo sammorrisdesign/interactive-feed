@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-18T17:45:24.741Z",
+  "lastUpdated": "2022-07-18T22:41:08.183Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/18/us/uvalde-police-response.html",
+      "headline": "How the Police Response Story Changed in Uvalde",
+      "timestamp": "2022-07-18T22:33:55.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
