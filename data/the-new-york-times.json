@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2022-07-19T21:39:43.973Z",
+  "lastUpdated": "2022-07-19T23:17:54.866Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-house-district-1.html",
+      "headline": "Maryland First Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T22:51:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma.html",
+      "headline": "Oklahoma Primary Election Results",
+      "timestamp": "2022-07-19T22:50:29.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado-us-house-district-7.html",
+      "headline": "Colorado Seventh Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T22:50:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-15.html",
+      "headline": "Illinois 15th Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T22:50:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-south-carolina-runoff.html",
+      "headline": "South Carolina Primary Runoff Election Results",
+      "timestamp": "2022-07-19T22:50:21.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma-lieutenant-governor.html",
+      "headline": "Oklahoma Lieutenant Governor Primary Election Results",
+      "timestamp": "2022-07-19T22:50:20.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
