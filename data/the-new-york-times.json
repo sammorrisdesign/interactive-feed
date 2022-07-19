@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-19T14:42:55.829Z",
+  "lastUpdated": "2022-07-19T18:49:14.181Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/world/europe/uk-europe-heat-map.html",
+      "headline": "Mapping Europe’s Heat Wave",
+      "timestamp": "2022-07-19T18:39:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
