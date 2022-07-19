@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2022-07-19T09:19:22.169Z",
+  "lastUpdated": "2022-07-19T14:42:55.829Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/science/science-quiz-webb-universe.html",
+      "headline": "Which of the following can the new James Webb Space Telescope not observe?",
+      "timestamp": "2022-07-19T14:27:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma-us-house-district-5.html",
+      "headline": "Oklahoma Fifth Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T14:22:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma-us-house-district-3.html",
+      "headline": "Oklahoma Third Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T14:22:52.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois.html",
+      "headline": "Illinois Primary Election Results",
+      "timestamp": "2022-07-19T14:22:50.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-utah-us-house-district-2.html",
+      "headline": "Utah Second Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T14:22:49.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-mississippi-runoff.html",
+      "headline": "Mississippi Primary Runoff Election Results",
+      "timestamp": "2022-07-19T14:22:48.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
