@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-18T23:17:20.673Z",
+  "lastUpdated": "2022-07-19T09:19:22.169Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/climate/climate-us-government-poll.html",
+      "headline": "Which Elected Leaders Should Do More on Climate? Here’s What Americans Say.",
+      "timestamp": "2022-07-19T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
