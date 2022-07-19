@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2022-07-19T18:49:14.181Z",
+  "lastUpdated": "2022-07-19T21:16:21.913Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-oklahoma-us-senate-special-primary.html",
+      "headline": "Oklahoma U.S. Senate Special Primary Election Results",
+      "timestamp": "2022-07-19T21:07:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-1.html",
+      "headline": "Illinois First Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T21:07:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-mississippi-us-house-district-3.html",
+      "headline": "Mississippi Third Congressional District Runoff Election Results",
+      "timestamp": "2022-07-19T21:07:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-governor.html",
+      "headline": "Illinois Governor Primary Election Results",
+      "timestamp": "2022-07-19T21:07:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado.html",
+      "headline": "Colorado Primary Election Results",
+      "timestamp": "2022-07-19T21:07:39.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-5.html",
+      "headline": "Illinois Fifth Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T21:07:39.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado-us-house-district-3.html",
+      "headline": "Colorado Third Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T21:07:37.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-13.html",
+      "headline": "Illinois 13th Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T21:07:37.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-3.html",
+      "headline": "Illinois Third Congressional District Primary Election Results",
+      "timestamp": "2022-07-19T21:07:36.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
