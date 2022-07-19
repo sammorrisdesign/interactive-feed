@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-19T21:16:21.913Z",
+  "lastUpdated": "2022-07-19T21:39:43.973Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/nyregion/Support-Ukraine-movement-nyc.html",
+      "headline": "Ukrainian D.J. Spins Rare Music in N.Y.C. ",
+      "timestamp": "2022-07-19T21:20:29.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
