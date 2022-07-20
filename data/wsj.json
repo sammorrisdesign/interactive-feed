@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-19T22:17:46.672Z",
+  "lastUpdated": "2022-07-20T13:42:46.977Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/europes-record-breaking-heat-wave-scorches-the-continent-11658312621",
+      "headline": "Europe’s Record-Breaking Heat Wave Scorches the Continent",
+      "timestamp": "2022-07-20T13:42:36.215Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
