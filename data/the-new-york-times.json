@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-20T15:43:47.748Z",
+  "lastUpdated": "2022-07-20T17:44:14.146Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/20/well/live/dehydration-heat-advice.html",
+      "headline": "Five Signs You Might Be Dehydrated",
+      "timestamp": "2022-07-20T17:40:57.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
