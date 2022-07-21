@@ -38,7 +38,7 @@
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",
-      "type": "TheWashingtonPost",
+      "type": "XML",
       "format": "Sitemap",
       "path": "https://www.washingtonpost.com/arcio/news-sitemap/",
       "filters": {
