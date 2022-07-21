@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-21T19:15:30.706Z",
+  "lastUpdated": "2022-07-21T21:18:13.685Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/21/well/live/21HealthQuiz-07212022.html",
+      "headline": "Weekly Health Quiz: Parechovirus, Childhood Immunization and Dental Health",
+      "timestamp": "2022-07-21T20:58:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
