@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-20T17:44:14.146Z",
+  "lastUpdated": "2022-07-21T09:17:29.432Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/21/realestate/21hunt-jensen.html",
+      "headline": "Holding Out for the Right Fit in Brooklyn. Which Apartment Did She Choose?",
+      "timestamp": "2022-07-21T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/21/opinion/nyt-columnists-i-was-wrong.html",
+      "headline": "The New York Times's Columnists on What They Got Wrong",
+      "timestamp": "2022-07-21T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
