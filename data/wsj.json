@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-20T13:42:46.977Z",
+  "lastUpdated": "2022-07-21T13:40:18.974Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/high-temperatures-affect-human-body-11658262757",
+      "headline": "How Heat Waves and Record-Breaking Temperatures Can Affect Your Health",
+      "timestamp": "2022-07-21T13:40:08.682Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
