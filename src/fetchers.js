@@ -48,25 +48,6 @@ const TheGuardianAPI = async(feed) => {
   }
 }
 
-const TheWashingtonPost = async(feed) => {
-  const secrets = await utils.getSecrets();
-
-  if (secrets) {
-    const response = await fetch(secrets.waPo);
-    let articles = await response.json();
-    articles = articles.filter(article => article.published == true && article.template == 'Custom template');
-    articles = articles.map(article => new Article(
-      publication = feed.publication,
-      handle = feed.handle,
-      url = "https://www.washingtonpost.com/" + article.canonical_url,
-      headline = article.headlines.basic,
-      timestamp = article.first_publish_date
-    ));
-
-    return articles;
-  }
-}
-
 const XML = async(feed) => {
   try {
     const parser = new XMLParser();
@@ -171,7 +152,6 @@ const Twitter = async(feed) => {
 module.exports = {
   NewYorkTimesAPI: NewYorkTimesAPI,
   TheGuardianAPI: TheGuardianAPI,
-  TheWashingtonPost: TheWashingtonPost,
   XML: XML,
   Twitter: Twitter
 }
