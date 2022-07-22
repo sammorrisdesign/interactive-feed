@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-22T18:23:47.781Z",
+  "lastUpdated": "2022-07-22T21:16:19.840Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/22/books/review/paperback-row-22.html",
+      "headline": "6 New Paperbacks to Read This Week",
+      "timestamp": "2022-07-22T20:47:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
