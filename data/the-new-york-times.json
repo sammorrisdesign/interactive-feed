@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-21T21:18:13.685Z",
+  "lastUpdated": "2022-07-22T03:50:16.549Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/21/arts/design/mexico-city-street-food-signs.html",
+      "headline": "The Ephemeral Art of Mexico City’s Food Stalls",
+      "timestamp": "2022-07-22T03:40:44.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
