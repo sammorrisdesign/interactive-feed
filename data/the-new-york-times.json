@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-22T03:50:16.549Z",
+  "lastUpdated": "2022-07-22T09:17:52.871Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/22/arts/weekend-editors-picks-nope.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-07-22T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/22/briefing/news-quiz-britain-heat-claes-oldenburg.html",
+      "headline": "The New York Times News Quiz, July 22, 2022",
+      "timestamp": "2022-07-22T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
