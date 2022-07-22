@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-22T14:18:31.995Z",
+  "lastUpdated": "2022-07-22T16:29:46.552Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/22/smarter-living/wirecutter/mosquitoes-outside.html",
+      "headline": "How to Stop Mosquitoes Outside",
+      "timestamp": "2022-07-22T15:58:59.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
