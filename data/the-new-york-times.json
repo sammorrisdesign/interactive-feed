@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-22T17:06:08.620Z",
+  "lastUpdated": "2022-07-22T18:23:47.781Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/22/books/review/literary-trivia-graphic-novels.html",
+      "headline": "Lit Trivia: Graphic Memoirs",
+      "timestamp": "2022-07-22T18:22:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
