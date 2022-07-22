@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-22T09:17:52.871Z",
+  "lastUpdated": "2022-07-22T13:36:48.288Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/22/sports/baseball/david-ortiz-hall-of-fame.html",
+      "headline": "The Baseball Hall of Fame’s New Members",
+      "timestamp": "2022-07-22T13:28:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
