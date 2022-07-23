@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-20T05:42:27.580Z",
+  "lastUpdated": "2022-07-23T09:17:15.590Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/afdc756d-a6da-4482-8d9b-d9c22fdc8968",
+      "headline": "Rising rents mean no shelter for Americans from inflation storm",
+      "timestamp": "2022-07-23T09:00:24.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
