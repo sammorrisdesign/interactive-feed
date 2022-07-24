@@ -80,9 +80,15 @@ const XML = async(feed) => {
       ));
     }
 
-    if (feed.filters) {
-      for (const key of Object.keys(feed.filters)) {
-        articles = articles.filter(article => article[key].includes(feed.filters[key]));
+    if (feed?.filters?.in) {
+      for (const key of Object.keys(feed.filters.in)) {
+        articles = articles.filter(article => article[key].includes(feed.filters.in[key]));
+      }
+    }
+
+    if (feed?.filters?.out) {
+      for (const key of Object.keys(feed.filters.out)) {
+        articles = articles.filter(article => !article[key].includes(feed.filters.out[key]))
       }
     }
 
