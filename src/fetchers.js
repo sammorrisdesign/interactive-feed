@@ -21,6 +21,12 @@ const NewYorkTimesAPI = async(feed) => {
       timestamp = article.pub_date
     ));
 
+    // filter out recurring features
+    articles = articles.filter(article => !article.headline.includes("New Paperbacks"));
+    articles = articles.filter(article => !article.headline.includes("The Best of Late Night"));
+    articles = articles.filter(article => !article.headline.includes("To Do This Weekend"));
+    articles = articles.filter(article => !article.headline.includes("News Quiz"));
+
     return articles;
   } else {
     console.log("Unable to fetch feed for The New York Times. Please check your secrets.json file");
