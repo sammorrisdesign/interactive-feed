@@ -218,6 +218,13 @@
       "type": "Twitter",
       "twitterID": "1346043480980803584",
       "domain": "stories.lavanguardia.com"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "type": "XML",
+      "format": "Sitemap",
+      "path": "https://www.houstonchronicle.com/projects/sitemap_projects.xml"
     }
   ]
 }
