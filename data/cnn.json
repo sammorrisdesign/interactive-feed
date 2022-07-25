@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-22T19:14:43.946Z",
+  "lastUpdated": "2022-07-25T15:19:25.807Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/politics/us-redistricting/",
+      "headline": "What redistricting looks like across the country",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
