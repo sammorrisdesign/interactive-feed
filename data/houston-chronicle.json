@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-07-25T16:25:49.960Z",
+  "lastUpdated": "2022-07-25T22:17:06.353Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/best-houston-burgers-poll/",
+      "timestamp": "2022-07-25T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
