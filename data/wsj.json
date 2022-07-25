@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-07-23T06:21:50.659Z",
+  "lastUpdated": "2022-07-25T15:45:43.867Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/nonprofit-hospitals-vs-for-profit-charity-care-spending-11657936777",
+      "timestamp": "2022-07-25T15:45:33.386Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
