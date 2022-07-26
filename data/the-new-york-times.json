@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-26T15:20:26.739Z",
+  "lastUpdated": "2022-07-26T22:41:44.185Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/26/us/american-sign-language-changes.html",
+      "headline": "How Sign Language Evolves as Our World Does",
+      "timestamp": "2022-07-26T22:34:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
