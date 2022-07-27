@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-07-27T15:20:05.090Z",
+  "lastUpdated": "2022-07-27T15:43:50.120Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-persian-restaurants/",
+      "timestamp": "2022-07-27T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
