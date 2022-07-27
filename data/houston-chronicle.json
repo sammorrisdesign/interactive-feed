@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-07-27T16:27:52.076Z",
+  "lastUpdated": "2022-07-27T17:46:59.210Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-ercot-load-dashboard/",
+      "timestamp": "2022-07-27T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
