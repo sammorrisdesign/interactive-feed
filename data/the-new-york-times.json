@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-26T22:41:44.185Z",
+  "lastUpdated": "2022-07-27T09:17:29.408Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/27/magazine/barbados-climate-debt-mia-mottley.html",
+      "headline": "The Barbados Rebellion: An Island Nation’s Fight for Climate Justice",
+      "timestamp": "2022-07-27T09:07:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
