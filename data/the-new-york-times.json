@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-28T09:18:13.216Z",
+  "lastUpdated": "2022-07-28T20:20:06.802Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/28/smarter-living/wirecutter/clean-coffee-grinder.html",
+      "headline": "How to Clean Your Burr Coffee Grinder",
+      "timestamp": "2022-07-28T19:44:34.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/28/learning/favorite-student-picture-prompts.html",
+      "headline": "Picture Prompts: An Invitation to Write",
+      "timestamp": "2022-07-28T19:43:20.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
