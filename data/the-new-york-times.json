@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-28T05:26:10.750Z",
+  "lastUpdated": "2022-07-28T09:18:13.216Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/28/realestate/28hunt-burgess.html",
+      "headline": "Planning Her Golden Years in the Golden State: What Could She Afford?",
+      "timestamp": "2022-07-28T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/28/arts/comedian-water-bottle-standup.html",
+      "headline": "What’s the Deal With Water Bottles?",
+      "timestamp": "2022-07-28T09:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
