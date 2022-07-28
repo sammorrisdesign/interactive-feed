@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-28T03:44:19.715Z",
+  "lastUpdated": "2022-07-28T05:26:10.750Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/28/opinion/focus-group-political-division.html",
+      "headline": "What Happened When 7 Trump Voters and 6 Biden Voters Tried to Find Common Ground",
+      "timestamp": "2022-07-28T05:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
