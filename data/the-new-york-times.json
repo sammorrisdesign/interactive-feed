@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-29T09:18:18.492Z",
+  "lastUpdated": "2022-07-29T13:39:35.333Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/29/books/review/title-search-classic-thrillers.html",
+      "headline": "Title Search: How Well Do You Know Classic Thrillers?",
+      "timestamp": "2022-07-29T13:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
