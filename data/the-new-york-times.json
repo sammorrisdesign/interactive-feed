@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-28T20:20:06.802Z",
+  "lastUpdated": "2022-07-29T09:18:18.492Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/29/books/review/paperbackrow.html",
+      "headline": "6 Paperbacks to Read This Week",
+      "timestamp": "2022-07-29T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/29/arts/weekend-editors-picks-oresteia-park-avenue-armory.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-07-29T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
