@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-25T15:19:25.807Z",
+  "lastUpdated": "2022-07-29T20:18:53.014Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/07/us/cnn-5-things-news-quiz-july-28-sec/",
+      "headline": "Think you know the week's news? Take our quiz",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
