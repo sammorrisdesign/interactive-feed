@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-29T19:14:50.160Z",
+  "lastUpdated": "2022-07-30T09:16:28.664Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/30/style/powwow-season.html",
+      "headline": "Powwow Fashion",
+      "timestamp": "2022-07-30T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
