@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2022-08-01T17:45:48.465Z",
+  "lastUpdated": "2022-08-01T22:19:46.835Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado-us-senate.html",
+      "headline": "Colorado U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-01T22:05:09.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-9.html",
+      "headline": "Illinois Ninth Congressional District Primary Election Results",
+      "timestamp": "2022-08-01T22:05:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-house-district-7.html",
+      "headline": "Maryland Seventh Congressional District Primary Election Results",
+      "timestamp": "2022-08-01T22:05:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-16.html",
+      "headline": "Illinois 16th Congressional District Primary Election Results",
+      "timestamp": "2022-08-01T22:05:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-senate.html",
+      "headline": "Illinois U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-01T22:05:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-new-york-us-senate.html",
+      "headline": "New York U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-01T22:05:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
