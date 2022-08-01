@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-01T16:26:37.388Z",
+  "lastUpdated": "2022-08-01T17:45:48.465Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/01/sports/football/deshaun-watson-suspension-decision.html",
+      "headline": "Read the Judge’s Decision Suspending Deshaun Watson",
+      "timestamp": "2022-08-01T17:19:35.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
