@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-08-02T19:14:28.262Z",
+  "lastUpdated": "2022-08-02T21:16:01.501Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-arizona-michigan-missouri-kansas-washington.html",
+      "headline": "Live Primary Results: Tonight’s Key Races",
+      "timestamp": "2022-08-02T21:13:43.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-arizona.html",
+      "headline": "Arizona Primary Election Results",
+      "timestamp": "2022-08-02T21:12:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-kansas.html",
+      "headline": "Kansas Primary Election Results",
+      "timestamp": "2022-08-02T21:12:12.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-washington.html",
+      "headline": "Washington Primary Election Results",
+      "timestamp": "2022-08-02T21:11:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-michigan.html",
+      "headline": "Michigan Primary Election Results",
+      "timestamp": "2022-08-02T21:11:52.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-missouri.html",
+      "headline": "Missouri Primary Election Results",
+      "timestamp": "2022-08-02T21:11:49.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-ohio.html",
+      "headline": "Ohio State Legislature Primary Election Results",
+      "timestamp": "2022-08-02T21:11:43.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-arizona-attorney-general.html",
+      "headline": "Arizona Attorney General Primary Election Results",
+      "timestamp": "2022-08-02T21:07:35.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-missouri-us-house-district-7.html",
+      "headline": "Missouri Seventh Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T21:07:34.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-michigan-us-house-district-13.html",
+      "headline": "Michigan 13th Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T21:07:33.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
