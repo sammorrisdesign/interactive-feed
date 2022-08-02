@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-08-02T09:17:09.867Z",
+  "lastUpdated": "2022-08-02T16:24:36.388Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/politics/midterm-election-themes.html",
+      "headline": "Key Themes From the 2022 Midterms",
+      "timestamp": "2022-08-02T16:23:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-6.html",
+      "headline": "Illinois Sixth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T16:18:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-mississippi-us-house-district-4.html",
+      "headline": "Mississippi Fourth Congressional District Runoff Election Results",
+      "timestamp": "2022-08-02T16:18:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
