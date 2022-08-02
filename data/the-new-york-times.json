@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-08-02T18:46:41.595Z",
+  "lastUpdated": "2022-08-02T19:14:28.262Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-colorado-us-house-district-6.html",
+      "headline": "Colorado Sixth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T19:05:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-7.html",
+      "headline": "Illinois Seventh Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T19:05:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/06/28/us/elections/results-illinois-us-house-district-2.html",
+      "headline": "Illinois Second Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T19:04:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
