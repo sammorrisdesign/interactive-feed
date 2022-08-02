@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-25T15:45:43.867Z",
+  "lastUpdated": "2022-08-02T15:43:25.166Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/shark-attacks-u-s-2022-total-11659383437",
+      "headline": "Shark Attacks in U.S. Total 28 So Far This Year",
+      "timestamp": "2022-08-02T15:43:14.162Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
