@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2022-08-02T16:24:36.388Z",
+  "lastUpdated": "2022-08-02T18:22:12.086Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-house-district-6.html",
+      "headline": "Maryland Sixth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T18:02:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-house-district-3.html",
+      "headline": "Maryland Third Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T18:02:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-house-district-5.html",
+      "headline": "Maryland Fifth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T18:02:39.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-house-district-2.html",
+      "headline": "Maryland Second Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T18:02:35.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-house-district-4.html",
+      "headline": "Maryland Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T18:02:33.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-house-district-8.html",
+      "headline": "Maryland Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T18:02:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-us-senate.html",
+      "headline": "Maryland U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-02T18:02:30.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-governor.html",
+      "headline": "Maryland Governor Primary Election Results",
+      "timestamp": "2022-08-02T18:02:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
