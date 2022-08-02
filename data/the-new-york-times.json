@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-01T22:19:46.835Z",
+  "lastUpdated": "2022-08-02T09:17:09.867Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/world/americas/brazil-airstrips-illegal-mining.html",
+      "headline": "The Secret Airstrips Behind Brazil’s Illegal Mining Crisis",
+      "timestamp": "2022-08-02T09:00:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/climate/manchin-deal-emissions-cuts.html",
+      "headline": "How the New Climate Bill Would Reduce Emissions",
+      "timestamp": "2022-08-02T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
