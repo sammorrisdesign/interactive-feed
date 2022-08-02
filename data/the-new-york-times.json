@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2022-08-02T22:43:32.579Z",
+  "lastUpdated": "2022-08-02T23:18:19.980Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-michigan-us-house-district-9.html",
+      "headline": "Michigan Ninth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T23:10:28.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-michigan-us-house-district-3.html",
+      "headline": "Michigan Third Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T23:10:28.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-arizona-us-house-district-4.html",
+      "headline": "Arizona Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T23:10:28.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-michigan-us-house-district-10.html",
+      "headline": "Michigan 10th Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T23:10:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-kansas-abortion-amendment.html",
+      "headline": "Kansas Abortion Amendment Election Results ",
+      "timestamp": "2022-08-02T23:10:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-michigan-us-house-district-6.html",
+      "headline": "Michigan Sixth Congressional District Primary Election Results",
+      "timestamp": "2022-08-02T23:10:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-washington-us-senate.html",
+      "headline": "Washington U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-02T23:10:25.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
