@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-02T12:39:45.308Z",
+  "lastUpdated": "2022-08-03T06:47:50.387Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "handle": "GuardianVisuals",
+      "url": "https://www.theguardian.com/australia-news/datablog/ng-interactive/2022/aug/03/covid-19-daily-cases-australia-today-vaccine-data-tracker-deaths-per-day-hospitalisations-coronavirus-tracking-stats-live-update",
+      "headline": "Covid-19 Australia data tracker: coronavirus cases today, deaths, hospitalisations and vaccination",
+      "timestamp": "2022-08-03T06:42:14.000Z"
+    },
     {
       "publication": "The Guardian",
       "handle": "GuardianVisuals",
