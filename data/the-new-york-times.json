@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-03T19:14:43.629Z",
+  "lastUpdated": "2022-08-03T21:16:17.031Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/03/us/elections/kansas-abortion-vote-county-map.html",
+      "headline": "Where Trump Counties in Kansas Chose to Preserve Abortion Rights",
+      "timestamp": "2022-08-03T20:54:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
