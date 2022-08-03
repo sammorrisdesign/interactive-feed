@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-03T01:49:25.582Z",
+  "lastUpdated": "2022-08-03T07:38:32.591Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/03/sports/baseball/vin-scully-quotes.html",
+      "headline": "Five of Vin Scully’s Most Memorable Calls",
+      "timestamp": "2022-08-03T07:19:58.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
