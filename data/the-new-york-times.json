@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-08-03T18:47:12.076Z",
+  "lastUpdated": "2022-08-03T19:14:43.629Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/07/19/us/elections/results-maryland-attorney-general.html",
+      "headline": "Maryland Attorney General Primary Election Results",
+      "timestamp": "2022-08-03T19:06:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-missouri-us-house-district-1.html",
+      "headline": "Missouri First Congressional District Primary Election Results",
+      "timestamp": "2022-08-03T19:06:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-washington-us-house-district-4.html",
+      "headline": "Washington Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-08-03T19:06:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
