@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2022-08-02T23:40:59.743Z",
+  "lastUpdated": "2022-08-03T01:49:25.582Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-washington-us-house-district-2.html",
+      "headline": "Washington Second Congressional District Primary Election Results",
+      "timestamp": "2022-08-03T01:32:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-arizona-us-house-district-3.html",
+      "headline": "Arizona Third Congressional District Primary Election Results",
+      "timestamp": "2022-08-03T01:32:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-washington-us-house-district-1.html",
+      "headline": "Washington First Congressional District Primary Election Results",
+      "timestamp": "2022-08-03T01:31:59.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-arizona-us-house-district-9.html",
+      "headline": "Arizona Ninth Congressional District Primary Election Results",
+      "timestamp": "2022-08-03T01:31:58.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-arizona-us-house-district-7.html",
+      "headline": "Arizona Seventh Congressional District Primary Election Results",
+      "timestamp": "2022-08-03T01:31:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/02/us/elections/results-arizona-state-senate-district-7.html",
+      "headline": "Arizona  State Senate 7th District Primary Election Results",
+      "timestamp": "2022-08-03T01:31:54.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
