@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-03T16:25:55.139Z",
+  "lastUpdated": "2022-08-03T18:47:12.076Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/03/arts/editors-recommendations-bear.html",
+      "headline": "What’s in Our Queue? ‘The Bear’ and More",
+      "timestamp": "2022-08-03T18:32:37.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
