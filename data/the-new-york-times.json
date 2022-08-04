@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-03T21:16:17.031Z",
+  "lastUpdated": "2022-08-04T09:17:31.047Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/realestate/04hunt-chatterjee.html",
+      "headline": "From a Queens House to a Manhattan Studio With $400,000. Which One Did They Choose?",
+      "timestamp": "2022-08-04T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/well/denmark-happiness-resilience.html",
+      "headline": "3 Scandanavian Secrets to Resilience",
+      "timestamp": "2022-08-04T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
