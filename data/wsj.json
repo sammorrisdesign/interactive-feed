@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-02T15:43:25.166Z",
+  "lastUpdated": "2022-08-04T20:19:45.571Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/gun-trafficking-state-laws-11659539201",
+      "headline": "Gun Trafficking Surges Across State Lines: One Pistol’s 1,200-Mile Journey to a Boston Homicide",
+      "timestamp": "2022-08-04T20:19:34.569Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/auto-makers-ask-congress-for-easier-path-to-electric-vehicle-tax-break-11659614402",
+      "headline": "Proposed Tax Break for Buying Electric Vehicles Is Too Hard to Get, Auto Makers Say",
+      "timestamp": "2022-08-04T20:19:34.569Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
