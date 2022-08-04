@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-08-04T19:38:11.701Z",
+  "lastUpdated": "2022-08-04T21:41:02.473Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-8.html",
+      "headline": "Tennessee Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-2.html",
+      "headline": "Tennessee Second Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-6.html",
+      "headline": "Tennessee Sixth Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-3.html",
+      "headline": "Tennessee Third Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-9.html",
+      "headline": "Tennessee Ninth Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-5.html",
+      "headline": "Tennessee Fifth Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:50.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-4.html",
+      "headline": "Tennessee Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-7.html",
+      "headline": "Tennessee Seventh Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:46.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-us-house-district-1.html",
+      "headline": "Tennessee First Congressional District Primary Election Results",
+      "timestamp": "2022-08-04T21:20:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/us/elections/results-tennessee-governor.html",
+      "headline": "Tennessee Governor Primary Election Results",
+      "timestamp": "2022-08-04T21:20:43.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
