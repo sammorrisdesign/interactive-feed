@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-04T18:22:00.622Z",
+  "lastUpdated": "2022-08-04T19:38:11.701Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/04/well/live/04HealthQuiz-08042022.html",
+      "headline": "Weekly Health Quiz: Monkeypox, Vitamin B6 and Nicotine Withdrawal",
+      "timestamp": "2022-08-04T19:36:56.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
