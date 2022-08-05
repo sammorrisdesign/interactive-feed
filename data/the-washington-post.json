@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-04T17:02:48.085Z",
+  "lastUpdated": "2022-08-05T15:19:17.321Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/embed/interactive/2022/low-res-photo-test/",
+      "headline": "Low res photo test",
+      "timestamp": "2022-08-05T14:45:25.875Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",

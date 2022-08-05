@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-05T14:17:52.055Z",
+  "lastUpdated": "2022-08-05T15:19:17.316Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/05/books/review/mambo-kings-novel.html",
+      "headline": "How Much Do You Know About “The Mambo Kings Play Songs of Love?”",
+      "timestamp": "2022-08-05T15:15:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
