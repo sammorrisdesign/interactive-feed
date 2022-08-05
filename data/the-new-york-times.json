@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-05T15:44:25.283Z",
+  "lastUpdated": "2022-08-05T17:03:15.023Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/05/briefing/the-weekender.html",
+      "headline": "The Weekender",
+      "timestamp": "2022-08-05T16:48:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/05/books/review/paperback-row.html",
+      "headline": "6 Paperbacks to Read This Week",
+      "timestamp": "2022-08-05T16:27:28.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
