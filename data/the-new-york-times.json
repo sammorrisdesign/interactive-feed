@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-05T09:17:59.977Z",
+  "lastUpdated": "2022-08-05T14:17:52.055Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/05/smarter-living/wirecutter/kitchen-tool-alternatives.html",
+      "headline": "6 Practical Alternatives to Pro Kitchen Tools",
+      "timestamp": "2022-08-05T13:44:27.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
