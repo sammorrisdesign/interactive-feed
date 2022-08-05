@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-05T15:19:17.316Z",
+  "lastUpdated": "2022-08-05T15:44:25.283Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/05/arts/television/best-of-late-night.html",
+      "headline": "Best of Late Night This Week 🌙",
+      "timestamp": "2022-08-05T15:29:40.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
