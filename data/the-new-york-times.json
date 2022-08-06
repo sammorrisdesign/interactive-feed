@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-06T15:17:34.415Z",
+  "lastUpdated": "2022-08-06T20:40:09.582Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/06/us/uvalde-funerals.html",
+      "headline": "The Excruciating Echo of Grief in Uvalde",
+      "timestamp": "2022-08-06T20:17:50.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
