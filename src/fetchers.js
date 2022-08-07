@@ -9,7 +9,8 @@ const NewYorkTimesAPI = async(feed) => {
   const secrets = await utils.getSecrets();
 
   if (secrets) {
-    const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,type_of_material&sort=newest&api-key=${secrets.nyt.key}`);
+    // fl=web_url,headline,pub_date,body,type_of_material&
+    const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&sort=newest&api-key=${secrets.nyt.key}`);
     const data = await response.json();
     let articles = data.response.docs;
     articles = articles.filter(article => article.web_url.includes('interactive'));
@@ -23,9 +24,11 @@ const NewYorkTimesAPI = async(feed) => {
 
     // filter out recurring features
     articles = articles.filter(article => !article.headline.includes("New Paperbacks"));
-    articles = articles.filter(article => !article.headline.includes("The Best of Late Night"));
+    articles = articles.filter(article => !article.headline.includes("Best of Late Night"));
     articles = articles.filter(article => !article.headline.includes("To Do This Weekend"));
+    articles = articles.filter(article => !article.headline.includes("Paperbacks"));
     articles = articles.filter(article => !article.headline.includes("News Quiz"));
+    articles = articles.filter(article => !article.headline.includes("Weekender"));
 
     return articles;
   } else {
