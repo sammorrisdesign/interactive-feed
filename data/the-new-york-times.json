@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-08T01:42:27.508Z",
+  "lastUpdated": "2022-08-09T09:19:01.153Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/technology/ukraine-internet-russia-censorship.html",
+      "headline": "How Russia Took Over Ukraine’s Internet in Occupied Territories",
+      "timestamp": "2022-08-09T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/dining/dinner-bill-restaurant-costs-inflation.html",
+      "headline": "That Dinner Tab Has Soared. Here Are All the Reasons.",
+      "timestamp": "2022-08-09T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
