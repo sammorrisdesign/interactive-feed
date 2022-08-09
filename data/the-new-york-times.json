@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2022-08-09T20:41:54.936Z",
+  "lastUpdated": "2022-08-09T21:15:55.489Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/sports/tennis/serena-williams-ranking-tennis-wins.html",
+      "headline": "Serena Williams: Charting a Career at the Top",
+      "timestamp": "2022-08-09T21:13:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/us/elections/results-connecticut-us-senate.html",
+      "headline": "Connecticut U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-09T21:09:58.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/us/elections/results-wisconsin-attorney-general.html",
+      "headline": "Wisconsin Attorney General Primary Election Results",
+      "timestamp": "2022-08-09T21:09:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/us/elections/results-wisconsin-us-senate.html",
+      "headline": "Wisconsin U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-09T21:09:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/us/elections/results-connecticut-us-house-district-3.html",
+      "headline": "Connecticut Third Congressional District Primary Election Results",
+      "timestamp": "2022-08-09T21:09:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/us/elections/results-wisconsin-us-house-district-4.html",
+      "headline": "Wisconsin Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-08-09T21:09:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/us/elections/results-wisconsin-us-house-district-8.html",
+      "headline": "Wisconsin Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-08-09T21:09:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/us/elections/results-connecticut-governor.html",
+      "headline": "Connecticut Governor Primary Election Results",
+      "timestamp": "2022-08-09T21:09:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/09/us/elections/results-minnesota-us-house-district-8.html",
+      "headline": "Minnesota Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-08-09T21:09:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
