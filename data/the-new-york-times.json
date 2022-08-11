@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-11T09:18:38.123Z",
+  "lastUpdated": "2022-08-11T14:16:19.150Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/travel/europe-heat-waves.html",
+      "headline": "Coping with Europe’s Heat Waves",
+      "timestamp": "2022-08-11T13:43:06.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
