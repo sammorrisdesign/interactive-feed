@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-07-24T04:33:37.167Z",
+  "lastUpdated": "2022-08-11T15:19:17.565Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/69db0cb7-3725-4cdf-803f-5f6e06660b7a",
+      "headline": "FirstFT quiz: the week in news",
+      "timestamp": "2022-08-11T14:58:34.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
