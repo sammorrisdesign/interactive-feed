@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-11T20:18:23.789Z",
+  "lastUpdated": "2022-08-11T20:40:56.451Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/business/gas-prices-explainer.html",
+      "headline": "Understanding the Drop in U.S. Gas Prices",
+      "timestamp": "2022-08-11T20:19:31.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
