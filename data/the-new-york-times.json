@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-11T16:24:43.405Z",
+  "lastUpdated": "2022-08-11T19:38:41.753Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/arts/editors-recommendations-natasha.html",
+      "headline": "What’s in Our Queue? Natasia Demetriou and More",
+      "timestamp": "2022-08-11T19:16:24.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
