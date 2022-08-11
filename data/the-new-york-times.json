@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-08-10T13:33:30.627Z",
+  "lastUpdated": "2022-08-11T09:18:38.123Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/us/abortion-states-legal-illegal.html",
+      "headline": "‘Chaos and Confusion’ in States Where Abortion Is On Again, Off Again",
+      "timestamp": "2022-08-11T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/realestate/11hunt-archer.html",
+      "headline": "Seeking a Sturdy Starter Apartment in Brooklyn: Which One-Bedroom Did She Choose?",
+      "timestamp": "2022-08-11T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/arts/anime-hugs.html",
+      "headline": "The Power of Hugs in Anime",
+      "timestamp": "2022-08-11T09:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
