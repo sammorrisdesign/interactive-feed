@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-08T12:35:52.784Z",
+  "lastUpdated": "2022-08-11T18:21:41.827Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/new-york-city-rents-hit-record-highs-amid-nationwide-housing-price-increases-11660219200",
+      "headline": "New York City Rents Hit Record Highs Amid Nationwide Housing-Price Increases",
+      "timestamp": "2022-08-11T18:21:28.738Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/covid-19-variants-keep-getting-more-contagious-heres-why-11660210202",
+      "headline": "Covid-19 Variants Keep Getting More Contagious. Here’s Why.",
+      "timestamp": "2022-08-11T18:21:28.738Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
