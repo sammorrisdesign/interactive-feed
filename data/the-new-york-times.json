@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-11T14:16:19.150Z",
+  "lastUpdated": "2022-08-11T16:24:43.405Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/health/monkeypox-outbreak-explainer.html",
+      "headline": "What to Know About Monkeypox",
+      "timestamp": "2022-08-11T16:13:32.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
