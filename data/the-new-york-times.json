@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-11T19:38:41.753Z",
+  "lastUpdated": "2022-08-11T20:18:23.789Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/well/live/11HealthQuiz-08112022.html",
+      "headline": "Weekly Health Quiz: Diabetes, Monkeypox and Polio",
+      "timestamp": "2022-08-11T19:49:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
