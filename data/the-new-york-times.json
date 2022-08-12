@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-12T09:17:26.056Z",
+  "lastUpdated": "2022-08-12T15:46:13.837Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/12/books/review/midwestern-novels.html",
+      "headline": "How Well Do You Know Midwestern Novels?",
+      "timestamp": "2022-08-12T15:40:46.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
