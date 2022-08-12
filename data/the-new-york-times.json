@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-12T15:46:13.837Z",
+  "lastUpdated": "2022-08-12T18:22:00.331Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/12/climate/california-rain-storm.html",
+      "headline": "The Coming California Megastorm",
+      "timestamp": "2022-08-12T18:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
