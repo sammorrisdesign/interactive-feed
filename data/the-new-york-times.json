@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-12T18:22:00.331Z",
+  "lastUpdated": "2022-08-12T20:40:51.590Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/12/smarter-living/wirecutter/wildfire-preparation.html",
+      "headline": "What to Prepare in Case of a Wildfire",
+      "timestamp": "2022-08-12T20:28:31.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
