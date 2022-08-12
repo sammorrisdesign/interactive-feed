@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-08-12T13:41:11.968Z",
+  "lastUpdated": "2022-08-12T20:18:28.409Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/crawfish-poll/",
+      "timestamp": "2022-08-12T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
