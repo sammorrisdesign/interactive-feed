@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-11T20:40:56.451Z",
+  "lastUpdated": "2022-08-12T01:43:36.676Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/11/us/doj-motion-mar-a-lago-search-warrant.html",
+      "headline": "Read the Justice Department’s Full Motion to Unseal the Warrant to Search Trump’s Mar-a-Lago Home",
+      "timestamp": "2022-08-12T00:31:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
