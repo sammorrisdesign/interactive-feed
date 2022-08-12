@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-12T20:40:51.590Z",
+  "lastUpdated": "2022-08-12T22:19:12.638Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/12/us/politics/trump-search-warrant-document.html",
+      "headline": "Read the Search Warrant for Trump’s Mar-a-Lago Home",
+      "timestamp": "2022-08-12T22:04:14.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
