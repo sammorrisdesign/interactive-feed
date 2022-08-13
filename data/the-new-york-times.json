@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-13T14:38:36.921Z",
+  "lastUpdated": "2022-08-13T15:18:08.995Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/opinion/new-york-congress-nyt-endorse.html",
+      "headline": "The Times Endorses Jerrold Nadler, Dan Goldman and Sean Maloney in New York’s Democratic Primary Races for Congress",
+      "timestamp": "2022-08-13T15:05:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
