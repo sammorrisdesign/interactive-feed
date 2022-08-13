@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-13T09:16:35.242Z",
+  "lastUpdated": "2022-08-13T14:38:36.921Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/world/africa/ivory-coast-cocoa-chocolatiers.html",
+      "headline": "Ivory Coast’s Cocoa Curse",
+      "timestamp": "2022-08-13T14:27:13.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
