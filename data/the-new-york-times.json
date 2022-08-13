@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-12T22:19:12.638Z",
+  "lastUpdated": "2022-08-13T09:16:35.242Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/upshot/whats-in-the-democrats-climate-health-bill.html",
+      "headline": "A Detailed Picture of What’s in the Democrats’ Climate and Health Bill",
+      "timestamp": "2022-08-13T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
