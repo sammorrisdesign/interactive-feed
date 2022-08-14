@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2022-08-13T15:18:08.995Z",
+  "lastUpdated": "2022-08-14T01:51:32.570Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/us/elections/results-hawaii-us-house-district-2.html",
+      "headline": "Hawaii Second Congressional District Primary Election Results",
+      "timestamp": "2022-08-14T00:11:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/us/elections/results-hawaii-governor.html",
+      "headline": "Hawaii Governor Primary Election Results",
+      "timestamp": "2022-08-14T00:11:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/us/elections/results-hawaii-us-senate.html",
+      "headline": "Hawaii U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-14T00:11:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/us/elections/results-hawaii-us-house-district-1.html",
+      "headline": "Hawaii First Congressional District Primary Election Results",
+      "timestamp": "2022-08-14T00:11:21.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/us/elections/results-hawaii-lieutenant-governor.html",
+      "headline": "Hawaii Lieutenant Governor Primary Election Results",
+      "timestamp": "2022-08-14T00:11:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/13/us/elections/results-hawaii.html",
+      "headline": "Hawaii Primary Election Results",
+      "timestamp": "2022-08-14T00:09:36.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
