@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-15T16:26:21.428Z",
+  "lastUpdated": "2022-08-15T21:16:14.122Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2021/colombia-protests-deaths-police/",
+      "headline": "Killed by police in Colombia",
+      "timestamp": "2021-05-20T11:00:53.460Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",
