@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-12T23:17:22.139Z",
+  "lastUpdated": "2022-08-15T10:20:49.526Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2022/extreme-heat-risk-map-us/",
+      "headline": "More dangerous heat waves are on the way: See the impact by zip code.",
+      "timestamp": "2022-08-15T10:15:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",
