@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-15T01:53:58.277Z",
+  "lastUpdated": "2022-08-15T09:18:07.431Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/15/magazine/jennifer-doudna-crispr-interview.html",
+      "headline": "Her Discovery Changed the World. How Does She Think We Should Use It?",
+      "timestamp": "2022-08-15T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
