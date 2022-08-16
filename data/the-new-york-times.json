@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-16T05:19:12.200Z",
+  "lastUpdated": "2022-08-16T07:14:27.303Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/politics/liz-cheney-impeachment-10.html",
+      "headline": "Liz Cheney and the Fate of the 10 Republicans Who Defied Trump",
+      "timestamp": "2022-08-16T07:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
