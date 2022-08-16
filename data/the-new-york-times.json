@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2022-08-16T07:14:27.303Z",
+  "lastUpdated": "2022-08-16T22:18:57.755Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-wyoming-us-house-district-1.html",
+      "headline": "Wyoming At-Large Congressional District Primary Election Results",
+      "timestamp": "2022-08-16T22:17:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-wyoming.html",
+      "headline": "Wyoming Primary Election Results",
+      "timestamp": "2022-08-16T22:17:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-alaska.html",
+      "headline": "Alaska Primary Election Results",
+      "timestamp": "2022-08-16T22:17:17.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-alaska-us-house-district-1.html",
+      "headline": "Alaska At-Large Congressional District Primary Election Results",
+      "timestamp": "2022-08-16T22:12:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-alaska-us-senate.html",
+      "headline": "Alaska U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-16T22:12:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-alaska-governor.html",
+      "headline": "Alaska Governor Primary Election Results",
+      "timestamp": "2022-08-16T22:12:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-alaska-us-house-special.html",
+      "headline": "Alaska At-Large Congressional District Special General Election Results",
+      "timestamp": "2022-08-16T22:12:17.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-wyoming-governor.html",
+      "headline": "Wyoming Governor Primary Election Results",
+      "timestamp": "2022-08-16T22:12:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/us/elections/results-wyoming-secretary-of-state.html",
+      "headline": "Wyoming Secretary of State Primary Election Results",
+      "timestamp": "2022-08-16T22:12:10.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
