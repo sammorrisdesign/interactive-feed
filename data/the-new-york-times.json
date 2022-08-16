@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-15T09:18:07.431Z",
+  "lastUpdated": "2022-08-16T05:19:12.200Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/16/opinion/16focusgroup-Wyoming-primary.html",
+      "headline": "These 13 Wyoming Voters Are Ready to Decide Liz Cheney’s Fate",
+      "timestamp": "2022-08-16T05:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
