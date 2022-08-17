@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-17T16:27:41.513Z",
+  "lastUpdated": "2022-08-17T18:22:35.248Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/17/us/teaching-critical-race-theory.html",
+      "headline": "What's Actually Being Taught in History Class",
+      "timestamp": "2022-08-17T17:59:22.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
