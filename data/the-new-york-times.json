@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-17T09:19:17.313Z",
+  "lastUpdated": "2022-08-17T16:27:41.513Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/17/health/wastewater-polio-covid-nyc.html",
+      "headline": "Wastewater Disease Tracking: A Photographic Journey From the Sewer to the Lab",
+      "timestamp": "2022-08-17T16:11:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
