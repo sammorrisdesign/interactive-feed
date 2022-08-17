@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-17T20:19:14.165Z",
+  "lastUpdated": "2022-08-17T21:16:42.599Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/17/magazine/tiktok-sounds-memes.html",
+      "headline": "Why Do We Love TikTok Audio Memes? Call It Brainfeel.",
+      "timestamp": "2022-08-17T20:42:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
