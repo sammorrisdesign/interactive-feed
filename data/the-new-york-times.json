@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-18T16:41:18.404Z",
+  "lastUpdated": "2022-08-18T17:35:16.930Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/18/climate/noaa-climate-july.html",
+      "headline": "July Weather Was Too Hot, Too Dry or Too Wet",
+      "timestamp": "2022-08-18T17:18:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
