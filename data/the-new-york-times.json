@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-18T17:35:16.930Z",
+  "lastUpdated": "2022-08-18T18:21:04.791Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/18/smarter-living/wirecutter/induction-cooktops.html",
+      "headline": "Induction Cooktops Keep Kitchens Cooler",
+      "timestamp": "2022-08-18T17:58:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
