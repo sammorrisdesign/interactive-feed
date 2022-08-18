@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-18T01:58:12.249Z",
+  "lastUpdated": "2022-08-18T09:19:02.013Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/18/realestate/18hunt-rose.html",
+      "headline": "A Couple Buy a Wedding Gift for Themselves: A House on Long Island. Which One Did They Choose?",
+      "timestamp": "2022-08-18T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/18/arts/design/cambodia-statue-met-museum.html",
+      "headline": "A Temple Robber Tracks His Loot to the Met",
+      "timestamp": "2022-08-18T08:49:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
