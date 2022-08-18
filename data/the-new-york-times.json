@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-18T19:37:40.611Z",
+  "lastUpdated": "2022-08-18T21:16:22.896Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/18/business/tesla-crash-data.html",
+      "headline": "Can Tesla Data Help Us Understand Car Crashes?",
+      "timestamp": "2022-08-18T21:09:53.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
