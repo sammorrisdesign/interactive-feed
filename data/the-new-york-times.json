@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-17T21:16:42.599Z",
+  "lastUpdated": "2022-08-18T01:58:12.249Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/17/sports/summer-fame.html",
+      "headline": "Short Stories on Sports and Fame",
+      "timestamp": "2022-08-18T01:45:44.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
