@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-18T09:19:02.013Z",
+  "lastUpdated": "2022-08-18T16:41:18.404Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/18/sports/basketball/nba-vanessa-bryant-trial-brief.html",
+      "headline": "Read Los Angeles County’s Trial Brief in the Bryant Case",
+      "timestamp": "2022-08-18T16:08:53.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
