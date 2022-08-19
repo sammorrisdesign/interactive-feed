@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-19T16:27:57.838Z",
+  "lastUpdated": "2022-08-19T17:45:37.928Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/19/business/electric-vehicle-battery-made.html",
+      "headline": "What Goes Into an E.V. Battery?",
+      "timestamp": "2022-08-19T17:21:17.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
