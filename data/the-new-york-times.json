@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-18T21:16:22.896Z",
+  "lastUpdated": "2022-08-19T09:18:38.122Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/19/arts/weekend-editors-picks-house-of-the-dragon.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-08-19T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/19/arts/design/michael-heizer-city.html",
+      "headline": "It Was a Mystery in the Desert for 50 Years",
+      "timestamp": "2022-08-19T09:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
