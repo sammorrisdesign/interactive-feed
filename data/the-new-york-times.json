@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-19T09:18:38.122Z",
+  "lastUpdated": "2022-08-19T16:27:57.838Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/19/books/review/first-novels-quiz.html",
+      "headline": "Lit Trivia: Do You Know These Authors’ First Novels?",
+      "timestamp": "2022-08-19T16:00:10.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
