@@ -250,6 +250,13 @@
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.houstonchronicle.com/projects/sitemap_projects.xml"
+    },
+    {
+      "publication": "De Tijd",
+      "handle": "TijdGraphics",
+      "type": "XML",
+      "format": "RSS",
+      "path": "https://multimedia.tijd.be/portfolio/rss.xml"
     }
   ]
 }
