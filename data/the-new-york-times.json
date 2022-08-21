@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-20T15:18:07.542Z",
+  "lastUpdated": "2022-08-21T03:41:57.324Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/20/sports/soccer/soccer-title-ix.html",
+      "headline": "The Women Who Finally Got Their Chance to Play Soccer",
+      "timestamp": "2022-08-21T02:11:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
