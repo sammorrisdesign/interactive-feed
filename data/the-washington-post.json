@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-20T01:49:32.654Z",
+  "lastUpdated": "2022-08-22T14:15:53.802Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/algorithmic-redistricting/",
+      "headline": "Can computer simulations help fix democracy?",
+      "timestamp": "2022-08-22T13:35:50.352Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",

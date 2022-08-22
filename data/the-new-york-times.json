@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-22T09:18:01.824Z",
+  "lastUpdated": "2022-08-22T14:15:53.798Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/us/fire-tracker-maps.html",
+      "headline": "Track Wildfires in the West",
+      "timestamp": "2022-08-22T13:55:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
