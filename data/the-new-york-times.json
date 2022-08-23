@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-23T20:19:09.160Z",
+  "lastUpdated": "2022-08-23T21:16:24.764Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/politics/national-archives-letter-trump-fbi.html",
+      "headline": "Read the National Archives Letter to a Trump Lawyer",
+      "timestamp": "2022-08-23T20:57:42.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
