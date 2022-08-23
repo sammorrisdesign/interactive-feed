@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2022-08-23T21:16:24.764Z",
+  "lastUpdated": "2022-08-23T21:40:13.900Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-11.html",
+      "headline": "New York 11th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-us-house-district-4.html",
+      "headline": "Florida Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:14.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-2.html",
+      "headline": "New York Second Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:14.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-10.html",
+      "headline": "New York 10th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-us-house-district-9.html",
+      "headline": "Florida Ninth Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-24.html",
+      "headline": "New York 24th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-19.html",
+      "headline": "New York 19th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-attorney-general.html",
+      "headline": "Florida Attorney General Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-19-special.html",
+      "headline": "New York 19th Congressional District Special Election Results",
+      "timestamp": "2022-08-23T21:34:11.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
