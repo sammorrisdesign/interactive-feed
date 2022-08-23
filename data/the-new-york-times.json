@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-08-22T14:15:53.798Z",
+  "lastUpdated": "2022-08-23T20:19:09.160Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york.html",
+      "headline": "New York Primary Election Results",
+      "timestamp": "2022-08-23T20:13:59.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-oklahoma.html",
+      "headline": "Oklahoma Runoff Election Results",
+      "timestamp": "2022-08-23T20:13:34.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-new-york-oklahoma.html",
+      "headline": "Live Primary Results: Tonight’s Key Races",
+      "timestamp": "2022-08-23T20:13:34.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida.html",
+      "headline": "Florida Primary Election Results",
+      "timestamp": "2022-08-23T20:13:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-21.html",
+      "headline": "New York 21st Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-us-senate.html",
+      "headline": "Florida U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-23T20:08:52.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-us-house-district-8.html",
+      "headline": "Florida Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-18.html",
+      "headline": "New York 18th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:50.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-16.html",
+      "headline": "New York 16th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:48.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-12.html",
+      "headline": "New York 12th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
