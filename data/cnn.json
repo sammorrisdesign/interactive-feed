@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-20T10:19:01.327Z",
+  "lastUpdated": "2022-08-23T23:18:17.164Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/politics/us-redistricting/new-york-redistricting-map/",
+      "headline": "2 incumbents are facing off in New York thanks to redistricting",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
