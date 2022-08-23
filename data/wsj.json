@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-19T13:39:44.551Z",
+  "lastUpdated": "2022-08-23T15:43:50.639Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/crypto-bitcoin-ftx-bankman-fried-11661206532",
+      "headline": "The 30-Year-Old Spending $1 Billion to Save Crypto",
+      "timestamp": "2022-08-23T15:43:36.958Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
