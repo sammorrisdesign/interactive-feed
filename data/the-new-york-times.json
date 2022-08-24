@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-24T21:16:06.877Z",
+  "lastUpdated": "2022-08-24T21:40:07.936Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/24/business/student-loan-forgiveness-explained.html",
+      "headline": "Student Loan Forgiveness, Explained",
+      "timestamp": "2022-08-24T21:33:56.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
