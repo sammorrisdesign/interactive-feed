@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-23T20:19:09.165Z",
+  "lastUpdated": "2022-08-24T15:43:25.476Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/fed-inflation",
+      "headline": "Can the Fed tame inflation without causing a recession?",
+      "timestamp": "2022-08-24T14:00:25.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
