@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-24T20:18:59.527Z",
+  "lastUpdated": "2022-08-24T21:16:06.877Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/24/arts/editors-recommendations-only-murders.html",
+      "headline": "What’s in Our Queue? ‘Only Murders in the Building’ and More",
+      "timestamp": "2022-08-24T20:44:49.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
