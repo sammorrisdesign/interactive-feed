@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-08-23T19:15:16.554Z",
+  "lastUpdated": "2022-08-25T10:21:03.123Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/science/climate/inq2/new-jersey-beaches-sand-erosion-storms-replenishment-20220825.html",
+      "timestamp": "2022-08-25T09:00:01.965Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",
