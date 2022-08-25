@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-04T16:28:10.690Z",
+  "lastUpdated": "2022-08-25T02:02:16.501Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "handle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/data-graphics/student-loan-debt-america-charts-rcna44439",
+      "headline": "These 4 charts capture the current state of student loan debt in the U.S.",
+      "timestamp": "2022-08-24T16:21:38.000Z"
+    },
     {
       "publication": "NBC News",
       "handle": "NBCNewsGraphics",
