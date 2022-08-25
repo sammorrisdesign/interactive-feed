@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-25T14:17:05.928Z",
+  "lastUpdated": "2022-08-25T14:40:16.711Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/smarter-living/wirecutter/clean-baking-sheets.html",
+      "headline": "How to Clean Baking Sheets",
+      "timestamp": "2022-08-25T14:25:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
