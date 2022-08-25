@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-25T09:18:24.007Z",
+  "lastUpdated": "2022-08-25T14:17:05.928Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/science/spider-facts-news.html",
+      "headline": "Spider Facts, Spider Fiction",
+      "timestamp": "2022-08-25T13:52:55.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
