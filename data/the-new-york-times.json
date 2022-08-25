@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-24T21:40:07.936Z",
+  "lastUpdated": "2022-08-25T04:21:47.809Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/world/asia/china-taiwan-conflict-blockade.html",
+      "headline": "How China Could Choke Taiwan",
+      "timestamp": "2022-08-25T04:18:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

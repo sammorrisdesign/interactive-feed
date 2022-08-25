@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-24T15:19:32.345Z",
+  "lastUpdated": "2022-08-25T04:21:47.823Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/inflation-jackson-hole-fed-powell-11661288446",
+      "headline": "Jerome Powell’s Dilemma: What if the Drivers of Inflation Are Here to Stay?",
+      "timestamp": "2022-08-25T04:21:33.738Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
