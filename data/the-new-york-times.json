@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-26T16:58:38.097Z",
+  "lastUpdated": "2022-08-26T17:26:47.176Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/your-money/student-loan-forgiveness-debt.html",
+      "headline": "Why Student Loan Borrowers Need Relief",
+      "timestamp": "2022-08-26T16:59:20.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
