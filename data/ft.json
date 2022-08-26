@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-24T15:43:25.476Z",
+  "lastUpdated": "2022-08-26T16:58:38.102Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/garden-maze",
+      "headline": "The garden maze and the meaning of life",
+      "timestamp": "2022-08-26T11:08:56.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
