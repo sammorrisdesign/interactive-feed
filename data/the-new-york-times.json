@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-26T09:17:57.199Z",
+  "lastUpdated": "2022-08-26T14:17:11.986Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/magazine/tips-for-everything.html",
+      "headline": "How to Do Everything",
+      "timestamp": "2022-08-26T14:04:09.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
