@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-26T14:17:11.986Z",
+  "lastUpdated": "2022-08-26T15:45:00.825Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/books/review/title-search-science-fiction.html",
+      "headline": "Title Search: How Well Do You Know Speculative Fiction?",
+      "timestamp": "2022-08-26T15:31:57.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

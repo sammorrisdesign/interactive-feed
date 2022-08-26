@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-23T23:18:17.164Z",
+  "lastUpdated": "2022-08-26T15:45:00.827Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/world/artemis-1-in-numbers-scn/",
+      "headline": "Artemis I in numbers",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
