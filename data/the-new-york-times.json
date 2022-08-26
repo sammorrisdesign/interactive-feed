@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-26T17:26:47.176Z",
+  "lastUpdated": "2022-08-26T20:19:35.919Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/us/trump-search-affidavit-release.html",
+      "headline": "The Affidavit for the Search of Trump’s Home, Annotated",
+      "timestamp": "2022-08-26T20:17:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
