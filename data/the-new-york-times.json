@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-25T20:19:34.224Z",
+  "lastUpdated": "2022-08-26T09:17:57.199Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/us/politics/midterm-election-ads-democrats-far-right.html",
+      "headline": "Democrats Gamble With Ads That Highlight Far-Right Candidates",
+      "timestamp": "2022-08-26T09:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/arts/weekend-editors-picks-3000-years-of-longing.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-08-26T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
