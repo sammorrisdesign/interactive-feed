@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-26T20:19:35.919Z",
+  "lastUpdated": "2022-08-27T09:17:20.530Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/27/science/nasa-moon-artemis-launch.html",
+      "headline": "How 3 NASA Missions Could Send Astronauts Back to the Moon",
+      "timestamp": "2022-08-27T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
