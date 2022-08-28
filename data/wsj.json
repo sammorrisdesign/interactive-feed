@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-26T15:20:58.723Z",
+  "lastUpdated": "2022-08-28T13:29:02.428Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/an-inside-look-at-nasas-most-powerful-rocket-ever-the-sls-11661616000",
+      "headline": "An Inside Look at NASA’s Most Powerful Rocket Ever, the SLS",
+      "timestamp": "2022-08-28T13:28:49.660Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
