@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-29T07:23:32.593Z",
+  "lastUpdated": "2022-08-29T09:18:34.604Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/29/magazine/father-mike-schmitz-interview.html",
+      "headline": "A Catholic Podcasting Star Says Theocracy Is Not the Way",
+      "timestamp": "2022-08-29T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
