@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-28T13:29:02.420Z",
+  "lastUpdated": "2022-08-29T15:44:35.175Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/housing-market-investors/",
+      "headline": "Investors bought a record share of homes in 2021. See where.",
+      "timestamp": "2022-02-16T14:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",
