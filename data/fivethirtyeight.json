@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-11T10:19:56.930Z",
+  "lastUpdated": "2022-08-30T15:19:15.893Z",
   "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-nba-player-projections/",
+      "headline": "2022-23 NBA Player Projections",
+      "timestamp": "2022-08-30T15:00:25.000Z"
+    },
     {
       "publication": "FiveThirtyEight",
       "handle": "FiveThirtyEight",
