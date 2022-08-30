@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-08-25T10:21:03.123Z",
+  "lastUpdated": "2022-08-30T10:20:09.335Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/more-perfect-union-trade-construction-racism-pennsylvania-20220830.html",
+      "timestamp": "2022-08-30T09:34:01.817Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",
