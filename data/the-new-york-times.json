@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-30T14:18:29.399Z",
+  "lastUpdated": "2022-08-30T19:15:26.643Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/us/politics/fec-complaint-biden.html",
+      "headline": "Complaint About Biden From Americans for Public Trust to the Federal Election Commission",
+      "timestamp": "2022-08-30T19:07:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
