@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-29T09:18:34.604Z",
+  "lastUpdated": "2022-08-30T05:59:52.822Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/sports/tennis/us-open-quiz-2022.html",
+      "headline": "Are You a U.S. Open Fan? This Test Will Tell.",
+      "timestamp": "2022-08-30T04:32:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
