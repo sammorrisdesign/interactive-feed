@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-30T19:15:26.643Z",
+  "lastUpdated": "2022-08-30T21:17:09.141Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/us/politics/30FEC-complaint-trump.html",
+      "headline": "Complaint About Trump From American Bridge to the Federal Election Commission",
+      "timestamp": "2022-08-30T21:08:46.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
