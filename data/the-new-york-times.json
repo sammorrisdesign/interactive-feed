@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-30T05:59:52.822Z",
+  "lastUpdated": "2022-08-30T09:18:25.967Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/business/nickel-mine-united-states-electric-cars.html",
+      "headline": "By the Numbers: Electric Vehicle Minerals",
+      "timestamp": "2022-08-30T09:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
