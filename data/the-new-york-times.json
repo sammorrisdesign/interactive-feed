@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-31T19:15:30.065Z",
+  "lastUpdated": "2022-08-31T21:17:09.647Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/31/us/politics/covid-omicron-boosters-latest.html",
+      "headline": "What to Know: Updated Covid Boosters",
+      "timestamp": "2022-08-31T21:00:40.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
