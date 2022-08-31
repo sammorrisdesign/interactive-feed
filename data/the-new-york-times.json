@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-31T13:40:47.510Z",
+  "lastUpdated": "2022-08-31T15:19:11.634Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/31/us/doj-trump-special-master.html",
+      "headline": "Read the Justice Department’s Response to Trump’s Request for a Special Master",
+      "timestamp": "2022-08-31T13:23:26.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
