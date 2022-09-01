@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-01T10:20:43.120Z",
+  "lastUpdated": "2022-09-01T17:29:21.027Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/us/mississippi-water.html",
+      "headline": "A Water Crisis Drags On in Mississippi",
+      "timestamp": "2022-09-01T17:10:13.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
