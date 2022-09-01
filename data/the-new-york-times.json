@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-31T21:17:09.647Z",
+  "lastUpdated": "2022-09-01T01:52:47.718Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/31/sports/tennis/serena-williams-players-box-us-open.html",
+      "headline": "Who’s Who in Serena Williams’s Player’s Box",
+      "timestamp": "2022-09-01T00:25:53.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
