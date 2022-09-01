@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-01T09:18:24.482Z",
+  "lastUpdated": "2022-09-01T10:20:43.120Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/sports/baseball/edwin-diaz-timmy-trumpet.html",
+      "headline": "Timmy Trumpet Gives Mets Closer a Live Rendition of ‘Narco’",
+      "timestamp": "2022-09-01T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
