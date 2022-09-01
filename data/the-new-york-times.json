@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-09-01T05:38:24.855Z",
+  "lastUpdated": "2022-09-01T09:18:24.482Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/realestate/01hunt-sample.html",
+      "headline": "Two Children, Two Cats and a Dog (and 250 Mice): She Needed a New Plan. Which Option Would You Choose?",
+      "timestamp": "2022-09-01T09:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/opinion/schools-education-america.html",
+      "headline": "What Is School For?",
+      "timestamp": "2022-09-01T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/opinion/us-school-parents.html",
+      "headline": "‘A Breach of Trust’: Three Parents on Why They Became School Activists",
+      "timestamp": "2022-09-01T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
