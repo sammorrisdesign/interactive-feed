@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-01T01:52:47.718Z",
+  "lastUpdated": "2022-09-01T05:38:24.855Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/opinion/us-school-teachers.html",
+      "headline": "These 12 Teachers Don’t See Themselves as Superheroes",
+      "timestamp": "2022-09-01T05:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
