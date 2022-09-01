@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-09-01T16:26:29.102Z",
+  "lastUpdated": "2022-09-01T17:00:04.099Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-things-we-miss/",
+      "timestamp": "2022-09-01T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
