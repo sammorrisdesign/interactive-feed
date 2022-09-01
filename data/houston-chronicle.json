@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-09-01T14:17:18.412Z",
+  "lastUpdated": "2022-09-01T16:26:29.102Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/map-scroller/24-hour-houston-restaurants/",
+      "timestamp": "2022-09-01T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
