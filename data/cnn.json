@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-01T13:36:55.933Z",
+  "lastUpdated": "2022-09-02T20:19:39.742Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/us/cnn-5-things-news-quiz-september-1-sec/",
+      "headline": "Take our weekly news quiz to see how well you know current events",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
