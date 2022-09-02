@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-02T15:19:36.784Z",
+  "lastUpdated": "2022-09-02T16:25:33.450Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/multimedia/serena-williams-tennis-hairstyles.html",
+      "headline": "Serena’s Game Day Hair",
+      "timestamp": "2022-09-02T16:07:08.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/smarter-living/wirecutter/clean-toaster.html",
+      "headline": "How to Clean Your Toaster",
+      "timestamp": "2022-09-02T15:46:10.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
