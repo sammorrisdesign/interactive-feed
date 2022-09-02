@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-01T19:37:39.831Z",
+  "lastUpdated": "2022-09-02T09:18:13.224Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/realestate/luxury/new-york-indoor-private-pools.html",
+      "headline": "Beneath the Surface: A Peek at Private Pools",
+      "timestamp": "2022-09-02T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/arts/weekend-editors-picks-rings-of-power.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-09-02T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
