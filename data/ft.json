@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-26T16:58:38.102Z",
+  "lastUpdated": "2022-09-03T09:40:56.267Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/116f34fc-b44d-487d-822b-d3f1926eaca2",
+      "headline": "One-third of Pakistan submerged, satellite data shows",
+      "timestamp": "2022-09-03T09:23:11.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
