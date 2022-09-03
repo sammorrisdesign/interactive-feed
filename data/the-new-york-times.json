@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-02T16:25:33.450Z",
+  "lastUpdated": "2022-09-03T05:15:18.851Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/03/sports/tennis/serena-williams-final-match-zoom.html",
+      "headline": "Serena’s Magic Comes to an End",
+      "timestamp": "2022-09-03T04:47:20.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
