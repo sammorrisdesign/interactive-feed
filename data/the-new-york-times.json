@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-05T09:19:16.488Z",
+  "lastUpdated": "2022-09-05T20:20:01.373Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/05/world/africa/senegal-express-train.html",
+      "headline": "In Senegal, Riding the Train for the First Time",
+      "timestamp": "2022-09-05T19:57:18.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
