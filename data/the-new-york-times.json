@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-05T20:20:01.373Z",
+  "lastUpdated": "2022-09-05T22:42:42.881Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/05/world/asia/typhoon-hinnamnor-tracking-map.html",
+      "headline": "Map: Tracking Typhoon Hinnamnor",
+      "timestamp": "2022-09-05T22:36:22.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
