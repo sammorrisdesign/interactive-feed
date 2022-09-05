@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-03T09:17:34.819Z",
+  "lastUpdated": "2022-09-05T09:19:16.488Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/05/magazine/lynda-barry-interview.html",
+      "headline": "A Genius Cartoonist Believes Child’s Play Is Anything But Frivolous",
+      "timestamp": "2022-09-05T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
