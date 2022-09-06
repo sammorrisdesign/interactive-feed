@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-06T16:27:13.919Z",
+  "lastUpdated": "2022-09-06T18:23:31.404Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/politics/biden-migration-numbers.html",
+      "headline": "Record Levels of Migration, by the Numbers",
+      "timestamp": "2022-09-06T17:51:27.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
