@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-06T21:41:07.114Z",
+  "lastUpdated": "2022-09-06T22:18:58.394Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-suffolk-county-district-attorney.html",
+      "headline": "Massachusetts Primary Election Results: Suffolk County District Attorney",
+      "timestamp": "2022-09-06T22:14:55.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
