@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-09-06T18:23:31.404Z",
+  "lastUpdated": "2022-09-06T21:41:07.114Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-secretary-of-state.html",
+      "headline": "Massachusetts Secretary of State Primary Election Results",
+      "timestamp": "2022-09-06T21:31:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-boston-district-attorney.html",
+      "headline": "Massachusetts Primary Election Results: Suffolk County District Attorney",
+      "timestamp": "2022-09-06T21:31:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-8.html",
+      "headline": "Massachusetts Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-lieutenant-governor.html",
+      "headline": "Massachusetts Lieutenant Governor Primary Election Results",
+      "timestamp": "2022-09-06T21:31:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-attorney-general.html",
+      "headline": "Massachusetts Attorney General Primary Election Results",
+      "timestamp": "2022-09-06T21:31:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-7.html",
+      "headline": "Massachusetts Seventh Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-5.html",
+      "headline": "Massachusetts Fifth Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-9.html",
+      "headline": "Massachusetts Ninth Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:19.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-3.html",
+      "headline": "Massachusetts Third Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-4.html",
+      "headline": "Massachusetts Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:17.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
