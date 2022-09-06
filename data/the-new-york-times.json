@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-05T22:42:42.881Z",
+  "lastUpdated": "2022-09-06T12:38:00.193Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/sports/soccer/kylian-mbappe-interview-audio.html",
+      "headline": "Our Interview With Kylian Mbappé: Audio Excerpts",
+      "timestamp": "2022-09-06T12:31:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
