@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-08-22T23:18:29.531Z",
+  "lastUpdated": "2022-09-06T13:42:55.761Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/us-election-risk-index/2022-election-denier-candidates",
+      "headline": "The Real Winner of GOP’s 2022 Primaries Was Denial of 2020 Election",
+      "timestamp": "2022-09-06T12:00:06.422Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/us-election-risk-index/all-election-denier-officials",
+      "headline": "Here Are the 254 Key Political Leaders Who Back Trump’s False Claims of Election Fraud",
+      "timestamp": "2022-09-06T12:00:03.167Z"
+    },
     {
       "publication": "Bloomberg",
       "handle": "BBGVisualData",
