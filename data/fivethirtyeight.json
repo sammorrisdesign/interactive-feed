@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-06T10:21:47.951Z",
+  "lastUpdated": "2022-09-07T14:26:24.806Z",
   "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nfl-forecasting-game/",
+      "headline": "Can You Beat FiveThirtyEight’s NFL Forecasts?",
+      "timestamp": "2022-09-07T14:00:39.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nfl-predictions/",
+      "headline": "2022 NFL Predictions",
+      "timestamp": "2022-09-07T14:00:08.000Z"
+    },
     {
       "publication": "FiveThirtyEight",
       "handle": "FiveThirtyEight",
