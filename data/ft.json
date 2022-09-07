@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-03T09:40:56.267Z",
+  "lastUpdated": "2022-09-07T04:36:49.941Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/57c66a89-b046-4c3e-a8aa-d9099bd4da20",
+      "headline": "How do consumers’ energy bills compare across Europe?",
+      "timestamp": "2022-09-07T04:00:28.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
