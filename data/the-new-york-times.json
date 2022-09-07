@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-06T22:18:58.394Z",
+  "lastUpdated": "2022-09-07T02:03:49.977Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-1.html",
+      "headline": "Massachusetts First Congressional District Primary Election Results",
+      "timestamp": "2022-09-07T00:32:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-governor.html",
+      "headline": "Massachusetts Governor Primary Election Results",
+      "timestamp": "2022-09-07T00:32:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
