@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-08T09:20:29.609Z",
+  "lastUpdated": "2022-09-08T13:35:16.229Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/sports/tennis/us-open-women-semifinals.html",
+      "headline": "U.S. Open Semifinals: The 4 Women Left",
+      "timestamp": "2022-09-08T13:05:32.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
