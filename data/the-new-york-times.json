@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-08T17:51:19.831Z",
+  "lastUpdated": "2022-09-08T20:22:28.140Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/world/europe/succession-royal-family.html",
+      "headline": "The New Royal Line of Succession",
+      "timestamp": "2022-09-08T20:05:40.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
