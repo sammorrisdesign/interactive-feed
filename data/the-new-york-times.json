@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-07T15:20:19.784Z",
+  "lastUpdated": "2022-09-08T09:20:29.609Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/realestate/rockaways-ny-apartments-housing.html",
+      "headline": "Heading to the Rockaways for the Sand and the Subway. Which Apartment Did She Choose?",
+      "timestamp": "2022-09-08T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/opinion/urban-highways-segregation.html",
+      "headline": "Mr. Biden, Tear Down This Highway",
+      "timestamp": "2022-09-08T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
