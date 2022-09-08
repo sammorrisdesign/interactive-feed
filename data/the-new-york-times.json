@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-08T15:21:07.188Z",
+  "lastUpdated": "2022-09-08T16:27:49.913Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/books/fall-books.html",
+      "headline": "What We're Reading This Fall",
+      "timestamp": "2022-09-08T15:47:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
