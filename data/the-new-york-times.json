@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-08T13:35:16.229Z",
+  "lastUpdated": "2022-09-08T15:21:07.188Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/smarter-living/wirecutter/ask-wc-dollar-store.html",
+      "headline": "Ask Wirecutter: Dollar Store Duds?",
+      "timestamp": "2022-09-08T14:43:09.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
