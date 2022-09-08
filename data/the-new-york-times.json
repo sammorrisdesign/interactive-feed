@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-08T20:22:28.140Z",
+  "lastUpdated": "2022-09-08T20:46:12.789Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/well/dentists-teeth-care.html",
+      "headline": "How Dentists Keep Their Own Teeth Healthy",
+      "timestamp": "2022-09-08T20:23:25.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
