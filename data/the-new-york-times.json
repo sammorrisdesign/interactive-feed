@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-08T16:27:49.913Z",
+  "lastUpdated": "2022-09-08T17:51:19.831Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/us/bannon-indictment.html",
+      "headline": "Read the Bannon Indictment",
+      "timestamp": "2022-09-08T17:23:42.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
