@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-08T21:18:21.263Z",
+  "lastUpdated": "2022-09-09T09:20:59.060Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/climate/growing-wildfire-risk-homes.html",
+      "headline": "As Wildfires Grow, Millions of Homes Are Being Built in Harm’s Way",
+      "timestamp": "2022-09-09T09:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/travel/fall-travel-plans.html",
+      "headline": "Traveling This Fall? Expect Cheaper Prices, ‘Seasonal Drift’ and, Yes, Chaos",
+      "timestamp": "2022-09-09T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
