@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-09T13:49:06.044Z",
+  "lastUpdated": "2022-09-09T15:21:16.256Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/books/review/california-novels-quiz.html",
+      "headline": "How Well Do You Know These Novels Set in California?",
+      "timestamp": "2022-09-09T15:00:06.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
