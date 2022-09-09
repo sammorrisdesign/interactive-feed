@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-07T04:36:49.941Z",
+  "lastUpdated": "2022-09-09T04:14:45.345Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/95745636-2d21-46aa-b0f1-6bda1c0fdd0b",
+      "headline": "Personal inflation calculator: what is your inflation rate?",
+      "timestamp": "2022-09-09T04:00:13.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
