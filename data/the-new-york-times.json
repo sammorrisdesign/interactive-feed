@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-09T15:21:16.256Z",
+  "lastUpdated": "2022-09-09T15:47:12.059Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/t-magazine/ivo-van-hove.html",
+      "headline": "How Ivo van Hove Turns a Novel into a Play",
+      "timestamp": "2022-09-09T15:24:27.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
