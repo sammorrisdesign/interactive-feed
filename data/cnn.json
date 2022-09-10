@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-09T22:19:50.288Z",
+  "lastUpdated": "2022-09-10T02:06:28.841Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/business/olive-oil-shortage-drought-cnnphotos/",
+      "headline": "Worst drought 'in living memory' threatens olive oil supply",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
