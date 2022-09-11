@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-10T02:06:28.841Z",
+  "lastUpdated": "2022-09-11T12:34:54.153Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2021/09/us/9-11-photos-cnnphotos/",
+      "headline": "9/11 photos we will never forget",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2016/09/us/inside-9-11-the-day-that-never-ends/",
+      "headline": "Inside 9/11: The day that never ends",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
