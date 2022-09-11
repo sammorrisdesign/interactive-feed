@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-09T15:47:12.059Z",
+  "lastUpdated": "2022-09-11T23:20:09.841Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/11/us/california-fires.html",
+      "headline": "The Weather Cools, but California Fires Rage On",
+      "timestamp": "2022-09-11T23:14:44.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
