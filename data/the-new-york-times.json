@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-11T23:20:09.841Z",
+  "lastUpdated": "2022-09-12T04:36:42.317Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/11/sports/football/nfl-week-1-facepalms.html",
+      "headline": "N.F.L. Week 1: Five Face-Palm-Worthy Endings",
+      "timestamp": "2022-09-12T03:17:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
