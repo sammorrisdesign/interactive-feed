@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-12T04:36:42.317Z",
+  "lastUpdated": "2022-09-12T09:26:10.261Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/12/magazine/nick-cave-interview.html",
+      "headline": "Nick Cave Lost Two Sons. His Fans Then Saved His Life.",
+      "timestamp": "2022-09-12T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
