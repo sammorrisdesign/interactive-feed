@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-09-13T20:21:48.025Z",
+  "lastUpdated": "2022-09-13T20:44:42.335Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-delaware.html",
+      "headline": "Delaware Primary Election Results",
+      "timestamp": "2022-09-13T20:39:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island.html",
+      "headline": "Rhode Island Primary Election Results",
+      "timestamp": "2022-09-13T20:39:52.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-delaware-new-hampshire-rhode-island.html",
+      "headline": "Live Primary Results: Tonight’s Key Races",
+      "timestamp": "2022-09-13T20:39:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire.html",
+      "headline": "New Hampshire Primary Election Results",
+      "timestamp": "2022-09-13T20:39:43.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire-us-senate.html",
+      "headline": "New Hampshire U.S. Senate Primary Election Results",
+      "timestamp": "2022-09-13T20:34:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-attorney-general.html",
+      "headline": "Rhode Island Attorney General Primary Election Results",
+      "timestamp": "2022-09-13T20:34:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-delaware-state-auditor.html",
+      "headline": "Delaware State Auditor Primary Election Results",
+      "timestamp": "2022-09-13T20:34:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire-governor.html",
+      "headline": "New Hampshire Governor Primary Election Results",
+      "timestamp": "2022-09-13T20:34:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-secretary-of-state.html",
+      "headline": "Rhode Island Secretary of State Primary Election Results",
+      "timestamp": "2022-09-13T20:34:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-us-house-district-2.html",
+      "headline": "Rhode Island Second Congressional District Primary Election Results",
+      "timestamp": "2022-09-13T20:34:49.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
