@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-13T13:49:25.093Z",
+  "lastUpdated": "2022-09-13T14:47:02.892Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/business/economy/us-economy.html",
+      "headline": "How Is the Economy Doing?",
+      "timestamp": "2022-09-13T14:29:33.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
