@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-13T05:59:44.226Z",
+  "lastUpdated": "2022-09-13T09:21:16.789Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-members-stock-trading-list.html",
+      "headline": "These 97 Members of Congress Reported Trades in Companies Influenced by Their Committees",
+      "timestamp": "2022-09-13T09:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-stock-trading-investigation.html",
+      "headline": "Stock Trades Reported by Nearly a Fifth of Congress Show Possible Conflicts",
+      "timestamp": "2022-09-13T09:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
