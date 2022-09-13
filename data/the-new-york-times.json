@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-13T14:47:02.892Z",
+  "lastUpdated": "2022-09-13T20:21:48.025Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/world/europe/queen-elizabeth-whats-next.html",
+      "headline": "The Queen’s Journey Home",
+      "timestamp": "2022-09-13T20:09:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
