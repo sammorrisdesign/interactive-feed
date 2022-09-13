@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-13T21:18:06.186Z",
+  "lastUpdated": "2022-09-13T23:21:48.330Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire-us-house-district-2.html",
+      "headline": "New Hampshire Second Congressional District Primary Election Results",
+      "timestamp": "2022-09-13T22:47:16.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
