@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-13T09:21:16.789Z",
+  "lastUpdated": "2022-09-13T13:49:25.093Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/opinion/america-recession-biden-trump.html",
+      "headline": "Is America in a Recession? Here’s What 16 Biden and Trump Supporters Think.",
+      "timestamp": "2022-09-13T05:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
