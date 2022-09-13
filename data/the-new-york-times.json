@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2022-09-13T20:44:42.335Z",
+  "lastUpdated": "2022-09-13T21:18:06.186Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/15-week-abortion-ban.html",
+      "headline": "How a Proposed 15-Week Federal Abortion Ban Compares With State Laws",
+      "timestamp": "2022-09-13T20:57:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire-us-house-district-1.html",
+      "headline": "New Hampshire First Congressional District Primary Election Results",
+      "timestamp": "2022-09-13T20:47:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-us-house-district-1.html",
+      "headline": "Rhode Island First Congressional District Primary Election Results",
+      "timestamp": "2022-09-13T20:47:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-lieutenant-governor.html",
+      "headline": "Rhode Island Lieutenant Governor Primary Election Results",
+      "timestamp": "2022-09-13T20:47:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-governor.html",
+      "headline": "Rhode Island Governor Primary Election Results",
+      "timestamp": "2022-09-13T20:47:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
