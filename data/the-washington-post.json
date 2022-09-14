@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-09-14T14:26:13.231Z",
+  "lastUpdated": "2022-09-14T14:48:31.061Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/minnesota-nurses-strike-overworked/",
+      "headline": "Why thousands of nurses are protesting in Minnesota ",
+      "timestamp": "2022-09-14T14:42:11.331Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/no-knock-warrants-judges/",
+      "headline": "No-knock raids have led to fatal encounters and small drug seizures",
+      "timestamp": "2022-04-15T10:00:09.438Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2021/trump-ice-sheriffs-immigrants-287g/",
+      "headline": "Under Trump, ICE aggressively recruited sheriffs as partners to question and detain undocumented immigrants",
+      "timestamp": "2021-11-23T13:15:33.900Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",
