@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-14T16:28:29.269Z",
+  "lastUpdated": "2022-09-14T17:07:03.039Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2021/police-reform-failure/",
+      "headline": "The endless cycle of outrage and reform over policing in America",
+      "timestamp": "2021-06-10T13:00:10.800Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",
