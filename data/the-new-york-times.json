@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-13T23:21:48.330Z",
+  "lastUpdated": "2022-09-14T18:24:46.018Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/14/arts/editors-recommendations-everythings-trash.html",
+      "headline": "What’s in our Queue? ‘Everything’s Trash’ and More",
+      "timestamp": "2022-09-14T17:57:25.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
