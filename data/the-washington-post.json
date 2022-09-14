@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-09-14T13:51:54.519Z",
+  "lastUpdated": "2022-09-14T14:26:13.231Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/place-network-policing-strategy/",
+      "headline": "A policing strategy abandoned after Breonna Taylor’s death spreads to other cities",
+      "timestamp": "2022-03-31T10:30:26.210Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2021/austin-district-attorney-police-reform/",
+      "headline": "Inside a district attorney’s campaign to reform the Austin police department",
+      "timestamp": "2021-12-18T02:04:59.248Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+      "headline": "The hidden billion-dollar cost of repeated police misconduct",
+      "timestamp": "2022-03-09T11:30:30.858Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",
