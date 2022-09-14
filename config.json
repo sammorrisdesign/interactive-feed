@@ -39,18 +39,8 @@
     },
     {
       "publication": "The Washington Post",
-      "handle": "PostGraphics",
-      "type": "XML",
-      "format": "Sitemap",
-      "path": "https://www.washingtonpost.com/arcio/news-sitemap/",
-      "filters": {
-        "in": {
-          "url": "/interactive"
-        },
-        "out": {
-          "url": "/photography"
-        }
-      }
+      "handle": "WashingtonPost",
+      "type": "WashingtonPost"
     },
     {
       "publication": "FT",

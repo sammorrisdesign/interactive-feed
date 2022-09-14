@@ -36,12 +36,29 @@ const NewYorkTimesAPI = async(feed) => {
   }
 }
 
+const WashingtonPost = async(feed) => {
+  const response = await fetch(`https://www.washingtonpost.com/prism/api/prism-query?_website=washpost&query=%7B%22query%22%3A%22prism%3A%2F%2Fprism.query%2Fsubtype%2Cinteractive%26limit%3D30%22%7D&filter=%7Bitems%7B_id%20canonical_url%20display_date%20headlines%20publish_date%20taxonomy%7Btags%7D%7D%7D`);
+  const data = await response.json();
+  let articles = data.items;
+  articles = articles.filter(article => !article.taxonomy.tags.map(tag => tag.description).includes('stamp'));
+  articles = articles.map(article => new Article(
+    publication = feed.publication,
+    handle = feed.handle,
+    url = article.canonical_url,
+    headline = article.headlines.basic,
+    timestamp = article.display_date
+  ));
+
+  return articles;
+}
+
 const TheGuardianAPI = async(feed) => {
   const secrets = await utils.getSecrets();
 
   if (secrets) {
     const response = await fetch(`https://content.guardianapis.com/search?api-key=${secrets.guardian}&type=interactive&q=NOT%20cartoon&order-by=newest`);
     const data = await response.json();
+
     let articles = data.response.results;
     articles = articles.map(article => new Article(
       publication = feed.publication,
@@ -167,6 +184,7 @@ const Twitter = async(feed) => {
 module.exports = {
   NewYorkTimesAPI: NewYorkTimesAPI,
   TheGuardianAPI: TheGuardianAPI,
+  WashingtonPost: WashingtonPost,
   XML: XML,
   Twitter: Twitter
 }
