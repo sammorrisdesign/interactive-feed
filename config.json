@@ -19,13 +19,6 @@
       "type": "TheGuardianAPI"
     },
     {
-      "publication": "Quartz",
-      "handle": "quartzthings",
-      "type": "XML",
-      "format": "RSS",
-      "path": "https://cms.qz.com/feed/tag/qz-interactive/"
-    },
-    {
       "publication": "CNN",
       "handle": "CNN",
       "type": "XML",
