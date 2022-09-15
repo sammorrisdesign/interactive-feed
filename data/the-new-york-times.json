@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-15T17:49:06.987Z",
+  "lastUpdated": "2022-09-15T18:25:06.626Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/climate/climate-noaa-weather.html",
+      "headline": "Record Summer Weather",
+      "timestamp": "2022-09-15T18:02:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
