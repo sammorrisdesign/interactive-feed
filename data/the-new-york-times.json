@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-15T09:22:50.876Z",
+  "lastUpdated": "2022-09-15T15:48:13.617Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/nyregion/tree-plantings-nyc.html",
+      "headline": "Coming Soon to New York: More Trees",
+      "timestamp": "2022-09-15T15:25:36.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
