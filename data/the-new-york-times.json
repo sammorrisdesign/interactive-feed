@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-14T18:24:46.018Z",
+  "lastUpdated": "2022-09-15T02:11:06.290Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/14/climate/san-francisco-fog.html",
+      "headline": "The Elusive Future of San Francisco’s Fog",
+      "timestamp": "2022-09-15T00:05:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
