@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-15T19:16:39.841Z",
+  "lastUpdated": "2022-09-15T21:19:08.075Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/well/live/15HealthQuiz-09152022.html",
+      "headline": "Weekly Health Quiz: Monkeypox Scars, Lymphatic Drainage and Food Sensitivity",
+      "timestamp": "2022-09-15T21:05:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
