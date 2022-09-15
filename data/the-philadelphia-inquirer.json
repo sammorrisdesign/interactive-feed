@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-09-14T10:22:31.307Z",
+  "lastUpdated": "2022-09-15T10:22:29.137Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/gender-pay-gap-philadelphia-men-women-wages-20220915.html",
+      "timestamp": "2022-09-15T09:40:26.528Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",
