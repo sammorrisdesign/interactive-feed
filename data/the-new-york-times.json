@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-15T18:25:06.626Z",
+  "lastUpdated": "2022-09-15T18:50:54.809Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/us/politics/john-fetterman-stroke.html",
+      "headline": "Two Stroke Survivors, Talking Politics",
+      "timestamp": "2022-09-15T18:48:42.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
