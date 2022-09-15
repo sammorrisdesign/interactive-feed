@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-15T16:28:27.287Z",
+  "lastUpdated": "2022-09-15T17:49:06.987Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/us/migrant-busing.html",
+      "headline": "Understanding the Migrant Busing Crisis",
+      "timestamp": "2022-09-15T17:35:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/climate/tropical-storm-fiona-hurricane-path-tracker.html",
+      "headline": "Map: Tracking Tropical Storm Fiona",
+      "timestamp": "2022-09-15T17:26:21.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
