@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-15T08:28:48.358Z",
+  "lastUpdated": "2022-09-15T09:22:50.876Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/realestate/brooklyn-manhattan-one-bedroom-apartment.html",
+      "headline": "Seeking a ‘One-Bedroom With the Basics’ in Brooklyn or Manhattan. Which Would Be More Affordable?",
+      "timestamp": "2022-09-15T09:00:10.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/arts/television/coming-out-gay-tv.html",
+      "headline": "The Faces That Look Back at Us When We Come Out, Again and Again",
+      "timestamp": "2022-09-15T09:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
