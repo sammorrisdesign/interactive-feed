@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-15T15:48:13.617Z",
+  "lastUpdated": "2022-09-15T16:28:27.287Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/world/europe/queen-elizabeth-queue-line.html",
+      "headline": "The Overnight Wait to See the Queen  ",
+      "timestamp": "2022-09-15T16:24:33.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
