@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-15T18:50:54.809Z",
+  "lastUpdated": "2022-09-15T19:16:39.841Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/sports/tennis/roger-federer-tennis-shots.html",
+      "headline": "The Shots That Made Roger Federer",
+      "timestamp": "2022-09-15T18:56:14.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
