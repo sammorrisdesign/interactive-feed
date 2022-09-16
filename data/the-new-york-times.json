@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-16T15:20:34.793Z",
+  "lastUpdated": "2022-09-16T18:25:52.330Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/smarter-living/wirecutter/wear-backpack.html",
+      "headline": "How to Wear Your Backpack Properly",
+      "timestamp": "2022-09-16T18:11:49.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
