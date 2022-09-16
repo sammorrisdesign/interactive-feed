@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-16T04:34:43.433Z",
+  "lastUpdated": "2022-09-16T07:06:09.987Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/upshot/september-2022-times-siena-poll-crosstabs.html",
+      "headline": "September 2022 Times/Siena Poll: Cross-Tabs for All Respondents",
+      "timestamp": "2022-09-16T06:55:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
