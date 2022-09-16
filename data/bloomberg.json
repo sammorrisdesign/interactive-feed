@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-16T02:11:48.452Z",
+  "lastUpdated": "2022-09-16T21:17:09.775Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-atlantic-hurricane-season/fiona.html",
+      "headline": "Tracking Fiona’s Latest Path",
+      "timestamp": "2022-09-16T20:31:26.113Z"
+    },
     {
       "publication": "Bloomberg",
       "handle": "BBGVisualData",
