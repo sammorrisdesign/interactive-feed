@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-06T13:42:55.761Z",
+  "lastUpdated": "2022-09-16T02:11:48.452Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-la-nina-weather-risk-global-economies/",
+      "headline": "The World Has a $1 Trillion La Nina Problem",
+      "timestamp": "2022-09-16T00:00:03.404Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/china-credit-2022-09/",
+      "headline": "China’s State Support Is Helping to Ease Credit Market Stress",
+      "timestamp": "2022-09-15T23:30:03.001Z"
+    },
     {
       "publication": "Bloomberg",
       "handle": "BBGVisualData",
