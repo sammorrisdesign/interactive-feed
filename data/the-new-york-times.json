@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-16T09:20:37.747Z",
+  "lastUpdated": "2022-09-16T15:20:34.793Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/books/review/nasa-space-books-quiz.html",
+      "headline": "Lit Trivia: How Well Do You Know Books About the U.S. Space Program?",
+      "timestamp": "2022-09-16T15:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
