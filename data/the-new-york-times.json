@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-16T07:06:09.987Z",
+  "lastUpdated": "2022-09-16T09:20:37.747Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/arts/weekend-editors-picks-woman-king.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-09-16T09:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/world/europe/mykolaiv-ukraine-firefighters-russia.html",
+      "headline": "Fire and Fear in South Ukraine",
+      "timestamp": "2022-09-16T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
