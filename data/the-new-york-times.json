@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-16T18:25:52.330Z",
+  "lastUpdated": "2022-09-17T04:01:58.911Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/world/asia/typhoon-nanmadol-path-tracker-map.html",
+      "headline": "Map: Tracking Typhoon Nanmadol",
+      "timestamp": "2022-09-17T02:35:48.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
