@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-18T04:21:17.453Z",
+  "lastUpdated": "2022-09-18T07:18:53.408Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/18/upshot/times-siena-poll-hispanic-crosstabs.html",
+      "headline": "September 2022 Times/Siena Poll: Cross-Tabs for Hispanic and Latino Respondents",
+      "timestamp": "2022-09-18T06:50:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
