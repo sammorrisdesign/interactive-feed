@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-17T04:01:58.911Z",
+  "lastUpdated": "2022-09-18T04:21:17.453Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/18/business/queen-elizabeth-king-charles-britain.html",
+      "headline": "The Queen Is Everywhere. What Will the Royal Makeover Cost?",
+      "timestamp": "2022-09-18T04:11:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
