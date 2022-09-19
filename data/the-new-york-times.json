@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-18T07:18:53.408Z",
+  "lastUpdated": "2022-09-19T02:10:03.593Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/18/sports/football/jets-vs-browns-highlights.html",
+      "headline": "How the Jets Stunned the Browns, 31-30",
+      "timestamp": "2022-09-19T00:22:24.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
