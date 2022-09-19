@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-19T09:23:52.932Z",
+  "lastUpdated": "2022-09-19T10:50:48.647Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/19/world/europe/queen-funeral-order-of-service.html",
+      "headline": "Read the Order of Service for Queen Elizabeth II’s State Funeral",
+      "timestamp": "2022-09-19T10:48:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
