@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-20T09:30:53.999Z",
+  "lastUpdated": "2022-09-20T13:52:45.748Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/style/new-york-fashion-week-noteworthy-looks.html",
+      "headline": "Seven Looks That Defined New York Fashion Week",
+      "timestamp": "2022-09-20T13:15:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
