@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-20T13:52:45.748Z",
+  "lastUpdated": "2022-09-20T15:21:38.540Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-of-voting.html",
+      "headline": "The ‘Cost’ of Voting in America: A Look at Where It’s Easiest and Hardest",
+      "timestamp": "2022-09-20T15:08:11.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
