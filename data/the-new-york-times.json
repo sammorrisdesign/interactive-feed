@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-20T15:21:38.540Z",
+  "lastUpdated": "2022-09-20T22:25:07.336Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/insider/making-of-queen-elizabeth-obituary.html",
+      "headline": "An Obituary 80 Years in the Making",
+      "timestamp": "2022-09-20T22:14:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
