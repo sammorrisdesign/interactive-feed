@@ -1,6 +1,34 @@
 {
-  "lastUpdated": "2022-09-19T10:50:48.647Z",
+  "lastUpdated": "2022-09-20T09:30:53.999Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/opinion/mental-health-america-politics.html",
+      "headline": "Your Mental Health Isn’t Just About You",
+      "timestamp": "2022-09-20T09:00:29.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/opinion/therapy-america-covid.html",
+      "headline": "Who Is Going to Therapy in America?",
+      "timestamp": "2022-09-20T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/opinion/mental-health-america.html",
+      "headline": "What Is Mental Health in America?",
+      "timestamp": "2022-09-20T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/us/politics/green-gray-infrastructure.html",
+      "headline": "Understanding Green Infrastructure",
+      "timestamp": "2022-09-20T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
