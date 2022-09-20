@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-09-20T15:21:38.561Z",
+  "lastUpdated": "2022-09-20T21:44:01.732Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-bike-lane-crashes/",
+      "timestamp": "2022-09-20T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
