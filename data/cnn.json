@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-19T17:57:38.446Z",
+  "lastUpdated": "2022-09-20T12:40:23.143Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/storm-tracker/",
+      "headline": "Tracker: Fiona is near Turks and Caicos. See where it goes next",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
