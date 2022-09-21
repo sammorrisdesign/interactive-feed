@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2022-09-21T18:28:09.509Z",
+  "lastUpdated": "2022-09-21T20:45:41.092Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/bolivia-animal-photos.html",
+      "headline": "Inside an Animal Sanctuary in Bolivia Where Tourists Can Help",
+      "timestamp": "2022-09-21T20:33:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/ghana-animal-photos.html",
+      "headline": "A Paradise of Birds in Ghana’s Kakum National Park",
+      "timestamp": "2022-09-21T20:32:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/french-guiana-animal-photos.html",
+      "headline": "Meeting the Beasts of the Jungle in French Guiana",
+      "timestamp": "2022-09-21T20:32:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/animal-cafe-photos.html",
+      "headline": "Inside Seoul’s Wild Animal Cafes",
+      "timestamp": "2022-09-21T20:31:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/icelandic-horses-photos.html",
+      "headline": "The Fantastical Beauty of Icelandic Horses",
+      "timestamp": "2022-09-21T20:29:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/animal-voyages.html",
+      "headline": "Lessons From a Lifetime of Animal Voyages",
+      "timestamp": "2022-09-21T20:29:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/animal-photos.html",
+      "headline": "Where the Wild Things Are",
+      "timestamp": "2022-09-21T20:28:37.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
