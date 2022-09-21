@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-21T09:22:49.068Z",
+  "lastUpdated": "2022-09-21T10:22:48.019Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/world/europe/ukraine-maps-momentum.html",
+      "headline": "Can Ukraine Break Through Again?",
+      "timestamp": "2022-09-21T09:56:46.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
