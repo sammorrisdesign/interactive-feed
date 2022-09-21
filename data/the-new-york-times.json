@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-21T10:22:48.019Z",
+  "lastUpdated": "2022-09-21T15:48:13.413Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/learning/21VocabQuizLN.html",
+      "headline": "Vocabulary in Context: Gen Z At Work",
+      "timestamp": "2022-09-21T15:29:55.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
