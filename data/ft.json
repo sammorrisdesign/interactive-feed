@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-16T04:34:43.438Z",
+  "lastUpdated": "2022-09-21T04:32:39.865Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/ransomware-game/",
+      "headline": "Can you negotiate your way out of a ransomware attack?",
+      "timestamp": "2022-09-21T04:00:25.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
