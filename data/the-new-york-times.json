@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-21T20:45:41.092Z",
+  "lastUpdated": "2022-09-21T21:18:13.701Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/nyregion/read-trump-suit-james.html",
+      "headline": "Read the lawsuit",
+      "timestamp": "2022-09-21T21:00:33.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
