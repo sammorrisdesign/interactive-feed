@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-21T21:18:13.701Z",
+  "lastUpdated": "2022-09-22T09:23:49.315Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/realestate/three-bedroom-brooklyn-williamsburg-dumbo.html",
+      "headline": "They Wanted Good Light and a Dog Park. But the Front Door Could Not Face South. ",
+      "timestamp": "2022-09-22T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/arts/music/audience-linda-lindas.html",
+      "headline": "Preschool Punks and Dancing Mommies at the Linda Lindas Show",
+      "timestamp": "2022-09-22T09:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
