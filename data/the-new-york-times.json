@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-09-22T18:52:05.615Z",
+  "lastUpdated": "2022-09-22T19:17:38.988Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/us/politics/h-walker-enterprises.html",
+      "headline": "Corporate Charter for H. Walker Enterprises",
+      "timestamp": "2022-09-22T19:09:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/us/politics/renaissance-man-food-services.html",
+      "headline": "Corporate Charter for Renaissance Man Food Services",
+      "timestamp": "2022-09-22T19:09:43.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/washington-commanders-nfl-playoff-picture.html",
+      "headline": "How the Washington Commanders Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/pittsburgh-steelers-nfl-playoff-picture.html",
+      "headline": "How the Pittsburgh Steelers Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/tampa-bay-buccaneers-nfl-playoff-picture.html",
+      "headline": "How the Tampa Bay Buccaneers Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/tennessee-titans-nfl-playoff-picture.html",
+      "headline": "How the Tennessee Titans Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/new-york-jets-nfl-playoff-picture.html",
+      "headline": "How the New York Jets Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/san-francisco-49ers-nfl-playoff-picture.html",
+      "headline": "How the San Francisco 49ers Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/seattle-seahawks-nfl-playoff-picture.html",
+      "headline": "How the Seattle Seahawks Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/minnesota-vikings-nfl-playoff-picture.html",
+      "headline": "How the Minnesota Vikings Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:40.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
