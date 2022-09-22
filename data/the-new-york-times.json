@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-22T19:17:38.988Z",
+  "lastUpdated": "2022-09-22T20:22:03.087Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/los-angeles-chargers-nfl-playoff-picture.html",
+      "headline": "How the Los Angeles Chargers Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:41.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
