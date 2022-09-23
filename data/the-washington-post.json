@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-23T10:22:33.073Z",
+  "lastUpdated": "2022-09-23T15:25:33.852Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/science/interactive/2021/nasa-rams-an-asteroid-planetary-defense/",
+      "headline": "NASA hopes to hit an asteroid now in case we really need to knock one away later",
+      "timestamp": "2022-09-23T15:03:05.071Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
