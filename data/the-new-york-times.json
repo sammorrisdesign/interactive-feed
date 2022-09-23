@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-22T22:21:10.480Z",
+  "lastUpdated": "2022-09-23T02:11:12.900Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/sports/ncaafootball/23pac-12-uc-regents-letter.html",
+      "headline": "Read the Pac-12 Letter to the University of California Regents",
+      "timestamp": "2022-09-23T00:26:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
