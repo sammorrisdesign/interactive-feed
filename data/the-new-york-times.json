@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-23T02:11:12.900Z",
+  "lastUpdated": "2022-09-23T09:23:18.796Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/23/arts/weekend-editors-picks-dont-worry-darling.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-09-23T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/23/well/mind/bisexual-mental-health.html",
+      "headline": "Why Bisexual Adults Report Higher Rates of Mental Distress",
+      "timestamp": "2022-09-23T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
