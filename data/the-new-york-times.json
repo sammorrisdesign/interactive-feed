@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-23T23:22:10.843Z",
+  "lastUpdated": "2022-09-24T04:24:29.199Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/24/climate/tropical-storm-ian-hurricane-path-tracker.html",
+      "headline": "Map: Tracking Tropical Storm Ian",
+      "timestamp": "2022-09-24T04:10:19.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

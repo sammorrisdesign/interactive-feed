@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-21T11:18:00.484Z",
+  "lastUpdated": "2022-09-24T04:24:29.205Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-atlantic-hurricane-season/ian.html",
+      "headline": "Tracking Ian’s Latest Path",
+      "timestamp": "2022-09-24T03:11:18.327Z"
+    },
     {
       "publication": "Bloomberg",
       "handle": "BBGVisualData",
