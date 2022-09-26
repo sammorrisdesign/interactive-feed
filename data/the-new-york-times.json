@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-24T04:24:29.199Z",
+  "lastUpdated": "2022-09-26T09:26:20.272Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/26/magazine/elizabeth-banks-interview.html",
+      "headline": "Elizabeth Banks Thinks This Interview Is Dangerous for Her",
+      "timestamp": "2022-09-26T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
