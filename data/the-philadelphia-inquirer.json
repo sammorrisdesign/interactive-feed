@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-09-25T10:21:54.834Z",
+  "lastUpdated": "2022-09-26T10:23:00.219Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/herrs-chips-flavors-factory-tour-how-its-made-20220926.html",
+      "timestamp": "2022-09-26T09:05:00.678Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",
