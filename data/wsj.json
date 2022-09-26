@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-24T14:17:12.295Z",
+  "lastUpdated": "2022-09-26T13:54:03.205Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/nasas-dart-spacecraft-to-smash-into-asteroid-in-planetary-defense-test-11664165948",
+      "headline": "NASA’s DART Spacecraft to Smash Into Asteroid in Planetary Defense Test",
+      "timestamp": "2022-09-26T13:53:50.278Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
