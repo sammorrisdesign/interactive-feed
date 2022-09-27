@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-27T09:29:51.732Z",
+  "lastUpdated": "2022-09-27T17:35:45.011Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/27/us/politics/what-is-60-day-rule.html",
+      "headline": "The Justice Dept.’s ‘60-Day Rule’",
+      "timestamp": "2022-09-27T17:22:31.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
