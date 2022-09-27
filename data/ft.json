@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-23T17:54:59.960Z",
+  "lastUpdated": "2022-09-27T09:29:51.738Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/639e30c6-1569-4933-b75f-a373052af526",
+      "headline": "Five data stories to cheer you up ",
+      "timestamp": "2022-09-27T04:00:30.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
