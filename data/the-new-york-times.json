@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-28T15:55:27.163Z",
+  "lastUpdated": "2022-09-28T16:34:41.234Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/opinion/published-in-error.html",
+      "headline": "Editors’ Note: This article was published in error",
+      "timestamp": "2022-09-28T15:52:06.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
