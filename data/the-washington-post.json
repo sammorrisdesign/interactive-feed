@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-27T17:35:45.017Z",
+  "lastUpdated": "2022-09-28T12:40:56.713Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/",
+      "headline": "AI can now create any image in seconds, bringing wonder and danger",
+      "timestamp": "2022-09-28T12:00:19.823Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
