@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-27T09:29:51.738Z",
+  "lastUpdated": "2022-09-28T04:28:39.460Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/ukraine-counteroffensive",
+      "headline": "The 90km journey that changed the course of the war in Ukraine",
+      "timestamp": "2022-09-28T04:00:43.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
