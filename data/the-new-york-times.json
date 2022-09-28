@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-28T18:31:00.407Z",
+  "lastUpdated": "2022-09-28T19:21:09.089Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/arts/editors-recommendations-brilliant-friend.html",
+      "headline": "What’s in Our Queue? ‘My Brilliant Friend’ and More",
+      "timestamp": "2022-09-28T19:14:35.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
