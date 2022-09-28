@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-28T09:34:32.116Z",
+  "lastUpdated": "2022-09-28T15:55:27.163Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/opinion/26focusgroup.html",
+      "headline": "tk",
+      "timestamp": "2022-09-28T15:52:06.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
