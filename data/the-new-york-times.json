@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-27T17:35:45.011Z",
+  "lastUpdated": "2022-09-28T09:34:32.116Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/us/abortion-costs-funds.html",
+      "headline": "What It Costs to Get an Abortion Now",
+      "timestamp": "2022-09-28T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
