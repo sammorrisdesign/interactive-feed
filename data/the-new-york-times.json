@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-29T19:26:43.492Z",
+  "lastUpdated": "2022-09-29T20:48:53.716Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/well/live/29healthquiz-09292022.html",
+      "headline": "Weekly Health Quiz: Covid, Brown Noise and U.T.I.s",
+      "timestamp": "2022-09-29T20:32:26.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
