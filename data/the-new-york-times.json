@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-29T20:48:53.716Z",
+  "lastUpdated": "2022-09-29T21:46:46.183Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/climate/hurricane-ian-florida-intensity.html",
+      "headline": "How Hurricane Ian Became So Powerful",
+      "timestamp": "2022-09-29T21:30:54.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
