@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-29T15:52:06.672Z",
+  "lastUpdated": "2022-09-29T18:28:56.336Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/us/hurricane-ian-flooding-fort-myers-florida.html",
+      "headline": "Map: Where Hurricane Ian Hit Florida Hardest",
+      "timestamp": "2022-09-29T18:12:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/movies/film-festival-new-york.html",
+      "headline": "Film Festival Season Comes to New York",
+      "timestamp": "2022-09-29T17:43:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
