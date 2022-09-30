@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-30T14:35:07.095Z",
+  "lastUpdated": "2022-09-30T15:24:34.246Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/well/mindful-drinking-sober-october.html",
+      "headline": "3 Steps to Embrace ‘Mindful Drinking’",
+      "timestamp": "2022-09-30T15:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
