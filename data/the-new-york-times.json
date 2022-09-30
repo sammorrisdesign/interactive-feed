@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-29T21:46:46.183Z",
+  "lastUpdated": "2022-09-30T06:14:55.388Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/opinion/focus-group-college-students.html",
+      "headline": "These 12 College Students Don’t Like The System They’re In",
+      "timestamp": "2022-09-30T05:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
