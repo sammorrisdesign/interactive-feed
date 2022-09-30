@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-30T18:28:33.036Z",
+  "lastUpdated": "2022-09-30T18:58:27.926Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/arts/design/follow-instagram-photographers.html",
+      "headline": "Photography our Photo Editors Are Following",
+      "timestamp": "2022-09-30T18:30:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
