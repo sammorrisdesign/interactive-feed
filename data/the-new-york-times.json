@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-30T06:14:55.388Z",
+  "lastUpdated": "2022-09-30T14:35:07.095Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/books/review/page-screen-author-quiz.html",
+      "headline": "Page and Screen: How Well Do You Know This Best-Selling Author?",
+      "timestamp": "2022-09-30T14:30:06.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
