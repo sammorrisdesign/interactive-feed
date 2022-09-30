@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-30T15:24:34.246Z",
+  "lastUpdated": "2022-09-30T18:28:33.036Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/us/fort-myers-photos.html",
+      "headline": "On the Scene: Florida After Hurricane Ian",
+      "timestamp": "2022-09-30T18:14:24.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
