@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-30T18:58:27.926Z",
+  "lastUpdated": "2022-10-01T13:42:08.759Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/01/us/politics/01pol-burst.html",
+      "headline": "5 Takeaways From the Campaign Trail",
+      "timestamp": "2022-10-01T13:40:29.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
