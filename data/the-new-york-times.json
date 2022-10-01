@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-01T13:42:08.759Z",
+  "lastUpdated": "2022-10-01T16:28:38.680Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/01/us/politics/week-in-midterms-news.html",
+      "headline": "5 Takeaways From the Campaign Trail",
+      "timestamp": "2022-10-01T13:40:29.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
