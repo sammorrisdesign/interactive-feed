@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-01T16:28:38.680Z",
+  "lastUpdated": "2022-10-02T02:08:55.216Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/01/us/hurricane-ian-fort-myers-beach-damage.html",
+      "headline": "What Hurricane Ian Destroyed in a Florida Beach Town",
+      "timestamp": "2022-10-02T01:53:16.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
