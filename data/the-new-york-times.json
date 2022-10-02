@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-02T19:18:21.256Z",
+  "lastUpdated": "2022-10-02T22:20:22.155Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/02/us/hurricane-ian-rescue-pine-island.html",
+      "headline": "On the Scene: Hurricane Ian Rescue Missions",
+      "timestamp": "2022-10-02T21:59:32.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
