@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-29T17:36:42.461Z",
+  "lastUpdated": "2022-10-02T12:38:30.693Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/ce4f722b-9c90-4509-8bb4-c22bbb37845b",
+      "headline": "How to read a hurricane map",
+      "timestamp": "2022-10-02T11:57:52.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
