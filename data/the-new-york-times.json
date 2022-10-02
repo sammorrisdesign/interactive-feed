@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-02T02:08:55.216Z",
+  "lastUpdated": "2022-10-02T17:49:20.234Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/02/world/americas/brazil-election-bolsonaro.html",
+      "headline": "Brazilians Vote for Their Next President",
+      "timestamp": "2022-10-02T17:42:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
