@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-02T17:49:20.234Z",
+  "lastUpdated": "2022-10-02T19:18:21.256Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/02/espanol/brasil-eleccion.html",
+      "headline": "Brasil vota por su próximo presidente",
+      "timestamp": "2022-10-02T18:58:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
