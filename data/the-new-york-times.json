@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-02T22:20:22.155Z",
+  "lastUpdated": "2022-10-03T16:35:19.180Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/03/world/americas/tracking-orlene.html",
+      "headline": "Map: Tracking Hurricane Orlene",
+      "timestamp": "2022-10-03T16:29:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
