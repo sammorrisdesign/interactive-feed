@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-10-03T13:56:22.435Z",
+  "lastUpdated": "2022-10-03T15:25:14.347Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/best-houston-photos-september/",
+      "timestamp": "2022-10-03T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
