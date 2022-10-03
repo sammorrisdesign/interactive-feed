@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-10-03T17:40:09.779Z",
+  "lastUpdated": "2022-10-03T18:30:35.835Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-tirz-map/",
+      "timestamp": "2022-10-03T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
