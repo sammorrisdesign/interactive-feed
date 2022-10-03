@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-09-20T21:44:01.724Z",
+  "lastUpdated": "2022-10-03T17:40:09.771Z",
   "articles": [
+    {
+      "publication": "LA Times",
+      "handle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2022-california-election-attorney-general-money-tracker/",
+      "headline": "Track the money flowing into the California attorney general's race",
+      "timestamp": "2022-10-03T17:39:54.959Z"
+    },
+    {
+      "publication": "LA Times",
+      "handle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2022-california-election-controller-money-tracker/",
+      "headline": "Track the money flowing into the California controller's race",
+      "timestamp": "2022-10-03T17:39:54.959Z"
+    },
     {
       "publication": "LA Times",
       "handle": "datagraphics",

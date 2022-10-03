@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-03T16:35:19.180Z",
+  "lastUpdated": "2022-10-03T17:40:09.756Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/03/sports/soccer/soccer-abuse-read-report.html",
+      "headline": "Read the Report on Abuse in Women’s Soccer",
+      "timestamp": "2022-10-03T17:23:53.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
