@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-04T03:48:55.838Z",
+  "lastUpdated": "2022-10-04T09:31:48.117Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/04/opinion/mental-health-america-power.html",
+      "headline": "Power, Politics and Feelings",
+      "timestamp": "2022-10-04T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
