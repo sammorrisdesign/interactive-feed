@@ -1,6 +1,18 @@
 {
-  "lastUpdated": "2022-10-04T17:38:59.162Z",
+  "lastUpdated": "2022-10-04T19:43:16.536Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/how-houston-tirz-work/",
+      "timestamp": "2022-10-04T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/how-houston-revenue-cap-works/",
+      "timestamp": "2022-10-04T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
