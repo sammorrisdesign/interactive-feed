@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-03T17:40:09.756Z",
+  "lastUpdated": "2022-10-04T03:48:55.838Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/03/us/me-too-five-years.html",
+      "headline": "How to Measure the Impact of #MeToo?",
+      "timestamp": "2022-10-04T03:01:12.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
