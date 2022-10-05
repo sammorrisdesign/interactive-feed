@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-05T16:49:36.990Z",
+  "lastUpdated": "2022-10-05T21:45:30.143Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/05/books/review/nobel-literature-laureates-quiz.html",
+      "headline": "Lit Trivia: Can You Name These Literary Nobel Prize Laureates?",
+      "timestamp": "2022-10-05T21:43:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
