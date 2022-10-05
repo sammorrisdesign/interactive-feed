@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-02T12:38:30.693Z",
+  "lastUpdated": "2022-10-05T14:16:24.636Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/2b7109f8-04e2-4137-b7ff-b1caf44cb4bc",
+      "headline": "Electricity calculator: how much will your bills cost this winter?",
+      "timestamp": "2022-10-05T14:00:15.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
