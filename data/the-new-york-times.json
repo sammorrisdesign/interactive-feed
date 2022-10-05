@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-05T01:56:29.136Z",
+  "lastUpdated": "2022-10-05T03:42:41.533Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/04/climate/south-asia-monsoon-climate-change.html",
+      "headline": "The Monsoon Is Becoming More Extreme",
+      "timestamp": "2022-10-05T01:33:54.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
