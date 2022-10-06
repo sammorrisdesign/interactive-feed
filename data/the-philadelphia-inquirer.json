@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2022-09-30T10:24:34.091Z",
+  "lastUpdated": "2022-10-06T11:19:29.401Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/new-restaurants-philadelphia-region-2022-2023-20221006.html",
+      "timestamp": "2022-10-06T09:00:09.778Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/readers-choice-best-philly-dining-guide-2022-20221006.html",
+      "timestamp": "2022-10-06T09:00:08.966Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/essential-philly-drinks-cocktails-citywide-2022-20221006.html",
+      "timestamp": "2022-10-06T09:00:08.557Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/philadelphia-restaurants-reinvented-pandemic-2022-20221006.html",
+      "timestamp": "2022-10-06T09:00:08.590Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/philadelphia-restaurant-guide-2022-20221006.html",
+      "timestamp": "2022-10-06T10:21:12.908Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/best-drinks-philadelphia-guide-2022-20221006.html",
+      "timestamp": "2022-10-06T09:00:09.228Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/best-restaurants-philadelphia-2022-craig-laban-20221006.html",
+      "timestamp": "2022-10-06T09:00:07.012Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/craig-laban-six-essential-restaurants-20221006.html",
+      "timestamp": "2022-10-06T09:00:09.770Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",

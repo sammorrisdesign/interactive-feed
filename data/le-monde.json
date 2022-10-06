@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-25T04:15:48.904Z",
+  "lastUpdated": "2022-10-06T11:19:29.409Z",
   "articles": [
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/10/06/combien-d-electricite-consomment-les-francais-et-comment-reduire-les-factures_6143074_4355771.html",
+      "headline": "Combien d’électricité consomment les Français et comment réduire les factures ?",
+      "timestamp": "2022-10-06T10:20:34.000Z"
+    },
     {
       "publication": "Le Monde",
       "handle": "lemondefr",
