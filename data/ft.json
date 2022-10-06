@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-05T14:16:24.636Z",
+  "lastUpdated": "2022-10-06T04:44:59.432Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/31185370-87f3-4ecb-b64d-341bbc4e5c22",
+      "headline": "Why Big Tech shreds millions of storage devices it could reuse",
+      "timestamp": "2022-10-06T04:00:16.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
