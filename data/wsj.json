@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-30T02:33:30.801Z",
+  "lastUpdated": "2022-10-06T18:29:17.494Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/2022-senate-and-house-midterm-election-ratings-and-analysis-11664905703",
+      "headline": "2022 House and Senate Election Outlook",
+      "timestamp": "2022-10-06T18:29:03.165Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
