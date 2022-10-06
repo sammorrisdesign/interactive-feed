@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-06T14:35:11.572Z",
+  "lastUpdated": "2022-10-06T15:25:36.715Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/well/self-care-tips-guided-runs.html",
+      "headline": "How I Hold It Together: Guided Runs and More",
+      "timestamp": "2022-10-06T14:53:59.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
