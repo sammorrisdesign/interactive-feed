@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-06T03:39:37.911Z",
+  "lastUpdated": "2022-10-06T09:32:49.685Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/realestate/jersey-city-heights-houses.html",
+      "headline": "Sizing Up to a House in Jersey City: How Much Work Was Too Much?",
+      "timestamp": "2022-10-06T09:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/travel/things-to-do-nyc.html",
+      "headline": "New York City",
+      "timestamp": "2022-10-06T09:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
