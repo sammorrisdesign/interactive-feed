@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-05T21:45:30.143Z",
+  "lastUpdated": "2022-10-06T03:39:37.911Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/05/world/asia/li-wenliang-letter-chinese.html",
+      "headline": "李文亮的自我批评",
+      "timestamp": "2022-10-06T02:14:35.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/05/world/asia/li-wenliang-letter.html",
+      "headline": "Dr. Li’s Apology Letter",
+      "timestamp": "2022-10-06T02:08:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
