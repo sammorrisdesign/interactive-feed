@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-06T17:33:53.749Z",
+  "lastUpdated": "2022-10-06T22:21:50.467Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/well/live/06healthquiz-10062022.html",
+      "headline": "Weekly Health Quiz: Medical Tests, Malaria and Teeth Whitening",
+      "timestamp": "2022-10-06T22:01:54.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
