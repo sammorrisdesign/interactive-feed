@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-07T09:27:19.462Z",
+  "lastUpdated": "2022-10-07T15:24:28.939Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/books/review/southern-novels-quiz.html",
+      "headline": "How Well Do You Know These Novels Set in the American South?",
+      "timestamp": "2022-10-07T15:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
