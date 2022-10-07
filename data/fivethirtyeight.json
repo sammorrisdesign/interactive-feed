@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-06T11:19:29.401Z",
+  "lastUpdated": "2022-10-07T10:25:30.012Z",
   "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-nhl-predictions/",
+      "headline": "2022-23 NHL Predictions",
+      "timestamp": "2022-10-07T10:00:44.000Z"
+    },
     {
       "publication": "FiveThirtyEight",
       "handle": "FiveThirtyEight",
