@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-07T17:37:36.447Z",
+  "lastUpdated": "2022-10-07T21:19:16.741Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/t-magazine/art/nate-lewis-art.html",
+      "headline": "A Former Nurse’s Art, Inspired by the I.C.U.",
+      "timestamp": "2022-10-07T20:55:46.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
