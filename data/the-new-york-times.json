@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-06T22:21:50.467Z",
+  "lastUpdated": "2022-10-07T09:27:19.462Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/us/politics/senate-midterm-elections-tossup-seats.html",
+      "headline": "With Control of the Senate in Play, These Are the Races to Watch",
+      "timestamp": "2022-10-07T09:00:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/arts/weekend-editors-picks-amsterdam.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-10-07T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
