@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-07T21:19:16.741Z",
+  "lastUpdated": "2022-10-08T12:37:16.592Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/08/us/politics/week-in-campaign-news.html",
+      "headline": "5 Takeaways From the Campaign Trail",
+      "timestamp": "2022-10-08T12:32:22.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
