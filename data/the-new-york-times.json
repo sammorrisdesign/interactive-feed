@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-08T12:37:16.592Z",
+  "lastUpdated": "2022-10-09T21:18:51.528Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/09/world/europe/ukraine-war-soledar.html",
+      "headline": "Rescuing Civilians Along Ukraine’s Front Line",
+      "timestamp": "2022-10-09T20:48:14.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
