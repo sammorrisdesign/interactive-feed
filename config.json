@@ -19,13 +19,6 @@
       "type": "TheGuardianAPI"
     },
     {
-      "publication": "Quartz",
-      "handle": "quartzthings",
-      "type": "XML",
-      "format": "RSS",
-      "path": "https://cms.qz.com/feed/tag/qz-interactive/"
-    },
-    {
       "publication": "CNN",
       "handle": "CNN",
       "type": "XML",
@@ -39,18 +32,8 @@
     },
     {
       "publication": "The Washington Post",
-      "handle": "PostGraphics",
-      "type": "XML",
-      "format": "Sitemap",
-      "path": "https://www.washingtonpost.com/arcio/news-sitemap/",
-      "filters": {
-        "in": {
-          "url": "/interactive"
-        },
-        "out": {
-          "url": "/photography"
-        }
-      }
+      "handle": "WashingtonPost",
+      "type": "WashingtonPost"
     },
     {
       "publication": "FT",

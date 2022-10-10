@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2022-08-11T10:19:56.930Z",
+  "lastUpdated": "2022-10-07T10:25:30.012Z",
   "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-nhl-predictions/",
+      "headline": "2022-23 NHL Predictions",
+      "timestamp": "2022-10-07T10:00:44.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/gop-house-2022/",
+      "headline": "The Seats Republicans Could Flip To Win The House In 2022",
+      "timestamp": "2022-10-06T10:00:33.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-college-football-predictions/",
+      "headline": "2022 College Football Predictions",
+      "timestamp": "2022-09-27T10:00:23.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nfl-forecasting-game/",
+      "headline": "Can You Beat FiveThirtyEight’s NFL Forecasts?",
+      "timestamp": "2022-09-07T14:00:39.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nfl-predictions/",
+      "headline": "2022 NFL Predictions",
+      "timestamp": "2022-09-07T14:00:08.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republicans-trump-election-fraud/",
+      "headline": "Where Candidates Who Deny The 2020 Election Results Are On The Ballot — And Where They Could Win",
+      "timestamp": "2022-09-06T10:00:03.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-flip-senate-house/",
+      "headline": "Explore The Ways Republicans Or Democrats Could Win The Midterms",
+      "timestamp": "2022-09-01T10:00:52.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-nba-player-projections/",
+      "headline": "2022-23 NBA Player Projections",
+      "timestamp": "2022-08-30T15:00:25.000Z"
+    },
     {
       "publication": "FiveThirtyEight",
       "handle": "FiveThirtyEight",

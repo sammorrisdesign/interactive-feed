@@ -1,6 +1,1798 @@
 {
-  "lastUpdated": "2022-08-20T15:18:07.542Z",
+  "lastUpdated": "2022-10-10T15:34:02.139Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/10/sports/football/nfl-roughing-passer-brady.html",
+      "headline": "Protecting Quarterbacks, or Only Tom Brady?",
+      "timestamp": "2022-10-10T15:26:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/10/magazine/julio-torres-interview.html",
+      "headline": "Julio Torres Thinks Most Comedy Is Too Easy",
+      "timestamp": "2022-10-10T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/09/world/europe/ukraine-war-soledar.html",
+      "headline": "Rescuing Civilians Along Ukraine’s Front Line",
+      "timestamp": "2022-10-09T20:48:14.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/08/us/politics/week-in-campaign-news.html",
+      "headline": "5 Takeaways From the Campaign Trail",
+      "timestamp": "2022-10-08T12:32:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/t-magazine/art/nate-lewis-art.html",
+      "headline": "A Former Nurse’s Art, Inspired by the I.C.U.",
+      "timestamp": "2022-10-07T20:55:46.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/arts/supreme-court-photo.html",
+      "headline": "The Portrait of Justice",
+      "timestamp": "2022-10-07T16:39:12.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/books/review/southern-novels-quiz.html",
+      "headline": "How Well Do You Know These Novels Set in the American South?",
+      "timestamp": "2022-10-07T15:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/us/politics/senate-midterm-elections-tossup-seats.html",
+      "headline": "With Control of the Senate in Play, These Are the Races to Watch",
+      "timestamp": "2022-10-07T09:00:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/07/arts/weekend-editors-picks-amsterdam.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-10-07T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/well/live/06healthquiz-10062022.html",
+      "headline": "Weekly Health Quiz: Medical Tests, Malaria and Teeth Whitening",
+      "timestamp": "2022-10-06T22:01:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/arts/editors-recommendations-partner-track.html",
+      "headline": "What’s in Our Queue? ‘Partner Track’ and More",
+      "timestamp": "2022-10-06T16:34:36.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/us/uvalde-parent-protest.html",
+      "headline": "One Parent’s Protest in Uvalde",
+      "timestamp": "2022-10-06T16:34:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/well/self-care-tips-guided-runs.html",
+      "headline": "How I Hold It Together: Guided Runs and More",
+      "timestamp": "2022-10-06T14:53:59.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/business/strong-dollar-what-to-know.html",
+      "headline": "What to Know About the Strong Dollar",
+      "timestamp": "2022-10-06T14:25:34.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/realestate/jersey-city-heights-houses.html",
+      "headline": "Sizing Up to a House in Jersey City: How Much Work Was Too Much?",
+      "timestamp": "2022-10-06T09:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/06/travel/things-to-do-nyc.html",
+      "headline": "New York City",
+      "timestamp": "2022-10-06T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/05/world/asia/li-wenliang-letter-chinese.html",
+      "headline": "李文亮的自我批评",
+      "timestamp": "2022-10-06T02:14:35.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/05/world/asia/li-wenliang-letter.html",
+      "headline": "Dr. Li’s Apology Letter",
+      "timestamp": "2022-10-06T02:08:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/05/books/review/nobel-literature-laureates-quiz.html",
+      "headline": "Lit Trivia: Can You Name These Literary Nobel Prize Laureates?",
+      "timestamp": "2022-10-05T21:43:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/05/style/fashion-week-highlights-paris-ny-milan.html",
+      "headline": "Wow moments",
+      "timestamp": "2022-10-05T16:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/04/climate/south-asia-monsoon-climate-change.html",
+      "headline": "The Monsoon Is Becoming More Extreme",
+      "timestamp": "2022-10-05T01:33:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/04/climate/04south-asia-monsoon-climate-change.html",
+      "headline": "The Monsoon Is Becoming More Extreme",
+      "timestamp": "2022-10-05T01:33:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/04/sports/baseball/al-home-run-record-aaron-judge.html",
+      "headline": "A History of the A.L.’s Home Run Record",
+      "timestamp": "2022-10-05T00:37:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/04/smarter-living/wirecutter/leaf-peeping-things.html",
+      "headline": "5 Cheap(ish) Things to Bring Leaf Peeping",
+      "timestamp": "2022-10-04T17:40:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/04/opinion/mental-health-america-power.html",
+      "headline": "Power, Politics and Feelings",
+      "timestamp": "2022-10-04T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/03/us/me-too-five-years.html",
+      "headline": "How to Measure the Impact of #MeToo?",
+      "timestamp": "2022-10-04T03:01:12.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/03/sports/soccer/soccer-abuse-read-report.html",
+      "headline": "Read the Report on Abuse in Women’s Soccer",
+      "timestamp": "2022-10-03T17:23:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/03/world/americas/tracking-orlene.html",
+      "headline": "Map: Tracking Hurricane Orlene",
+      "timestamp": "2022-10-03T16:29:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/02/us/hurricane-ian-rescue-pine-island.html",
+      "headline": "On the Scene: Hurricane Ian Rescue Missions",
+      "timestamp": "2022-10-02T21:59:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/02/espanol/brasil-eleccion.html",
+      "headline": "Brasil vota por su próximo presidente",
+      "timestamp": "2022-10-02T18:58:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/02/world/americas/brazil-election-bolsonaro.html",
+      "headline": "Brazilians Vote for Their Next President",
+      "timestamp": "2022-10-02T17:42:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/01/us/hurricane-ian-fort-myers-beach-damage.html",
+      "headline": "What Hurricane Ian Destroyed in a Florida Beach Town",
+      "timestamp": "2022-10-02T01:53:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/01/us/politics/week-in-midterms-news.html",
+      "headline": "5 Takeaways From the Campaign Trail",
+      "timestamp": "2022-10-01T13:40:29.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/01/us/politics/01pol-burst.html",
+      "headline": "5 Takeaways From the Campaign Trail",
+      "timestamp": "2022-10-01T13:40:29.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/arts/design/follow-instagram-photographers.html",
+      "headline": "Photography our Photo Editors Are Following",
+      "timestamp": "2022-09-30T18:30:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/us/fort-myers-photos.html",
+      "headline": "On the Scene: Florida After Hurricane Ian",
+      "timestamp": "2022-09-30T18:14:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/well/mindful-drinking-sober-october.html",
+      "headline": "3 Steps to Embrace ‘Mindful Drinking’",
+      "timestamp": "2022-09-30T15:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/books/review/page-screen-author-quiz.html",
+      "headline": "Page and Screen: How Well Do You Know This Best-Selling Author?",
+      "timestamp": "2022-09-30T14:30:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/30/opinion/focus-group-college-students.html",
+      "headline": "These 12 College Students Don’t Like The System They’re In",
+      "timestamp": "2022-09-30T05:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/climate/hurricane-ian-florida-intensity.html",
+      "headline": "How Hurricane Ian Became So Powerful",
+      "timestamp": "2022-09-29T21:30:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/well/live/29healthquiz-09292022.html",
+      "headline": "Weekly Health Quiz: Covid, Brown Noise and U.T.I.s",
+      "timestamp": "2022-09-29T20:32:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/us/middle-eastern-north-african-race-survey.html",
+      "headline": "Are You of Middle Eastern or North African Descent?",
+      "timestamp": "2022-09-29T18:59:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/smarter-living/wirecutter/travel-delay-gear.html",
+      "headline": "What You Need for Air Travel Delays",
+      "timestamp": "2022-09-29T18:47:36.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/us/hurricane-ian-flooding-fort-myers-florida.html",
+      "headline": "Map: Where Hurricane Ian Hit Florida Hardest",
+      "timestamp": "2022-09-29T18:12:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/movies/film-festival-new-york.html",
+      "headline": "Film Festival Season Comes to New York",
+      "timestamp": "2022-09-29T17:43:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/realestate/westchester-housing-bidding-war.html",
+      "headline": "Buying a Westchester House ‘for the Dogs,’ but Could They Survive a Bidding War?",
+      "timestamp": "2022-09-29T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/us/politics/kamala-harris-korea-dmz.html",
+      "headline": "On the Scene: The Vice President in Asia",
+      "timestamp": "2022-09-29T15:21:49.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/realestate/29hunt-ettlinger.html",
+      "headline": "Buying a Westchester House ‘for the Dogs,’ but Could They Survive a Bidding War?",
+      "timestamp": "2022-09-29T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/29/travel/popular-traditional-food-dishes-asia.html",
+      "headline": "Tastes of Asia",
+      "timestamp": "2022-09-29T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/arts/editors-recommendations-brilliant-friend.html",
+      "headline": "What’s in Our Queue? ‘My Brilliant Friend’ and More",
+      "timestamp": "2022-09-28T19:14:35.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/world/europe/russian-soldiers-phone-calls-ukraine.html",
+      "headline": "‘Putin Is a Fool’: Intercepted Calls Reveal Russian Army in Disarray",
+      "timestamp": "2022-09-28T17:48:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/opinion/published-in-error.html",
+      "headline": "Editors’ Note: This article was published in error",
+      "timestamp": "2022-09-28T15:52:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/opinion/26focusgroup.html",
+      "headline": "tk",
+      "timestamp": "2022-09-28T15:52:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/28/us/abortion-costs-funds.html",
+      "headline": "What It Costs to Get an Abortion Now",
+      "timestamp": "2022-09-28T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/27/us/politics/what-is-60-day-rule.html",
+      "headline": "The Justice Dept.’s ‘60-Day Rule’",
+      "timestamp": "2022-09-27T17:22:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/27/opinion/how-to-treat-depression.html",
+      "headline": "How Is Depression Treated? Let Me Show You.",
+      "timestamp": "2022-09-27T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/27/opinion/mental-health-america-therapy.html",
+      "headline": "Inside and Outside the Doctor’s Office",
+      "timestamp": "2022-09-27T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/26/world/asia/china-fishing-south-america.html",
+      "headline": "How China Targets the Global Fish Supply",
+      "timestamp": "2022-09-26T21:00:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/26/magazine/elizabeth-banks-interview.html",
+      "headline": "Elizabeth Banks Thinks This Interview Is Dangerous for Her",
+      "timestamp": "2022-09-26T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/24/climate/tropical-storm-ian-hurricane-path-tracker.html",
+      "headline": "Map: Tracking Tropical Storm Ian",
+      "timestamp": "2022-09-24T04:10:19.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/23/well/mind/brown-noise.html",
+      "headline": "Can Brown Noise Turn Off Your Brain?",
+      "timestamp": "2022-09-23T22:54:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/23/books/review/banned-books-quiz.html",
+      "headline": "Title Search: How Well Do You Know Banned Books?",
+      "timestamp": "2022-09-23T13:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/23/arts/weekend-editors-picks-dont-worry-darling.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-09-23T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/23/well/mind/bisexual-mental-health.html",
+      "headline": "Why Bisexual Adults Report Higher Rates of Mental Distress",
+      "timestamp": "2022-09-23T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/sports/ncaafootball/23pac-12-uc-regents-letter.html",
+      "headline": "Read the Pac-12 Letter to the University of California Regents",
+      "timestamp": "2022-09-23T00:26:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/well/live/22HealthQuiz-09222022.html",
+      "headline": "Weekly Health Quiz: Broken Hearts, Anxiety and Exercise",
+      "timestamp": "2022-09-22T21:50:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/los-angeles-chargers-nfl-playoff-picture.html",
+      "headline": "How the Los Angeles Chargers Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/us/politics/h-walker-enterprises.html",
+      "headline": "Corporate Charter for H. Walker Enterprises",
+      "timestamp": "2022-09-22T19:09:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/us/politics/renaissance-man-food-services.html",
+      "headline": "Corporate Charter for Renaissance Man Food Services",
+      "timestamp": "2022-09-22T19:09:43.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/washington-commanders-nfl-playoff-picture.html",
+      "headline": "How the Washington Commanders Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/pittsburgh-steelers-nfl-playoff-picture.html",
+      "headline": "How the Pittsburgh Steelers Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/tampa-bay-buccaneers-nfl-playoff-picture.html",
+      "headline": "How the Tampa Bay Buccaneers Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/tennessee-titans-nfl-playoff-picture.html",
+      "headline": "How the Tennessee Titans Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/new-york-jets-nfl-playoff-picture.html",
+      "headline": "How the New York Jets Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/san-francisco-49ers-nfl-playoff-picture.html",
+      "headline": "How the San Francisco 49ers Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/seattle-seahawks-nfl-playoff-picture.html",
+      "headline": "How the Seattle Seahawks Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/minnesota-vikings-nfl-playoff-picture.html",
+      "headline": "How the Minnesota Vikings Can Make the Playoffs: Through Week 2",
+      "timestamp": "2022-09-22T18:52:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/smarter-living/wirecutter/roadside-emergency-gear.html",
+      "headline": "What You Need for a Roadside Emergency",
+      "timestamp": "2022-09-22T18:46:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/technology/russia-putin-surveillance-spying.html",
+      "headline": "‘They Are Watching’: Inside Russia’s Vast Surveillance State",
+      "timestamp": "2022-09-22T11:53:43.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/climate/wildfire-smoke-pollution.html",
+      "headline": "Wildfire Smoke Is Erasing Progress on Clean Air",
+      "timestamp": "2022-09-22T09:30:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/realestate/three-bedroom-brooklyn-williamsburg-dumbo.html",
+      "headline": "They Wanted Good Light and a Dog Park. But the Front Door Could Not Face South. ",
+      "timestamp": "2022-09-22T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/22/arts/music/audience-linda-lindas.html",
+      "headline": "Preschool Punks and Dancing Mommies at the Linda Lindas Show",
+      "timestamp": "2022-09-22T09:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/nyregion/read-trump-suit-james.html",
+      "headline": "Read the lawsuit",
+      "timestamp": "2022-09-21T21:00:33.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/bolivia-animal-photos.html",
+      "headline": "Inside an Animal Sanctuary in Bolivia Where Tourists Can Help",
+      "timestamp": "2022-09-21T20:33:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/ghana-animal-photos.html",
+      "headline": "A Paradise of Birds in Ghana’s Kakum National Park",
+      "timestamp": "2022-09-21T20:32:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/french-guiana-animal-photos.html",
+      "headline": "Meeting the Beasts of the Jungle in French Guiana",
+      "timestamp": "2022-09-21T20:32:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/animal-cafe-photos.html",
+      "headline": "Inside Seoul’s Wild Animal Cafes",
+      "timestamp": "2022-09-21T20:31:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/icelandic-horses-photos.html",
+      "headline": "The Fantastical Beauty of Icelandic Horses",
+      "timestamp": "2022-09-21T20:29:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/animal-voyages.html",
+      "headline": "Lessons From a Lifetime of Animal Voyages",
+      "timestamp": "2022-09-21T20:29:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/magazine/animal-photos.html",
+      "headline": "Where the Wild Things Are",
+      "timestamp": "2022-09-21T20:28:37.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/arts/editors-recommendations-never.html",
+      "headline": "What’s in Our Queue? ‘Never Have I Ever’ and More",
+      "timestamp": "2022-09-21T17:57:58.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/learning/21VocabQuizLN.html",
+      "headline": "Vocabulary in Context: Gen Z At Work",
+      "timestamp": "2022-09-21T15:29:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/world/europe/ukraine-maps-momentum.html",
+      "headline": "Can Ukraine Break Through Again?",
+      "timestamp": "2022-09-21T09:56:46.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/21/us/politics/gop-house.html",
+      "headline": "How Republicans Could Win Control of the House",
+      "timestamp": "2022-09-21T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/insider/making-of-queen-elizabeth-obituary.html",
+      "headline": "An Obituary 80 Years in the Making",
+      "timestamp": "2022-09-20T22:14:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/us/politics/cost-of-voting.html",
+      "headline": "The ‘Cost’ of Voting in America: A Look at Where It’s Easiest and Hardest",
+      "timestamp": "2022-09-20T15:08:11.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/style/new-york-fashion-week-noteworthy-looks.html",
+      "headline": "Seven Looks That Defined New York Fashion Week",
+      "timestamp": "2022-09-20T13:15:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/opinion/mental-health-america-politics.html",
+      "headline": "Your Mental Health Isn’t Just About You",
+      "timestamp": "2022-09-20T09:00:29.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/opinion/therapy-america-covid.html",
+      "headline": "Who Is Going to Therapy in America?",
+      "timestamp": "2022-09-20T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/opinion/mental-health-america.html",
+      "headline": "What Is Mental Health in America?",
+      "timestamp": "2022-09-20T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/20/us/politics/green-gray-infrastructure.html",
+      "headline": "Understanding Green Infrastructure",
+      "timestamp": "2022-09-20T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/19/world/europe/queen-funeral-order-of-service.html",
+      "headline": "Read the Order of Service for Queen Elizabeth II’s State Funeral",
+      "timestamp": "2022-09-19T10:48:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/dining/best-restaurants-list-america.html",
+      "headline": "Our 50 Favorite Restaurants of 2022",
+      "timestamp": "2022-09-19T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/18/sports/football/jets-vs-browns-highlights.html",
+      "headline": "How the Jets Stunned the Browns, 31-30",
+      "timestamp": "2022-09-19T00:22:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/18/upshot/times-siena-poll-hispanic-crosstabs.html",
+      "headline": "September 2022 Times/Siena Poll: Cross-Tabs for Hispanic and Latino Respondents",
+      "timestamp": "2022-09-18T06:50:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/18/business/queen-elizabeth-king-charles-britain.html",
+      "headline": "The Queen Is Everywhere. What Will the Royal Makeover Cost?",
+      "timestamp": "2022-09-18T04:11:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/world/asia/typhoon-nanmadol-path-tracker-map.html",
+      "headline": "Map: Tracking Typhoon Nanmadol",
+      "timestamp": "2022-09-17T02:35:48.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/smarter-living/wirecutter/wear-backpack.html",
+      "headline": "How to Wear Your Backpack Properly",
+      "timestamp": "2022-09-16T18:11:49.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/books/review/nasa-space-books-quiz.html",
+      "headline": "Lit Trivia: How Well Do You Know Books About the U.S. Space Program?",
+      "timestamp": "2022-09-16T15:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/arts/weekend-editors-picks-woman-king.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-09-16T09:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/world/europe/mykolaiv-ukraine-firefighters-russia.html",
+      "headline": "Fire and Fear in South Ukraine",
+      "timestamp": "2022-09-16T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/16/upshot/september-2022-times-siena-poll-crosstabs.html",
+      "headline": "September 2022 Times/Siena Poll: Cross-Tabs for All Respondents",
+      "timestamp": "2022-09-16T06:55:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/nyregion/jacob-riis-beach-nyc.html",
+      "headline": "Is This the End of the People’s Beach?",
+      "timestamp": "2022-09-16T02:23:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/well/live/15HealthQuiz-09152022.html",
+      "headline": "Weekly Health Quiz: Monkeypox Scars, Lymphatic Drainage and Food Sensitivity",
+      "timestamp": "2022-09-15T21:05:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/sports/tennis/roger-federer-tennis-shots.html",
+      "headline": "The Shots That Made Roger Federer",
+      "timestamp": "2022-09-15T18:56:14.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/us/politics/john-fetterman-stroke.html",
+      "headline": "Two Stroke Survivors, Talking Politics",
+      "timestamp": "2022-09-15T18:48:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/climate/climate-noaa-weather.html",
+      "headline": "Record Summer Weather",
+      "timestamp": "2022-09-15T18:02:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/us/migrant-busing.html",
+      "headline": "Understanding the Migrant Busing Crisis",
+      "timestamp": "2022-09-15T17:35:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/climate/tropical-storm-fiona-hurricane-path-tracker.html",
+      "headline": "Map: Tracking Tropical Storm Fiona",
+      "timestamp": "2022-09-15T17:26:21.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/world/europe/queen-elizabeth-queue-line.html",
+      "headline": "The Overnight Wait to See the Queen  ",
+      "timestamp": "2022-09-15T16:24:33.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/nyregion/tree-plantings-nyc.html",
+      "headline": "Coming Soon to New York: More Trees",
+      "timestamp": "2022-09-15T15:25:36.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/realestate/brooklyn-manhattan-one-bedroom-apartment.html",
+      "headline": "Seeking a ‘One-Bedroom With the Basics’ in Brooklyn or Manhattan. Which Would Be More Affordable?",
+      "timestamp": "2022-09-15T09:00:10.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/arts/television/coming-out-gay-tv.html",
+      "headline": "The Faces That Look Back at Us When We Come Out, Again and Again",
+      "timestamp": "2022-09-15T09:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/15/learning/14CountryPhotoQuiz.html",
+      "headline": "Can You Guess the Country? A Geography Photo Quiz for Students",
+      "timestamp": "2022-09-15T08:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/14/climate/san-francisco-fog.html",
+      "headline": "The Elusive Future of San Francisco’s Fog",
+      "timestamp": "2022-09-15T00:05:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/14/arts/editors-recommendations-everythings-trash.html",
+      "headline": "What’s in our Queue? ‘Everything’s Trash’ and More",
+      "timestamp": "2022-09-14T17:57:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire-us-house-district-2.html",
+      "headline": "New Hampshire Second Congressional District Primary Election Results",
+      "timestamp": "2022-09-13T22:47:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/15-week-abortion-ban.html",
+      "headline": "How a Proposed 15-Week Federal Abortion Ban Compares With State Laws",
+      "timestamp": "2022-09-13T20:57:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire-us-house-district-1.html",
+      "headline": "New Hampshire First Congressional District Primary Election Results",
+      "timestamp": "2022-09-13T20:47:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-us-house-district-1.html",
+      "headline": "Rhode Island First Congressional District Primary Election Results",
+      "timestamp": "2022-09-13T20:47:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-lieutenant-governor.html",
+      "headline": "Rhode Island Lieutenant Governor Primary Election Results",
+      "timestamp": "2022-09-13T20:47:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-governor.html",
+      "headline": "Rhode Island Governor Primary Election Results",
+      "timestamp": "2022-09-13T20:47:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-delaware.html",
+      "headline": "Delaware Primary Election Results",
+      "timestamp": "2022-09-13T20:39:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island.html",
+      "headline": "Rhode Island Primary Election Results",
+      "timestamp": "2022-09-13T20:39:52.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-delaware-new-hampshire-rhode-island.html",
+      "headline": "Live Primary Results: Tonight’s Key Races",
+      "timestamp": "2022-09-13T20:39:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire.html",
+      "headline": "New Hampshire Primary Election Results",
+      "timestamp": "2022-09-13T20:39:43.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire-us-senate.html",
+      "headline": "New Hampshire U.S. Senate Primary Election Results",
+      "timestamp": "2022-09-13T20:34:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-attorney-general.html",
+      "headline": "Rhode Island Attorney General Primary Election Results",
+      "timestamp": "2022-09-13T20:34:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-delaware-state-auditor.html",
+      "headline": "Delaware State Auditor Primary Election Results",
+      "timestamp": "2022-09-13T20:34:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-new-hampshire-governor.html",
+      "headline": "New Hampshire Governor Primary Election Results",
+      "timestamp": "2022-09-13T20:34:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-secretary-of-state.html",
+      "headline": "Rhode Island Secretary of State Primary Election Results",
+      "timestamp": "2022-09-13T20:34:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/elections/results-rhode-island-us-house-district-2.html",
+      "headline": "Rhode Island Second Congressional District Primary Election Results",
+      "timestamp": "2022-09-13T20:34:49.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/world/europe/queen-elizabeth-whats-next.html",
+      "headline": "The Queen’s Journey Home",
+      "timestamp": "2022-09-13T20:09:30.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/business/economy/us-economy.html",
+      "headline": "How Is the Economy Doing?",
+      "timestamp": "2022-09-13T14:29:33.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/opinion/america-recession-biden-trump.html",
+      "headline": "Is America in a Recession? Here’s What 16 Biden and Trump Supporters Think.",
+      "timestamp": "2022-09-13T05:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-members-stock-trading-list.html",
+      "headline": "These 97 Members of Congress Reported Trades in Companies Influenced by Their Committees",
+      "timestamp": "2022-09-13T09:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/us/politics/congress-stock-trading-investigation.html",
+      "headline": "Stock Trades Reported by Nearly a Fifth of Congress Show Possible Conflicts",
+      "timestamp": "2022-09-13T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/13/opinion/13focusgroup.html",
+      "headline": "Is America in a Recession? Here’s What 16 Biden and Trump Supporters Think.",
+      "timestamp": "2022-09-13T05:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/12/magazine/nick-cave-interview.html",
+      "headline": "Nick Cave Lost Two Sons. His Fans Then Saved His Life.",
+      "timestamp": "2022-09-12T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/11/sports/football/nfl-week-1-facepalms.html",
+      "headline": "N.F.L. Week 1: Five Face-Palm-Worthy Endings",
+      "timestamp": "2022-09-12T03:17:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/11/us/california-fires.html",
+      "headline": "The Weather Cools, but California Fires Rage On",
+      "timestamp": "2022-09-11T23:14:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/t-magazine/ivo-van-hove.html",
+      "headline": "How Ivo van Hove Turns a Novel into a Play",
+      "timestamp": "2022-09-09T15:24:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/books/review/california-novels-quiz.html",
+      "headline": "How Well Do You Know These Novels Set in California?",
+      "timestamp": "2022-09-09T15:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/world/africa/southafrica-blackouts.html",
+      "headline": "In a Power Crisis, South Africans Adjust to Life in the Dark",
+      "timestamp": "2022-09-09T13:36:10.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/sports/tennis/us-open-men-semifinals.html",
+      "headline": "U.S. Open Semifinals: The 4 Men Left",
+      "timestamp": "2022-09-09T13:30:49.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/climate/growing-wildfire-risk-homes.html",
+      "headline": "As Wildfires Grow, Millions of Homes Are Being Built in Harm’s Way",
+      "timestamp": "2022-09-09T09:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/09/travel/fall-travel-plans.html",
+      "headline": "Traveling This Fall? Expect Cheaper Prices, ‘Seasonal Drift’ and, Yes, Chaos",
+      "timestamp": "2022-09-09T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/arts/weekend-editors-picks-pinocchio.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-09-08T20:56:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/well/dentists-teeth-care.html",
+      "headline": "How Dentists Keep Their Own Teeth Healthy",
+      "timestamp": "2022-09-08T20:23:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/world/europe/succession-royal-family.html",
+      "headline": "The New Royal Line of Succession",
+      "timestamp": "2022-09-08T20:05:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/us/bannon-indictment.html",
+      "headline": "Read the Bannon Indictment",
+      "timestamp": "2022-09-08T17:23:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/books/fall-books.html",
+      "headline": "What We're Reading This Fall",
+      "timestamp": "2022-09-08T15:47:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/smarter-living/wirecutter/ask-wc-dollar-store.html",
+      "headline": "Ask Wirecutter: Dollar Store Duds?",
+      "timestamp": "2022-09-08T14:43:09.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/sports/tennis/us-open-women-semifinals.html",
+      "headline": "U.S. Open Semifinals: The 4 Women Left",
+      "timestamp": "2022-09-08T13:05:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/realestate/rockaways-ny-apartments-housing.html",
+      "headline": "Heading to the Rockaways for the Sand and the Subway. Which Apartment Did She Choose?",
+      "timestamp": "2022-09-08T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/08/opinion/urban-highways-segregation.html",
+      "headline": "Mr. Biden, Tear Down This Highway",
+      "timestamp": "2022-09-08T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/07/theater/funny-girl-lea-michele-broadway.html",
+      "headline": "On the Scene: Lea Michele in ‘Funny Girl’ 🎭 ",
+      "timestamp": "2022-09-07T14:52:11.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/07/world/europe/eu-logging-wood-pellets.html",
+      "headline": "Europe Is Sacrificing Its Ancient Forests for Energy",
+      "timestamp": "2022-09-07T04:15:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-1.html",
+      "headline": "Massachusetts First Congressional District Primary Election Results",
+      "timestamp": "2022-09-07T00:32:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-governor.html",
+      "headline": "Massachusetts Governor Primary Election Results",
+      "timestamp": "2022-09-07T00:32:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-suffolk-county-district-attorney.html",
+      "headline": "Massachusetts Primary Election Results: Suffolk County District Attorney",
+      "timestamp": "2022-09-06T22:14:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-secretary-of-state.html",
+      "headline": "Massachusetts Secretary of State Primary Election Results",
+      "timestamp": "2022-09-06T21:31:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-boston-district-attorney.html",
+      "headline": "Massachusetts Primary Election Results: Suffolk County District Attorney",
+      "timestamp": "2022-09-06T21:31:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-8.html",
+      "headline": "Massachusetts Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-lieutenant-governor.html",
+      "headline": "Massachusetts Lieutenant Governor Primary Election Results",
+      "timestamp": "2022-09-06T21:31:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-attorney-general.html",
+      "headline": "Massachusetts Attorney General Primary Election Results",
+      "timestamp": "2022-09-06T21:31:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-7.html",
+      "headline": "Massachusetts Seventh Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-5.html",
+      "headline": "Massachusetts Fifth Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-9.html",
+      "headline": "Massachusetts Ninth Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:19.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-3.html",
+      "headline": "Massachusetts Third Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/elections/results-massachusetts-us-house-district-4.html",
+      "headline": "Massachusetts Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-09-06T21:31:17.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/us/politics/biden-migration-numbers.html",
+      "headline": "Record Levels of Migration, by the Numbers",
+      "timestamp": "2022-09-06T17:51:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/realestate/rent-affordability-states-questions.html",
+      "headline": "7 Questions About Rent, Answered",
+      "timestamp": "2022-09-06T15:59:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/06/sports/soccer/kylian-mbappe-interview-audio.html",
+      "headline": "Our Interview With Kylian Mbappé: Audio Excerpts",
+      "timestamp": "2022-09-06T12:31:30.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/05/world/asia/typhoon-hinnamnor-tracking-map.html",
+      "headline": "Map: Tracking Typhoon Hinnamnor",
+      "timestamp": "2022-09-05T22:36:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/05/world/africa/senegal-express-train.html",
+      "headline": "In Senegal, Riding the Train for the First Time",
+      "timestamp": "2022-09-05T19:57:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/05/magazine/lynda-barry-interview.html",
+      "headline": "A Genius Cartoonist Believes Child’s Play Is Anything But Frivolous",
+      "timestamp": "2022-09-05T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/03/us/fbi-mar-a-lago-documents.html",
+      "headline": "What the F.B.I. Seized From Mar-a-Lago, Illustrated",
+      "timestamp": "2022-09-03T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/03/sports/tennis/serena-williams-final-match-zoom.html",
+      "headline": "Serena’s Magic Comes to an End",
+      "timestamp": "2022-09-03T04:47:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/multimedia/serena-williams-tennis-hairstyles.html",
+      "headline": "Serena’s Game Day Hair",
+      "timestamp": "2022-09-02T16:07:08.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/smarter-living/wirecutter/clean-toaster.html",
+      "headline": "How to Clean Your Toaster",
+      "timestamp": "2022-09-02T15:46:10.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/books/review/page-stage-screen-books-quiz.html",
+      "headline": "Page, Stage and Screen: How Well Do You Know This Author?",
+      "timestamp": "2022-09-02T15:00:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/realestate/luxury/new-york-indoor-private-pools.html",
+      "headline": "Beneath the Surface: A Peek at Private Pools",
+      "timestamp": "2022-09-02T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/02/arts/weekend-editors-picks-rings-of-power.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-09-02T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/well/live/01HealthQuiz-09012022.html",
+      "headline": "Weekly Health Quiz: Covid-19 Boosters, Teens and Love Languages",
+      "timestamp": "2022-09-01T19:32:36.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/us/mississippi-water.html",
+      "headline": "A Water Crisis Drags On in Mississippi",
+      "timestamp": "2022-09-01T17:10:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/sports/baseball/edwin-diaz-timmy-trumpet.html",
+      "headline": "Timmy Trumpet Gives Mets Closer a Live Rendition of ‘Narco’",
+      "timestamp": "2022-09-01T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/realestate/01hunt-sample.html",
+      "headline": "Two Children, Two Cats and a Dog (and 250 Mice): She Needed a New Plan. Which Option Would You Choose?",
+      "timestamp": "2022-09-01T09:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/opinion/schools-education-america.html",
+      "headline": "What Is School For?",
+      "timestamp": "2022-09-01T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/opinion/us-school-parents.html",
+      "headline": "‘A Breach of Trust’: Three Parents on Why They Became School Activists",
+      "timestamp": "2022-09-01T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/09/01/opinion/us-school-teachers.html",
+      "headline": "These 12 Teachers Don’t See Themselves as Superheroes",
+      "timestamp": "2022-09-01T05:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/31/sports/tennis/serena-williams-players-box-us-open.html",
+      "headline": "Who’s Who in Serena Williams’s Player’s Box",
+      "timestamp": "2022-09-01T00:25:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/31/us/politics/covid-omicron-boosters-latest.html",
+      "headline": "What to Know: Updated Covid Boosters",
+      "timestamp": "2022-08-31T21:00:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/31/arts/editors-recommendations-rehearsal.html",
+      "headline": "What’s in Our Queue? ‘The Rehearsal’ and More",
+      "timestamp": "2022-08-31T19:05:19.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/31/us/doj-trump-special-master.html",
+      "headline": "Read the Justice Department’s Response to Trump’s Request for a Special Master",
+      "timestamp": "2022-08-31T13:23:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/31/us/doj-response-to-trump-request-for-special-master.html",
+      "headline": "Read the Justice Department’s Response to Trump’s Request for a Special Master",
+      "timestamp": "2022-08-31T13:23:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/us/politics/trump-fec-complaint.html",
+      "headline": "Complaint About Trump From American Bridge to the Federal Election Commission",
+      "timestamp": "2022-08-30T21:08:46.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/us/politics/30FEC-complaint-trump.html",
+      "headline": "Complaint About Trump From American Bridge to the Federal Election Commission",
+      "timestamp": "2022-08-30T21:08:46.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/us/politics/fec-complaint-biden.html",
+      "headline": "Complaint About Biden From Americans for Public Trust to the Federal Election Commission",
+      "timestamp": "2022-08-30T19:07:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/nyregion/serena-williams-us-open.html",
+      "headline": "Serena Fans, Unite",
+      "timestamp": "2022-08-30T14:15:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/business/nickel-mine-united-states-electric-cars.html",
+      "headline": "By the Numbers: Electric Vehicle Minerals",
+      "timestamp": "2022-08-30T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/30/sports/tennis/us-open-quiz-2022.html",
+      "headline": "Are You a U.S. Open Fan? This Test Will Tell.",
+      "timestamp": "2022-08-30T04:32:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/29/magazine/father-mike-schmitz-interview.html",
+      "headline": "A Catholic Podcasting Star Says Theocracy Is Not the Way",
+      "timestamp": "2022-08-29T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/29/world/deep-sea-riches-mining-nodules.html",
+      "headline": "Deep-Sea Riches: Mining a Remote Ecosystem",
+      "timestamp": "2022-08-29T07:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/28/sports/tennis/serena-age-opponents.html",
+      "headline": "Serena Williams Dominated Her Generation, Then the Next One, Too",
+      "timestamp": "2022-08-28T20:39:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/28/sports/tennis/tennis-serve-ball-toss.html",
+      "headline": "The Toss",
+      "timestamp": "2022-08-28T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/27/science/nasa-moon-artemis-launch.html",
+      "headline": "How 3 NASA Missions Could Send Astronauts Back to the Moon",
+      "timestamp": "2022-08-27T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/us/trump-search-affidavit-release.html",
+      "headline": "The Affidavit for the Search of Trump’s Home, Annotated",
+      "timestamp": "2022-08-26T20:17:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/your-money/student-loan-forgiveness-debt.html",
+      "headline": "Why Student Loan Borrowers Need Relief",
+      "timestamp": "2022-08-26T16:59:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/us/mar-a-lago-affidavit-pdf.html",
+      "headline": "Read the affidavit",
+      "timestamp": "2022-08-26T16:49:30.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/books/review/title-search-science-fiction.html",
+      "headline": "Title Search: How Well Do You Know Speculative Fiction?",
+      "timestamp": "2022-08-26T15:31:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/magazine/tips-for-everything.html",
+      "headline": "How to Do Everything",
+      "timestamp": "2022-08-26T14:04:09.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/us/politics/midterm-election-ads-democrats-far-right.html",
+      "headline": "Democrats Gamble With Ads That Highlight Far-Right Candidates",
+      "timestamp": "2022-08-26T09:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/26/arts/weekend-editors-picks-3000-years-of-longing.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-08-26T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/t-magazine/art/keith-jackson-armory-show.html",
+      "headline": "A Painter Whose Subjects Are His Siblings",
+      "timestamp": "2022-08-25T19:52:59.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/smarter-living/wirecutter/clean-baking-sheets.html",
+      "headline": "How to Clean Baking Sheets",
+      "timestamp": "2022-08-25T14:25:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/science/spider-facts-news.html",
+      "headline": "Spider Facts, Spider Fiction",
+      "timestamp": "2022-08-25T13:52:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/realestate/25hunt-johnson.html",
+      "headline": "When Los Angeles Slipped Out of Her Budget, She Looked East for More Space. Which Home Did She Choose?",
+      "timestamp": "2022-08-25T09:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/upshot/female-voters-dobbs.html",
+      "headline": "After Roe, Women Surged in Signing Up to Vote in Some States",
+      "timestamp": "2022-08-25T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/25/world/asia/china-taiwan-conflict-blockade.html",
+      "headline": "How China Could Choke Taiwan",
+      "timestamp": "2022-08-25T04:18:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/24/business/student-loan-forgiveness-explained.html",
+      "headline": "Student Loan Forgiveness, Explained",
+      "timestamp": "2022-08-24T21:33:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/24/arts/editors-recommendations-only-murders.html",
+      "headline": "What’s in Our Queue? ‘Only Murders in the Building’ and More",
+      "timestamp": "2022-08-24T20:44:49.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/24/us/politics/justice-dept-memo-barr.html",
+      "headline": "Read the Justice Department’s Memo to Attorney General William P. Barr",
+      "timestamp": "2022-08-24T20:14:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-11.html",
+      "headline": "New York 11th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-us-house-district-4.html",
+      "headline": "Florida Fourth Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:14.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-2.html",
+      "headline": "New York Second Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:14.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-10.html",
+      "headline": "New York 10th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-us-house-district-9.html",
+      "headline": "Florida Ninth Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-24.html",
+      "headline": "New York 24th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-19.html",
+      "headline": "New York 19th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-attorney-general.html",
+      "headline": "Florida Attorney General Primary Election Results",
+      "timestamp": "2022-08-23T21:34:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-19-special.html",
+      "headline": "New York 19th Congressional District Special Election Results",
+      "timestamp": "2022-08-23T21:34:11.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/politics/national-archives-letter-trump-fbi.html",
+      "headline": "Read the National Archives Letter to a Trump Lawyer",
+      "timestamp": "2022-08-23T20:57:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york.html",
+      "headline": "New York Primary Election Results",
+      "timestamp": "2022-08-23T20:13:59.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-oklahoma.html",
+      "headline": "Oklahoma Runoff Election Results",
+      "timestamp": "2022-08-23T20:13:34.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-new-york-oklahoma.html",
+      "headline": "Live Primary Results: Tonight’s Key Races",
+      "timestamp": "2022-08-23T20:13:34.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida.html",
+      "headline": "Florida Primary Election Results",
+      "timestamp": "2022-08-23T20:13:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-21.html",
+      "headline": "New York 21st Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-us-senate.html",
+      "headline": "Florida U.S. Senate Primary Election Results",
+      "timestamp": "2022-08-23T20:08:52.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-florida-us-house-district-8.html",
+      "headline": "Florida Eighth Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-18.html",
+      "headline": "New York 18th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:50.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-16.html",
+      "headline": "New York 16th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:48.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/23/us/elections/results-new-york-us-house-district-12.html",
+      "headline": "New York 12th Congressional District Primary Election Results",
+      "timestamp": "2022-08-23T20:08:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/us/fire-tracker-maps.html",
+      "headline": "Track Wildfires in the West",
+      "timestamp": "2022-08-22T13:55:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/22/us/trump-endorsements.html",
+      "headline": "How Trump’s Endorsements Elevate Election Lies and Inflate His Political Power",
+      "timestamp": "2022-08-22T09:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/08/20/sports/soccer/soccer-title-ix.html",
+      "headline": "The Women Who Finally Got Their Chance to Play Soccer",
+      "timestamp": "2022-08-21T02:11:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2022-08-17T14:22:14.647Z",
+  "lastUpdated": "2022-10-06T04:44:59.432Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/31185370-87f3-4ecb-b64d-341bbc4e5c22",
+      "headline": "Why Big Tech shreds millions of storage devices it could reuse",
+      "timestamp": "2022-10-06T04:00:16.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/2b7109f8-04e2-4137-b7ff-b1caf44cb4bc",
+      "headline": "Electricity calculator: how much will your bills cost this winter?",
+      "timestamp": "2022-10-05T14:00:15.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/ce4f722b-9c90-4509-8bb4-c22bbb37845b",
+      "headline": "How to read a hurricane map",
+      "timestamp": "2022-10-02T11:57:52.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/87d16cce-aa0e-470d-9370-f952b36e5bc6",
+      "headline": "UK economy latest: Labour party stretches poll lead to 33 points, says YouGov",
+      "timestamp": "2022-09-28T22:56:43.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/ukraine-counteroffensive",
+      "headline": "The 90km journey that changed the course of the war in Ukraine",
+      "timestamp": "2022-09-28T04:00:43.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/639e30c6-1569-4933-b75f-a373052af526",
+      "headline": "Five data stories to cheer you up ",
+      "timestamp": "2022-09-27T04:00:30.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/cdd6ac15-d400-4aaf-8c8b-2961744e6219",
+      "headline": "Rare ‘triple dip’ La Niña threatens more floods and drought",
+      "timestamp": "2022-09-23T17:34:24.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/ransomware-game/",
+      "headline": "Can you negotiate your way out of a ransomware attack?",
+      "timestamp": "2022-09-21T04:00:25.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/0afa1e09-fee3-48e1-8d3e-618b3da83946",
+      "headline": "In charts: education around the world ",
+      "timestamp": "2022-09-16T04:00:53.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/4ef98f0a-47c2-47e9-b93a-7e39f1d2a4d7",
+      "headline": "The Queen’s seventy-year reign in ten charts ",
+      "timestamp": "2022-09-09T18:41:10.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/95745636-2d21-46aa-b0f1-6bda1c0fdd0b",
+      "headline": "Personal inflation calculator: what is your inflation rate?",
+      "timestamp": "2022-09-09T04:00:13.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/57c66a89-b046-4c3e-a8aa-d9099bd4da20",
+      "headline": "How do consumers’ energy bills compare across Europe?",
+      "timestamp": "2022-09-07T04:00:28.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/116f34fc-b44d-487d-822b-d3f1926eaca2",
+      "headline": "One-third of Pakistan submerged, satellite data shows",
+      "timestamp": "2022-09-03T09:23:11.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/garden-maze",
+      "headline": "The garden maze and the meaning of life",
+      "timestamp": "2022-08-26T11:08:56.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/fed-inflation",
+      "headline": "Can the Fed tame inflation without causing a recession?",
+      "timestamp": "2022-08-24T14:00:25.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/candy",
+      "headline": "How Oxford Street was overrun by sweet shops",
+      "timestamp": "2022-08-17T14:00:37.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",

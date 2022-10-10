@@ -1,6 +1,34 @@
 {
-  "lastUpdated": "2022-07-17T21:28:24.152Z",
+  "lastUpdated": "2022-09-28T17:39:03.782Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "handle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/us-midterms-2022/forecast/house",
+      "headline": "The Economist’s 2022 House forecast",
+      "timestamp": "2022-09-28T17:39:00.793Z"
+    },
+    {
+      "publication": "The Economist",
+      "handle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/us-midterms-2022/forecast/senate",
+      "headline": "The Economist’s 2022 Senate forecast",
+      "timestamp": "2022-09-26T23:52:12.966Z"
+    },
+    {
+      "publication": "The Economist",
+      "handle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/brazil-2022",
+      "headline": "How close is the race between Jair Bolsonaro and Luiz Inácio Lula da Silva?",
+      "timestamp": "2022-09-21T14:28:22.830Z"
+    },
+    {
+      "publication": "The Economist",
+      "handle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/next-prime-minister-uk",
+      "headline": "Who will be Britain’s next prime minister?",
+      "timestamp": "2022-09-05T08:47:35.384Z"
+    },
     {
       "publication": "The Economist",
       "handle": "ECONdailycharts",

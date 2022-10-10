@@ -1,6 +1,202 @@
 {
-  "lastUpdated": "2022-08-20T10:19:01.327Z",
+  "lastUpdated": "2022-10-08T19:40:22.036Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/10/health/obesity-kiss-it-wellness-cnnphotos/",
+      "headline": "Battling obesity — and telling bullies to 'Kiss It!'",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/10/us/black-women-nonbinary-surfers-cec-cnnphotos/",
+      "headline": "Black women and nonbinary surfers are rarely in the spotlight. This photographer changes that",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/10/us/cnn-5-things-news-quiz-october-6-sec/",
+      "headline": "News Quiz: SpaceX and NASA launched a rocket into space Wednesday. What was its destination?",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/europe/russia-territory-control-ukraine-shift-dg/",
+      "headline": "The turning points in Russia's invasion of Ukraine",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/us/cnn-5-things-news-quiz-september-29-sec/",
+      "headline": "News Quiz: Which pop star will perform at next year's Super Bowl LVII Halftime Show?",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/entertainment/snl-portraits-cnnphotos/",
+      "headline": "'SNL' is back. Here are the stories behind the show's iconic photos",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/us/tylenol-murders-cnnphotos/",
+      "headline": "A nationwide panic, a family tragedy",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/us/cnn-5-things-news-quiz-september-22-sec/",
+      "headline": "News Quiz: Which social media platform banned political fundraising this week?",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/storm-tracker/",
+      "headline": "Tracker: Fiona is near Turks and Caicos. See where it goes next",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/world/queen-elizabeth-ii-farewell-cnnphotos/",
+      "headline": "Saying goodbye to the Queen",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/uk/queen-elizabeth-last-journey-intl-cmd/index.html",
+      "headline": "Final journey: Following the route to the Queen's resting place",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/uk/queen-elizabeth-funeral-procession-intl-cmd-gbr/",
+      "headline": "An interactive guide to the Queen's funeral procession",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/us/cnn-5-things-news-quiz-september-15-sec/",
+      "headline": "News Quiz: Which superstar athlete teased a potential return to competitive sports?",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/style/queen-elizabeth-hats/",
+      "headline": "The Queen's love of hats will be a lasting legacy. See some of her most memorable looks through history",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/travel/queen-elizabeth-travel-timeline/",
+      "headline": "The Queen visited China, Iran, Russia and Saudi Arabia. Here's what happened",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2021/09/us/9-11-photos-cnnphotos/",
+      "headline": "9/11 photos we will never forget",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2016/09/us/inside-9-11-the-day-that-never-ends/",
+      "headline": "Inside 9/11: The day that never ends",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/business/olive-oil-shortage-drought-cnnphotos/",
+      "headline": "Worst drought 'in living memory' threatens olive oil supply",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/us/cnn-5-things-news-quiz-september-8-sec/",
+      "headline": "One of the biggest strikes in US history is brewing at which major company?",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/06/style/queen-elizabeth-portraits-culture/",
+      "headline": "Interactive: The classic and controversial images that turned Queen Elizabeth into a cultural icon",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2020/09/sport/voyager-olympics-munich-spt-intl/",
+      "headline": "How an Olympic image achieved immortality",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/us/cnn-5-things-news-quiz-september-1-sec/",
+      "headline": "Take our weekly news quiz to see how well you know current events",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/09/politics/mar-a-lago-documents-numbers/",
+      "headline": "The big numbers from the Mar-a-Lago search",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/08/sport/by-the-numbers-serena-williams/",
+      "headline": "Serena Williams: The numbers that made her a global superstar",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/08/politics/trump-search-warrant-affidavit-annotated/",
+      "headline": "The affidavit behind the FBI's search of Trump's Mar-a-Lago, annotated",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/08/us/cnn-5-things-news-quiz-august-25-sec/",
+      "headline": "News Quiz: What ancient find was uncovered in a Texas riverbed this week?",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/world/artemis-1-in-numbers-scn/",
+      "headline": "Artemis I in numbers",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/politics/us-redistricting/new-york-redistricting-map/",
+      "headline": "2 incumbents are facing off in New York thanks to redistricting",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",

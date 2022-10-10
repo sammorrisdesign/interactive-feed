@@ -1,6 +1,174 @@
 {
-  "lastUpdated": "2022-07-26T10:23:59.064Z",
+  "lastUpdated": "2022-10-09T10:22:51.486Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/opinion/inq2/2022-election-pennsylvania-endorsements-guide-20221009.html",
+      "timestamp": "2022-10-09T09:00:03.269Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/inquirer-news-quiz-wawa-septa-phillies-20221007.html",
+      "timestamp": "2022-10-07T11:00:04.862Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/new-restaurants-philadelphia-region-2022-2023-20221006.html",
+      "timestamp": "2022-10-06T09:00:09.778Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/readers-choice-best-philly-dining-guide-2022-20221006.html",
+      "timestamp": "2022-10-06T09:00:08.966Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/essential-philly-drinks-cocktails-citywide-2022-20221006.html",
+      "timestamp": "2022-10-06T09:00:08.557Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/philadelphia-restaurants-reinvented-pandemic-2022-20221006.html",
+      "timestamp": "2022-10-06T09:00:08.590Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/philadelphia-restaurant-guide-2022-20221006.html",
+      "timestamp": "2022-10-06T10:21:12.908Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/best-drinks-philadelphia-guide-2022-20221006.html",
+      "timestamp": "2022-10-06T09:00:09.228Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/best-restaurants-philadelphia-2022-craig-laban-20221006.html",
+      "timestamp": "2022-10-06T09:00:07.012Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/craig-laban-six-essential-restaurants-20221006.html",
+      "timestamp": "2022-10-06T09:00:09.770Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/philadelphia-news-quiz-eagles-sixers-drexel-20220930.html",
+      "timestamp": "2022-09-30T09:00:03.744Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/herrs-chips-flavors-factory-tour-how-its-made-20220926.html",
+      "timestamp": "2022-09-26T09:05:00.678Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/health/inq2/healthy-meal-plan-ideas-easy-cheap-philadelphia-20220925.html",
+      "timestamp": "2022-09-25T09:00:04.660Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/george-washington-cheer-team-philadelphia-nationals-20220924.html",
+      "timestamp": "2022-09-24T09:00:03.346Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/health/inq2/abortion-ban-pennsylvania-clinics-access-patients-20220919.html",
+      "timestamp": "2022-09-19T09:04:01.693Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/philadelphia-homicides-gun-violence-summer-2022-20220919.html",
+      "timestamp": "2022-09-19T09:32:49.671Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/gender-pay-gap-philadelphia-men-women-wages-20220915.html",
+      "timestamp": "2022-09-15T09:40:26.528Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/opinion/inq2/ukraine-russia-war-putin-weapons-citizens-20220914.html",
+      "timestamp": "2022-09-14T09:44:44.507Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/septa-lawsuit-reporter-sued-public-records-20220914.html",
+      "timestamp": "2022-09-14T09:00:03.931Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/politics/election/inq2/philadelphia-mayoral-race-2023-candidates-20220909.html",
+      "timestamp": "2022-09-09T09:00:09.535Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/eagles/inq2/eagles-season-preview-schedule-predictions-comic-20220908.html",
+      "timestamp": "2022-09-08T09:00:06.761Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/eagles/inq2/best-eagles-uniforms-jersey-design-20220907.html",
+      "timestamp": "2022-09-07T09:00:05.009Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/eagles/inq2/philadelphia-eagles-new-uniforms-kelly-midnight-green-history-20220907.html",
+      "timestamp": "2022-09-07T09:00:01.993Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/ha-winston-french-onion-soup-recipe-20220901.html",
+      "timestamp": "2022-09-01T09:05:00.429Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/food/inq2/ha-winston-86d-restaurant-20220901.html",
+      "timestamp": "2022-09-01T09:05:00.482Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/news/inq2/more-perfect-union-trade-construction-racism-pennsylvania-20220830.html",
+      "timestamp": "2022-08-30T09:34:01.817Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/science/climate/inq2/new-jersey-beaches-sand-erosion-storms-replenishment-20220825.html",
+      "timestamp": "2022-08-25T09:00:01.965Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/eagles/inq2/philadelphia-eagles-roster-2022-20220823.html",
+      "timestamp": "2022-08-23T18:48:12.316Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",

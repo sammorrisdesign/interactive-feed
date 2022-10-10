@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2022-08-16T19:14:44.227Z",
+  "lastUpdated": "2022-10-06T06:31:03.793Z",
   "articles": [
+    {
+      "publication": "LA Times",
+      "handle": "datagraphics",
+      "url": "https://www.latimes.com/projects/scientists-save-california-forest-wildfires/",
+      "headline": "Wildfires are getting worse. Can scientists save California’s forests from going up in smoke?",
+      "timestamp": "2022-10-06T06:30:52.784Z"
+    },
+    {
+      "publication": "LA Times",
+      "handle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2022-california-election-attorney-general-money-tracker/",
+      "headline": "Track the money flowing into the California attorney general's race",
+      "timestamp": "2022-10-03T17:39:54.959Z"
+    },
+    {
+      "publication": "LA Times",
+      "handle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2022-california-election-controller-money-tracker/",
+      "headline": "Track the money flowing into the California controller's race",
+      "timestamp": "2022-10-03T17:39:54.959Z"
+    },
+    {
+      "publication": "LA Times",
+      "handle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2022-california-election-governor-money-tracker/",
+      "headline": "Track the money flowing into the California governor's race",
+      "timestamp": "2022-09-20T21:43:49.683Z"
+    },
+    {
+      "publication": "LA Times",
+      "handle": "datagraphics",
+      "url": "https://www.latimes.com/california/story/2022-08-25/mount-shasta-climbing-tragedy-what-we-know",
+      "headline": "Steep, icy and 'vicious': How a day of climbing on Mt. Shasta turned deadly",
+      "timestamp": "2022-08-26T04:26:56.728Z"
+    },
     {
       "publication": "LA Times",
       "handle": "datagraphics",

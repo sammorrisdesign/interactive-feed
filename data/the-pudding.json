@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-07-22T10:45:09.988Z",
+  "lastUpdated": "2022-09-16T21:42:43.981Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "handle": "puddingviz",
+      "url": "https://pudding.cool/2022/09/cdmx",
+      "headline": "The Sounds of CDMX",
+      "timestamp": "2022-09-16T04:00:00.000Z"
+    },
+    {
+      "publication": "The Pudding",
+      "handle": "puddingviz",
+      "url": "https://pudding.cool/2022/08/censorship",
+      "headline": "The Big [Censored] Theory",
+      "timestamp": "2022-08-29T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "handle": "puddingviz",

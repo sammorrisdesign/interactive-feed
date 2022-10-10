@@ -1,6 +1,492 @@
 {
-  "lastUpdated": "2022-08-19T20:19:57.012Z",
+  "lastUpdated": "2022-10-10T15:34:02.163Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-boys-2022/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-boys-2022/1662940800000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-boys-2022/1662336000000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-boys-2022/1663545600000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-boys-2022/1664755200000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-boys-2022/1664150400000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-boys-2022/1665360000000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-girls-2022/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-girls-2022/1662940800000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-girls-2022/1662336000000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-girls-2022/1663545600000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-girls-2022/1664755200000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-girls-2022/1664150400000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/athlete-of-the-week-girls-2022/1665360000000/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/astros-golden-age-playoff-series/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/rice-harvest-festival/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/astros-playoff-rally/",
+      "timestamp": "2022-10-07T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/uh-live-mascot-poll/",
+      "timestamp": "2022-10-06T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/top-25-best-bars/",
+      "timestamp": "2022-10-05T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/how-houston-tirz-work/",
+      "timestamp": "2022-10-04T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/how-houston-revenue-cap-works/",
+      "timestamp": "2022-10-04T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2021/visuals/astros-playoffs-bars-watch/",
+      "timestamp": "2022-10-04T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-tirz-map/",
+      "timestamp": "2022-10-03T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-athlete-poll-oct-3/",
+      "timestamp": "2022-10-03T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/best-houston-photos-september/",
+      "timestamp": "2022-10-03T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/katy-rice-village-parade/",
+      "timestamp": "2022-10-03T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/northwest-haunted-houses/",
+      "timestamp": "2022-09-30T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/most-expensive-homes-texas-sept/",
+      "timestamp": "2022-09-30T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/galveston-archbishop-joseph-fiorenza-funeral/",
+      "timestamp": "2022-09-30T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/new-houston-projects/",
+      "timestamp": "2022-09-29T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/hurricane-ike-galveston-photos/",
+      "timestamp": "2022-09-28T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/ike-dike-plan-galveston/",
+      "timestamp": "2022-09-28T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-athlete-poll-sept-26/",
+      "timestamp": "2022-09-26T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/houston-archive-photos-august-1992/",
+      "timestamp": "2022-09-26T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/most-expensive-homes-cypress/",
+      "timestamp": "2022-09-26T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-train-cross/san-antonio/",
+      "timestamp": "2022-09-22T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-texas-voter-guide-november/",
+      "timestamp": "2022-09-21T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-bike-lane-crashes/deaths/",
+      "timestamp": "2022-09-20T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-bike-lane-crashes/",
+      "timestamp": "2022-09-20T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/most-expensive-homes-august/",
+      "timestamp": "2022-09-20T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/cfisd-bond-projects/",
+      "timestamp": "2022-09-20T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/astros-al-west-celebration/",
+      "timestamp": "2022-09-20T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-athlete-poll-sept-19/",
+      "timestamp": "2022-09-19T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/new-houston-restaurant-guide-fall/",
+      "timestamp": "2022-09-19T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/high-school-football-stands/",
+      "timestamp": "2022-09-16T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/daddy-yankee-concert/",
+      "timestamp": "2022-09-16T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/lady-gaga-houston-concert/",
+      "timestamp": "2022-09-14T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/aggies-embarrassing-losses/",
+      "timestamp": "2022-09-12T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/august-photos-courier-montgomery-county/",
+      "timestamp": "2022-09-12T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-athlete-poll-sept-12/",
+      "timestamp": "2022-09-12T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/panic-at-the-disco-concert/",
+      "timestamp": "2022-09-11T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/jfk-rice-speech-anniversary/",
+      "timestamp": "2022-09-11T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/guide/restaurants-kids-eat-free/",
+      "timestamp": "2022-09-11T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hurricane-best-tips/",
+      "timestamp": "2022-09-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/houston-reacts-to-death-of-queen/",
+      "timestamp": "2022-09-09T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-intellectual-disability/",
+      "timestamp": "2022-09-08T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/1991/visuals/queen-elizabeth-houston-visit/",
+      "timestamp": "2022-09-08T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-athlete-poll-sept-5/",
+      "timestamp": "2022-09-05T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/houston-mega-pet-adoption-shelter-crisis/",
+      "timestamp": "2022-09-04T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/kid-cudi-concert/",
+      "timestamp": "2022-09-02T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-things-we-miss/",
+      "timestamp": "2022-09-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/map-scroller/24-hour-houston-restaurants/",
+      "timestamp": "2022-09-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/fort-bend-expensive-homes/",
+      "timestamp": "2022-09-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/woodlands-art-benches-guide/",
+      "timestamp": "2022-08-31T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/cyfair-road-construction/",
+      "timestamp": "2022-08-31T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/texas-most-expensive-home-listings-august/",
+      "timestamp": "2022-08-30T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/battleship-texas-move/",
+      "timestamp": "2022-08-30T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/remington-shadyside-real-estate-quiz/",
+      "timestamp": "2022-08-30T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/houston-old-photos-august-1992/",
+      "timestamp": "2022-08-29T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-athlete-poll-august-29/",
+      "timestamp": "2022-08-29T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-teachers-average-costs/",
+      "timestamp": "2022-08-29T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/sports/2022/texas-college-football-fans/",
+      "timestamp": "2022-08-27T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/anticipated-fall-films/",
+      "timestamp": "2022-08-25T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-commercial-crash/",
+      "timestamp": "2022-08-25T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/major-houston-storms-hurricanes-photos/",
+      "timestamp": "2022-08-25T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/ukraine-art-exhibit/",
+      "timestamp": "2022-08-25T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/houston-cake-flavor/",
+      "timestamp": "2022-08-24T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/quanell-x-timeline/",
+      "timestamp": "2022-08-24T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-floodplain-res-permits/",
+      "timestamp": "2022-08-23T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/hc-floodplain-res-permits/meyerland/",
+      "timestamp": "2022-08-23T00:00:00.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/visuals/houston-secret-menu/",
+      "timestamp": "2022-08-22T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",

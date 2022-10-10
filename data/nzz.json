@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2022-08-19T15:21:07.457Z",
+  "lastUpdated": "2022-10-04T12:46:12.748Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/corona-in-deutschland-aktuelle-zahlen-grafiken-und-regeln-ld.1656184",
+      "headline": "Zahl der Intensivpatienten steigt wieder – und alles Weitere zu Corona in Deutschland in 20 Grafiken",
+      "timestamp": "2022-10-04T11:47:53.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/bag-datenpanne-wie-das-amt-wieder-auf-die-richtige-spur-kam-ld.1705030",
+      "headline": "Der Zürcher Kantonsstatistiker sagt: «Das BAG ist von der Menge an Fragen und Bedürfnissen erdrückt worden»",
+      "timestamp": "2022-10-04T03:00:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/ukraine-krieg-karte-zum-aktuellen-frontverlauf-ld.1671603",
+      "headline": "So entwickelt sich der Ukraine-Krieg – klicken Sie sich Tag für Tag durch unsere Karte",
+      "timestamp": "2022-10-03T07:14:04.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/so-wirkt-sich-die-energiekrise-auf-die-strom-und-gaspreise-aus-ld.1683901",
+      "headline": "Deutschland erzeugt wieder mehr Strom aus Gas als im Vorjahr – und alles Weitere zur Energiekrise in 15 Grafiken",
+      "timestamp": "2022-09-28T07:38:28.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/generation-z-netto-null-zukunft-ld.1704493",
+      "headline": "Generation Z: Netto Null Zukunft",
+      "timestamp": "2022-09-27T14:45:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/es-gibt-fuer-banken-keinen-grund-zu-behaupten-es-sei-unsicher-wenn-leute-im-home-office-statt-vor-ort-arbeiten-ld.1700816",
+      "headline": "«Es gibt für Banken keinen Grund, zu behaupten, es sei gefährlich, wenn Leute im Home-Office arbeiteten»",
+      "timestamp": "2022-09-22T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/die-zahl-der-neuinfektionen-sinkt-leicht-und-alles-weitere-zum-coronavirus-in-der-schweiz-in-neun-grafiken-ld.1542774",
+      "headline": "Die Zahl der Neuinfektionen sinkt leicht  – und alles Weitere zum Coronavirus in der Schweiz in neun Grafiken",
+      "timestamp": "2022-09-20T14:27:25.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/die-naechste-datenpanne-des-bundes-kommt-mit-ankuendigung-ld.1703341",
+      "headline": "Jetzt fehlen aktuelle Stromdaten. Die nächste Panne des Bundes kommt mit Ankündigung",
+      "timestamp": "2022-09-18T12:34:34.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/so-gut-war-roger-federer-seine-rekorde-und-siege-in-9-grafiken-ld.1703039",
+      "headline": "So gut war Roger Federer: 9 Grafiken zu einer einzigartigen Karriere",
+      "timestamp": "2022-09-16T09:39:49.000Z"
+    },
     {
       "publication": "NZZ",
       "handle": "nzzvisuals",

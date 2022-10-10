@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-08-09T14:40:56.687Z",
+  "lastUpdated": "2022-09-26T21:20:01.722Z",
   "articles": [
+    {
+      "publication": "Axios",
+      "handle": "axiosvisuals",
+      "url": "https://www.axios.com/local/philadelphia/game-do-you-know-your-neighborhood",
+      "headline": "Axios Local: Do you know your neighborhood?",
+      "timestamp": "2022-09-26T21:19:51.223Z"
+    },
+    {
+      "publication": "Axios",
+      "handle": "axiosvisuals",
+      "url": "https://www.axios.com/2022/09/15/americas-extreme-summer-weather-of-2022-maps",
+      "headline": "Mapped: America's extreme summer weather of 2022",
+      "timestamp": "2022-09-15T19:39:20.648Z"
+    },
+    {
+      "publication": "Axios",
+      "handle": "axiosvisuals",
+      "url": "https://www.axios.com/2022/08/28/how-hurricanes-wreck-baby-names",
+      "headline": "How hurricanes wreck baby names",
+      "timestamp": "2022-08-31T18:22:44.410Z"
+    },
     {
       "publication": "Axios",
       "handle": "axiosvisuals",

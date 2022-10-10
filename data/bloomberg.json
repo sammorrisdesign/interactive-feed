@@ -1,6 +1,125 @@
 {
-  "lastUpdated": "2022-08-18T14:51:26.921Z",
+  "lastUpdated": "2022-10-07T04:58:53.335Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-pakistan-floods-climate-change-loss-damage-cop27/",
+      "headline": "A New Era of Climate Disasters Revives Calls for Climate Reparations",
+      "timestamp": "2022-10-07T04:00:12.775Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-brazil-election/",
+      "headline": "Brazil Election Live Results 2022",
+      "timestamp": "2022-10-01T20:00:13.470Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/pop-star-ranking/2022-september/hit-songs-are-staying-on-the-top-charts-longer-than-ever.html",
+      "headline": "Hit Songs Are Staying on the Top Charts Longer Than Ever",
+      "timestamp": "2022-09-29T09:00:19.089Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-google-search-abortion-clinic-crisis-pregnancy-center-ads/",
+      "headline": "Google Is Still Failing to Label Many Ads From Anti-Abortion Centers",
+      "timestamp": "2022-09-29T09:00:15.227Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/us-election-risk-index/2022-candidates-challenge-presidential-election-results/",
+      "headline": "These 14 Republican Candidates Actively Fought to Overturn the 2020 Election",
+      "timestamp": "2022-09-28T09:00:16.860Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-europe-energy-crisis-adventure/",
+      "headline": "Can You Manage the Energy Crisis?",
+      "timestamp": "2022-09-26T23:01:14.835Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-europe-energy-crunch-winter-blog/",
+      "headline": "Europe’s Energy Crunch: Winter Updates",
+      "timestamp": "2022-09-26T11:30:50.221Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-remote-work-is-killing-manhattan-commercial-real-estate-market/",
+      "headline": "New York City’s Empty Offices Reveal a Global Property Dilemma",
+      "timestamp": "2022-09-25T20:00:10.831Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-atlantic-hurricane-season/ian.html",
+      "headline": "Tracking Ian’s Latest Path",
+      "timestamp": "2022-09-24T03:11:18.327Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-twitch-problem-with-child-predators/",
+      "headline": "Child Predators Use Twitch to Systematically Track Kids Livestreaming",
+      "timestamp": "2022-09-21T10:00:28.373Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-atlantic-hurricane-season/fiona.html",
+      "headline": "Tracking Fiona’s Latest Path",
+      "timestamp": "2022-09-16T20:31:26.113Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-la-nina-weather-risk-global-economies/",
+      "headline": "The World Has a $1 Trillion La Nina Problem",
+      "timestamp": "2022-09-16T00:00:03.404Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/china-credit-2022-09/",
+      "headline": "China’s State Support Is Helping to Ease Credit Market Stress",
+      "timestamp": "2022-09-15T23:30:03.001Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/us-election-risk-index/2022-election-denier-candidates",
+      "headline": "The Real Winner of GOP’s 2022 Primaries Was Denial of 2020 Election",
+      "timestamp": "2022-09-06T12:00:06.422Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/us-election-risk-index/all-election-denier-officials",
+      "headline": "Here Are the 254 Key Political Leaders Who Back Trump’s False Claims of Election Fraud",
+      "timestamp": "2022-09-06T12:00:03.167Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-harvard-university-of-texas-richest-college-oil-endowments/",
+      "headline": "Harvard’s Status as Wealthiest School Faces Oil-Rich Contender in the University of Texas",
+      "timestamp": "2022-08-22T22:00:16.809Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "handle": "BBGVisualData",
+      "url": "https://www.bloomberg.com/graphics/2022-covid-relief-ppp-loans-small-business/",
+      "headline": "How Fixes to the $800 Billion Covid Relief Program Got Money to More Small Businesses",
+      "timestamp": "2022-08-22T07:23:23.402Z"
+    },
     {
       "publication": "Bloomberg",
       "handle": "BBGVisualData",

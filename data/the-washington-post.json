@@ -1,6 +1,664 @@
 {
-  "lastUpdated": "2022-08-20T01:49:32.654Z",
+  "lastUpdated": "2022-10-08T14:22:23.968Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/supreme-court-abortion-ruling-midterm-elections/",
+      "headline": "Women powered Democrats in the 2018 midterms. Will they again in 2022?",
+      "timestamp": "2022-10-08T14:00:36.900Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/nation/interactive/2022/growing-up-latino-hispanic-heritage-month/",
+      "headline": "Growing Up Latino ",
+      "timestamp": "2022-10-06T16:15:11.921Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2022/hate-running-tips-beginners/",
+      "headline": "10 ways to start running even if you kind of hate it",
+      "timestamp": "2022-10-06T10:02:05.310Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/elections/interactive/2022/election-deniers-running-for-office-elections-2022/",
+      "headline": "Where Republican election deniers are on the ballot near you",
+      "timestamp": "2022-10-06T10:00:43.273Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/willem-de-kooning-door-to-river/",
+      "headline": "If you owned this painting, you’d never watch TV again",
+      "timestamp": "2022-10-05T15:56:56.297Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/food/interactive/2022/best-restaurants-in-dc-2022/",
+      "headline": "2022 Fall Dining Guide",
+      "timestamp": "2022-10-05T14:00:58.117Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/democracy-toolkit-midterm-elections-2022/",
+      "headline": "Build a personalized democracy toolkit to get ready for the midterms ",
+      "timestamp": "2022-10-04T14:08:51.135Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2022/coffee-vs-tea-nutrition-health/",
+      "headline": "Coffee vs. tea smackdown",
+      "timestamp": "2022-10-04T10:04:24.742Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/rooney-rule-nfl-black-coaches/",
+      "headline": "The failed NFL diversity ‘rule’ corporate America loves",
+      "timestamp": "2022-10-04T10:00:38.162Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/abelardo-morell-camera-obscura/",
+      "headline": "Van Gogh through a pinhole",
+      "timestamp": "2022-10-02T11:00:18.234Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/weather/interactive/2022/aerial-hurricane-ian-images-florida/",
+      "headline": "Explore aerial images of Hurricane Ian’s damage to the Florida coast",
+      "timestamp": "2022-10-01T13:30:08.189Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/elections/interactive/find-your-congressional-district/",
+      "headline": "Which congressional district am I in?",
+      "timestamp": "2022-09-30T17:56:00.626Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/perfect-sound-quality-vinyl-records/",
+      "headline": "The search for the perfect sound",
+      "timestamp": "2022-09-29T15:01:10.062Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2022/coral-farms-restoration-bahamas-coral-vita/",
+      "headline": "The aspiring ‘coral factory’ restoring reefs wrecked by climate change",
+      "timestamp": "2022-09-29T13:00:46.988Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/dirck-jacobsz-painting-portrait-wife/",
+      "headline": "This Renaissance portrait is even stranger than it appears",
+      "timestamp": "2022-09-28T15:56:47.918Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/artificial-intelligence-images-dall-e/",
+      "headline": "AI can now create any image in seconds, bringing wonder and danger",
+      "timestamp": "2022-09-28T12:00:19.823Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/video-games/interactive/2022/fortnite-map-quiz/",
+      "headline": "How well do you know Fortnite island? Drop in here.",
+      "timestamp": "2022-09-27T17:35:18.085Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/video-games/interactive/2022/fortnite-anniversary-epic-games/",
+      "headline": "‘Fortnite’: Battle royale, concert venue and, maybe, the start of the metaverse",
+      "timestamp": "2022-09-27T17:30:47.699Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/science/interactive/2021/nasa-rams-an-asteroid-planetary-defense/",
+      "headline": "NASA hopes to hit an asteroid now in case we really need to knock one away later",
+      "timestamp": "2022-09-23T15:03:05.071Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/fetterman-oz-senate-race-pa-memes/",
+      "headline": "The Fetterman-Oz meme campaign, illustrated",
+      "timestamp": "2022-09-23T10:00:43.957Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2022/summer-heat-temperature-map/",
+      "headline": "How was this summer different where you live? ",
+      "timestamp": "2022-09-23T06:15:45.312Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2022/national-zoo-animal-portraits/",
+      "headline": "New at the zoo",
+      "timestamp": "2022-09-22T12:55:15.585Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/crypto-exchange-bitcoin-history/",
+      "headline": "Inside crypto’s house of cards",
+      "timestamp": "2022-09-22T10:30:45.689Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/adolph-menzel-sitting-room/",
+      "headline": "Artist didn’t want this masterpiece to see the light of day",
+      "timestamp": "2022-09-21T16:52:33.413Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2022/how-to-take-a-pill/",
+      "headline": "Have you been taking pills wrong? Here’s what science says.",
+      "timestamp": "2022-09-21T10:01:00.454Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/nfl-black-head-coaches/",
+      "headline": "How the NFL blocks Black coaches",
+      "timestamp": "2022-09-21T10:00:33.048Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/takeaways-black-out-nfl/",
+      "headline": "Key findings from ‘Black Out,’ The Post’s series on Black NFL coaches",
+      "timestamp": "2022-09-21T10:00:26.393Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/black-nfl-coaches-voices/",
+      "headline": "The ones who made it",
+      "timestamp": "2022-09-21T10:00:22.107Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/data-black-nfl-head-coaches/",
+      "headline": "How The Post gathered and analyzed data for its series on Black NFL coaches",
+      "timestamp": "2022-09-21T10:00:13.342Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/inequity-nfl-coaches/",
+      "headline": "A legacy of exclusion",
+      "timestamp": "2022-09-21T10:00:11.597Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/cooling-housing-market/",
+      "headline": "The housing market is cooling. What’s it like in your area?",
+      "timestamp": "2022-09-20T15:35:59.301Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/where-will-the-queen-be-buried/",
+      "headline": "A look inside Queen Elizabeth II’s final resting place",
+      "timestamp": "2022-09-16T16:52:45.671Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2022/california-condors-yurok-program-extinction/",
+      "headline": "Flight of the Condors",
+      "timestamp": "2022-09-15T13:00:07.140Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/photography/interactive/2022/photos-queen-elizabeths-life/",
+      "headline": "Photos: The life of Queen Elizabeth II, through the years",
+      "timestamp": "2022-09-08T17:38:52.015Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2021/police-reform-failure/",
+      "headline": "The endless cycle of outrage and reform over policing in America",
+      "timestamp": "2021-06-10T13:00:10.800Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/glenn-ligon-white-15/",
+      "headline": "A painting that aims to frustrate you",
+      "timestamp": "2022-09-14T16:17:23.733Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2021/civilian-oversight-police-accountability/",
+      "headline": "When communities try to hold police accountable, law enforcement fights back",
+      "timestamp": "2021-04-27T10:01:19.547Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/minnesota-nurses-strike-overworked/",
+      "headline": "Why thousands of nurses are protesting in Minnesota ",
+      "timestamp": "2022-09-14T14:42:11.331Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/no-knock-warrants-judges/",
+      "headline": "No-knock raids have led to fatal encounters and small drug seizures",
+      "timestamp": "2022-04-15T10:00:09.438Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2021/trump-ice-sheriffs-immigrants-287g/",
+      "headline": "Under Trump, ICE aggressively recruited sheriffs as partners to question and detain undocumented immigrants",
+      "timestamp": "2021-11-23T13:15:33.900Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/place-network-policing-strategy/",
+      "headline": "A policing strategy abandoned after Breonna Taylor’s death spreads to other cities",
+      "timestamp": "2022-03-31T10:30:26.210Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2021/austin-district-attorney-police-reform/",
+      "headline": "Inside a district attorney’s campaign to reform the Austin police department",
+      "timestamp": "2021-12-18T02:04:59.248Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-repeated-settlements/",
+      "headline": "The hidden billion-dollar cost of repeated police misconduct",
+      "timestamp": "2022-03-09T11:30:30.858Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/no-knock-raids-mississippi-monroe-county/",
+      "headline": "When the sheriff waged a war on drugs in a Mississippi county ",
+      "timestamp": "2022-05-11T10:25:09.582Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/climate-change-morocco-oasis-disappearing/",
+      "headline": "A journey through Morocco’s vanishing oases",
+      "timestamp": "2022-09-14T13:00:04.288Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-misconduct-insurance-settlements-reform/",
+      "headline": "Insurers force change on police departments long resistant to it ",
+      "timestamp": "2022-09-14T10:01:21.492Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2022/temperature-records-summer/",
+      "headline": "Maps show where extreme heat shattered 7,000 records this summer",
+      "timestamp": "2022-09-13T11:00:14.868Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2022/wizard-of-oz-flying-monkeys-trump-big-lie/",
+      "headline": "Fly! Fly! The winged monkeys of Trump spread the ‘big lie’",
+      "timestamp": "2022-09-12T13:00:29.222Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/elon-musks-tweets/",
+      "headline": "Elon Musk’s 19,000 tweets reveal his complicated relationship with Twitter",
+      "timestamp": "2022-09-12T10:00:41.591Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/wellness/interactive/ask-a-doctor-health-question-form/",
+      "headline": "Ask a Doctor",
+      "timestamp": "2022-09-12T10:00:06.408Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/nation/interactive/2022/queen-elizabeth-america/",
+      "headline": "Tracing Queen Elizabeth’s steps through the U.S.",
+      "timestamp": "2022-09-10T12:20:20.831Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/nation/interactive/2022/fire-erupts-california-with-volcano-like-plumes-state-emergency/",
+      "headline": "Fire erupts in California, with ‘volcano-like’ plumes and a state of emergency",
+      "timestamp": "2022-09-10T01:08:53.883Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/king-charles-photos-videos-biography/",
+      "headline": "Who is Britain’s new king? A visual biography of Charles III ",
+      "timestamp": "2022-09-09T17:43:36.832Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2021/queen-13-presidents/",
+      "headline": "The queen and the 13 presidents",
+      "timestamp": "2022-09-08T20:04:36.277Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/queen-elizabeth-jubilee-reign-photos/",
+      "headline": "Queen Elizabeth II: A visual timeline of her 70 years on the throne",
+      "timestamp": "2022-09-08T17:58:15.139Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/covid-money-trail-investigation-explained/",
+      "headline": "Where did the covid aid money go?",
+      "timestamp": "2022-09-08T09:45:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/phone-upgrade-quiz/",
+      "headline": "Should you buy a new iPhone?",
+      "timestamp": "2022-09-07T23:03:26.139Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/henri-regnault-salome/",
+      "headline": "Henri Regnault ‘bewitched all of Paris’ with his sumptuous Salomé  ",
+      "timestamp": "2022-09-07T16:45:47.874Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/presidential-portraits-obama-biden-trump/",
+      "headline": "White House portrait ceremonies offered bipartisanship — until Trump",
+      "timestamp": "2022-09-07T13:23:02.548Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/boris-johnson-controversies-quiz/",
+      "headline": "Quiz: Boris Johnson did WHAT?",
+      "timestamp": "2022-09-06T14:29:22.322Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2022/climate-change-backyard-gardening-permaculture-fall/",
+      "headline": "Our visual guide to helping the planet in your own backyard",
+      "timestamp": "2022-09-06T14:15:56.288Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/queen-prime-ministers/",
+      "headline": "The queen and her 15 prime ministers",
+      "timestamp": "2022-09-06T01:30:38.111Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/rent-inflation-housing/",
+      "headline": "Rising rent: Why prices are only going higher",
+      "timestamp": "2022-09-01T10:00:19.720Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/national-security/interactive/2022/afghanistan-evacuees-albania/",
+      "headline": "The wrong plane out of Afghanistan",
+      "timestamp": "2022-08-31T17:35:19.962Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/cryptocurrency-mine-noise-homes-nc/",
+      "headline": "A neighborhood’s cryptocurrency mine: ‘Like a jet that never leaves’",
+      "timestamp": "2022-08-31T16:35:00.550Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/kathe-kollwitz-woman-dead-child/",
+      "headline": "An artist’s primal scream shows how grief can make monsters of us all",
+      "timestamp": "2022-08-31T15:45:22.369Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2022/plastic-pollution-greece-enaleia-lefteris-arapakis/",
+      "headline": "His family fished for generations. Now he’s hauling plastic out of the sea. ",
+      "timestamp": "2022-08-31T13:31:21.674Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/gorbachev-reagan-soviet-collapse/",
+      "headline": "Mikhail Gorbachev, from Reagan summit to Soviet collapse, in photos",
+      "timestamp": "2022-08-30T21:32:02.372Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/ukraine-occupied-life-photos/",
+      "headline": "Inside occupied Ukraine: A photographer’s first-hand account",
+      "timestamp": "2022-08-30T16:29:57.781Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/brazil-amazon-deforestation-enforcement/",
+      "headline": "A failure of enforcement",
+      "timestamp": "2022-08-30T10:00:26.592Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/housing-market-investors/",
+      "headline": "Investors bought a record share of homes in 2021. See where.",
+      "timestamp": "2022-02-16T14:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2022/peru-climate-lawsuit-melting-glacier/",
+      "headline": "A melting glacier, an imperiled city and one farmer’s fight for climate justice",
+      "timestamp": "2022-08-28T13:00:58.490Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/health/interactive/2022/monkeypox-vaccine-stretch-doses/",
+      "headline": "How the U.S. is stretching the monkeypox vaccine supply",
+      "timestamp": "2022-08-27T14:01:17.145Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/full-mar-a-lago-search-affidavit-annotated/",
+      "headline": "Read the full, redacted Mar-a-Lago search affidavit",
+      "timestamp": "2022-08-26T17:27:17.888Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/pakistan-floods-monsoon-climate-change/",
+      "headline": "Heavy flooding leaves 900 dead in Pakistan",
+      "timestamp": "2022-08-26T16:03:27.025Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/food/interactive/2022/cooking-oil-hot-shimmering-video/",
+      "headline": "How to tell when cooking oil is hot",
+      "timestamp": "2022-08-26T14:02:13.822Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/russia-military-expo-ukraine-war/",
+      "headline": "Inside Russia’s military expo, in photos ",
+      "timestamp": "2022-08-26T13:00:06.910Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/afghan-women-protest-taliban/",
+      "headline": "How Afghan women took on the Taliban, as told through their text messages",
+      "timestamp": "2022-08-26T11:00:03.431Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/serena-williams-us-open-highlights/",
+      "headline": "20-plus years of Serena Williams at the U.S. Open",
+      "timestamp": "2022-08-26T10:00:35.542Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/history/interactive/2022/submit-congress-enslaved-database/",
+      "headline": "Help us identify members of Congress who enslaved people",
+      "timestamp": "2022-08-25T21:16:10.167Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/history/interactive/2022/congress-slaveowners-names-list/",
+      "headline": "More than 1,800 congressmen once enslaved Black people. This is who they were, and how they shaped the nation.",
+      "timestamp": "2022-08-25T21:14:33.402Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/education/interactive/2022/calculator-student-loan-debt-forgiveness/",
+      "headline": "Calculate how much of your student loan debt can be forgiven",
+      "timestamp": "2022-08-25T17:40:26.689Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/nation/interactive/2022/mexican-wolves-extinction-crisis/",
+      "headline": "Truck, plane, backpack: Inside the extreme effort to save Mexican wolves",
+      "timestamp": "2022-08-25T13:26:19.886Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2022/readers-abortion-stories-roe/",
+      "headline": "Seven personal stories about abortion",
+      "timestamp": "2022-08-25T13:00:54.078Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/india-extreme-heat-climate-change/",
+      "headline": "What it’s like to toil in India’s dangerous, unrelenting heat",
+      "timestamp": "2022-08-25T11:30:10.466Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/road-trip-gas-prices/",
+      "headline": "People across the U.S. share how exorbitant gas prices have hurt them",
+      "timestamp": "2022-08-25T10:00:40.094Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/ukraine-russia-war-videos-verified/",
+      "headline": "Database of videos exposes the horrors of war in Ukraine",
+      "timestamp": "2022-08-25T03:29:17.467Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2022/andrew-wyeth-northern-point/",
+      "headline": "It’s beyond time to see Andrew Wyeth with fresh eyes",
+      "timestamp": "2022-08-24T16:40:05.554Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/national-security/interactive/2022/kyiv-battle-ukraine-survival/",
+      "headline": "Battle for Kyiv: Ukrainian valor, Russian blunders combined to save the capital",
+      "timestamp": "2022-08-24T06:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/lifestyle/interactive/2021/return-to-the-office/",
+      "headline": "Navigating the return to the office",
+      "timestamp": "2021-07-22T15:24:17.749Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/future-office-hybrid/",
+      "headline": "What your future office could look like — if you even need to be there",
+      "timestamp": "2022-06-21T11:00:36.591Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/ukraine-war-russia-germany-refugees/",
+      "headline": "A train ride back to Ukraine: Fear, tears and a romance",
+      "timestamp": "2022-08-23T13:00:58.106Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/twitter-whistleblower-sec-spam/",
+      "headline": "Former security chief claims Twitter buried ‘egregious deficiencies’",
+      "timestamp": "2022-08-23T09:59:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "PostGraphics",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/algorithmic-redistricting/",
+      "headline": "Can computer simulations help fix democracy?",
+      "timestamp": "2022-08-22T13:35:50.352Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "PostGraphics",

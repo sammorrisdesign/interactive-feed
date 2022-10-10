@@ -1,6 +1,167 @@
 {
-  "lastUpdated": "2022-08-19T13:39:44.551Z",
+  "lastUpdated": "2022-10-06T18:29:17.494Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/2022-senate-and-house-midterm-election-ratings-and-analysis-11664905703",
+      "headline": "2022 House and Senate Election Outlook",
+      "timestamp": "2022-10-06T18:29:03.165Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/images-of-hurricane-ians-catastrophic-damage-in-florida-11664495627",
+      "headline": "Images of Hurricane Ian’s ‘Catastrophic’ Damage in Florida",
+      "timestamp": "2022-09-30T02:33:17.364Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/as-storm-season-accelerates-heres-where-past-hurricanes-have-hit-the-u-s-11663943470",
+      "headline": "As Storm Season Accelerates, Here’s Where Past Hurricanes Have Hit the U.S.",
+      "timestamp": "2022-09-27T21:44:49.002Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/hurricanes-intensity-what-to-watch-wind-shear-water-temperatures-11664226165",
+      "headline": "Will Hurricane Ian Wreak Havoc in Florida? Here’s What Meteorologists Are Watching.",
+      "timestamp": "2022-09-27T13:55:57.876Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/nasas-dart-spacecraft-to-smash-into-asteroid-in-planetary-defense-test-11664165948",
+      "headline": "NASA’s DART Spacecraft to Smash Into Asteroid in Planetary Defense Test",
+      "timestamp": "2022-09-26T13:53:50.278Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/carbon-credit-surplus-could-soon-turn-to-shortage-11663968204",
+      "headline": "Carbon-Credit Surplus Could Soon Turn to Shortage",
+      "timestamp": "2022-09-24T14:16:59.329Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/as-aaron-judge-chases-yankees-home-run-record-stadium-seat-prices-skyrocket-11663881554",
+      "headline": "As Aaron Judge Chases Yankees’ Home-Run Record, Outfield Seat Prices Skyrocket",
+      "timestamp": "2022-09-22T22:20:58.116Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/amazon-trucks-crash-safety-11663793491",
+      "headline": "Amazon Routinely Hired Dangerous Trucking Companies, With Deadly Consequences",
+      "timestamp": "2022-09-22T20:21:49.327Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/the-queens-journey-to-her-final-resting-place-11663416003",
+      "headline": "Queen Elizabeth’s Journey to Her Final Resting Place",
+      "timestamp": "2022-09-19T14:26:23.483Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/senate-midterm-map-shaped-by-abortion-and-the-economy-11663247187",
+      "headline": "Senate Midterm Map Shaped by Abortion and the Economy",
+      "timestamp": "2022-09-15T14:47:15.502Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/summer-movie-season-fizzles-out-with-few-blockbusters-to-count-on-this-fall-11662715802",
+      "headline": "Summer Movie Season Fizzles Out, With Few Blockbusters to Count On This Fall",
+      "timestamp": "2022-09-09T13:48:52.408Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/ukraine-uses-array-of-howitzers-to-repel-russias-invasion-11662726600",
+      "headline": "Ukraine Uses Array of Howitzers to Repel Russia’s Invasion",
+      "timestamp": "2022-09-09T13:48:52.408Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/broad-declines-drag-bonds-into-rare-bear-market-11662602793",
+      "headline": "Broad Declines Drag Bonds Into Rare Bear Market",
+      "timestamp": "2022-09-08T15:47:39.288Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/new-york-yankees-slugger-aaron-judge-pursues-bid-for-home-run-milestone-11662217200",
+      "headline": "New York Yankees’ Aaron Judge Slugs His Way Toward Home Run Milestone",
+      "timestamp": "2022-09-06T14:20:06.709Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/consumers-feel-worse-now-than-they-did-during-covid-lockdowns-11662292800",
+      "headline": "Consumers Feel Worse Now Than They Did During Covid Lockdowns",
+      "timestamp": "2022-09-06T14:20:06.709Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/an-inside-look-at-nasas-most-powerful-rocket-ever-the-sls-11661616000",
+      "headline": "An Inside Look at NASA’s Most Powerful Rocket Ever, the SLS",
+      "timestamp": "2022-08-28T13:28:49.660Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/trump-has-the-smallest-collection-of-paper-records-but-his-electronic-files-rival-obamas-11661522400",
+      "headline": "Trump Has the Smallest Collection of Paper Records, but His Electronic Files Rival Obama’s",
+      "timestamp": "2022-08-26T15:20:44.523Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/how-your-student-debt-keeps-growingeven-when-you-keep-paying-11640994313",
+      "headline": "Why Student Debt Keeps Growing—Even When Borrowers Keep Paying",
+      "timestamp": "2022-08-25T13:42:14.751Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/arizona-colorado-river-water-cuts-impact-11661287309",
+      "headline": "Arizona Needs to Cut 300,000 Olympic Pools’ Worth of Water. Here Is Who Will Be Hit the Hardest.",
+      "timestamp": "2022-08-25T13:42:14.751Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/inflation-jackson-hole-fed-powell-11661288446",
+      "headline": "Jerome Powell’s Dilemma: What if the Drivers of Inflation Are Here to Stay?",
+      "timestamp": "2022-08-25T04:21:33.738Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/arizona-needs-to-cut-300-000-olympic-pools-worth-of-water-here-is-who-will-be-hit-the-hardest-11661351400",
+      "headline": "Arizona Needs to Cut 300,000 Olympic Pools’ Worth of Water. Here Is Who Will Be Hit the Hardest.",
+      "timestamp": "2022-08-24T15:19:18.272Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/the-surprise-in-a-faltering-economy-laid-off-workers-quickly-find-jobs-11661333405",
+      "headline": "The Surprise in a Faltering Economy: Laid-Off Workers Quickly Find Jobs",
+      "timestamp": "2022-08-24T14:16:38.244Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/crypto-bitcoin-ftx-bankman-fried-11661206532",
+      "headline": "The 30-Year-Old Spending $1 Billion to Save Crypto",
+      "timestamp": "2022-08-23T15:43:36.958Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",

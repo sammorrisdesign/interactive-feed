@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2022-08-04T09:17:31.059Z",
+  "lastUpdated": "2022-10-10T14:01:05.424Z",
   "articles": [
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/10/10/covid-19-les-chiffres-de-l-epidemie-en-france-et-dans-le-monde-en-cartes-et-en-graphiques_6038751_4355776.html",
+      "headline": "Covid-19 : les chiffres de l’épidémie en France et dans le monde, en cartes et en graphiques",
+      "timestamp": "2022-10-10T13:40:25.000Z"
+    },
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/10/06/combien-d-electricite-consomment-les-francais-et-comment-reduire-les-factures_6143074_4355771.html",
+      "headline": "Combien d’électricité consomment les Français et comment réduire les factures ?",
+      "timestamp": "2022-10-06T10:20:34.000Z"
+    },
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/09/25/chauffage-eau-chaude-frigo-tele-combien-d-electricite-consommons-nous-et-comment-reduire-nos-factures_6143074_4355770.html",
+      "headline": "Chauffage, eau chaude, frigo, télé… Combien d’électricité consommons-nous et comment réduire nos factures ?",
+      "timestamp": "2022-09-25T04:00:14.000Z"
+    },
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/09/14/tableau-de-bord-ou-en-sont-les-stocks-de-gaz-des-pays-de-l-union-europeenne_6141584_4355770.html",
+      "headline": "Tableau de bord : où en sont les stocks de gaz des pays de l’Union européenne ?",
+      "timestamp": "2022-09-14T10:35:36.000Z"
+    },
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/09/14/covid-19-le-tableau-de-bord-de-l-epidemie_6038751_4355775.html",
+      "headline": "Covid-19 : le tableau de bord de l’épidémie",
+      "timestamp": "2022-09-14T08:53:35.000Z"
+    },
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/09/06/jets-prives-visualisez-les-trajets-les-plus-frequents-ou-les-plus-courts-en-france_6140407_4355770.html",
+      "headline": "Jets privés : visualisez les trajets les plus fréquents ou les plus courts en France",
+      "timestamp": "2022-09-06T12:08:49.000Z"
+    },
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/08/22/incendies-six-cartes-et-graphiques-qui-montrent-un-premier-bilan-inedit-de-l-ete_6138700_4355770.html",
+      "headline": "Incendies : six cartes et graphiques qui montrent un premier bilan inédit de l’été",
+      "timestamp": "2022-08-22T17:00:11.000Z"
+    },
     {
       "publication": "Le Monde",
       "handle": "lemondefr",
