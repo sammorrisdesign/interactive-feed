@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-09T21:18:51.528Z",
+  "lastUpdated": "2022-10-10T09:26:54.230Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/10/magazine/julio-torres-interview.html",
+      "headline": "Julio Torres Thinks Most Comedy Is Too Easy",
+      "timestamp": "2022-10-10T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
