@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-10T15:34:02.139Z",
+  "lastUpdated": "2022-10-10T22:48:54.323Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/10/nyregion/nyc-migrants-tents.html",
+      "headline": "Tents Rise for Migrants in New York City",
+      "timestamp": "2022-10-10T22:43:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
