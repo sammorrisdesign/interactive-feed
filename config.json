@@ -245,13 +245,6 @@
       "domain": "stories.lavanguardia.com"
     },
     {
-      "publication": "Houston Chronicle",
-      "handle": "HoustonChron",
-      "type": "XML",
-      "format": "Sitemap",
-      "path": "https://www.houstonchronicle.com/projects/sitemap_projects.xml"
-    },
-    {
       "publication": "De Tijd",
       "handle": "TijdGraphics",
       "type": "XML",
