@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-10T09:26:54.230Z",
+  "lastUpdated": "2022-10-10T15:34:02.139Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/10/sports/football/nfl-roughing-passer-brady.html",
+      "headline": "Protecting Quarterbacks, or Only Tom Brady?",
+      "timestamp": "2022-10-10T15:26:54.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
