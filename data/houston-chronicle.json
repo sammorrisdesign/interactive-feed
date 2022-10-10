@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-10-10T12:48:49.300Z",
+  "lastUpdated": "2022-10-10T14:01:05.432Z",
   "articles": [
+    {
+      "publication": "Houston Chronicle",
+      "handle": "HoustonChron",
+      "url": "https://www.houstonchronicle.com/projects/2022/astros-golden-age-playoff-series/",
+      "timestamp": "2022-10-10T00:00:00.000Z"
+    },
     {
       "publication": "Houston Chronicle",
       "handle": "HoustonChron",
