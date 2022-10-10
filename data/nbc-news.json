@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-09-23T15:25:33.861Z",
+  "lastUpdated": "2022-10-10T22:22:52.498Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "handle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/data-graphics/toxic-herbicides-map-showing-high-exposure-state-rcna50052",
+      "headline": "A potentially cancer-causing chemical is used on U.S crops. Exposure is highest in these states.",
+      "timestamp": "2022-10-10T21:28:10.000Z"
+    },
     {
       "publication": "NBC News",
       "handle": "NBCNewsGraphics",

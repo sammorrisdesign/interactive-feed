@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-06T18:29:17.494Z",
+  "lastUpdated": "2022-10-10T22:22:52.499Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/china-competing-us-quantum-computing-11664997892",
+      "headline": "China Seeks a Quantum Leap in Computing",
+      "timestamp": "2022-10-10T22:22:40.509Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
