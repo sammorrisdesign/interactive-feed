@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-11T17:31:15.896Z",
+  "lastUpdated": "2022-10-11T18:58:38.103Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/nasas-asteroid-smashing-dart-mission-deemed-a-success-11665512765",
+      "headline": "NASA’s Asteroid-Smashing DART Mission Deemed a Success",
+      "timestamp": "2022-10-11T18:58:25.273Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
