@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-11T09:26:18.953Z",
+  "lastUpdated": "2022-10-11T09:51:54.447Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/11/learning/11NetherlandsQuizLN.html",
+      "headline": "How Much Do You Know About the Netherlands?",
+      "timestamp": "2022-10-11T09:30:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
