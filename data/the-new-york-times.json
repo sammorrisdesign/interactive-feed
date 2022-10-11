@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-10T22:48:54.323Z",
+  "lastUpdated": "2022-10-11T09:26:18.953Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/11/opinion/teen-mental-health-care.html",
+      "headline": "Can You Punish a Child’s Mental Health Problems Away?",
+      "timestamp": "2022-10-11T09:01:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/11/opinion/mental-health-america-society.html",
+      "headline": "Your Mind and What’s Around It",
+      "timestamp": "2022-10-11T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
