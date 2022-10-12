@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-10-08T14:22:23.968Z",
+  "lastUpdated": "2022-10-12T10:25:34.220Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/amazon-smart-home/",
+      "headline": "Tour Amazon’s dream home, where every appliance is also a spy ",
+      "timestamp": "2022-10-12T10:15:19.003Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/world/interactive/2022/amazon-brazil-bruno-dom/",
+      "headline": "My friend was killed deep in the Amazon forest. I went to investigate.",
+      "timestamp": "2022-10-12T10:00:10.042Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/clarence-shelmon-nfl-black-coaches/",
+      "headline": "A lost generation of Black coaching talent",
+      "timestamp": "2022-10-12T10:00:01.430Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
