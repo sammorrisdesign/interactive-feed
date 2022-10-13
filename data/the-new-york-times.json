@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-13T21:21:23.115Z",
+  "lastUpdated": "2022-10-13T21:45:50.752Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/us/statement-councilwoman-nury-martinez.html",
+      "headline": "Read Nury Martinez’s Resignation",
+      "timestamp": "2022-10-13T21:32:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
