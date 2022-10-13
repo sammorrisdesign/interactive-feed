@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2022-10-12T20:24:42.101Z",
+  "lastUpdated": "2022-10-13T09:31:09.679Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/t-magazine/michelle-williams-greats.html",
+      "headline": "Michelle Williams",
+      "timestamp": "2022-10-13T09:19:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/t-magazine/anderson-paak-greats.html",
+      "headline": "Anderson .Paak",
+      "timestamp": "2022-10-13T09:18:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/t-magazine/lynda-benglis-art-greats.html",
+      "headline": "Lynda Benglis",
+      "timestamp": "2022-10-13T09:17:51.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/t-magazine/demna-balenciaga-greats.html",
+      "headline": "Demna",
+      "timestamp": "2022-10-13T09:17:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/t-magazine/greats-williams-paak-demna-benglis.html",
+      "headline": "The Greats",
+      "timestamp": "2022-10-13T09:16:46.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/realestate/cleveland-ohio-suburbs-houses.html",
+      "headline": "Leaving New York for Cleveland? Here’s How Far Their Money Went.",
+      "timestamp": "2022-10-13T09:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/well/dermatologist-dry-skin-tips.html",
+      "headline": "How a Dermatologist Prevents Dry Skin",
+      "timestamp": "2022-10-13T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/travel/things-to-do-stockholm.html",
+      "headline": "36 Hours in Stockholm",
+      "timestamp": "2022-10-13T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
