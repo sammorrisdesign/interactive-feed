@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-13T09:31:09.679Z",
+  "lastUpdated": "2022-10-13T21:21:23.115Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/13/us/politics/republican-candidates-2020-election-misinformation.html",
+      "headline": "How Election Lies Took Over the Republican Ticket Nationwide",
+      "timestamp": "2022-10-13T21:16:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
