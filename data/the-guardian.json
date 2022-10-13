@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-06T16:32:47.942Z",
+  "lastUpdated": "2022-10-13T02:02:30.625Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "handle": "GuardianVisuals",
+      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2022/oct/13/where-are-people-moving-to-and-from-in-australia-2021-census-data-abs",
+      "headline": "Where are people moving to, and from, in Australia? Find out with our census data interactive",
+      "timestamp": "2022-10-13T00:52:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "handle": "GuardianVisuals",
