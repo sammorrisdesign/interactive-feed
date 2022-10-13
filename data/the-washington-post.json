@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-13T09:31:09.688Z",
+  "lastUpdated": "2022-10-13T10:24:48.027Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/cost-raising-child-calculator/",
+      "headline": "What does it cost to raise a child?",
+      "timestamp": "2022-10-13T10:00:06.848Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
