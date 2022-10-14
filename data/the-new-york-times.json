@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-13T21:45:50.752Z",
+  "lastUpdated": "2022-10-14T09:35:42.957Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/14/arts/weekend-editors-picks-till.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-10-14T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/14/books/review/new-paperbacks.html",
+      "headline": "6 Paperback Books to Read This Week",
+      "timestamp": "2022-10-14T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
