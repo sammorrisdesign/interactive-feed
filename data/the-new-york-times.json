@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-14T15:25:57.277Z",
+  "lastUpdated": "2022-10-14T17:31:33.193Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/14/world/europe/ukraine-soldier-training.html",
+      "headline": "Ukrainian Recruits Wage Mock Battles in U.K.",
+      "timestamp": "2022-10-14T16:53:54.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
