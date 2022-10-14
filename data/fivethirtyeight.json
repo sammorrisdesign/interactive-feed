@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-07T10:25:30.012Z",
+  "lastUpdated": "2022-10-14T10:24:04.260Z",
   "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-nba-predictions/",
+      "headline": "2022-23 NBA Predictions",
+      "timestamp": "2022-10-14T10:00:44.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/nba-trades-2023/",
+      "headline": "Build An NBA Contender With Our Roster-Shuffling Machine",
+      "timestamp": "2022-10-14T10:00:25.000Z"
+    },
     {
       "publication": "FiveThirtyEight",
       "handle": "FiveThirtyEight",
