@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-06T04:44:59.432Z",
+  "lastUpdated": "2022-10-14T04:34:43.947Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/62184a6c-f7ce-4b1b-b92c-03f4056ae221",
+      "headline": "Lawyers look to ‘big picture’ apps",
+      "timestamp": "2022-10-14T03:30:59.000Z"
+    },
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/fcca0ebd-0576-4772-8751-1bdea44de104",
+      "headline": "Lawyers unlock valuable insights through data",
+      "timestamp": "2022-10-14T03:30:59.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
