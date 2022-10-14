@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-14T09:35:42.957Z",
+  "lastUpdated": "2022-10-14T15:25:57.277Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/14/books/review/native-american-nonfiction-quiz.html",
+      "headline": "Lit Trivia: Do You Know These Books by Native American Authors?",
+      "timestamp": "2022-10-14T15:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
