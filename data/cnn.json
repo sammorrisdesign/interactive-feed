@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-14T21:20:56.747Z",
+  "lastUpdated": "2022-10-15T02:08:10.552Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/10/us/cnn-5-things-news-quiz-october-13-sec/",
+      "headline": "14% of readers who took this week's news quiz got eight or more questions right. How will you fare?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
