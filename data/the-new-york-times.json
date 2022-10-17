@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-17T07:23:44.538Z",
+  "lastUpdated": "2022-10-17T08:03:22.298Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/17/learning/17VocabQuizLN.html",
+      "headline": "Vocabulary in Context: Bad Bunny",
+      "timestamp": "2022-10-17T08:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
