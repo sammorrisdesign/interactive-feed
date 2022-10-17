@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-15T09:24:39.298Z",
+  "lastUpdated": "2022-10-17T06:16:55.015Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/17/opinion/focus-group-election-latino-hispanic.html",
+      "headline": "‘We’re Not All Democrats’: 10 Latino Voters on the G.O.P.’s Appeal",
+      "timestamp": "2022-10-17T05:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
