@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-17T09:03:58.534Z",
+  "lastUpdated": "2022-10-18T04:30:35.728Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/17/opinion/helms-amendment-abortion-repeal.html",
+      "headline": "Abortion Is Legal in Ethiopia. But Half of These Clinics Won’t Provide Them.",
+      "timestamp": "2022-10-18T02:21:33.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
