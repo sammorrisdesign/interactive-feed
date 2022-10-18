@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-18T07:01:01.913Z",
+  "lastUpdated": "2022-10-18T09:30:40.027Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/18/us/politics/nyc-neighborhood-congressional-districts.html",
+      "headline": "Hey, New Yorkers: Meet Your Neighborhood’s New Congressional District",
+      "timestamp": "2022-10-18T09:00:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
