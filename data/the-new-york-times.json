@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-18T09:30:40.027Z",
+  "lastUpdated": "2022-10-18T10:26:03.240Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/18/upshot/times-siena-poll-registered-voters-crosstabs.html",
+      "headline": "Cross-Tabs for October 2022 Times/Siena Poll of Registered Voters",
+      "timestamp": "2022-10-18T10:09:25.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

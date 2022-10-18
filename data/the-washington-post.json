@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2022-10-17T10:37:15.230Z",
+  "lastUpdated": "2022-10-18T10:26:03.246Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/foreign-jobs-us-officers/",
+      "headline": "Foreign governments have hired American officers since the Revolution",
+      "timestamp": "2022-10-18T10:00:42.652Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/veterans-us-foreign-jobs-saudi-arabia/",
+      "headline": "Retired U.S. brass cash in with Saudis, other repressive governments",
+      "timestamp": "2022-10-18T10:00:39.658Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/australia-nuclear-submarines-us-admirals/",
+      "headline": "Retired U.S. admirals advise Australia on deal for nuclear submarines",
+      "timestamp": "2022-10-18T10:00:35.085Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/uae-military-us-veterans/",
+      "headline": "UAE relied on expertise of retired U.S. troops to beef up its military",
+      "timestamp": "2022-10-18T10:00:28.686Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/veterans-foreign-jobs-foia-takeaways/",
+      "headline": "Key findings from The Post’s series on veterans’ lucrative foreign jobs",
+      "timestamp": "2022-10-18T10:00:27.456Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/us-veterans-jobs-qatar-kuwait/",
+      "headline": "In Persian Gulf, a lucrative revolving door for retired U.S. troops",
+      "timestamp": "2022-10-18T10:00:02.142Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
