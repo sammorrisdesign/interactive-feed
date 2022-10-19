@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-18T10:26:03.240Z",
+  "lastUpdated": "2022-10-19T14:37:09.187Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/jobs/local-investigations-fellowship.html",
+      "headline": "Local Investigations Fellowship",
+      "timestamp": "2022-10-19T13:58:28.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
