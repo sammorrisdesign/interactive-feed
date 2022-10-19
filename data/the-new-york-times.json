@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-19T14:37:09.187Z",
+  "lastUpdated": "2022-10-19T15:26:24.979Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/19/arts/editors-recommendations-yeahyeahyeahs.html",
+      "headline": "What’s in Our Queue? Yeah Yeah Yeahs and More",
+      "timestamp": "2022-10-19T14:57:10.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
