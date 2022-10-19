@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-19T15:26:24.979Z",
+  "lastUpdated": "2022-10-19T16:36:47.862Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/19/world/middleeast/palestinian-food-tradition-recipes.html",
+      "headline": "Centuries-Old Palestinian Rituals at Risk",
+      "timestamp": "2022-10-19T16:15:46.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
