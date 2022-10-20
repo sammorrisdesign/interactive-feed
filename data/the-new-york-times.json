@@ -1,6 +1,34 @@
 {
-  "lastUpdated": "2022-10-19T16:36:47.862Z",
+  "lastUpdated": "2022-10-20T09:35:28.533Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/20/upshot/biden-budget-before-after-animation.html",
+      "headline": "See Everything the White House Wanted, and Everything It Got",
+      "timestamp": "2022-10-20T09:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/20/realestate/manhattan-brooklyn-2br-apartment.html",
+      "headline": "Looking for a ‘Real’ Two-Bedroom in Manhattan or Brooklyn. Which Borough Offered More for Their Money?",
+      "timestamp": "2022-10-20T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/20/travel/things-to-do-milan.html",
+      "headline": "36 Hours in Milan",
+      "timestamp": "2022-10-20T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/20/arts/arab-drag-pop-icons.html",
+      "headline": "Meet the Pop Icons Who Inspired a Generation of Arab Queens",
+      "timestamp": "2022-10-20T09:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
