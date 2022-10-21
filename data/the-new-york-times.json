@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-21T09:25:48.798Z",
+  "lastUpdated": "2022-10-21T13:58:13.334Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/21/books/review/horror-novels-quiz.html",
+      "headline": "Title Search: Can You Find These 13 Hidden Horror Novels?",
+      "timestamp": "2022-10-21T13:00:32.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
