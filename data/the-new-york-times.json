@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-21T13:58:13.334Z",
+  "lastUpdated": "2022-10-21T15:30:21.442Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/21/podcasts/we-were-three-covid-podcast.html",
+      "headline": "What Covid Revealed, And Destroyed",
+      "timestamp": "2022-10-21T15:07:37.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
