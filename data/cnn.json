@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-20T02:04:44.988Z",
+  "lastUpdated": "2022-10-21T21:19:41.559Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/10/us/cnn-5-things-news-quiz-october-20-sec/",
+      "headline": "Which is the most popular Halloween costume this year?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
