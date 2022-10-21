@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-21T15:30:21.442Z",
+  "lastUpdated": "2022-10-21T16:45:49.541Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/21/world/europe/liz-truss-replacement.html",
+      "headline": "Who Might Replace Liz Truss?",
+      "timestamp": "2022-10-21T16:35:35.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
