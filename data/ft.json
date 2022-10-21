@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-17T04:41:44.929Z",
+  "lastUpdated": "2022-10-21T22:49:28.184Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/156682c1-1fb9-42d1-aac3-de531e266d68",
+      "headline": "How the markets broke ‘Trussonomics’",
+      "timestamp": "2022-10-21T22:00:05.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
