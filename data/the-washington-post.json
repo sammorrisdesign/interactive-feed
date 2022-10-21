@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-21T09:25:48.804Z",
+  "lastUpdated": "2022-10-21T10:51:58.241Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/police-shootings-non-fatal/",
+      "headline": "The unseen toll of nonfatal police shootings",
+      "timestamp": "2022-10-21T10:30:26.335Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
