@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-21T16:45:49.541Z",
+  "lastUpdated": "2022-10-21T18:30:04.943Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/21/smarter-living/wirecutter/hearing-loss-signs.html",
+      "headline": "5 Signs That You Might Have Hearing Loss",
+      "timestamp": "2022-10-21T18:15:57.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
