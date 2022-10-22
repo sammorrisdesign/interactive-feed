@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-20T19:48:02.911Z",
+  "lastUpdated": "2022-10-22T13:41:28.970Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/ukraines-home-heating-network-threatened-by-russian-attacks-11666399886",
+      "headline": "Ukraine’s Home Heating Network Threatened by Russian Attacks",
+      "timestamp": "2022-10-22T13:41:16.456Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
