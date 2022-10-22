@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-21T18:30:04.943Z",
+  "lastUpdated": "2022-10-22T07:24:12.041Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/22/us/politics/midterms-campaign-trail.html",
+      "headline": "The Week in Political News",
+      "timestamp": "2022-10-22T07:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
