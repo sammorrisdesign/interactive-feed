@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-22T07:24:12.041Z",
+  "lastUpdated": "2022-10-23T09:22:55.497Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/23/world/asia/xi-propaganda.html",
+      "headline": "How Xi Jinping Remade China in His Image",
+      "timestamp": "2022-10-23T09:04:08.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
