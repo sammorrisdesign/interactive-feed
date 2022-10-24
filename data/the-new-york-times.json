@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-23T09:22:55.497Z",
+  "lastUpdated": "2022-10-24T09:33:09.404Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/24/magazine/bono-interview.html",
+      "headline": "Bono Is Still Trying to Figure Out U2 and Himself",
+      "timestamp": "2022-10-24T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/24/opinion/frustrated-with-polling-pollsters-are-too.html",
+      "headline": "Frustrated With Polling? Pollsters Are, Too",
+      "timestamp": "2022-10-24T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
