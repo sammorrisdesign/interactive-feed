@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-25T04:36:28.047Z",
+  "lastUpdated": "2022-10-25T06:14:52.986Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/25/opinion/25focusgroup.html",
+      "headline": "These 15 Florida Voters Think Ron DeSantis is Going Places, Like It or Not",
+      "timestamp": "2022-10-25T05:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
