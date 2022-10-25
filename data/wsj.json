@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-24T14:01:20.517Z",
+  "lastUpdated": "2022-10-25T18:49:49.942Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/russian-oligarch-bridgewaters-sanctions-offshore-network-11665767178",
+      "headline": "Russian Oligarchs Obscure Their Wealth Through Secretive Isle of Man Network",
+      "timestamp": "2022-10-25T18:49:41.200Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/inflation-driven-record-rents-mean-more-people-are-piling-in-with-roommates-11666671826",
+      "headline": "Surging Rents Push More Americans to Live With Roommates or Parents",
+      "timestamp": "2022-10-25T18:49:41.200Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
