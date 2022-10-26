@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-26T22:46:01.862Z",
+  "lastUpdated": "2022-10-26T23:22:57.098Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/26/magazine/climate-change-warming-world.html",
+      "headline": "Beyond Catastrophe: A New Climate Reality Is Coming Into View.",
+      "timestamp": "2022-10-26T22:53:55.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
