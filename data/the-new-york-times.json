@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-26T21:18:24.814Z",
+  "lastUpdated": "2022-10-26T22:24:59.986Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/sports/baseball/umpire-pitch-ball-strike-game.html",
+      "headline": "You Be the Ump",
+      "timestamp": "2022-10-26T21:53:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
