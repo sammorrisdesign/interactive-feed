@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-26T22:24:59.986Z",
+  "lastUpdated": "2022-10-26T22:46:01.862Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/26/us/us-cities-downtown-chicago-seattle.html",
+      "headline": "Meet Me Downtown",
+      "timestamp": "2022-10-26T22:44:37.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
