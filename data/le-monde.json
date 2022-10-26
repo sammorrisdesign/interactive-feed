@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-16T04:23:44.387Z",
+  "lastUpdated": "2022-10-26T03:52:21.107Z",
   "articles": [
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/10/26/nucleaire-renouvelables-consommation-importations-le-subtil-pilotage-du-reseau-electrique-pour-eviter-la-panne_6147325_4355770.html",
+      "headline": "Nucléaire, renouvelables, consommation, importations… Le subtil pilotage du réseau électrique pour éviter la panne",
+      "timestamp": "2022-10-26T03:00:11.000Z"
+    },
+    {
+      "publication": "Le Monde",
+      "handle": "lemondefr",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2022/10/26/consommation-production-signal-ecowatt-le-tableau-de-bord-du-reseau-electrique-francais-en-temps-reel_6147324_4355770.html",
+      "headline": "Consommation, production, signal Ecowatt : le tableau de bord du réseau électrique français en temps réel",
+      "timestamp": "2022-10-26T03:00:07.000Z"
+    },
     {
       "publication": "Le Monde",
       "handle": "lemondefr",

@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-10-23T10:22:52.582Z",
+  "lastUpdated": "2022-10-26T03:52:21.102Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/opinion/inq2/john-fetterman-dr-mehmet-oz-debate-winner-20221025.html",
+      "timestamp": "2022-10-26T02:10:44.204Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",
