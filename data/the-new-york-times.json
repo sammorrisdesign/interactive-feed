@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-25T14:57:57.438Z",
+  "lastUpdated": "2022-10-26T13:51:23.422Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/26/technology/personaltech/tiktok-parental-controls.html",
+      "headline": "How to Use TikTok’s Parental Controls",
+      "timestamp": "2022-10-26T13:11:29.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
