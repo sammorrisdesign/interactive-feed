@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-26T13:51:23.422Z",
+  "lastUpdated": "2022-10-26T21:18:24.814Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/26/magazine/visualization-climate-change-future.html",
+      "headline": "The New World: Envisioning Life After Climate Change",
+      "timestamp": "2022-10-26T20:58:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/26/arts/editors-recommendations-khruangbin.html",
+      "headline": "What’s in Our Queue? Khruangbin and More",
+      "timestamp": "2022-10-26T20:54:45.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
