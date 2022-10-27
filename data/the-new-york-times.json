@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-27T15:45:56.405Z",
+  "lastUpdated": "2022-10-27T18:28:18.549Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/realestate/manhattan-studio-apartment-hunt.html",
+      "headline": "Seeking a Manhattan Studio With Design Potential for $600,000. Which Option Did He Choose?",
+      "timestamp": "2022-10-27T09:00:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
