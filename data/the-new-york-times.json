@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-27T09:21:00.830Z",
+  "lastUpdated": "2022-10-27T15:20:37.860Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/dining/where-to-eat-sick-days.html",
+      "headline": "The ‘Where to Eat’ Guide for Sick Days",
+      "timestamp": "2022-10-27T15:02:39.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
