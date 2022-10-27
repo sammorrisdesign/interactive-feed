@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-27T20:43:43.861Z",
+  "lastUpdated": "2022-10-27T23:24:08.588Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/upshot/times-siena-toplines-house-polls.html",
+      "headline": "Topline Results for October 2022 Times/Siena Polls in Four Congressional Districts",
+      "timestamp": "2022-10-27T23:21:12.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/upshot/poll-crosstabs-ks03-nm02-nv01-pa08.html",
+      "headline": "Cross-Tabs for October 2022 Times/Siena Polls in Kansas, Nevada, New Mexico and Pennsylvania",
+      "timestamp": "2022-10-27T23:21:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
