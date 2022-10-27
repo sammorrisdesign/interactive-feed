@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-10-26T23:22:57.098Z",
+  "lastUpdated": "2022-10-27T09:21:00.830Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/realestate/27hunt-wong.html",
+      "headline": "Seeking a Manhattan Studio With Design Potential for $600,000. Which Option Did He Choose?",
+      "timestamp": "2022-10-27T09:00:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/arts/music/stevie-wonder-talking-book.html",
+      "headline": "50 Years Ago, Stevie Wonder Heard the Future",
+      "timestamp": "2022-10-27T09:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/travel/things-to-do-sydney.html",
+      "headline": "36 Hours in Sydney",
+      "timestamp": "2022-10-27T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
