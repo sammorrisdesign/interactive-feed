@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-27T15:20:37.860Z",
+  "lastUpdated": "2022-10-27T15:45:56.405Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/movies/new-horror-movies-halloween.html",
+      "headline": "5 New Horror Movies to Rattle Your Bones 🎃  ",
+      "timestamp": "2022-10-27T15:42:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
