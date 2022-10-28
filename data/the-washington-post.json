@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-28T10:21:24.224Z",
+  "lastUpdated": "2022-10-28T10:45:42.359Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2022/rats-quiz-facts/",
+      "headline": "How’s your rat game? Take our quiz to find out.",
+      "timestamp": "2022-10-28T10:25:11.574Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2022/dc-rats-thrive-pandemic/",
+      "headline": "D.C.’s great rat migration — and how they survived during the pandemic",
+      "timestamp": "2022-10-28T10:25:03.666Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
