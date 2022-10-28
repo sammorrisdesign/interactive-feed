@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-27T23:24:08.588Z",
+  "lastUpdated": "2022-10-28T01:58:08.865Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/27/world/asia/hu-jintao-congress-videos.html",
+      "headline": "What Happened to Hu Jintao?",
+      "timestamp": "2022-10-28T01:53:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
