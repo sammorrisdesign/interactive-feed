@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-10-28T01:58:08.865Z",
+  "lastUpdated": "2022-10-28T09:21:10.108Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/28/opinion/climate-change-bret-stephens.html",
+      "headline": "Where My Climate Doubts Began to Melt",
+      "timestamp": "2022-10-28T09:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/28/arts/weekend-editors-picks-armageddon-time.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-10-28T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/28/realestate/joan-didion-estate-sale.html",
+      "headline": "Joan Didion’s Life in Objects",
+      "timestamp": "2022-10-28T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
