@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-28T09:21:10.108Z",
+  "lastUpdated": "2022-10-28T14:24:54.101Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/28/books/review/page-screen-sandman-author.html",
+      "headline": "Page and Screen: How Well Do You Know This Prolific Author’s Work?",
+      "timestamp": "2022-10-28T14:00:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
