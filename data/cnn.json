@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-26T01:53:34.658Z",
+  "lastUpdated": "2022-10-28T20:21:42.964Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/10/us/cnn-5-things-news-quiz-october-27-sec/",
+      "headline": "Who became the new UK prime minister this week?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
