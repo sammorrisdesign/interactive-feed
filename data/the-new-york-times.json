@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-28T14:24:54.101Z",
+  "lastUpdated": "2022-10-28T17:51:51.407Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/28/smarter-living/wirecutter/cheapish-trick-treating.html",
+      "headline": "6 Cheap(ish) Things to Bring Trick-or-Treating",
+      "timestamp": "2022-10-28T17:30:41.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
