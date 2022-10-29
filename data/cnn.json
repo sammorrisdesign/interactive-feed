@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-28T20:21:42.964Z",
+  "lastUpdated": "2022-10-29T12:34:32.969Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/us/ivory-billed-woodpecker-extinct-courtman-climate-ctpr/",
+      "headline": "The government is ready to declare this iconic woodpecker extinct. A true believer is racing to prove it still exists",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
