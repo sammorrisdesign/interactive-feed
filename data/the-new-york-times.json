@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-29T09:18:37.586Z",
+  "lastUpdated": "2022-10-29T15:20:17.870Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/29/opinion/science-fraud-image-manipulation-photoshop.html",
+      "headline": "Science Has a Nasty Photoshopping Problem",
+      "timestamp": "2022-10-29T15:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
