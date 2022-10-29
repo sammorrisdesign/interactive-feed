@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-28T17:51:51.407Z",
+  "lastUpdated": "2022-10-29T09:18:37.586Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/29/us/politics/midterms-news-update.html",
+      "headline": "The Week in Midterm News",
+      "timestamp": "2022-10-29T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
