@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-29T15:20:17.870Z",
+  "lastUpdated": "2022-10-30T03:59:28.736Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/29/us/juvenile-detention-abuses-louisiana.html",
+      "headline": "‘Dying Inside’: Chaos and Cruelty in Louisiana Juvenile Detention",
+      "timestamp": "2022-10-30T03:09:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
