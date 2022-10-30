@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-21T22:49:28.184Z",
+  "lastUpdated": "2022-10-30T11:15:52.725Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/b26e11b4-feb5-4c68-a742-f41c114fab03",
+      "headline": "European consumers cut back on discretionary spending",
+      "timestamp": "2022-10-30T11:00:54.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
