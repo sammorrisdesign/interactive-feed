@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-29T12:34:32.969Z",
+  "lastUpdated": "2022-10-30T12:36:51.648Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2021/11/us/crowd-density-dangerous-warning-signs/",
+      "headline": "These are the warning signs that a crowd is dangerously dense",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
