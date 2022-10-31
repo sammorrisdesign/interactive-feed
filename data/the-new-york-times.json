@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-31T21:18:22.166Z",
+  "lastUpdated": "2022-10-31T22:44:32.479Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/31/realestate/affordable-housing-calculator.html",
+      "headline": "Looking for Affordable Housing in New York? Here’s Where to Find It.",
+      "timestamp": "2022-10-31T22:38:48.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
