@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-30T03:59:28.736Z",
+  "lastUpdated": "2022-10-31T02:02:27.427Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/30/business/economy/russia-trade-ukraine-war.html",
+      "headline": "​​How Russia Pays for War",
+      "timestamp": "2022-10-31T00:56:54.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
