@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-10-31T05:34:06.907Z",
+  "lastUpdated": "2022-10-31T07:19:00.389Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/31/upshot/senate-polls-az-ga-nv-pa-crosstabs.html",
+      "headline": "Cross-Tabs for Oct. 2022 Times/Siena Polls in Arizona, Georgia, Nevada and Pennsylvania",
+      "timestamp": "2022-10-31T07:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/31/upshot/senate-polls-az-ga-nv-pa-toplines.html",
+      "headline": "Topline Results from Oct. 2022 Times/Siena Polls in Arizona, Georgia, Nevada and Pennsylvania",
+      "timestamp": "2022-10-31T07:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
