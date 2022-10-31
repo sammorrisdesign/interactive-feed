@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-31T19:38:04.009Z",
+  "lastUpdated": "2022-10-31T21:18:22.166Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/31/us/politics/supreme-court-affirmative-action-scene.html",
+      "headline": "On the Scene at the Supreme Court",
+      "timestamp": "2022-10-31T21:17:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
