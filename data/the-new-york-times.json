@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-31T02:02:27.427Z",
+  "lastUpdated": "2022-10-31T05:34:06.907Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/31/opinion/focus-group-georgia-suburban-voters.html",
+      "headline": "10 Georgia Swing Voters on the Election That Could Decide the Senate",
+      "timestamp": "2022-10-31T05:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
