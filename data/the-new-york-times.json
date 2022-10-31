@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-31T07:19:00.389Z",
+  "lastUpdated": "2022-10-31T19:38:04.009Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/10/31/us/david-depape-criminal-complaint.html",
+      "headline": "Read the criminal complaint",
+      "timestamp": "2022-10-31T19:24:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
