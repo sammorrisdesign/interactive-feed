@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-01T11:40:12.021Z",
+  "lastUpdated": "2022-11-01T13:48:13.239Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/01/nyregion/dia-de-los-muertos.html",
+      "headline": "New Faces Celebrate Día de Los Muertos",
+      "timestamp": "2022-11-01T11:28:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
