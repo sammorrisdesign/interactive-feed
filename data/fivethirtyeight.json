@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-14T10:24:04.260Z",
+  "lastUpdated": "2022-11-01T17:05:21.009Z",
   "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "handle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/nfl-receiver-rankings/",
+      "headline": "The Best NFL Receivers, According To ESPN Analytics",
+      "timestamp": "2022-11-01T16:30:04.000Z"
+    },
     {
       "publication": "FiveThirtyEight",
       "handle": "FiveThirtyEight",
