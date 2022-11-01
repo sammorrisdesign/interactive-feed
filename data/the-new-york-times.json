@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-01T17:50:11.876Z",
+  "lastUpdated": "2022-11-01T18:25:39.321Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/guide/2022-gift-guide.html",
+      "headline": "The 2022 Holiday Gift Guide",
+      "timestamp": "2022-11-01T17:50:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
