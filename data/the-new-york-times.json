@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-01T15:21:52.215Z",
+  "lastUpdated": "2022-11-01T17:50:11.876Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/01/opinion/roundtable-affirmativeaction-supreme-court.html",
+      "headline": "Opinion Round Table: Is Diversity in the Modern Era on Trial?",
+      "timestamp": "2022-11-01T17:45:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
