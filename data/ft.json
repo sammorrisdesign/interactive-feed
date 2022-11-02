@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-02T13:52:41.557Z",
+  "lastUpdated": "2022-11-02T16:30:23.687Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/021c294e-b0ee-423f-8cb2-9ad70373564a",
+      "headline": "Foreign born population jumps to 10mn in England and Wales ",
+      "timestamp": "2022-11-02T16:05:03.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
