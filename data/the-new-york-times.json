@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-02T05:25:23.451Z",
+  "lastUpdated": "2022-11-02T20:41:16.355Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/02/arts/editors-recommendations-abbott.html",
+      "headline": "What’s in Our Queue? ‘Abbott Elementary’ and More",
+      "timestamp": "2022-11-02T20:27:21.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
