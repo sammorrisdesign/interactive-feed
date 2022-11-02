@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-02T01:58:57.773Z",
+  "lastUpdated": "2022-11-02T05:25:23.451Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/02/sports/baseball/phillies-homers-world-series.html",
+      "headline": "Phillies Hit 1,950 Feet of Homers in Game 3",
+      "timestamp": "2022-11-02T04:22:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

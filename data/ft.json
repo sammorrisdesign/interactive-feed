@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-30T11:15:52.725Z",
+  "lastUpdated": "2022-11-02T05:25:23.458Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/arizona-election-deniers/",
+      "headline": "How Arizona became ground zero for election deniers",
+      "timestamp": "2022-11-02T05:01:01.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
