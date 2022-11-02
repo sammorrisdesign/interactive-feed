@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-01T18:25:39.321Z",
+  "lastUpdated": "2022-11-02T01:58:57.773Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/01/us/david-de-pape-motion-to-detain.html",
+      "headline": "Read the court filing by local prosecutors",
+      "timestamp": "2022-11-02T01:23:10.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
