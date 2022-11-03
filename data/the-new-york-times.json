@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-03T09:19:12.524Z",
+  "lastUpdated": "2022-11-03T15:27:02.557Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/03/opinion/politics/voter-issues-that-matter.html",
+      "headline": "From Opinion: What’s Driving Your Vote?",
+      "timestamp": "2022-11-03T15:03:11.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
