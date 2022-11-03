@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-03T15:27:02.557Z",
+  "lastUpdated": "2022-11-03T15:57:40.649Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/03/dining/where-to-eat-thanksgiving-dinner.html",
+      "headline": "Where to Eat Thanksgiving Dinner in New York City",
+      "timestamp": "2022-11-03T15:31:16.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
