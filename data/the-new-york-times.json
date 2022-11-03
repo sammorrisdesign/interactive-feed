@@ -1,6 +1,34 @@
 {
-  "lastUpdated": "2022-11-02T23:44:57.188Z",
+  "lastUpdated": "2022-11-03T09:19:12.524Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/03/arts/music/geffen-hall-tuning.html",
+      "headline": "The Philharmonic’s Home Gets a Tune-Up",
+      "timestamp": "2022-11-03T09:00:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/03/realestate/chelsea-village-manhattan-studio.html",
+      "headline": "Coming Home to New York, but Could She Afford a Manhattan Studio?",
+      "timestamp": "2022-11-03T09:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/03/well/self-care-tips-walks-therapy-coffee.html",
+      "headline": "How I Hold It Together: ‘Distress Walks’ and More",
+      "timestamp": "2022-11-03T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/03/travel/things-to-do-savannah.html",
+      "headline": "36 Hours in Savannah, Ga.",
+      "timestamp": "2022-11-03T09:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
