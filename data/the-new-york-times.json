@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-04T09:17:27.756Z",
+  "lastUpdated": "2022-11-04T11:38:07.947Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/04/nyregion/nyc-salary-quiz.html",
+      "headline": "Guess How Much These New York Jobs Pay",
+      "timestamp": "2022-11-04T09:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
