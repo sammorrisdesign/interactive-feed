@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-04T04:44:12.773Z",
+  "lastUpdated": "2022-11-04T05:23:48.815Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/04/opinion/focus-group-arizona-voters-republicans-democrats.html",
+      "headline": "We Asked 12 Arizona Voters What They Thought about Kari Lake and Joe Biden",
+      "timestamp": "2022-11-04T05:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
