@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-04T05:23:48.815Z",
+  "lastUpdated": "2022-11-04T09:17:27.756Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/04/arts/weekend-editors-picks-almost-famous.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-11-04T09:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/04/nyregion/04nysalaryquiz.html",
+      "headline": "Guess How Much These New York Jobs Pay",
+      "timestamp": "2022-11-04T09:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
