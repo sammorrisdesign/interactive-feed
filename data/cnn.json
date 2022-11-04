@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-02T14:25:17.293Z",
+  "lastUpdated": "2022-11-04T20:42:31.248Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/11/us/cnn-5-things-news-quiz-november-3-sec/",
+      "headline": "Which of the following was named the world's best cheese for 2022?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
