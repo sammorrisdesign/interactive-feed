@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-05T09:17:57.930Z",
+  "lastUpdated": "2022-11-05T16:51:57.195Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/05/us/politics/pelosi-attack-misinfo-republican-politicians.html",
+      "headline": "How Republicans Fed a Misinformation Loop About the Pelosi Attack",
+      "timestamp": "2022-11-05T16:37:05.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
