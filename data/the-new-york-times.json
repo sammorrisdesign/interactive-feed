@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-05T08:22:30.698Z",
+  "lastUpdated": "2022-11-05T09:17:57.930Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/05/climate/putin-russia-climate-change-progress.html",
+      "headline": "How Putin and Friends Stalled Climate Progress",
+      "timestamp": "2022-11-05T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/05/us/politics/midterms-news-update.html",
+      "headline": "4 Takeaways From the Campaign Trail",
+      "timestamp": "2022-11-05T09:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
