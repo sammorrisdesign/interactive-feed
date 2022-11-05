@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-04T15:22:36.325Z",
+  "lastUpdated": "2022-11-05T08:22:30.698Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/05/us/politics/midterms-diversity.html",
+      "headline": "How Diverse Are the Candidates in the Midterm Elections?",
+      "timestamp": "2022-11-05T08:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
