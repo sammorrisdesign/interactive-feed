@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-07T03:35:45.964Z",
+  "lastUpdated": "2022-11-07T05:27:44.034Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/07/us/elections/election-results-time.html",
+      "headline": "It Took Two Weeks to Call Every State in 2020. This Is When to Expect Results This Year.",
+      "timestamp": "2022-11-07T05:09:36.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
