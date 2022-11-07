@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-07T17:31:29.451Z",
+  "lastUpdated": "2022-11-07T19:37:21.641Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/election-deniers-midterms/",
+      "headline": "Tracking which 2020 election deniers are winning, losing in the midterms",
+      "timestamp": "2022-11-07T19:15:16.887Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
