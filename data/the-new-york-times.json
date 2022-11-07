@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-07T14:42:29.883Z",
+  "lastUpdated": "2022-11-07T20:42:33.140Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/07/us/tracking-storm-nicole.html",
+      "headline": "Tracking Subtropical Storm Nicole",
+      "timestamp": "2022-11-07T20:37:32.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
