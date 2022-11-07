@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-07T01:42:24.833Z",
+  "lastUpdated": "2022-11-07T03:35:45.964Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/dining/thanksgiving-pies-recipes.html",
+      "headline": "Your Pies Have Arrived",
+      "timestamp": "2022-11-07T01:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
