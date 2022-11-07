@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-07T05:27:44.034Z",
+  "lastUpdated": "2022-11-07T10:21:22.934Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/06/climate/cop27-climate-change-loss-damage.html",
+      "headline": "A Core Question at COP27: Who Will Pay for Climate Change?",
+      "timestamp": "2022-11-07T10:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/07/opinion/midterms-2022-predictions.html",
+      "headline": "Who Will Win in These Eight Races?",
+      "timestamp": "2022-11-07T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
