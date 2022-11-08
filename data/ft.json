@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-02T16:30:23.687Z",
+  "lastUpdated": "2022-11-08T22:19:17.978Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/6a2ef26f-e50b-4a4f-b103-c4fd263ea60e",
+      "headline": "Live: US midterm elections 2022 results",
+      "timestamp": "2022-11-08T21:59:08.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
