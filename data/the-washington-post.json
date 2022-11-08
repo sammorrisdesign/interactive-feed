@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-07T19:37:21.641Z",
+  "lastUpdated": "2022-11-08T21:40:29.162Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/elections/interactive/2022/how-election-models-work/",
+      "headline": "How election modeling can help us understand who might win",
+      "timestamp": "2022-11-08T21:37:28.104Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
