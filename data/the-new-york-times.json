@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-08T07:17:19.014Z",
+  "lastUpdated": "2022-11-08T10:21:19.295Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/politics/poll-closing-times.html",
+      "headline": "What Time Do the Polls Close? A State-by-State Guide",
+      "timestamp": "2022-11-08T10:00:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
