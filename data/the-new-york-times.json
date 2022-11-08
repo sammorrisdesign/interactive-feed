@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-11-08T14:22:02.839Z",
+  "lastUpdated": "2022-11-08T17:45:41.227Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-florida-us-house-district-27.html",
+      "headline": "Florida 27th Congressional District Election Results",
+      "timestamp": "2022-11-08T17:43:33.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-oklahoma-auditor-inspector.html",
+      "headline": "Oklahoma Auditor Inspector Election Results",
+      "timestamp": "2022-11-08T17:43:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-kentucky.html",
+      "headline": "Kentucky Election Results",
+      "timestamp": "2022-11-08T17:43:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-georgia-lieutenant-governor.html",
+      "headline": "Georgia Lieutenant Governor Election Results",
+      "timestamp": "2022-11-08T17:43:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-south-dakota-us-house-district-1.html",
+      "headline": "South Dakota First Congressional District Election Results",
+      "timestamp": "2022-11-08T17:43:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-indiana-us-senate.html",
+      "headline": "Indiana U.S. Senate Election Results",
+      "timestamp": "2022-11-08T17:43:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-maryland-comptroller.html",
+      "headline": "Maryland Comptroller Election Results",
+      "timestamp": "2022-11-08T17:43:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-california-attorney-general.html",
+      "headline": "California Attorney General Election Results",
+      "timestamp": "2022-11-08T17:43:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-texas-agriculture-commissioner.html",
+      "headline": "Texas Agriculture Commissioner Election Results",
+      "timestamp": "2022-11-08T17:43:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-indiana-secretary-of-state.html",
+      "headline": "Indiana Secretary of State Election Results",
+      "timestamp": "2022-11-08T17:43:31.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
