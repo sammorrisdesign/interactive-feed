@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T06:29:16.150Z",
+  "lastUpdated": "2022-11-09T10:20:13.902Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/09/us/politics/election-misinformation-midterms-results.html",
+      "headline": "Election Skeptics Won Races Across the Country",
+      "timestamp": "2022-11-09T10:03:29.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
