@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-10T22:22:52.498Z",
+  "lastUpdated": "2022-11-09T03:40:52.861Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "handle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/data-graphics/senate-midterm-elections-votes-tracker-n1300492",
+      "headline": "Tracking remaining votes in key Senate races",
+      "timestamp": "2022-11-09T02:55:16.000Z"
+    },
     {
       "publication": "NBC News",
       "handle": "NBCNewsGraphics",

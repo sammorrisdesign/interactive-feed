@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-10-25T21:46:18.925Z",
+  "lastUpdated": "2022-11-09T03:40:52.862Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/abortion-is-on-the-ballot-in-five-states-in-midterm-elections-11667921098",
+      "headline": "Abortion Is on the Ballot in Five States in Midterm Elections",
+      "timestamp": "2022-11-09T03:40:40.596Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/senate-control-could-be-decided-by-these-remaining-midterm-votes-11667943356",
+      "headline": "Senate Control Could Be Decided by These Remaining Midterm Votes",
+      "timestamp": "2022-11-09T03:40:40.596Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/how-different-groups-voted-in-the-2022-midterm-elections-11667955705",
+      "headline": "How Different Groups Voted in the 2022 Midterm Elections",
+      "timestamp": "2022-11-09T03:40:40.596Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
