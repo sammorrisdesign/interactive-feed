@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T17:28:23.542Z",
+  "lastUpdated": "2022-11-09T22:18:27.019Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/voter-turnout-2022-by-state/",
+      "headline": "Where voter turnout exceeded 2018 highs",
+      "timestamp": "2022-11-09T21:42:45.210Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",

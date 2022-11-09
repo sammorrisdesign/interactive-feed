@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T21:41:46.690Z",
+  "lastUpdated": "2022-11-09T22:18:27.012Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/09/arts/editors-recommendations-thewatcher.html",
+      "headline": "What’s in Our Queue? ‘The Watcher’ and More",
+      "timestamp": "2022-11-09T22:08:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
