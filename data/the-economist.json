@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-10-28T12:42:04.573Z",
+  "lastUpdated": "2022-11-09T08:48:31.113Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "handle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/us-midterms-2022/results/senate",
+      "headline": "US Elections 2022: US Senate results",
+      "timestamp": "2022-11-09T08:48:27.514Z"
+    },
     {
       "publication": "The Economist",
       "handle": "ECONdailycharts",
