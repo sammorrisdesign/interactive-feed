@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T04:45:47.489Z",
+  "lastUpdated": "2022-11-09T06:29:16.150Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-texas-us-house-district-34.html",
+      "headline": "Texas 34th Congressional District Election Results",
+      "timestamp": "2022-11-09T05:48:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
