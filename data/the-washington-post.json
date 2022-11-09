@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-08T21:40:29.162Z",
+  "lastUpdated": "2022-11-09T12:42:09.493Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/elections/interactive/2022/vote-count-2022-election/",
+      "headline": "Where midterm votes are still being counted",
+      "timestamp": "2022-11-09T12:30:30.634Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
