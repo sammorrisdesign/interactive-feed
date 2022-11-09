@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T10:20:13.902Z",
+  "lastUpdated": "2022-11-09T16:26:58.362Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/09/travel/things-to-do-barcelona.html",
+      "headline": "36 Hours in Barcelona",
+      "timestamp": "2022-11-09T16:08:45.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
