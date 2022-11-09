@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T17:28:23.534Z",
+  "lastUpdated": "2022-11-09T21:41:46.690Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/09/us/politics/abortion-laws-midterm-election.html",
+      "headline": "Where the Midterms Mattered Most for Abortion Access",
+      "timestamp": "2022-11-09T21:32:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
