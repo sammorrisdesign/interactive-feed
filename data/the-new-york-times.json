@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T01:52:50.374Z",
+  "lastUpdated": "2022-11-09T04:45:47.489Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-governor.html",
+      "headline": "Governor Election Results",
+      "timestamp": "2022-11-09T04:01:21.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
