@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-10T16:26:40.329Z",
+  "lastUpdated": "2022-11-10T16:57:38.022Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/10/us/elections/results-house-seats-elections-congress.html",
+      "headline": "Path to 218: Tracking the Remaining House Races",
+      "timestamp": "2022-11-10T16:31:22.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
