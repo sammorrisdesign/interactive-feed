@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-10T16:57:38.022Z",
+  "lastUpdated": "2022-11-10T20:20:48.630Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/10/books/review/book-authors-movies-quiz.html",
+      "headline": "Lit Trivia: Do You Know These Classic Screen Adaptations of Popular Books?",
+      "timestamp": "2022-11-10T20:00:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
