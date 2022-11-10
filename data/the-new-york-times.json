@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T22:18:27.012Z",
+  "lastUpdated": "2022-11-10T09:42:21.878Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/10/magazine/la-river-redesign.html",
+      "headline": "Remaking the River That Remade L.A.",
+      "timestamp": "2022-11-10T09:25:58.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
