@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-10T20:20:48.630Z",
+  "lastUpdated": "2022-11-10T21:18:05.960Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/10/smarter-living/wirecutter/clean-microwave.html",
+      "headline": "How to Clean Your Microwave",
+      "timestamp": "2022-11-10T21:01:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
