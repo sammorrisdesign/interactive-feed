@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T23:22:22.332Z",
+  "lastUpdated": "2022-11-11T01:45:05.303Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/11/politics/congress-senate-house-ballot-count/",
+      "headline": "How many votes are left? Control of Congress hangs in this final count ",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
