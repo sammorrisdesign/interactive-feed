@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-10T22:42:08.288Z",
+  "lastUpdated": "2022-11-11T04:36:48.990Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/sports/baseball/you-be-the-ump-world-series.html",
+      "headline": "You Be the Ump: World Series Edition",
+      "timestamp": "2022-11-11T04:15:43.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
