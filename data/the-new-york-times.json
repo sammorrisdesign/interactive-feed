@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-11T08:26:34.718Z",
+  "lastUpdated": "2022-11-11T10:21:48.286Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/11/arts/weekend-editors-picks-wakanda-forever.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-11-11T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
