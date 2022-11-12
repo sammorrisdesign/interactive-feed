@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-12T10:18:51.993Z",
+  "lastUpdated": "2022-11-12T14:15:54.978Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/12/books/review/childrens-picture-book-quiz.html",
+      "headline": "Lit Trivia: Do You Know These Award-Winning Children’s Picture Books?",
+      "timestamp": "2022-11-12T14:00:05.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
