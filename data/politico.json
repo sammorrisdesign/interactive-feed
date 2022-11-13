@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-08-05T09:41:25.875Z",
+  "lastUpdated": "2022-11-13T09:17:50.470Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "handle": "politico",
+      "url": "https://www.politico.com/interactives/2022/midterm-election-house-districts-by-education/",
+      "headline": "Elections 2022: The educational divide that helps explain the midterms",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "handle": "politico",
