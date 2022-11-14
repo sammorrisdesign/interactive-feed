@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-09T03:40:52.862Z",
+  "lastUpdated": "2022-11-14T16:27:04.088Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/world-cup-2022-qatar-11668191735",
+      "headline": "The World Cup Is in Qatar, the Smallest Country to Host the Event",
+      "timestamp": "2022-11-14T16:26:51.900Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
