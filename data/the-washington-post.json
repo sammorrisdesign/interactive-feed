@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-11-14T13:48:46.420Z",
+  "lastUpdated": "2022-11-14T18:22:28.903Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2022/self-care-gifts/",
+      "headline": "2022 holiday gift guide: Self-care category",
+      "timestamp": "2022-11-14T18:00:52.473Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/lifestyle/interactive/2022/holiday-gift-ideas-2022/",
+      "headline": "2022 Holiday Gift Guide",
+      "timestamp": "2022-11-14T18:00:41.336Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/home/interactive/2022/gifts-pets-pet-lovers/",
+      "headline": "2022 holiday gift guide: Pets category",
+      "timestamp": "2022-11-14T18:00:36.172Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/kidspost/interactive/2022/gifts-for-kids/",
+      "headline": "2022 holiday gift guide: Toys category",
+      "timestamp": "2022-11-14T18:00:33.671Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/travel/interactive/2022/travel-gifts/",
+      "headline": "2022 holiday gift guide: Travel category",
+      "timestamp": "2022-11-14T18:00:28.925Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/home/interactive/2022/home-gift-ideas/",
+      "headline": "2022 holiday gift guide: Home category",
+      "timestamp": "2022-11-14T18:00:17.419Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/tech-gifts/",
+      "headline": "2022 holiday gift guide: Tech category",
+      "timestamp": "2022-11-14T18:00:15.518Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/food/interactive/2022/gifts-foodies-cooks/",
+      "headline": "2022 holiday gift guide: Food category",
+      "timestamp": "2022-11-14T18:00:10.804Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/books/interactive/2022/book-gift-ideas/",
+      "headline": "2022 holiday gift guide: Books category",
+      "timestamp": "2022-11-14T18:00:08.879Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/video-games/interactive/2022/gifts-for-gamers/",
+      "headline": "2022 holiday gift guide: Video games category",
+      "timestamp": "2022-11-14T18:00:02.201Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
