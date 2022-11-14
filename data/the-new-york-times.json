@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-13T07:16:49.302Z",
+  "lastUpdated": "2022-11-14T04:10:54.491Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/13/health/puberty-blockers-transgender-youth.html",
+      "headline": "Behind Our Reporting on Puberty Blockers",
+      "timestamp": "2022-11-14T03:44:18.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
