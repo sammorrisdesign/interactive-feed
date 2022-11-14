@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-14T04:10:54.491Z",
+  "lastUpdated": "2022-11-14T10:21:46.930Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/14/magazine/brian-eno-interview.html",
+      "headline": "Brian Eno Reveals the Hidden Purpose of All Art",
+      "timestamp": "2022-11-14T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
