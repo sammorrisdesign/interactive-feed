@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-15T03:58:48.728Z",
+  "lastUpdated": "2022-11-15T06:24:22.653Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/15/opinion/voter-reactions-midterm-elections.html",
+      "headline": "These 17 Swing Voters Have a Very Clear Message for Donald Trump",
+      "timestamp": "2022-11-15T06:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
