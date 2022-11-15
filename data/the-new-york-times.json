@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-15T06:24:22.653Z",
+  "lastUpdated": "2022-11-15T21:15:55.947Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/podcasts/serial-productions.html",
+      "headline": "Serial Productions",
+      "timestamp": "2022-11-15T20:52:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
