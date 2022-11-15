@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-14T10:21:46.930Z",
+  "lastUpdated": "2022-11-15T03:58:48.728Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/14/technology/tesla-self-driving-flaws.html",
+      "headline": "What Riding in a Self-Driving Tesla Tells Us About the Future of Autonomy",
+      "timestamp": "2022-11-15T03:45:50.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
