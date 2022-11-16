@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-16T19:37:28.482Z",
+  "lastUpdated": "2022-11-16T22:40:12.848Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/16/nyregion/covid-tents-nyc.html",
+      "headline": "Covid Tents Have Expanded Their Repertoire",
+      "timestamp": "2022-11-16T22:18:46.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
