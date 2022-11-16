@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-15T21:15:55.947Z",
+  "lastUpdated": "2022-11-16T10:18:59.136Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/16/opinion/trump-running-black-hole.html",
+      "headline": "You Probably Have a Lot of Feelings Right Now. We Have a Black Hole for Them.",
+      "timestamp": "2022-11-16T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
