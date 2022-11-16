@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-14T22:44:38.267Z",
+  "lastUpdated": "2022-11-16T14:39:34.650Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/11/world/artemis-1-mission-explainer/",
+      "headline": "Artemis 1: A visual tour of the most powerful rocket ever built",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
