@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-16T10:18:59.136Z",
+  "lastUpdated": "2022-11-16T19:37:28.482Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/16/arts/editors-recommendations-oof.html",
+      "headline": "What’s in Our Queue? ‘OOF’ and More",
+      "timestamp": "2022-11-16T19:20:49.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
