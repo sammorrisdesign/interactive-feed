@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-17T10:41:52.943Z",
+  "lastUpdated": "2022-11-17T17:18:10.057Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/dining/where-to-eat-new-york-city.html",
+      "headline": "New York City Dining Questions, Answered",
+      "timestamp": "2022-11-17T17:05:14.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

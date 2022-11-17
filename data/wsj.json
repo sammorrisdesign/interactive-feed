@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-17T16:54:56.436Z",
+  "lastUpdated": "2022-11-17T17:18:10.076Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/wildfire-season-in-u-s-west-ends-with-fewer-blazes-less-damage-11668691872",
+      "headline": "Wildfire Season in U.S. West Ends With Fewer Blazes, Less Damage",
+      "timestamp": "2022-11-17T17:17:55.680Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
