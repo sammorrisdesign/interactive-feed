@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-17T10:18:59.528Z",
+  "lastUpdated": "2022-11-17T10:41:52.943Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/learning/17VocabQuizLN.html",
+      "headline": "Vocabulary in Context: Teen Mariachis",
+      "timestamp": "2022-11-17T10:30:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
