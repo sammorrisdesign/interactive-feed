@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-16T05:16:09.714Z",
+  "lastUpdated": "2022-11-17T15:19:06.817Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/4018dc22-dfe0-4169-a6e0-4d38cda41a21",
+      "headline": "Data-led election prediction has never been more important ",
+      "timestamp": "2022-11-17T14:45:34.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
