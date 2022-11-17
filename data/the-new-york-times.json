@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-17T17:18:10.057Z",
+  "lastUpdated": "2022-11-17T18:21:35.726Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/crosswords/ur-first-board-game.html",
+      "headline": "How to Play the Royal Game of Ur",
+      "timestamp": "2022-11-17T18:14:20.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
