@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-16T22:40:12.848Z",
+  "lastUpdated": "2022-11-17T01:38:13.784Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/16/world/europe/anton-filatov-top-10-films-for-surviving-a-war.html",
+      "headline": "Anton Filatov’s Top 10 Films for Surviving a War",
+      "timestamp": "2022-11-17T00:31:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/16/us/elections/republicans-house-congress.html",
+      "headline": "How Republicans Won the House",
+      "timestamp": "2022-11-17T00:18:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
