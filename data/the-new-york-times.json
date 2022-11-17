@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2022-11-17T01:38:13.784Z",
+  "lastUpdated": "2022-11-17T10:18:59.528Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/world/europe/crimea-bridge-collapse.html",
+      "headline": "How Ukraine Blew Up a Key Russian Bridge",
+      "timestamp": "2022-11-17T10:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/realestate/nyc-harlem-west-side-apartment.html",
+      "headline": "What Could 20 Years’ of Savings Buy on the West Side? Two Longtime Renters Found Out.",
+      "timestamp": "2022-11-17T10:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/climate/eu-energy-crisis-gas.html",
+      "headline": "Europe’s Energy Risks Go Beyond Gas",
+      "timestamp": "2022-11-17T10:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/travel/things-to-do-mexico-city.html",
+      "headline": "36 Hours in Mexico City",
+      "timestamp": "2022-11-17T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/opinion/trump-five-major-investigations-dozens-of-ways-out.html",
+      "headline": "Trump Faces Five Major Investigations. He Has Dozens of Ways Out.",
+      "timestamp": "2022-11-17T10:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
