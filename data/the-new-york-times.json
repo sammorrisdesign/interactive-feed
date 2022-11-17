@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-17T18:21:35.726Z",
+  "lastUpdated": "2022-11-17T21:38:22.445Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/smarter-living/wirecutter/thanksgiving-kitchen-basics.html",
+      "headline": "Kitchen Basics for Hosting Thanksgiving",
+      "timestamp": "2022-11-17T21:37:44.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
