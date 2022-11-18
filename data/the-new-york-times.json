@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-17T21:38:22.445Z",
+  "lastUpdated": "2022-11-18T01:42:37.452Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/17/arts/octavia-butler-vision-kindred.html",
+      "headline": "The Visions of Octavia Butler",
+      "timestamp": "2022-11-17T23:47:44.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
