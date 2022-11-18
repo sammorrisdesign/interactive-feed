@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-16T14:39:34.650Z",
+  "lastUpdated": "2022-11-18T21:15:49.272Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/11/us/cnn-5-things-news-quiz-november-17-sec/",
+      "headline": "How many seats were needed to gain control of the House?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
