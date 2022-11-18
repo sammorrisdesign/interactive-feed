@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-18T01:42:37.452Z",
+  "lastUpdated": "2022-11-18T05:16:51.786Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/18/world/middleeast/extreme-heat.html",
+      "headline": "Extreme Heat Will Change Us",
+      "timestamp": "2022-11-18T05:16:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
