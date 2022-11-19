@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-18T19:14:49.404Z",
+  "lastUpdated": "2022-11-19T13:26:03.243Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/19/books/review/spy-novels-quiz.html",
+      "headline": "Title Search: Can You Find 15 Spy Novels Hiding in Plain Sight?",
+      "timestamp": "2022-11-19T13:00:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
