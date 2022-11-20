@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-11-19T13:26:03.243Z",
+  "lastUpdated": "2022-11-20T05:15:55.421Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/world-cup-standings.html",
+      "headline": "World Cup 2022: How Teams Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:08:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/netherlands-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How the Netherlands Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:07:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/france-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How France Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:06:17.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/germany-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How Germany Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:06:17.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/tunisia-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How Tunisia Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:06:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/united-states-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How the United States Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:06:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/wales-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How Wales Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:06:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/switzerland-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How Switzerland Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:06:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/qatar-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How Qatar Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:06:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/upshot/portugal-world-cup-scores-standings.html",
+      "headline": "World Cup 2022: How Portugal Can Advance to the Round of 16",
+      "timestamp": "2022-11-20T05:06:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
