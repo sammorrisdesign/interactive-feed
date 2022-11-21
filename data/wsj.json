@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T17:18:35.654Z",
+  "lastUpdated": "2022-11-21T17:41:01.160Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/inflation-christmas-shopping-retail-charity-americans-11668804758",
+      "headline": "Stressed-Out Americans Plan to Buy Fewer Christmas Gifts, Donate Less to Charity",
+      "timestamp": "2022-11-21T17:40:48.434Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
