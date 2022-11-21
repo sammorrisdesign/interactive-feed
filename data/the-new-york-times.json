@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T08:23:45.132Z",
+  "lastUpdated": "2022-11-21T15:42:16.504Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/21/world/middleeast/cop-27-economy.html",
+      "headline": "On the Ground at the U.N. Climate Summit",
+      "timestamp": "2022-11-21T15:18:48.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
