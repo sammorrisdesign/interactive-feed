@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-20T05:15:55.421Z",
+  "lastUpdated": "2022-11-21T05:16:49.181Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/21/sports/world-cup/how-pronounce-qatar.html",
+      "headline": "How Do You Pronounce Qatar? Probably Incorrectly.",
+      "timestamp": "2022-11-21T05:01:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
