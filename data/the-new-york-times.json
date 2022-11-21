@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T17:41:01.147Z",
+  "lastUpdated": "2022-11-21T18:45:26.492Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/21/world/europe/kyiv-christmas-dark.html",
+      "headline": "Planning for a Dark Christmas in Kyiv",
+      "timestamp": "2022-11-21T18:36:49.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
