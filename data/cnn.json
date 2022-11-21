@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-21T16:24:55.211Z",
+  "lastUpdated": "2022-11-21T19:14:28.109Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/11/middleeast/iran-protests-sexual-assault/",
+      "headline": "Shocked Iranian medics leaked stories of protesters raped in detention",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/11/business/thanksgiving-dinner-inflation/",
+      "headline": "The rising cost of Thanksgiving",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
