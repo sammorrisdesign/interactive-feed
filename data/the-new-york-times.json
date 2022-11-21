@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T21:17:42.093Z",
+  "lastUpdated": "2022-11-21T23:41:31.144Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/21/smarter-living/wirecutter/black-friday-deals-to-skip.html",
+      "headline": "What Not to Buy on Black Friday",
+      "timestamp": "2022-11-21T23:31:42.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
