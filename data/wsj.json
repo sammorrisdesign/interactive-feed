@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T16:24:55.221Z",
+  "lastUpdated": "2022-11-21T16:55:11.903Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/sam-bankman-fried-ftx-alameda-bankruptcy-collapse-11668824201",
+      "headline": "They Lived Together, Worked Together and Lost Billions Together: Inside Sam Bankman-Fried’s Doomed FTX Empire",
+      "timestamp": "2022-11-21T16:54:54.554Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
