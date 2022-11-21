@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T18:45:26.492Z",
+  "lastUpdated": "2022-11-21T21:17:42.093Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/21/dining/turkey-questions.html",
+      "headline": "5 Solutions for a Turkey S.O.S.",
+      "timestamp": "2022-11-21T20:57:20.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

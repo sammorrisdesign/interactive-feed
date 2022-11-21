@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T20:18:13.329Z",
+  "lastUpdated": "2022-11-21T21:17:42.108Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/feds-aggressive-rate-hikes-are-a-game-changer-11669006579",
+      "headline": "Fed’s Aggressive Rate Hikes Are a Game Changer",
+      "timestamp": "2022-11-21T21:17:29.920Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
