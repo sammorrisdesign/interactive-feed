@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T16:55:11.903Z",
+  "lastUpdated": "2022-11-21T17:18:35.654Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/sam-bankman-fried-ftx-team-among-top-political-donors-before-bankruptcy-11668949205",
+      "headline": "Sam Bankman-Fried, FTX Team Among Top Political Donors Before Bankruptcy",
+      "timestamp": "2022-11-21T17:18:22.515Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
