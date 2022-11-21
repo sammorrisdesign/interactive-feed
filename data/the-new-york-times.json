@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T05:16:49.181Z",
+  "lastUpdated": "2022-11-21T08:23:45.132Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/21/us/politics/georgia-senate-runoff.html",
+      "headline": "What to Know About the Georgia Runoff",
+      "timestamp": "2022-11-21T08:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
