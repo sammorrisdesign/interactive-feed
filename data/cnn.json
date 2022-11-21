@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T15:19:01.925Z",
+  "lastUpdated": "2022-11-21T16:24:55.211Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/11/business/thanksgiving-dinner-inflation/index.html",
+      "headline": "The rising cost of Thanksgiving",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
