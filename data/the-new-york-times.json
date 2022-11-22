@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T23:41:31.144Z",
+  "lastUpdated": "2022-11-22T03:53:46.572Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/21/sports/world-cup/wales-usmnt-world-cup-goal-pulisic.html",
+      "headline": "How Pulisic Crafted the U.S. Goal in Its World Cup Opener",
+      "timestamp": "2022-11-22T03:50:26.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
