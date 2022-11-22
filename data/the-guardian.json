@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-20T16:51:03.866Z",
+  "lastUpdated": "2022-11-22T01:40:22.429Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "handle": "GuardianVisuals",
+      "url": "https://www.theguardian.com/australia-news/datablog/ng-interactive/2022/nov/22/covid-19-weekly-cases-australia-vaccine-data-tracker-deaths-per-week-hospitalisations-coronavirus-tracking-latest-numbers-stats-live-update",
+      "headline": "Covid-19 Australia data tracker: coronavirus cases, deaths, hospitalisations and vaccination",
+      "timestamp": "2022-11-22T01:29:44.000Z"
+    },
     {
       "publication": "The Guardian",
       "handle": "GuardianVisuals",
