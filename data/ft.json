@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-17T15:19:06.817Z",
+  "lastUpdated": "2022-11-22T07:37:52.353Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/3f3930ab-daf2-476f-86b5-638b575d6028",
+      "headline": "Live news updates: UK public borrowing rises by less than expected",
+      "timestamp": "2022-11-22T06:14:29.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
