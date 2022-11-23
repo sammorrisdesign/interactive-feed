@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-23T13:29:54.480Z",
+  "lastUpdated": "2022-11-23T14:15:49.516Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/technology/how-to-read-magazines-tablet.html",
+      "headline": "How to Read Printed Periodicals on a Tablet",
+      "timestamp": "2022-11-23T14:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
