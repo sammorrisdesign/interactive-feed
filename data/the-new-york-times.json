@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-23T12:33:13.421Z",
+  "lastUpdated": "2022-11-23T13:29:54.480Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/magazine/italy-photos.html",
+      "headline": "A Mystery Hidden in a Family Photograph",
+      "timestamp": "2022-11-23T13:24:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
