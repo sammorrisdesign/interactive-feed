@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-23T15:17:42.488Z",
+  "lastUpdated": "2022-11-23T15:40:35.918Z",
   "articles": [
+    {
+      "publication": "Axios",
+      "handle": "axiosvisuals",
+      "url": "https://www.axios.com/2022/11/23/world-cup-qatar-2022-stadiums-capacity",
+      "headline": "The pros and cons of Qatar's historically small World Cup",
+      "timestamp": "2022-11-23T15:40:25.791Z"
+    },
+    {
+      "publication": "Axios",
+      "handle": "axiosvisuals",
+      "url": "https://www.axios.com/one-million-us-covid-19-deaths",
+      "headline": "1 million U.S. COVID deaths: Visualizing the scale of loss",
+      "timestamp": "2022-11-23T15:40:25.791Z"
+    },
     {
       "publication": "Axios",
       "handle": "axiosvisuals",
