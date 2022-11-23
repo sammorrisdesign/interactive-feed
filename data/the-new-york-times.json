@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-23T07:15:20.930Z",
+  "lastUpdated": "2022-11-23T10:18:18.261Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/technology/twitter-elon-musk-twitter-blue-check-verification.html",
+      "headline": "Adult Performers, Trump Supporters and Parodies: Who Is Paying for Twitter?",
+      "timestamp": "2022-11-23T10:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/well/move/exercise-scientist-running-motivation-tips.html",
+      "headline": "How a Running Expert Keeps on Running",
+      "timestamp": "2022-11-23T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
