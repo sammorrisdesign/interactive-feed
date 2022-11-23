@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-23T01:22:21.082Z",
+  "lastUpdated": "2022-11-23T07:15:20.930Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/us/23wx-thanksgiving-turbulence.html",
+      "headline": "Your Thanksgiving Flight Might Have Turbulence. Here’s the Forecast.",
+      "timestamp": "2022-11-23T07:06:29.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
