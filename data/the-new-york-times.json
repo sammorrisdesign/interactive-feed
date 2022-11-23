@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-23T16:23:29.702Z",
+  "lastUpdated": "2022-11-23T19:36:52.740Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/opinion/thanksgiving-politics-quiz.html",
+      "headline": "Your Turkey Day Politics Quiz Is Here",
+      "timestamp": "2022-11-23T19:20:27.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
