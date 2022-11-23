@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-23T14:15:49.516Z",
+  "lastUpdated": "2022-11-23T16:23:29.702Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/opinion/thanksgiving-parade-balloons-2022.html",
+      "headline": "The Thanksgiving Parade You Won’t See This Year",
+      "timestamp": "2022-11-23T16:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/nyregion/bronx-mobile-bank.html",
+      "headline": "A Bank on Wheels for Bronx Residents",
+      "timestamp": "2022-11-23T15:57:48.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
