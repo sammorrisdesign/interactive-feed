@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-23T11:14:02.769Z",
+  "lastUpdated": "2022-11-23T12:33:13.430Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/offside-world-cup/",
+      "headline": "That’s a clear offside! But why?",
+      "timestamp": "2022-11-23T12:00:00.332Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
