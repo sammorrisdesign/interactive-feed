@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-23T19:36:52.740Z",
+  "lastUpdated": "2022-11-24T02:44:56.067Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/23/sports/world-cup/canada-belgium-world-cup-goal-batshuayi.html",
+      "headline": "Belgium’s Long-Ball Goal Sinks a Determined Canada",
+      "timestamp": "2022-11-24T02:27:08.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
