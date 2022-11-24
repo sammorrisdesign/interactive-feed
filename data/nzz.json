@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-15T15:42:02.207Z",
+  "lastUpdated": "2022-11-24T04:43:40.678Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "handle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/diese-grafiken-zeigen-ob-zuerich-strom-spart-ld.1710613",
+      "headline": "Dieser Algorithmus kombiniert Strom und Wetter und zeigt: Die Zürcher Industrie spart kaum, bei Privathaushalten zeigen sich Veränderungen",
+      "timestamp": "2022-11-24T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "handle": "nzzvisuals",
