@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-22T07:37:52.353Z",
+  "lastUpdated": "2022-11-24T05:15:17.915Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/01b6a0e0-a7a5-499e-a807-c6d3e042aa1d",
+      "headline": "How #electiontwitter took over the political prediction game",
+      "timestamp": "2022-11-24T05:00:26.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
