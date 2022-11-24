@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-24T10:17:49.972Z",
+  "lastUpdated": "2022-11-24T16:22:51.448Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/24/arts/editors-recommendations-armfield.html",
+      "headline": "What’s in Our Queue? A Novel and More",
+      "timestamp": "2022-11-24T16:18:58.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
