@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-21T19:14:28.109Z",
+  "lastUpdated": "2022-11-24T19:13:31.699Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/11/us/cnn-thanksgiving-2022-quiz/",
+      "headline": "The average score for this week's news quiz is 4.6. Think you can do better?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
