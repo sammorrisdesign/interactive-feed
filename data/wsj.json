@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-22T20:38:25.023Z",
+  "lastUpdated": "2022-11-25T19:12:46.590Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/europe-sabotage-gas-pipelines-mine-hunters-subs-11669389505",
+      "headline": "Fearing Sabotage, Europe Patrols Pipelines With Mine Hunters and Unmanned Subs",
+      "timestamp": "2022-11-25T19:12:37.848Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
