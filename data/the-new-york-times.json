@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-25T10:18:12.357Z",
+  "lastUpdated": "2022-11-25T14:14:58.248Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/25/books/review/page-screen-groundbreaking-author.html",
+      "headline": "Page and Screen: How Well Do You Know This Groundbreaking Author’s Work?",
+      "timestamp": "2022-11-25T14:00:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
