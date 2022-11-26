@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-24T05:15:17.915Z",
+  "lastUpdated": "2022-11-26T10:16:15.497Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/55512eae-201d-49b5-9d66-2fc3dcf3059a",
+      "headline": "Global floods and droughts will intensify sooner than expected, studies show",
+      "timestamp": "2022-11-26T10:00:50.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",

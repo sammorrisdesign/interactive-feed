@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-26T02:40:32.516Z",
+  "lastUpdated": "2022-11-26T10:16:15.489Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/26/style/united-states-faith-rituals.html",
+      "headline": "American Rituals",
+      "timestamp": "2022-11-26T10:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
