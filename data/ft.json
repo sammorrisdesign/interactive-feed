@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-26T10:16:15.497Z",
+  "lastUpdated": "2022-11-28T05:15:33.090Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/",
+      "headline": "Can Europe keep the lights on?",
+      "timestamp": "2022-11-28T05:00:37.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
