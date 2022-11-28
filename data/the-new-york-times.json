@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-26T10:16:15.489Z",
+  "lastUpdated": "2022-11-28T02:47:13.897Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/27/us/set-adrift.html",
+      "headline": "Set Adrift",
+      "timestamp": "2022-11-28T02:33:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/27/sports/world-cup/spain-germany-world-cup-goal.html",
+      "headline": "Germany’s Late Equalizer Revives Its World Cup Hopes",
+      "timestamp": "2022-11-28T01:20:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
