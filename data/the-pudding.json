@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-09-16T21:42:43.981Z",
+  "lastUpdated": "2022-11-28T20:17:15.098Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "handle": "puddingviz",
+      "url": "https://pudding.cool/2022/11/upward-mobility",
+      "headline": "Upward Mobility",
+      "timestamp": "2022-11-22T05:00:00.000Z"
+    },
+    {
+      "publication": "The Pudding",
+      "handle": "puddingviz",
+      "url": "https://pudding.cool/2022/09/wnba-kicks",
+      "headline": "A Visual History of WNBA Kicks",
+      "timestamp": "2022-10-03T04:00:00.000Z"
+    },
+    {
+      "publication": "The Pudding",
+      "handle": "puddingviz",
+      "url": "https://pudding.cool/games/words-against-strangers",
+      "headline": "Words Against Strangers",
+      "timestamp": "2022-09-23T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "handle": "puddingviz",
