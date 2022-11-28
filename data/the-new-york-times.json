@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-28T02:47:13.897Z",
+  "lastUpdated": "2022-11-28T10:18:34.457Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/28/magazine/tom-stoppard-interview.html",
+      "headline": "Tom Stoppard Fears the Virus of Antisemitism Has Been Reactivated",
+      "timestamp": "2022-11-28T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
