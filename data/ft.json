@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-28T05:15:33.090Z",
+  "lastUpdated": "2022-11-28T05:37:15.743Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ft-ig-content-prod.s3.eu-west-1.amazonaws.com/v2/ft-interactive/ig-europe-electricity-network/main/index.html",
+      "headline": "Can Europe keep the lights on?",
+      "timestamp": "2022-11-28T05:00:37.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
