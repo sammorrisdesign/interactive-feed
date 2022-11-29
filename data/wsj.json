@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-25T19:12:46.590Z",
+  "lastUpdated": "2022-11-29T19:37:16.396Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/hawaii-mauna-loa-world-largest-active-volcano-erupting-11669642299",
+      "headline": "Hawaii’s Mauna Loa, World’s Largest Active Volcano, Erupts for First Time Since 1984",
+      "timestamp": "2022-11-29T19:37:03.643Z"
+    },
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/gun-death-rate-nears-three-decade-high-with-men-at-most-risk-11669749562",
+      "headline": "Gun Death Rate Nears Three-Decade High, With Men at Most Risk",
+      "timestamp": "2022-11-29T19:37:03.643Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
