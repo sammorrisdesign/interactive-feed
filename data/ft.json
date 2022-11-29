@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-28T05:37:15.743Z",
+  "lastUpdated": "2022-11-29T05:15:35.609Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://ig.ft.com/electricity-sharing",
+      "headline": "Can Europe keep the lights on?",
+      "timestamp": "2022-11-29T05:00:47.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
