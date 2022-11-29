@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-28T10:18:34.457Z",
+  "lastUpdated": "2022-11-29T17:14:03.375Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/29/world/asia/china-protests-demands.html",
+      "headline": "What China’s Protesters Are Calling For",
+      "timestamp": "2022-11-29T16:50:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
