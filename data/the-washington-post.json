@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2022-11-30T11:14:19.928Z",
+  "lastUpdated": "2022-11-30T18:21:21.970Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/substantive-due-process-dobbs/",
+      "headline": "After the Supreme Court’s Abortion Ruling, What Could Happen to Other Unwritten Rights?",
+      "timestamp": "2022-11-30T17:45:59.186Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/unwritten-rights-substantive-due-process/",
+      "headline": "Many Rights Are Nowhere in the Constitution. What Would Life Look Like Without Them?",
+      "timestamp": "2022-11-30T17:45:58.027Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/family-zoning-moore-city-east-cleveland/",
+      "headline": "The Deep Rewards — and Tangled Legal History — of Living With Extended Family",
+      "timestamp": "2022-11-30T17:45:45.675Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/lgbtq-intimacy-lawrence/",
+      "headline": "What Happens if the Right to Same-Sex Intimacy Disappears? ",
+      "timestamp": "2022-11-30T17:45:43.235Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/same-sex-marriage-obergefell/",
+      "headline": "How I Left the Closet, Met My Husband — and Found My Life ",
+      "timestamp": "2022-11-30T17:45:34.304Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/birth-control-distribution-ec4ec/",
+      "headline": "The Students Quietly Distributing Emergency Birth Control on Campus",
+      "timestamp": "2022-11-30T17:45:23.071Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/vsed-refuse-treatment-cruzan/",
+      "headline": "A Son’s Decision to Help His Father Die",
+      "timestamp": "2022-11-30T17:45:22.475Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/dual-language-education/",
+      "headline": "The Magic of Bilingual Education",
+      "timestamp": "2022-11-30T17:45:10.763Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/private-school-enrollment-parents-pandemic/",
+      "headline": "Why Are Americans Fleeing Public Schools?",
+      "timestamp": "2022-11-30T17:45:04.725Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/magazine/interactive/2022/abortion-laws-patient-stories/",
+      "headline": "After Abortion Protections Fell, Their Lives Were Upended",
+      "timestamp": "2022-11-30T17:45:00.079Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
