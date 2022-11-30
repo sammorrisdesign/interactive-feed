@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-11-29T20:17:37.410Z",
+  "lastUpdated": "2022-11-30T16:23:53.415Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/midterm-elections-produce-more-states-controlled-by-one-party-11669785444",
+      "headline": "Midterm Elections Produce More States Controlled by One Party",
+      "timestamp": "2022-11-30T16:23:40.162Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
