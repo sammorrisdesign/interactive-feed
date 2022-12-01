@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-11-30T18:21:21.970Z",
+  "lastUpdated": "2022-12-01T11:14:12.451Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2022/global-warming-1-5-celsius-scenarios/",
+      "headline": "We looked at 1,200 possibilities for the planet’s future. These are our best hope. ",
+      "timestamp": "2022-12-01T11:00:49.810Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/sports/interactive/2022/nfl-america-race-bias/",
+      "headline": "Football is America. We shouldn’t be satisfied with either.",
+      "timestamp": "2022-12-01T11:00:38.369Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/politics/interactive/2022/pregnant-post-roe-america-abortion/",
+      "headline": "The Abortion Diaries: Pregnant and desperate in post-Roe America",
+      "timestamp": "2022-12-01T11:00:08.923Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
