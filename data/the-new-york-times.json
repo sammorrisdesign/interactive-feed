@@ -1,6 +1,34 @@
 {
-  "lastUpdated": "2022-11-30T16:51:14.146Z",
+  "lastUpdated": "2022-12-01T10:18:41.633Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/01/t-magazine/holiday-dinner-party.html",
+      "headline": "12 Dinner Parties Around the World, From Tokyo to Paris",
+      "timestamp": "2022-12-01T10:16:59.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/01/realestate/buying-brooklyn-brownstone.html",
+      "headline": "Bidding on a Brooklyn Brownstone, With a Baby on the Way. Which One Did They Buy?",
+      "timestamp": "2022-12-01T10:00:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/01/well/live/self-care-tips-laughter-trigger-point-balls.html",
+      "headline": "How I Hold It Together: Phone Lockboxes and More",
+      "timestamp": "2022-12-01T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/01/travel/things-to-do-rome.html",
+      "headline": "36 Hours in Rome",
+      "timestamp": "2022-12-01T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
