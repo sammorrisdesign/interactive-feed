@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-02T10:17:34.509Z",
+  "lastUpdated": "2022-12-02T14:14:14.062Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/books/review/new-york-beats-quiz.html",
+      "headline": "How Well Do You Know the New York City of the Beats?",
+      "timestamp": "2022-12-02T14:00:54.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
