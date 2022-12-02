@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2022-12-01T20:37:32.910Z",
+  "lastUpdated": "2022-12-02T10:17:34.509Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/climate/mauna-loa-eruption-keeling-curve.html",
+      "headline": "Mauna Loa Eruption Threatens a Famous Climate Record",
+      "timestamp": "2022-12-02T10:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/business/athlete-jargon-business.html",
+      "headline": "Shop Talk: You Just Might Be an ‘Athlete.’",
+      "timestamp": "2022-12-02T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/arts/weekend-editors-picks-emancipation-will-smith.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-12-02T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/realestate/holiday-dessert-buffet.html",
+      "headline": "How to Create a Dessert Buffet",
+      "timestamp": "2022-12-02T09:59:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/realestate/holiday-lights-mistletoe.html",
+      "headline": "How to Trim a Light Fixture With Mistletoe",
+      "timestamp": "2022-12-02T09:59:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/realestate/gumdrop-christmas-tree.html",
+      "headline": "How to Build a Gumdrop Tree\n",
+      "timestamp": "2022-12-02T09:59:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
