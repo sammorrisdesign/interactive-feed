@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-02T22:15:08.484Z",
+  "lastUpdated": "2022-12-02T23:15:54.009Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/upshot/draw-your-nyc-neighborhood.html",
+      "headline": "Help us map New York City’s neighborhoods.",
+      "timestamp": "2022-12-02T22:53:45.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
