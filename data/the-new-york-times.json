@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-02T14:14:14.062Z",
+  "lastUpdated": "2022-12-02T16:21:34.119Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/books/best-book-gifts.html",
+      "headline": "Books to Give This Season",
+      "timestamp": "2022-12-02T15:47:33.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
