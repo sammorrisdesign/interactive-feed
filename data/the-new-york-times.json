@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-02T16:21:34.119Z",
+  "lastUpdated": "2022-12-02T19:12:14.682Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/nyregion/New-york-kids-world-cup.html",
+      "headline": "These Kids Are Glued to the World Cup",
+      "timestamp": "2022-12-02T18:53:18.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
