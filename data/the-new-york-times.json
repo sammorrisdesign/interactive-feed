@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-02T23:15:54.009Z",
+  "lastUpdated": "2022-12-03T02:26:09.836Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/arts/sight-and-sound-best-movies-of-all-time.html",
+      "headline": "What Makes a Movie the Greatest of All Time?",
+      "timestamp": "2022-12-03T01:31:06.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
