@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-03T02:26:09.836Z",
+  "lastUpdated": "2022-12-03T02:50:33.468Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/02/us/elections/georgia-senate-results-analysis.html",
+      "headline": "These Georgia Precincts Were Red. Then Blue. Now They Are Purple.",
+      "timestamp": "2022-12-03T02:31:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
