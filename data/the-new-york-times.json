@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-03T06:18:34.472Z",
+  "lastUpdated": "2022-12-03T07:13:10.559Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/03/sports/world-cup/richarlison-messi-pulisic-world-cup-goals.html",
+      "headline": "Richarlison, Messi and Pulisic: Three Stunning Goals Frozen in Time",
+      "timestamp": "2022-12-03T06:52:11.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
