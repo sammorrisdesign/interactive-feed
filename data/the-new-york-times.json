@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-03T07:13:10.559Z",
+  "lastUpdated": "2022-12-04T14:36:50.520Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/04/nyregion/metropolitan-diary-contest.html",
+      "headline": "Vote For the Best Metropolitan Diary Entry of 2022",
+      "timestamp": "2022-12-04T14:13:50.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
