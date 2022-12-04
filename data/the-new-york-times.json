@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-04T14:36:50.520Z",
+  "lastUpdated": "2022-12-04T15:15:39.802Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/04/espanol/estilos-de-vida/modern-love-historias-breves.html",
+      "headline": "6 pequeñas historias de amor para las fiestas",
+      "timestamp": "2022-12-04T14:54:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
