@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-05T08:20:49.552Z",
+  "lastUpdated": "2022-12-05T10:17:42.224Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/05/magazine/martha-nussbaum-interview.html",
+      "headline": "Do Humans Owe Animals Equal Rights? Martha Nussbaum Thinks So.",
+      "timestamp": "2022-12-05T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/05/opinion/human-composting-new-york.html",
+      "headline": "Human Composting Would Let New Yorkers Return to Earth",
+      "timestamp": "2022-12-05T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
