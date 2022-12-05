@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-05T11:12:57.867Z",
+  "lastUpdated": "2022-12-05T11:36:44.807Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/air-force-azerbaijani-consulting/",
+      "headline": "Fearing scandal, Air Force blocked generals’ foreign consulting deals",
+      "timestamp": "2022-12-05T11:00:27.038Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
