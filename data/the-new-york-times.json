@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-05T01:15:41.073Z",
+  "lastUpdated": "2022-12-05T03:38:22.340Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/04/us/waukesha-parade-returns.html",
+      "headline": "A Year After Tragedy, Holiday Parade Returns",
+      "timestamp": "2022-12-05T03:17:15.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
