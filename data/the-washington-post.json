@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-05T20:16:43.376Z",
+  "lastUpdated": "2022-12-06T11:36:50.907Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/fatal-police-shootings-unreported/",
+      "headline": "As fatal police shootings increase, more go unreported",
+      "timestamp": "2022-12-06T11:30:31.244Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
