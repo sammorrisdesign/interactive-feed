@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-06T21:13:56.000Z",
+  "lastUpdated": "2022-12-06T22:15:15.795Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/06/us/elections/results-georgia-us-senate-runoff.html",
+      "headline": "Georgia U.S. Senate Runoff Election Results",
+      "timestamp": "2022-12-06T21:44:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
