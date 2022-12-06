@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-05T12:30:51.924Z",
+  "lastUpdated": "2022-12-06T13:24:59.780Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/06/world/europe/kyiv-philharmonic-blackout.html",
+      "headline": "Ukraine’s Philharmonic Plays On",
+      "timestamp": "2022-12-06T13:22:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
