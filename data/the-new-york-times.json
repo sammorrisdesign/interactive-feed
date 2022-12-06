@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-06T13:24:59.780Z",
+  "lastUpdated": "2022-12-06T21:13:56.000Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/06/magazine/best-actors-2022.html",
+      "headline": "The Best Actors of 2022",
+      "timestamp": "2022-12-06T21:09:45.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
