@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-07T10:17:12.579Z",
+  "lastUpdated": "2022-12-07T10:39:38.932Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/07/learning/VenezuelaGeographyQuiz.html",
+      "headline": "How Much Do You Know About Venezuela?",
+      "timestamp": "2022-12-07T10:30:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
