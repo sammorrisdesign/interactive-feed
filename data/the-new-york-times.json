@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-07T15:38:28.756Z",
+  "lastUpdated": "2022-12-07T20:16:43.115Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/07/arts/editors-recommendations-andor.html",
+      "headline": "What’s In Our Queue? ‘Andor’ and More",
+      "timestamp": "2022-12-07T19:53:17.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
