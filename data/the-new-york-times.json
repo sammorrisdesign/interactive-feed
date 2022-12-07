@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-07T20:16:43.115Z",
+  "lastUpdated": "2022-12-07T21:14:20.647Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/07/dining/where-to-eat-hotel-lobby.html",
+      "headline": "The Lobby Restaurant Is Back",
+      "timestamp": "2022-12-07T20:44:58.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
