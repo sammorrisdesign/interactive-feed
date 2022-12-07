@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-07T21:14:20.647Z",
+  "lastUpdated": "2022-12-07T21:37:34.074Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/07/sports/world-cup/spot-the-ball-round-2.html",
+      "headline": "Spot the Ball",
+      "timestamp": "2022-12-07T21:32:18.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
