@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-07T10:39:38.932Z",
+  "lastUpdated": "2022-12-07T15:38:28.756Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/07/dining/cooking-recipes-year-in-review.html",
+      "headline": "NYT Cooked: 2022 in Review",
+      "timestamp": "2022-12-07T15:31:52.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
