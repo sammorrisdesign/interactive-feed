@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-06T22:15:15.795Z",
+  "lastUpdated": "2022-12-07T10:17:12.579Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/07/well/mind/holiday-stress.html",
+      "headline": "How to Actually Enjoy the Holidays",
+      "timestamp": "2022-12-07T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
