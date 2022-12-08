@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-08T05:14:55.334Z",
+  "lastUpdated": "2022-12-08T05:36:32.241Z",
   "articles": [
+    {
+      "publication": "FT",
+      "handle": "ftdata",
+      "url": "https://www.ft.com/content/24dbcc0f-7974-48d7-9824-ab86b58a3a29",
+      "headline": "Big cities drive half of global economic growth",
+      "timestamp": "2022-12-08T05:09:55.000Z"
+    },
     {
       "publication": "FT",
       "handle": "ftdata",
