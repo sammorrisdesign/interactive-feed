@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-08T10:39:31.585Z",
+  "lastUpdated": "2022-12-08T17:36:38.080Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/08/sports/football/washington-commanders-house-report-full.html",
+      "headline": "Read the Full Report on the Washington Commanders",
+      "timestamp": "2022-12-08T17:31:22.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
