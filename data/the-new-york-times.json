@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-08T17:36:38.080Z",
+  "lastUpdated": "2022-12-08T18:19:45.644Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/08/us/republican-response-washington-commanders.html",
+      "headline": "Read the Republican Response to the Report",
+      "timestamp": "2022-12-08T18:00:57.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
