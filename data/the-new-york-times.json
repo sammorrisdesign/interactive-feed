@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-08T10:17:09.575Z",
+  "lastUpdated": "2022-12-08T10:39:31.585Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/08/us/politics/intellexa-commercial-proposal.html",
+      "headline": "Read the Intellexa Pitch on Its Spyware Tool",
+      "timestamp": "2022-12-08T10:22:19.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
