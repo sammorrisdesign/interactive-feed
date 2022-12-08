@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-07T21:37:34.074Z",
+  "lastUpdated": "2022-12-08T10:17:09.575Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/08/realestate/atlanta-house-buying-market.html",
+      "headline": "In Atlanta, Seeking a House With Ample Space Indoors and Out. Which Option Did He Choose?",
+      "timestamp": "2022-12-08T10:00:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/08/travel/things-to-do-wellington.html",
+      "headline": "36 Hours in Wellington, New Zealand",
+      "timestamp": "2022-12-08T10:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
