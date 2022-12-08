@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-08T16:22:35.269Z",
+  "lastUpdated": "2022-12-08T19:36:54.537Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/natural-gas-terminal-engineering-feat-germany-11670513353",
+      "headline": "The Five-Year Engineering Feat Germany Pulled Off in Months",
+      "timestamp": "2022-12-08T19:36:39.800Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
