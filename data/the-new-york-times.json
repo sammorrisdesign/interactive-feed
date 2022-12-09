@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-09T15:37:32.628Z",
+  "lastUpdated": "2022-12-09T16:21:57.698Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/09/books/review/music-novels-quiz.html",
+      "headline": "Lit Trivia: Can You Identify These Music-Themed Novels?",
+      "timestamp": "2022-12-09T16:01:58.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
