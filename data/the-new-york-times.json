@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-09T05:14:53.098Z",
+  "lastUpdated": "2022-12-09T15:37:32.628Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/09/climate/biodiversity-habitat-loss-climate.html",
+      "headline": "Animals Are Running Out of Places to Live",
+      "timestamp": "2022-12-09T15:17:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
