@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-09T20:17:00.786Z",
+  "lastUpdated": "2022-12-09T23:16:32.408Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/09/sports/ncaafootball/heisman-trophy-finalists.html",
+      "headline": "A Look at the Heisman Trophy Finalists",
+      "timestamp": "2022-12-09T22:43:38.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
