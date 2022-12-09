@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-09T16:21:57.698Z",
+  "lastUpdated": "2022-12-09T18:40:54.556Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/09/us/politics/maxwell-frost-genz-congress.html",
+      "headline": "In D.C. With the First Gen-Z Congressman",
+      "timestamp": "2022-12-09T18:26:57.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
