@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-09T18:40:54.556Z",
+  "lastUpdated": "2022-12-09T20:17:00.786Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/09/smarter-living/wirecutter/gingerbread-house-build.html",
+      "headline": "Pro Tips for Building a Gingerbread House",
+      "timestamp": "2022-12-09T20:16:09.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
