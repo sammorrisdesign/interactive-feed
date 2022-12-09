@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-08T18:19:45.644Z",
+  "lastUpdated": "2022-12-09T05:14:53.098Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/09/world/asia/north-korea-promises.html",
+      "headline": "North Korea Wants Dollars. It’s a Sign of Trouble.",
+      "timestamp": "2022-12-09T05:02:22.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
