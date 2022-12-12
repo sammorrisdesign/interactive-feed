@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-09T23:16:32.408Z",
+  "lastUpdated": "2022-12-12T08:21:14.037Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/12/us/politics/arizona-midterm-recounts.html",
+      "headline": "Where Are Midterm Recounts Happening?",
+      "timestamp": "2022-12-12T08:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
