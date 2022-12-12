@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-11T21:13:13.400Z",
+  "lastUpdated": "2022-12-12T15:17:07.322Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/05/world/iter-nuclear-fusion-climate-intl-cnnphotos/",
+      "headline": "The world has been trying to master this limitless clean energy source since the 1930s. We're now closer than ever",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
