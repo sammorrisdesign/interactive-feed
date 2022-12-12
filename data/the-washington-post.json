@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-12T10:17:42.050Z",
+  "lastUpdated": "2022-12-12T11:13:11.232Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/fentanyl-crisis-mexico-cartel/",
+      "headline": "Overview: From Mexican labs to U.S. streets, a lethal pipeline",
+      "timestamp": "2022-12-12T11:00:50.375Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/dea-fentanyl-failure/",
+      "headline": "Cause of death: Washington faltered as fentanyl gripped America",
+      "timestamp": "2022-12-12T11:00:02.149Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
