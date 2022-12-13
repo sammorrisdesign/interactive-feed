@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-13T05:14:38.047Z",
+  "lastUpdated": "2022-12-13T14:15:26.902Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/13/arts/year-in-illustration.html",
+      "headline": "The Year In Illustration",
+      "timestamp": "2022-12-13T14:10:14.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
