@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-13T12:30:34.309Z",
+  "lastUpdated": "2022-12-13T20:17:00.900Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/precursor-chemicals-fentanyl-meth/",
+      "headline": "Inside the daunting hunt for the ingredients of fentanyl and meth",
+      "timestamp": "2022-12-13T20:00:56.594Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
