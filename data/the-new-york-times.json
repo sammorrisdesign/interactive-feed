@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-12T22:38:12.868Z",
+  "lastUpdated": "2022-12-13T05:14:38.047Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/13/climate/climate-footprint-map-neighborhood.html",
+      "headline": "The Climate Impact of Your Neighborhood, Mapped",
+      "timestamp": "2022-12-13T05:06:58.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
