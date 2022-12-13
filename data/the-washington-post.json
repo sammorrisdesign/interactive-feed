@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-12T20:15:51.273Z",
+  "lastUpdated": "2022-12-13T11:13:05.175Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2022/women-pain-gender-bias-doctors/",
+      "headline": "From heart disease to IUDs: How doctors dismiss women’s pain",
+      "timestamp": "2022-12-13T11:00:48.521Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/utah-fentanyl-crisis-mexico-cartel/",
+      "headline": "A DEA agent tracked the source of fentanyl in Mormon country — a Mexican cartel",
+      "timestamp": "2022-12-13T11:00:20.909Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
