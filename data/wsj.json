@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-08T19:36:54.537Z",
+  "lastUpdated": "2022-12-14T20:16:50.714Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/fentanyl-overdose-death-data-11671037661",
+      "headline": "The Tragic Rise of Fentanyl, Mapped",
+      "timestamp": "2022-12-14T20:16:37.069Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",

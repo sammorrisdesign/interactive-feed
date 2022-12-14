@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-14T10:17:08.949Z",
+  "lastUpdated": "2022-12-14T20:16:50.701Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/14/us/nwsl-report-abuse.html",
+      "headline": "The N.W.S.L. and Players’ Union Report on Women’s Soccer",
+      "timestamp": "2022-12-14T19:37:31.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
