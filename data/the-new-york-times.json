@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-13T16:22:27.926Z",
+  "lastUpdated": "2022-12-14T01:17:10.306Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/13/nyregion/one-world-trade.html",
+      "headline": "Why One World Trade Is Winning R.T.O.",
+      "timestamp": "2022-12-13T23:45:05.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
