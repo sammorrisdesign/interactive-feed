@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-14T01:17:10.306Z",
+  "lastUpdated": "2022-12-14T10:17:08.949Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/14/world/europe/russian-trench-fortifications-in-ukraine.html",
+      "headline": "Defenses Carved Into the Earth",
+      "timestamp": "2022-12-14T10:00:29.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/14/arts/music/pop-rap-songs-familiar-samples.html",
+      "headline": "Did That Hit Arrive in 2022 or 1987? This Year, It Was Hard to Tell.",
+      "timestamp": "2022-12-14T10:00:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
