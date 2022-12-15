@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-15T19:36:21.652Z",
+  "lastUpdated": "2022-12-15T20:37:02.725Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/15/sports/world-cup/spot-the-ball-round-three.html",
+      "headline": "Spot the Ball: And Then There Were Two",
+      "timestamp": "2022-12-15T20:33:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
