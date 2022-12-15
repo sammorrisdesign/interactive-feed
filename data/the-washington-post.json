@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-14T11:36:59.033Z",
+  "lastUpdated": "2022-12-15T01:18:30.008Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/science/interactive/2022/fusion-milestone-explained/",
+      "headline": "See how lasers led to a nuclear fusion milestone",
+      "timestamp": "2022-12-15T00:35:50.948Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
