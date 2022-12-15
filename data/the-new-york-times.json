@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-12-15T06:20:10.441Z",
+  "lastUpdated": "2022-12-15T10:17:31.403Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/15/realestate/15hunt-edwards.html",
+      "headline": "A Mother-Daughter Team Went to the Bronx With $350,000 for a New Place. Which Option Did They Choose?",
+      "timestamp": "2022-12-15T10:00:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/15/arts/design/follow-instagram-photographers.html",
+      "headline": "Photography Our Photo Editors Are Following",
+      "timestamp": "2022-12-15T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/15/travel/things-to-do-seoul.html",
+      "headline": "36 Hours in Seoul",
+      "timestamp": "2022-12-15T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
