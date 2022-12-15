@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-15T19:12:20.154Z",
+  "lastUpdated": "2022-12-15T19:36:21.652Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/15/smarter-living/wirecutter/clean-humidifier.html",
+      "headline": "How to Clean Your (Likely Gross) Humidifier",
+      "timestamp": "2022-12-15T19:30:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
