@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-14T20:37:54.315Z",
+  "lastUpdated": "2022-12-15T06:20:10.441Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/15/opinion/yellowstone-tv-focus-group.html",
+      "headline": "These 11 ‘Yellowstone’ Superfans Don’t See It as a Red-State Show",
+      "timestamp": "2022-12-15T06:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
