@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-14T20:16:50.714Z",
+  "lastUpdated": "2022-12-15T04:19:51.012Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/prices-for-used-cars-plane-tickets-and-electricity-eased-in-november-11670949912",
+      "headline": "Prices for Used Cars, Plane Tickets and Electricity Eased in November",
+      "timestamp": "2022-12-15T04:19:37.909Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
