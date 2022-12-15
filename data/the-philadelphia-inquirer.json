@@ -1,6 +1,12 @@
 {
-  "lastUpdated": "2022-12-15T11:13:13.199Z",
+  "lastUpdated": "2022-12-15T12:30:32.851Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "handle": "PhillyInquirer",
+      "url": "https://www.inquirer.com/arts/theater/inq2/philadelphia-ballet-nutcracker-review-20221215.html",
+      "timestamp": "2022-12-15T11:05:00.331Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "handle": "PhillyInquirer",
