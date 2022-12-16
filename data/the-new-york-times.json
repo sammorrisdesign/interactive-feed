@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-15T23:16:09.635Z",
+  "lastUpdated": "2022-12-16T04:39:27.179Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/15/us/mar-a-lago-trump-documents.html",
+      "headline": "Inside Mar-a-Lago, Where Thousands Partied Near Secret Files",
+      "timestamp": "2022-12-16T04:18:18.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
