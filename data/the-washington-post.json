@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-16T10:16:22.549Z",
+  "lastUpdated": "2022-12-16T11:12:35.323Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/business/interactive/2022/people-names-for-dogs/",
+      "headline": "The most popular people names for dogs",
+      "timestamp": "2022-12-16T11:00:34.316Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/manion-bodybuilding-competition-npc-subversion/",
+      "headline": "Rigged: The undoing of America’s premier bodybuilding leagues",
+      "timestamp": "2022-12-16T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
