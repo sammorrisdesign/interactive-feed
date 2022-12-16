@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-16T16:20:39.683Z",
+  "lastUpdated": "2022-12-16T16:45:00.038Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/16/science/china-rocket-launch.html",
+      "headline": "A Visit Inside China’s Desert Rocket Base",
+      "timestamp": "2022-12-16T16:40:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/16/us/covid-flu-rsv-tripledemic-data.html",
+      "headline": "Just How Bad Is the ‘Tripledemic’?",
+      "timestamp": "2022-12-16T16:39:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
