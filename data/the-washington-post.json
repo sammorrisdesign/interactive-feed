@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-15T18:37:55.021Z",
+  "lastUpdated": "2022-12-16T10:16:22.549Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2022/ai-image-generator/",
+      "headline": "AI can now create images out of thin air. See how it works.",
+      "timestamp": "2022-12-16T10:00:50.047Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
