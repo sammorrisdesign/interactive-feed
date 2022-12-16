@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-12T15:17:07.322Z",
+  "lastUpdated": "2022-12-16T13:19:16.149Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/12/us/lake-mead-drought-shoreline-discoveries-climate-ctpr/",
+      "headline": "Lake Mead's receding waterlines have revealed unexpected discoveries",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
