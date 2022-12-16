@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-16T13:19:16.149Z",
+  "lastUpdated": "2022-12-16T21:36:48.207Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/12/us/cnn-5-things-news-quiz-december-15-sec/",
+      "headline": "Which teams will face off in the 2022 World Cup final?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
