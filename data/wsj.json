@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-15T15:38:41.661Z",
+  "lastUpdated": "2022-12-17T12:26:03.219Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "handle": "WSJGraphics",
+      "url": "https://www.wsj.com/articles/why-this-housing-downturn-isnt-like-the-last-one-11671273004",
+      "headline": "Why This Housing Downturn Isn’t Like the Last One",
+      "timestamp": "2022-12-17T12:25:50.939Z"
+    },
     {
       "publication": "WSJ",
       "handle": "WSJGraphics",
