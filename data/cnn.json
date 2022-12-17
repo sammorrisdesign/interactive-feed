@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-16T21:36:48.207Z",
+  "lastUpdated": "2022-12-17T11:36:22.548Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/12/us/el-paso-crossings-migrant-stories-reaj-cnnphotos/",
+      "headline": "US-Mexico border: After a long, hard journey many migrants end up stranded in El Paso",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
