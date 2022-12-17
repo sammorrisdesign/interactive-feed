@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-16T19:36:43.981Z",
+  "lastUpdated": "2022-12-17T03:36:35.528Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/16/world/europe/russia-putin-war-failures-ukraine.html",
+      "headline": "Putin’s War: The Inside Story of a Catastrophe",
+      "timestamp": "2022-12-17T03:28:38.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
