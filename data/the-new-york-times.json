@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-17T10:14:35.976Z",
+  "lastUpdated": "2022-12-17T14:12:20.577Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/17/books/review/title-search-YA-novels.html",
+      "headline": "Title Search: Can You Find the 14 Y.A. Novels Hidden in This Text?",
+      "timestamp": "2022-12-17T14:00:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
