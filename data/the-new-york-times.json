@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-17T03:36:35.528Z",
+  "lastUpdated": "2022-12-17T10:14:35.976Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/17/us/new-amtrak-trains.html",
+      "headline": "A Glimpse at Amtrak’s Newest Trains",
+      "timestamp": "2022-12-17T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/17/style/2022-year-of-rage.html",
+      "headline": "2022 Was the Year We Lost It",
+      "timestamp": "2022-12-16T19:31:56.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
