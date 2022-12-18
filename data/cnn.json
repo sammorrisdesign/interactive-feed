@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-18T16:19:32.469Z",
+  "lastUpdated": "2022-12-18T16:42:43.543Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "handle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/12/world/the-2026-world-cup-in-numbers/",
+      "headline": "The 2026 World Cup in numbers",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "handle": "CNN",
