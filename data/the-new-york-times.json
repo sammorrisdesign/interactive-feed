@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-19T08:19:46.508Z",
+  "lastUpdated": "2022-12-19T10:18:24.266Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/19/well/mind/therapist-stress-relief-tips.html",
+      "headline": "How a Therapist Manages Her Stress",
+      "timestamp": "2022-12-19T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
