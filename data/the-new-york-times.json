@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-17T17:12:10.394Z",
+  "lastUpdated": "2022-12-19T03:16:47.690Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/world/year-in-pictures.html",
+      "headline": "The Year in Pictures 2022",
+      "timestamp": "2022-12-19T03:16:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
