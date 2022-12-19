@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-19T11:12:46.063Z",
+  "lastUpdated": "2022-12-19T19:36:41.330Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/19/us/politics/jan-6-committee-report-executive-summary.html",
+      "headline": "Read the Jan. 6 Committee Report Executive Summary",
+      "timestamp": "2022-12-19T19:28:53.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
