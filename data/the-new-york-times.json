@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-19T10:18:24.266Z",
+  "lastUpdated": "2022-12-19T11:12:46.063Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/19/technology/twitter-bots-china-protests-elon-musk.html",
+      "headline": "How Bots Pushing Adult Content Drowned Out Chinese Protest Tweets",
+      "timestamp": "2022-12-19T11:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
