@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-20T16:22:15.769Z",
+  "lastUpdated": "2022-12-20T20:16:22.957Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-california.html",
+      "headline": "California Election Results",
+      "timestamp": "2022-12-20T19:52:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/11/08/us/elections/results-california-mayor-oakland.html",
+      "headline": "Oakland, California, Mayor Election Results",
+      "timestamp": "2022-12-20T19:48:57.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
