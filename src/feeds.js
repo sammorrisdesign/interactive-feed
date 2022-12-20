@@ -2,6 +2,7 @@ const fs = require('fs-extra');
 const config = require('../config.json');
 const fetchers = require('./fetchers');
 const tweet = require('./tweet');
+const toot = require('./toot');
 const utils = require('./utils');
 
 const pullRecentFeeds = async() => {
@@ -75,6 +76,7 @@ module.exports = {
     if (newArticles) {
       console.log(newArticles.length, "new articles found");
       await tweet.newArticles(newArticles);
+      // await toot.newArticles(newArticles);
     }
   }
 }
