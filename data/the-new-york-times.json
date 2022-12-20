@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-20T10:16:49.114Z",
+  "lastUpdated": "2022-12-20T16:22:15.769Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/20/learning/20VocabQuizLN.html",
+      "headline": "Vocabulary in Context: A New Ski Culture",
+      "timestamp": "2022-12-20T15:45:37.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",

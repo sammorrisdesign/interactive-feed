@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-11-29T15:17:44.524Z",
+  "lastUpdated": "2022-12-20T16:22:15.781Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "handle": "nprviz",
+      "url": "https://www.npr.org/2022/12/16/1143120382/2022-best-games",
+      "headline": "Best games of 2022 chosen by NPR",
+      "timestamp": "2022-12-20T16:22:05.001Z"
+    },
+    {
+      "publication": "NPR",
+      "handle": "nprviz",
+      "url": "https://www.npr.org/2022/12/20/1143084568/the-best-movies-and-tv-of-2022-picked-for-you-by-npr-critics",
+      "headline": "The best movies and TV of 2022, picked for you by NPR critics",
+      "timestamp": "2022-12-20T16:22:05.001Z"
+    },
     {
       "publication": "NPR",
       "handle": "nprviz",
