@@ -16,7 +16,7 @@ const NewYorkTimesAPI = async(feed) => {
     articles = articles.filter(article => article.web_url.includes('interactive'));
     articles = articles.map(article => new Article(
       publication = feed.publication,
-      handle = feed.twitterHandle,
+      twitterHandle = feed.twitterHandle,
       url = article.web_url,
       headline = article.headline.main,
       timestamp = article.pub_date
@@ -43,7 +43,7 @@ const WashingtonPost = async(feed) => {
   articles = articles.filter(article => !article.taxonomy.tags.map(tag => tag.description).includes('stamp'));
   articles = articles.map(article => new Article(
     publication = feed.publication,
-    handle = feed.twitterHandle,
+    twitterHandle = feed.twitterHandle,
     url = article.canonical_url,
     headline = article.headlines.basic,
     timestamp = article.display_date
@@ -62,7 +62,7 @@ const TheGuardianAPI = async(feed) => {
     let articles = data.response.results;
     articles = articles.map(article => new Article(
       publication = feed.publication,
-      handle = feed.twitterHandle,
+      twitterHandle = feed.twitterHandle,
       url = article.webUrl,
       headline = article.webTitle,
       timestamp = article.webPublicationDate
@@ -90,7 +90,7 @@ const XML = async(feed) => {
 
       articles = data.map(article => new Article(
         publication = feed.publication,
-        handle = feed.twitterHandle,
+        twitterHandle = feed.twitterHandle,
         url = article.link,
         headline = article.title,
         timestamp = article.isoDate || article.pubDate
@@ -99,7 +99,7 @@ const XML = async(feed) => {
       data = data.urlset.url;
       articles = data.map(article => new Article(
         publication = feed.publication,
-        handle = feed.twitterHandle,
+        twitterHandle = feed.twitterHandle,
         url = article.loc,
         headline = article?.['news:news']?.['news:title'],
         timestamp = article?.['news:news']?.['news:publication_date'] || article.lastmod
@@ -166,7 +166,7 @@ const Twitter = async(feed) => {
 
       let articles = links.map(link => new Article(
         publication = feed.publication,
-        handle = feed.twitterHandle,
+        twitterHandle = feed.twitterHandle,
         url = link.url,
         headline = link.title,
         timestamp = new Date()

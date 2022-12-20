@@ -8,6 +8,7 @@
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
       "type": "XML",
       "format": "RSS",
       "path": "https://pudding.cool/rss.xml",
@@ -45,6 +46,7 @@
     {
       "publication": "Politico",
       "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.politico.com/rss/politicopicks.xml",
@@ -95,6 +97,7 @@
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
       "type": "XML",
       "format": "RSS",
       "path": "https://feeds.nbcnews.com/nbcnews/public/news",
@@ -107,6 +110,7 @@
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
       "type": "Twitter",
       "twitterID": "19564105",
       "domain": "wsj.com/articles"
@@ -128,6 +132,7 @@
     {
       "publication": "NPR",
       "twitterHandle": "nprviz",
+      "mastodonHandle": "NPR@mstdn.social",
       "type": "Twitter",
       "twitterID": "582282558",
       "domain": "npr.org/20"
@@ -216,6 +221,7 @@
     {
       "publication": "El País",
       "twitterHandle": "elpais_info",
+      "mastodonHandle": "el_pais@mastodon.social",
       "type": "Twitter",
       "twitterID": "1362370976",
       "domain": "elpais.com"
