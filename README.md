@@ -1,11 +1,11 @@
 # Interactive Journalism Feed
-A Twitter bot that tweets new interactive, graphic, and data vis stories from newsrooms around the world. It works by scripts that are periodically ran that check APIs, RSS feeds, and sitemaps.
+A Twitter and Mastodon bot that shares new interactive, graphic, and data vis stories from newsrooms around the world. It works by scripts that are periodically ran that check APIs, RSS feeds, and sitemaps.
 
 You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed).
 
 ## Requirements
 - Node v14 or above
-- NYT and Twitter credentials for `secrets.json`
+- NYT, Guardian, WaPo, and Twitter credentials for `secrets.json`
 
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
