@@ -3,21 +3,21 @@
   "articles": [
     {
       "publication": "Politico",
-      "handle": "politico",
+      "twitterHandle": "politico",
       "url": "https://www.politico.com/interactives/2022/midterm-election-house-districts-by-education/",
       "headline": "Elections 2022: The educational divide that helps explain the midterms",
       "timestamp": null
     },
     {
       "publication": "Politico",
-      "handle": "politico",
+      "twitterHandle": "politico",
       "url": "https://www.politico.com/interactives/2022/nra-supreme-court-gun-lobbying/",
       "headline": "The NRA’s Shadowy Supreme Court Lobbying Campaign",
       "timestamp": null
     },
     {
       "publication": "Politico",
-      "handle": "politico",
+      "twitterHandle": "politico",
       "url": "https://politico.com/interactives/2022/20-counties-that-will-decide-the-2022-midterm-elections/",
       "headline": "The 20 counties that will decide the midterms",
       "timestamp": null

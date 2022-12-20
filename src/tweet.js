@@ -15,7 +15,7 @@ const newArticles = async (articles) => {
     });
 
     for (let article of articles) {
-      let tweet = `New on @${article.handle}${article.headline ? `: "${article.headline}"` : ""} ${article.url}`;
+      let tweet = `New on @${article.twitterHandle}${article.headline ? `: "${article.headline}"` : ""} ${article.url}`;
 
       console.log("Tweeting:", tweet);
 

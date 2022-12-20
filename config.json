@@ -2,12 +2,12 @@
   "feeds": [
     {
       "publication": "The New York Times",
-      "handle": "nytimes",
+      "twitterHandle": "nytimes",
       "type": "NewYorkTimesAPI"
     },
     {
       "publication": "The Pudding",
-      "handle": "puddingviz",
+      "twitterHandle": "puddingviz",
       "type": "XML",
       "format": "RSS",
       "path": "https://pudding.cool/rss.xml",
@@ -15,12 +15,12 @@
     },
     {
       "publication": "The Guardian",
-      "handle": "GuardianVisuals",
+      "twitterHandle": "GuardianVisuals",
       "type": "TheGuardianAPI"
     },
     {
       "publication": "CNN",
-      "handle": "CNN",
+      "twitterHandle": "CNN",
       "type": "XML",
       "format": "RSS",
       "path": "http://rss.cnn.com/rss/cnn_topstories.rss",
@@ -32,19 +32,19 @@
     },
     {
       "publication": "The Washington Post",
-      "handle": "WashingtonPost",
+      "twitterHandle": "WashingtonPost",
       "type": "WashingtonPost"
     },
     {
       "publication": "FT",
-      "handle": "ftdata",
+      "twitterHandle": "ftdata",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.ft.com/visual-and-data-journalism?format=rss"
     },
     {
       "publication": "Politico",
-      "handle": "politico",
+      "twitterHandle": "politico",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.politico.com/rss/politicopicks.xml",
@@ -56,7 +56,7 @@
     },
     {
       "publication": "Bloomberg",
-      "handle": "BBGVisualData",
+      "twitterHandle": "BBGVisualData",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml",
@@ -68,14 +68,14 @@
     },
     {
       "publication": "FiveThirtyEight",
-      "handle": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
       "type": "XML",
       "format": "RSS",
       "path": "https://fivethirtyeight.com/interactives/feed/"
     },
     {
       "publication": "The Philadelphia Inquirer",
-      "handle": "PhillyInquirer",
+      "twitterHandle": "PhillyInquirer",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.inquirer.com/sitemaps/current-month-sitemap-i.xml",
@@ -87,14 +87,14 @@
     },
     {
       "publication": "South China Morning Post",
-      "handle": "SCMPgraphics",
+      "twitterHandle": "SCMPgraphics",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.scmp.com/sitemap_infographics.xml"
     },
     {
       "publication": "NBC News",
-      "handle": "NBCNewsGraphics",
+      "twitterHandle": "NBCNewsGraphics",
       "type": "XML",
       "format": "RSS",
       "path": "https://feeds.nbcnews.com/nbcnews/public/news",
@@ -106,42 +106,42 @@
     },
     {
       "publication": "WSJ",
-      "handle": "WSJGraphics",
+      "twitterHandle": "WSJGraphics",
       "type": "Twitter",
       "twitterID": "19564105",
       "domain": "wsj.com/articles"
     },
     {
       "publication": "LA Times",
-      "handle": "datagraphics",
+      "twitterHandle": "datagraphics",
       "type": "Twitter",
       "twitterID": "17918860",
       "domain": "latimes.com"
     },
     {
       "publication": "Reuters",
-      "handle": "ReutersGraphics",
+      "twitterHandle": "ReutersGraphics",
       "type": "Twitter",
       "twitterID": "1310201424",
       "domain": "tmsnrt.rs/"
     },
     {
       "publication": "NPR",
-      "handle": "nprviz",
+      "twitterHandle": "nprviz",
       "type": "Twitter",
       "twitterID": "582282558",
       "domain": "npr.org/20"
     },
     {
       "publication": "Axios",
-      "handle": "axiosvisuals",
+      "twitterHandle": "axiosvisuals",
       "type": "Twitter",
       "twitterID": "822466626515861506",
       "domain": "www.axios.com"
     },
     {
       "publication": "Kontinentalist",
-      "handle": "konti_sg",
+      "twitterHandle": "konti_sg",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://kontinentalist.com/sitemap-stories.xml",
@@ -153,7 +153,7 @@
     },
     {
       "publication": "Le Monde",
-      "handle": "lemondefr",
+      "twitterHandle": "lemondefr",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.lemonde.fr/data-visualisation/rss_full.xml",
@@ -165,7 +165,7 @@
     },
     {
       "publication": "The Straits Times",
-      "handle": "straits_times",
+      "twitterHandle": "straits_times",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.straitstimes.com/googlenews.xml",
@@ -177,7 +177,7 @@
     },
     {
       "publication": "ESPN",
-      "handle": "ESPN",
+      "twitterHandle": "ESPN",
       "type": "XML",
       "format": "RSS",
       "path": "https://www.espn.com/espn/rss/news",
@@ -189,14 +189,14 @@
     },
     {
       "publication": "The Economist",
-      "handle": "ECONdailycharts",
+      "twitterHandle": "ECONdailycharts",
       "type": "Twitter",
       "twitterID": "74987950",
       "domain": "economist.com/interactive"
     },
     {
       "publication": "NZZ",
-      "handle": "nzzvisuals",
+      "twitterHandle": "nzzvisuals",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.nzz.ch/sitemap/news0.xml",
@@ -208,28 +208,28 @@
     },
     {
       "publication": "Texas Tribune",
-      "handle": "TexasTribune",
+      "twitterHandle": "TexasTribune",
       "type": "XML",
       "format": "Sitemap",
       "path": "https://www.texastribune.org/sitemap-data-apps.xml"
     },
     {
       "publication": "El País",
-      "handle": "elpais_info",
+      "twitterHandle": "elpais_info",
       "type": "Twitter",
       "twitterID": "1362370976",
       "domain": "elpais.com"
     },
     {
       "publication": "La Vanguardia",
-      "handle": "WebVanguardia",
+      "twitterHandle": "WebVanguardia",
       "type": "Twitter",
       "twitterID": "1346043480980803584",
       "domain": "stories.lavanguardia.com"
     },
     {
       "publication": "De Tijd",
-      "handle": "TijdGraphics",
+      "twitterHandle": "TijdGraphics",
       "type": "XML",
       "format": "RSS",
       "path": "https://multimedia.tijd.be/portfolio/rss.xml"
