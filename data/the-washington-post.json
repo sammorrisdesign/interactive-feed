@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-16T11:12:35.323Z",
+  "lastUpdated": "2022-12-20T11:12:46.550Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2022/uvalde-shooting-victims-delayed-response/",
+      "headline": "Uvalde records reveal chaotic medical response as victims lost blood",
+      "timestamp": "2022-12-20T11:00:49.048Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "handle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2022/biking-night-winter-safety-tips/",
+      "headline": "How to bike safely through the dark winter months",
+      "timestamp": "2022-12-20T11:00:14.310Z"
+    },
     {
       "publication": "The Washington Post",
       "handle": "WashingtonPost",
