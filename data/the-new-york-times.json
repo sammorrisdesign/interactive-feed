@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-19T19:36:41.330Z",
+  "lastUpdated": "2022-12-20T02:28:04.908Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/19/arts/design/ukraine-cultural-heritage-war-impacts.html",
+      "headline": "A Culture in the Cross Hairs",
+      "timestamp": "2022-12-20T01:36:29.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
