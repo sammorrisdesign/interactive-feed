@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-12-20T02:28:04.908Z",
+  "lastUpdated": "2022-12-20T10:16:49.114Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/20/climate/california-wildfire-season-2022.html",
+      "headline": "Why California’s 2022 Wildfire Season Was Unexpectedly Quiet",
+      "timestamp": "2022-12-20T10:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/20/opinion/2022-opinion-debates.html",
+      "headline": "What (if Anything) Did You Change Your Mind About This Year?",
+      "timestamp": "2022-12-20T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "handle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/20/world/europe/uk-ambulance.html",
+      "headline": "12 Hours in a U.K. Ambulance",
+      "timestamp": "2022-12-20T09:40:28.000Z"
+    },
     {
       "publication": "The New York Times",
       "handle": "nytimes",
