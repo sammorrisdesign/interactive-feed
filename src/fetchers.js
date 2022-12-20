@@ -17,6 +17,7 @@ const NewYorkTimesAPI = async(feed) => {
     articles = articles.map(article => new Article(
       publication = feed.publication,
       twitterHandle = feed.twitterHandle,
+      mastodonHandle = feed.mastodonHandle,
       url = article.web_url,
       headline = article.headline.main,
       timestamp = article.pub_date
@@ -44,6 +45,7 @@ const WashingtonPost = async(feed) => {
   articles = articles.map(article => new Article(
     publication = feed.publication,
     twitterHandle = feed.twitterHandle,
+    mastodonHandle = feed.mastodonHandle,
     url = article.canonical_url,
     headline = article.headlines.basic,
     timestamp = article.display_date
@@ -63,6 +65,7 @@ const TheGuardianAPI = async(feed) => {
     articles = articles.map(article => new Article(
       publication = feed.publication,
       twitterHandle = feed.twitterHandle,
+      mastodonHandle = feed.mastodonHandle,
       url = article.webUrl,
       headline = article.webTitle,
       timestamp = article.webPublicationDate
@@ -91,6 +94,7 @@ const XML = async(feed) => {
       articles = data.map(article => new Article(
         publication = feed.publication,
         twitterHandle = feed.twitterHandle,
+        mastodonHandle = feed.mastodonHandle,
         url = article.link,
         headline = article.title,
         timestamp = article.isoDate || article.pubDate
@@ -100,6 +104,7 @@ const XML = async(feed) => {
       articles = data.map(article => new Article(
         publication = feed.publication,
         twitterHandle = feed.twitterHandle,
+        mastodonHandle = feed.mastodonHandle,
         url = article.loc,
         headline = article?.['news:news']?.['news:title'],
         timestamp = article?.['news:news']?.['news:publication_date'] || article.lastmod
@@ -167,6 +172,7 @@ const Twitter = async(feed) => {
       let articles = links.map(link => new Article(
         publication = feed.publication,
         twitterHandle = feed.twitterHandle,
+        mastodonHandle = feed.mastodonHandle,
         url = link.url,
         headline = link.title,
         timestamp = new Date()
