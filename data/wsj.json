@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-20T14:15:09.641Z",
+  "lastUpdated": "2022-12-21T20:15:48.066Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/netflix-password-sharing-end-11671636600",
+      "headline": "The End of Netflix Password Sharing Is Nigh",
+      "timestamp": "2022-12-21T20:15:34.622Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
