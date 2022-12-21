@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-13T15:40:56.112Z",
+  "lastUpdated": "2022-12-21T22:36:22.084Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/twitter-owner-elon-musk-driving-user-growth-mastodon-rcna62832",
+      "headline": "Chart: Elon Musk is spurring growth at Mastodon",
+      "timestamp": "2022-12-21T21:53:18.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
