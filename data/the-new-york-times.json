@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-20T20:16:22.957Z",
+  "lastUpdated": "2022-12-21T02:48:21.383Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/21/us/house-ways-and-means-trump-tax-report.html",
+      "headline": "Document: Report on Trump’s Tax Returns",
+      "timestamp": "2022-12-21T02:28:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/21/us/house-ways-and-means-report-on-irs-audit-program.html",
+      "headline": "Document: Report on the I.R.S. Mandatory Audit Program for Presidents",
+      "timestamp": "2022-12-21T02:28:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
