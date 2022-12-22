@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-18T16:42:43.543Z",
+  "lastUpdated": "2022-12-21T18:18:32.456Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/12/world/best-space-photos-2022/",
+      "headline": "Stunning space photos of 2022 revealed the universe as it had never been seen before",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",

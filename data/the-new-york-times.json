@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2022-12-20T20:16:22.957Z",
+  "lastUpdated": "2022-12-22T10:16:27.176Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/22/opinion/words-you-cant-use-anymore.html",
+      "headline": "Quiz: You Can’t Say That! (Or Can You?)",
+      "timestamp": "2022-12-22T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/22/travel/things-to-do-london.html",
+      "headline": "36 Hours in London",
+      "timestamp": "2022-12-22T10:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/21/world/europe/bucha-ukraine-massacre-victims.html",
+      "headline": "Their Final Moments: Victims of a Russian Atrocity in Bucha",
+      "timestamp": "2022-12-22T00:44:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/21/smarter-living/wirecutter/how-to-pack-better.html",
+      "headline": "How to Pack Better",
+      "timestamp": "2022-12-21T19:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/21/us/politics/trump-tax-return-numbers.html",
+      "headline": "Here Are the Key Numbers From Trump’s Tax Returns",
+      "timestamp": "2022-12-21T17:47:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/21/us/house-ways-and-means-trump-tax-report.html",
+      "headline": "Document: Report on Trump’s Tax Returns",
+      "timestamp": "2022-12-21T02:28:26.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/21/us/house-ways-and-means-report-on-irs-audit-program.html",
+      "headline": "Document: Report on the I.R.S. Mandatory Audit Program for Presidents",
+      "timestamp": "2022-12-21T02:28:23.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
