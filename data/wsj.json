@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-21T20:15:48.066Z",
+  "lastUpdated": "2022-12-22T06:19:21.130Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/3m-dupont-other-makers-expected-to-face-new-drinking-water-rules-on-forever-chemicals-11671632033",
+      "headline": "3M, DuPont, Other Makers Expected to Face New Drinking Water Rules on ‘Forever Chemicals’",
+      "timestamp": "2022-12-22T06:19:09.170Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
