@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-22T06:19:21.130Z",
+  "lastUpdated": "2022-12-22T19:36:18.470Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/2022-the-year-in-graphics-11671737421",
+      "headline": "2022: The Year in Graphics",
+      "timestamp": "2022-12-22T19:36:05.534Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
