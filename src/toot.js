@@ -13,14 +13,14 @@ const newArticles = async (articles) => {
     });
 
     for (let article of articles) {
-      let toot = `New on @${article.publication} ${article.headline ? `: "${article.headline}"` : ""} ${article.url}`;
+      let toot = `New on ${article.mastodonHandle || article.publication} ${article.headline ? `: "${article.headline}"` : ""} ${article.url}`;
 
       console.log("Tooting:", toot);
 
       client.post('statuses', {
         status: toot
       }).then(val => {
-        console.log(`Successfully tooted: https://twitter.com/InteractiveFeed/status/${val.data.id}`);
+        console.log(`Successfully tooted: https://botsin.space/@Interactives/${val.data.id}`);
       }).catch(err => {
         console.log(err);
       });
