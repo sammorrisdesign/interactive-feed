@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-22T01:13:47.705Z",
+  "lastUpdated": "2022-12-22T10:16:27.176Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/22/opinion/words-you-cant-use-anymore.html",
+      "headline": "Quiz: You Can’t Say That! (Or Can You?)",
+      "timestamp": "2022-12-22T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/22/travel/things-to-do-london.html",
+      "headline": "36 Hours in London",
+      "timestamp": "2022-12-22T10:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
