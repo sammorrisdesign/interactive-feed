@@ -1,7 +1,7 @@
 # Interactive Journalism Feed
 A Twitter and Mastodon bot that shares new interactive, graphic, and data vis stories from newsrooms around the world. It works by scripts that are periodically ran that check APIs, RSS feeds, and sitemaps.
 
-You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed).
+You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed) or [@Interactives@botsin.space](https://botsin.space/@Interactives).
 
 ## Requirements
 - Node v14 or above
