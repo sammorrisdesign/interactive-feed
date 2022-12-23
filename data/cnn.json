@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-22T22:36:42.626Z",
+  "lastUpdated": "2022-12-23T12:56:02.800Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/uk/british-royal-family-tree-succession/",
+      "headline": "The royal family tree",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
