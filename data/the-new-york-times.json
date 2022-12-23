@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2022-12-23T16:20:19.150Z",
+  "lastUpdated": "2022-12-23T17:13:38.383Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths.html",
+      "headline": "Notable Deaths 2022",
+      "timestamp": "2022-12-23T17:08:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths-arts-styles.html",
+      "headline": "Notable Deaths 2022: Arts and Styles",
+      "timestamp": "2022-12-23T17:07:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths-books.html",
+      "headline": "Notable Deaths 2022: Books",
+      "timestamp": "2022-12-23T17:07:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths-business-economics.html",
+      "headline": "Notable Deaths 2022: Business and Economics",
+      "timestamp": "2022-12-23T17:06:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths-music.html",
+      "headline": "Notable Deaths 2022: Music",
+      "timestamp": "2022-12-23T17:05:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths-politics-public-affairs.html",
+      "headline": "Notable Deaths 2022: Politics and Public Affairs",
+      "timestamp": "2022-12-23T17:05:34.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths-science-technology.html",
+      "headline": "Notable Deaths 2022: Science and Technology",
+      "timestamp": "2022-12-23T17:04:48.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths-sports.html",
+      "headline": "Notable Deaths 2022: Sports",
+      "timestamp": "2022-12-23T17:04:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/obituaries/notable-deaths-stage-screen.html",
+      "headline": "Notable Deaths 2022: Stage and Screen",
+      "timestamp": "2022-12-23T17:03:20.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
