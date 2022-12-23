@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-23T03:16:53.198Z",
+  "lastUpdated": "2022-12-23T10:16:20.524Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/23/arts/weekend-editors-picks-babylon.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-12-23T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/23/sports/sports-watch-christmas.html",
+      "headline": "Sports to Watch This Holiday Weekend",
+      "timestamp": "2022-12-23T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
