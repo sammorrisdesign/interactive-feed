@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-23T10:16:20.524Z",
+  "lastUpdated": "2022-12-23T13:20:33.432Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/23/movies/holiday-christmas-movie-quiz.html",
+      "headline": "How Well Do You Know Your Holiday Movies?",
+      "timestamp": "2022-12-23T13:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
