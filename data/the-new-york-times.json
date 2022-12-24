@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-24T08:18:24.297Z",
+  "lastUpdated": "2022-12-24T10:14:46.029Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/24/upshot/nfl-playoff-picture.html",
+      "headline": "Week 16 N.F.L. Playoff Picture: A Team-by-Team Guide",
+      "timestamp": "2022-12-24T10:00:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/24/sports/baseball/mlb-trivia-quiz.html",
+      "headline": "The 2022 Baseball Trivia Extravaganza",
+      "timestamp": "2022-12-24T10:00:04.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
