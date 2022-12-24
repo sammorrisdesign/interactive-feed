@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-23T02:27:01.410Z",
+  "lastUpdated": "2022-12-24T12:26:16.286Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tesla-shares-head-for-worst-year-ever-as-elon-musk-focuses-on-twitter-11671854064",
+      "headline": "Tesla Shares Head for Worst Year Ever as Elon Musk Focuses on Twitter",
+      "timestamp": "2022-12-24T12:26:03.911Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
