@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-11-13T09:17:50.470Z",
+  "lastUpdated": "2022-12-24T12:52:40.339Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2022/magazine-white-house-holiday-cards/",
+      "headline": "The least merry White House holiday cards",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
