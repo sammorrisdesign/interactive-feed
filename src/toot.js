@@ -13,7 +13,7 @@ const newArticles = async (articles) => {
     });
 
     for (let article of articles) {
-      let toot = `New on ${"@" + article.mastodonHandle || article.publication} ${article.headline ? `: "${article.headline}"` : ""} ${article.url}`;
+      let toot = `New on ${article.mastodonHandle ? "@" + article.mastodonHandle : article.publication} ${article.headline ? `: "${article.headline}"` : ""} ${article.url}`;
 
       console.log("Tooting:", toot);
 
