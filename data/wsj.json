@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-24T12:26:16.286Z",
+  "lastUpdated": "2022-12-27T04:18:39.567Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/nonprofit-hospitals-deals-tax-breaks-11672068264",
+      "headline": "Big Nonprofit Hospitals Expand in Wealthier Areas, Shun Poorer Ones",
+      "timestamp": "2022-12-27T04:18:25.584Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
