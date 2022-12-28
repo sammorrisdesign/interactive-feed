@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-28T02:49:39.261Z",
+  "lastUpdated": "2022-12-28T14:13:29.076Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/telehealth-cerebral-done-ads-mental-health-adhd-11672161087",
+      "headline": "Misleading Ads Fueled Rapid Growth of Online Mental Health Companies",
+      "timestamp": "2022-12-28T14:13:14.785Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
