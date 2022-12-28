@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-27T18:18:13.964Z",
+  "lastUpdated": "2022-12-28T19:36:19.451Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/12/us/lake-mead-drought-shoreline-discoveries-climate-ctpr/index.html",
+      "headline": "Discoveries at Lake Mead's newly exposed shore",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2022/12/world/good-news-generator/",
+      "headline": "2022 hasn't been all bad. See the good news",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
