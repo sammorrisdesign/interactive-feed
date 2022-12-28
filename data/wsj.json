@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-27T04:18:39.567Z",
+  "lastUpdated": "2022-12-28T02:49:39.261Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/southwests-troubles-mount-as-airline-scraps-more-than-half-its-flights-11672084678",
+      "headline": "Southwest CEO Says More Cancellations Ahead as Airline Tries to Recover",
+      "timestamp": "2022-12-28T02:49:24.894Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
