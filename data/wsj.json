@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-28T14:13:29.076Z",
+  "lastUpdated": "2022-12-29T22:14:18.938Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/oil-market-was-splintered-in-2022-by-russias-invasion-of-ukraine-11672296100",
+      "headline": "Oil Market Was Splintered in 2022 by Russia’s Invasion of Ukraine",
+      "timestamp": "2022-12-29T22:14:05.620Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
