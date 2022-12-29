@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2022-12-29T03:37:02.354Z",
+  "lastUpdated": "2022-12-29T10:15:44.934Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/29/travel/things-to-do-essaouira-morocco.html",
+      "headline": "36 Hours in Essaouira, Morocco",
+      "timestamp": "2022-12-29T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/29/realestate/chicago-loop-one-bedroom.html",
+      "headline": "They Wanted a Versatile One-Bedroom in Chicago for About $200,000. Which Option Did They Choose?",
+      "timestamp": "2022-12-29T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
