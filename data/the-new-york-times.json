@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-12-29T10:15:44.934Z",
+  "lastUpdated": "2022-12-30T10:15:59.482Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/30/opinion/year-in-charts-2022.html",
+      "headline": "Vaccines, Inflation, Abortion: 2022 in Charts",
+      "timestamp": "2022-12-30T10:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/30/business/what-is-reverse-logistics-retail.html",
+      "headline": "The ‘Reverse Logistics’ of Returning Stuff",
+      "timestamp": "2022-12-30T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/30/arts/weekend-editors-picks-new-years-eve.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2022-12-30T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
