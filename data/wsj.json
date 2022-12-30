@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-29T22:14:18.938Z",
+  "lastUpdated": "2022-12-30T12:26:49.577Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tesla-stock-is-headed-for-its-biggest-ever-annual-decline-11672374248",
+      "headline": "Tesla Stock Is Headed for Its Biggest-Ever Annual Decline",
+      "timestamp": "2022-12-30T12:26:36.126Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
