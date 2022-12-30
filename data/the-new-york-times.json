@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-30T15:14:59.846Z",
+  "lastUpdated": "2022-12-30T17:36:38.693Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/30/nyregion/ny-climate-environment-quiz.html",
+      "headline": "Test Your Knowledge of New York City's Climate and Environment",
+      "timestamp": "2022-12-30T17:27:58.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
