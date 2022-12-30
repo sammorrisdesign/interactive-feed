@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-30T12:26:49.577Z",
+  "lastUpdated": "2022-12-30T23:36:49.322Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/stock-bond-and-crypto-investors-remain-on-edge-after-brutal-year-for-markets-11672403124",
+      "headline": "Stock, Bond and Crypto Investors Remain on Edge After Brutal Year for Markets",
+      "timestamp": "2022-12-30T23:36:37.106Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
