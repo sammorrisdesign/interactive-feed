@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2022-12-30T17:36:38.693Z",
+  "lastUpdated": "2022-12-31T10:14:50.985Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/31/upshot/pandemic-photos-then-and-now.html",
+      "headline": "Readers Sent Us Pandemic Photos in 2020. Here’s How Their Lives Look Now.",
+      "timestamp": "2022-12-31T10:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/31/upshot/polar-vortex-animation.html",
+      "headline": "Watch How Arctic Air Blanketed the U.S. Last Week",
+      "timestamp": "2022-12-31T10:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/31/sports/ncaafootball/sports-what-to-watch.html",
+      "headline": "College Football Bowl Games to Watch This Holiday Weekend",
+      "timestamp": "2022-12-31T10:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
