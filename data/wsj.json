@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-30T23:36:49.322Z",
+  "lastUpdated": "2023-01-01T20:15:34.196Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-year-big-tech-stocks-fell-from-glory-11672543952",
+      "headline": "The Year Big Tech Stocks Fell From Glory",
+      "timestamp": "2023-01-01T20:15:20.710Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
