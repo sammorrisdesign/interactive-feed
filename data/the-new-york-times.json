@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2022-12-31T10:14:50.985Z",
+  "lastUpdated": "2023-01-01T01:24:50.221Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/12/31/us/human-life-begin.html",
+      "headline": "When Does Life Begin?",
+      "timestamp": "2023-01-01T00:15:57.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
