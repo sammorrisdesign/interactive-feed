@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-24T12:52:40.339Z",
+  "lastUpdated": "2023-01-02T12:28:28.560Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/democratic-primary-2024-early-states-demographics/",
+      "headline": "What Democrats' new 2024 calendar would mean for diversity",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
