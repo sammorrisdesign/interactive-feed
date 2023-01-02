@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-01T10:15:04.274Z",
+  "lastUpdated": "2023-01-02T04:18:33.905Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/01/well/happiness-challenge-quiz.html",
+      "headline": "How Strong Are Your Relationships?",
+      "timestamp": "2023-01-02T04:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
