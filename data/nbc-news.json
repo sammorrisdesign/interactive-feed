@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-21T22:36:22.084Z",
+  "lastUpdated": "2023-01-03T14:36:36.825Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/covid-hospitalizations-see-latest-trend-current-count-rcna61053",
+      "headline": "Tracking Covid hospitalizations",
+      "timestamp": "2022-12-30T17:41:31.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
