@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-01T20:15:34.196Z",
+  "lastUpdated": "2023-01-03T17:36:28.365Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tech-layoffs-are-happening-faster-than-at-any-time-during-the-pandemic-11672705089",
+      "headline": "Tech Layoffs Are Happening Faster Than at Any Time During the Pandemic",
+      "timestamp": "2023-01-03T17:36:15.291Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
