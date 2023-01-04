@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-03T17:36:28.365Z",
+  "lastUpdated": "2023-01-04T05:36:47.582Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/damar-hamlin-update-hit-injury-buffalo-bills-nfl-condition-11672763351",
+      "headline": "Damar Hamlin Remains in Critical Condition as NFL Says Game Will Not Resume This Week",
+      "timestamp": "2023-01-04T05:36:32.226Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
