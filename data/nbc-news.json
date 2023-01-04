@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-03T14:36:36.825Z",
+  "lastUpdated": "2023-01-04T18:40:43.945Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/118th-congress-age-third-oldest-1789-rcna64117",
+      "headline": "The new Congress is the third oldest since 1789",
+      "timestamp": "2023-01-04T16:08:57.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
