@@ -32,6 +32,13 @@
       }
     },
     {
+      "publication": "CNN",
+      "twitterHandle": "CNNdatagraphics",
+      "type": "Twitter",
+      "twitterID": "2816944780",
+      "domain": "cnn.com"
+    },
+    {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
       "type": "WashingtonPost"
