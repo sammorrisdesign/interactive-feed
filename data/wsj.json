@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-04T05:36:47.582Z",
+  "lastUpdated": "2023-01-04T23:15:40.676Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ukraine-sees-signs-of-russia-shifting-front-line-firepower-away-from-bakhmut-11672830898",
+      "headline": "Ukraine Sees Signs of Russia Shifting Front-Line Firepower Away From Bakhmut",
+      "timestamp": "2023-01-04T23:15:25.904Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
