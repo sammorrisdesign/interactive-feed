@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-01-04T17:37:42.111Z",
+  "lastUpdated": "2023-01-05T10:16:58.675Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/05/realestate/05hunt-handwerk.html",
+      "headline": "With Manhattan Rents Rising, She Fled to Queens With a $200,000 Budget",
+      "timestamp": "2023-01-05T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/05/travel/things-to-do-steamboat-springs-colorado.html",
+      "headline": "36 Hours in Steamboat Springs, Colo.",
+      "timestamp": "2023-01-05T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
