@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-04T23:15:40.676Z",
+  "lastUpdated": "2023-01-06T10:16:39.876Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-allies-say-armored-vehicles-will-give-ukraines-troops-an-edge-11672958229",
+      "headline": "U.S., Allies Say Armored Vehicles Will Give Ukraine’s Troops an Edge",
+      "timestamp": "2023-01-06T10:16:28.233Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-01-05T20:16:54.772Z",
+  "lastUpdated": "2023-01-06T10:16:39.857Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/06/arts/weekend-editors-picks-broadway-guide.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2023-01-06T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/06/world/americas/rosca-de-reyes-mexico.html",
+      "headline": "On the Scene: Celebrating Three Kings Day",
+      "timestamp": "2023-01-06T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
