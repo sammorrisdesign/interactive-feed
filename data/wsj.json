@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-07T04:18:21.908Z",
+  "lastUpdated": "2023-01-07T14:36:29.342Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/labor-market-boom-cooled-some-in-2022-11673024967",
+      "headline": "Labor Market Boom Cooled Some in 2022",
+      "timestamp": "2023-01-07T14:36:15.593Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
