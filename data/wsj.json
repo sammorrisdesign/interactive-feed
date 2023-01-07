@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-06T15:16:38.004Z",
+  "lastUpdated": "2023-01-07T04:18:21.908Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/december-jobs-report-unemployment-rate-economy-growth-2022-11672961227",
+      "headline": "Hiring, Wage Gains Eased in December, Pointing to a Cooling Labor Market in 2023",
+      "timestamp": "2023-01-07T04:18:09.067Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
