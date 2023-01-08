@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-07T14:36:29.342Z",
+  "lastUpdated": "2023-01-08T14:36:29.020Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tech-industry-reversal-intensifies-with-new-rounds-of-layoffs-11673134201",
+      "headline": "Tech Industry Reversal Intensifies With New Rounds of Layoffs",
+      "timestamp": "2023-01-08T14:36:16.177Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
