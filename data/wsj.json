@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-08T14:36:29.020Z",
+  "lastUpdated": "2023-01-09T21:14:19.324Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/earths-ozone-layer-recovering-as-damaging-airborne-chemicals-decline-11673276426",
+      "headline": "Earth’s Ozone Layer Recovers as Airborne Chemicals Decline",
+      "timestamp": "2023-01-09T21:14:06.595Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
