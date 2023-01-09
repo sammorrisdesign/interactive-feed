@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-01-06T18:18:48.650Z",
+  "lastUpdated": "2023-01-09T11:13:52.539Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/new-space-age/",
+      "headline": "The New Space Age: A series on the resurgence of space travel",
+      "timestamp": "2023-01-09T11:05:37.428Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/nasa-moon-artemis-launch/",
+      "headline": "The moon beckons once again, and this time NASA wants to stay",
+      "timestamp": "2023-01-09T11:00:35.266Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
