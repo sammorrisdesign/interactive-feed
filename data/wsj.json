@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-09T21:14:19.324Z",
+  "lastUpdated": "2023-01-10T19:36:42.090Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tornadoes-hurricanes-and-wildfires-racked-up-165-billion-in-disaster-damage-in-2022-11673366441",
+      "headline": "Tornadoes, Hurricanes and Wildfires Racked Up $165 Billion in Disaster Damage in 2022",
+      "timestamp": "2023-01-10T19:36:27.339Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
