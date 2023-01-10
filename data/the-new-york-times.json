@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-09T10:17:59.024Z",
+  "lastUpdated": "2023-01-10T01:18:27.275Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/09/us/politics/house-rules-vote-count.html",
+      "headline": "Final Vote Count: How Each Member Voted on the House Rules Package",
+      "timestamp": "2023-01-10T00:00:29.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
