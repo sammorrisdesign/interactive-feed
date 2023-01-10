@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-10T01:18:27.275Z",
+  "lastUpdated": "2023-01-10T12:30:30.480Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/climate/earth-hottest-years.html",
+      "headline": "The Last 8 Years Were the Hottest on Record",
+      "timestamp": "2023-01-10T12:00:03.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
