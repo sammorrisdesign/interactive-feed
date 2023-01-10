@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-10T12:30:30.480Z",
+  "lastUpdated": "2023-01-10T18:19:23.560Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/10/us/california-storms-video-photos-maps.html",
+      "headline": "Videos, Photos and Maps of the Damage From the California Storms",
+      "timestamp": "2023-01-10T18:07:55.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
