@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-11T17:00:05.028Z",
+  "lastUpdated": "2023-01-11T21:14:37.291Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/11/us/resume-of-george-santos.html",
+      "headline": "Resume of George Santos",
+      "timestamp": "2023-01-11T20:57:49.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
