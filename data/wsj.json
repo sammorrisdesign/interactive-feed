@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-10T19:36:42.090Z",
+  "lastUpdated": "2023-01-11T21:36:55.396Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/what-half-the-head-coaches-in-the-nfl-playoffs-have-in-common-11673443315",
+      "headline": "What Half the Head Coaches in the NFL Playoffs Have in Common",
+      "timestamp": "2023-01-11T21:36:40.729Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
