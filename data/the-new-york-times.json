@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-12T18:41:20.408Z",
+  "lastUpdated": "2023-01-12T21:14:29.360Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/12/business/india-apps-delivery-workers.html",
+      "headline": "The Workers Who Deliver in Minutes",
+      "timestamp": "2023-01-12T21:02:55.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
