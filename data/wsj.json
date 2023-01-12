@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-11T21:36:55.396Z",
+  "lastUpdated": "2023-01-12T09:17:03.667Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/faa-suffers-glitch-to-crew-alert-system-potentially-affecting-flights-in-u-s-11673437407",
+      "headline": "​U.S. Flight Disruptions Mount After FAA Grounding Order Ends ​​",
+      "timestamp": "2023-01-12T09:16:51.826Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
