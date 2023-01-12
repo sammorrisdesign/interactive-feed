@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-12T09:17:03.667Z",
+  "lastUpdated": "2023-01-12T17:26:57.149Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-inflation-december-2022-consumer-price-index-11673485441",
+      "headline": "U.S. Inflation Slowed for Sixth Straight Month in December",
+      "timestamp": "2023-01-12T17:26:43.013Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
