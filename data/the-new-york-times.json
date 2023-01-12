@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-12T10:18:34.929Z",
+  "lastUpdated": "2023-01-12T15:24:37.719Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/12/realestate/harlem-ny-apartment.html",
+      "headline": "Finding the Harlem Apartment She Always Wanted: Which One Was It?",
+      "timestamp": "2023-01-12T10:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
