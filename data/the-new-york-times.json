@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-12T15:24:37.719Z",
+  "lastUpdated": "2023-01-12T15:55:14.045Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/12/health/covid-omicron-variant-xbb.html",
+      "headline": "What to Know About the New Omicron Variant",
+      "timestamp": "2023-01-12T15:30:50.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
