@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2023-01-12T09:17:03.653Z",
+  "lastUpdated": "2023-01-12T10:18:34.929Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/12/realestate/12hunt-rothwell.html",
+      "headline": "Finding the Harlem Apartment She Always Wanted: Which One Was It?",
+      "timestamp": "2023-01-12T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/travel/52-places-travel-2023.html",
+      "headline": "52 Places to Go in 2023",
+      "timestamp": "2023-01-12T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/12/travel/things-to-do-nevis.html",
+      "headline": "36 Hours in Nevis",
+      "timestamp": "2023-01-12T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
