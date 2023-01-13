@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-01-06T22:14:43.484Z",
+  "lastUpdated": "2023-01-13T21:36:57.708Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2023/01/us/cnn-5-things-news-quiz-january-12-sec/",
+      "headline": "Quiz: How well do you remember the news this week?",
+      "timestamp": null
+    },
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2023/01/health/caregiver-cancer-wellness-cnnphotos/",
+      "headline": "'Nobody prepares you': Deeply personal photos series reveals heart of sandwich generation struggle",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
