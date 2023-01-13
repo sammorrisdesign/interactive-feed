@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-12T17:26:57.149Z",
+  "lastUpdated": "2023-01-13T02:36:46.786Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/worlds-oceans-absorbed-record-heat-from-warming-climate-in-2022-11673546873",
+      "headline": "World’s Oceans Absorbed Record Heat From Warming Climate in 2022",
+      "timestamp": "2023-01-13T02:36:33.466Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
