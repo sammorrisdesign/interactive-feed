@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-01-13T10:17:55.780Z",
+  "lastUpdated": "2023-01-13T16:25:32.065Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/13/well/mind/alcohol-health-quiz.html",
+      "headline": "How Much is Too Much?",
+      "timestamp": "2023-01-13T16:17:41.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/13/books/booksupdate/fantasy-book-title-search.html",
+      "headline": "Title Search: Can You Find the 21 Fantasy Books Hidden in This Story?",
+      "timestamp": "2023-01-13T16:00:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
