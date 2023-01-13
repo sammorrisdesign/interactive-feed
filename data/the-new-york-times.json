@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2023-01-12T22:15:54.284Z",
+  "lastUpdated": "2023-01-13T10:17:55.780Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/13/business/what-is-shadow-banning.html",
+      "headline": "What Is ‘Shadow Banning’?",
+      "timestamp": "2023-01-13T10:00:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/13/arts/weekend-editors-picks-last-of-us.html",
+      "headline": "5 Things to Do This Weekend",
+      "timestamp": "2023-01-13T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/13/opinion/jodorowsky-dune-ai-tron.html",
+      "headline": "This Film Does Not Exist",
+      "timestamp": "2023-01-13T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
