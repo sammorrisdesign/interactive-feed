@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-13T11:36:52.487Z",
+  "lastUpdated": "2023-01-14T05:13:23.268Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/chips-semiconductors-manufacturing-china-taiwan-11673650917",
+      "headline": "Chips Are the New Oil and America Is Spending Billions to Safeguard Its Supply",
+      "timestamp": "2023-01-14T05:13:10.580Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
