@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-14T05:13:23.268Z",
+  "lastUpdated": "2023-01-14T14:12:57.499Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/deer-hunting-violation-leads-to-legal-skirmish-between-oklahoma-native-tribes-11673702994",
+      "headline": "Deer Hunting Violation Leads to Legal Skirmish Between Oklahoma, Native Tribes",
+      "timestamp": "2023-01-14T14:12:42.727Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
