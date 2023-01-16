@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-13T21:36:57.708Z",
+  "lastUpdated": "2023-01-15T21:12:46.973Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2018/04/us/martin-luther-king-jr-cnnphotos/",
+      "headline": "Photos: Martin Luther King Jr.'s life in pictures",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-14T14:12:57.499Z",
+  "lastUpdated": "2023-01-16T16:21:01.170Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/lasers-can-guide-dangerous-lightning-strikes-to-a-safer-path-study-shows-11673884829",
+      "headline": "Lasers Can Guide Dangerous Lightning Strikes to a Safer Path, Study Shows",
+      "timestamp": "2023-01-16T16:20:48.115Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
