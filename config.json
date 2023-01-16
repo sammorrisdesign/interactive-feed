@@ -309,6 +309,42 @@
         "twitterID": "121597316",
         "domain": "sfchronicle.com/projects"
       }]
+    },
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "14606079",
+        "domain": "projects.propublica.org/"
+      }]
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "19240255",
+        "domain": "interaktiv.morgenpost.de"
+      }]
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "usatgraphics",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "760842779765248000",
+        "domain": "usatoday.com"
+      }]
+    },
+    {
+      "publication": "The City",
+      "twitterHandle": "THECITYNY",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "1043143916340559874",
+        "domain": "projects.thecity.nyc"
+      }]
     }
   ]
 }
