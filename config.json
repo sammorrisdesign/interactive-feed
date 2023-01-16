@@ -26,6 +26,11 @@
       }]
     },
     {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "type": "WashingtonPost"
+    },
+    {
       "publication": "CNN",
       "twitterHandle": "CNN",
       "sources": [{
@@ -37,10 +42,259 @@
             "url": "/interactive"
           }
         }
-      }, {
+      },
+      {
         "type": "Twitter",
         "twitterID": "2816944780",
-        "domain": "cnn.com"
+        "domain": "cnn.com/interactive"
+      }]
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://www.ft.com/visual-and-data-journalism?format=rss"
+      }]
+    },
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://www.politico.com/rss/politicopicks.xml",
+        "filters": {
+          "in": {
+            "url": "/interactives"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml",
+        "filters": {
+          "in": {
+            "url": "/graphics"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://fivethirtyeight.com/interactives/feed/"
+      }]
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.inquirer.com/sitemaps/current-month-sitemap-i.xml",
+        "filters": {
+          "in": {
+            "url": "/inq2"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.scmp.com/sitemap_infographics.xml"
+      }]
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://feeds.nbcnews.com/nbcnews/public/news",
+        "filters": {
+          "in": {
+            "url": "/data-graphics"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "19564105",
+        "domain": "wsj.com/articles"
+      }]
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "17918860",
+        "domain": "latimes.com"
+      }]
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "1310201424",
+        "domain": "tmsnrt.rs/"
+      }]
+    },
+    {
+      "publication": "NPR",
+      "twitterHandle": "nprviz",
+      "mastodonHandle": "NPR@mstdn.social",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "582282558",
+        "domain": "npr.org/20"
+      }]
+    },
+    {
+      "publication": "Axios",
+      "twitterHandle": "axiosvisuals",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "822466626515861506",
+        "domain": "www.axios.com"
+      }]
+    },
+    {
+      "publication": "Kontinentalist",
+      "twitterHandle": "konti_sg",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://kontinentalist.com/sitemap-stories.xml",
+        "filters": {
+          "in": {
+            "url": "/stories"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "Le Monde",
+      "twitterHandle": "lemondefr",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://www.lemonde.fr/data-visualisation/rss_full.xml",
+        "filters": {
+          "in": {
+            "url": "/les-decodeurs"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "The Straits Times",
+      "twitterHandle": "straits_times",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.straitstimes.com/googlenews.xml",
+        "filters": {
+          "in": {
+            "url": "/multimedia/graphics"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "ESPN",
+      "twitterHandle": "ESPN",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://www.espn.com/espn/rss/news",
+        "filters": {
+          "in": {
+            "url": "espn/feature/"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "74987950",
+        "domain": "economist.com/interactive"
+      }]
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.nzz.ch/sitemap/news0.xml",
+        "filters": {
+          "in": {
+            "url": "/visuals"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.texastribune.org/sitemap-data-apps.xml"
+      }]
+    },
+    {
+      "publication": "El País",
+      "twitterHandle": "elpais_info",
+      "mastodonHandle": "el_pais@mastodon.social",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "1362370976",
+        "domain": "elpais.com"
+      }]
+    },
+    {
+      "publication": "La Vanguardia",
+      "twitterHandle": "WebVanguardia",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "1346043480980803584",
+        "domain": "stories.lavanguardia.com"
+      }]
+    },
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://multimedia.tijd.be/portfolio/rss.xml"
       }]
     }
   ]
