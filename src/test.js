@@ -11,7 +11,8 @@ const fetchers = require('./fetchers');
 
     if (feed) {
       console.log("Found config for", publication);
-      await fetchers.fetch(feed);
+      const fetchedArticles = await fetchers.fetch(feed);
+      console.log(fetchedArticles);
     } else {
       console.log("Missing config for", publication);
       console.log("Check your config.json file to corresponding publication");

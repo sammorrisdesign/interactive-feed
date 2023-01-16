@@ -198,8 +198,8 @@ module.exports = {
 
     for (let source of sources) {
       source = {...source, ...feedInformation};
-      console.log(`Fetching ${source.publication} from ${source.type} source`);
       const sourceArticles = await fetchers[source.type](source);
+      console.log(`Fetched ${source.publication} from ${source.type} source. ${sourceArticles.length} articles found`);
       articles.push(...sourceArticles);
     }
 
