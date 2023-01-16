@@ -11,13 +11,10 @@ const pullRecentFeeds = async() => {
   // loop through all feeds and fetch them
   for (const feed of config.feeds) {
     if (feed.sources) {
-      for (const source of feed.sources) {
-        console.log(`Pulling ${source.type} feed for`, feed.publication);
-        const fetchedArticles = await fetchers[source.type](source);
+      const fetchedArticles = await fetchers.fetch(feed);
 
-        if (fetchedArticles) {
-          data[feed.publication] = fetchedArticles
-        }
+      if (fetchedArticles) {
+        data[feed.publication] = fetchedArticles
       }
     }
   }

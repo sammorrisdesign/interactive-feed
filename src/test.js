@@ -11,19 +11,7 @@ const fetchers = require('./fetchers');
 
     if (feed) {
       console.log("Found config for", publication);
-      console.log("Sources found:", feed.sources.length);
-      for (const source of feed.sources) {
-        console.time(`Time to fetch ${feed.source} source`);
-
-        const {sources, ...feedInformation} = feed 
-        const cleanSource = {...source, ...feedInformation};
-
-        console.log(cleanSource);
-
-        // const fetchedArticles = await fetchers[source.type](source, feed);
-        // console.log(fetchedArticles);
-        console.timeEnd(`Time to fetch ${feed.source} source`);
-      }
+      await fetchers.fetch(feed);
     } else {
       console.log("Missing config for", publication);
       console.log("Check your config.json file to corresponding publication");
