@@ -188,6 +188,24 @@ const Twitter = async(feed) => {
 }
 
 module.exports = {
+  fetch: (feed) => {
+
+    // let articles;
+    // loop through sources
+
+    const {sources, ...feedInformation} = feed 
+    const cleanSource = {...source, ...feedInformation};
+
+    // pass cleanSource to a specific fetcher
+
+    // flatten all articles into one array
+
+    // return it
+
+  }
+}
+
+module.exports = {
   NewYorkTimesAPI: NewYorkTimesAPI,
   TheGuardianAPI: TheGuardianAPI,
   WashingtonPost: WashingtonPost,
