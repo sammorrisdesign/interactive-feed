@@ -10,7 +10,7 @@ You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed) or 
 ## Installation
 Use `npm i` to get all dependecies.
 
-If you know the secret key you can run `export key=<SECRET-KEY>` and then `npm run decrypt-secrets` to get a complete `secrets.json` file. If not, you can create your own using `[secrets.example.json](secrets.example.json)` 
+If you know the secret key you can run `export key=<SECRET-KEY>` and then `npm run decrypt-secrets` to get a complete `secrets.json` file. If not, you can create your own using [`secrets.example.json`](secrets.example.json)
 
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
