@@ -5,7 +5,12 @@ You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed) or 
 
 ## Requirements
 - Node v14 or above
-- NYT, Guardian, WaPo, and Twitter credentials for `secrets.json`
+- NYT, Guardian, Mastodon, and Twitter credentials for `secrets.json` or the secret key.
+
+## Installation
+Use `npm i` to get all dependecies.
+
+If you know the secret key you can run `export key=<SECRET-KEY>` and then `npm run decrypt-secrets` to get a complete `secrets.json` file. If not, you can create your own using `[secrets.example.json](secrets.example.json)` 
 
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
@@ -21,7 +26,7 @@ Know of how any of these newsrooms can be added? Make a PR!
 Know of any newsrooms we should add? Tweet me [@SamMorrisDesign](https://twitter.com/SamMorrisDesign) or add a GitHub Issue
 
 ## Adding a new Publication
-To add a new publication to the bot you should start with the `config.json` file. This lists out all current publications and their data sources. Ideal sources are APIs or specific RSS feeds, but Twitter accounts and ways of filtering RSS and XML sitemaps are also available. Something to consider when adding a source to an existing publication is that more sources for a publication increases coverage but also slows down the bot.
+To add a new publication to the bot you should start with the `[config.json](config.json)` file. This lists out all current publications and their data sources. Ideal sources are APIs or specific RSS feeds, but Twitter accounts and ways of filtering RSS and XML sitemaps are also available. Something to consider when adding a source to an existing publication is that more sources for a publication increases coverage but also slows down the bot.
 
 Top level options for a `feed` are as follows. All are required fields.
 
@@ -32,7 +37,7 @@ Top level options for a `feed` are as follows. All are required fields.
 | `mastondonHandle` | `String` | An @-less mastondon handle for the publication or specific team |
 | `sources`         | `Array`  | An array of source objects. See below for more information      |
 
-Sources can look different depending on the `type` - a required field in each source object. The `type` basically tells `src/fetchers.js` how it should handle the rest of the information. Some publications, like The Guardian and New York Times have their own `type` which refer to publication specific APIs. The other two types are `XML` and `Twitter`.
+Sources can look different depending on the `type` - a required field in each source object. The `type` basically tells `[src/fetchers.js](src/fetchers.js)` how it should handle the rest of the information. Some publications, like The Guardian and New York Times have their own `type` which refer to publication specific APIs. The other two types are `XML` and `Twitter`.
 
 Source level options for `Twitter`, getting articles as tweeted from a specific feed, are as follows.
 
