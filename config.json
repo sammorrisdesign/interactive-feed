@@ -56,6 +56,10 @@
         "type": "XML",
         "format": "RSS",
         "path": "https://www.ft.com/visual-and-data-journalism?format=rss"
+      }, {
+        "type": "Twitter",
+        "twitterID": "294735894",
+        "domain": "ig.ft.com"
       }]
     },
     {
