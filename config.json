@@ -163,7 +163,7 @@
       "sources": [{
         "type": "Twitter",
         "twitterID": "1310201424",
-        "domain": "tmsnrt.rs/"
+        "domain": "reuters.com"
       }]
     },
     {
@@ -299,6 +299,15 @@
         "type": "XML",
         "format": "RSS",
         "path": "https://multimedia.tijd.be/portfolio/rss.xml"
+      }]
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "twitterHandle": "sfchronicle",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "121597316",
+        "domain": "sfchronicle.com/projects"
       }]
     }
   ]
