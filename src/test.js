@@ -10,11 +10,9 @@ const fetchers = require('./fetchers');
     const feed = config.feeds.find(feed => feed.publication == publication);
 
     if (feed) {
-      console.log("Found config for", publication, "and starting fetch");
-      console.time("Time to fetch");
-      const fetchedArticles = await fetchers[feed.type](feed);
+      console.log("Found config for", publication);
+      const fetchedArticles = await fetchers.fetch(feed);
       console.log(fetchedArticles);
-      console.timeEnd("Time to fetch");
     } else {
       console.log("Missing config for", publication);
       console.log("Check your config.json file to corresponding publication");

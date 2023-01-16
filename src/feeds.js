@@ -10,9 +10,8 @@ const pullRecentFeeds = async() => {
 
   // loop through all feeds and fetch them
   for (const feed of config.feeds) {
-    if (feed.type) {
-      console.log("Pulling feed for", feed.publication);
-      const fetchedArticles = await fetchers[feed.type](feed);
+    if (feed.sources) {
+      const fetchedArticles = await fetchers.fetch(feed);
 
       if (fetchedArticles) {
         data[feed.publication] = fetchedArticles
