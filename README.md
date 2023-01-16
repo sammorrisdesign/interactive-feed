@@ -28,7 +28,8 @@ Know of any newsrooms we should add? Tweet me [@SamMorrisDesign](https://twitter
 ## Adding a new Publication
 To add a new publication to the bot you should start with the [`config.json`](config.json) file. This lists out all current publications and their data sources. Ideal sources are APIs or specific RSS feeds, but Twitter accounts and ways of filtering RSS and XML sitemaps are also available. Something to consider when adding a source to an existing publication is that more sources for a publication increases coverage but also slows down the bot.
 
-Top level options for a `feed` are as follows. All are required fields.
+#### Top level options for a `feed`
+All are required fields.
 
 | Name              | Type     | Description                                                     |
 | ----------------- | -------- | --------------------------------------------------------------- |
@@ -39,14 +40,17 @@ Top level options for a `feed` are as follows. All are required fields.
 
 Sources can look different depending on the `type` - a required field in each source object. The `type` basically tells [`src/fetchers.js`](src/fetchers.js) how it should handle the rest of the information. Some publications, like The Guardian and New York Times have their own `type` which refer to publication specific APIs. The other two types are `XML` and `Twitter`.
 
-Source level options for `Twitter`, getting articles as tweeted from a specific feed, are as follows.
+#### Source level options for `Twitter`.
+Sources set to `"type": "twitter"` get articles that are tweeted from a specific Twitter feed.
 
 | Name        | Type     | Description                                                                                                                                                        |
 | ----------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | `twitterID` | `String` | An ID for the twitter account you want to scrape. [TweeterID](https://tweeterid.com/) will give you an ID for from a handle.                                       |
 | `domain`    | `String` | Optional filtering that will check that this string is contained in any url. Just in case the account shares articles from other publications or non-interactives. |
 
-Source level options for `XML`, getting articles from an RSS feed or a Sitempa, are as follows.
+
+#### Source level options for `XML`.
+Sources set to `"type": "XML"` get articles from an RSS feed or a Sitemap.
 
 | Name          | Type     | Description                                                                                                                                           |
 | ------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
