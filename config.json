@@ -345,6 +345,24 @@
         "twitterID": "1043143916340559874",
         "domain": "projects.thecity.nyc"
       }]
+    },
+    {
+      "publication": "The Verge",
+      "twitterHandle": "verge",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "275686563",
+        "domain": "theverge.com/c/"
+      }]
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "95431448",
+        "domain": "apps.bostonglobe.com"
+      }]
     }
   ]
 }
