@@ -28,7 +28,9 @@
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
-      "type": "WashingtonPost"
+      "sources": [{
+        "type": "WashingtonPost"
+      }]
     },
     {
       "publication": "CNN",
