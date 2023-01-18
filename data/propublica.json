@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-16T23:59:17.231Z",
+  "lastUpdated": "2023-01-18T11:12:50.921Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "url": "https://projects.propublica.org/toxmap/",
+      "headline": "The Most Detailed Map of Cancer-Causing Industrial Air Pollution in the U.S.",
+      "timestamp": "2023-01-18T11:12:47.857Z"
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
