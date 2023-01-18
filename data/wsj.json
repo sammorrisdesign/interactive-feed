@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-16T16:21:01.170Z",
+  "lastUpdated": "2023-01-18T12:29:46.631Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-k-inflation-fell-for-second-month-following-global-move-11674028067",
+      "headline": "U.K. Inflation Falls for Second Month, Following Global Move",
+      "timestamp": "2023-01-18T12:29:28.234Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
