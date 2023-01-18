@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-18T12:29:46.631Z",
+  "lastUpdated": "2023-01-18T15:16:37.803Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/rio-grande-water-deal-between-texas-and-new-mexico-is-opposed-by-u-s-11674045744",
+      "headline": "Rio Grande Water Deal Between Texas and New Mexico Is Opposed by U.S.",
+      "timestamp": "2023-01-18T15:16:20.034Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
