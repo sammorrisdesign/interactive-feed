@@ -13,6 +13,9 @@ const fetchers = {
       // fl=web_url,headline,pub_date,body,type_of_material&
       const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&sort=newest&api-key=${secrets.nyt.key}`);
       const data = await response.json();
+
+      console.log(data);
+
       let articles = data.response.docs;
       articles = articles.filter(article => article.web_url.includes('interactive'));
       articles = articles.map(article => new Article(
@@ -192,6 +195,8 @@ const fetchers = {
 
 module.exports = {
   fetch: async(feed) => {
+
+    try {
     let articles = new Array;
 
     const {sources, ...feedInformation} = feed 
@@ -204,5 +209,9 @@ module.exports = {
     }
 
     return articles;
+    } catch (e) {
+      console.log(`Error fetching ${feed.publication}`);
+      console.log(e);
+    }
   }
 }
