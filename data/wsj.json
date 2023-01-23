@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2023-01-18T15:16:37.803Z",
+  "lastUpdated": "2023-01-23T16:25:56.496Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/nine-killed-in-shooting-in-monterey-park-near-los-angeles-11674384424",
+      "headline": "Police Hunt for Monterey Park, California, Dance-Club Shooter",
+      "timestamp": "2023-01-23T16:25:35.478Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/could-curbing-cow-burps-slow-global-warming-11674267505",
+      "headline": "Could Curbing Cow Burps Slow Global Warming?",
+      "timestamp": "2023-01-23T16:25:35.478Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-existing-home-sales-slid-last-year-as-interest-rates-surged-11674227468",
+      "headline": "U.S. Existing-Home Sales Slid Last Year as Interest Rates Surged",
+      "timestamp": "2023-01-23T16:25:35.478Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-covid-19-pandemic-enters-fourth-year-with-hospitalizations-on-the-decline-11674185739",
+      "headline": "U.S. Covid-19 Pandemic Enters Fourth Year With Hospitalizations on the Decline",
+      "timestamp": "2023-01-23T16:25:35.478Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/alec-baldwin-shooting-charges-involuntary-manslaughter-rust-movie-11674081157",
+      "headline": "WSJ News Exclusive | Alec Baldwin Expected to Be Charged With Involuntary Manslaughter in ‘Rust’ Shooting",
+      "timestamp": "2023-01-23T16:25:35.478Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/nasas-mars-helicopter-opens-the-door-for-flight-on-other-worlds-11674142489",
+      "headline": "NASA’s Mars Helicopter Opens the Door for Flight on Other Worlds",
+      "timestamp": "2023-01-23T16:25:35.478Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
