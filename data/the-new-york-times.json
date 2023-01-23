@@ -1,6 +1,55 @@
 {
-  "lastUpdated": "2023-01-18T18:18:49.566Z",
+  "lastUpdated": "2023-01-23T16:46:15.808Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/23/us/politics/dc-debt-ceiling-burst.html",
+      "headline": "4 Questions about the Debt Ceiling, Answered",
+      "timestamp": "2023-01-23T15:12:06.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/23/sports/football/nfl-playoffs-young-quarterbacks.html",
+      "headline": "Four Young QBs Will Decide the N.F.L. Playoffs",
+      "timestamp": "2023-01-23T14:54:54.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/23/magazine/cal-newport-interview.html",
+      "headline": "The Digital Workplace Is Designed to Bring You Down",
+      "timestamp": "2023-01-23T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/23/us/politics/ron-desantis-president-2024.html",
+      "headline": "Ron DeSantis Stokes the Flames",
+      "timestamp": "2023-01-23T08:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/21/us/abortion-ban-exceptions.html",
+      "headline": "Most Abortion Bans Include Exceptions. In Practice, Few Are Granted.",
+      "timestamp": "2023-01-21T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/21/well/eat/healthy-cooking-oils.html",
+      "headline": "Is This Cooking Oil Actually Healthy?",
+      "timestamp": "2023-01-21T10:00:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/20/us/politics/black-doulas-pregnancy.html",
+      "headline": "Easing the Burden of Pregnancy for Black Women",
+      "timestamp": "2023-01-20T21:53:36.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
