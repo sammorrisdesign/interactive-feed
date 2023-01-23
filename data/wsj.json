@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-23T16:25:56.496Z",
+  "lastUpdated": "2023-01-23T21:13:52.649Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/monterey-park-shooters-motive-sought-after-10-killed-near-los-angeles-11674474795",
+      "headline": "Monterey Park Shooter’s Motive Sought After 10 Killed Near Los Angeles",
+      "timestamp": "2023-01-23T21:13:30.653Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
