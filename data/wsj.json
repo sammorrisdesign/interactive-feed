@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-23T21:13:52.649Z",
+  "lastUpdated": "2023-01-24T19:36:30.448Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/dozens-of-major-shootings-sweep-the-u-s-in-january-11674588035",
+      "headline": "Dozens of Major Shootings Sweep the U.S. in January",
+      "timestamp": "2023-01-24T19:36:10.470Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
