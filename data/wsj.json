@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-24T19:36:30.448Z",
+  "lastUpdated": "2023-01-24T21:36:57.196Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/poland-formally-requests-german-permission-to-send-tanks-to-ukraine-11674558492",
+      "headline": "WSJ News Exclusive | U.S. Leans Toward Providing Abrams Tanks to Ukraine",
+      "timestamp": "2023-01-24T21:36:38.422Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
