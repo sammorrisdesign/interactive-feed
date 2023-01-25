@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-01-25T16:45:18.198Z",
+  "lastUpdated": "2023-01-25T21:12:16.229Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/25/magazine/poem-adam-wolfond.html",
+      "headline": "Poem: I Am the Pace of My Body and Not Language",
+      "timestamp": "2023-01-25T21:08:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/25/smarter-living/wirecutter/gas-stove-tips.html",
+      "headline": "5 Tips for Using a Gas Stove",
+      "timestamp": "2023-01-25T20:52:32.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
