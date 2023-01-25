@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-25T15:16:07.403Z",
+  "lastUpdated": "2023-01-25T16:20:59.698Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/in-2023-oscar-nominations-blockbusters-back-in-best-picture-mix-11674650187",
+      "headline": "In 2023 Oscar Nominations, Blockbusters Back in Best-Picture Mix",
+      "timestamp": "2023-01-25T16:20:41.986Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
