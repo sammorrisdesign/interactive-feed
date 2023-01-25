@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-25T16:20:59.698Z",
+  "lastUpdated": "2023-01-25T23:16:06.845Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/germany-agrees-to-send-tanks-to-ukraine-11674643787",
+      "headline": "U.S., Germany Approve Sending Tanks to Ukraine",
+      "timestamp": "2023-01-25T23:15:46.036Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
