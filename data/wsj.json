@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-26T14:14:03.933Z",
+  "lastUpdated": "2023-01-26T16:44:36.459Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/western-tanks-heading-to-ukraine-raise-stakes-for-russias-next-move-11674736486",
+      "headline": "Western Tanks Heading to Ukraine Raise Stakes for Russia’s Next Move",
+      "timestamp": "2023-01-26T16:44:18.323Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
