@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-26T15:15:50.650Z",
+  "lastUpdated": "2023-01-26T16:20:09.105Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/26/well/move/personal-trainer-workout-tips.html",
+      "headline": "How a Personal Trainer Plans His Workouts",
+      "timestamp": "2023-01-26T16:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
