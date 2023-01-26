@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-25T23:16:06.845Z",
+  "lastUpdated": "2023-01-26T10:37:55.045Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-gdp-economic-growth-fourth-quarter-2022-11674683034",
+      "headline": "Fourth-Quarter GDP Report to Show Pace of U.S. Growth Late Last Year",
+      "timestamp": "2023-01-26T10:37:37.561Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
