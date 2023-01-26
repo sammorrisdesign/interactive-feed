@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-26T16:44:36.459Z",
+  "lastUpdated": "2023-01-26T18:18:41.830Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/corporate-layoffs-spread-beyond-high-growth-tech-giants-11674743815",
+      "headline": "Corporate Layoffs Spread Beyond High-Growth Tech Giants",
+      "timestamp": "2023-01-26T18:18:23.327Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
