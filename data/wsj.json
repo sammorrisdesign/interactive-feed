@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-26T10:37:55.045Z",
+  "lastUpdated": "2023-01-26T14:14:03.933Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/russias-war-on-ukraine-changed-global-oil-trade-here-is-what-it-looks-like-now-11674740567",
+      "headline": "Russia’s War on Ukraine Changed Global Oil Trade. Here Is What It Looks Like Now.",
+      "timestamp": "2023-01-26T14:13:47.191Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
