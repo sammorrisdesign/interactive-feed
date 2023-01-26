@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-26T18:18:41.830Z",
+  "lastUpdated": "2023-01-26T23:36:42.187Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/asteroid-2023-bu-to-whiz-past-earth-in-one-of-the-closest-ever-approaches-11674729472",
+      "headline": "Asteroid 2023 BU to Whiz Past Earth in One of the Closest Ever Approaches",
+      "timestamp": "2023-01-26T23:36:23.150Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
