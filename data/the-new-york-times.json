@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2023-01-26T01:15:16.150Z",
+  "lastUpdated": "2023-01-26T10:16:47.129Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/26/upshot/city-snowfall-totals.html",
+      "headline": "You Call That Snow?! See How This Winter Stacks Up.",
+      "timestamp": "2023-01-26T10:00:10.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/26/opinion/us-mass-shootings-despair.html",
+      "headline": "We Profiled the ‘Signs of Crisis’ in 50 Years of Mass Shootings. This Is What We Found.",
+      "timestamp": "2023-01-26T10:00:05.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/26/realestate/26hunt-russo.html",
+      "headline": "Three Friends Pooled Their Finances and Bought a Queens House Together. Which One Did They Choose?",
+      "timestamp": "2023-01-26T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/26/style/culture-regret-crocs-social-media-cringe.html",
+      "headline": "Future Cringe",
+      "timestamp": "2023-01-26T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/26/travel/things-to-do-oslo.html",
+      "headline": "36 Hours in Oslo",
+      "timestamp": "2023-01-26T10:00:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
