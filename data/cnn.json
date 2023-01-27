@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-01-16T22:04:12.019Z",
+  "lastUpdated": "2023-01-27T21:37:11.040Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2023/01/us/cnn-5-things-news-quiz-january-26-sec/",
+      "headline": "In addition to the US, which country said it will send tanks to Ukraine following weeks of diplomatic pressure to do so?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
