@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-26T23:36:42.187Z",
+  "lastUpdated": "2023-01-27T19:36:54.283Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ukrainian-commanders-on-front-lines-look-to-western-tanks-for-breakthrough-11674827148",
+      "headline": "Ukrainian Commanders on Front Lines Look to Western Tanks for Breakthrough",
+      "timestamp": "2023-01-27T19:36:35.979Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
