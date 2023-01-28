@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-27T19:36:54.283Z",
+  "lastUpdated": "2023-01-28T14:12:45.971Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/california-has-tons-of-snow-will-that-help-cities-and-farms-in-the-summer-11674881791",
+      "headline": "California Has Tons of Snow. Will That Help Cities and Farms in the Summer?",
+      "timestamp": "2023-01-28T14:12:29.583Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
