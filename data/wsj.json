@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-28T14:12:45.971Z",
+  "lastUpdated": "2023-01-29T21:12:46.913Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/israel-strikes-iran-amid-new-international-push-to-contain-tehran-11675004979",
+      "headline": "WSJ News Exclusive | Israel Strikes Iran Amid International Push to Contain Tehran",
+      "timestamp": "2023-01-29T21:12:32.132Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
