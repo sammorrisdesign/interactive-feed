@@ -11,10 +11,8 @@ const fetchers = {
 
     if (secrets) {
       // fl=web_url,headline,pub_date,body,type_of_material&
-      const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&sort=newest&api-key=${secrets.nyt.key}`);
+      const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,body,type_of_material&sort=newest&api-key=${secrets.nyt.key}`);
       const data = await response.json();
-
-      console.log(data);
 
       let articles = data.response.docs;
       articles = articles.filter(article => article.web_url.includes('interactive'));
@@ -34,6 +32,15 @@ const fetchers = {
       articles = articles.filter(article => !article.headline.includes("Paperbacks"));
       articles = articles.filter(article => !article.headline.includes("News Quiz"));
       articles = articles.filter(article => !article.headline.includes("Weekender"));
+
+      // filter out pilot/burst templated interactives
+      for (let article of articles) {
+        const articleResponse = await fetch(article.url);
+        const articleBody = await articleResponse.text();
+        article.isTemplated = articleBody.includes('rendered by pilot');
+      }
+
+      articles = articles.filter(article => !article.isTemplated);
 
       return articles;
     } else {
