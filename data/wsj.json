@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-30T16:21:20.131Z",
+  "lastUpdated": "2023-01-30T17:14:47.432Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/missing-radioactive-capsule-prompts-search-and-concern-in-australia-11675068420",
+      "headline": "Missing Radioactive Capsule Prompts Search and Concern in Australia",
+      "timestamp": "2023-01-30T17:14:28.642Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
