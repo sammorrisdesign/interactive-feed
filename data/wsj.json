@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-29T21:12:46.913Z",
+  "lastUpdated": "2023-01-30T13:24:59.934Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/vast-maya-kingdom-is-revealed-in-guatemalan-jungle-11675082088",
+      "headline": "Vast Maya Kingdom Is Revealed in Guatemalan Jungle",
+      "timestamp": "2023-01-30T13:24:44.593Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
