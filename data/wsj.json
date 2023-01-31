@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-30T17:14:47.432Z",
+  "lastUpdated": "2023-01-31T17:14:14.092Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-to-see-the-rare-green-comet-that-is-passing-by-earth-11675183812",
+      "headline": "How to See the Rare Green Comet That Is Passing By Earth",
+      "timestamp": "2023-01-31T17:13:58.839Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
