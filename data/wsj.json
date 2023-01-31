@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-31T17:14:14.092Z",
+  "lastUpdated": "2023-01-31T21:13:49.129Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/new-china-rule-threatens-to-disrupt-u-s-solar-ambitions-11675173199",
+      "headline": "New China Rule Threatens to Disrupt U.S. Solar Ambitions",
+      "timestamp": "2023-01-31T21:13:32.790Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
