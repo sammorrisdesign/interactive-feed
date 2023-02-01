@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-01T01:25:21.938Z",
+  "lastUpdated": "2023-02-01T10:17:18.510Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/climate/tax-breaks-inflation-reduction-act.html",
+      "headline": "This Guide Can Help You Save Money And Fight Climate Change",
+      "timestamp": "2023-02-01T10:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
