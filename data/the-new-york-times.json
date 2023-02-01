@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-30T10:17:15.405Z",
+  "lastUpdated": "2023-02-01T01:25:21.938Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/01/31/technology/elon-musk-tweets.html",
+      "headline": "Dissecting Elon Musk’s Tweets: Memes, Rants, Private Parts and Echo Chamber",
+      "timestamp": "2023-02-01T01:11:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
