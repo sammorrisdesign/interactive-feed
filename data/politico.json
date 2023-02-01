@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-02T13:25:25.593Z",
+  "lastUpdated": "2023-02-01T19:12:51.411Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/congress-committees-republican-mccarthy-opponents/",
+      "headline": "Where McCarthy’s detractors landed",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",

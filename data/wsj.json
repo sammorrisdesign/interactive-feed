@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-01T18:19:19.293Z",
+  "lastUpdated": "2023-02-01T19:12:51.419Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/fed-approves-quarter-point-rate-hike-signals-more-increases-likely-11675278190",
+      "headline": "Fed Approves Quarter-Point Rate Hike, Signals More Increases Likely",
+      "timestamp": "2023-02-01T19:12:36.541Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
