@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-02-01T14:14:41.085Z",
+  "lastUpdated": "2023-02-01T16:20:49.116Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ancient-egyptian-vessels-reveal-secrets-of-how-mummies-were-made-11675267810",
+      "headline": "Ancient Egyptian Vessels Reveal Secrets of How Mummies Were Made",
+      "timestamp": "2023-02-01T16:20:33.171Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/missing-radioactive-capsule-found-in-australian-outback-officials-say-11675237669",
+      "headline": "Missing Radioactive Capsule Found in Australian Outback",
+      "timestamp": "2023-02-01T16:20:33.171Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
