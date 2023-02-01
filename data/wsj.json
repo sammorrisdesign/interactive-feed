@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-01T19:12:51.419Z",
+  "lastUpdated": "2023-02-01T20:37:08.068Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/groundhog-day-2023-when-is-it-and-how-the-tradition-began-11675283296",
+      "headline": "Groundhog Day 2023: When Is It and How the Tradition Began",
+      "timestamp": "2023-02-01T20:36:46.454Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
