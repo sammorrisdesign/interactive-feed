@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-02T13:26:50.234Z",
+  "lastUpdated": "2023-02-02T16:46:29.618Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/layoffs-labor-market-bosses-power-workplace-11675347655",
+      "headline": "Bosses Are Back in Charge",
+      "timestamp": "2023-02-02T16:46:12.054Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
