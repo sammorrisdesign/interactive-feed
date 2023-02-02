@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-02T16:46:29.618Z",
+  "lastUpdated": "2023-02-02T22:37:10.825Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/homicides-declined-in-major-cities-last-year-reversing-pandemic-rise-11675376009",
+      "headline": "Homicides Declined in Major Cities Last Year, Reversing Pandemic Rise",
+      "timestamp": "2023-02-02T22:36:54.250Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
