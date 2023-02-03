@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-03T10:37:38.959Z",
+  "lastUpdated": "2023-02-03T18:40:32.466Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/restaurant-healthcare-jobs-led-january-hiring-surge-11675449092",
+      "headline": "Restaurant, Healthcare Jobs Led January Hiring Surge",
+      "timestamp": "2023-02-03T18:40:14.546Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
