@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-02T22:37:10.825Z",
+  "lastUpdated": "2023-02-03T10:37:38.959Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/january-jobs-report-unemployment-rate-economy-growth-2023-11675374490",
+      "headline": "Jobs Report to Show Whether Labor Market Cooling Extended Into January",
+      "timestamp": "2023-02-03T10:37:23.065Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
