@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-05T10:15:03.157Z",
+  "lastUpdated": "2023-02-05T10:36:37.203Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/oil-industrys-windfall-fails-to-excite-wall-street-11675564711",
+      "headline": "Oil Industry’s Windfall Fails to Excite Wall Street",
+      "timestamp": "2023-02-05T10:36:20.868Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
