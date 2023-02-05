@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-03T18:40:32.466Z",
+  "lastUpdated": "2023-02-05T10:15:03.157Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-worlds-biggest-planes-are-finding-their-way-back-into-the-skies-11675573645",
+      "headline": "The World’s Biggest Planes Are Finding Their Way Back Into the Skies",
+      "timestamp": "2023-02-05T10:14:48.778Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
