@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-02-06T07:36:32.667Z",
+  "lastUpdated": "2023-02-06T10:17:20.021Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/06/world/asia/hong-kong-47-democracy-trial.html",
+      "headline": "The 47 Pro-Democracy Figures in Hong Kong’s Largest National Security Trial",
+      "timestamp": "2023-02-06T10:00:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/06/magazine/walter-mosley-interview.html",
+      "headline": "Walter Mosley Thinks America Is Getting Dumber",
+      "timestamp": "2023-02-06T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
