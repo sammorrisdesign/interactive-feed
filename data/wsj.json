@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-06T14:14:28.074Z",
+  "lastUpdated": "2023-02-06T19:12:38.628Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/earthquakes-in-turkey-and-syria-a-guide-in-maps-and-graphics-11675710154",
+      "headline": "Earthquakes in Turkey and Syria: A Guide in Maps and Graphics",
+      "timestamp": "2023-02-06T19:12:21.919Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
