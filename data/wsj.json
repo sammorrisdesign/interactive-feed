@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-06T19:12:38.628Z",
+  "lastUpdated": "2023-02-06T21:14:00.205Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/earthquake-turkey-syria-science-11675714080",
+      "headline": "How the Turkey-Syria Earthquake Occurred: Behind the Science of the Catastrophe",
+      "timestamp": "2023-02-06T21:13:41.920Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
