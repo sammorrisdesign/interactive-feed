@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-06T19:12:38.610Z",
+  "lastUpdated": "2023-02-07T03:37:01.336Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/06/world/turkey-earthquake-faultlines.html",
+      "headline": "How Turkey’s Anatolian Fault System Causes Devastating Earthquakes",
+      "timestamp": "2023-02-07T03:24:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
