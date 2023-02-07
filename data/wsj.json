@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-06T21:14:00.205Z",
+  "lastUpdated": "2023-02-07T16:21:49.739Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/migrants-are-doing-better-than-ever-thanks-to-tight-labor-market-11675784935",
+      "headline": "Migrants Are Doing Better Than Ever Thanks to Tight Labor Market",
+      "timestamp": "2023-02-07T16:21:31.774Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
