@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-08T19:12:54.936Z",
+  "lastUpdated": "2023-02-08T23:15:46.378Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/08/sports/football/super-bowl-lvii.html",
+      "headline": "It’s Time to Answer Your Questions About Super Bowl LVII",
+      "timestamp": "2023-02-08T22:59:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
