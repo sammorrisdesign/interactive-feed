@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-08T16:22:06.618Z",
+  "lastUpdated": "2023-02-08T18:41:10.379Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/turkeys-financial-markets-shudder-as-earthquake-economic-costs-mount-11675880430",
+      "headline": "Turkey’s Financial Markets Shudder as Earthquake Economic Costs Mount",
+      "timestamp": "2023-02-08T18:40:55.292Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
