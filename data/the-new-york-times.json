@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-08T10:18:43.712Z",
+  "lastUpdated": "2023-02-08T19:12:54.936Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/08/magazine/domestic-terrorism-prosecution.html",
+      "headline": "The Domestic Terror Paradox",
+      "timestamp": "2023-02-08T18:41:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
