@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-08T05:36:28.860Z",
+  "lastUpdated": "2023-02-08T10:18:43.712Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/08/movies/2023-oscar-ballot.html",
+      "headline": "2023 Oscar Nominations: Full Ballot",
+      "timestamp": "2023-02-08T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
