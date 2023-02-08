@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-07T20:37:02.582Z",
+  "lastUpdated": "2023-02-08T16:22:06.618Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/new-ring-discovered-around-small-icy-world-in-our-solar-system-11675872093",
+      "headline": "New Ring Discovered Around Small, Icy World in Our Solar System",
+      "timestamp": "2023-02-08T16:21:49.411Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
