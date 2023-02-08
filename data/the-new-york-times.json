@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-02-07T03:37:01.336Z",
+  "lastUpdated": "2023-02-08T01:18:05.183Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/07/us/memphis-officers-tyre-nichols.html",
+      "headline": "Officers Manhandled and Beat Tyre Nichols. We Tracked Each One’s Role.",
+      "timestamp": "2023-02-08T00:44:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/07/us/memphis-police-fired-documents-tyre-nichols.html",
+      "headline": "Read the Decertification Documents",
+      "timestamp": "2023-02-08T00:41:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
