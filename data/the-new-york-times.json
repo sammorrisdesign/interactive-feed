@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-02-08T01:18:05.183Z",
+  "lastUpdated": "2023-02-08T05:14:57.927Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/08/sports/lebron-james-points.html",
+      "headline": "The Many Ways LeBron James Can Score",
+      "timestamp": "2023-02-08T05:01:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/07/sports/basketball/lebron-james-kareem-abdul-jabbar-points.html",
+      "headline": "How LeBron James Outscored Kareem Abdul-Jabbar and All the N.B.A. Greats",
+      "timestamp": "2023-02-08T04:58:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
