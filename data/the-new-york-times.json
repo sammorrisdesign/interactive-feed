@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-02-09T06:21:01.243Z",
+  "lastUpdated": "2023-02-09T10:16:14.642Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/09/realestate/09hunt-mercanti.html",
+      "headline": "They Didn’t Need Fancy Amenities or a Garden, but Closets Would Be Nice. Which Brooklyn Condo Did They Choose?",
+      "timestamp": "2023-02-09T10:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/09/travel/things-to-do-new-orleans.html",
+      "headline": "36 Hours in New Orleans",
+      "timestamp": "2023-02-09T10:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/09/style/first-car-young-americans.html",
+      "headline": "The Magic of Your First Car",
+      "timestamp": "2023-02-09T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
