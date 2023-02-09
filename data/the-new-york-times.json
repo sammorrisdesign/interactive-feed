@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-09T14:37:36.906Z",
+  "lastUpdated": "2023-02-09T23:17:50.631Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/09/nyregion/live-music-nyc.html",
+      "headline": "The New York City Mixtape",
+      "timestamp": "2023-02-09T22:58:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

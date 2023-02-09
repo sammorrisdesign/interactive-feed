@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-02-08T19:36:46.918Z",
+  "lastUpdated": "2023-02-09T23:17:50.638Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2023/02/asia/china-police-data-leak-uyghur-families/",
+      "headline": "Leaked Chinese police data is giving Uyghurs answers about missing family members",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
