@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-10T18:41:08.691Z",
+  "lastUpdated": "2023-02-10T22:15:20.003Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/10/headway/homelessness-mental-health-us.html",
+      "headline": "30 People Tell Us What Homelessness is Really Like",
+      "timestamp": "2023-02-10T21:57:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
