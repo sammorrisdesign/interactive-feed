@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-10T06:21:00.675Z",
+  "lastUpdated": "2023-02-10T10:40:02.413Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/10/opinion/twitter-all-time-tweets.html",
+      "headline": "How Twitter Changed the World, in 25 Tweets",
+      "timestamp": "2023-02-10T10:27:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
