@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-10T10:40:02.430Z",
+  "lastUpdated": "2023-02-10T11:14:00.200Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-2023-super-bowl-ads-will-feature-booze-betting-and-jesus-d8dff447",
+      "headline": "The 2023 Super Bowl Ads Will Feature Booze, Betting and Jesus",
+      "timestamp": "2023-02-10T11:13:45.153Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
