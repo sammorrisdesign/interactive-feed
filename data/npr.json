@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-20T16:22:15.781Z",
+  "lastUpdated": "2023-02-10T15:16:34.683Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "twitterHandle": "nprviz",
+      "mastodonHandle": "NPR@mstdn.social",
+      "url": "https://www.npr.org/2023/02/10/1155761686/russia-is-draining-a-massive-ukrainian-reservoir-endangering-a-nuclear-plant",
+      "headline": "Russia is draining a massive Ukrainian reservoir, endangering a nuclear plant",
+      "timestamp": "2023-02-10T15:16:20.995Z"
+    },
     {
       "publication": "NPR",
       "twitterHandle": "nprviz",
