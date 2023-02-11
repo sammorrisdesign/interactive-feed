@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-10T22:15:20.003Z",
+  "lastUpdated": "2023-02-11T01:13:04.465Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/10/us/politics/house-republicans-lawmakers.html",
+      "headline": "A Close Look at the Chaotic House Republican Majority",
+      "timestamp": "2023-02-11T00:52:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
