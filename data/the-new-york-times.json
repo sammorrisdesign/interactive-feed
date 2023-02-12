@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-11T01:13:04.465Z",
+  "lastUpdated": "2023-02-12T10:37:26.468Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/12/upshot/child-maternal-mortality-rich-poor.html",
+      "headline": "<strong>Childbirth Is Deadlier for Black Families Even When They’re Rich, Expansive Study Finds</strong>",
+      "timestamp": "2023-02-12T10:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
