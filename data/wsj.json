@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-13T19:13:00.818Z",
+  "lastUpdated": "2023-02-13T20:17:24.121Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/what-does-the-u-s-do-with-its-own-balloons-bf4bf0d0",
+      "headline": "What Does the U.S. Do With Its Own Balloons?",
+      "timestamp": "2023-02-13T20:17:08.421Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
