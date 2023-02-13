@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-13T14:15:12.553Z",
+  "lastUpdated": "2023-02-13T19:13:00.818Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/china-says-u-s-flew-balloons-through-its-airspace-9739875e",
+      "headline": "China Says U.S. Flew Balloons Through Its Airspace More Than 10 Times",
+      "timestamp": "2023-02-13T19:12:45.524Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
