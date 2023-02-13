@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-13T10:17:47.341Z",
+  "lastUpdated": "2023-02-13T12:31:22.151Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/13/sports/football/kadarius-toney-punt-return-super-bowl-chiefs.html",
+      "headline": "See How Kansas City Secured Its Comeback With a 65-Yard Punt Return",
+      "timestamp": "2023-02-13T12:18:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
