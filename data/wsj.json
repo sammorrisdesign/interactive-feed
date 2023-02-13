@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-11T10:36:55.336Z",
+  "lastUpdated": "2023-02-13T14:15:12.553Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/china-economy-consumer-spending-11675980834",
+      "headline": "Don’t Count on China to Save the World Economy",
+      "timestamp": "2023-02-13T14:14:59.428Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
