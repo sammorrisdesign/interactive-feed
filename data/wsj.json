@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-13T20:17:24.121Z",
+  "lastUpdated": "2023-02-14T05:15:14.674Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/multiple-injuries-in-shooting-on-michigan-state-university-campus-208f2b97",
+      "headline": "Shooting at Michigan State University Kills at Least Three; Five Hospitalized With Injuries",
+      "timestamp": "2023-02-14T05:15:00.146Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
