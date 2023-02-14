@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-14T05:15:14.674Z",
+  "lastUpdated": "2023-02-14T10:39:56.239Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/chinese-balloon-and-mystery-objects-raise-question-of-who-controls-near-space-8645b9aa",
+      "headline": "Chinese Balloon and Mystery Objects Raise Question of Who Controls ‘Near Space’",
+      "timestamp": "2023-02-14T10:39:42.004Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
