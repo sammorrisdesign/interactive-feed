@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-14T10:39:56.239Z",
+  "lastUpdated": "2023-02-14T13:26:10.896Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-inflation-january-2023-consumer-price-index-f080e30b",
+      "headline": "January Inflation Report to Show Whether Price Gains Continued to Ease",
+      "timestamp": "2023-02-14T13:25:53.195Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
