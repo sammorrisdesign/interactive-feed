@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-14T13:26:10.896Z",
+  "lastUpdated": "2023-02-14T15:16:58.493Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/michigan-state-university-shooting-gunman-who-killed-three-students-had-no-connection-to-the-school-112a9c4a",
+      "headline": "Gunman Who Killed Three Michigan State University Students Had No Connection to the School",
+      "timestamp": "2023-02-14T15:16:44.872Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
