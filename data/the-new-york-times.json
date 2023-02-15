@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-15T10:17:37.378Z",
+  "lastUpdated": "2023-02-15T21:14:31.784Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/15/world/asia/15evening-briefing-nl-china-graphic.html",
+      "headline": "How Deadly Was China’s Covid Wave?",
+      "timestamp": "2023-02-15T20:44:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
