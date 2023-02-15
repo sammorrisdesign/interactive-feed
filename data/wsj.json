@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-14T15:16:58.493Z",
+  "lastUpdated": "2023-02-15T10:39:31.629Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/what-is-pushing-the-national-debt-to-its-limit-e93a1e69",
+      "headline": "What Is Pushing the National Debt to Its Limit?",
+      "timestamp": "2023-02-15T10:39:18.011Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
