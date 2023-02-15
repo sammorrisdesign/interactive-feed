@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-04T17:36:21.244Z",
+  "lastUpdated": "2023-02-15T13:25:20.071Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2021/magazine-nikki-haleys-choice/",
+      "headline": "Nikki Haley’s Choice",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
