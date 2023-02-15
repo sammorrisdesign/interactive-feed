@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-15T17:15:08.527Z",
+  "lastUpdated": "2023-02-15T17:37:01.770Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tesla-to-open-some-superchargers-to-other-vehicles-white-house-says-2ed35fd5",
+      "headline": "Tesla to Open Some Superchargers to Other Vehicles, White House Says",
+      "timestamp": "2023-02-15T17:36:47.050Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
