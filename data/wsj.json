@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-15T17:37:01.770Z",
+  "lastUpdated": "2023-02-15T18:20:23.330Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-k-inflation-cools-but-wage-increases-keep-central-bank-on-alert-ddeb107e",
+      "headline": "U.K. Inflation Cools but Wage Increases Keep Central Bank on Alert",
+      "timestamp": "2023-02-15T18:20:05.898Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
