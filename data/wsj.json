@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-15T10:39:31.629Z",
+  "lastUpdated": "2023-02-15T17:15:08.527Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-economy-retail-sales-january-2023-b59cb036",
+      "headline": "U.S. Retail Sales Rebounded Sharply in January",
+      "timestamp": "2023-02-15T17:14:52.947Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
