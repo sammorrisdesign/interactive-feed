@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-02-16T06:41:55.980Z",
+  "lastUpdated": "2023-02-16T10:17:36.143Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/16/style/mexican-family-restaurant-connecticut.html",
+      "headline": "At This Mexican Restaurant, Everyone is Family",
+      "timestamp": "2023-02-16T10:00:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/16/realestate/athens-greece-apartment-retirement.html",
+      "headline": "They Wanted to Live in Greece Full Time. But What Would They Find for $300,000?",
+      "timestamp": "2023-02-16T10:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/16/realestate/16hunt-athens.html",
+      "headline": "They Wanted to Live in Greece Full Time. But What Would They Find for $300,000?",
+      "timestamp": "2023-02-16T10:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/16/travel/things-to-do-madrid.html",
+      "headline": "36 Hours in Madrid",
+      "timestamp": "2023-02-16T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
