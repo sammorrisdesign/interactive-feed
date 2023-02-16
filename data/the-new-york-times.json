@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-16T13:45:16.307Z",
+  "lastUpdated": "2023-02-16T16:22:21.114Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/16/us/georgia-trump-special-grand-jury-report.html",
+      "headline": "Read the Report",
+      "timestamp": "2023-02-16T16:15:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
