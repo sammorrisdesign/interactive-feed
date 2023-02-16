@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-15T18:20:23.330Z",
+  "lastUpdated": "2023-02-16T11:13:41.287Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/pet-food-costs-inflation-toys-treats-f0ade222",
+      "headline": "Dog Spas Are Out, Kibble Is In as Pet Owners Cut Back",
+      "timestamp": "2023-02-16T11:13:25.768Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
