@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-16T11:13:41.287Z",
+  "lastUpdated": "2023-02-17T10:39:13.298Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-toxic-chemicals-spilled-by-the-ohio-train-derailment-a-visual-breakdown-65fae1ce",
+      "headline": "The Toxic Chemicals Spilled by the Ohio Train Derailment: A Visual Breakdown",
+      "timestamp": "2023-02-17T10:38:57.145Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
