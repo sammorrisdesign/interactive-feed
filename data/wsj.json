@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-17T10:39:13.298Z",
+  "lastUpdated": "2023-02-17T14:14:44.350Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tesla-drivers-worry-about-charging-times-as-elon-musk-opens-prized-supercharger-network-3973cc",
+      "headline": "Tesla Drivers Worry About Charging Times as Elon Musk Opens Prized Supercharger Network",
+      "timestamp": "2023-02-17T14:14:23.880Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
