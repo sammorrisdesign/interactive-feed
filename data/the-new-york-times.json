@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-17T18:41:14.398Z",
+  "lastUpdated": "2023-02-18T10:15:21.728Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/17/climate/electric-vehicle-emissions-truck-suv.html",
+      "headline": "Just How Good for the Planet Is That Big Electric Pickup Truck?",
+      "timestamp": "2023-02-18T10:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
