@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-17T14:14:44.350Z",
+  "lastUpdated": "2023-02-18T05:13:55.401Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ai-chatgpt-chatbot-workplace-call-centers-5cd2142a",
+      "headline": "AI in Your Workplace: Efficient, Bossy, Dehumanizing",
+      "timestamp": "2023-02-18T05:13:40.062Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
