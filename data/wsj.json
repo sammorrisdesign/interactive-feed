@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-18T05:13:55.401Z",
+  "lastUpdated": "2023-02-18T10:37:21.641Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/idaho-utah-workers-led-u-s-in-quitting-jobs-while-new-yorkers-largely-stayed-put-e646b333",
+      "headline": "Idaho, Utah Workers Led U.S. in Quitting Jobs, While New Yorkers Largely Stayed Put",
+      "timestamp": "2023-02-18T10:37:05.772Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
