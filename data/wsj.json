@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-19T10:37:29.284Z",
+  "lastUpdated": "2023-02-19T12:28:28.227Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/going-private-again-is-all-the-rage-among-newly-public-companies-93fff45e",
+      "headline": "Going Private Again Is All the Rage Among Newly Public Companies",
+      "timestamp": "2023-02-19T12:28:13.872Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
