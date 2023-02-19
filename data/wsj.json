@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-18T10:37:21.641Z",
+  "lastUpdated": "2023-02-19T10:37:29.284Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/drilling-deeper-into-ocean-floor-in-search-for-origins-of-life-fadfcab2",
+      "headline": "Drilling Deeper Into Ocean Floor in Search for Origins of Life",
+      "timestamp": "2023-02-19T10:37:14.491Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
