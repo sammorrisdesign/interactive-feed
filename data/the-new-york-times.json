@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-18T10:15:21.728Z",
+  "lastUpdated": "2023-02-20T10:19:04.631Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/20/magazine/emma-chamberlain-interview.html",
+      "headline": "YouTube Made Emma Chamberlain a Star. Now She’s Leaving it Behind.",
+      "timestamp": "2023-02-20T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
