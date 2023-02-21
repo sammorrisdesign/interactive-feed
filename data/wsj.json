@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-20T20:16:57.384Z",
+  "lastUpdated": "2023-02-21T15:17:00.087Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-home-sales-fell-in-january-for-12th-straight-month-ef2a2e71",
+      "headline": "U.S. Home Sales Fell in January for 12th Straight Month",
+      "timestamp": "2023-02-21T15:16:42.650Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
