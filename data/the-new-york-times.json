@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-21T06:20:27.399Z",
+  "lastUpdated": "2023-02-21T10:17:16.755Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/21/arts/television/f1-grand-prix-miami.html",
+      "headline": "The Fast and the Curious at <span>Formula 1’s</span> Miami Grand Prix",
+      "timestamp": "2023-02-21T10:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
