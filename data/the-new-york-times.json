@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-02-21T10:17:16.755Z",
+  "lastUpdated": "2023-02-21T21:37:28.129Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/21/us/elections/results-wisconsin-supreme-court.html",
+      "headline": "Wisconsin State Supreme Court Primary Election",
+      "timestamp": "2023-02-21T21:25:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/21/us/elections/results-virginia-us-house-district-4-special.html",
+      "headline": "Virginia Fourth Congressional District Special Election Results",
+      "timestamp": "2023-02-21T21:25:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
