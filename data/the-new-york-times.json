@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-22T17:14:52.997Z",
+  "lastUpdated": "2023-02-22T21:14:34.575Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/22/magazine/covid-pandemic-oral-history.html",
+      "headline": "Three Years Into Covid, We Still Don’t Know to Talk About It",
+      "timestamp": "2023-02-22T21:11:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

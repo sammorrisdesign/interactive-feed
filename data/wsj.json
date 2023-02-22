@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-21T16:20:46.480Z",
+  "lastUpdated": "2023-02-22T21:14:34.596Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/major-winter-storm-brings-outages-canceled-flights-and-heavy-snow-c2ae1747",
+      "headline": "Winter Storm Brings Heavy Snow, Ice From California to Maine, Grounding More Than 1,300 Flights",
+      "timestamp": "2023-02-22T21:14:19.731Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
