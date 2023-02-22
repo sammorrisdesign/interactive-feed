@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-21T21:37:28.129Z",
+  "lastUpdated": "2023-02-22T02:38:22.772Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/presidential-candidates-2024.html",
+      "headline": "Who’s Running for President in 2024?",
+      "timestamp": "2023-02-22T01:55:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
