@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-02-23T03:17:52.608Z",
+  "lastUpdated": "2023-02-23T10:18:40.153Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/23/travel/things-to-do-miami.html",
+      "headline": "36 Hours in Miami",
+      "timestamp": "2023-02-23T10:00:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/23/realestate/23hunt-leyva.html",
+      "headline": "Seeking a Studio in Downtown Brooklyn for Less Than $400,000: She Was Surprised by the Options",
+      "timestamp": "2023-02-23T10:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/23/style/girls-wrestling-academy-india.html",
+      "headline": "At This Indian Wrestling Academy, Young Women Find Freedom and Hope",
+      "timestamp": "2023-02-23T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
