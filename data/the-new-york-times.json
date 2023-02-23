@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-22T21:14:34.575Z",
+  "lastUpdated": "2023-02-23T03:17:52.608Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/22/climate/heat-pumps-extreme-cold.html",
+      "headline": "As Heat Pumps Go Mainstream, a Big Question: Can They Handle Real Cold?",
+      "timestamp": "2023-02-23T03:15:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
