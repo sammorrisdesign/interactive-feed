@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-22T21:14:34.596Z",
+  "lastUpdated": "2023-02-23T23:17:21.286Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/what-happened-in-the-ohio-train-derailment-e687c32",
+      "headline": "What Happened in the Ohio Train Derailment?",
+      "timestamp": "2023-02-23T23:17:03.535Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
