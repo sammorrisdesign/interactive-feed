@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-23T23:17:21.286Z",
+  "lastUpdated": "2023-02-24T05:15:28.464Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/russia-ukraine-war-impact-on-the-world-4f318a37",
+      "headline": "Eight Ways the Russia-Ukraine War Changed the World",
+      "timestamp": "2023-02-24T05:15:11.538Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
