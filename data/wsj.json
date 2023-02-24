@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-24T05:15:28.464Z",
+  "lastUpdated": "2023-02-24T14:14:43.515Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/atlanta-cop-city-cases-test-use-of-domestic-terrorism-charges-against-protesters-80c88152",
+      "headline": "Atlanta ‘Cop City’ Cases Test Use of Domestic-Terrorism Charges Against Protesters",
+      "timestamp": "2023-02-24T14:14:31.158Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
