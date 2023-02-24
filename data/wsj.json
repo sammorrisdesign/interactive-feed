@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-24T14:14:43.515Z",
+  "lastUpdated": "2023-02-24T16:22:05.789Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/consumer-spending-personal-income-inflation-january-2023-eeffc9ba",
+      "headline": "Inflation Firmed, Consumer Spending Jumped in January",
+      "timestamp": "2023-02-24T16:21:47.855Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
