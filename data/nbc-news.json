@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-26T16:44:36.458Z",
+  "lastUpdated": "2023-02-24T17:37:47.003Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/absentee-homeowners-crowding-housing-market-data-rcna69828",
+      "headline": "Absentee owners are crowding the housing market, data shows",
+      "timestamp": "2023-02-24T15:51:40.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
