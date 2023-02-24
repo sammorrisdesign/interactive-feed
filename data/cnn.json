@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-02-24T17:15:07.393Z",
+  "lastUpdated": "2023-02-24T21:12:50.225Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2023/02/us/cnn-5-things-news-quiz-february-23-sec/",
+      "headline": "Biden made a highly secretive trip to which country this week?",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
