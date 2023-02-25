@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-18T12:56:39.544Z",
+  "lastUpdated": "2023-02-25T12:28:15.566Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/ukraine-photo-essay-donbas-ground-zero-russia-war",
+      "headline": "Donbas: Ground Zero of Russia's war in Ukraine",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
