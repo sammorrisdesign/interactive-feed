@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-24T21:12:50.217Z",
+  "lastUpdated": "2023-02-25T08:19:13.969Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/25/business/media/fox-news-dominion-tucker-carlson.html",
+      "headline": "What Fox News Hosts Said Privately vs. Publicly About Voter Fraud",
+      "timestamp": "2023-02-25T08:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
