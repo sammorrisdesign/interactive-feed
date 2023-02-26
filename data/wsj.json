@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-02-26T16:20:18.036Z",
+  "lastUpdated": "2023-02-26T20:16:20.183Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/dozens-of-migrants-drown-in-shipwreck-off-italian-coast-4b26256c",
+      "headline": "Dozens of Migrants Drown in Shipwreck Off Italian Coast",
+      "timestamp": "2023-02-26T20:16:02.798Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
