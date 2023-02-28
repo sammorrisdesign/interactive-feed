@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-02-28T19:36:49.260Z",
+  "lastUpdated": "2023-02-28T22:15:45.808Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/28/us/elections/results-chicago-mayor.html",
+      "headline": "Chicago Mayor Election Results",
+      "timestamp": "2023-02-28T22:04:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/02/28/us/elections/results-illinois-chicago-municipal-election.html",
+      "headline": "Chicago Municipal Election Results",
+      "timestamp": "2023-02-28T22:04:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
