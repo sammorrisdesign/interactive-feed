@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-03-01T10:18:14.501Z",
+  "lastUpdated": "2023-03-02T10:17:58.322Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/02/us/abortion-pill-lawsuit-mifepristone.html",
+      "headline": "Where Restrictions on Abortion Pills Could Matter Most",
+      "timestamp": "2023-03-02T10:00:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/02/movies/oscars-asian-actors-history.html",
+      "headline": "The History of Asian Actors at the Oscars",
+      "timestamp": "2023-03-02T10:00:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/02/realestate/apartment-house-queens-ny.html",
+      "headline": "They Wanted a Two-Bedroom in Queens for $500,000 — Dishwasher Optional. Which Option Did They Buy?",
+      "timestamp": "2023-03-02T10:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/02/travel/things-to-do-rio-de-janeiro.html",
+      "headline": "36 Hours in Rio de Janeiro",
+      "timestamp": "2023-03-02T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
