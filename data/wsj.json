@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-01T11:14:18.899Z",
+  "lastUpdated": "2023-03-02T10:40:35.829Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-u-s-weapons-play-a-growing-role-in-the-ukraine-war-8ee548ef",
+      "headline": "How U.S. Weapons Play a Growing Role in the Ukraine War",
+      "timestamp": "2023-03-02T10:40:21.572Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
