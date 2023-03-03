@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-02T10:40:35.829Z",
+  "lastUpdated": "2023-03-03T10:39:36.649Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/american-fracked-gas-ukraine-invasion-europe-import-9e5cc725",
+      "headline": "How Gas From Texas Becomes Cooking Fuel in France",
+      "timestamp": "2023-03-03T10:39:19.720Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
