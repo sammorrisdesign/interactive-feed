@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-02T10:17:58.322Z",
+  "lastUpdated": "2023-03-03T02:14:57.116Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/02/us/dc-weaponization-report.html",
+      "headline": "Read the document",
+      "timestamp": "2023-03-03T01:53:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
