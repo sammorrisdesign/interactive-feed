@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-03T02:14:57.116Z",
+  "lastUpdated": "2023-03-03T16:21:30.777Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/03/books/booksupdate/trilogy-trivia-quiz.html",
+      "headline": "Lit Trivia: How Many Science Fiction and Fantasy Trilogies Do You Know?",
+      "timestamp": "2023-03-03T16:00:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/03/well/mind/breathing-exercises.html",
+      "headline": "The Power of Breath Work",
+      "timestamp": "2023-03-03T15:58:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
