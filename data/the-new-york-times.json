@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-04T01:18:17.610Z",
+  "lastUpdated": "2023-03-04T10:15:56.178Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/04/climate/insects-wildlife-us.html",
+      "headline": "Are Butterflies Wildlife? Depends Where You Live.",
+      "timestamp": "2023-03-04T10:00:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
