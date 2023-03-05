@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-05T10:37:50.493Z",
+  "lastUpdated": "2023-03-05T11:12:29.899Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/a-stretch-of-canadian-border-bustles-with-migrants-1503efb0",
+      "headline": "A Stretch of Canadian Border Bustles With Migrants ",
+      "timestamp": "2023-03-05T11:12:15.472Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
