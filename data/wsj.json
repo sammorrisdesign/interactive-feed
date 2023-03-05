@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-04T15:15:16.144Z",
+  "lastUpdated": "2023-03-05T10:37:50.493Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/what-is-a-ceos-pay-actually-worth-37c0d493",
+      "headline": "What Is a CEO’s Pay Actually Worth?",
+      "timestamp": "2023-03-05T10:37:37.232Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
