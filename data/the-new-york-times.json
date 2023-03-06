@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-06T10:18:05.749Z",
+  "lastUpdated": "2023-03-06T18:42:22.730Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/06/climate/california-zombie-forests.html",
+      "headline": "Mapping California’s ‘Zombie’ Forests",
+      "timestamp": "2023-03-06T18:22:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
