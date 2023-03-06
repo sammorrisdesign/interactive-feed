@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-06T10:40:32.973Z",
+  "lastUpdated": "2023-03-06T16:47:20.942Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-military-china-taiwan-russia-great-power-conflict-481f7756",
+      "headline": "The U.S. Is Not Ready for the Era of ‘Great Power’ Conflict",
+      "timestamp": "2023-03-06T16:47:03.050Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
