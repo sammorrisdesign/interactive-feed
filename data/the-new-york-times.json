@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-06T01:21:16.999Z",
+  "lastUpdated": "2023-03-06T10:18:05.749Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/06/upshot/balancing-budget-painful-spending-cuts.html",
+      "headline": "The Programs You’d Have to Cut to Balance the Budget",
+      "timestamp": "2023-03-06T10:00:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/06/magazine/paul-ryan-interview.html",
+      "headline": "Paul Ryan Says Even MAGA Diehards Believe Trump Can’t Win in 2024",
+      "timestamp": "2023-03-06T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
