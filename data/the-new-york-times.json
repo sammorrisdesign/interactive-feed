@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-06T18:42:22.730Z",
+  "lastUpdated": "2023-03-07T06:20:45.003Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/07/opinion/jewish-americans-focus-group.html",
+      "headline": "What These 13 Jewish Americans Are Proud of and Afraid Of",
+      "timestamp": "2023-03-07T06:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
