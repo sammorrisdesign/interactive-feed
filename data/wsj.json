@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-06T22:16:03.987Z",
+  "lastUpdated": "2023-03-07T10:40:52.524Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/cherry-blossom-trees-record-early-spring-7484812c",
+      "headline": "Trees Across the U.S. Are Sprouting Leaves Earlier Than Usual This Year",
+      "timestamp": "2023-03-07T10:40:37.105Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-seasonality-affects-our-view-of-inflation-and-jobs-as-explained-with-hot-dogs-8548ef68",
+      "headline": "How Seasonality Affects Our View of Inflation and Jobs, as Explained With Hot Dogs",
+      "timestamp": "2023-03-07T10:40:37.105Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
