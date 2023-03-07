@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-07T10:40:52.524Z",
+  "lastUpdated": "2023-03-07T17:37:54.175Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tamaulipas-governor-says-two-of-four-americans-kidnapped-in-matamoros-found-dead-e2bcce49",
+      "headline": "Two of Four Americans Kidnapped in Matamoros, Mexico, Found Dead",
+      "timestamp": "2023-03-07T17:37:33.876Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
