@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-08T16:22:45.100Z",
+  "lastUpdated": "2023-03-09T15:39:45.963Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/elon-musk-texas-town-52386513",
+      "headline": "Elon Musk Is Planning a Texas Utopia—His Own Town",
+      "timestamp": "2023-03-09T15:39:30.136Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
