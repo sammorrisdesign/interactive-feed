@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-03-08T23:16:50.099Z",
+  "lastUpdated": "2023-03-09T10:18:06.152Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/09/realestate/san-diego-houses-homes.html",
+      "headline": "Would $650,000 Buy a House in San Diego? One Couple Tested Their Budget.",
+      "timestamp": "2023-03-09T10:00:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/09/style/ravenna-high-school-ohio-band.html",
+      "headline": "Where the Band Kids Are",
+      "timestamp": "2023-03-09T10:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/09/travel/things-to-do-nashville.html",
+      "headline": "36 Hours in Nashville",
+      "timestamp": "2023-03-09T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
