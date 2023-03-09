@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-09T15:39:45.963Z",
+  "lastUpdated": "2023-03-09T16:23:14.991Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/nord-stream-blast-probe-in-germany-centers-on-sail-boat-crew-70380645",
+      "headline": "Nord Stream Blast Probe in Germany Centers on Sail Boat, Crew",
+      "timestamp": "2023-03-09T16:22:59.011Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
