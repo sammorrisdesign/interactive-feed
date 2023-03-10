@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-10T03:44:53.314Z",
+  "lastUpdated": "2023-03-10T10:18:28.414Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/10/climate/buildings-carbon-dioxide-emissions-climate.html",
+      "headline": "A Huge City Polluter? Buildings. Here’s a Surprising Fix.",
+      "timestamp": "2023-03-10T10:01:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/10/upshot/presidential-budgets-reality.html",
+      "headline": "Why Presidents’ Budget Dreams Usually Don’t Come True",
+      "timestamp": "2023-03-10T10:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
