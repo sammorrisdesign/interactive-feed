@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-10T10:40:44.980Z",
+  "lastUpdated": "2023-03-10T14:15:37.052Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-tesla-opening-its-superchargers-alters-the-ev-charging-map-c9398c90",
+      "headline": "How Tesla Opening Its Supercharger Network Alters the EV Charging Map",
+      "timestamp": "2023-03-10T14:15:21.578Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
