@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-11T02:25:32.971Z",
+  "lastUpdated": "2023-03-11T10:15:14.057Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/11/upshot/office-conversions.html",
+      "headline": "Here’s How to Solve a 25-Story Rubik’s Cube",
+      "timestamp": "2023-03-11T10:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
