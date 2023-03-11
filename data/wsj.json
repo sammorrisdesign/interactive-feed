@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-10T19:12:29.539Z",
+  "lastUpdated": "2023-03-11T11:12:17.956Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/china-boxed-america-out-of-south-china-sea-military-d2833768",
+      "headline": "How Beijing Boxed America Out of the South China Sea",
+      "timestamp": "2023-03-11T11:12:02.309Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
