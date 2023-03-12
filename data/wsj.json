@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-12T15:14:51.344Z",
+  "lastUpdated": "2023-03-12T22:14:08.298Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/companies-with-deposits-trapped-in-silicon-valley-bank-9034f33b",
+      "headline": "Companies With Deposits Trapped in Silicon Valley Bank",
+      "timestamp": "2023-03-12T22:13:50.073Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
