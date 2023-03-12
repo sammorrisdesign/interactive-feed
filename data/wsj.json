@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-11T12:27:25.349Z",
+  "lastUpdated": "2023-03-12T01:40:10.380Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/silicon-valley-banks-meltdown-visualized-3da2263b",
+      "headline": "Silicon Valley Bank’s Meltdown Visualized",
+      "timestamp": "2023-03-12T01:39:52.208Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

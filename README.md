@@ -15,7 +15,7 @@ If you know the secret key you can run `export key=<SECRET-KEY>` and then `npm r
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-Axios, Berliner Morgenpost, Boston Globe, Bloomberg, CNN, De Tijd, El País, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, NBC News, NPR, NZZ, ProPublica, Politico, Reuters, San Francisco Chronicle, South China Morning Post, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Verge, The Washington Post, USA Today, and WSJ.
+Axios, Berliner Morgenpost, Boston Globe, Bloomberg, CommonWealth Magazine, CNN, De Tijd, El Confidencial, El País, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, NBC News, NPR, NZZ, ProPublica, Publico, Politico, Reuters, San Francisco Chronicle, South China Morning Post, Tagesspiegel, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Verge, The Washington Post, USA Today, and WSJ.
 
 ## Missing Publications
 Not all publications have specific feeds or repeatable url structures to get the types of stories we're looking to share. While this isn't a complete list of what's missing, here's some major newsrooms that we don't have hooked up...
