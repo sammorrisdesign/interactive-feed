@@ -1,0 +1,26 @@
+{
+  "lastUpdated": "2023-03-12T01:40:10.410Z",
+  "articles": [
+    {
+      "publication": "Tagesspiegel",
+      "twitterHandle": "BerlinDigital",
+      "url": "https://interaktiv.tagesspiegel.de/lab/sars-cov-2-der-verkehr-in-den-grossstaedten-nimmt-drastisch-ab/",
+      "headline": "Der Verkehr in den Großstädten nimmt drastisch ab",
+      "timestamp": "2020-03-30T10:30:00.000Z"
+    },
+    {
+      "publication": "Tagesspiegel",
+      "twitterHandle": "BerlinDigital",
+      "url": "https://interaktiv.tagesspiegel.de/lab/karte-sars-cov-2-in-deutschland-landkreise/",
+      "headline": "Live-Karte zu Coronavirus in Deutschland",
+      "timestamp": "2020-03-20T10:30:00.000Z"
+    },
+    {
+      "publication": "Tagesspiegel",
+      "twitterHandle": "BerlinDigital",
+      "url": "https://interaktiv.tagesspiegel.de/lab/sars-cov-2-das-virus-in-echtzeit/",
+      "headline": "Das Virus in Echtzeit",
+      "timestamp": "2020-03-08T10:30:00.000Z"
+    }
+  ]
+}

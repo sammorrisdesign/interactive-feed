@@ -365,6 +365,38 @@
         "twitterID": "95431448",
         "domain": "apps.bostonglobe.com"
       }]
+    },
+    {
+      "publication": "Tagesspiegel",
+      "twitterHandle": "BerlinDigital",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://digitalpresent.tagesspiegel.de/feed.xml",
+        "filters": {
+          "in": {
+            "url": "interaktiv.tagesspiegel.de"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "Publico",
+      "twitterHandle": "Publico",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "2561091",
+        "domain": "publico.pt/interactivos"
+      }]
+    },
+    {
+      "publication": "CommonWealth Magazine",
+      "twitterHandle": "CWM_en",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "906833760972267521",
+        "domain": "cw.com.tw/graphics"
+      }]
     }
   ]
 }
