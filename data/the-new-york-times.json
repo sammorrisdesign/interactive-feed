@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-14T01:06:41.764Z",
+  "lastUpdated": "2023-03-14T09:17:55.643Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/14/climate/extreme-weather-climate-change.html",
+      "headline": "How Can We Measure Droughts and Deluges? Weigh the Planet.",
+      "timestamp": "2023-03-14T09:00:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/14/opinion/middle-age-millennials.html",
+      "headline": "The New Middle Age",
+      "timestamp": "2023-03-14T09:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
