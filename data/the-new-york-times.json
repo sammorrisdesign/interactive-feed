@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-14T13:34:03.710Z",
+  "lastUpdated": "2023-03-14T20:40:41.982Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/14/dining/kid-friendly-recipes.html",
+      "headline": "Kids Love These Recipes!",
+      "timestamp": "2023-03-14T20:34:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/14/magazine/ukraine-soldiers-psychiatric-hospital.html",
+      "headline": "‘I Live in Hell’: The Psychic Wounds of Ukraine’s Soldiers",
+      "timestamp": "2023-03-14T20:30:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
