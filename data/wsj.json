@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-13T23:36:56.452Z",
+  "lastUpdated": "2023-03-14T09:39:28.986Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/sunbelt-traffic-jams-are-frustrating-drivers-and-threatening-growth-223df06b",
+      "headline": "Sunbelt Traffic Jams Are Frustrating Drivers and Threatening Growth",
+      "timestamp": "2023-03-14T09:39:12.563Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
