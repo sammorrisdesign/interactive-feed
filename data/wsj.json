@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-14T14:17:29.014Z",
+  "lastUpdated": "2023-03-14T15:42:44.260Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/big-12-march-madness-3040bbe",
+      "headline": "In the Brutal Big 12, Even Teams With Losing League Records Are Heading for March Madness",
+      "timestamp": "2023-03-14T15:42:26.388Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
