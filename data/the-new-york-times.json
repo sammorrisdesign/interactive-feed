@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-14T22:14:41.965Z",
+  "lastUpdated": "2023-03-15T09:16:02.752Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/15/upshot/ncaa-bracket-picks-table.html",
+      "headline": "N.C.A.A. Bracket Picks: Where Fans and Experts Diverge",
+      "timestamp": "2023-03-15T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
