@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-14T15:42:44.260Z",
+  "lastUpdated": "2023-03-15T12:30:34.495Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/march-madness-2023-predictions-upset-picks-13a60edd",
+      "headline": "Our Upset Expert Is Back With These NCAA Tournament Picks",
+      "timestamp": "2023-03-15T12:30:13.081Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/natural-gas-prices-energy-bills-ea3ea9da",
+      "headline": "Why Gas Bills Are Going Crazy—With No End in Sight",
+      "timestamp": "2023-03-15T12:30:13.081Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
