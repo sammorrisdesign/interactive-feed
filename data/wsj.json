@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-16T04:18:59.090Z",
+  "lastUpdated": "2023-03-16T13:28:32.888Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ecb-raises-rates-by-half-point-despite-mounting-banking-stress-41c8bae",
+      "headline": "ECB Raises Rates by Half Point Despite Mounting Banking Stress",
+      "timestamp": "2023-03-16T13:28:13.127Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/californias-levee-system-under-strain-after-string-of-storms-f846b557",
+      "headline": "California’s Levee System Under Strain After String of Storms",
+      "timestamp": "2023-03-16T13:28:13.127Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
