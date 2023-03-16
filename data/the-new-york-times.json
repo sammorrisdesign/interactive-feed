@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-15T23:12:55.593Z",
+  "lastUpdated": "2023-03-16T01:17:35.755Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/15/sports/ncaabasketball/bracket-help-ncaa-ai.html",
+      "headline": "Hey, Bing, Help Me Overcome My Fear of College Basketball",
+      "timestamp": "2023-03-16T00:23:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
