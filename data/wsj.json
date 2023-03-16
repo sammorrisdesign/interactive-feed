@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-16T14:15:12.152Z",
+  "lastUpdated": "2023-03-16T22:15:04.030Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/women-maternal-mortality-death-rate-what-to-know-1720cfd8",
+      "headline": "Why Is the Maternal Mortality Rate So High in the U.S.?",
+      "timestamp": "2023-03-16T22:14:46.747Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
