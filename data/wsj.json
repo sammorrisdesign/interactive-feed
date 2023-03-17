@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-16T22:15:04.030Z",
+  "lastUpdated": "2023-03-17T15:16:12.102Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/illegal-immigration-mexico-us-border-deaths-c35cf892",
+      "headline": "‘It’s Like a Graveyard’: Record Numbers of Migrants Are Dying at the U.S. Border",
+      "timestamp": "2023-03-17T15:15:54.454Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
