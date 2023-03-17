@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-16T09:20:38.857Z",
+  "lastUpdated": "2023-03-17T09:16:08.589Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/climate/california-drought.html",
+      "headline": "A Very Wet Winter Has Eased California’s Drought, but Water Woes Remain",
+      "timestamp": "2023-03-17T09:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
