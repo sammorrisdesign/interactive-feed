@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-10T20:16:18.339Z",
+  "lastUpdated": "2023-03-17T18:18:14.912Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/fdic-bank-collapse-deposit-insurance-rcna75066",
+      "headline": "How the government protects bank accounts, in three charts",
+      "timestamp": "2023-03-17T17:40:27.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
