@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-17T15:16:12.102Z",
+  "lastUpdated": "2023-03-18T04:18:38.033Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/silicon-valley-bank-collapse-ceo-management-cb75f147",
+      "headline": "‘We Never Thought a Bank So Successful Could Collapse So Fast’",
+      "timestamp": "2023-03-18T04:18:21.684Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
