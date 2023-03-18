@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-18T04:18:38.033Z",
+  "lastUpdated": "2023-03-18T13:18:30.110Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-banking-sector-turmoil-in-charts-52bb6095",
+      "headline": "The Banking Sector Turmoil in Charts",
+      "timestamp": "2023-03-18T13:18:15.529Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
