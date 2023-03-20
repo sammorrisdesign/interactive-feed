@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-18T13:18:30.110Z",
+  "lastUpdated": "2023-03-20T13:23:50.090Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/kathy-hochuls-plan-to-force-nyc-suburbs-to-approve-more-housing-sparks-battle-c40c571f",
+      "headline": "Kathy Hochul’s Plan to Force NYC Suburbs to Approve More Housing Sparks Battle",
+      "timestamp": "2023-03-20T13:23:32.106Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
