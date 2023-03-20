@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-03-19T17:13:03.101Z",
+  "lastUpdated": "2023-03-20T11:13:26.455Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/ai-quiz-chatgpt/",
+      "headline": "Quiz: Did AI make this? Test your knowledge.",
+      "timestamp": "2023-03-20T11:00:52.537Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/ai-jobs-workplace/",
+      "headline": "AI isn’t yet going to take your job — but you may have to work with it",
+      "timestamp": "2023-03-20T11:00:07.170Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

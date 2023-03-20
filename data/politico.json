@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-20T10:17:38.109Z",
+  "lastUpdated": "2023-03-20T11:13:26.460Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/republican-candidates-2024-gop-presidential-hopefuls-list/",
+      "headline": "The GOP’s 2024 primary field: How they win, how they lose",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
