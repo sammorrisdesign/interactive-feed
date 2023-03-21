@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-01-11T16:29:45.607Z",
+  "lastUpdated": "2023-03-21T14:12:05.220Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2023/03/same-name",
+      "headline": "A Map of Places with in the US the Same Name",
+      "timestamp": "2023-03-21T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
