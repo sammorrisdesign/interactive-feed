@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-21T09:15:40.809Z",
+  "lastUpdated": "2023-03-21T17:13:42.447Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/21/sports/ncaabasketball/march-madness-next-game.html",
+      "headline": "Bracket Busted? Try Round 2 of Our Tournament Prediction Game Instead.",
+      "timestamp": "2023-03-21T16:46:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
