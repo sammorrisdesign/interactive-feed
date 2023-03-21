@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-21T05:14:21.340Z",
+  "lastUpdated": "2023-03-21T09:15:40.809Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/21/arts/design/plane-spotting-los-angeles.html",
+      "headline": "Why Look at  Planes?",
+      "timestamp": "2023-03-21T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
