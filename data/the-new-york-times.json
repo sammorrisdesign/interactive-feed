@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-21T17:13:42.447Z",
+  "lastUpdated": "2023-03-22T11:36:26.826Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/22/books/heartstopper-adaptation.html",
+      "headline": "Love in Three Dimensions",
+      "timestamp": "2023-03-22T11:30:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
