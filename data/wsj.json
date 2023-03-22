@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-21T14:36:38.968Z",
+  "lastUpdated": "2023-03-22T22:11:58.174Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/coffee-and-your-heart-the-impact-may-be-different-than-you-think-e2f1efdd",
+      "headline": "Coffee and Your Heart: The Impact May Be Different Than You Think",
+      "timestamp": "2023-03-22T22:11:43.679Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
