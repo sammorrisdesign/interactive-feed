@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2023-03-22T11:36:26.826Z",
+  "lastUpdated": "2023-03-22T16:20:15.744Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/washington-mississippi-covid-cases.html",
+      "headline": "Track Covid-19 in Washington County, Mississippi",
+      "timestamp": "2023-03-22T12:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/garden-nebraska-covid-cases.html",
+      "headline": "Track Covid-19 in Garden County, Nebraska",
+      "timestamp": "2023-03-22T12:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/roanoke-virginia-covid-cases.html",
+      "headline": "Track Covid-19 in Roanoke County, Virginia",
+      "timestamp": "2023-03-22T12:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/montgomery-pennsylvania-covid-cases.html",
+      "headline": "Track Covid-19 in Montgomery County, Pennsylvania",
+      "timestamp": "2023-03-22T12:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/northumberland-pennsylvania-covid-cases.html",
+      "headline": "Track Covid-19 in Northumberland County, Pennsylvania",
+      "timestamp": "2023-03-22T12:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/martin-north-carolina-covid-cases.html",
+      "headline": "Track Covid-19 in Martin County, North Carolina",
+      "timestamp": "2023-03-22T12:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
