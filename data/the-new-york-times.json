@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-22T16:20:15.744Z",
+  "lastUpdated": "2023-03-22T16:43:53.060Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/covid-personalized-tracker.html",
+      "headline": "Track Covid-19 in Places Important to You",
+      "timestamp": "2023-03-22T16:20:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/covid-cases.html",
+      "headline": "Track Covid-19 in the U.S.",
+      "timestamp": "2023-03-22T16:19:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
