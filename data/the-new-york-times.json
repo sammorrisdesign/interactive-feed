@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-23T09:37:00.979Z",
+  "lastUpdated": "2023-03-23T13:30:06.079Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/23/magazine/jamaica-travel-christianity.html",
+      "headline": "A Journey Through Jamaica's Native Spiritual Landscape",
+      "timestamp": "2023-03-23T13:27:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
