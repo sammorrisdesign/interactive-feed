@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-23T13:30:06.079Z",
+  "lastUpdated": "2023-03-23T17:14:16.585Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/keya-paha-nebraska-covid-cases.html",
+      "headline": "Track Covid-19 in Keya Paha County, Nebraska",
+      "timestamp": "2023-03-23T12:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
