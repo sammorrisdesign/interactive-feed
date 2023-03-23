@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-03-23T04:18:11.211Z",
+  "lastUpdated": "2023-03-23T09:14:46.815Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/23/realestate/home-thousand-oaks-southern-california.html",
+      "headline": "A Couple Decided to Swap Their Family Home in Pennsylvania for a California Rental. Which One Did They Choose?",
+      "timestamp": "2023-03-23T09:00:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/23/travel/things-to-do-johannesburg.html",
+      "headline": "36 Hours in Johannesburg",
+      "timestamp": "2023-03-23T09:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/23/arts/letting-loose-dancing-tv.html",
+      "headline": "The Joy of Letting Loose",
+      "timestamp": "2023-03-23T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
