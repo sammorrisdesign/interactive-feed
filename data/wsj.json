@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-23T11:12:43.756Z",
+  "lastUpdated": "2023-03-23T12:30:33.291Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/swiss-central-bank-lifts-key-rate-declares-end-to-bank-crisis-55f8dff2",
+      "headline": "Bank of England Lifts Key Rate by Quarter Percentage Point",
+      "timestamp": "2023-03-23T12:30:13.605Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
