@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-22T22:11:58.174Z",
+  "lastUpdated": "2023-03-23T11:12:43.756Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/cherry-blossoms-in-washington-d-c-are-peaking-earlier-than-usual-b8f7f64e",
+      "headline": "Cherry Blossoms in Washington, D.C., Are Peaking Earlier Than Usual",
+      "timestamp": "2023-03-23T11:12:27.149Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
