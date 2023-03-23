@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-23T13:30:06.095Z",
+  "lastUpdated": "2023-03-23T16:21:12.672Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/stem-cells-parkinsons-disease-heart-failure-60e9e21f",
+      "headline": "The Personalized Stem Cells That Could One Day Treat Parkinson’s and Heart Failure",
+      "timestamp": "2023-03-23T16:20:48.381Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
