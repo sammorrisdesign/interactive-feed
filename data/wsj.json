@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-23T16:21:12.672Z",
+  "lastUpdated": "2023-03-24T09:36:59.892Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/most-americans-doubt-their-children-will-be-better-off-wsj-norc-poll-finds-35500ba8",
+      "headline": "WSJ News Exclusive | Most Americans Doubt Their Children Will Be Better Off, WSJ-NORC Poll Finds",
+      "timestamp": "2023-03-24T09:36:44.067Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
