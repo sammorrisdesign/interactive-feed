@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-24T12:27:33.174Z",
+  "lastUpdated": "2023-03-25T09:36:38.231Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/whats-behind-train-derailments-and-are-they-happening-more-often-51d99ac2",
+      "headline": "What’s Behind Train Derailments and Are They Happening More Often?",
+      "timestamp": "2023-03-25T09:36:18.491Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
