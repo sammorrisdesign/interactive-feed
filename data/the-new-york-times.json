@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-27T16:19:08.382Z",
+  "lastUpdated": "2023-03-27T19:12:34.863Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/27/sports/blumenthal-letter-college-betting.html",
+      "headline": "Senator Blumenthal Letter to Colleges and Universities",
+      "timestamp": "2023-03-27T18:56:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
