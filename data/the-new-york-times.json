@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-27T15:17:03.145Z",
+  "lastUpdated": "2023-03-27T16:19:08.382Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/27/technology/ai-artificial-intelligence-expert-quiz.html",
+      "headline": "Quiz: Become an Expert on A.I.",
+      "timestamp": "2023-03-27T16:06:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/27/us/california-flood-photos.html",
+      "headline": "The Scramble to Save California’s Heartland",
+      "timestamp": "2023-03-27T16:01:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
