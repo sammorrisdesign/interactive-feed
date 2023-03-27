@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-03-27T01:11:17.810Z",
+  "lastUpdated": "2023-03-27T09:16:22.544Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/27/opinion/college-choice-regrets.html",
+      "headline": "We Talked to 10 Graduates About Their College Regrets",
+      "timestamp": "2023-03-27T09:00:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/27/magazine/keyu-jin-interview.html",
+      "headline": "Can the U.S. See the Truth About China?",
+      "timestamp": "2023-03-27T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/27/opinion/build-your-own-college-rankings.html",
+      "headline": "Build Your Own College Rankings",
+      "timestamp": "2023-03-27T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
