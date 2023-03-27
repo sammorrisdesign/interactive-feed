@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-27T09:16:22.544Z",
+  "lastUpdated": "2023-03-27T15:17:03.145Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/27/world/asia/israel-protests-photos-videos.html",
+      "headline": "Unrest Surges in Israel: Videos and Photos",
+      "timestamp": "2023-03-27T14:32:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
