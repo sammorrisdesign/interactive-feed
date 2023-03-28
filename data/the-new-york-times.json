@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-27T19:12:34.863Z",
+  "lastUpdated": "2023-03-28T15:16:52.261Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/28/technology/quiz-ai-chatbots-chatgpt-llm.html",
+      "headline": "Quiz: How Does ChatGPT Really Work?",
+      "timestamp": "2023-03-28T15:03:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
