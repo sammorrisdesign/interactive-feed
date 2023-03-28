@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-28T15:16:52.261Z",
+  "lastUpdated": "2023-03-28T18:39:36.092Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/dallas-arkansas-covid-cases.html",
+      "headline": "Track Covid-19 in Dallas County, Arkansas",
+      "timestamp": "2023-03-28T12:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
