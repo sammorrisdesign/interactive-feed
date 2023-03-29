@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-29T09:15:30.960Z",
+  "lastUpdated": "2023-03-29T17:11:11.341Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/29/technology/quiz-ai-chatbots-hallucinations.html",
+      "headline": "Quiz: What Makes A.I. Chatbots Go Wrong?",
+      "timestamp": "2023-03-29T15:21:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
