@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-28T18:39:36.108Z",
+  "lastUpdated": "2023-03-29T12:32:05.142Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/caitlin-clark-iowa-womens-basketball-final-four-a11f8d82",
+      "headline": "How Iowa’s Caitlin Clark Became College Basketball’s Must-See Star",
+      "timestamp": "2023-03-29T12:31:47.425Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
