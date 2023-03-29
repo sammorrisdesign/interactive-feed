@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-29T12:32:05.142Z",
+  "lastUpdated": "2023-03-29T13:23:22.399Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/fda-approves-narcan-for-non-prescription-sale-8386c3e",
+      "headline": "FDA Approves Narcan for Non-Prescription Sale",
+      "timestamp": "2023-03-29T13:23:05.119Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
