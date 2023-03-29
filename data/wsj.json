@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-29T17:11:11.358Z",
+  "lastUpdated": "2023-03-29T18:42:19.091Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/dogs-and-cats-linked-to-reduced-child-food-allergies-b30755a",
+      "headline": "Dogs and Cats Linked to Reduced Child Food Allergies",
+      "timestamp": "2023-03-29T18:42:02.309Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
