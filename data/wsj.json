@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-30T04:17:59.794Z",
+  "lastUpdated": "2023-03-30T09:36:48.616Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/small-banks-are-losing-to-big-banks-their-customers-are-about-to-feel-it-178abb47",
+      "headline": "Small Banks Are Losing to Big Banks. Their Customers Are About to Feel It.",
+      "timestamp": "2023-03-30T09:36:33.936Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
