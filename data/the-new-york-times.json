@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-30T09:16:14.529Z",
+  "lastUpdated": "2023-03-30T15:16:03.819Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/30/technology/quiz-ai-chatbot-chatgpt-uses.html",
+      "headline": "Quiz: How Should I Use A.I. Chatbots Like ChatGPT?",
+      "timestamp": "2023-03-30T15:02:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
