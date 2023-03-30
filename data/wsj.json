@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-29T18:42:19.091Z",
+  "lastUpdated": "2023-03-30T04:17:59.794Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/exodus-from-americas-big-cities-slowed-last-year-as-pandemic-receded-d6ae7006",
+      "headline": "Exodus From America’s Big Cities Slowed Last Year as Pandemic Receded",
+      "timestamp": "2023-03-30T04:17:44.524Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
