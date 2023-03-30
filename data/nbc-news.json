@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-17T18:18:14.912Z",
+  "lastUpdated": "2023-03-30T17:13:25.708Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/air-quality-us-improved-2022-data-shows-rcna76568",
+      "headline": "Interactive: U.S. air quality improved in 2022. See how your city fared.",
+      "timestamp": "2023-03-30T16:06:35.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
