@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-31T15:15:26.956Z",
+  "lastUpdated": "2023-03-31T19:11:20.927Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/why-rats-and-new-york-city-are-perfect-for-each-other-2a46ab75",
+      "headline": "Why Rats and New York City Are Perfect for Each Other",
+      "timestamp": "2023-03-31T19:11:05.293Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
