@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-03-31T04:38:46.386Z",
+  "lastUpdated": "2023-03-31T09:36:55.925Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/powerful-people-on-race-and-politics-list/",
+      "headline": "The 40 Power Players to Watch",
+      "timestamp": null
+    },
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/powerful-people-on-race-and-politics-list/bad-bunny",
+      "headline": "Bad Bunny, for pressuring Puerto Rico's government",
+      "timestamp": null
+    },
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/powerful-people-on-race-and-politics-list/ketanji-brown-jackson",
+      "headline": "Ketanji Brown Jackson, for dominating Supreme Court hearings",
+      "timestamp": null
+    },
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/powerful-people-on-race-and-politics-list/ron-desantis",
+      "headline": "Ron DeSantis, for Florida's culture wars",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",

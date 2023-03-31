@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-30T09:36:48.616Z",
+  "lastUpdated": "2023-03-31T09:36:55.937Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/americans-are-losing-faith-in-college-education-wsj-norc-poll-finds-3a836ce1",
+      "headline": "WSJ News Exclusive | Americans Are Losing Faith in College Education, WSJ-NORC Poll Finds",
+      "timestamp": "2023-03-31T09:36:40.949Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
