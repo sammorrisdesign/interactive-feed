@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2023-03-30T16:20:17.102Z",
+  "lastUpdated": "2023-03-31T20:14:34.381Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "url": "https://www.cnn.com/interactive/2023/03/us/cnn-5-things-news-quiz-march-30-sec/",
+      "headline": "Test your news knowledge with these 10 questions",
+      "timestamp": null
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
