@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-03-31T09:36:55.925Z",
+  "lastUpdated": "2023-03-31T13:19:54.272Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/powerful-people-on-race-and-politics-list/karen-bass",
+      "headline": "Karen Bass, for acting on LA's homelessness",
+      "timestamp": null
+    },
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/powerful-people-on-race-and-politics-list/elon-musk",
+      "headline": "Elon Musk, for impacting Twitter's hate speech",
+      "timestamp": null
+    },
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/powerful-people-on-race-and-politics-list/bennie-thompson-liz-cheney",
+      "headline": "Liz Cheney & Bennie Thompson, for the Jan. 6 investigation",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",

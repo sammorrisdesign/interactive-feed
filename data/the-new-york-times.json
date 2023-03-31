@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-31T09:14:34.856Z",
+  "lastUpdated": "2023-03-31T13:19:54.264Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/31/crosswords/31lab-vietnam-answers.html",
+      "headline": "View the Solution",
+      "timestamp": "2023-03-31T13:00:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/31/crosswords/31lab-vietnam.html",
+      "headline": "Solve the Puzzle",
+      "timestamp": "2023-03-31T13:00:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
