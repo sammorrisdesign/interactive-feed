@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-20T11:13:26.460Z",
+  "lastUpdated": "2023-03-31T04:38:46.386Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/trump-indictment-podcast-transcript/",
+      "headline": "Our reporters break down Trump’s indictment",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
