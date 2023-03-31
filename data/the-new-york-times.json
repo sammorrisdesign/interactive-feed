@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-03-31T17:13:18.757Z",
+  "lastUpdated": "2023-03-31T23:13:24.174Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/31/sports/ncaabasketball/locker-room-celebrations-water-pour.html",
+      "headline": "When Every Win Means Water, Water Everywhere",
+      "timestamp": "2023-03-31T22:51:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/03/31/business/hair-loss-treatments.html",
+      "headline": "The Last Strand: Let’s Talk About Hair Loss",
+      "timestamp": "2023-03-31T22:51:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
