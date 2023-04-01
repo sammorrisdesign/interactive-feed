@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-31T19:11:20.927Z",
+  "lastUpdated": "2023-04-01T09:36:27.270Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/sunbelt-cities-nashville-and-austin-are-nations-hottest-job-markets-5a454a53",
+      "headline": "Sunbelt Cities Nashville and Austin Are Nation’s Hottest Job Markets",
+      "timestamp": "2023-04-01T09:36:12.607Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
