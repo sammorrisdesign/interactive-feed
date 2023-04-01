@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-01T09:36:27.270Z",
+  "lastUpdated": "2023-04-01T13:15:21.486Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-perils-and-pitfalls-that-bedevil-drivers-in-st-paul-99560e79",
+      "headline": "The Perils and Pitfalls That Bedevil Drivers in St. Paul",
+      "timestamp": "2023-04-01T13:15:05.935Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

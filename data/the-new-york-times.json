@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-01T03:36:33.602Z",
+  "lastUpdated": "2023-04-01T13:15:21.469Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/01/health/abortion-pill-safety.html",
+      "headline": "Are Abortion Pills Safe? Here’s the Evidence.",
+      "timestamp": "2023-04-01T13:05:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/01/opinion/ukraine-kyiv-war.html",
+      "headline": "What We Had to Lose",
+      "timestamp": "2023-04-01T13:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
