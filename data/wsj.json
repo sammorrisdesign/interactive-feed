@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-02T14:12:01.971Z",
+  "lastUpdated": "2023-04-02T18:36:48.348Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/rising-atlantic-ocean-engulfs-fishing-town-in-brazil-b1d69c2d",
+      "headline": "Rising Atlantic Ocean Engulfs Fishing Town in Brazil",
+      "timestamp": "2023-04-02T18:36:30.623Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
