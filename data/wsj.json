@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-01T13:15:21.486Z",
+  "lastUpdated": "2023-04-02T11:10:59.620Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-fatal-flaw-in-credit-suisses-last-ditch-attempt-to-save-itself-707d69f7",
+      "headline": "The Fatal Flaw in Credit Suisse’s Last-Ditch Attempt to Save Itself",
+      "timestamp": "2023-04-02T11:10:44.628Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
