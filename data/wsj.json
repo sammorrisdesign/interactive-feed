@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-02T11:10:59.620Z",
+  "lastUpdated": "2023-04-02T14:12:01.971Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/money-can-break-a-marriage-even-getting-more-of-it-bad93850",
+      "headline": "Money Can Break a Marriage, Even Getting More of It",
+      "timestamp": "2023-04-02T14:11:46.145Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
