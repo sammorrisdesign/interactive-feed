@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2022-12-19T11:12:46.092Z",
+  "lastUpdated": "2023-04-03T10:15:32.492Z",
   "articles": [
+    {
+      "publication": "El País",
+      "twitterHandle": "elpais_info",
+      "mastodonHandle": "el_pais@mastodon.social",
+      "url": "https://escuela.elpais.com/talleres/infografia-y-visualizacion/",
+      "headline": "Taller de Infografía y visualización",
+      "timestamp": "2023-04-03T10:15:26.093Z"
+    },
     {
       "publication": "El País",
       "twitterHandle": "elpais_info",
