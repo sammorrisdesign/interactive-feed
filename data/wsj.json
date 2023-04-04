@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-04T11:11:50.272Z",
+  "lastUpdated": "2023-04-04T14:14:43.206Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/fbi-headquarters-decision-pits-maryland-against-virginia-b1277c97",
+      "headline": "FBI Headquarters Decision Pits Maryland Against Virginia",
+      "timestamp": "2023-04-04T14:14:24.492Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
