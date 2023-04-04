@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-04T05:13:21.196Z",
+  "lastUpdated": "2023-04-04T11:11:50.272Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/masters-2023-liv-golf-mickelson-johnson-ecdf1f48",
+      "headline": "The Masters Is Feeling the Shockwaves of LIV Golf",
+      "timestamp": "2023-04-04T11:11:33.177Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
