@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-04-04T20:15:19.317Z",
+  "lastUpdated": "2023-04-04T21:38:34.867Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/04/us/elections/results-wisconsin-spring-elections.html",
+      "headline": "Wisconsin Spring Election Results",
+      "timestamp": "2023-04-04T21:17:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/04/us/elections/results-wisconsin-supreme-court.html",
+      "headline": "Wisconsin Supreme Court Election Results",
+      "timestamp": "2023-04-04T21:17:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/04/us/elections/results-chicago-mayor-runoff.html",
+      "headline": "Chicago Mayor Runoff Election Results",
+      "timestamp": "2023-04-04T21:17:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/04/us/elections/results-chicago-city-council-runoffs.html",
+      "headline": "Chicago City Council Runoff Election Results",
+      "timestamp": "2023-04-04T21:17:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
