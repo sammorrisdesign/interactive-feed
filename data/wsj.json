@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-04T14:14:43.206Z",
+  "lastUpdated": "2023-04-04T15:14:52.315Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ai-chatgpt-hollywood-intellectual-property-spongebob-81fd5d15",
+      "headline": "AI Shakes Hollywood’s Creative Foundation",
+      "timestamp": "2023-04-04T15:14:35.734Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
