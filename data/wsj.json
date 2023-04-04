@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-03T12:28:01.197Z",
+  "lastUpdated": "2023-04-04T05:13:21.196Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/signature-bank-insiders-sold-100-million-in-stock-during-crypto-surge-a9f77615",
+      "headline": "WSJ News Exclusive | Signature Bank Insiders Sold $100 Million in Stock During Crypto Surge",
+      "timestamp": "2023-04-04T05:13:05.688Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
