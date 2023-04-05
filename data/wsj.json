@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-05T09:36:46.454Z",
+  "lastUpdated": "2023-04-05T12:34:44.014Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-robots-have-finally-come-for-my-job-34a69146",
+      "headline": "The Robots Have Finally Come for My Job",
+      "timestamp": "2023-04-05T12:34:28.766Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ukraine-war-and-inflation-to-limit-global-trade-growth-in-2023-wto-says-c3d7adee",
+      "headline": "Ukraine War and Inflation to Limit Global Trade Growth in 2023, WTO Says",
+      "timestamp": "2023-04-05T12:34:28.766Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
