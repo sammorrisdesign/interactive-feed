@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-04T15:14:52.315Z",
+  "lastUpdated": "2023-04-05T01:54:36.591Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/heres-the-trump-indictment-with-actual-names-added-332ced72",
+      "headline": "Here’s the Trump Indictment With Actual Names Added",
+      "timestamp": "2023-04-05T01:54:19.927Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
