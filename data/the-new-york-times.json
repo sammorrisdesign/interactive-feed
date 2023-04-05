@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-05T09:15:57.836Z",
+  "lastUpdated": "2023-04-05T21:13:55.107Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/05/opinion/trump-indictment-roundtable.html",
+      "headline": "Four Opinion Writers on Trump’s Indictment and ‘The Borderlands of Illegality’",
+      "timestamp": "2023-04-05T20:50:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
