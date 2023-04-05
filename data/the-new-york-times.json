@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-04T22:36:32.602Z",
+  "lastUpdated": "2023-04-05T09:15:57.836Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/05/sports/golf/liv-golf-trump-mohammed-bin-salman.html",
+      "headline": "The World of LIV Golf",
+      "timestamp": "2023-04-05T09:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
