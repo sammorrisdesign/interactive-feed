@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-05T15:17:16.092Z",
+  "lastUpdated": "2023-04-06T09:36:48.995Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/google-ceo-sundar-pichai-says-search-to-feature-chat-ai-2fa0f54c",
+      "headline": "WSJ News Exclusive | Google CEO Sundar Pichai Says Search to Feature Chat AI",
+      "timestamp": "2023-04-06T09:36:31.069Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
