@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-05T21:13:55.107Z",
+  "lastUpdated": "2023-04-06T01:07:24.394Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/05/arts/design/picasso-death.html",
+      "headline": "Picasso: Love Him or Hate Him?",
+      "timestamp": "2023-04-05T23:43:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
