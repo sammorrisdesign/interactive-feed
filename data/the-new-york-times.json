@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-04-06T01:07:24.394Z",
+  "lastUpdated": "2023-04-06T09:13:52.336Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/06/world/europe/russia-offensive-maps.html",
+      "headline": "How Russia’s Offensive Ran Aground",
+      "timestamp": "2023-04-06T09:00:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/06/upshot/pandemic-safety-net-medicaid.html",
+      "headline": "The U.S. Built a European-Style Welfare State. It’s Largely Over.",
+      "timestamp": "2023-04-06T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/06/realestate/06hunt-denlinger.html",
+      "headline": "They Had $350,000 and a Dream to Live Together. Could They Make It in Manhattan?",
+      "timestamp": "2023-04-06T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/06/travel/things-to-do-tokyo.html",
+      "headline": "36 Hours in Tokyo",
+      "timestamp": "2023-04-06T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
