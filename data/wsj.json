@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-06T09:36:48.995Z",
+  "lastUpdated": "2023-04-06T18:17:25.512Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/irs-plan-to-spend-80-billion-includes-real-time-tax-alerts-audits-of-wealthy-people-963489da",
+      "headline": "IRS Plan to Spend $80 Billion Includes Real-Time Tax Alerts, Audits of Wealthy People",
+      "timestamp": "2023-04-06T18:17:06.909Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
