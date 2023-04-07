@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-07T09:37:18.593Z",
+  "lastUpdated": "2023-04-07T12:26:37.962Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/easter-holiday-churches-covid-8699f4b0",
+      "headline": "Churches Gather Diminished Flocks for Fourth Easter Since Covid",
+      "timestamp": "2023-04-07T12:26:14.105Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
