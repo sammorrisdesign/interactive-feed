@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-08T02:09:02.383Z",
+  "lastUpdated": "2023-04-08T02:39:45.162Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/07/us/court-decision-keeping-mifepristone-available.html",
+      "headline": "Read the Court Decision Ordering the F.D.A. to Keep Mifepristone Available",
+      "timestamp": "2023-04-08T02:08:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
