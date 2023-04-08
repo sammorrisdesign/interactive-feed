@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-08T02:39:45.162Z",
+  "lastUpdated": "2023-04-08T10:13:48.199Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/08/opinion/covid-culture-tiktok-bo-burnham.html",
+      "headline": "17 Pop Culture Moments That Define The Covid Era",
+      "timestamp": "2023-04-08T10:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
