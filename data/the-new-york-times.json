@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-07T17:36:28.812Z",
+  "lastUpdated": "2023-04-08T02:09:02.383Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/08/us/court-decision-invalidating-approval-of-mifepristone.html",
+      "headline": "Read the Court Decision Invalidating F.D.A. Approval of Mifepristone",
+      "timestamp": "2023-04-08T02:00:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
