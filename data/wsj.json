@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-08T09:36:37.385Z",
+  "lastUpdated": "2023-04-09T09:36:25.301Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/as-tech-jobs-disappear-silicon-valley-veterans-reset-their-careers-dbdb983",
+      "headline": "As Tech Jobs Disappear, Silicon Valley Veterans Reset Their Careers",
+      "timestamp": "2023-04-09T09:36:11.725Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/beyond-asthma-designing-inhaled-drugs-to-fight-more-diseases-5cacea4f",
+      "headline": "Beyond Asthma: Designing Inhaled Drugs to Fight More Diseases",
+      "timestamp": "2023-04-09T09:36:11.725Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
