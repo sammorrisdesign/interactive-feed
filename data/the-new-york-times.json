@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-10T07:13:30.417Z",
+  "lastUpdated": "2023-04-10T19:36:59.096Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/spelling-bee-buddy.html",
+      "headline": "Spelling Bee Buddy: Your Personalized, Daily Puzzle Hints",
+      "timestamp": "2023-04-10T19:14:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
