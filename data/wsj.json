@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-09T09:36:25.301Z",
+  "lastUpdated": "2023-04-10T14:12:56.887Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/occidental-plans-to-suck-carbon-from-the-airso-it-can-keep-pumping-oil-2990c5a",
+      "headline": "Occidental Plans to Suck Carbon From the Air—So It Can Keep Pumping Oil",
+      "timestamp": "2023-04-10T14:12:39.646Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
