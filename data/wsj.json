@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-10T17:12:33.110Z",
+  "lastUpdated": "2023-04-11T13:18:12.816Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/is-russias-economy-growing-or-shrinking-it-depends-on-the-forecaster-41e7af0c",
+      "headline": "Is Russia’s Economy Growing or Shrinking? It Depends on the Forecaster.",
+      "timestamp": "2023-04-11T13:17:57.041Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
