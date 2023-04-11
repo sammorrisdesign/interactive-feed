@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-11T13:18:12.816Z",
+  "lastUpdated": "2023-04-11T15:36:27.681Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/a-knee-replacement-that-talks-to-your-doctor-its-just-the-beginning-2f9940b1",
+      "headline": "A Knee Replacement That Talks to Your Doctor? It’s Just the Beginning.",
+      "timestamp": "2023-04-11T15:36:11.817Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
