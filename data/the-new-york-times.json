@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-10T19:36:59.096Z",
+  "lastUpdated": "2023-04-11T01:09:19.002Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/10/opinion/older-americans-focus-group.html",
+      "headline": "What Happened to America? We Asked 12 People in Their 70s and 80s.",
+      "timestamp": "2023-04-11T00:43:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
