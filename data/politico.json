@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-05T01:54:36.582Z",
+  "lastUpdated": "2023-04-12T10:15:25.586Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/50-mayors-us-cities/crime/",
+      "headline": "America's mayors open up about their battles with crime, gun violence",
+      "timestamp": null
+    },
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/50-mayors-us-cities/issues/",
+      "headline": "We asked 50 mayors: What keeps you up at night?",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
