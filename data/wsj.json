@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-12T13:18:27.964Z",
+  "lastUpdated": "2023-04-12T14:13:29.371Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tick-season-diseases-lyme-backyards-39599226",
+      "headline": "Ticks Are Bringing Disease to a Backyard Near You",
+      "timestamp": "2023-04-12T14:13:07.834Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
