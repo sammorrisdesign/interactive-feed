@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-12T10:15:25.586Z",
+  "lastUpdated": "2023-04-12T16:19:14.713Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/50-mayors-us-cities/",
+      "headline": "50 mayors take us inside their biggest challenges",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
