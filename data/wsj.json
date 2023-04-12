@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-11T15:36:27.681Z",
+  "lastUpdated": "2023-04-12T09:36:27.779Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-inflation-march-2023-consumer-price-index-fa6eba99",
+      "headline": "Inflation Report to Show Whether Price Pressures Eased Again in March",
+      "timestamp": "2023-04-12T09:36:08.328Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
