@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-12T09:36:27.779Z",
+  "lastUpdated": "2023-04-12T13:18:27.964Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/texas-border-bridges-race-to-expand-as-trade-grows-with-mexico-c1878199",
+      "headline": "Texas Border Bridges Race to Expand as Trade Grows With Mexico",
+      "timestamp": "2023-04-12T13:18:11.754Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
