@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-12T14:13:29.371Z",
+  "lastUpdated": "2023-04-12T15:15:11.965Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-you-can-use-social-media-to-support-evan-gershkovich-c7bb2167",
+      "headline": "How You Can Use Social Media to Support Evan Gershkovich",
+      "timestamp": "2023-04-12T15:14:53.852Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
