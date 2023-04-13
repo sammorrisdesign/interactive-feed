@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-13T13:18:19.502Z",
+  "lastUpdated": "2023-04-13T15:36:43.457Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.stg.nytimes.com/interactive/2023/04/13/arts/imitate/13-04_interactive-for-bodega.html",
+      "headline": "Headline Testing 1.2.3",
+      "timestamp": "2023-04-13T12:54:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
