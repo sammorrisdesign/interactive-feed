@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-04-13T07:13:59.996Z",
+  "lastUpdated": "2023-04-13T09:14:31.122Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/13/realestate/13hunt-minneapolis.html",
+      "headline": "Exploring the Lakes of Minneapolis With $350,000: Could She Afford Three Bedrooms?",
+      "timestamp": "2023-04-13T09:00:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/13/us/abortion-pill-order-online-mifepristone.html",
+      "headline": "Inside the Online Market for Overseas Abortion Pills",
+      "timestamp": "2023-04-13T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/13/travel/things-to-do-las-vegas.html",
+      "headline": "36 Hours in Las Vegas",
+      "timestamp": "2023-04-13T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
