@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-13T09:14:31.122Z",
+  "lastUpdated": "2023-04-13T11:36:31.293Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/13/realestate/three-bedroom-house-minneapolis.html",
+      "headline": "Exploring the Lakes of Minneapolis With $350,000: Could She Afford Three Bedrooms?",
+      "timestamp": "2023-04-13T09:00:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
