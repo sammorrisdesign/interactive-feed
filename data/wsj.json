@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-13T13:18:19.520Z",
+  "lastUpdated": "2023-04-13T16:18:18.747Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/more-married-couples-earn-equal-pay-few-do-equal-housework-dda54c66",
+      "headline": "More Married Couples Earn Equal Pay, Few Do Equal Housework",
+      "timestamp": "2023-04-13T16:18:00.427Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
