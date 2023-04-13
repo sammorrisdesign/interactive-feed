@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-12T18:17:43.661Z",
+  "lastUpdated": "2023-04-13T04:17:29.159Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.stg.nytimes.com/interactive/2023/04/12/dearsugars/13-04-new-test.html",
+      "headline": "new test headline",
+      "timestamp": "2023-04-13T03:51:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.stg.nytimes.com/interactive/2023/04/12/canada/13-04-standard-int.html",
+      "headline": "test headline for standard",
+      "timestamp": "2023-04-13T03:45:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
