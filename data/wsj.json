@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-13T09:36:27.478Z",
+  "lastUpdated": "2023-04-13T13:18:19.520Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/a-10-warthog-why-is-america-still-flying-cold-war-relic-f34f607f",
+      "headline": "Why Is America Still Flying the A-10 Warthog, a Cold War Relic?",
+      "timestamp": "2023-04-13T13:18:05.124Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
