@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-13T16:18:18.747Z",
+  "lastUpdated": "2023-04-14T19:11:28.531Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/india-china-population-economy-9dd7bf27",
+      "headline": "India’s Population Surpasses China’s, Shifting the World’s ‘Center of Gravity’",
+      "timestamp": "2023-04-14T19:11:11.064Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
