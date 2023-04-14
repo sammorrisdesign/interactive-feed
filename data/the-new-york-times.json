@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-13T15:36:43.457Z",
+  "lastUpdated": "2023-04-14T09:36:36.355Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/14/climate/electric-car-heater-everything.html",
+      "headline": "How Electrifying Everything Became a Key Climate Solution",
+      "timestamp": "2023-04-14T09:17:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
