@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-14T15:14:34.995Z",
+  "lastUpdated": "2023-04-14T16:18:56.216Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/14/us/teixeira-docs.html",
+      "headline": "Read the criminal complaint against Jack Teixeira",
+      "timestamp": "2023-04-14T15:08:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
