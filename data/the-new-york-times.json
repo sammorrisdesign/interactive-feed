@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-14T19:36:26.423Z",
+  "lastUpdated": "2023-04-14T22:36:20.681Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/14/upshot/up-ai-uses.html",
+      "headline": "35 Ways Real People Are Using A.I. Right Now",
+      "timestamp": "2023-04-14T22:25:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
