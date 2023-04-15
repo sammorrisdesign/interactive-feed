@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-14T19:11:28.531Z",
+  "lastUpdated": "2023-04-15T12:25:17.167Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/california-braces-for-more-flooding-when-record-snowpack-melts-13bf9bcd",
+      "headline": "California Braces for More Flooding When Record Snowpack Melts",
+      "timestamp": "2023-04-15T12:24:59.790Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
