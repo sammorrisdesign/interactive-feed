@@ -10,7 +10,7 @@ module.exports = {
 
   handlise: string => {
     if (string) {
-      return string.replace(/[^\w\s]/gi, '').replace(/ /g, '-').toLowerCase();
+      return string.normalize("NFD").replace(/[^\w\s]/gi, '').replace(/ /g, '-').toLowerCase();
     }
   },
 
