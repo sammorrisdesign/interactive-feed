@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-15T12:25:17.167Z",
+  "lastUpdated": "2023-04-16T09:36:53.988Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/a-last-minute-tax-guide-for-procrastinators-e0b853b1",
+      "headline": "A Last-Minute Tax Guide for Procrastinators",
+      "timestamp": "2023-04-16T09:36:33.222Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
