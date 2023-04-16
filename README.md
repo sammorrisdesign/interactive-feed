@@ -41,7 +41,7 @@ All are required fields.
 Sources can look different depending on the `type` - a required field in each source object. The `type` basically tells [`src/fetchers.js`](src/fetchers.js) how it should handle the rest of the information. Some publications, like The Guardian and New York Times have their own `type` which refer to publication specific APIs. The other two types are `XML` and `Twitter`.
 
 ### Source level options for `Twitter`.
-Sources set to `"type": "twitter"` get articles that are tweeted from a specific Twitter feed.
+Sources set to `"type": "Twitter"` get articles that are tweeted from a specific Twitter feed.
 
 | Name        | Type     | Description                                                                                                                                                        |
 | ----------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |

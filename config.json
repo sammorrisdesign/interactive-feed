@@ -397,6 +397,15 @@
         "twitterID": "906833760972267521",
         "domain": "cw.com.tw/graphics"
       }]
+    },
+    {
+      "publication": "Les Échos",
+      "twitterHandle": "LesEchos",
+      "sources": [{
+        "type": "Twitter",
+        "twitterID": "2823329380",
+        "domain": "https://media.lesechos.fr/infographie/"
+      }]
     }
   ]
 }
