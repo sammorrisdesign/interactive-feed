@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-16T09:36:53.988Z",
+  "lastUpdated": "2023-04-17T14:13:57.422Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/want-a-tax-break-on-an-ev-youll-have-to-buy-an-american-brand-edd8883a",
+      "headline": "Want a Tax Break on an EV? You’ll Have to Buy an American Brand.",
+      "timestamp": "2023-04-17T14:13:39.940Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
