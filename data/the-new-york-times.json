@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-16T09:13:09.296Z",
+  "lastUpdated": "2023-04-17T09:15:11.805Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/17/science/dark-sky-new-mexico.html",
+      "headline": "The Star Partyers of New Mexico",
+      "timestamp": "2023-04-17T09:00:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/17/magazine/stephen-a-smith-interview.html",
+      "headline": "Stephen A. Smith Is Under No Obligation to Tell You Want You Want to Hear",
+      "timestamp": "2023-04-17T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
