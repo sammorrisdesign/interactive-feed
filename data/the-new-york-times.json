@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-18T02:16:19.028Z",
+  "lastUpdated": "2023-04-18T13:18:52.942Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.stg.nytimes.com/interactive/2023/04/18/business/18-Interactive.html",
+      "headline": "standard interactive",
+      "timestamp": "2023-04-18T12:09:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
