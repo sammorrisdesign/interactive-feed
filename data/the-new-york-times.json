@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-04-18T20:37:06.389Z",
+  "lastUpdated": "2023-04-18T21:36:25.870Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/03/01/us/elections/results-texas-us-house-district-8.html",
+      "headline": "Texas Eighth Congressional District Primary Election Results",
+      "timestamp": "2023-04-18T21:04:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/18/us/18lab-puzzle5-solution.html",
+      "headline": "View the Solution",
+      "timestamp": "2023-04-18T20:55:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/18/crosswords/18lab-puzzle5.html",
+      "headline": "Solve the Puzzle",
+      "timestamp": "2023-04-18T20:50:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
