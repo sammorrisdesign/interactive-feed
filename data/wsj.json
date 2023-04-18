@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-17T15:15:33.207Z",
+  "lastUpdated": "2023-04-18T10:15:38.927Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/turbulence-flights-injuries-safety-796cbe1",
+      "headline": "Heavy Turbulence on Flights Is Likely to Get Worse",
+      "timestamp": "2023-04-18T10:15:23.087Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
