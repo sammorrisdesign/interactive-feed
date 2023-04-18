@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-17T18:18:19.514Z",
+  "lastUpdated": "2023-04-18T02:16:19.028Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/surry-virginia-covid-cases.html",
+      "headline": "Track Covid-19 in Surry County, Virginia",
+      "timestamp": "2023-04-18T12:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/morris-texas-covid-cases.html",
+      "headline": "Track Covid-19 in Morris County, Texas",
+      "timestamp": "2023-04-18T12:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
