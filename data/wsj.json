@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-18T10:15:38.927Z",
+  "lastUpdated": "2023-04-18T12:28:46.695Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/chinas-consumers-give-economy-a-post-covid-boost-823b884e",
+      "headline": "China’s Consumers Give Economy a Post-Covid Boost",
+      "timestamp": "2023-04-18T12:28:26.748Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
