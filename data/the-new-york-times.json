@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-04-18T17:11:23.032Z",
+  "lastUpdated": "2023-04-18T20:37:06.389Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.stg.nytimes.com/interactive/2022/09/15/us/elections/results-texas-us-house-district-8.html",
+      "headline": "Texas Eighth Congressional District Primary Election Results",
+      "timestamp": "2023-04-18T19:18:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.stg.nytimes.com/interactive/2022/09/15/us/elections/results-texas-land-commissioner.html",
+      "headline": "Texas Land Commissioner Primary Election Results",
+      "timestamp": "2023-04-18T19:15:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.stg.nytimes.com/interactive/2022/09/15/us/elections/results-texas-railroad-commissioner.html",
+      "headline": "Texas Railroad Commissioner Primary Election Results",
+      "timestamp": "2023-04-18T19:15:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
