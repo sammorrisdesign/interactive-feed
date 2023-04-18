@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-18T12:28:46.695Z",
+  "lastUpdated": "2023-04-18T15:17:17.155Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/turkey-earthquake-construction-death-toll-9193952c",
+      "headline": "Decades of Negligence and Mismanagement Made Turkey’s Earthquake Deadlier",
+      "timestamp": "2023-04-18T15:16:55.503Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
