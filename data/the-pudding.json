@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-03-21T14:12:05.220Z",
+  "lastUpdated": "2023-04-19T15:15:30.425Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/games/where",
+      "headline": "Where in the USA is this?",
+      "timestamp": "2023-04-19T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
