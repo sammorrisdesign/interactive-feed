@@ -33,6 +33,9 @@ const fetchers = {
       articles = articles.filter(article => !article.headline.includes("News Quiz"));
       articles = articles.filter(article => !article.headline.includes("Weekender"));
 
+      // filter out staging pieces that some how end up on their API
+      articles = articles.filter(article => !article.url.includes('stg.nytimes'));
+
       // filter out pilot/burst templated interactives
       for (let article of articles) {
         const articleResponse = await fetch(article.url);
