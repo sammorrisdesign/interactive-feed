@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-19T10:15:40.699Z",
+  "lastUpdated": "2023-04-19T13:18:15.229Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/weight-loss-surgery-obesity-children-ed0d4261",
+      "headline": "More Kids Get Weight-Loss Surgery to Treat Obesity",
+      "timestamp": "2023-04-19T13:18:00.292Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
