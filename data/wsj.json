@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-18T15:17:17.155Z",
+  "lastUpdated": "2023-04-19T10:15:40.699Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-k-inflation-stays-above-10-raising-prospect-of-further-interest-rate-increases-11fe4e18",
+      "headline": "U.K. Inflation Stays Above 10%, Raising Prospect of Further Interest-Rate Increases",
+      "timestamp": "2023-04-19T10:15:24.798Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
