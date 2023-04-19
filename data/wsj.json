@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-19T13:18:15.229Z",
+  "lastUpdated": "2023-04-19T21:12:43.256Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/cdc-backs-first-single-dose-covid-shot-targeting-omicron-68ae3bb6",
+      "headline": "CDC Backs First Single-Dose Covid Shot Targeting Omicron",
+      "timestamp": "2023-04-19T21:12:26.212Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
