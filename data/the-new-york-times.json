@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-19T09:14:40.040Z",
+  "lastUpdated": "2023-04-19T11:36:34.060Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.stg.nytimes.com/interactive/2023/04/19/arts/19-04-new-int-update.html",
+      "headline": "new test headline",
+      "timestamp": "2023-04-19T10:52:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
