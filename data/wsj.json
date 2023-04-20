@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-20T11:36:37.919Z",
+  "lastUpdated": "2023-04-20T14:36:49.561Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/home-sales-fell-in-march-as-mortgage-rates-weighed-on-market-db88aac7",
+      "headline": "Home Sales Fell in March as Mortgage Rates Weighed on Market",
+      "timestamp": "2023-04-20T14:36:32.193Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
