@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-20T09:14:14.810Z",
+  "lastUpdated": "2023-04-20T09:36:28.851Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/20/learning/20VocabQuizLN2.html",
+      "headline": "Vocabulary in Context: 'Top Chef'",
+      "timestamp": "2023-04-20T09:30:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

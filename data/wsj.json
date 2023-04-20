@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-19T21:12:43.256Z",
+  "lastUpdated": "2023-04-20T09:36:28.872Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/a-record-number-of-journalists-were-detained-worldwide-prior-to-evan-gershkovichs-arrest-cae34b14",
+      "headline": "A Record Number of Journalists Were Detained Worldwide Prior to Evan Gershkovich’s Arrest",
+      "timestamp": "2023-04-20T09:36:10.482Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
