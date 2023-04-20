@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-04-19T11:36:34.060Z",
+  "lastUpdated": "2023-04-20T09:14:14.810Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/20/t-magazine/women-artists-culture-mentors.html",
+      "headline": "Legendary Female Artists on the Younger Women Who Inspire Them",
+      "timestamp": "2023-04-20T09:02:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/20/realestate/20hunt-chiu.html",
+      "headline": "Seeking a Fresh Start in Connecticut: In a House or a Condo?",
+      "timestamp": "2023-04-20T09:00:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/20/travel/things-to-do-lisbon.html",
+      "headline": "36 Hours in Lisbon",
+      "timestamp": "2023-04-20T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
