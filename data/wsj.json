@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-21T09:14:28.749Z",
+  "lastUpdated": "2023-04-21T11:12:05.558Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/europe-glaciers-melt-record-pace-315eeafe",
+      "headline": "Europe’s Glaciers Melted at Record Rate After Double Whammy",
+      "timestamp": "2023-04-21T11:11:48.058Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
