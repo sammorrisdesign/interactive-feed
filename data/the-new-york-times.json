@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-21T09:14:28.728Z",
+  "lastUpdated": "2023-04-21T23:13:54.823Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/21/us/23-supreme-court-order.html",
+      "headline": "Read the document",
+      "timestamp": "2023-04-21T22:58:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
