@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-21T11:12:05.558Z",
+  "lastUpdated": "2023-04-21T14:13:18.572Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/happiest-people-america-poll-ef7c854c",
+      "headline": "The Happiest People in America Are Older, Female and Believe in God",
+      "timestamp": "2023-04-21T14:12:54.815Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
