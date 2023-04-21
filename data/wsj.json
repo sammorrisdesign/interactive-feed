@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-20T14:36:49.561Z",
+  "lastUpdated": "2023-04-21T09:14:28.749Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/donald-trump-tops-ron-desantis-in-test-of-gop-presidential-field-wsj-poll-finds-88c84663",
+      "headline": "WSJ News Exclusive | Donald Trump Tops Ron DeSantis in Test of GOP Presidential Field, WSJ Poll Finds",
+      "timestamp": "2023-04-21T09:14:08.939Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

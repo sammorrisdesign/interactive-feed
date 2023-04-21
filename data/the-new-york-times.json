@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-20T14:36:49.541Z",
+  "lastUpdated": "2023-04-21T09:14:28.728Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/21/science/parrots-video-chat-facetime.html",
+      "headline": "Polly Wants a Video Chat",
+      "timestamp": "2023-04-21T09:00:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/21/opinion/earth-day-climate-change-poem.html",
+      "headline": "Elegy for an Altered Planet",
+      "timestamp": "2023-04-21T09:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
