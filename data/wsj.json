@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-22T04:17:13.532Z",
+  "lastUpdated": "2023-04-22T09:36:31.242Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/americans-escaping-pricey-cities-bring-higher-housing-costs-inflation-with-them-a3118424",
+      "headline": "Americans Escaping Pricey Cities Bring Higher Housing Costs, Inflation With Them",
+      "timestamp": "2023-04-22T09:36:13.151Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
