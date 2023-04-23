@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-22T09:36:31.242Z",
+  "lastUpdated": "2023-04-23T16:18:01.451Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/climate-legislation-inflation-reduction-act-small-towns-eb0ce798",
+      "headline": "Small Towns Chase America’s $3 Trillion Climate Gold Rush",
+      "timestamp": "2023-04-23T16:17:41.874Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
