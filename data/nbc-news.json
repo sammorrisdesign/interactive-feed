@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-08T14:11:54.320Z",
+  "lastUpdated": "2023-04-24T16:19:14.006Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/water-pfas-clean-costs-trickle-rcna80504",
+      "headline": "Water PFAS clean-up costs could trickle down",
+      "timestamp": "2023-04-24T15:43:12.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
