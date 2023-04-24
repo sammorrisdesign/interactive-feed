@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-24T09:36:39.798Z",
+  "lastUpdated": "2023-04-24T12:28:26.581Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/make-this-simple-move-to-get-more-return-on-your-cash-3c554452",
+      "headline": "Make This Simple Move to Get More Return on Your Cash",
+      "timestamp": "2023-04-24T12:28:06.599Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
