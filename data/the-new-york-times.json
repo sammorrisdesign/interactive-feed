@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-24T12:28:26.563Z",
+  "lastUpdated": "2023-04-25T03:15:19.620Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/24/magazine/dr-fauci-pandemic.html",
+      "headline": "Dr. Fauci Looks Back: ‘Something Clearly Went Wrong’",
+      "timestamp": "2023-04-25T03:00:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
