@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-24T12:28:26.581Z",
+  "lastUpdated": "2023-04-25T09:36:22.688Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/americas-climate-adaptation-ambitions-are-coming-to-life-in-coastal-virginia-c99774bd",
+      "headline": "America’s Climate-Adaptation Ambitions Are Coming to Life in Coastal Virginia",
+      "timestamp": "2023-04-25T09:36:07.103Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
