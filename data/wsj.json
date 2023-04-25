@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-25T09:36:22.688Z",
+  "lastUpdated": "2023-04-25T22:13:34.183Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-says-russias-military-actions-in-syria-raise-risk-of-escalation-7a858d77",
+      "headline": "U.S. Says Russia’s Military Actions in Syria Raise Risk of Escalation",
+      "timestamp": "2023-04-25T22:13:16.593Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
