@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-25T22:13:34.183Z",
+  "lastUpdated": "2023-04-26T09:36:38.322Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/spacs-delivered-easy-money-but-now-companies-are-running-out-f086c255",
+      "headline": "SPACs Delivered Easy Money, but Now Companies Are Running Out",
+      "timestamp": "2023-04-26T09:36:22.198Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
