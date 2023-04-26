@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-25T21:12:41.496Z",
+  "lastUpdated": "2023-04-26T01:10:42.974Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/25/business/tiktok-ban.html",
+      "headline": "Lawmakers Want to Ban TikTok. Here’s What Users Say Is at Stake.",
+      "timestamp": "2023-04-26T01:03:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
