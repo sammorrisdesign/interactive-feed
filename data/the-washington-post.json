@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-04-24T10:15:41.192Z",
+  "lastUpdated": "2023-04-26T10:15:34.563Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/national-security/interactive/2023/scif-room-meaning-classified/",
+      "headline": "Inside the fortified rooms securing U.S. secrets",
+      "timestamp": "2023-04-26T10:00:22.587Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/ukraine-war-status-resources-brookings/",
+      "headline": "What the data tells us about the status of the Ukraine war",
+      "timestamp": "2023-04-26T10:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
