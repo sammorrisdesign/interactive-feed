@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-26T01:10:42.974Z",
+  "lastUpdated": "2023-04-26T09:14:19.921Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/26/opinion/road-deaths-racial-gap.html",
+      "headline": "American Road Deaths Show an Alarming Racial Gap",
+      "timestamp": "2023-04-26T09:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
