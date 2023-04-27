@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-27T13:18:01.863Z",
+  "lastUpdated": "2023-04-27T14:13:23.984Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/startups-race-to-kill-forever-chemicals-1eae23af",
+      "headline": "Startups Race to Kill ‘Forever Chemicals’",
+      "timestamp": "2023-04-27T14:12:59.854Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
