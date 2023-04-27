@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-04-27T02:45:53.153Z",
+  "lastUpdated": "2023-04-27T09:14:04.269Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/27/realestate/mexico-playa-del-carmen-apartment.html",
+      "headline": "Two Americans Take a Chance in Playa del Carmen, Mexico: Which Condo Did They Buy?",
+      "timestamp": "2023-04-27T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/27/travel/things-to-do-philadelphia.html",
+      "headline": "36 Hours in Philadelphia",
+      "timestamp": "2023-04-27T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
