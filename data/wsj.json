@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-26T12:54:13.493Z",
+  "lastUpdated": "2023-04-27T09:36:25.261Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-gdp-economic-growth-first-quarter-2023-2ff4348c",
+      "headline": "GDP Report to Show Pace of U.S. Growth in First Quarter",
+      "timestamp": "2023-04-27T09:36:09.210Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
