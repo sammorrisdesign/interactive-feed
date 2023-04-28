@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-28T13:17:10.734Z",
+  "lastUpdated": "2023-04-28T22:13:06.034Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/28/fashion/karl-lagerfeld-met-gala-quiz.html",
+      "headline": "Quiz: How Well Do You Know Karl Lagerfeld?",
+      "timestamp": "2023-04-28T22:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
