@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-27T14:13:23.984Z",
+  "lastUpdated": "2023-04-28T09:36:36.225Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/employment-cost-index-q1-2023-personal-consumption-expenditures-price-index-march2023-1d4a191",
+      "headline": "Wage Growth, Inflation Data to Inform Fed Before Rate Decision",
+      "timestamp": "2023-04-28T09:36:17.730Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
