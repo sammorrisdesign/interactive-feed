@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-17T12:55:24.780Z",
+  "lastUpdated": "2023-04-28T10:15:08.629Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/thirsties-awards-congress-10-biggest-attention-seekers/",
+      "headline": "The Award for Thirstiest Member of Congress Goes to …",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
