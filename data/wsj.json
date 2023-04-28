@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-28T09:36:36.225Z",
+  "lastUpdated": "2023-04-28T13:17:10.758Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-covid-19-deaths-and-hospitalizations-near-new-lows-9151bc18",
+      "headline": "U.S. Covid-19 Deaths and Hospitalizations Near New Lows",
+      "timestamp": "2023-04-28T13:16:51.903Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
