@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-30T09:36:27.529Z",
+  "lastUpdated": "2023-04-30T10:14:18.470Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/victory-elusive-for-russians-in-grinding-battle-in-ukraines-east-ea2e6246",
+      "headline": "Victory Elusive for Russians in Grinding Battle in Ukraine’s East",
+      "timestamp": "2023-04-30T10:14:03.597Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
