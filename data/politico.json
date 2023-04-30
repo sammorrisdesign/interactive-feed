@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-28T10:15:08.629Z",
+  "lastUpdated": "2023-04-30T11:36:26.957Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://politico.com/interactives/2023/tiktok-news-hell-media",
+      "headline": "My Descent Into TikTok News Hell",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
