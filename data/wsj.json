@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-28T13:17:10.758Z",
+  "lastUpdated": "2023-04-30T09:36:27.529Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/lawmakers-crack-down-on-wind-turbine-lights-that-flash-all-night-21d4b815",
+      "headline": "Lawmakers Crack Down on Wind-Turbine Lights That Flash All Night",
+      "timestamp": "2023-04-30T09:36:11.769Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
