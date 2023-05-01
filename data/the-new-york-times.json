@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-28T22:13:06.034Z",
+  "lastUpdated": "2023-05-01T10:15:46.948Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/04/28/nyregion/heavy-d-sculpture-mount-vernon.html",
+      "headline": "A Memorial for ‘The Rapper Your Mother Liked’",
+      "timestamp": "2023-04-28T22:07:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
