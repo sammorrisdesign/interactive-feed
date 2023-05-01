@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-01T12:27:18.611Z",
+  "lastUpdated": "2023-05-01T20:36:45.963Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/jamie-dimon-wins-again-in-first-republic-bank-deal-f17f3b65",
+      "headline": "Jamie Dimon Wins Again in First Republic Bank Deal",
+      "timestamp": "2023-05-01T20:36:28.255Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
