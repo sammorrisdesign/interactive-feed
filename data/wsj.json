@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-30T10:14:18.470Z",
+  "lastUpdated": "2023-05-01T12:27:18.611Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/first-republic-bank-collapse-why-banking-crisis-61660d96",
+      "headline": "Why First Republic Bank Collapsed",
+      "timestamp": "2023-05-01T12:27:00.505Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
