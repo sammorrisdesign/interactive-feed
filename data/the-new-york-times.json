@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-05-02T19:36:23.168Z",
+  "lastUpdated": "2023-05-02T20:14:32.633Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/05/24/us/elections/results-alabama.html",
+      "headline": "Alabama Primary Election Results",
+      "timestamp": "2023-05-02T20:05:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/05/24/us/elections/results-minnesota-us-house-district-1.html",
+      "headline": "Minnesota First Congressional District Special Primary Election Results",
+      "timestamp": "2023-05-02T20:02:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
