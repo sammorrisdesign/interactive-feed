@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-02T09:14:05.482Z",
+  "lastUpdated": "2023-05-02T14:36:25.241Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/02/magazine/ai-gary-marcus.html",
+      "headline": "How Do We Ensure an A.I. Future That Allows for Human Thriving?",
+      "timestamp": "2023-05-02T09:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
