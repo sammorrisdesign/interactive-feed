@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-05-02T09:36:23.901Z",
+  "lastUpdated": "2023-05-02T15:16:07.343Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/best-chance-good-job-career-20s-c6540375",
+      "headline": "WSJ News Exclusive | For a Good Job by 30, Do This in Your 20s",
+      "timestamp": "2023-05-02T15:15:50.959Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-layoffs-jumped-in-march-as-job-openings-fell-3805c6a1",
+      "headline": "U.S. Layoffs Jumped in March as Job Openings Fell",
+      "timestamp": "2023-05-02T15:15:50.959Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
