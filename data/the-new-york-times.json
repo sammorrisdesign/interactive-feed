@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-02T14:36:25.241Z",
+  "lastUpdated": "2023-05-02T19:36:23.168Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2022/05/24/us/elections/results-alabama-us-house-district-3.html",
+      "headline": "Alabama Third Congressional District Primary Election Results",
+      "timestamp": "2023-05-02T19:34:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
