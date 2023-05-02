@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-01T20:36:45.963Z",
+  "lastUpdated": "2023-05-02T09:36:23.901Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/dying-without-will-what-happens-6cc4674b",
+      "headline": "What Happens if You Die Without a Will? It Depends",
+      "timestamp": "2023-05-02T09:36:07.944Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
