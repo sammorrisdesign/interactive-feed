@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-19T15:15:30.425Z",
+  "lastUpdated": "2023-05-03T20:36:42.603Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2023/05/dark-patterns",
+      "headline": "How companies use dark patterns to keep you subscribed",
+      "timestamp": "2023-05-03T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
