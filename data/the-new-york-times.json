@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-02T20:14:32.633Z",
+  "lastUpdated": "2023-05-03T01:11:47.497Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/02/business/digital-remembrances.html",
+      "headline": "The Digital Fragments We Leave Behind After Death",
+      "timestamp": "2023-05-03T00:17:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
