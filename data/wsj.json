@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-03T04:16:56.868Z",
+  "lastUpdated": "2023-05-03T09:36:20.020Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/world-press-freedom-day-is-marked-by-rising-threats-against-reporters-3b77e3c5",
+      "headline": "World Press Freedom Day Is Marked by Rising Threats Against Reporters",
+      "timestamp": "2023-05-03T09:36:02.869Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
