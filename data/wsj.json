@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-03T18:17:23.077Z",
+  "lastUpdated": "2023-05-04T09:36:41.274Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-end-of-title-42-border-policy-puts-migrants-in-a-quandary-de615d99",
+      "headline": "The End of Title 42 Border Policy Puts Migrants in a Quandary",
+      "timestamp": "2023-05-04T09:36:23.318Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
