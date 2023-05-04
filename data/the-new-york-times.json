@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-05-03T01:11:47.497Z",
+  "lastUpdated": "2023-05-04T09:14:20.812Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/04/realestate/houses-hudson-valley-catskills-ny.html",
+      "headline": "Finding That Hudson Valley Gem for About $500,000: Which House Would You Choose?",
+      "timestamp": "2023-05-04T09:00:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/04/well/eat/ultraprocessed-foods.html",
+      "headline": "Do You Know How to Spot Foods That Are Ultraprocessed?",
+      "timestamp": "2023-05-04T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/04/travel/things-to-do-asheville.html",
+      "headline": "36 Hours in Asheville, N.C.",
+      "timestamp": "2023-05-04T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
