@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-05T09:36:42.602Z",
+  "lastUpdated": "2023-05-05T11:12:13.365Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-allies-patch-together-ukraines-defenses-against-russian-warplanes-missiles-32bb104",
+      "headline": "U.S., Allies Patch Together Ukraine’s Defenses Against Russian Warplanes, Missiles",
+      "timestamp": "2023-05-05T11:11:57.363Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
