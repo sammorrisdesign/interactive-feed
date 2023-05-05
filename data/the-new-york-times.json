@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-05T09:14:05.562Z",
+  "lastUpdated": "2023-05-05T12:26:45.150Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/05/opinion/king-charles-coronation.html",
+      "headline": "Why Should Charles III Be King?",
+      "timestamp": "2023-05-05T09:00:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
