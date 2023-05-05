@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-04T12:27:27.909Z",
+  "lastUpdated": "2023-05-05T09:36:42.602Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/jobs-report-to-show-how-labor-market-weathered-bank-failures-high-interest-rates-a500d302",
+      "headline": "Jobs Report to Show How Labor Market Weathered Bank Failures, High Interest Rates",
+      "timestamp": "2023-05-05T09:36:25.021Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
