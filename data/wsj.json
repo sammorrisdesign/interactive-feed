@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-05T13:36:31.836Z",
+  "lastUpdated": "2023-05-06T09:36:45.317Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/thousands-of-jobs-were-added-in-aprileven-in-industries-with-layoffs-a768a3ab",
+      "headline": "Thousands of Jobs Were Added in April—Even in Industries With Layoffs",
+      "timestamp": "2023-05-06T09:36:24.888Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
