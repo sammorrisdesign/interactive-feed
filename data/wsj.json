@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-06T09:36:45.317Z",
+  "lastUpdated": "2023-05-06T14:11:48.834Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ukraine-russia-war-bakhmut-video-6c986b18",
+      "headline": "Video Captures Soldiers’ View of the Battle for Destroyed Bakhmut",
+      "timestamp": "2023-05-06T14:11:31.192Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
