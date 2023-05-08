@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-06T14:11:48.834Z",
+  "lastUpdated": "2023-05-08T13:17:38.781Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-exchanges-list-more-than-a-dozen-cryptos-the-sec-says-are-illegal-to-sell-6c323b4",
+      "headline": "U.S. Exchanges List More Than a Dozen Cryptos the SEC Says Are Illegal to Sell",
+      "timestamp": "2023-05-08T13:17:20.251Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
