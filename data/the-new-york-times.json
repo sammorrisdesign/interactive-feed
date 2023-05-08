@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-05-05T12:26:45.150Z",
+  "lastUpdated": "2023-05-08T09:14:43.236Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/08/upshot/federal-budget-republicans.html",
+      "headline": "What Would the G.O.P. Plan Actually Do to the Budget?",
+      "timestamp": "2023-05-08T09:00:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/08/us/debt-limit-congress-yellen.html",
+      "headline": "We Hit the Debt Limit. What Happens Now?",
+      "timestamp": "2023-05-08T09:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
