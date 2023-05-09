@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-09T13:36:58.479Z",
+  "lastUpdated": "2023-05-09T15:15:01.987Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/breast-cancer-screening-from-age-40-would-save-more-lives-experts-say-cf445874",
+      "headline": "Breast-Cancer Screening From Age 40 Would Save More Lives, Experts Say",
+      "timestamp": "2023-05-09T15:14:46.230Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
