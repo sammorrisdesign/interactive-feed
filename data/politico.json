@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-04-30T11:36:26.957Z",
+  "lastUpdated": "2023-05-09T10:15:38.036Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/kevin-mccarthy-promises-to-gop-detractors-tracker/",
+      "headline": "McCarthy’s report card: How he’s done on promises to his right flank",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
