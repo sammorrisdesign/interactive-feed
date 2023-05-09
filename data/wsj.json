@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-08T13:17:38.781Z",
+  "lastUpdated": "2023-05-09T13:36:58.479Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-2024-senate-map-favors-republicans-but-candidates-remain-the-wild-card-3a6feace",
+      "headline": "The 2024 Senate Map Favors Republicans, but Candidates Remain the Wild Card",
+      "timestamp": "2023-05-09T13:36:35.211Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
