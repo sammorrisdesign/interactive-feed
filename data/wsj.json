@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-09T15:15:01.987Z",
+  "lastUpdated": "2023-05-10T09:36:29.959Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/low-mortgage-rates-home-sales-low-supply-899aab29",
+      "headline": "The Home Buyer’s Quandary: Nobody’s Selling",
+      "timestamp": "2023-05-10T09:36:13.525Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
