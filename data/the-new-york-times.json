@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-09T22:13:07.017Z",
+  "lastUpdated": "2023-05-10T09:14:13.318Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/10/opinion/nyc-office-vacancy-playground-city.html",
+      "headline": "26 Empire State Buildings Could Fit Into New York’s Empty Office Space. That’s a Sign.",
+      "timestamp": "2023-05-10T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
