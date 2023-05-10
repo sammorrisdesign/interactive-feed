@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-10T14:44:22.930Z",
+  "lastUpdated": "2023-05-10T17:13:36.222Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/10/nyregion/santos-indictment-annotated.html",
+      "headline": "The George Santos Indictment, Annotated",
+      "timestamp": "2023-05-10T17:00:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
