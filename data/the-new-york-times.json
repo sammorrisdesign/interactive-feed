@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-10T17:13:36.222Z",
+  "lastUpdated": "2023-05-10T21:37:36.813Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/extreme-weather-forecast-maps.html",
+      "headline": "Extreme Weather Maps: Track the Risks for Your Places",
+      "timestamp": "2023-05-10T21:16:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
