@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-11T04:16:48.708Z",
+  "lastUpdated": "2023-05-11T09:14:04.738Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/biden-administration-targets-power-plant-emissions-in-new-climate-initiative-cb635552",
+      "headline": "Biden Administration Targets Power-Plant Emissions in New Climate Initiative",
+      "timestamp": "2023-05-11T09:13:47.039Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
