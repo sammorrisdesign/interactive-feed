@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-11T15:14:52.877Z",
+  "lastUpdated": "2023-05-11T15:36:37.605Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/11/opinion/connie-chung-named-after-cn.html",
+      "headline": "我叫康妮。她们也叫康妮。我们是美国的“康妮一代”",
+      "timestamp": "2023-05-11T15:22:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
