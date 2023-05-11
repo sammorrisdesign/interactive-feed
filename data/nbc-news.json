@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-03T19:36:29.649Z",
+  "lastUpdated": "2023-05-11T12:28:03.436Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/tough-immigration-laws-construction-workers-home-builders-rcna82540",
+      "headline": "Dwindling immigration puts squeeze on home building",
+      "timestamp": "2023-05-11T12:00:00.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
