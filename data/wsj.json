@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-10T12:54:25.451Z",
+  "lastUpdated": "2023-05-11T04:16:48.708Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/work-life-balance-is-their-second-priority-work-is-their-first-b069aeee",
+      "headline": "Work-Life Balance Is Their Second Priority. Work Is Their First.",
+      "timestamp": "2023-05-11T04:16:30.549Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
