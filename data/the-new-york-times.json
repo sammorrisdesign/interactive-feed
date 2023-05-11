@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-11T10:15:23.367Z",
+  "lastUpdated": "2023-05-11T15:14:52.877Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/11/science/murder-hornets-wasps.html",
+      "headline": "Can You Pick a ‘Murder Hornet’ Out of a Lineup?",
+      "timestamp": "2023-05-11T14:36:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
