@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-11T09:14:04.715Z",
+  "lastUpdated": "2023-05-11T10:15:23.367Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/11/opinion/pandemic-learning-losses-steep-but-not-permanent.html",
+      "headline": "Pandemic Learning Losses Were Very Steep. They Don’t Have to Be Permanent.",
+      "timestamp": "2023-05-11T09:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
