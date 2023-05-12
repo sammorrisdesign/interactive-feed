@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-11T09:14:04.738Z",
+  "lastUpdated": "2023-05-12T01:11:27.950Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-the-new-immigration-system-works-after-title-42-ends-2fba7498",
+      "headline": "How the New Immigration System Works After Title 42 Ends",
+      "timestamp": "2023-05-12T01:11:11.494Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
