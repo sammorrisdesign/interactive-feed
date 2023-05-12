@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-12T12:26:46.922Z",
+  "lastUpdated": "2023-05-12T21:11:41.507Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/mothers-day-is-a-big-day-for-the-flower-business-8fca48df",
+      "headline": "Mother’s Day Is a Big Day for the Flower Business",
+      "timestamp": "2023-05-12T21:11:23.684Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
