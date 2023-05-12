@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-05-12T01:11:27.950Z",
+  "lastUpdated": "2023-05-12T09:36:22.204Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/carbon-capture-is-hard-this-plant-shows-why-ce6e938c",
+      "headline": "Carbon Capture Is Hard. This Plant Shows Why.",
+      "timestamp": "2023-05-12T09:36:06.238Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/april-jobs-report-unemployment-rate-economy-growth-2023-a500d302",
+      "headline": "Jobs Report to Show How Labor Market Weathered Bank Failures, High Interest Rates",
+      "timestamp": "2023-05-12T09:36:06.238Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
