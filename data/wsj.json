@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-12T09:36:22.204Z",
+  "lastUpdated": "2023-05-12T12:26:46.922Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-ally-rebuffs-requests-to-block-russian-military-flights-8539390f",
+      "headline": "WSJ News Exclusive | U.S. Ally Rebuffs Requests to Block Russian Military Flights",
+      "timestamp": "2023-05-12T12:26:29.541Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
