@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-11T23:14:08.648Z",
+  "lastUpdated": "2023-05-13T01:08:24.772Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/nyregion/george-santos-lies-charges.html",
+      "headline": "Lies, Charges and Questions Remaining in the George Santos Scandal",
+      "timestamp": "2023-05-13T01:05:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
