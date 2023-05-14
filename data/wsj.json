@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-14T09:36:35.593Z",
+  "lastUpdated": "2023-05-14T12:25:16.641Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-sanctioned-western-goods-are-still-flowing-into-russia-916db262",
+      "headline": "How Sanctioned Western Goods Are Still Flowing Into Russia",
+      "timestamp": "2023-05-14T12:24:56.919Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
