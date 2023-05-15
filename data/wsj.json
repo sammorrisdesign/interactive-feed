@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-15T14:36:34.232Z",
+  "lastUpdated": "2023-05-15T17:36:31.939Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/airbag-recall-demand-death-injuries-arc-automotive-b769362d",
+      "headline": "Exploding Air Bag Recall Demand Came After Nearly Eight-Year Investigation as More Deaths, Injuries Occurred",
+      "timestamp": "2023-05-15T17:36:13.818Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
