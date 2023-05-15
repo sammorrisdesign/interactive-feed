@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-15T10:15:22.331Z",
+  "lastUpdated": "2023-05-15T14:36:34.232Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-disappearing-white-collar-job-af0bd925",
+      "headline": "The Disappearing White-Collar Job",
+      "timestamp": "2023-05-15T14:36:12.743Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
