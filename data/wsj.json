@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-14T12:25:16.641Z",
+  "lastUpdated": "2023-05-15T09:36:26.875Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/bakhmut-trap-ukrainian-advances-vindicate-defense-of-besieged-city-cfea6093",
+      "headline": "‘Bakhmut Trap’: Ukrainian Advances Vindicate Defense of Besieged City",
+      "timestamp": "2023-05-15T09:36:10.607Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
