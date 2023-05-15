@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-15T12:55:29.421Z",
+  "lastUpdated": "2023-05-15T14:13:37.774Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/15/books/booksupdate/pulitzer-prize-books.html",
+      "headline": "Can You Find the Titles of 13 Pulitzer Prize Winners Hidden in This Text?",
+      "timestamp": "2023-05-15T14:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
