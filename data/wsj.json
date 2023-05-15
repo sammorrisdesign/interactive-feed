@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-15T09:36:26.875Z",
+  "lastUpdated": "2023-05-15T10:15:22.331Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-new-ev-gold-rush-automakers-scramble-to-get-into-mining-ebda14eb",
+      "headline": "The New EV Gold-Rush: Automakers Scramble to Get Into Mining",
+      "timestamp": "2023-05-15T10:15:05.788Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
