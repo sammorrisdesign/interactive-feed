@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-14T09:12:36.810Z",
+  "lastUpdated": "2023-05-15T07:14:26.428Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/15/upshot/migrations-college-super-cities.html",
+      "headline": "Coastal Cities Priced Out Low-Wage Workers. Now College Graduates Are Leaving, Too.",
+      "timestamp": "2023-05-15T07:00:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
