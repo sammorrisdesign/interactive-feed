@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-16T16:18:24.125Z",
+  "lastUpdated": "2023-05-16T20:36:47.342Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/couples-can-soon-put-over-10-000-a-year-into-health-savings-accounts-4a2a1e0d",
+      "headline": "Couples Can Soon Put Over $10,000 a Year Into Health Savings Accounts",
+      "timestamp": "2023-05-16T20:36:28.668Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

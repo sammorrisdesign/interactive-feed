@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-05-16T20:14:40.243Z",
+  "lastUpdated": "2023-05-16T20:36:47.318Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-pennsylvania-commonwealth-court.html",
+      "headline": "Pennsylvania Commonwealth Court Primary Election Results",
+      "timestamp": "2023-05-16T20:32:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-kentucky-secretary-of-state.html",
+      "headline": "Kentucky Secretary of State Primary Election Results",
+      "timestamp": "2023-05-16T20:32:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-kentucky-state-senate-district-28.html",
+      "headline": "Kentucky State Senate District 28 Special Election Results",
+      "timestamp": "2023-05-16T20:32:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
