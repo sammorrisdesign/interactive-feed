@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-16T15:14:47.807Z",
+  "lastUpdated": "2023-05-16T16:18:24.125Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ai-wedding-vows-gpt-ce8f8e91",
+      "headline": "Would You Use AI to Write Your Wedding Vows? They Did.",
+      "timestamp": "2023-05-16T16:18:05.873Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
