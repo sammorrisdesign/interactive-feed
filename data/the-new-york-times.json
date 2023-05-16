@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2023-05-16T09:13:42.614Z",
+  "lastUpdated": "2023-05-16T19:36:39.943Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-kentucky-governor.html",
+      "headline": "Kentucky Governor Primary Election Results",
+      "timestamp": "2023-05-16T19:12:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-philadelphia-city-council.html",
+      "headline": "Philadelphia City Council Primary Election Results",
+      "timestamp": "2023-05-16T19:12:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-kentucky.html",
+      "headline": "Kentucky Primary Election Results",
+      "timestamp": "2023-05-16T19:12:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-pennsylvania.html",
+      "headline": "Pennsylvania Primary Election Results",
+      "timestamp": "2023-05-16T19:12:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-philadelphia-mayor.html",
+      "headline": "Philadelphia Mayor Primary Election Results",
+      "timestamp": "2023-05-16T19:12:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-pennsylvania-state-house-district-163.html",
+      "headline": "Pennsylvania State House District 163 Special Election Results",
+      "timestamp": "2023-05-16T19:07:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-pennsylvania-supreme-court.html",
+      "headline": "Pennsylvania Supreme Court Primary Election Results",
+      "timestamp": "2023-05-16T19:07:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-kentucky-agriculture-commissioner.html",
+      "headline": "Kentucky Agriculture Commissioner Primary Election Results",
+      "timestamp": "2023-05-16T19:07:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-pennsylvania-superior-court.html",
+      "headline": "Pennsylvania Superior Court Primary Election Results",
+      "timestamp": "2023-05-16T19:07:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/16/us/elections/results-pennsylvania-state-house-district-108.html",
+      "headline": "Pennsylvania State House District 108 Special Election Results",
+      "timestamp": "2023-05-16T19:07:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
