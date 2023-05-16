@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-15T17:36:31.939Z",
+  "lastUpdated": "2023-05-16T15:14:47.807Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-fight-to-protect-the-joshua-tree-609bc7e9",
+      "headline": "The Fight to Protect the Joshua Tree",
+      "timestamp": "2023-05-16T15:14:29.495Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
