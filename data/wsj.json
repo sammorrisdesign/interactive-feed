@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-17T12:27:42.084Z",
+  "lastUpdated": "2023-05-17T15:14:45.274Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ozempic-diabetes-drug-weight-loss-c0e03c25",
+      "headline": "What Is Ozempic and Why Is It Such a Big Deal Right Now?",
+      "timestamp": "2023-05-17T15:14:26.149Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
