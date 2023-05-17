@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-05-17T08:17:57.626Z",
+  "lastUpdated": "2023-05-17T19:11:22.631Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/17/us/pages-from-orders-reducing-sentences-redacted.html",
+      "headline": "Judge’s Order for the Release of Jeriod Price",
+      "timestamp": "2023-05-17T19:07:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/17/us/south-carolina-judicial-branch-memo-on-reducing-criminal-sentences.html",
+      "headline": "Read the document",
+      "timestamp": "2023-05-17T18:41:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
