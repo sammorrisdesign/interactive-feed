@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-17T09:36:24.144Z",
+  "lastUpdated": "2023-05-17T12:27:42.084Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-offensive-before-the-offensive-ukraine-strikes-behind-russian-lines-cea9320f",
+      "headline": "The Offensive Before the Offensive: Ukraine Strikes Behind Russian Lines",
+      "timestamp": "2023-05-17T12:27:25.001Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

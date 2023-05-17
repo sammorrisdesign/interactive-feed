@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-05-11T12:28:03.436Z",
+  "lastUpdated": "2023-05-17T12:27:42.081Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/chat-gpt-artificial-intelligence-how-chatbot-work-rcna83266",
+      "headline": "Inside ChatGPT: How AI chatbots work",
+      "timestamp": "2023-05-17T12:00:41.000Z"
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/chat-gpt-artificial-intelligence-how-chatbot-work-rcna83266",
+      "headline": "Inside ChatGPT: How AI chatbots work",
+      "timestamp": "2023-05-17T12:00:41.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
