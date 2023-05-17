@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-16T20:36:47.342Z",
+  "lastUpdated": "2023-05-17T09:36:24.144Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/death-rate-children-teens-guns-drugs-54c604f4",
+      "headline": "Young Americans Are Dying at Alarming Rates, Reversing Years of Progress",
+      "timestamp": "2023-05-17T09:36:08.299Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
