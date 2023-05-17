@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-16T20:36:47.318Z",
+  "lastUpdated": "2023-05-17T08:17:57.626Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/17/magazine/therapists-confess.html",
+      "headline": "What Your Therapist Doesn't Tell You",
+      "timestamp": "2023-05-17T07:41:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
