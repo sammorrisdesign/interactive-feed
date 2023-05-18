@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-18T09:13:30.677Z",
+  "lastUpdated": "2023-05-18T23:14:15.958Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/18/opinion/jobs-inflation-economy.html",
+      "headline": "Will The U.S. Economy Pull Off a 'Soft Landing'? And When Will We Know?",
+      "timestamp": "2023-05-18T23:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
