@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-17T15:14:45.274Z",
+  "lastUpdated": "2023-05-18T09:36:30.688Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/black-unemployment-rate-job-market-ebd93614",
+      "headline": "Job Prospects for Black Workers Have Never Been Better—In Ways That Might Last",
+      "timestamp": "2023-05-18T09:36:14.581Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
