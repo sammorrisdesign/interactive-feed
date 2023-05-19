@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-19T09:36:34.779Z",
+  "lastUpdated": "2023-05-19T13:16:40.691Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/speech-delays-more-common-pandemic-c1a55c93",
+      "headline": "If Your Toddler Isn’t Talking Yet, the Pandemic Might Be to Blame",
+      "timestamp": "2023-05-19T13:16:22.550Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
