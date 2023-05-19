@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-18T16:39:20.963Z",
+  "lastUpdated": "2023-05-19T04:16:47.509Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/in-todays-housing-market-its-timing-over-location-eefdb890",
+      "headline": "In Today’s Housing Market, It’s Timing Over Location",
+      "timestamp": "2023-05-19T04:16:31.525Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
