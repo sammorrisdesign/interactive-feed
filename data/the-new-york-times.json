@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-18T23:14:15.958Z",
+  "lastUpdated": "2023-05-20T09:12:32.465Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/20/climate/rice-farming-climate-change.html",
+      "headline": "Rice. Half of Humanity Eats It. And Climate Change Is Wrecking It.",
+      "timestamp": "2023-05-20T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
