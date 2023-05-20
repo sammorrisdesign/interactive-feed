@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-19T13:16:40.691Z",
+  "lastUpdated": "2023-05-20T04:16:09.277Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/americas-biggest-bank-is-everywhereand-it-isnt-done-growing-5ff18360",
+      "headline": "America’s Biggest Bank Is Everywhere—and It Isn’t Done Growing",
+      "timestamp": "2023-05-20T04:15:54.099Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
