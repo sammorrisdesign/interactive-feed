@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-21T09:36:42.391Z",
+  "lastUpdated": "2023-05-21T14:12:04.482Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/seeking-a-bigger-bang-u-s-invests-in-advanced-explosives-7239e5fb",
+      "headline": "Seeking a Bigger Bang, U.S. Invests in Advanced Explosives",
+      "timestamp": "2023-05-21T14:11:47.844Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
