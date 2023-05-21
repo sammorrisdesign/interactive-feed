@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-21T14:12:04.482Z",
+  "lastUpdated": "2023-05-21T22:12:44.033Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-americans-retire-now-b1860f49",
+      "headline": "The Way We Retire Now",
+      "timestamp": "2023-05-21T22:12:28.298Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
