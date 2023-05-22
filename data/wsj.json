@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-22T09:36:34.468Z",
+  "lastUpdated": "2023-05-22T12:27:25.122Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/workers-want-ozempic-for-weight-loss-few-employers-want-to-pay-for-it-215fb5c1",
+      "headline": "Workers Want Ozempic for Weight Loss. Few Employers Want to Pay for It.",
+      "timestamp": "2023-05-22T12:27:08.801Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
