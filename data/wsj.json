@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-21T22:12:44.033Z",
+  "lastUpdated": "2023-05-22T09:36:34.468Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/immigrants-share-of-the-u-s-labor-force-grows-to-a-new-high-67805c45",
+      "headline": "Immigrants’ Share of the U.S. Labor Force Grows to a New High",
+      "timestamp": "2023-05-22T09:36:17.116Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
