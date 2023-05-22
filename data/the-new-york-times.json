@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-22T09:14:24.478Z",
+  "lastUpdated": "2023-05-22T14:13:09.365Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/22/books/booksupdate/guess-this-author.html",
+      "headline": "Can You Guess This Award-Winning Author and Screenwriter?",
+      "timestamp": "2023-05-22T14:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
