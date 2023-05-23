@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-11T19:11:10.704Z",
+  "lastUpdated": "2023-05-23T09:14:03.098Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2023/05/country-radio",
+      "headline": "They Won't Play A Lady-O on Country Radio",
+      "timestamp": "2023-05-22T05:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
