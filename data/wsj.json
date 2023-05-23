@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-23T14:13:57.165Z",
+  "lastUpdated": "2023-05-23T19:36:25.972Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/debt-ceiling-fight-sends-investors-hunting-for-new-havens-45ea55e6",
+      "headline": "Debt-Ceiling Fight Sends Investors Hunting for New Havens",
+      "timestamp": "2023-05-23T19:36:09.950Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
