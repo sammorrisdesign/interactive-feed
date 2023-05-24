@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-24T04:17:11.550Z",
+  "lastUpdated": "2023-05-24T09:13:55.036Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/24/upshot/up-baseball-metrics.html",
+      "headline": "How New Rules Turned Back the Clock on Baseball",
+      "timestamp": "2023-05-24T09:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
