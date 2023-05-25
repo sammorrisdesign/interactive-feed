@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-24T14:13:21.442Z",
+  "lastUpdated": "2023-05-25T04:16:37.576Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/airplane-accidents-near-collisions-summer-travel-cc85e3a8",
+      "headline": "More Airlines Are Encountering Near Collisions—and No One Knows Why ",
+      "timestamp": "2023-05-25T04:16:21.187Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
