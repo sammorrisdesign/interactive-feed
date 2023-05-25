@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-05-24T09:13:55.036Z",
+  "lastUpdated": "2023-05-25T09:13:55.477Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/25/realestate/sag-harbor-hamptons-home.html",
+      "headline": "A ‘New Lease on Life’ Leads to a New House in the Hamptons",
+      "timestamp": "2023-05-25T09:00:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/25/well/mind/black-mental-health-police-violence.html",
+      "headline": "The Toll of Police Violence on Black People’s Mental Health",
+      "timestamp": "2023-05-25T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/25/travel/things-to-do-vancouver.html",
+      "headline": "36 Hours in Vancouver",
+      "timestamp": "2023-05-25T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/25/style/spain-la-barzola-plaza-manuel-garrido-hip-hop.html",
+      "headline": "In Seville, Spain, These Young Rappers Come Together to Turn “Tears Into Rhymes”",
+      "timestamp": "2023-05-25T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
