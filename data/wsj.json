@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-25T04:16:37.576Z",
+  "lastUpdated": "2023-05-25T15:36:48.257Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/nvidia-shares-jump-as-chip-maker-approaches-1-trillion-valuation-7f8ccd68",
+      "headline": "Nvidia Stock Jumps 26% to New High as Chip Maker Approaches $1 Trillion Valuation",
+      "timestamp": "2023-05-25T15:36:29.320Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
