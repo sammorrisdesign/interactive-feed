@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-26T16:39:09.534Z",
+  "lastUpdated": "2023-05-26T17:36:32.655Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/26/books/summer-reading.html",
+      "headline": "Summer Books 2023",
+      "timestamp": "2023-05-26T17:13:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
