@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-25T15:36:48.257Z",
+  "lastUpdated": "2023-05-26T04:16:54.931Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-ai-is-catapulting-nvidia-toward-the-1-trillion-club-14f42380",
+      "headline": "How AI Is Catapulting Nvidia Toward the $1 Trillion Club",
+      "timestamp": "2023-05-26T04:16:36.349Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
