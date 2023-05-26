@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-26T17:36:32.655Z",
+  "lastUpdated": "2023-05-26T18:17:07.829Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/26/world/map-typhoon-mawar.html",
+      "headline": "Map: Tracking Typhoon Mawar",
+      "timestamp": "2023-05-26T17:59:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
