@@ -4,13 +4,13 @@ A Twitter and Mastodon bot that shares new interactive, graphic, and data vis st
 You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed) or [@Interactives@botsin.space](https://botsin.space/@Interactives).
 
 ## Requirements
-- Node v14 or above
+- Node v18 or above
 - NYT, Guardian, Mastodon, and Twitter credentials for `secrets.json` or the secret key.
 
 ## Installation
 Use `npm i` to get all dependecies.
 
-If you know the secret key you can run `export key=<SECRET-KEY>` and then `npm run decrypt-secrets` to get a complete `secrets.json` file. If not, you can create your own from [`secrets.example.json`](secrets.example.json)
+If you know the secret key you can run `export KEY=<SECRET-KEY>` and then `npm run decrypt-secrets` to get a complete `secrets.json` file. If not, you can create your own from [`secrets.example.json`](secrets.example.json)
 
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...

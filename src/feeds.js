@@ -3,6 +3,7 @@ const config = require('../config.json');
 const fetchers = require('./fetchers');
 const tweet = require('./tweet');
 const toot = require('./toot');
+const skeet = require('./skeet');
 const utils = require('./utils');
 
 const pullRecentFeeds = async() => {
@@ -76,6 +77,7 @@ module.exports = {
       console.log(newArticles.length, "new articles found");
       await tweet.newArticles(newArticles);
       await toot.newArticles(newArticles);
+      await skeet.newArticles(newArticles);
     }
   }
 }
