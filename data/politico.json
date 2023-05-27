@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-14T11:36:39.604Z",
+  "lastUpdated": "2023-05-27T11:36:35.985Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "url": "https://www.politico.com/interactives/2023/new-hampshire-president-campaign-trump-desantis/",
+      "headline": "In New Hampshire, It’s Already 2024",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
