@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-27T04:16:18.127Z",
+  "lastUpdated": "2023-05-28T07:11:58.028Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/26/us/open-national-park.html",
+      "headline": "How to Open a National Park for the Summer Season",
+      "timestamp": "2023-05-28T07:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
