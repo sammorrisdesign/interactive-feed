@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-28T04:16:30.710Z",
+  "lastUpdated": "2023-05-28T12:25:02.647Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/jan-6-capitol-attack-the-rioters-legal-reckoning-visualized-af640d5c",
+      "headline": "Jan. 6 Capitol Attack: The Rioters’ Legal Reckoning, Visualized",
+      "timestamp": "2023-05-28T12:24:46.569Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
