@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-26T14:12:57.451Z",
+  "lastUpdated": "2023-05-28T04:16:30.710Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/elizabeth-holmes-prison-inmates-3a46a79f",
+      "headline": "Inmates Await Theranos Founder Elizabeth Holmes: ‘I Want to Be Her Friend’",
+      "timestamp": "2023-05-28T04:16:11.683Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
