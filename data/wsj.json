@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-28T12:25:02.647Z",
+  "lastUpdated": "2023-05-29T04:17:00.011Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/why-are-markets-so-calm-its-revenge-of-the-quant-funds-26a93425",
+      "headline": "Why Are Markets So Calm? It’s Revenge of the Quant Funds",
+      "timestamp": "2023-05-29T04:16:43.567Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
