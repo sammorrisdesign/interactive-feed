@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-28T07:11:58.028Z",
+  "lastUpdated": "2023-05-30T05:13:13.868Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/30/opinion/biden-voters-focus-group.html",
+      "headline": "How 11 Skeptical Biden Voters Feel About His Re-Election Bid",
+      "timestamp": "2023-05-30T05:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
