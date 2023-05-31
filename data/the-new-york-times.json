@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-31T02:44:45.075Z",
+  "lastUpdated": "2023-05-31T19:36:26.459Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/31/health/covid-lung-damage.html",
+      "headline": "An Inside Look at Covid’s Lasting Damage to the Lungs",
+      "timestamp": "2023-05-31T19:20:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
