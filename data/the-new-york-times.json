@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-30T14:36:47.937Z",
+  "lastUpdated": "2023-05-31T02:44:45.075Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/30/world/asia/russia-oil-ships-sanctions.html",
+      "headline": "Fake Signals and American Insurance: How a Dark Fleet Moves Russian Oil",
+      "timestamp": "2023-05-31T01:24:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
