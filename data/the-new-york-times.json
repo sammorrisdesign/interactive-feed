@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2023-06-01T03:10:55.133Z",
+  "lastUpdated": "2023-06-01T09:14:13.065Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/01/business/survival-kit-tools.html",
+      "headline": "What Belongs in Your Survival Kit, From 8 People Who Know Something About Disasters",
+      "timestamp": "2023-06-01T09:00:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/01/opinion/ai-technology-future.html",
+      "headline": "8 Big Questions About A.I.",
+      "timestamp": "2023-06-01T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/01/realestate/nyc-apartments-east-harlem-bronx.html",
+      "headline": "Heading Uptown With $250,000 and Some Hope. Could They Afford a Co-op?",
+      "timestamp": "2023-06-01T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/01/opinion/opart-imagining-death-happiness.html",
+      "headline": "Death is Real. So Is Happiness. Imagine That.",
+      "timestamp": "2023-06-01T09:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/01/style/university-texas-austin-wesley-students-methodist.html",
+      "headline": "At This Texas Campus Ministry, ‘Inclusive Love’ Is the Mission",
+      "timestamp": "2023-06-01T09:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/01/travel/things-to-do-los-angeles.html",
+      "headline": "36 Hours in Los Angeles",
+      "timestamp": "2023-06-01T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
