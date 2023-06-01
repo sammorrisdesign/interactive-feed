@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-29T09:36:40.370Z",
+  "lastUpdated": "2023-06-01T14:12:55.474Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/beef-prices-high-summer-barbecue-12a08905",
+      "headline": "Your Summer Barbecue Is Getting Really Expensive",
+      "timestamp": "2023-06-01T14:12:32.010Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
