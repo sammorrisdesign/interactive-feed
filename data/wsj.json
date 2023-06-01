@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-01T14:12:55.474Z",
+  "lastUpdated": "2023-06-01T15:36:41.744Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/chinas-missile-threat-drives-new-u-s-approach-in-asia-95fc9a7b",
+      "headline": "China’s Missile Threat Drives New U.S. Approach in Asia",
+      "timestamp": "2023-06-01T15:36:23.668Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
