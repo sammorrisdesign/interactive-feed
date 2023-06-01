@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-05-31T19:36:26.459Z",
+  "lastUpdated": "2023-06-01T01:49:02.380Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/31/upshot/debt-ceiling-side-deals.html",
+      "headline": "The Big Part of the Debt Ceiling Deal Congress Isn’t Talking About",
+      "timestamp": "2023-06-01T00:26:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/31/us/politics/house-debt-limit-live-vote.html",
+      "headline": "Raising the Debt Limit: See Who Voted For and Against",
+      "timestamp": "2023-06-01T00:14:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
