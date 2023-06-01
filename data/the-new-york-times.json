@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-01T09:14:13.065Z",
+  "lastUpdated": "2023-06-01T15:14:42.289Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/guide/fathers-day-gift-guide.html",
+      "headline": "The 2023 Father’s Day Gift Guide",
+      "timestamp": "2023-06-01T14:56:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
