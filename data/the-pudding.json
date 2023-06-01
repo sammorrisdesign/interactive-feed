@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-23T09:14:03.098Z",
+  "lastUpdated": "2023-06-01T18:18:33.793Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2023/06/groove",
+      "headline": "Wonky",
+      "timestamp": "2023-06-01T07:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
