@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-01T01:49:02.380Z",
+  "lastUpdated": "2023-06-01T03:10:55.133Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/05/31/sports/basketball/nba-playoffs-passing-scoring.html",
+      "headline": "Where Is the Pass Going?",
+      "timestamp": "2023-06-01T02:55:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
