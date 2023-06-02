@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-01T15:14:42.289Z",
+  "lastUpdated": "2023-06-02T02:40:32.265Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/01/us/politics/senate-debt-limit-live-vote.html",
+      "headline": "Raising the Debt Limit: Live Senate Vote",
+      "timestamp": "2023-06-02T02:28:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
