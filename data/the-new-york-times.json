@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-02T15:14:41.442Z",
+  "lastUpdated": "2023-06-02T15:36:52.501Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/02/well/live/summer-risks-quiz.html",
+      "headline": "Can You Survive Summer?",
+      "timestamp": "2023-06-02T15:02:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
