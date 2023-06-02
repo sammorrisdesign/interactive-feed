@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-06-02T09:14:09.000Z",
+  "lastUpdated": "2023-06-02T15:14:41.442Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/02/well/live/well-summer-quiz.html",
+      "headline": "Can You Survive Summer?",
+      "timestamp": "2023-06-02T15:02:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/02/crosswords/wordle-golf-rules-card.html",
+      "headline": "Read the document",
+      "timestamp": "2023-06-02T15:00:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
