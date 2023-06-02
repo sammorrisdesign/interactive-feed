@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-02T15:36:52.501Z",
+  "lastUpdated": "2023-06-02T16:18:18.723Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/02/crosswords/wordle-golf-scorecard.html",
+      "headline": "Read the document",
+      "timestamp": "2023-06-02T15:52:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
