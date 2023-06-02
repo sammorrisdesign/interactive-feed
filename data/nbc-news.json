@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-05-17T12:27:42.081Z",
+  "lastUpdated": "2023-06-02T22:12:56.539Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/data-work-requirements-food-benefits-snap-rcna86440",
+      "headline": "Who receives food benefits? It may not be who you think",
+      "timestamp": "2023-06-02T21:40:30.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
