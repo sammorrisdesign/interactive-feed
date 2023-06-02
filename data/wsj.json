@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-02T09:36:20.679Z",
+  "lastUpdated": "2023-06-02T16:38:44.861Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-surprising-new-source-of-lithium-for-batteries-744463c4",
+      "headline": "The Surprising New Source of Lithium for Batteries",
+      "timestamp": "2023-06-02T16:38:27.003Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
