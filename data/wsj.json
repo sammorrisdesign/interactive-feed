@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-01T15:36:41.744Z",
+  "lastUpdated": "2023-06-02T09:36:20.679Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/may-jobs-report-unemployment-rate-economy-growth-2023-65ae1e96",
+      "headline": "Jobs Report Expected to Show Unemployment Still Historically Low",
+      "timestamp": "2023-06-02T09:36:04.407Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
