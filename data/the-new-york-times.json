@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-02T18:36:40.085Z",
+  "lastUpdated": "2023-06-03T09:12:26.438Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/03/upshot/up-lgbtq-teens.html",
+      "headline": "What It’s Like to Be a Queer Teenager Today",
+      "timestamp": "2023-06-03T09:00:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
