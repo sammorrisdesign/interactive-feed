@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-02T16:38:44.861Z",
+  "lastUpdated": "2023-06-04T13:36:33.245Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/electric-vehicles-batteries-nickel-pickle-indonesia-9152b1f",
+      "headline": "EV Makers Confront the ‘Nickel Pickle’",
+      "timestamp": "2023-06-04T13:36:17.375Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
