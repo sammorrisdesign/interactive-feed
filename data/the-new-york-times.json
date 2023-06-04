@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-04T21:12:00.287Z",
+  "lastUpdated": "2023-06-04T21:36:30.554Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/04/world/asia/india-train-crash-cause.html",
+      "headline": "How the India Train Crash Unfolded",
+      "timestamp": "2023-06-04T20:36:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
