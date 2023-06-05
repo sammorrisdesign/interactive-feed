@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-04T13:36:33.245Z",
+  "lastUpdated": "2023-06-05T14:12:50.654Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/underground-hydrogen-could-supercharge-green-energy-first-scientists-have-to-find-it-19036ec6",
+      "headline": "Underground Hydrogen Could Supercharge Green Energy. First, Scientists Have to Find It.",
+      "timestamp": "2023-06-05T14:12:34.145Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
