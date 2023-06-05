@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-05T14:12:50.654Z",
+  "lastUpdated": "2023-06-05T17:12:22.846Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/white-water-rafting-season-in-the-west-set-to-boom-following-record-snowfall-3369b1f0",
+      "headline": "White-Water Rafting Season in the West Set to Boom Following Record Snowfall",
+      "timestamp": "2023-06-05T17:12:05.252Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
