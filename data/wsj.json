@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-06T11:12:16.747Z",
+  "lastUpdated": "2023-06-06T14:12:52.359Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/faster-ev-charging-stations-eaf60514",
+      "headline": "What’s Ahead for Ultrafast EV Charging",
+      "timestamp": "2023-06-06T14:12:30.107Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
