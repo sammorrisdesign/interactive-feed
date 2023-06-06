@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-05T21:36:37.726Z",
+  "lastUpdated": "2023-06-06T11:12:16.747Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/major-dam-destroyed-in-russian-occupied-ukraine-8cd10725",
+      "headline": "Major Dam Destroyed on Front Line Between Russia, Ukraine",
+      "timestamp": "2023-06-06T11:11:58.891Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
