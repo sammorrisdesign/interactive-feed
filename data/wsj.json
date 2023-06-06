@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-06T14:12:52.359Z",
+  "lastUpdated": "2023-06-06T17:12:36.113Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/sec-sues-coinbase-says-it-is-unregistered-broker-dealer-95ec0637",
+      "headline": "SEC Sues Coinbase, Alleges It Is Unregistered Broker-Dealer",
+      "timestamp": "2023-06-06T17:12:15.378Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
