@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-06T10:14:58.169Z",
+  "lastUpdated": "2023-06-06T13:18:40.762Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/06/climate/grand-canyon-colorado-river.html",
+      "headline": "The Grand Canyon, a Cathedral to Time, Is Losing Its River",
+      "timestamp": "2023-06-06T13:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
