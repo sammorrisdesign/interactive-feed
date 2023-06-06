@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-06T20:14:37.270Z",
+  "lastUpdated": "2023-06-06T20:36:40.840Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/06/world/ukraine-dam-flooding-maps.html",
+      "headline": "Mapping the Flooding From the Dam Breach in Southern Ukraine",
+      "timestamp": "2023-06-06T20:22:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
