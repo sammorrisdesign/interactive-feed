@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-06T17:12:36.113Z",
+  "lastUpdated": "2023-06-07T15:15:15.114Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/beaming-solar-energy-from-space-gets-a-step-closer-fc903658",
+      "headline": "Beaming Solar Energy From Space Gets a Step Closer",
+      "timestamp": "2023-06-07T15:14:52.368Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
