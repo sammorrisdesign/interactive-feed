@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-07T16:18:51.623Z",
+  "lastUpdated": "2023-06-07T16:39:35.619Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/smoke-air-quality-nyc-northeast-canadian-wildfires-6b5ffc01",
+      "headline": "Wildfire Smoke Blankets Sky Across New York, Other States, Prompting Air-Quality Warnings",
+      "timestamp": "2023-06-07T16:39:19.538Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
