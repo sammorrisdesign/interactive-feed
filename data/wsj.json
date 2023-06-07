@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-07T15:15:15.114Z",
+  "lastUpdated": "2023-06-07T16:18:51.623Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/wildfire-air-quality-health-effects-smoke-us-canada-f9a2c7d4",
+      "headline": "How to Protect Yourself as Canadian Wildfires Affect Air Quality in U.S. Northeast",
+      "timestamp": "2023-06-07T16:18:34.850Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
