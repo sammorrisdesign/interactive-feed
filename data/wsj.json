@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-07T16:39:35.619Z",
+  "lastUpdated": "2023-06-07T22:36:27.651Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/southern-ukrainian-towns-inundated-as-floodwaters-from-burst-dam-rise-7b5e3424",
+      "headline": "Burst Dam Alters Ukraine Battlefield as Floodwaters Rise",
+      "timestamp": "2023-06-07T22:36:06.560Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
