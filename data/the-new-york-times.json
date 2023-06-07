@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-07T03:19:03.777Z",
+  "lastUpdated": "2023-06-07T21:12:28.906Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/07/us/major-supreme-court-cases-2023.html",
+      "headline": "The Major Supreme Court Decisions in 2023",
+      "timestamp": "2023-06-07T21:01:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
