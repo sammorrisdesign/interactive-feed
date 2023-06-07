@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-07T02:45:16.270Z",
+  "lastUpdated": "2023-06-07T03:19:03.777Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/us/smoke-maps-canada-fires.html",
+      "headline": "Tracking the Smoke From the Canadian Fires",
+      "timestamp": "2023-06-07T02:33:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
