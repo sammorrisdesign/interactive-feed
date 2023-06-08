@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-06-07T21:12:28.906Z",
+  "lastUpdated": "2023-06-08T09:13:38.293Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/08/realestate/upper-west-side-apartments-manhattan.html",
+      "headline": "Seeking an Upper West Side Home That the Children Want to Visit",
+      "timestamp": "2023-06-08T09:00:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/08/travel/things-to-do-split-croatia.html",
+      "headline": "36 Hours in Split, Croatia",
+      "timestamp": "2023-06-08T09:00:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
