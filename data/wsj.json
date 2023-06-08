@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-08T11:36:35.795Z",
+  "lastUpdated": "2023-06-08T12:27:14.609Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ukraines-zelensky-visits-flood-hit-kherson-as-battle-rages-nearby-1dc05260",
+      "headline": "Ukraine’s Zelensky Visits Flood-Hit Kherson as Kyiv Presses Counterattack",
+      "timestamp": "2023-06-08T12:26:56.422Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
