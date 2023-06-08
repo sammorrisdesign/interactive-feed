@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-06-07T22:36:27.651Z",
+  "lastUpdated": "2023-06-08T11:36:35.795Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-east-coast-gets-a-taste-of-what-its-like-living-with-wildfires-f4330a14",
+      "headline": "The East Coast Gets a Taste of What It’s Like Living With Wildfires",
+      "timestamp": "2023-06-08T11:36:12.287Z"
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/hazardous-smoky-conditions-to-last-for-days-as-canada-wildfires-rage-a2f950d3",
+      "headline": "Hazardous Smoky Conditions to Last for Days as Canada Wildfires Rage",
+      "timestamp": "2023-06-08T11:36:12.287Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
