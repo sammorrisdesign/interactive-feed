@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-08T12:27:14.609Z",
+  "lastUpdated": "2023-06-08T15:14:17.158Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/home-insurers-curb-new-policies-in-risky-areas-nationally-c93abac0",
+      "headline": "WSJ News Exclusive | Home Insurers Curb New Policies in Risky Areas Nationally",
+      "timestamp": "2023-06-08T15:13:59.868Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
