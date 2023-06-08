@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-08T15:14:17.158Z",
+  "lastUpdated": "2023-06-08T21:14:13.010Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/engineers-weigh-in-on-possible-causes-of-ukraine-dam-collapse-8416db61",
+      "headline": "Engineers Weigh In on Possible Causes of Ukraine Dam Collapse",
+      "timestamp": "2023-06-08T21:13:54.667Z"
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
