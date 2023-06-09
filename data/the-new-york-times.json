@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-09T15:14:12.772Z",
+  "lastUpdated": "2023-06-09T16:17:48.868Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/09/health/noise-exposure-health-impacts.html",
+      "headline": "Noise Could Take Years Off Your Life. Here’s How.",
+      "timestamp": "2023-06-09T15:54:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
