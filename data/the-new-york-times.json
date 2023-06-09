@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-09T17:36:29.325Z",
+  "lastUpdated": "2023-06-09T18:16:53.805Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/09/us/trump-indictment-document.html",
+      "headline": "The Donald Trump Classified Documents Indictment",
+      "timestamp": "2023-06-09T17:48:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
