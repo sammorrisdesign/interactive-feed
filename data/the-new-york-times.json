@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-09T18:36:33.450Z",
+  "lastUpdated": "2023-06-10T02:34:26.018Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/09/us/politics/trump-indictment-documents-mar-a-lago.html",
+      "headline": "Where Documents Were Found at Mar-a-Lago",
+      "timestamp": "2023-06-10T01:19:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
