@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-13T12:54:28.826Z",
+  "lastUpdated": "2023-06-13T15:36:29.220Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/13/climate/global-warming-heat-june.html",
+      "headline": "Here’s How Much Hotter Than Normal This June Has Been",
+      "timestamp": "2023-06-13T15:18:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
