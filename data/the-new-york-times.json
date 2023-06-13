@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-12T23:36:19.054Z",
+  "lastUpdated": "2023-06-13T03:14:59.760Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/dining/new-york-summer-food-map.html",
+      "headline": "Where to Eat in New York City This Summer",
+      "timestamp": "2023-06-13T02:42:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
