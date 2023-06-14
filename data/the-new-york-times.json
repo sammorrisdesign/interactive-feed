@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-06-14T09:13:27.675Z",
+  "lastUpdated": "2023-06-14T21:12:28.505Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/14/opinion/columnists/summer-politics-quiz.html",
+      "headline": "Your Summer Politics Quiz",
+      "timestamp": "2023-06-14T20:45:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/world/asia/cyclone-biparjoy-map-path-tracker.html",
+      "headline": "Cyclone Biparjoy: Tracking Landfall and Forecast for India and Pakistan",
+      "timestamp": "2023-06-13T19:17:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
