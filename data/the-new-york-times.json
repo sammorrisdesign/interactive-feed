@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-15T01:17:59.188Z",
+  "lastUpdated": "2023-06-15T05:13:17.724Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/15/opinion/focus-group-trust-america.html",
+      "headline": "We Asked 11 Americans Why It’s So Difficult to Trust Each Other",
+      "timestamp": "2023-06-15T05:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
