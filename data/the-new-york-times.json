@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-06-15T05:13:17.724Z",
+  "lastUpdated": "2023-06-15T09:14:03.463Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/15/realestate/los-angeles-mount-washington-homes.html",
+      "headline": "Two Lifelong Floridians Bolted for Los Angeles, but What Could They Afford? ",
+      "timestamp": "2023-06-15T09:00:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/15/opinion/nyc-flood-waterfront-plan.html",
+      "headline": "The Plan to Save New York From the Next Sandy Will Ruin the Waterfront. It Doesn’t Have To.",
+      "timestamp": "2023-06-15T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/15/style/black-debutante-balls-cotillion.html",
+      "headline": "For Black Debutantes in Detroit, Cotillion Is More Than a Ball",
+      "timestamp": "2023-06-15T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/15/travel/things-to-do-bath-united-kingdom.html",
+      "headline": "36 Hours in Bath, England",
+      "timestamp": "2023-06-15T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
