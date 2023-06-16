@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-16T15:13:57.396Z",
+  "lastUpdated": "2023-06-16T22:12:54.908Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/16/style/millennial-dad-style-culture.html",
+      "headline": "The Dad Canon (Circa Now)",
+      "timestamp": "2023-06-16T22:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
