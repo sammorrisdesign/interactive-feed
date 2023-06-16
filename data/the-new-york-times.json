@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-06-15T09:14:03.463Z",
+  "lastUpdated": "2023-06-16T09:13:31.148Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/16/world/europe/russian-anti-war-protesters.html",
+      "headline": "Decoding the Antiwar Messages of Miniature Protesters in Russia",
+      "timestamp": "2023-06-16T09:00:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/16/travel/abstract-architecture-quiz-iii.html",
+      "headline": "Architecture, in Abstract: Quiz No. 3",
+      "timestamp": "2023-06-16T09:00:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/16/opinion/fathers-day-photos.html",
+      "headline": "What a Motherless Son Knows About Fatherhood",
+      "timestamp": "2023-06-16T09:00:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/16/us/republican-trump-indictment-response.html",
+      "headline": "See How the G.O.P. Has Reacted to the Trump Indictment",
+      "timestamp": "2023-06-16T09:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
