@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-16T22:12:54.908Z",
+  "lastUpdated": "2023-06-17T01:14:42.370Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/16/world/europe/ukraine-kakhovka-dam-collapse.html",
+      "headline": "An Inside Job",
+      "timestamp": "2023-06-16T23:55:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
