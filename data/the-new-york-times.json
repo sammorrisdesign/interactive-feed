@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-17T01:14:42.370Z",
+  "lastUpdated": "2023-06-17T09:12:48.965Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/17/upshot/17migration-patterns-movers.html",
+      "headline": "The Places Most Affected by Remote Workers’ Moves Around the Country",
+      "timestamp": "2023-06-17T09:00:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
