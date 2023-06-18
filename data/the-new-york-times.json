@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-17T09:12:48.965Z",
+  "lastUpdated": "2023-06-18T09:13:01.084Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/18/magazine/samantha-irby-interview.html",
+      "headline": "Samantha Irby Says It’s OK to Hate Your Body",
+      "timestamp": "2023-06-18T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
