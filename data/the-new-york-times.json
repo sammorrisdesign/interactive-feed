@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2023-06-18T09:13:01.084Z",
+  "lastUpdated": "2023-06-20T09:13:38.208Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/gail-collins-the-most-of-nora-ephron.html",
+      "headline": "How ‘The Most of Nora Ephron’ Explains America",
+      "timestamp": "2023-06-20T09:01:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/nyt-columnists-culture.html",
+      "headline": "The Culture That Explains America",
+      "timestamp": "2023-06-20T09:01:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/pamela-paul-hazard-of-new-fortunes.html",
+      "headline": "How ‘A Hazard of New Fortunes’ Explains America",
+      "timestamp": "2023-06-20T09:01:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/ted-lasso-tressie-mcmillan-cottom.html",
+      "headline": "How ‘Ted Lasso’ Explains America",
+      "timestamp": "2023-06-20T09:00:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/nicholas-kristof-horatio-alger-ragged-dick.html",
+      "headline": "How ‘Ragged Dick’ Explains America",
+      "timestamp": "2023-06-20T09:00:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/great-gatsby-ross-douthat.html",
+      "headline": "How ‘The Great Gatsby’ Explains America",
+      "timestamp": "2023-06-20T09:00:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/maureen-dowd-invasion-of-the-body-snatchers.html",
+      "headline": "How ‘Invasion of the Body Snatchers’ Explains America",
+      "timestamp": "2023-06-20T09:00:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/jamelle-bouie-first-reformed-movie.html",
+      "headline": "How ‘First Reformed’ Explains America",
+      "timestamp": "2023-06-20T09:00:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/pulp-fiction-bret-stephens.html",
+      "headline": "How ‘Pulp Fiction’ Explains America",
+      "timestamp": "2023-06-20T09:00:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/20/opinion/breaking-bad-zeynep-tufekci.html",
+      "headline": "How ‘Breaking Bad’ Explains America",
+      "timestamp": "2023-06-20T09:00:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
