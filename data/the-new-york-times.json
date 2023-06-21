@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-20T20:36:41.947Z",
+  "lastUpdated": "2023-06-21T05:14:35.915Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/21/us/titanic-submersible-titan-3d-model.html",
+      "headline": "A Closer Look at the Submersible Lost in the North Atlantic",
+      "timestamp": "2023-06-21T05:08:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
