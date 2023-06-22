@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-06-22T05:13:14.858Z",
+  "lastUpdated": "2023-06-22T09:13:47.251Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/22/realestate/22hunt-secor.html",
+      "headline": "A Family Trio Starts a New Chapter in the City. Where Could They Find Three Bedrooms?",
+      "timestamp": "2023-06-22T09:00:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/22/well/live/period-menstruation-quiz.html",
+      "headline": "How Much Do You Know About the Menstrual Cycle?",
+      "timestamp": "2023-06-22T09:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/22/style/bikes-motorcycles-martinique.html",
+      "headline": "On a Caribbean Island, Young People Find Freedom in ‘Bike Life’",
+      "timestamp": "2023-06-22T09:00:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/22/travel/things-to-do-paris.html",
+      "headline": "36 Hours in Paris",
+      "timestamp": "2023-06-22T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
