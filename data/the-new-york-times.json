@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-22T04:16:35.476Z",
+  "lastUpdated": "2023-06-22T05:13:14.858Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/22/opinion/dobbs-abortion-kansas-focus-group.html",
+      "headline": "Nine Kansas Women Try to Make Sense of America’s Hardest Issue",
+      "timestamp": "2023-06-22T05:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
