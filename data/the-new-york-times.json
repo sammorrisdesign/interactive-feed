@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-22T09:13:47.251Z",
+  "lastUpdated": "2023-06-22T11:11:41.426Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/22/realestate/three-bedroom-apartment-nyc.html",
+      "headline": "A Family Trio Starts a New Chapter in the City. Where Could They Find Three Bedrooms?",
+      "timestamp": "2023-06-22T09:00:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
