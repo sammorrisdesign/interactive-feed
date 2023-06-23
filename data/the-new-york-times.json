@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-23T01:28:15.841Z",
+  "lastUpdated": "2023-06-23T09:16:16.540Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/23/realestate/barbie-dreamhouse.html",
+      "headline": "Barbie, Her House and the American Dream",
+      "timestamp": "2023-06-23T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
