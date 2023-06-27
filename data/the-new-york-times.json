@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-06-26T22:38:12.690Z",
+  "lastUpdated": "2023-06-27T21:13:53.102Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/27/us/elections/results-new-york-city-council.html",
+      "headline": "New York City Council Primary Election Results",
+      "timestamp": "2023-06-27T20:45:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/27/us/elections/results-new-york.html",
+      "headline": "New York Primary Election Results",
+      "timestamp": "2023-06-27T20:45:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
