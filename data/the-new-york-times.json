@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-28T09:15:33.416Z",
+  "lastUpdated": "2023-06-28T14:37:37.259Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/28/arts/kiki-bouba-effect.html",
+      "headline": "Kiki or Bouba?",
+      "timestamp": "2023-06-28T14:30:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
