@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-06-27T21:13:53.102Z",
+  "lastUpdated": "2023-06-28T09:15:33.416Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/28/world/europe/ukraine-counteroffensive-obstacles.html",
+      "headline": "21 Miles of Obstacles",
+      "timestamp": "2023-06-28T09:00:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/28/technology/ai-detection-midjourney-stable-diffusion-dalle.html",
+      "headline": "How Easy Is It to Fool A.I.-Detection Tools?",
+      "timestamp": "2023-06-28T09:00:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
