@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-06-28T14:37:37.259Z",
+  "lastUpdated": "2023-06-29T09:15:44.093Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/29/realestate/washington-dc-homes.html",
+      "headline": "Two Sisters Try Living Together (Again) in Washington. Who Gets the Bigger Bedroom?",
+      "timestamp": "2023-06-29T09:00:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/29/video/ukraine-russia-frontline-hospital.html",
+      "headline": "‘It’s a Struggle Against Death’: Ukrainian Combat Medics Race to Save Lives",
+      "timestamp": "2023-06-29T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/29/travel/things-to-do-marthas-vineyard-massachusetts.html",
+      "headline": "36 Hours in Martha’s Vineyard, Mass.",
+      "timestamp": "2023-06-29T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
