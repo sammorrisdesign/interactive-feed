@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-29T09:15:44.093Z",
+  "lastUpdated": "2023-06-29T15:15:50.663Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/29/us/affirmative-action-decision-document-supreme-court.html",
+      "headline": "Read the Supreme Court Decision",
+      "timestamp": "2023-06-29T14:36:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
