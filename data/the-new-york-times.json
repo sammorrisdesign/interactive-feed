@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-29T15:15:50.663Z",
+  "lastUpdated": "2023-06-30T14:13:41.583Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/30/us/gay-rights-first-amendment-same-sex-document.html",
+      "headline": "Read the Document",
+      "timestamp": "2023-06-30T14:07:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
