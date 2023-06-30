@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-30T14:13:41.583Z",
+  "lastUpdated": "2023-06-30T15:15:14.126Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/06/30/us/student-loan-forgiveness-supreme-court-decision-document.html",
+      "headline": "Read the document",
+      "timestamp": "2023-06-30T14:39:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
