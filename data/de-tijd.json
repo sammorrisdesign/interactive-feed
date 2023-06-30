@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2023-06-09T08:17:07.455Z",
+  "lastUpdated": "2023-06-30T08:18:47.683Z",
   "articles": [
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "url": "https://www.tijd.be/politiek-economie/belgie/algemeen/recordaantal-belgen-met-diabetes/10476546.html",
+      "headline": "Recordaantal Belgen met diabetes",
+      "timestamp": "2023-06-23T01:00:00.000Z"
+    },
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "url": "https://www.tijd.be/ondernemen/sport/de-verscholen-voetballersfabriek-achter-manchester-city/10473538.html",
+      "headline": "De verscholen voetballersfabriek achter Manchester City",
+      "timestamp": "2023-06-09T01:00:00.000Z"
+    },
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "url": "https://www.tijd.be/ondernemen/transport/transportsector-kreunt-onder-faillissementen-en-dat-is-nog-maar-stilte-voor-de-storm/10468002.html",
+      "headline": "Transportsector kreunt onder faillissementen: 'En dat is nog maar stilte voor de storm'",
+      "timestamp": "2023-05-16T01:00:00.000Z"
+    },
     {
       "publication": "De Tijd",
       "twitterHandle": "TijdGraphics",
