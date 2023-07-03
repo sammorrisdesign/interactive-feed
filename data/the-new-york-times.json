@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-07-02T09:14:08.910Z",
+  "lastUpdated": "2023-07-03T09:16:17.276Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/03/opinion/for-most-college-students-affirmative-action-was-not-enough.html",
+      "headline": "For Most College Students, Affirmative Action Was Never Enough",
+      "timestamp": "2023-07-03T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
