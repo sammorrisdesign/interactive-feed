@@ -164,9 +164,10 @@
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",
       "sources": [{
-        "type": "Twitter",
-        "twitterID": "1310201424",
-        "domain": "reuters.com"
+        "type": "Website",
+        "path": "https://www.reuters.com/graphics/",
+        "selector": "article a",
+        "headline": "span"
       }]
     },
     {

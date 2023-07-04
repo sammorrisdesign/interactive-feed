@@ -1,6 +1,3331 @@
 {
-  "lastUpdated": "2023-06-08T20:13:38.292Z",
+  "lastUpdated": "2023-07-04T21:21:03.783Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TENNIS-WIMBLEDON/GRAPHIC/lbvggkzjmvq/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TENNIS-WIMBLEDON/GRAPHIC/lbvggkzjmvq/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-JULY4/FIREWORKS/klvygaxxyvg/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ABORTION/DISTANCE/zgpobowdqvd/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ASIA-WEATHER/byvrlywymve/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-CRASH/RAIL-INVESTIGATION/dwvkdwnbkpm/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-BORDER/byvrlwjreve/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ASIA-STORM/MOCHA/zjvqjlenrpx/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TURKEY-QUAKE/TOXINS/znvnbmyrzvl/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-TAIWAN/egvbylbywpq/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/OCEANS/jnvwyjomdvw/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ARMS/lgvdkoygnpo/",
+      "headline": "How weapons from Western allies are strengthening Ukraine's defence",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/CALIFORNIA-DROUGHT/byvrlqxqnve/",
+      "headline": "Why California is still in drought despite heavy rain and snow",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TURKEY-QUAKE/AFTERSHOCKS/dwpkdzklevm/",
+      "headline": "How Turkey has been inundated with aftershocks",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/PERU-PROTEST/ROADBLOCK/zgpobnbwavd/",
+      "headline": "Peru blockaded",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-FILM/akveqmlarvr/",
+      "headline": "Box office breakup",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TURKEY-QUAKE/dwvkdeknxpm/",
+      "headline": "Earthquake strikes Turkey, Syria",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPACE-ASTEROIDS/zdpxdnrzrpx/",
+      "headline": "Tracking the asteroids that menace Earth",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-MISSILES/TESTING/byvrllmjmve/",
+      "headline": "Why North Korea’s missiles are going higher and further",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/MEKONG/egpbyyadnvq/",
+      "headline": "How dams starve the Mekong River Delta of vital sediment",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/PLANTS-RECOVERY/egvbyynabpq/",
+      "headline": "How drones are helping scientists locate endangered plants",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/PLANTS/jnpwyygywpw/",
+      "headline": "Disappearing plants jeopardize a green future",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/INSECT-APOCALYPSE/egpbykdxjvq/",
+      "headline": "Insect populations are declining at an unprecedented rate",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/CHINA-TIMELINE/movaknbabva/",
+      "headline": "How public protests gained pace across China",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ARCTIC-SECURITY/zgvobmblrpd/",
+      "headline": "Dark Arctic: NATO allies wake up to Russian supremacy in the region",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/COP-27/COP27/zgvobwqkapd/",
+      "headline": "How clean energy could conquer",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/MIDTERMS/zgpobwokdvd/",
+      "headline": "Charting the midterms",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/RESULTS/dwvkdgzdqpm/",
+      "headline": "U.S. election 2022: Live results and maps",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/EXIT-POLLS/myvmomejqvr/",
+      "headline": "Pressing issues for voters surface in exit polls",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/MIDTERMS/gdpzyzowgvw/",
+      "headline": "How does the president's party fare in the midterms?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/POLLS/klvygeydyvg/",
+      "headline": "What time do the polls close in your state?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOUTHKOREA-STAMPEDE/CHRONOLOGY/zjvqjqmmlpx/",
+      "headline": "How Halloween revelry turned to disaster in South Korea",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ACCIDENT/BRIDGE/akpeqgjawpr/",
+      "headline": "India bridge collapse: Death toll rises",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/VOTING-RESTRICTIONS/znvnbdjbkvl/",
+      "headline": "Where voting has become more difficult",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/ECONOMY-POLL/akvezdbzrpr/",
+      "headline": "It’s the Economy Stupid",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/THAILAND-SHOOTING/RECONSTRUCTION/zdpxolwrwvx/",
+      "headline": "Three hours of horror",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/STORM-IAN/RECONNAISSANCE/xmvjozyqxpr/",
+      "headline": "How hurricane hunters fly into the eye of a storm",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/ABORTION/zdpxoldbkvx/",
+      "headline": "How abortion rights fared in the midterms",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/STORM-IAN/gkvlgrxldpb/",
+      "headline": "Hurricane Ian batters the Gulf Coast",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/DAMAGE/lbpgnqnljvq/",
+      "headline": "Russia’s invasion causes damage across Ukraine",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ENERGY/egpbkzkqqvq/",
+      "headline": "Mystery leaks reported from Russian Nord Stream pipelines",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/PAKISTAN-WEATHER/FLOODS/zgvomodervd/",
+      "headline": "Submerged Cities",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ORPHANS/dwpkrxzwwvm/",
+      "headline": "Emptying Ukraine’s Orphanages",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITISH-ROYALS/QUEEN/xmpjoajdbvr/",
+      "headline": "The 10 days of events following the death of Queen Elizabeth",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/jnvwemlodvw/",
+      "headline": "Ukraine’s swift counteroffensive",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/WILDFIRE-EMISSIONS/zjvqkrwmnvx/",
+      "headline": "Why Arctic fires are releasing more carbon than ever",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/PAKISTAN-WEATHER/FLOODS/akpezbzxgvr/",
+      "headline": "Floods in Pakistan",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/ZAPORIZHZHIA/mypmnznjqvr/",
+      "headline": "Zaporizhzhia on the frontline",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPACE-EXPLORATION/MOON/zjvqkbrwovx/",
+      "headline": "Back to the Moon",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/VOTING/mypmnewdlvr/",
+      "headline": "Machine Politics",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/EUROPE-WEATHER/DROUGHT/jnvwenznyvw/",
+      "headline": "Europe's driest summer in 500 years",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/EUROPE-GAS/zdvxozxzopx/",
+      "headline": "How much of Europe’s gas storage is filled",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-MONKEYPOX/xmpjomlqqvr/",
+      "headline": "Tracking the global spread of monkeypox",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-WILDFIRES/YOSEMITE/zjvqkbqodvx/",
+      "headline": "Saving the sequoias",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/GRAIN/dwpkrwgllvm/",
+      "headline": "Traffic resumes from Ukrainian ports",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/PHILIPPINES-QUAKE/lbvgneegepq/",
+      "headline": "Philippines earthquake",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/znpneamnkvl/",
+      "headline": "It’s getting hotter all year round",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/CONTROL/gdpzygorxvw/",
+      "headline": "The Road to Stalemate",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/JAPAN-ABE/ASSASSINATION/zgpomxaygpd/",
+      "headline": "Assassination of Shinzo Abe",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CYCLING-FRANCE/egpbkggexvq/",
+      "headline": "Tour de France 2022",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AFGHANISTAN-QUAKE/akvezlnropr/",
+      "headline": "Afghanistan earthquake",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ABORTION/GRAPHIC/zgpomdbeopd/",
+      "headline": "Abortion access in a post-Roe America",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/FOOD/zjvqkgomjvx/",
+      "headline": "The war in Ukraine is fuelling a global food crisis",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ABORTION-USA/OVERTURNED/klvyklwwovg/",
+      "headline": "The distance hurdle",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ABORTION-USA/OVERTURNED/gdpzyaangvw/",
+      "headline": "How access to abortion changes if Roe v. Wade is overturned",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/USA-WILDFIRES/zgvomlymnvd/",
+      "headline": "California fires threaten unbuilt housing",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/CIVILIANS/zgpomygqmpd/",
+      "headline": "Under fire: Civilian lives and homes destroyed by the conflict",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-CRASH/ANALYSIS/movanbqyxpa/",
+      "headline": "The plunge from 29,000 feet",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/REFUGEES/dwvkrqzlnpm/",
+      "headline": "Fleeing Ukraine",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-CRASH/znvneqennpl/",
+      "headline": "Plane crash in China",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MOVIES-GODFATHER/lbpgnmrynvq/",
+      "headline": "“The Godfather” at 50",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/PARALYMPICS-2022/EQUIPMENT/dwpkrlmnrvm/",
+      "headline": "Built to win",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/WEAPONS/lbvgnzdnlpq/",
+      "headline": "Weapons of the war in Ukraine",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/FRANCE-ELECTION/POLLS/zjvqkomzlvx/",
+      "headline": "French Election Polls",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/SANCTIONS/byvrjenzmve/",
+      "headline": "Tracking sanctions against Russia",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/AIRLINES/klpykbmropg/",
+      "headline": "Unfriendly skies",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/zdpxokdxzvx/",
+      "headline": "Russia invades Ukraine",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MEXICO-PEMEX/FLARING/dwvkrjxagpm/",
+      "headline": "Up in flames",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-CRISIS/GAS/gdpzynlxovw/",
+      "headline": "Russian gas threat in Europe",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TONGA-VOLCANO/LIGHTNING/zgpomjdbypd/",
+      "headline": "Tonga's volcanic lightning storm",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/CANADA-TRUCKING/egvbklwompq/",
+      "headline": "Border blockade: Inside the anti-mandate protests disrupting trade",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUTOS-ELECTRIC/USA/mopanyqxwva/",
+      "headline": "The long road to electric cars in the U.S.",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-IMMIGRATION/REUNIFICATION/byprjxlnzpe/",
+      "headline": "Together at last: A migrant family’s arduous path to reunification",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TONGA-VOLCANO/znpnejbjovl/",
+      "headline": "The race to reconnect Tonga",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/RUSSIA-UKRAINE/dwpkrkwkgvm/",
+      "headline": "Ukraine and Russia on the edge of war",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GENDER-LANGUAGE/LGBT/mopanqoelva/",
+      "headline": "Gender and language",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TONGA-VOLCANO/lgpdwjyqbvo/",
+      "headline": "How big was the Tonga eruption?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TONGA-VOLCANO/znvneloakpl/",
+      "headline": "A shockwave from the South Pacific",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-BHUTAN/BORDER/zjvqknaryvx/",
+      "headline": "China steps up construction along disputed Bhutan border",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/THREATS/mopanwmlkva/",
+      "headline": "Anatomy of a death threat",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/EUROPE/klvyknwllvg/",
+      "headline": "Covid swells return to Europe",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPACE-EXPLORATION/TELESCOPE/klvyknwbrvg/",
+      "headline": " Looking back in time ",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-CHRISTMAS/NUTCRACKER-BALLET/jnvweaomdvw/",
+      "headline": "How “The Nutcracker” saved ballet’s Christmas",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/POLLING/byprjqmdjpe/democrat/",
+      "headline": "Who are the Democrats?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/POLLING/byprjqmdjpe/republican/",
+      "headline": "Who are the Republicans?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-UN/EMISSIONS/jnvwexaryvw/",
+      "headline": "Who is the biggest polluter?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/VIRGINIA/gkplgdmzavb/",
+      "headline": "Results from the 2021 Virginia governor’s race",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-UN/ARGENTINA-RIVER/zdpxoreykvx/",
+      "headline": "Down river",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-DEFORESTATION/RAINFOREST/klvykzrbxvg/",
+      "headline": "Vanishing tropical rainforests",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TAIWAN-CHINA/byvrjrmgnve/",
+      "headline": "The skies over the South China Sea",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-5G/jnpweyldnpw/",
+      "headline": "Why 5G is slow in the U.S. but will get better eventually",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/USA/znpnebyyovl/",
+      "headline": "What we know about COVID-19 in U.S. children",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GERMANY-ELECTION/POLLS/jnpweekxypw/",
+      "headline": "German election: The latest polls",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-IMMIGRATION/MEXICO/mopankddwva/",
+      "headline": "Border refugees",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/BIDEN/zgpombrajpd/",
+      "headline": "U.S. vaccine mandates in schools, state by state",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GERMANY-POLITICS/MERKEL/mopankkkova/",
+      "headline": "Marking Merkel",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GERMANY-ELECTION/MERKEL/lbvgnggwqpq/",
+      "headline": "The Making of Angela Merkel",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/ICE-CORES/zjvqkjkjlvx/",
+      "headline": "The vanishing climate archives",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CANADA-ELECTION/zjvqkjkomvx/",
+      "headline": "Canada’s snap election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/STORM-IDA/RAINFALL/akvezzlbzpr/",
+      "headline": "Torrential rains",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/STORM-IDA/LANDFALL/lgvdwwgjwpo/",
+      "headline": "Hurricane Ida hits Gulf Coast",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MYANMAR-POLITICS/zjpqkkoaqpx/",
+      "headline": "Protest drove a generation to Myanmar’s streets. Military crackdowns sent hundreds to their deaths.",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AFGHANISTAN-CONFLICT/zjvqkkdqzvx/",
+      "headline": "Blast in Kabul",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ECONOMY/zjpqkkaonpx/",
+      "headline": "Prices are rising, but is it inflation?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AFGHANISTAN-CONFLICT/KABUL-AIRPORT/zjpqkkwmypx/",
+      "headline": "Flights over Kabul",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AFGHANISTAN-CONFLICT/KABUL-AIRPORT/movannkgkpa/",
+      "headline": "Chaos in Kabul",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HAITI-QUAKE/DAMAGE/lbvgnnnjnpq/",
+      "headline": "Earthquake in Haiti",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-WILDFIRES/lbvgnrqjepq/",
+      "headline": "Extreme heat and wildfires hit the Mediterranean region",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/investigates/special-report/usa-diabetes-covid/",
+      "headline": "How the COVID-19 pandemic laid bare America’s diabetes crisis",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-BIDEN/INFRASTRUCTURE/mypmnmewlvr/",
+      "headline": "Senate passes infrastructure bill",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-CLIMATE/DROUGHT/dwpkrgbqovm/",
+      "headline": "Lake Mead at a low",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ETHIOPIA-DAM/movanmkbmpa/",
+      "headline": "How Ethiopia’s huge dam could transform parts of Africa",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/SAND-POYANG/qzjpqxxabvx/",
+      "headline": "Devoured",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/VACCINATION/xklvyxrdgpg/",
+      "headline": "Vaccination burnout?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-INDEPENDENCE/HOTDOG/xklpyxqjgvg/",
+      "headline": "Man bites dog",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/OLYMPICS-2020/HISTORY/oakpedqbgvr/",
+      "headline": "The forgotten Olympic sports",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/OLYMPICS-2020/SUMMER-HEAT/bdwvkogrzvm/",
+      "headline": "Hot and humid Olympic summer",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TRUMP-EFFECT-COURTS/010080E30TG/",
+      "headline": "Courting change",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/INDIA-VACCINE/azgpoozqdpd/",
+      "headline": "Young, Indian, Unvaccinated",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOCCER-EURO/yzdvxmjjnpx/",
+      "headline": "Reuters Euro 2020 live",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/VERMONT/dgkplnqawpb/",
+      "headline": "A wave of voting laws",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/GAZA/azgpoozagpd/",
+      "headline": "Counting the cost in Gaza",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ETHIOPIA-CONFLICT/EXPULSIONS/yzdpxmqyavx/",
+      "headline": "Witnesses to slaughter",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-BIDEN/INVESTMENTS/xlbvgkbxlvq/",
+      "headline": "Biden’s tax overhaul",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-INDIA/CORONAVIRUS-DEATHS/qzjvqrqaqpx/",
+      "headline": "Mass cremations, day and night",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOCCER-CHAMPIONS/yzdvxzzwnvx/",
+      "headline": "A football story: how big money remade the people's game",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-BIDEN/INFRASTRUCTURE-FREEWAYS/qzjpqbzzyvx/",
+      "headline": "Divided highway",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MUSIC-EUROVISION/FINAL/rlgvdyeqzpo/",
+      "headline": "Shifting songs of Eurovision",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ISRAEL-PALESTINIAN/GAZA/xegpbdwnkpq/",
+      "headline": "A fragile truce",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/OLYMPICS-2020/EXPLAINER/gjnvwnlwgpw/",
+      "headline": "Tokyo Olympics",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/INDIA-TWITTER/oakpekqlrpr/",
+      "headline": "#SOS: India's tweets for help",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-BIDEN/POLL/nmopagnqapa/",
+      "headline": "What does the country think of Biden?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ECONOMY/BASEBALL/xklpywknmpg/",
+      "headline": "Major League Baseball returns",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOCCER-EUROPE/BREAKAWAY-INTERNATIONALS/oakvewxqjvr/",
+      "headline": "Super League shakeup",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CARIBBEAN-VOLCANO/jznvnalkdpl/",
+      "headline": "Dormant Le Soufriere Awakens",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/BRAZIL/rlgvdzjlxvo/",
+      "headline": "Brazil on the brink",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-CAPITOL/SECURITY/xegpbxoadpq/",
+      "headline": "When the right wing rallies",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/SEAGRASS/xklvyyeqjvg/",
+      "headline": "Carbon recyclers",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/EU-VACCINES/qmypmrelyvr/",
+      "headline": "Europe’s vaccine hesitancy",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ECONOMY/BASEBALL/qzjpqlzykvx/",
+      "headline": "Baseball is back! (Sort of...)",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/UK-VARIANT/ygdpzgblxvw/",
+      "headline": "Variant of concern",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/EGYPT-SUEZCANAL/SHIP/jznvngokdpl/",
+      "headline": "Suez blockage",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/world-coronavirus-tracker-and-maps/vaccination-rollout-and-access/",
+      "headline": "COVID-19 vaccine rollout: charts, maps and eligibility by country",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-GUNS/MASS-SHOOTING/nmovardgrpa/",
+      "headline": "A timeline of mass shootings in the U.S.",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/VACCINE-EFFECTS/xegvbglkrpq/",
+      "headline": "One in a million: Comparing the potential side effects of COVID-19 vaccines",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CANNABIS-TECH/qzjpqlwgqvx/",
+      "headline": "Highly investable ",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/EQUATORIAL-BLAST/DAMAGE/azgpodbravd/",
+      "headline": "Devastation in Equatorial Guinea",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ECONOMY/STIMULUS/jbyprdzaqpe/",
+      "headline": "Why the Fed doesn’t fear Biden’s $1.9 trillion bill",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MYANMAR-POLITICS/INTERNET-RESTRICTION/rlgpdbreepo/",
+      "headline": "Myanmar’s internet suppression",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/BATS/qzjpqglbxpx/",
+      "headline": "Bats and the origin of outbreaks",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MYANMAR-POLITICS/DETENTIONS/jbyvrdaznve/",
+      "headline": "Politicians, doctors and a fortune-teller: Myanmar’s new wave of detainees",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-DISASTER/LANDSLIDE/ygdvzeaxypw/",
+      "headline": "Disaster in the Himalayas",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GREAT-REBOOT/OFFICE/xlbpgdyjzvq/",
+      "headline": "What will it be like when we go back to the office?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/VACCINE-ROLLOUT/rlgvdegqqpo/",
+      "headline": "Speed and trust",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/FINANCES/oakverxqapr/",
+      "headline": "Two faces of Europe in pandemic",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/USA-CASUALTIES-CHRONOLOGY/xklpyomnrpg/",
+      "headline": "500,000 lives lost",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-ENVIRONMENT/SAND/ygdpzekyavw/",
+      "headline": "The messy business of sand mining",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TAIWAN-CHINA/SECURITY/jbyvrnzerve/",
+      "headline": "China’s latest weapon against Taiwan: the sand dredger",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/DEATHS/ygdvzazjopw/",
+      "headline": "Portugal at breaking point",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/DEATHS/jznvnmanrpl/",
+      "headline": "Europe’s COVID-19 divide",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-WILDFIRES/EXTREMES/qzjvqmmravx/",
+      "headline": "The age of the “megafire”",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-TRUMP/LAWMAKERS/xegpbedzdvq/",
+      "headline": "The Republicans who voted to overturn the election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-FARMERS/PROTESTS/nmopaozzqpa/",
+      "headline": "Tractors to Delhi",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/VACCINE-CALCULATOR/rlgvdgewwpo/",
+      "headline": "When could everyone in the U.S. get vaccinated?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-ACCIDENT/MINE/xklvylmnbpg/",
+      "headline": "The race to save the Qixia miners",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDONESIA-CRASH/SEARCH/xegvbeywzpq/",
+      "headline": "Flight SJ182: The search for answers",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDONESIA-CRASH/yzdpxjlrgpx/",
+      "headline": "Disaster after takeoff",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/BRAZIL-CARBON/nmovabezapa/",
+      "headline": "Amazon jungle lab",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/PROTESTS/qmyvmqewmvr/",
+      "headline": "Crisis at the Capitol",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/VACCINE/nmovabblmpa/",
+      "headline": "From labs to jabs",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ENVIRONMENT-2020/WARMING/qzjpqdadnvx/",
+      "headline": "Wild weather, warming planet",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/SCRAPBOOK/gjnpwklkopw/",
+      "headline": "Clippings from the longest year",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ETHIOPIA-CONFLICT/xklpyjmndvg/",
+      "headline": "The conflict in Ethiopia",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/ICEBERG/yzdvxjrbzvx/",
+      "headline": "World’s biggest iceberg heads for disaster",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/EVOLUTION/yxmpjqkdzvr/",
+      "headline": "How the novel coronavirus evolved",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-BIDEN/CABINET/yxmvjeyqkpr/",
+      "headline": "Biden’s team takes shape",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/SENATE-FUNDRAISING/yxmvjeyjkpr/",
+      "headline": "Financial sinkholes",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/CHINA-GLACIER/rlgvdamqnpo/",
+      "headline": "China’s glaciers in retreat",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/VACCINE-TRACKER/xegpbqnlovq/",
+      "headline": "Tracking the vaccine race",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/RESULTS/jznvnjyjzvl/",
+      "headline": "How Joe Biden won the election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTIONS/oakvendenpr/",
+      "headline": "Voting highs",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/EXIT-POLL/xegvblddavq/",
+      "headline": "Polling the polls",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/RESULTS-LIVE-US/jbyprxelqpe/",
+      "headline": "U.S. 2020 live election results",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ARMENIA-AZERBAIJAN/jbyprxxqbpe/",
+      "headline": "The Nagorno-Karabakh conflict",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/VOTECOUNT/azgvojjnjpd/",
+      "headline": "How to count an election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/ELECTORAL-COLLEGE/qzjpqaeqapx/",
+      "headline": "How the Electoral College works",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU/jbyprxlyjpe/",
+      "headline": "Understanding Brexit: Divorce, but not quite separation",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/DATA-VISUAL/yxmvjjgojvr/",
+      "headline": "How political campaigns use your data",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/LATAM-POVERTY/nmopawazapa/",
+      "headline": "Latin America's shattered dreams",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/PERMAFROST/oakveelglvr/",
+      "headline": "Thawing permafrost puts climate change in spotlight",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-WILDFIRES/WINE/bdwpkkmxmpm/",
+      "headline": "Up in smoke",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHILE-CRIME/RASPBERRIES/jbyvrmdkope/",
+      "headline": "A Chilean raspberry scam",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/DEATHS/xlbpgobgapq/",
+      "headline": "COVID-19: The pace of death",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/BATTLEGROUNDS/nmopawwakpa/",
+      "headline": "Battleground polling",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-WILDFIRE/POLLUTION/xlbpgjgervq/",
+      "headline": " Shifting smoke ",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/world-coronavirus-tracker-and-maps/",
+      "headline": "COVID-19: the latest global statistics, charts and maps",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CALIFORNIA-WILDFIRES/xegvboxrypq/",
+      "headline": "Wildfires: A devastated West Coast",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CALIFORNIA-WILDFIRE/AIRCRAFT/bdwpkzmyyvm/",
+      "headline": "Air attack",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/VOTE-BY-MAIL/ygdpzmexmvw/",
+      "headline": "Voting by mail in the U.S.",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MAURITIUS-ENVIRONMENT/SPILL/xlbvglnqrpq/",
+      "headline": "Collision course",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/LEBANON-SECURITY/BLAST/yzdpxnmqbpx/",
+      "headline": "How powerful was the Beirut blast?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/LEBANON-SECURITY/BLAST/rlgvdngqmvo/",
+      "headline": "Deadly blast in Beirut",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/WW2-ANNIVERSARY/HIROSHIMA/rlgpdnqljpo/",
+      "headline": "In a flash, a changed world",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ECONOMY/GDP/jbyprkmjqve/",
+      "headline": "GDP crash",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/DEATHS/xlbvgblezpq/",
+      "headline": "The scale of coronavirus deaths",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUTOS-TESLA/NEWERA/bdwvkerrkvm/",
+      "headline": "Tesla electrifies the auto industry’s new era",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/EU-RECOVERY/jznvnzwomvl/",
+      "headline": "Europe’s stabilising power",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CYBER-DEEPFAKE/ACTIVIST/nmovajgnxpa/",
+      "headline": "These faces are not real",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-RACE/USA/nmopajawjva/",
+      "headline": "The race gap",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-RACE/BTS-FANS/nmopajgmxva/",
+      "headline": "The mobilising power of the BTS ARMY",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-MINING/INDIGENOUS/oakpearaepr/",
+      "headline": "Mining Australia’s sacred sites",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/POLICY/ygdpzwarjvw/",
+      "headline": "Where Biden and Trump stand on key issues",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/TIME/gjnvwwjegvw/",
+      "headline": "Why time feels so weird in 2020",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/SOCIALDISTANCING/qzjvqenmyvx/",
+      "headline": "New normal: How far is safe enough?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRAZIL-INDIGENOUS/MINING/rlgvdllonvo/",
+      "headline": "The threatened tribe",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MINNEAPOLIS-POLICE/PROTESTS-VIDEOS/oakveazawvr/",
+      "headline": "Videos of alleged police misconduct went viral. Then what happened?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-CHINA/BATTLE/yxmvjkzxwpr/",
+      "headline": "India-China clash",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MINNEAPOLIS-POLICE/WEAPONS/xegvbybazpq/",
+      "headline": "Weapons of control",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/BRITAIN-CAREHOMES/azgvobknjpd/",
+      "headline": "British nursing homes in crisis as deaths mount",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/USA-TRENDS/jznpnbdojpl/",
+      "headline": "America’s cautious comeback",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ASIA-STORM/INDIA/oakpezdqmvr/",
+      "headline": "India and Bangladesh feel the force of Cyclone Amphan",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/CONGESTION/dgkvlgkekpb/",
+      "headline": "Megacities under lockdown",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/PHILIPPINES-CRUISESHIPS/xegvbkeaqpq/",
+      "headline": "In nautical limbo",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/USA-TRENDS/dgkvlgkrkpb/",
+      "headline": "Where U.S. coronavirus cases are on the rise",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/AFRICA/yzdpxoqbdvx/",
+      "headline": "Virus exposes gaping holes in Africa’s health systems",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/PPE/rlgpdwxkavo/",
+      "headline": "Protecting those fighting the coronavirus",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ECONOMY/JOBS/yxmpjojxqvr/",
+      "headline": "The U.S. April jobs report",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/TESTING/azgvomklmvd/",
+      "headline": "The COVID-19 testing challenge",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/ETHICS/oakpezqllvr/",
+      "headline": "When medical resources are limited, who should get care first?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/TRANSMISSION-STATUS/azgpombyxpd/",
+      "headline": "The last places on earth without coronavirus",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/FACEMASKS/dgkvlgwzjpb/",
+      "headline": "Make a mask",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/SPY/qzjvqkkxovx/",
+      "headline": "Tracing COVID-19",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/yxmvjookdpr/",
+      "headline": "An expanding epidemic",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/USA-SAFETY-NET/rlgpdwwjjvo/",
+      "headline": "America's pandemic safety net",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/VENTILATORS/oakvekyxvrd/",
+      "headline": "Ventilators: a bridge between life and death?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/xklpyraqvgd/",
+      "headline": "The Apocaloptimist Manifesto",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE/CORONAVIRUS-POLLUTION/jznvngjyplm/",
+      "headline": "A breath of fresh air",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/SPREAD/xegpbwexvqz/",
+      "headline": "How coronavirus hitched a ride through China",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/yxmvjqywprz/",
+      "headline": "Lifeline pipeline",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/FOOD/ygdpzjrwpwa/",
+      "headline": "Don’t hoard! A calculator for buying in bulk",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/TOKYO-HOMES/dgkvlabxpbx/",
+      "headline": "Sheltering in small places",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/CASUALTIES/gjnpwjmqvwr/",
+      "headline": "Breaking the wave",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/CORPBONDS/qmyvmgylvra/",
+      "headline": "Falling Angels?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/FLIGHTS/qzjvqeqrvxm/",
+      "headline": "The toll on travel",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-CITIZENSHIP/PROTESTS/jxlbpgqlpqd/",
+      "headline": "India's citizenship protests",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS-EUROPE/0100B5M347R/",
+      "headline": "Coronavirus lockdown in Europe",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/COUNTRIES/oakveqlyvrd/",
+      "headline": "Track COVID-19 statistics for your country",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/USA/qmypmkmwpra/",
+      "headline": "The social distancing of America",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS-LOMBARDY/0100B5LT46P/",
+      "headline": "A deluge of death in northern Italy",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS-USA/0100B5LQ46H/",
+      "headline": "State by state, COVID-19 grinds U.S. to a halt",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS-GLOBAL-TESTING/0100B5LC45H/",
+      "headline": "Coronavirus testing: Which countries are leading?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-MARKETS/0100B5L144C/",
+      "headline": "March madness",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS-GROWTH/0100B5KL438/",
+      "headline": " COVID-19’s exponential growth",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS-ITALY/0100B5K6421/",
+      "headline": "Italy's coronavirus crisis",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS-USA/0100B5K8423/",
+      "headline": "The novel coronavirus in the U.S.",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS-ITALY/0100B5J33XY/",
+      "headline": "Coronavirus empties Italian roads",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AFRICA-LOCUSTS/0100B5GG3TJ/",
+      "headline": "Locust invasion",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/",
+      "headline": "2019 coronavirus: The Korean clusters",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-RESEARCH/0100B5ES3MG/",
+      "headline": "Speed Science",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-LOCKDOWN/0100B5EF3LJ/",
+      "headline": "Under China’s lockdown, millions have nowhere to go",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-ENTHUSIASM/0100B5EH3LS/",
+      "headline": "Blue enthusiasm",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-DELEGATE-TRACKER/0100B5DR3JT/",
+      "headline": "Election 2020 Delegate tracker and results",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-EVACUATION/0100B5DC3HF/",
+      "headline": "Mass exodus from China",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-GRAPHICS/0100B5CD3DP/",
+      "headline": "Coronavirus outbreak graphics",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-POLICIES/0100B5C33D8/",
+      "headline": "Where 2020 candidates stand on key issues",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-IOWA/0100B5BX3CX/",
+      "headline": "Inside the Iowa caucuses",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-VIRUS-COMPARISON/0100B5BY3CY/",
+      "headline": "Comparing outbreaks",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-HUBEI/0100B5BJ3BS/",
+      "headline": "Wuhan coronavirus: An expanding epicentre",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-WUHAN-SATELLITE/0100B5B93B4/",
+      "headline": "Satellite images show Wuhan's empty streets",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-VIRUS-SCIENCE/0100B59Z39Q/",
+      "headline": "Wuhan outbreak: Genetics of the new virus",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-HEALTH-MAP/0100B59S39E/",
+      "headline": "Tracking the spread of the novel coronavirus",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-BUSHFIRES-WILDLIFE/0100B5672VM/",
+      "headline": "Assessing Australia’s “ecological disaster” ",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/DAVOS-MEETING-AGE/0100B5622V9/",
+      "headline": "The 5 percent at Davos",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-BUSHFIRES-SMOK/0100B4W52R7/",
+      "headline": "Swirling smoke",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-BUSHFIRES-SCALE/0100B4VK2PN/",
+      "headline": "Sizing up Australia's bushfires",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/IRAQ-SECURITY/0100B4VR2Q5/",
+      "headline": "Iran targets U.S. forces",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ENVIRONMENT-PLASTIC/0100B4TF2MQ/",
+      "headline": "A plateful of plastic",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRAZIL-OILSPILL/0100B4ST2L9/",
+      "headline": "Black tide",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SYRIA-SECURITY-TURKEY-RUSSIA/0100B4SQ2L1/",
+      "headline": "Violence in the Syrian “safe zone”",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MINING-TAILINGS1/0100B4S72K1/",
+      "headline": "The looming risk of tailings dams",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NEPAL-EVEREST/0100B4S22JR/",
+      "headline": "Dangerous heights",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-BUSHFIRES-SATELLITEIMAGES/0100B4R62H1/",
+      "headline": "Forests in flames",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-VAPING/0100B4RB2H6/",
+      "headline": "Vaping crisis",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-ELECTION/0100B4QP2FV/",
+      "headline": "Understanding Brexit: UK winter election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATE-CHANGE-ICE-SHIPLOGS/0100B4QE2FC/",
+      "headline": "Weather Time Machine",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-BUSHFIRES-SIZE%20/0100B4QG2FG/",
+      "headline": "How a mega fire spread toward Sydney",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ENTERTAINMENT-STARWARS/0100B4QC2F7/",
+      "headline": "Lightsaber duels",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-FED/0100B4P72CZ/",
+      "headline": "Tracking the Fed",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HONGKONG-PROTESTS-WIKIPEDIA/0100B33629V/",
+      "headline": "Wiki wars: Hong Kong protest's online frontline",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BOLIVIA-ELECTION/0100B33529S/",
+      "headline": "Six weeks of unrest",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHILE-PROTESTS/0100B32527X/",
+      "headline": "‘Chile woke up’",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-CALENDAR/0100B31F26V/",
+      "headline": "2020 Presidential Election Calendar",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-ELECTION/0100B31826K/",
+      "headline": "British general election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/VENEZUELA-ELECTION-ABSTENTION/0100700M01D/",
+      "headline": "Party polarity",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-BUSHFIRES/0100B30H252/",
+      "headline": "Australia bushfires: State of emergency",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SINGLES-DAY-ALIBABA/0100B30E24T/",
+      "headline": "A look at Alibaba’s “Double 11” shopping day, the world’s largest online retail event",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-POLLUTION-MAP/0100B30824L/",
+      "headline": "India is facing the world's biggest pollution problem",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPAIN-ELECTION/0100B301248/",
+      "headline": "Spain November election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HONGKONG-PROTESTS-VIOLENCE/0100B2L91Z7/",
+      "headline": "Weapons of mass control, tactics of mass resistance",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHILE-ENVIRONMENT-BEES/0100B2KW1YL/",
+      "headline": "Severe drought threatens honey bees in Chile",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MIDEAST-CRISIS-BAGHDADI/0100B2KV1YJ/",
+      "headline": "The hunt for Abu Bakr al-Baghdadi",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU/0100B2HZ1TJ/",
+      "headline": "Understanding Brexit",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MEXICO-VIOLENCE/0100B2J91V6/",
+      "headline": "Bungled arrest of kingpin’s son results in mayhem",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU/0100B2J31TT/",
+      "headline": "Brexit's Super Saturday",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU-PARLIAMENT/0100B2J61TZ/",
+      "headline": "British lawmakers switching sides",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CANADA-ELECTION/0100B2HJ1SM/",
+      "headline": "Canada votes",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ASIA-STORM-JAPAN/0100B2GD1QN/",
+      "headline": "Japan counts the cost after Typhoon Hagibis",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SYRIA-SECURITY-TURKEY-USA/0100B2G11PV/",
+      "headline": "War in Northern Syria",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-TRUMP-WHISTLEBLOWER/0100B2EZ1MK/",
+      "headline": "The impeachment trial of Trump",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU/0100B2EP1LV/",
+      "headline": "Understanding Brexit",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-COURT/0100B2E31KB/",
+      "headline": "Major cases",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRAZIL-ENVIRONMENT-HIGHWAYS/0100B2DS1JV/",
+      "headline": "The roads driving Amazon deforestation",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ENVIRONMENT-CORALS-DISEASE/0100B2CP1GL/",
+      "headline": "The reef plague",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ENVIRONMENT-WATER/0100B2C41FD/",
+      "headline": "India is running out of water",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOUTHEASTASIA-HAZE-JAMBI/0100B2CF1G2/",
+      "headline": "Smoke chokes Indonesia's Jambi",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-CORONAVIRUS/VACCINE/yzdpxqxnwvx/",
+      "headline": "Vaccine bootcamp",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NINTENDO-SUPERMARIO/0100B2C01F6/",
+      "headline": "Mario Kart goes mobile",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOUTHEASTASIA-HAZE/0100B2B91DS/",
+      "headline": "Southeast Asia shrouded in smoke",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-FED/010021SN4EG/",
+      "headline": "Doves and Hawks",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/VALE-DISASTER/0100B29R1CC/",
+      "headline": "Vale’s dangerous dams in Brazil",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SAUDI-ARAMCO/0100B29Q1C3/",
+      "headline": "Strikes on Saudi oil disrupt global supply",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-SWINEFEVER-FARMERS/010090DR0KM/",
+      "headline": "China’s pig industry crisis",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/0100B284173/",
+      "headline": "Trump moves favoured Israel",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPACE-EXPLORATION-INDIA-MOON/0100B27N164/",
+      "headline": "Moonshot",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ENVIRONMENT-PLASTIC/0100B275155/",
+      "headline": "Drowning in plastic",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/WEATHER-WILDFIRES-ARCTIC/0100B26K13Y/",
+      "headline": "Arctic ablaze",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-TRADE-APPLE/0100B25R11Y/",
+      "headline": "92% of Apple products made in China could face tariffs by year’s end",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SYRIA-SECURITY-NORTHWEST/0100B251105/",
+      "headline": "The last rebel stronghold",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRAZIL-WILDFIRE/0100B25610Q/",
+      "headline": "Wildfires rage in Brazil’s Amazon",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ARGENTINA-ELECTION-GRAPHIC/0100B0DD0TV/",
+      "headline": "Argentina election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/VENEZUELA-POWER/0100B0DC0TS/",
+      "headline": "A nation left in the dark",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-EBOLA-CONGO/0100B0D70TE/",
+      "headline": "Virus at the border",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AFRICA-SLAVERY-SHIPS/0100B0CV0SB/",
+      "headline": "A terrible passage from Africa",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPACE-EXPLORATION-MOON/0100B0BH0NZ/",
+      "headline": "China’s long march to space",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-FILM-AVENGERS/010091KC2B2/",
+      "headline": "Inside the Marvel Cinematic Universe",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MIDEAST-ATTACKS-HORMUZ/0100B04806Y/",
+      "headline": "The Strait of Hormuz",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-5G/0100B08J0JE/",
+      "headline": "What is 5G and what are its security risks?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HONGKONG-EXTRADITIONS-TACTICS/0100B0790FL/",
+      "headline": "Hong Kong protests: Coordinating chaos",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPACE-EXPLORATION-MOON/0100B0750FC/",
+      "headline": "Man on the Moon",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HONGKONG-EXTRADITION-SIGNS/0100B0630BZ/",
+      "headline": "Hong Kong protests: Signs of discontent",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HONGKONG-EXTRADITION-TIMELAPSE/0100B06J0DE/",
+      "headline": "Mass Movement",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HONGKONG-EXTRADITION-CROWDSIZE/0100B05W0BE/",
+      "headline": "Hong Kong protests: How many protesters took to the streets on July 1?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/JAPAN-WHALING-COMMERCIAL/0100B05008H/",
+      "headline": "Japan resumes commercial whaling",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPACE-EXPLORATION-NEW-SPACE/0100B03R062/",
+      "headline": "New Space",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-COURT-GERRYMANDERING/010091701PF/",
+      "headline": "Election engineering",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-DECIDERS/0100B00P011/",
+      "headline": "The Deciders",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HONGKONG-EXTRADITION-PROTESTS/0100B01001H/",
+      "headline": "Hong Kong protests: Measuring the masses",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU-LEADER/010092Q33KW/",
+      "headline": "The Brexit rift splitting the Conservative Party",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-CLIMBERS/010092NV3HD/",
+      "headline": "The challenges of retrieving the bodies near Nanda Devi",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ELECTRIC-VEHICLES-METALS/010092JB38P/",
+      "headline": "Game of Mines",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ELECTION/010081Q132Y/",
+      "headline": "The changing face of Indian state assemblies",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/DDAY-ANNIVERSARY-HISTORY/010092LL3CW/",
+      "headline": "Remembering D-Day 75 years later",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-CENSUS/010092JZ39N/",
+      "headline": "The Census Question",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MCCORMICK-VANILLA/010092KE3B8/",
+      "headline": "A scarce flavor",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ELECTION-RACES/010092KS3BR/",
+      "headline": "Racing to parliament",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/EU-ELECTION-BRITAIN/010092HL37K/",
+      "headline": "Reuters Graphics",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ELECTION-SEIZURES/010091DS1ZW/",
+      "headline": "Drugs, gold, cash and alcohol",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ABORTION-RESTRICTIONS/010092FK33J/",
+      "headline": "Abortion restrictions",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ELECTION-STATIONS/010092FY33Z/",
+      "headline": "How India mobilised a million polling stations",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ELECTION-CRIMINAL-CANDIDATES/0100925031T/",
+      "headline": "The figures behind the faces",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-ELECTION/010091XT317/",
+      "headline": "Australia Elections 2019",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SRI%20LANKA-BLASTS-PLOTTER/010091W52YP/",
+      "headline": "A network of extremism expands",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HAWAII-VOLCANO/010062V84TX/",
+      "headline": "Scorched earth",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPACE-EXPLORATION-SPACEX/010091Q82NF/",
+      "headline": "Falcon flights",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/JAPAN-AGING/010091PB2LH/",
+      "headline": "Going Gray",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-KASHMIR-AIRLINES/010091M92G7/",
+      "headline": "How India-Pakistan tensions have disrupted air travel",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NEGOMBO-ATTACK-SRI%20LANKA/010091L92DJ/",
+      "headline": "Devastation at a church in Negombo",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SRI%20LANKA-BLASTS/010091JW299/",
+      "headline": "A decade of peace shattered",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-TRUMP-RUSSIA-REDACTIONS/010091J1284/",
+      "headline": "A closer look at redactions in the Mueller report",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDONESIA-ELECTION/010091H426F/",
+      "headline": "Election in Indonesia",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/FRANCE-NOTREDAME/010091GN25R/",
+      "headline": "Fire devastates Notre-Dame",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-FUNDRAISING/010091H1268/",
+      "headline": "Industry contributions to the U.S. presidential candidates",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ELECTION-PROMISES/010091DR1ZR/",
+      "headline": "Modi's report card",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU/010092G834N/",
+      "headline": "Reading the Brexit tea leaves",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU/0100919B1T1/",
+      "headline": "Brexit divorce deal",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-IMMIGRATION-TRUMP/0100919N1TG/",
+      "headline": "Trump threatens to shut U.S.-Mexico border",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-SATELLITE-WEAPON/0100918Q1RV/",
+      "headline": "India shoots down satellite",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ETHIOPIA-AIRLINE-CONTROLS/0100916V1NZ/",
+      "headline": "Change to 737 MAX controls may have imperiled planes",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BOEING-ORDERS-737MAX/0100915B1LD/",
+      "headline": "Boeing 737 MAX deliveries in question",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MIDEAST-CRISIS-ISLAMIC%20STATE/0100913M1H0/",
+      "headline": "How Islamic State lost Syria",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION/010091471JC/",
+      "headline": "Who is running in 2020",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ETHIOPIA-AIRPLANE/0100911Q1DX/",
+      "headline": "Ethiopian Airlines crash",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-KASHMIR/010090XM162/",
+      "headline": "An airstrike and its aftermath",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRAZIL-INDIGENOUS/010090X815D/",
+      "headline": "Amazon standoff",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/UKRAINE-ELECTION/010090W9135/",
+      "headline": "Ukraine election",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-USA-BODYLANGUAGE/010090VR11V/",
+      "headline": "Handshake of equals",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-USA-VIETNAM/010090TX10H/",
+      "headline": "Vietnam prepares for Trump-Kim summit",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-TRADE/010090T30Z7/",
+      "headline": "Charting the trade war",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AWARDS-OSCARS-HOST/010090SE0Y0/",
+      "headline": "The Oscar Roster",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ARGENTINA-ECONOMY/010090GP0PR/",
+      "headline": "Macri economics",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-CONGRESS/0100907R0F2/",
+      "headline": "Just elected",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-RIVER/010081TW39P/",
+      "headline": "The race to save the river Ganges",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUTOS-INVESTMENT-ELECTRIC/010081ZB3HD/",
+      "headline": "Charged",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-POLLUTION/010081VR3BW/",
+      "headline": "Palette of Pollution",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MYANMAR-ROHINGYA/010060Z21XP/",
+      "headline": "A remote home for the Rohingya",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NIGERIA-SECURITY/010081Q3332/",
+      "headline": "The fight for Nigeria's heartland",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/HEALTH-EBOLA-CONGO/010081G62NR/",
+      "headline": "Ebola epidemic",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MUSLIMS-CAMPS-CHINA/010081G52NH/",
+      "headline": "Tracking China’s Muslim Gulag",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-IMMIGRATION-ROUTE/0100818W2C4/",
+      "headline": "Deadly crossing",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-POLLUTION/01008173281/",
+      "headline": "A window into Delhi's deadly pollution",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDONESIA-CRASH/0100810F1X2/",
+      "headline": "Indonesia plane crash",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MALAYSIA-WASTE/010080YT1T1/",
+      "headline": "Swamped with plastic",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TESLA-PROFITABILITY/010080Y81S7/",
+      "headline": "Breaking down Tesla’s balance sheet",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-POLL-ANGER/010080XQ1RD/",
+      "headline": "American anger",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHILE-LITHIUM/010080VB1MH/",
+      "headline": "Dispute among lithium miners reveals water worries in the Chilean Atacama desert",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-POLLUTION/010080SY1KE/",
+      "headline": "Preparing to choke",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-FLOOD/010080MF18N/",
+      "headline": "How Kerala’s dams failed to prevent catastrophe",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDONESIA-QUAKE/010080MZ19R/",
+      "headline": "Damage in Palu",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDONESIA-QUAKE/010080KV15C/",
+      "headline": "Catastrophe in Sulawesi",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-BLUEWAVE/010080J912P/",
+      "headline": "Can Democrats regain control of the House?",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATECHANGE-GREENLAND-SEALEVELS/010080F60WR/",
+      "headline": "Sea level rise by the numbers",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATECHANGE-GREENLAND-CHALLENGES/010080EH0V0/",
+      "headline": "Harsh climate",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-ELECTION-FUEL/010080DM0SB/",
+      "headline": "India’s premium price of petrol",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATECHANGE-GREENLAND/010080D30RJ/",
+      "headline": "Project Greenland",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CLIMATECHANGE-GREENLAND/010080DH0S2/",
+      "headline": "The hunt for better climate science",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/OCEANS-TIDE-WARMING/01008124200/",
+      "headline": "Hidden climate change",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/ASIA-STORM/010080CV0R2/",
+      "headline": "Mangkhut’s destructive path",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-IMMIGRATION-REFUGEES/010080770F0/",
+      "headline": "How Trump has transformed refugee admissions",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/FINANCIAL-CRISIS2008/0100805F0BK/",
+      "headline": "Global financial crisis: 10 years on",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MYANMAR-ROHINGYA/010072393P3/",
+      "headline": "Three years on, no end in sight",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-TRUMP-RUSSIA/0100721Z3ME/",
+      "headline": "Indictments and convictions",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDIA-FLOODS/010071ZE3HS/",
+      "headline": "Kerala under water",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INDONESIA-QUAKE/010071NH35P/",
+      "headline": "Devastation in Lombok",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AUSTRALIA-DROUGHT/010071MC33G/",
+      "headline": "The cancer eating away at farms",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/APPLE-STOCKS-TRILLION/010071L931X/",
+      "headline": "Apple hits $1 trillion stock valuation",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOUTH%20DAKOTA-NATIVE%20AMERICANS/010071KN313/",
+      "headline": "Treaty reservations",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/LAOS-ACCIDENT-DAM/010071FN2TF/",
+      "headline": "How the Laos dam disaster unfolded",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ECONOMY-CONSUMERS/010071CJ2NK/",
+      "headline": "Poorer Americans buckling as U.S. economy booms",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-RUSSIA/010071702F8/",
+      "headline": "Talking heads",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/WEATHER-JAPAN/0100717K2FZ/",
+      "headline": "Death and destruction",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/THAILAND-ACCIDENT-CAVE/0100711G258/",
+      "headline": "Hope for the 13",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-FED-NEUTRAL/0100710J22Z/",
+      "headline": "The Fed shifts into neutral",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/EUROPE-MIGRANTS/010070WZ1W2/",
+      "headline": "Paris migrant camps",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TECHNOLOGY-BLOCKCHAIN/010070MF1E7/",
+      "headline": "Blockchain explained",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SPORTS-WORLDCUP/010051ZL4GR/",
+      "headline": "FIFA World Cup Tournaments",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOCCER-WORLDCUP/010070NB1F7/",
+      "headline": "The outsider’s guide to the World Cup",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ELECTION-DEMOCRATS-STATES/010070H814E/",
+      "headline": "Flippable? Democrats face long odds in key statehouses",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-USA-KIM-TRUMP/010070JM16P/",
+      "headline": "War of words",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-SOUTHCHINASEA-BUILDING/010070760H9/",
+      "headline": "Concrete and coral",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/TEXAS-SHOOTING/0100704B0B6/",
+      "headline": "Major mass shootings",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-ROYALS-WEDDING/0100703807D/",
+      "headline": "Royally Wed",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/SOCCER-ENGLAND/010061XB3SK/",
+      "headline": "The race to become champions",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/MYANMAR-ROHINGYA/010062VK4VN/",
+      "headline": "How the monsoon could devastate Rohingya camps",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-ECONOMY-JOBS/010062VB4V2/",
+      "headline": "Looking for workers",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-SOUTHKOREA-UNIFICATION/010062ES43G/",
+      "headline": "Korea: a land divided",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-MISSILES-CHINA/010061C62W1/",
+      "headline": "A secret visit to Beijing",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-OIL-RECORD/010060QM1CE/",
+      "headline": "Record oil production",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/GLOBAL-FISHING/010061031ZS/",
+      "headline": "Casting a wider net",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-DOGSHOW/010060VM1N3/",
+      "headline": "Good dogs",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/OIL-SPILLS/010060SL1GQ/",
+      "headline": "Oil spilled at sea",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/AMAZON.COM-PRIME/010060SY1HT/",
+      "headline": "Unpacking Amazon.com and its Prime economy",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/BRITAIN-EU-FISHING/010060PQ194/",
+      "headline": "Navigating Brexit waters",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CHINA-SHIPPING-SPILL/010060NC166/",
+      "headline": "How the Sanchi’s oil could spread",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-VINALON/010060CM0TG/",
+      "headline": "The fabulous story of North Korea’s fabric made of stone",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/INTERKOREA-RELATIONS/010041MD3JB/",
+      "headline": "A new dawn in inter-Korean relations",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-COURT/0100918V1S2/",
+      "headline": "The big cases",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/YEMEN-SECURITY-HUNGER/010091691MZ/",
+      "headline": "Hunger across a war-torn landscape",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/DAVOS-FORUM/0100902D03Q/",
+      "headline": "Spheres of influences",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/FRANCE-PROTESTS/010081MZ2ZM/",
+      "headline": "Yellow vests across France",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/USA-STOCKS-BULLMARKET/0100403E075/",
+      "headline": "Bull run",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/NORTHKOREA-USA/010070JS16Y/",
+      "headline": "North Korea in graphics",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/CALIFORNIA-AGING/010070Q71JT/",
+      "headline": "At the end of the sentence",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://twitter.com/ReutersGraphics",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://agency.reuters.com/en/products-services/products/graphics.html",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://github.com/reuters-graphics",
+      "headline": "",
+      "timestamp": null
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",
