@@ -352,8 +352,9 @@
       "publication": "The Verge",
       "twitterHandle": "verge",
       "sources": [{
-        "type": "Twitter",
-        "twitterID": "275686563",
+        "type": "XML",
+        "format": "Atom",
+        "path": "https://www.theverge.com/rss/index.xml",
         "domain": "theverge.com/c/"
       }]
     },

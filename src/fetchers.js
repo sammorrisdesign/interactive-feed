@@ -100,11 +100,11 @@ const fetchers = {
   
       if (feed.format == 'RSS') {
         data = data.rss.channel.item;
-  
+
         if (feed.domain) {
           data = data.filter(item => item.link.includes(feed.domain))
         }
-  
+
         articles = data.map(article => new Article(
           publication = feed.publication,
           twitterHandle = feed.twitterHandle,
@@ -113,6 +113,21 @@ const fetchers = {
           headline = article.title,
           timestamp = article.isoDate || article.pubDate
         ))
+      } else if (feed.format == 'Atom') {
+        data = data.feed.entry;
+
+        if (feed.domain) {
+          data = data.filter(entry => entry.id.includes(feed.domain))
+        }
+
+        articles = data.map(article => new Article(
+          publication = feed.publication,
+          twitterHandle = feed.twitterHandle,
+          mastodonHandle = feed.mastodonHandle,
+          url = article.id,
+          headline = article.title,
+          timestamp = article.published
+        ));
       } else if (feed.format == 'Sitemap') {
         data = data.urlset.url;
         articles = data.map(article => new Article(
