@@ -154,9 +154,10 @@
       "publication": "LA Times",
       "twitterHandle": "datagraphics",
       "sources": [{
-        "type": "Twitter",
-        "twitterID": "17918860",
-        "domain": "latimes.com"
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://www.latimes.com/index.rss",
+        "domain": "latimes.com/projects"
       }]
     },
     {
