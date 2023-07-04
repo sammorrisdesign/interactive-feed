@@ -1,6 +1,7 @@
 const fetch = require('node-fetch');
 const { XMLParser } = require('fast-xml-parser');
 const { TwitterApi } = require('twitter-api-v2');
+const cheerio = require('cheerio');
 
 const { Article } = require("./article");
 const utils = require('./utils');
@@ -70,11 +71,11 @@ const fetchers = {
 
   TheGuardianAPI: async(feed) => {
     const secrets = await utils.getSecrets();
-  
+
     if (secrets) {
       const response = await fetch(`https://content.guardianapis.com/search?api-key=${secrets.guardian}&type=interactive&q=NOT%20cartoon&order-by=newest`);
       const data = await response.json();
-  
+
       let articles = data.response.results;
       articles = articles.map(article => new Article(
         publication = feed.publication,
@@ -84,7 +85,7 @@ const fetchers = {
         headline = article.webTitle,
         timestamp = article.webPublicationDate
       ));
-  
+
       return articles;
     } else {
       console.log("Unable to fetch feed for The Guardian. Please check your secrets.json file");
@@ -158,6 +159,40 @@ const fetchers = {
     }
   },
 
+  Website: async(feed) => {
+    try {
+      const response = await fetch(feed.path);
+      const html = await response.text();
+      const $ = cheerio.load(html);
+      let data = $(feed.selector);
+
+      if (feed.domain) {
+        data = data.filter((i, node) => $(node).attr('href').includes(feed.domain))
+      }
+
+      let articles = data.map((i, article) => {
+        let timestamp = $(article).find(feed.timestamp).text();
+
+        if (feed.timestampFormat) {
+          timestamp = utils.getTimeStamp(timestamp, feed.timestampFormat);
+        }
+
+        return new Article(
+          publication = feed.publication,
+          twitterHandle = feed.twitterHandle,
+          mastodonHandle = feed.mastodonHandle,
+          url = $(article).attr('href'),
+          headline = $(article).find(feed.headline).text(),
+          timestamp = $(article).find(feed.timestamp).text()
+        )
+      });
+
+      return articles;
+    } catch (e) {
+      console.log(e);
+    }
+  },
+
   Twitter: async(feed) => {
     try {
       const secrets = await utils.getSecrets();
@@ -169,7 +204,7 @@ const fetchers = {
           accessToken: secrets.twitter.accessToken,
           accessSecret: secrets.twitter.accessSecret,
         });
-  
+
         // get all tweets from given account and retweets
         let { tweets = _realdata.data } = await client.v2.userTimeline(feed.twitterID, { exclude: ['replies'],
           "expansions": "referenced_tweets.id",
@@ -179,12 +214,12 @@ const fetchers = {
         tweets = await client.v2.tweets(tweets, {
           "tweet.fields": ["entities"]
         });
-  
+
         // get a unique set of links from tweet that match the domain
         let uniqueLinks = [];
         let links = tweets.data.flatMap(tweet => tweet?.entities?.urls ? tweet.entities.urls.flatMap(url => {
           const preferredUrl = utils.cleanURL(url.unwound_url || url.expanded_url);
-  
+
           if (!uniqueLinks.includes(preferredUrl)) {
             uniqueLinks.push(preferredUrl);
             return {
@@ -195,7 +230,7 @@ const fetchers = {
             return [];
           }
         }) : []);
-  
+
         links = links.filter(link => link.url.includes(feed.domain));
   
         let articles = links.map(link => new Article(

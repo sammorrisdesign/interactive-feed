@@ -1,4 +1,7 @@
 const url = require('url');
+const dayjs = require('dayjs');
+const customParseFormat = require('dayjs/plugin/customParseFormat');
+dayjs.extend(customParseFormat);
 
 module.exports = {
   cleanURL: rawUrl => {
@@ -20,6 +23,18 @@ module.exports = {
       return config;
     } catch(e) {
       return false;
+    }
+  },
+
+  getTimeStamp: (timeStamp, format) => {
+    if (timeStamp) {
+      const date = dayjs(timeStamp, format);
+
+      if (date.isValid()) {
+        return date.toISOString()
+      } else {
+        return false;
+      }
     }
   }
 }
