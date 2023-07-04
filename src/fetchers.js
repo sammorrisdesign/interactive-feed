@@ -205,20 +205,23 @@ const fetchers = {
 
 module.exports = {
   fetch: async(feed) => {
-
     try {
-    let articles = new Array;
+      let articles = new Array;
 
-    const {sources, ...feedInformation} = feed 
+      const {sources, ...feedInformation} = feed 
 
-    for (let source of sources) {
-      source = {...source, ...feedInformation};
-      const sourceArticles = await fetchers[source.type](source);
-      console.log(`Fetched ${source.publication} from ${source.type} source. ${sourceArticles.length} articles found`);
-      articles.push(...sourceArticles);
-    }
+      for (let source of sources) {
+        if (source.type !== 'Twitter') {
+          source = {...source, ...feedInformation};
+          const sourceArticles = await fetchers[source.type](source);
+          console.log(`Fetched ${source.publication} from ${source.type} source. ${sourceArticles.length} articles found`);
+          articles.push(...sourceArticles);
+        } else {
+          console.log('Skipping Twitter source for', source.publication);
+        }
+      }
 
-    return articles;
+      return articles;
     } catch (e) {
       console.log(`Error fetching ${feed.publication}`);
       console.log(e);
