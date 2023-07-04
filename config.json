@@ -318,9 +318,13 @@
       "publication": "ProPublica",
       "twitterHandle": "propublica",
       "sources": [{
-        "type": "Twitter",
-        "twitterID": "14606079",
-        "domain": "projects.propublica.org/"
+        "type": "Website",
+        "path": "https://www.propublica.org/newsapps/",
+        "selector": ".story-entry",
+        "url": ".hed a",
+        "headline": ".hed",
+        "timestamp": "time",
+        "timestampAttribute": "datetime"
       }]
     },
     {
@@ -366,7 +370,6 @@
       "sources": [{
         "type": "Website",
         "path": "https://apps.bostonglobe.com/",
-        "domain": "apps.bostonglobe.com",
         "selector": ".project",
         "headline": ".list__project-content h4",
         "timestamp": ".list__project-content p:nth-of-type(1)",

@@ -166,24 +166,24 @@ const fetchers = {
       const $ = cheerio.load(html);
       let data = $(feed.selector);
 
-      if (feed.domain) {
-        data = data.filter((i, node) => $(node).attr('href').includes(feed.domain))
-      }
-
       let articles = data.map((i, article) => {
         let timestamp = $(article).find(feed.timestamp).text();
 
-        if (feed.timestampFormat) {
+        if (feed.timestampAttribute) {
+          timestamp = $(article).find(feed.timestamp).attr(feed.timestampAttribute);
+        } else if (feed.timestampFormat) {
           timestamp = utils.getTimeStamp(timestamp, feed.timestampFormat);
         }
+
+        let url = feed.url ? $(article).find(feed.url).attr('href') : $(article).attr('href')
 
         return new Article(
           publication = feed.publication,
           twitterHandle = feed.twitterHandle,
           mastodonHandle = feed.mastodonHandle,
-          url = $(article).attr('href'),
+          url = url,
           headline = $(article).find(feed.headline).text(),
-          timestamp = $(article).find(feed.timestamp).text()
+          timestamp = timestamp
         )
       });
 
