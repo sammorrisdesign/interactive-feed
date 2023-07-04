@@ -321,6 +321,7 @@
         "type": "Website",
         "path": "https://www.propublica.org/newsapps/",
         "selector": ".story-entry",
+        "domain": "projects.propublica.org",
         "url": ".hed a",
         "headline": ".hed",
         "timestamp": "time",

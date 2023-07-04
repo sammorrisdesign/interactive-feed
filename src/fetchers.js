@@ -177,14 +177,16 @@ const fetchers = {
 
         let url = feed.url ? $(article).find(feed.url).attr('href') : $(article).attr('href')
 
-        return new Article(
-          publication = feed.publication,
-          twitterHandle = feed.twitterHandle,
-          mastodonHandle = feed.mastodonHandle,
-          url = url,
-          headline = $(article).find(feed.headline).text(),
-          timestamp = timestamp
-        )
+        if (!feed.domain || url.includes(feed.domain)) {
+          return new Article(
+            publication = feed.publication,
+            twitterHandle = feed.twitterHandle,
+            mastodonHandle = feed.mastodonHandle,
+            url = url,
+            headline = $(article).find(feed.headline).text(),
+            timestamp = timestamp
+          )
+        }
       });
 
       return articles;
