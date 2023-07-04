@@ -217,7 +217,7 @@ module.exports = {
           console.log(`Fetched ${source.publication} from ${source.type} source. ${sourceArticles.length} articles found`);
           articles.push(...sourceArticles);
         } else {
-          console.log('Skipping Twitter source for', source.publication);
+          console.log('Skipping Twitter source for', feedInformation.publication);
         }
       }
 
