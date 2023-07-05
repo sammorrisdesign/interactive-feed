@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2023-07-03T15:15:56.080Z",
+  "lastUpdated": "2023-07-05T09:16:42.340Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/05/opinion/affirmative-action-high-schools.html",
+      "headline": "Why Yale and Harvard Should Start Funding High Schools",
+      "timestamp": "2023-07-05T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/05/opinion/affirmative-action-college-admissions.html",
+      "headline": "How to Fix College Admissions Now",
+      "timestamp": "2023-07-05T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/05/opinion/affirmative-action-students-schools.html",
+      "headline": "Harvard, Howard and Middle Tennessee State: 7 Students on 7 Campuses",
+      "timestamp": "2023-07-05T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/05/opinion/affirmative-action-hbcus-tuition.html",
+      "headline": "The Best Affirmative Action Workaround Is to Invest in H.B.C.U.s",
+      "timestamp": "2023-07-05T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/05/opinion/affirmative-action-diversity-geography.html",
+      "headline": "What Colleges Across America Can Learn From U.C. Berkeley",
+      "timestamp": "2023-07-05T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/05/opinion/affirmative-action-class.html",
+      "headline": "Affirmative Action Still Exists — for the Rich",
+      "timestamp": "2023-07-05T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/05/opinion/affirmative-action-meritocracy.html",
+      "headline": "College Admissions Have Never Been a Meritocracy",
+      "timestamp": "2023-07-05T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/05/opinion/affirmative-action-race.html",
+      "headline": "A Diverse Campus Is Still Worth Fighting For. But How?",
+      "timestamp": "2023-07-05T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
