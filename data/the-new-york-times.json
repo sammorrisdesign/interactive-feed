@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-07-05T09:16:42.340Z",
+  "lastUpdated": "2023-07-06T09:16:28.791Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/06/realestate/06hunt-pfeiffer.html",
+      "headline": "Mulling Manhattan One-Bedrooms: Prewar Charm or Modern Amenities?",
+      "timestamp": "2023-07-06T09:00:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/06/travel/things-to-do-florida-panhandle.html",
+      "headline": "36 Hours in the Florida Panhandle",
+      "timestamp": "2023-07-06T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
