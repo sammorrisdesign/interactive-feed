@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-07-06T09:16:28.791Z",
+  "lastUpdated": "2023-07-06T13:32:16.640Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/06/realestate/manhattan-one-bedroom-apartment.html",
+      "headline": "Mulling Manhattan One-Bedrooms: Prewar Charm or Modern Amenities?",
+      "timestamp": "2023-07-06T09:00:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
