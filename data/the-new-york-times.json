@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-07-07T09:15:34.607Z",
+  "lastUpdated": "2023-07-07T15:16:18.073Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/07/books/literature-translation.html",
+      "headline": "The Art of Translation",
+      "timestamp": "2023-07-07T14:56:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
