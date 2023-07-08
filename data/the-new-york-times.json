@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-07-07T15:16:18.073Z",
+  "lastUpdated": "2023-07-08T01:35:55.166Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/07/well/live/sleep-better-age.html",
+      "headline": "Sleep Better at Every Age",
+      "timestamp": "2023-07-07T23:49:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
