@@ -1,6 +1,125 @@
 {
-  "lastUpdated": "2023-05-02T14:36:25.261Z",
+  "lastUpdated": "2023-07-09T22:06:12.080Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/asia/2023/06/30/east-asias-new-family-portrait",
+      "headline": "East Asia’s new family portrait",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/graphic-detail/ukraine-fires",
+      "headline": "Tracking the Ukraine war: where is the latest fighting?",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/science-and-technology/2023/04/22/large-creative-ai-models-will-transform-how-we-live-and-work",
+      "headline": "Large, creative AI models will transform lives and labour markets",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/international/2023/01/13/open-source-intelligence-is-piercing-the-fog-of-war-in-ukraine",
+      "headline": "Open-source intelligence is piercing the fog of war in Ukraine",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/international/2022/10/24/vladimir-putin-is-dragging-the-world-back-to-a-bloodier-time",
+      "headline": "Vladimir Putin is dragging the world back to a bloodier time",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/international/2022/05/17/the-putin-show",
+      "headline": "The Putin Show",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/christmas-specials/2022/12/20/the-decline-of-the-city-grid",
+      "headline": "The decline of the city grid",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/christmas-specials/2022/12/20/what-makes-certain-dogs-popular-in-certain-countries",
+      "headline": "What makes certain dogs popular in certain countries",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/graphic-detail/2022/06/18/slave-trade-family-separation",
+      "headline": "Family separation among slaves in America was shockingly prevalent",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/graphic-detail/2022/05/21/the-brazilian-amazon-has-been-a-net-carbon-emitter-since-2016",
+      "headline": "The Brazilian Amazon has been a net carbon emitter since 2016",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/middle-east-and-africa/2023/02/14/can-a-political-underdog-save-nigeria",
+      "headline": "Can a political underdog save Nigeria?",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/britain/2022/11/29/how-to-fix-30m-draughty-homes",
+      "headline": "How to fix 30m draughty homes",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/the-world-ahead/2022/11/18/the-weather-system-that-influences-the-world",
+      "headline": ".css-lh50r0{color:var(--ds-color-economist-red);font-family:var(--ds-type-system-sans);font-weight:400;}.css-lh50r0 ._divider{color:var(--ds-color-london-5);}The World Ahead | The weather system that influences the world",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/graphic-detail/2022/05/21/the-brazilian-amazon-has-been-a-net-carbon-emitter-since-2016",
+      "headline": "The Brazilian Amazon has been a net carbon emitter since 2016",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/business/2023/01/14/investments-in-ports-foretell-the-future-of-global-commerce",
+      "headline": "Investments in ports foretell the future of global commerce",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/briefing/2022/09/24/war-in-ukraine-has-reshaped-worlds-fuel-markets",
+      "headline": "The war in Ukraine has reshaped the world’s fuel markets",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/briefing/2022/07/09/the-all-conquering-quaver",
+      "headline": "As TikTok grows, so does suspicion",
+      "timestamp": null
+    },
     {
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
