@@ -3,6 +3,7 @@
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
       "sources": [{
         "type": "NewYorkTimesAPI"
       }]
@@ -21,6 +22,7 @@
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
       "sources": [{
         "type": "TheGuardianAPI"
       }]
@@ -28,6 +30,7 @@
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
       "sources": [{
         "type": "WashingtonPost"
       }]
@@ -35,6 +38,7 @@
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
+      "mastodonHandle": "CNN@press.coop",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -54,6 +58,7 @@
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -82,6 +87,7 @@
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
       "sources": [{
         "type": "XML",
         "format": "Sitemap",
@@ -310,6 +316,7 @@
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
       "sources": [{
         "type": "Website",
         "path": "https://www.propublica.org/newsapps/",
@@ -333,6 +340,7 @@
     {
       "publication": "USA Today",
       "twitterHandle": "usatgraphics",
+      "mastodonHandle": "USATODAY@press.coop",
       "sources": [{
         "type": "Twitter",
         "twitterID": "760842779765248000",
@@ -342,6 +350,7 @@
     {
       "publication": "The City",
       "twitterHandle": "THECITYNY",
+      "mastodonHandle": "THECITY@newsie.social",
       "sources": [{
         "type": "Twitter",
         "twitterID": "1043143916340559874",
@@ -361,6 +370,7 @@
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
       "sources": [{
         "type": "Website",
         "path": "https://apps.bostonglobe.com/",
