@@ -136,16 +136,6 @@
       }]
     },
     {
-      "publication": "WSJ",
-      "twitterHandle": "WSJGraphics",
-      "mastodonHandle": "wsj@mstdn.social",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "19564105",
-        "domain": "wsj.com/articles"
-      }]
-    },
-    {
       "publication": "LA Times",
       "twitterHandle": "datagraphics",
       "sources": [{
@@ -163,27 +153,6 @@
         "path": "https://www.reuters.com/graphics/",
         "selector": "article a",
         "headline": "span"
-      }]
-    },
-    {
-      "publication": "NPR",
-      "twitterHandle": "nprviz",
-      "mastodonHandle": "NPR@mstdn.social",
-      "blueSkyHandle": "npr.org",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "582282558",
-        "domain": "npr.org/20"
-      }]
-    },
-    {
-      "publication": "Axios",
-      "twitterHandle": "axiosvisuals",
-      "blueSkyHandle": "axios.com",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "822466626515861506",
-        "domain": "www.axios.com"
       }]
     },
     {
@@ -279,41 +248,12 @@
       }]
     },
     {
-      "publication": "El País",
-      "twitterHandle": "elpais_info",
-      "mastodonHandle": "el_pais@mastodon.social",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "1362370976",
-        "domain": "elpais.com"
-      }]
-    },
-    {
-      "publication": "La Vanguardia",
-      "twitterHandle": "WebVanguardia",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "1346043480980803584",
-        "domain": "stories.lavanguardia.com"
-      }]
-    },
-    {
       "publication": "De Tijd",
       "twitterHandle": "TijdGraphics",
       "sources": [{
         "type": "XML",
         "format": "RSS",
         "path": "https://multimedia.tijd.be/portfolio/rss.xml"
-      }]
-    },
-    {
-      "publication": "San Francisco Chronicle",
-      "twitterHandle": "sfchronicle",
-      "blueSkyHandle": "sfchronicle.bsky.social",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "121597316",
-        "domain": "sfchronicle.com/projects"
       }]
     },
     {
@@ -339,28 +279,6 @@
         "type": "XML",
         "format": "RSS",
         "path": "https://interaktiv.morgenpost.de/feed.xml"
-      }]
-    },
-    {
-      "publication": "USA Today",
-      "twitterHandle": "usatgraphics",
-      "mastodonHandle": "USATODAY@press.coop",
-      "blueSkyHandle": "usatoday.com",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "760842779765248000",
-        "domain": "usatoday.com"
-      }]
-    },
-    {
-      "publication": "The City",
-      "twitterHandle": "THECITYNY",
-      "mastodonHandle": "THECITY@newsie.social",
-      "blueSkyHandle": "thecity.bsky.social",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "1043143916340559874",
-        "domain": "projects.thecity.nyc"
       }]
     },
     {
@@ -400,33 +318,6 @@
             "url": "interaktiv.tagesspiegel.de"
           }
         }
-      }]
-    },
-    {
-      "publication": "Publico",
-      "twitterHandle": "Publico",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "2561091",
-        "domain": "publico.pt/interactivos"
-      }]
-    },
-    {
-      "publication": "CommonWealth Magazine",
-      "twitterHandle": "CWMgraphics",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "1503266919503503363",
-        "domain": "cw.com.tw/graphics"
-      }]
-    },
-    {
-      "publication": "Les Échos",
-      "twitterHandle": "LesEchos",
-      "sources": [{
-        "type": "Twitter",
-        "twitterID": "2823329380",
-        "domain": "https://media.lesechos.fr/infographie/"
       }]
     }
   ]
