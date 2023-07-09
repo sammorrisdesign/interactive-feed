@@ -255,9 +255,13 @@
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
       "sources": [{
-        "type": "Twitter",
-        "twitterID": "74987950",
-        "domain": "economist.com/interactive"
+        "type": "Website",
+        "path": "https://www.economist.com/interactive",
+        "selector": "#content section > div > div > div > div > div",
+        "domain": "/interactive/",
+        "url": "a",
+        "baseUrl": "https://www.economist.com",
+        "headline": "h3"
       }]
     },
     {

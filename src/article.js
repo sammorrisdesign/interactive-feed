@@ -1,10 +1,11 @@
 const utils = require('./utils');
 
 class Article {
-  constructor(publication, twitterHandle, mastodonHandle, url, headline, timestamp) {
+  constructor(publication, twitterHandle, mastodonHandle, blueSkyHandle, url, headline, timestamp) {
     this.publication = publication;
     this.twitterHandle = twitterHandle;
     this.mastodonHandle = mastodonHandle;
+    this.blueSkyHandle = blueSkyHandle;
     this.url = utils.cleanURL(url);
     this.headline = headline;
     this.timestamp = new Date(timestamp);
