@@ -241,14 +241,10 @@ module.exports = {
       const {sources, ...feedInformation} = feed 
 
       for (let source of sources) {
-        if (source.type !== 'Twitter') {
-          source = {...source, ...feedInformation};
-          const sourceArticles = await fetchers[source.type](source);
-          console.log(`Fetched ${source.publication} from ${source.type} source. ${sourceArticles.length} articles found`);
-          articles.push(...sourceArticles);
-        } else {
-          console.log('Skipping Twitter source for', feedInformation.publication);
-        }
+        source = {...source, ...feedInformation};
+        const sourceArticles = await fetchers[source.type](source);
+        console.log(`Fetched ${source.publication} from ${source.type} source. ${sourceArticles.length} articles found`);
+        articles.push(...sourceArticles);
       }
 
       return articles;
