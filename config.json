@@ -106,14 +106,7 @@
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",
       "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.inquirer.com/sitemaps/current-month-sitemap-i.xml",
-        "filters": {
-          "in": {
-            "url": "/inq2"
-          }
-        }
+        "type": "PhiladelphiaInquirerAPI"
       }]
     },
     {

@@ -92,6 +92,35 @@ const fetchers = {
     }
   },
 
+  PhiladelphiaInquirerAPI: async(feed) => {
+    const secrets = await utils.getSecrets();
+    if (secrets) {
+      const response = await fetch(`${secrets.inquirer.baseUrl}/content/v4/search/published?website=philly-media-network&q=type:story AND (taxonomy.tags.text:"interactive-bespoke")&size=10&_sourceInclude="_id,headlines.basic,display_date,canonical_url,canonical_website"&sort=display_date:desc`, {
+        'method': 'GET',
+        'headers': {
+          'Authorization': `Bearer ${secrets.inquirer.bearerToken}`,
+          'Content-Type': 'application/json'
+        }
+      });
+
+      const data = await response.json();
+
+      let articles = data.content_elements;
+      articles = articles.map(article => new Article(
+        publication = feed.publication,
+        twitterHandle = feed.twitterHandle,
+        mastodonHandle = feed.mastodonHandle,
+        url = 'https://inquirer.com' + article.canonical_url,
+        headline = article.headlines.basic,
+        timestamp = article.display_date
+      ))
+
+      return articles;
+    } else {
+      console.log("Unable to fetch feed for The Philadelphia Inquirer. Please check your secrets.json file");
+    }
+  },
+
   XML: async(feed) => {
     try {
       const parser = new XMLParser();
@@ -234,7 +263,7 @@ const fetchers = {
         }) : []);
 
         links = links.filter(link => link.url.includes(feed.domain));
-  
+
         let articles = links.map(link => new Article(
           publication = feed.publication,
           twitterHandle = feed.twitterHandle,
@@ -243,7 +272,7 @@ const fetchers = {
           headline = link.title,
           timestamp = new Date()
         ));
-  
+
         return articles;
       } else {
         console.log(`Unable to fetch feed for ${feed.publication}. Please check your secrets.json file`);
