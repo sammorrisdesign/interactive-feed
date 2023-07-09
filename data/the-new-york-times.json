@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-07-08T01:35:55.166Z",
+  "lastUpdated": "2023-07-09T09:14:17.894Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/09/climate/florida-lake-okeechobee-algae.html",
+      "headline": "It’s Toxic Slime Time on Florida’s Lake Okeechobee",
+      "timestamp": "2023-07-09T09:00:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "url": "https://www.nytimes.com/interactive/2023/07/09/magazine/robert-downey-jr-interview-oppenheimer.html",
+      "headline": "Robert Downey Jr.’s Post-Marvel Balancing Act",
+      "timestamp": "2023-07-09T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
