@@ -4,6 +4,7 @@
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
       "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
       "sources": [{
         "type": "NewYorkTimesAPI"
       }]
@@ -31,6 +32,7 @@
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
       "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
       "sources": [{
         "type": "WashingtonPost"
       }]
@@ -59,6 +61,7 @@
       "publication": "FT",
       "twitterHandle": "ftdata",
       "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -73,6 +76,7 @@
       "publication": "Politico",
       "twitterHandle": "politico",
       "mastodonHandle": "politico@newsie.social",
+      "blueSkyHandle": "politico.com",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -88,6 +92,7 @@
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
       "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
       "sources": [{
         "type": "XML",
         "format": "Sitemap",
@@ -173,6 +178,7 @@
       "publication": "NPR",
       "twitterHandle": "nprviz",
       "mastodonHandle": "NPR@mstdn.social",
+      "blueSkyHandle": "npr.org",
       "sources": [{
         "type": "Twitter",
         "twitterID": "582282558",
@@ -182,6 +188,7 @@
     {
       "publication": "Axios",
       "twitterHandle": "axiosvisuals",
+      "blueSkyHandle": "axios.com",
       "sources": [{
         "type": "Twitter",
         "twitterID": "822466626515861506",
@@ -307,6 +314,7 @@
     {
       "publication": "San Francisco Chronicle",
       "twitterHandle": "sfchronicle",
+      "blueSkyHandle": "sfchronicle.bsky.social",
       "sources": [{
         "type": "Twitter",
         "twitterID": "121597316",
@@ -317,6 +325,7 @@
       "publication": "ProPublica",
       "twitterHandle": "propublica",
       "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
       "sources": [{
         "type": "Website",
         "path": "https://www.propublica.org/newsapps/",
@@ -341,6 +350,7 @@
       "publication": "USA Today",
       "twitterHandle": "usatgraphics",
       "mastodonHandle": "USATODAY@press.coop",
+      "blueSkyHandle": "usatoday.com",
       "sources": [{
         "type": "Twitter",
         "twitterID": "760842779765248000",
@@ -351,6 +361,7 @@
       "publication": "The City",
       "twitterHandle": "THECITYNY",
       "mastodonHandle": "THECITY@newsie.social",
+      "blueSkyHandle": "thecity.bsky.social",
       "sources": [{
         "type": "Twitter",
         "twitterID": "1043143916340559874",
@@ -360,6 +371,7 @@
     {
       "publication": "The Verge",
       "twitterHandle": "verge",
+      "blueSkyHandle": "theverge.com",
       "sources": [{
         "type": "XML",
         "format": "Atom",
@@ -371,6 +383,7 @@
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
       "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
       "sources": [{
         "type": "Website",
         "path": "https://apps.bostonglobe.com/",
