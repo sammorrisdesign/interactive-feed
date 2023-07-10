@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-10T18:19:26.422Z",
+  "lastUpdated": "2023-07-10T21:13:55.254Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/china-luban-workshops-global-influence/",
+      "headline": "Winning friends by training workers is China’s new gambit",
+      "timestamp": "2023-07-10T21:00:51.058Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
