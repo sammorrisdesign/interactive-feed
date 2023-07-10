@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-10T12:32:33.811Z",
+  "lastUpdated": "2023-07-10T18:19:26.422Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/ukraine-war-analysis-stalemate-economy-aid/",
+      "headline": "What 12 charts reveal about the stalemate in Ukraine",
+      "timestamp": "2023-07-10T18:00:55.866Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
