@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-06-13T10:15:10.495Z",
+  "lastUpdated": "2023-07-10T10:17:40.809Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "blueSkyHandle": "politico.com",
+      "url": "https://www.politico.com/interactives/2023/gavin-newsom-friends-advisors-staff-interactive/",
+      "headline": "Who's in Gavin Newsom's orbit?",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
