@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-10T04:19:24.952Z",
+  "lastUpdated": "2023-07-10T23:15:28.817Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/china-credit-2023-07/",
+      "headline": "Stress Is Building in China’s $12 Trillion Onshore Credit Market",
+      "timestamp": "2023-07-10T23:00:05.955Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
