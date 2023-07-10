@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-05T09:16:42.351Z",
+  "lastUpdated": "2023-07-10T04:19:24.952Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-opinion-arctic-geopolitics-resources/oil-gas.html",
+      "headline": "Drilling for Oil on the Moon",
+      "timestamp": "2023-07-10T04:01:05.468Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
