@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-07T10:16:41.606Z",
+  "lastUpdated": "2023-07-10T12:32:33.811Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/history/interactive/2023/picasso-fdr-pearl-harbor-history/",
+      "headline": "Did you miss Picasso’s party of the century? History may repeat itself.",
+      "timestamp": "2023-07-10T12:00:19.771Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
