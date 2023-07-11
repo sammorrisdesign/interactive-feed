@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-10T21:13:55.254Z",
+  "lastUpdated": "2023-07-11T11:36:47.666Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/weather/2023/07/11/vermont-flooding-new-york-northeast-rain/",
+      "headline": "Northeast storms dump over 2 months’ worth of rain on Vermont",
+      "timestamp": "2023-07-11T11:14:07.430Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
