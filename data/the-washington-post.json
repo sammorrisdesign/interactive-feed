@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-11T11:36:47.666Z",
+  "lastUpdated": "2023-07-12T13:25:07.668Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/white-sands-new-mexico-dune-fields/",
+      "headline": "A postcard from White Sands National Park",
+      "timestamp": "2023-07-12T13:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
