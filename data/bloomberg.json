@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-13T07:14:33.282Z",
+  "lastUpdated": "2023-07-13T22:14:43.903Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-fifa-womens-world-cup-tv-rights/",
+      "headline": "World Cup Turns Up the Pressure for TV to Embrace Women’s Soccer",
+      "timestamp": "2023-07-13T22:01:05.382Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
