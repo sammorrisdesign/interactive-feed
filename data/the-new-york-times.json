@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-07-11T20:16:21.083Z",
+  "lastUpdated": "2023-07-13T09:15:32.935Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/13/realestate/oakland-bay-area-three-bedroom-california.html",
+      "headline": "One Parent, Two Teenagers and a Three-Bedroom House: Would Her Budget Be Enough?",
+      "timestamp": "2023-07-13T09:00:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/13/opinion/politics/student-loan-payments-resume.html",
+      "headline": "America’s Student Loans Were Never Going to Be Repaid",
+      "timestamp": "2023-07-13T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/13/style/guatemala-film-community.html",
+      "headline": "In Guatemala, A Collective of Young Artists Finds Family Through Film",
+      "timestamp": "2023-07-13T09:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/13/travel/things-to-do-santa-barbara.html",
+      "headline": "36 Hours in Santa Barbara",
+      "timestamp": "2023-07-13T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

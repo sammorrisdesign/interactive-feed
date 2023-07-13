@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-12T13:25:07.668Z",
+  "lastUpdated": "2023-07-13T09:15:32.946Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/artificial-sweeteners-sugar-free-substitutes-food/",
+      "headline": "What’s in your food? Find the artificial sweeteners in these sugar-free grocery items.",
+      "timestamp": "2023-07-13T09:00:35.122Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
