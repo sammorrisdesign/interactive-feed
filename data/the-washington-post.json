@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-13T09:15:32.946Z",
+  "lastUpdated": "2023-07-13T16:42:00.252Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/beachcombing-treasures/",
+      "headline": "The odyssey behind your beachcombing treasures",
+      "timestamp": "2023-07-13T16:40:44.886Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
