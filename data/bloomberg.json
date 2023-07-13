@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-10T23:15:28.817Z",
+  "lastUpdated": "2023-07-13T07:14:33.282Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-global-layoffs/",
+      "headline": "Global Layoffs Slow in Sign Cooling Economy Won’t Mean Recession",
+      "timestamp": "2023-07-13T07:00:09.738Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
