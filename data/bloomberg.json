@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-13T22:14:43.903Z",
+  "lastUpdated": "2023-07-14T04:19:00.065Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-07-reed-jobs-report-falling-vacancies-raises-recession-risk/",
+      "headline": "England's Falling Job Advertisements Ring a Recession Alarm",
+      "timestamp": "2023-07-14T04:00:05.942Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
