@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-07-13T09:15:32.935Z",
+  "lastUpdated": "2023-07-14T09:15:08.722Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/14/us/national-archives-documents-preservation.html",
+      "headline": "How to Preserve Priceless Documents at the National Archives",
+      "timestamp": "2023-07-14T09:00:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
