@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-09T04:18:38.284Z",
+  "lastUpdated": "2023-07-15T07:13:43.471Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/bbc0256a-f151-44c2-9bc9-ef8f280a70b9",
+      "headline": "Climate graphic of the week: Global warming is supercharging weather events, say scientists",
+      "timestamp": "2023-07-15T07:00:28.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
