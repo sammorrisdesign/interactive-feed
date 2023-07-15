@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-13T16:42:00.252Z",
+  "lastUpdated": "2023-07-15T11:12:03.556Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2023/front-porch-restaurant-virginia-dispute/",
+      "headline": "A gay couple ran a rural restaurant in peace. Then new neighbors arrived.",
+      "timestamp": "2023-07-15T11:00:44.546Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
