@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-07-14T20:16:33.456Z",
+  "lastUpdated": "2023-07-15T01:37:35.180Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/14/us/rex-heuermann-gilgo-beach-court-document.html",
+      "headline": "The Case Against Rex Heuermann: Read the Document",
+      "timestamp": "2023-07-15T00:09:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
