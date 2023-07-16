@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-15T11:12:03.556Z",
+  "lastUpdated": "2023-07-16T12:28:33.846Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/history/interactive/2023/harriet-tubman-articial-intelligence-khan-academy/",
+      "headline": "We ‘interviewed’ Harriet Tubman using AI. It got a little weird.",
+      "timestamp": "2023-07-16T12:00:20.517Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
