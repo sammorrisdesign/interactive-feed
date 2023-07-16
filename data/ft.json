@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-15T07:13:43.471Z",
+  "lastUpdated": "2023-07-16T05:36:32.676Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/58b5e406-1e5b-4a4b-9b76-bf88f8e11281",
+      "headline": "Unicorn funding dries up",
+      "timestamp": "2023-07-16T04:00:05.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
