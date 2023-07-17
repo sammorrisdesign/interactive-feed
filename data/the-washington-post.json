@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-16T12:28:33.846Z",
+  "lastUpdated": "2023-07-17T17:36:48.601Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/womens-world-cup-groups-2023-teams/",
+      "headline": "Everything you need to know about the women’s World Cup group stage",
+      "timestamp": "2023-07-17T17:30:22.129Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
