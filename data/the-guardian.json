@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-07-17T05:15:22.010Z",
+  "lastUpdated": "2023-07-17T11:36:38.605Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2023/jul/17/womens-world-cup-2023-your-guide-to-all-736-players",
+      "headline": "Women’s World Cup 2023: your guide to all 736 players",
+      "timestamp": "2023-07-17T10:35:46.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
