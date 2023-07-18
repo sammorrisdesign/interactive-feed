@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-07-09T14:12:57.467Z",
+  "lastUpdated": "2023-07-17T11:36:38.605Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2023/jul/17/womens-world-cup-2023-your-guide-to-all-736-players",
+      "headline": "Women’s World Cup 2023: your guide to all 736 players",
+      "timestamp": "2023-07-17T10:35:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2023/jul/17/hoovering-up-the-canapes-like-zuck-picking-up-twitter-users-edith-pritchetts-week-in-venn-diagrams",
+      "headline": "Hoovering up the canapes like Zuck picking up Twitter users: Edith Pritchett’s week in Venn diagrams ",
+      "timestamp": "2023-07-17T05:00:19.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",

@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2023-07-05T09:16:42.351Z",
+  "lastUpdated": "2023-07-14T04:19:00.065Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-07-reed-jobs-report-falling-vacancies-raises-recession-risk/",
+      "headline": "England's Falling Job Advertisements Ring a Recession Alarm",
+      "timestamp": "2023-07-14T04:00:05.942Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-fifa-womens-world-cup-tv-rights/",
+      "headline": "World Cup Turns Up the Pressure for TV to Embrace Women’s Soccer",
+      "timestamp": "2023-07-13T22:01:05.382Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-global-layoffs/",
+      "headline": "Global Layoffs Slow in Sign Cooling Economy Won’t Mean Recession",
+      "timestamp": "2023-07-13T07:00:09.738Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/china-credit-2023-07/",
+      "headline": "Stress Is Building in China’s $12 Trillion Onshore Credit Market",
+      "timestamp": "2023-07-10T23:00:05.955Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-opinion-arctic-geopolitics-resources/oil-gas.html",
+      "headline": "Drilling for Oil on the Moon",
+      "timestamp": "2023-07-10T04:01:05.468Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
