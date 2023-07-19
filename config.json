@@ -319,6 +319,17 @@
           }
         }
       }]
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "sources": [{
+        "type": "Website",
+        "path": "https://www.wsj.com/search?query=gfx-standalone",
+        "selector": "article a",
+        "headline": "span"
+      }]
     }
   ]
 }

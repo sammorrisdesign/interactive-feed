@@ -1,6 +1,310 @@
 {
-  "lastUpdated": "2023-06-08T21:14:13.010Z",
+  "lastUpdated": "2023-07-19T00:04:24.363Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/first-republican-gop-debate-who-7f128142",
+      "headline": "Which Republicans Are Likely to Qualify for the First Debate?",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/first-republican-gop-debate-who-7f128142",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-bank-earnings-key-number-6efbc538",
+      "headline": "The Key Number to Watch in U.S. Bank Earnings",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-bank-earnings-key-number-6efbc538",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/abortion-state-guide-laws-bf5072da",
+      "headline": "Where Is Abortion Legal in the U.S.? A State-by-State Guide to Abortion Access",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/abortion-state-guide-laws-bf5072da",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/sizing-up-the-2024-republican-primary-field-db34a150",
+      "headline": "Sizing Up the 2024 Republican Primary Field",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/sizing-up-the-2024-republican-primary-field-db34a150",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/who-could-be-left-behind-in-the-supreme-courts-student-loan-ruling-in-six-charts-d5d3d637",
+      "headline": "Who’s Impacted by the Supreme Court’s Student-Loan Forgiveness Ruling",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/who-could-be-left-behind-in-the-supreme-courts-student-loan-ruling-in-six-charts-d5d3d637",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tvs-golden-era-proved-costly-to-streamers-87353c61",
+      "headline": "TV’s Golden Era Proved Costly to Streamers",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tvs-golden-era-proved-costly-to-streamers-87353c61",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/lead-cables-louisiana-telecoms-59f36ffe",
+      "headline": "Bayou Teche Is an Epicenter of America’s Lead Cable Problem",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/lead-cables-louisiana-telecoms-59f36ffe",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/sports/tour-de-france-levels-the-playing-field-for-steep-climbers-cfa96776",
+      "headline": "Tour de France Levels the Field for Steep Climbers",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/sports/tour-de-france-levels-the-playing-field-for-steep-climbers-cfa96776",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/north-korea-us-national-custody-b53b4449",
+      "headline": "U.S. Soldier Held in North Korea After Crossing Border",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/north-korea-us-national-custody-b53b4449",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/big-automakers-grab-1-billion-deal-for-urgently-needed-battery-metals-edb0c998",
+      "headline": "Big Automakers Grab $1 Billion Deal for Urgently Needed Battery Metals",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/big-automakers-grab-1-billion-deal-for-urgently-needed-battery-metals-edb0c998",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/russia-says-it-is-pulling-out-of-ukraine-grain-deal-68190d1",
+      "headline": "Russia Says It Is Pulling Out of Ukraine Grain Deal",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/russia-says-it-is-pulling-out-of-ukraine-grain-deal-68190d1",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/june-jobs-report-unemployment-rate-economy-growth-2023-af4d6547",
+      "headline": "Wage Gains, Low Unemployment Keep Pressure on Fed; Hiring Cooled in June",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/june-jobs-report-unemployment-rate-economy-growth-2023-af4d6547",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/consumer-price-index-report-june-inflation-ede7f4b1",
+      "headline": "Inflation Eased to 3% in June, Slowest Pace in More Than Two Years",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/consumer-price-index-report-june-inflation-ede7f4b1",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/drones-reach-stratospheric-heights-in-race-to-fly-higher-longer-a29ceea3",
+      "headline": "Drones Reach Stratospheric Heights in Race to Fly Higher, Longer",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/drones-reach-stratospheric-heights-in-race-to-fly-higher-longer-a29ceea3",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/bridge-between-russia-and-crimea-damaged-in-overnight-strike-a3431b88",
+      "headline": "Ukrainian Strike Disables Bridge Between Crimea and Russia",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/bridge-between-russia-and-crimea-damaged-in-overnight-strike-a3431b88",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ukraine-adopts-slow-approach-to-counteroffensive-our-problem-everywhere-is-the-sky-a2e51d7a",
+      "headline": "Ukraine Adopts Slow Approach to Counteroffensive",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ukraine-adopts-slow-approach-to-counteroffensive-our-problem-everywhere-is-the-sky-a2e51d7a",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/consumer-spending-personal-income-may-2023-4a3fb7de",
+      "headline": "U.S. Inflation, Consumer Spending Growth Cooled in May",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/consumer-spending-personal-income-may-2023-4a3fb7de",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/retirement-inherit-ira-taxes-d6ee70d",
+      "headline": "How to Leave Grandkids Your Retirement Savings—and Not a Huge Tax Bill",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/retirement-inherit-ira-taxes-d6ee70d",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/air-conditioning-electricity-bills-energy-f3dce1a",
+      "headline": "Heat Waves Now Last Longer, Spurring an Air-Conditioning Boom",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/air-conditioning-electricity-bills-energy-f3dce1a",
+      "headline": "",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
