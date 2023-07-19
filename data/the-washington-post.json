@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-18T13:25:34.619Z",
+  "lastUpdated": "2023-07-19T13:18:34.428Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/gates-of-the-arctic-national-park-alaska/",
+      "headline": "A postcard from Gates of the Arctic National Park and Preserve",
+      "timestamp": "2023-07-19T13:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
