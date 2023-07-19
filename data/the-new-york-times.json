@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2023-07-19T20:36:39.042Z",
+  "lastUpdated": "2023-07-19T21:12:28.391Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/france-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How France Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T21:05:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/costa-rica-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How Costa Rica Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T21:05:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/womens-world-cup-standings.html",
+      "headline": "Women’s World Cup 2023: How Teams Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T20:58:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/zambia-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How Zambia Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T20:58:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/switzerland-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How Switzerland Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T20:58:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/sweden-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How Sweden Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T20:58:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/vietnam-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How Vietnam Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T20:58:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/united-states-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How the United States Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T20:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/south-africa-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How South Africa Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T20:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/portugal-womens-world-cup-scores-standings.html",
+      "headline": "Women’s World Cup 2023: How Portugal Can Advance to the Round of 16",
+      "timestamp": "2023-07-19T20:58:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
