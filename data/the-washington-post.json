@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-19T13:18:34.428Z",
+  "lastUpdated": "2023-07-20T12:56:03.745Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/offside-soccer-womens-world-cup/",
+      "headline": "That’s a clear offside! But why?",
+      "timestamp": "2023-07-20T12:30:55.430Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
