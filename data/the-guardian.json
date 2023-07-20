@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-07-17T11:36:38.605Z",
+  "lastUpdated": "2023-07-20T02:22:39.885Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2023/jul/20/the-vote-no-pamphlet-referendum-voice-to-parliament-voting-essay-aec-published-read-in-full-annotated-fact-checked",
+      "headline": "The no pamphlet: campaign’s voice to parliament referendum essay – annotated and fact checked",
+      "timestamp": "2023-07-20T01:19:47.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2023/jul/20/the-vote-yes-pamphlet-referendum-voice-to-parliament-voting-essay-aec-published-read-in-full-annotated-fact-checked",
+      "headline": "The yes pamphlet: campaign’s voice to parliament referendum essay – annotated and fact checked",
+      "timestamp": "2023-07-20T01:19:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
