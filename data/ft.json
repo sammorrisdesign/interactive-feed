@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2023-07-16T05:36:32.676Z",
+  "lastUpdated": "2023-07-20T04:16:47.778Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6692ba73-fa71-45db-881c-0be221495b3a",
+      "headline": "Graphic: How machines learn",
+      "timestamp": "2023-07-20T04:00:33.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e758a83b-efa0-4203-8305-7d71ad17e2e0",
+      "headline": "How will global warming affect the crops that we grow?",
+      "timestamp": "2023-07-20T04:00:33.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c0c8d205-e158-409e-963c-a3ac821cd7ba",
+      "headline": "The FT AI glossary",
+      "timestamp": "2023-07-20T04:00:33.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
