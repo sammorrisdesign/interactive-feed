@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-07-20T20:36:44.114Z",
+  "lastUpdated": "2023-07-20T21:11:52.454Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/daniel-snyder-year-by-year/",
+      "headline": "A year-by-year look at Daniel Snyder’s ownership of Washington’s NFL team",
+      "timestamp": "2023-07-20T21:05:04.999Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/daniel-snyder-quiz/",
+      "headline": "How well do you remember the Daniel Snyder era? Take our quiz.",
+      "timestamp": "2023-07-20T21:00:50.225Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
