@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-20T04:16:47.778Z",
+  "lastUpdated": "2023-07-20T14:36:25.625Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/25974611-f2b4-4a32-9e21-02a102895b6c",
+      "headline": "Jet stream pattern repeat of last year fuels heatwaves and floods around globe",
+      "timestamp": "2023-07-20T14:22:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
