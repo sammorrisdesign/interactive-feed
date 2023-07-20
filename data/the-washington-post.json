@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-07-20T12:56:03.745Z",
+  "lastUpdated": "2023-07-20T13:19:03.582Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/ev-lithium-afghanistan-taliban-china/",
+      "headline": "Rich lode of EV metals could boost Taliban and its new Chinese partners",
+      "timestamp": "2023-07-20T13:00:52.887Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2023/barbie-jobs-careers-visualized/",
+      "headline": "From rock star to astronaut: Barbie’s evolving career ambitions explored",
+      "timestamp": "2023-07-20T13:00:22.649Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
