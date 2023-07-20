@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-06-14T18:17:19.268Z",
+  "lastUpdated": "2023-07-20T19:36:26.843Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2023/07/songwriters",
+      "headline": "Songwriting credits since 1958, broken down by gender",
+      "timestamp": "2023-07-20T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
