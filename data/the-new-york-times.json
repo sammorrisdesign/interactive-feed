@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-07-21T09:13:50.393Z",
+  "lastUpdated": "2023-07-21T13:17:25.954Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/21/science/bird-calls-songs-quiz.html",
+      "headline": "Can You Understand Bird? Test Your Recognition of Calls and Songs",
+      "timestamp": "2023-07-21T12:57:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
