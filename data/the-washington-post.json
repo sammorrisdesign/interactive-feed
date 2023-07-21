@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-20T21:11:52.454Z",
+  "lastUpdated": "2023-07-21T16:39:28.672Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2023/shark-attacks-bites-rare/",
+      "headline": "Scared of sharks? Take our quiz for, uh, reassurance.",
+      "timestamp": "2023-07-21T16:24:46.363Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
