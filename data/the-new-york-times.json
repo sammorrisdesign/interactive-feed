@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-07-20T23:13:32.966Z",
+  "lastUpdated": "2023-07-21T09:13:50.393Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/sports/soccer/womens-world-cup-prize-money.html",
+      "headline": "Even if U.S. Doesn’t Win, Its Players Will Take Home the Most Prize Money",
+      "timestamp": "2023-07-21T09:00:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
