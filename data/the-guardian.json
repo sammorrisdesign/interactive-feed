@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-07-20T08:17:33.483Z",
+  "lastUpdated": "2023-07-23T17:36:26.788Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2023/jul/23/spain-election-2023-live-results",
+      "headline": "Spain election 2023: live results",
+      "timestamp": "2023-07-23T16:47:05.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
