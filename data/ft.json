@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-20T14:36:25.625Z",
+  "lastUpdated": "2023-07-23T04:16:17.118Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/214be364-d38a-47c8-a9f6-67e263fc9a0a",
+      "headline": "Europe is far from completing its energy transition",
+      "timestamp": "2023-07-23T04:01:00.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
