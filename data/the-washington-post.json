@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-21T16:39:28.672Z",
+  "lastUpdated": "2023-07-24T21:13:00.583Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/singapore-china-news-influence-lianhe-zaobao/",
+      "headline": "In Singapore, loud echoes of Beijing’s positions generate anxiety  ",
+      "timestamp": "2023-07-24T21:00:00.849Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
