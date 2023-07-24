@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-07-23T15:12:56.102Z",
+  "lastUpdated": "2023-07-24T09:14:47.155Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/24/upshot/ivy-league-elite-college-admissions.html",
+      "headline": "Study of Elite College Admissions Data Suggests Being Very Rich Is Its Own Qualification",
+      "timestamp": "2023-07-24T09:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
