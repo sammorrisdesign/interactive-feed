@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-14T04:19:00.065Z",
+  "lastUpdated": "2023-07-24T23:13:41.738Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shootings-violence-sig-sauer/",
+      "headline": "How the US Drives Gun Exports and Fuels Violence Around the World",
+      "timestamp": "2023-07-24T23:00:05.825Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
