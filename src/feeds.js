@@ -44,8 +44,11 @@ const findNewArticles = async(data) => {
 
     // loop through recently fetched articles
     for (const article of fetchedArticles) {
-      // does article exist in savedData, add to newArticlesFromFeed if it's new
-      const isOld = savedData.articles.some(savedArticle => savedArticle.url === article.url);
+      // merge any newArticles found with the savedData to check against (in case latest fetch has a duplicate in it)
+      const articlesToCheckThrough = [...newArticlesFromFeed, ...savedData.articles];
+
+      // does article exist in those articles, add to newArticlesFromFeed if it's new
+      let isOld = articlesToCheckThrough.some(oldArticle => oldArticle.url === article.url) || article.headline && savedData.articles.some(oldArticle => oldArticle.headline === article.headline);
 
       if (!isOld) {
         console.log("Found new article");
