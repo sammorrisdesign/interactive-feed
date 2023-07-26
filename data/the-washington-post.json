@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-24T21:13:00.583Z",
+  "lastUpdated": "2023-07-26T13:17:24.367Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/olympics/interactive/2023/breakdancing-paris-olympics/",
+      "headline": "Break dancing in the Paris Games: Celebrating a culture or co-opting it?",
+      "timestamp": "2023-07-26T13:00:24.925Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
