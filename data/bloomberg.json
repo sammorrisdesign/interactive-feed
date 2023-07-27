@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-27T05:12:33.024Z",
+  "lastUpdated": "2023-07-27T08:17:11.261Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-us-climate-disaster-costs-wildfires-storms/",
+      "headline": "The Skyrocketing Toll of the Billion-Dollar Climate Disaster",
+      "timestamp": "2023-07-27T08:00:10.366Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
