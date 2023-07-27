@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-27T11:11:27.423Z",
+  "lastUpdated": "2023-07-27T12:28:10.088Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/bahamas-human-smuggling-by-boat/",
+      "headline": "Dreams and deadly seas ",
+      "timestamp": "2023-07-27T12:00:03.371Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
