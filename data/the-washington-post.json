@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-27T12:28:10.088Z",
+  "lastUpdated": "2023-07-27T15:13:30.744Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/mlb-field-dimensions/",
+      "headline": "How far does it take to hit a home run? Depends on the MLB stadium.",
+      "timestamp": "2023-07-27T15:05:52.140Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
