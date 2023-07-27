@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-07-24T23:13:41.738Z",
+  "lastUpdated": "2023-07-27T04:15:45.827Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-tesla-survey/model-3-satisfaction",
+      "headline": "Tesla’s Model 3 Still Holds Up After Five Years on the Road",
+      "timestamp": "2023-07-27T04:01:12.029Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-tesla-survey/autopilot-features-satisfaction/",
+      "headline": "Tesla's Test Drivers Share What Musk Gets Right and Wrong",
+      "timestamp": "2023-07-27T04:01:08.036Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
