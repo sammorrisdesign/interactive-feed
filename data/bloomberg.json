@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-27T04:15:45.827Z",
+  "lastUpdated": "2023-07-27T05:12:33.024Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-tesla-survey/elon-musk-brand-analysis/",
+      "headline": "Tesla Owners Have Soured on Elon Musk, But Still Love Their Model 3s",
+      "timestamp": "2023-07-27T04:45:05.426Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
