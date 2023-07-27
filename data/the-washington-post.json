@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-26T13:17:24.367Z",
+  "lastUpdated": "2023-07-27T11:11:27.423Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/history/interactive/2023/appalachian-trail-length-route-changes/",
+      "headline": "Why the famed Appalachian Trail keeps getting longer — and harder",
+      "timestamp": "2023-07-27T11:00:27.103Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
