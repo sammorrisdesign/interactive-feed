@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-28T13:17:52.012Z",
+  "lastUpdated": "2023-07-28T13:36:54.499Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/national-park-photos-memories/",
+      "headline": "70 years of your national park photos ",
+      "timestamp": "2023-07-28T13:25:07.398Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
