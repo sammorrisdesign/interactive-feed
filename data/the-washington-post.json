@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-28T10:14:17.293Z",
+  "lastUpdated": "2023-07-28T13:17:52.012Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/ukraine-village-soldier-funeral-carnage/",
+      "headline": "A Ukrainian village’s final farewell to soldier highlights toll of war",
+      "timestamp": "2023-07-28T13:03:56.276Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
