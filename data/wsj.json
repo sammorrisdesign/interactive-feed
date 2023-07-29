@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2023-07-24T14:57:29.014Z",
+  "lastUpdated": "2023-07-29T21:11:13.833Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/lithium-ion-batteries-fire-explained-1e5cbe9c",
+      "headline": "Here’s Why Lithium-Ion Batteries Are Catching Fire",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/american-workers-are-finally-taking-guilt-free-vacations-f5eb383f",
+      "headline": "How Americans Learned to Stop Worrying and Take Vacation This Summer",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-allies-in-asia-snub-natural-gas-from-alaska-project-e54f754a",
+      "headline": "U.S. Allies in Asia Snub Natural Gas From Alaska Project",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/2-billion-default-followed-warnings-to-everyone-but-investors-fbf13873",
+      "headline": "$2 Billion Default Followed Warnings to Everyone but Investors",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/wages-and-inflation-ease-as-fed-considers-next-move-a6abd49b",
+      "headline": "Inflation and Wage Growth Ease as Fed Considers Next Move",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/italy-says-it-will-build-the-longest-suspension-bridge-in-the-world-dont-hold-your-breath-71b7cc86",
+      "headline": "Italy Says it Will Build the Longest Suspension Bridge in the World. Don’t Hold Your Breath.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/us-gdp-report-economic-growth-92482437",
+      "headline": "U.S. Economic Growth Accelerates",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/extreme-heat-waves-across-the-world-photos-7cc1544d",
+      "headline": "The World Bakes Under Extreme Heat",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/not-even-tom-cruise-can-charm-chinas-moviegoers-into-seeing-hollywood-films-49d39f3a",
+      "headline": "The Summer China Fell Out of Love With Hollywood",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
