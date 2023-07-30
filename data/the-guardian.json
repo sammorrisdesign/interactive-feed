@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-07-26T07:12:48.477Z",
+  "lastUpdated": "2023-07-30T16:16:24.124Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2023/jul/31/australia-floods-in-pictures-northern-new-south-wales-lismore",
+      "headline": "Washed away: a struggle to make sense of the largest flood in modern Australian history",
+      "timestamp": "2023-07-30T15:00:13.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
