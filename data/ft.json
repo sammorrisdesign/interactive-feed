@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-23T04:16:17.118Z",
+  "lastUpdated": "2023-07-30T04:15:56.768Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5e56b8d5-baae-40eb-a1e1-53e44f0249f5",
+      "headline": "China closes research publication gap with the US",
+      "timestamp": "2023-07-30T04:00:10.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
