@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-31T10:36:36.045Z",
+  "lastUpdated": "2023-07-31T11:11:51.471Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/ukraine-war-maps-progress-aid/",
+      "headline": "See how Ukraine is paying the price for allies’ hesitation",
+      "timestamp": "2023-07-31T11:00:08.205Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

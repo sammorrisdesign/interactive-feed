@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-31T09:14:42.121Z",
+  "lastUpdated": "2023-07-31T11:11:51.479Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-extreme-heat-power-outage-electric-grid/",
+      "headline": "Extreme Heat and Aging Power Grids Are a Deadly Combination",
+      "timestamp": "2023-07-31T11:00:08.053Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
