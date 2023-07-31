@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-07-31T09:14:42.108Z",
+  "lastUpdated": "2023-07-31T14:36:29.591Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/07/31/books/booksupdate/book-last-lines-quiz.html",
+      "headline": "Did You Make It to the End of These Popular Novels?",
+      "timestamp": "2023-07-31T14:30:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
