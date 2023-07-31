@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-27T08:17:11.261Z",
+  "lastUpdated": "2023-07-31T01:12:48.013Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-adani-infrastructure-control/",
+      "headline": "Adani’s Grip on India’s Economy Fuels Rebound After Hindenburg",
+      "timestamp": "2023-07-31T00:00:08.211Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
