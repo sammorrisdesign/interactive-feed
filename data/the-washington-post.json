@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-28T13:36:54.499Z",
+  "lastUpdated": "2023-07-31T10:15:29.017Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/rent-prices-coming-down-near-me/",
+      "headline": "Rent is finally cooling. See how much prices have changed in your area.",
+      "timestamp": "2023-07-31T10:00:37.652Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
