@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-31T10:15:29.017Z",
+  "lastUpdated": "2023-07-31T10:36:36.045Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2023/alaska-kelp-farming/",
+      "headline": "Alaska’s newest gold rush: Seaweed",
+      "timestamp": "2023-07-31T10:30:04.662Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
