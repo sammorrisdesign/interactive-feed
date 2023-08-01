@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-08-01T18:17:13.896Z",
+  "lastUpdated": "2023-08-01T22:12:31.901Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/01/us/trump-jan-6-indictment-2020-election.html",
+      "headline": "Read the Trump Jan. 6 Indictment",
+      "timestamp": "2023-08-01T21:40:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
