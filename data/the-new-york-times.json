@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-08-01T04:36:26.479Z",
+  "lastUpdated": "2023-08-01T18:17:13.896Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/01/arts/music/hip-hop-rap-mahogany-browne.html",
+      "headline": "A Hip-Hop Love Story",
+      "timestamp": "2023-08-01T18:07:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/01/us/elections/republican-debate-qualifications.html",
+      "headline": "Who Has Made It to the First Republican Debate So Far?",
+      "timestamp": "2023-08-01T18:04:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
