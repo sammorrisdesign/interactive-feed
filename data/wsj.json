@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-07-29T21:11:13.833Z",
+  "lastUpdated": "2023-08-01T06:38:47.749Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/chinas-tech-distress-grows-as-u-s-chip-sanctions-bite-3022475c",
+      "headline": "China’s Tech Distress Grows as U.S. Chip Sanctions Bite",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/niger-coup-upends-u-s-security-plans-in-west-africa-handing-russia-an-opportunity-8dcf6679",
+      "headline": "Niger Coup Upends U.S. Security Plans in West Africa",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/russia-says-it-downed-three-ukrainian-drones-over-moscow-b80944cf",
+      "headline": "Russia Says It Downed Three Ukrainian Drones Over Moscow",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/transgender-america-fights-back-a2c841f0",
+      "headline": "Transgender America Fights Back",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/the-startup-making-it-easier-for-young-people-to-put-money-on-sports-85422440",
+      "headline": "The Startup Making It Easier for Young People to Put Money on Sports",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
