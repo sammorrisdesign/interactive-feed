@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-01T10:14:45.462Z",
+  "lastUpdated": "2023-08-01T23:36:17.701Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/trump-investigations-indictments/",
+      "headline": "Tracking Trump indictments, investigations: Latest news, where they stand",
+      "timestamp": "2023-08-01T23:25:54.974Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
