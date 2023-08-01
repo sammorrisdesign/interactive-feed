@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-31T11:11:51.471Z",
+  "lastUpdated": "2023-08-01T10:14:45.462Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/texas-abortion-law-teen-parents/",
+      "headline": "An abortion ban made them teen parents. This is life two years later.",
+      "timestamp": "2023-08-01T10:00:58.180Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
