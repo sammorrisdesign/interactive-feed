@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-01T23:36:17.701Z",
+  "lastUpdated": "2023-08-02T16:18:09.845Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/weather/interactive/2023/sturgeon-supermoon-full-moon-photos/",
+      "headline": "In photos: Sturgeon supermoon lights up the night sky worldwide",
+      "timestamp": "2023-08-02T16:15:30.589Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

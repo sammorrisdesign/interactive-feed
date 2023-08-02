@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-04T21:34:49.822Z",
+  "lastUpdated": "2023-08-02T16:18:09.924Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/2023/07/sumner-tunnel-closure-restoration-plans/",
+      "headline": "",
+      "timestamp": null
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
