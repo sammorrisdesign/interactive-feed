@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-10T10:17:40.809Z",
+  "lastUpdated": "2023-08-02T09:36:27.149Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "blueSkyHandle": "politico.com",
+      "url": "https://www.politico.com/interactives/2023/50-mayors-us-cities/housing/",
+      "headline": "How the pandemic spurred a housing crisis in cities across the nation",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
