@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-08-01T23:13:34.420Z",
+  "lastUpdated": "2023-08-03T09:13:32.977Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/03/climate/ocean-temperatures-heat-earth.html",
+      "headline": "What This Year’s ‘Astonishing’ Ocean Heat Means for the Planet",
+      "timestamp": "2023-08-03T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/03/realestate/03hunt-bumke.html",
+      "headline": "Seeking a Perch Above Central Park for Less Than $800,000. Which Option Did They Choose?",
+      "timestamp": "2023-08-03T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/03/travel/things-to-do-ho-chi-minh-vietnam.html",
+      "headline": "36 Hours in Ho Chi Minh City, Vietnam",
+      "timestamp": "2023-08-03T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
