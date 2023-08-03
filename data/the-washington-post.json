@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-02T16:18:09.845Z",
+  "lastUpdated": "2023-08-03T11:36:40.734Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/pennsylvania-avenue-dc-changes-feedback/",
+      "headline": "We think Pennsylvania Avenue should have fewer cars. How about you?",
+      "timestamp": "2023-08-03T11:30:50.656Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
