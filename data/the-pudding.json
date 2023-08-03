@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-07-20T19:36:26.843Z",
+  "lastUpdated": "2023-08-03T15:14:14.801Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/projects/heat-records-map",
+      "headline": "Mapping Record-High Heat in U.S. Cities",
+      "timestamp": "2023-08-02T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
