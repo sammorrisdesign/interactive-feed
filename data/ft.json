@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-30T04:15:56.768Z",
+  "lastUpdated": "2023-08-04T14:36:18.133Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/afaf57c2-cfc6-402f-bf69-a7382535c651",
+      "headline": "Wildfires in Canada double the annual carbon emissions record",
+      "timestamp": "2023-08-04T14:10:49.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
