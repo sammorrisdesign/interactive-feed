@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-04T09:13:13.870Z",
+  "lastUpdated": "2023-08-04T21:11:20.620Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/ev-cobalt-mines-congo/",
+      "headline": "Despite reforms, mining for EV metals in Congo exacts steep cost on workers",
+      "timestamp": "2023-08-04T21:00:28.724Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
