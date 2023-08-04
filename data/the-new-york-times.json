@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-08-03T23:13:11.259Z",
+  "lastUpdated": "2023-08-04T07:12:22.120Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/04/us/elections/times-siena-poll-iowa-republican-primary-crosstabs.html",
+      "headline": "Cross-Tabs: Times/Siena Poll of the Republican Race in Iowa",
+      "timestamp": "2023-08-04T07:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/04/us/elections/times-siena-poll-iowa-republican-primary-toplines.html",
+      "headline": "Topline Results: Times/Siena Poll of Likely Iowa Republican Caucusgoers",
+      "timestamp": "2023-08-04T07:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
