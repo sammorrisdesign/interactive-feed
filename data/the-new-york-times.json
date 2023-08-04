@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-08-04T09:13:13.860Z",
+  "lastUpdated": "2023-08-04T16:17:16.077Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/08/us/elections/results-mississippi.html",
+      "headline": "Mississippi Primary Election Results",
+      "timestamp": "2023-08-04T16:14:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/08/us/elections/results-ohio-issue-1.html",
+      "headline": "Ohio Issue 1 Election Results: Amendment Approval Threshold",
+      "timestamp": "2023-08-04T16:08:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
