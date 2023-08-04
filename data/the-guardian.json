@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-08-01T14:12:41.548Z",
+  "lastUpdated": "2023-08-04T09:36:16.040Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/books/ng-interactive/2023/aug/04/this-months-best-paperbacks-lucy-worsley-erin-kelly-and-more",
+      "headline": "This month’s best paperbacks: Lucy Worsley, Erin Kelly and more",
+      "timestamp": "2023-08-04T09:15:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
