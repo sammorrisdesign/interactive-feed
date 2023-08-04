@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-08-03T11:36:40.734Z",
+  "lastUpdated": "2023-08-04T09:13:13.870Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2023/hip-hop-50-years-anniversary-playlist/",
+      "headline": "50 hip-hop artists share 50 songs they love",
+      "timestamp": "2023-08-04T09:00:27.044Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2023/hip-hop-rap-artists-songs-quiz/",
+      "headline": "Can you guess which songs these hip-hop artists surprisingly enjoy?",
+      "timestamp": "2023-08-04T08:50:18.767Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
