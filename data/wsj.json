@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-08-01T06:38:47.749Z",
+  "lastUpdated": "2023-08-04T05:36:30.524Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/salt-deduction-cap-vexes-gop-after-vexing-democrats-after-vexing-gop-5da55434",
+      "headline": "SALT Deduction Cap Vexes GOP After Vexing Democrats After Vexing GOP",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/airport-security-tsa-wait-times-b49eec89",
+      "headline": "TSA’s New Tech Can Make Airport Screening Faster. Travelers Aren’t So Sure.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/pg-e-scraps-tree-trimming-program-once-seen-as-key-to-fire-prevention-97a1ac5e",
+      "headline": "PG&E Scraps Tree-Trimming Program Once Seen as Key to Fire Prevention",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/behind-ukraines-deadly-drones-putins-invasion-and-bidens-limits-5f2f2cf",
+      "headline": "Behind Ukraine’s Deadly Drones: Putin’s Invasion and Biden’s Limits",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
