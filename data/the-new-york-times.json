@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-08-04T16:17:16.077Z",
+  "lastUpdated": "2023-08-04T20:14:10.928Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/04/sports/soccer/spot-the-ball-womens-world-cup.html",
+      "headline": "Spot the Ball: Women’s World Cup",
+      "timestamp": "2023-08-04T20:10:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/04/books/rita-dove-american-smooth-poem.html",
+      "headline": "A Poem About Dance and the Hard Work of Transcendence",
+      "timestamp": "2023-08-04T19:46:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
