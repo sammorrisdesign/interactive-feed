@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-08-05T21:10:55.845Z",
+  "lastUpdated": "2023-08-07T14:36:16.051Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/07/books/booksupdate/mystery-book-title-search.html",
+      "headline": "Can You Find These 13 Hidden Crime and Mystery Titles?",
+      "timestamp": "2023-08-07T14:30:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
