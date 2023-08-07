@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-08-04T09:36:16.040Z",
+  "lastUpdated": "2023-08-07T04:16:26.700Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2023/aug/07/indigenous-voice-to-parliament-poll-results-polling-referendum-tracker-newspoll-essential-yougov-news-polls-by-state-australia",
+      "headline": "Voice to parliament polling results tracker: how many people support or oppose the referendum",
+      "timestamp": "2023-08-07T03:52:25.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
