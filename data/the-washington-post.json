@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-08T11:11:29.650Z",
+  "lastUpdated": "2023-08-08T14:12:58.468Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/premier-league-2023-2024-quiz/",
+      "headline": "Quiz: Which Premier League team should you root for?",
+      "timestamp": "2023-08-08T14:00:11.048Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
