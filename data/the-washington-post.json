@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-08T10:36:20.017Z",
+  "lastUpdated": "2023-08-08T11:11:29.650Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/electric-vehicle-charging-price-vs-gasoline/",
+      "headline": "The true cost of ‘refilling’ an EV in every state",
+      "timestamp": "2023-08-08T10:30:58.428Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
