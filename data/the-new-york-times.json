@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-08-07T14:36:16.051Z",
+  "lastUpdated": "2023-08-08T02:12:41.596Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/07/dining/cooking-videos-tiktok.html",
+      "headline": "How Cooking Videos Took Over the World",
+      "timestamp": "2023-08-08T02:05:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
