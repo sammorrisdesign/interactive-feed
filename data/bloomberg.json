@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-01T23:13:34.433Z",
+  "lastUpdated": "2023-08-08T04:15:58.301Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/graphics2023-08-reed-jobs-report-seaside-towns/",
+      "headline": "Jobs Dry Up in England’s Seaside Towns as Staycations Dwindle",
+      "timestamp": "2023-08-08T04:00:08.311Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
