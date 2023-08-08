@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2023-08-04T05:36:30.524Z",
+  "lastUpdated": "2023-08-08T15:37:34.857Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/breaking-down-the-worst-earnings-quarter-in-years-74199fb6",
+      "headline": "Breaking Down the Worst Earnings Quarter in Years",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/trumps-donors-help-fund-his-legal-bills-becoming-windfalls-for-his-attorneys-9b119b1c",
+      "headline": "Trump’s Attorneys Reap Windfalls From His Donors",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/superconductors-new-lk-99-viral-moment-takes-investors-for-a-wild-ride-20b9599b",
+      "headline": "Superconductors’ Viral ‘LK-99’ Moment Takes Investors for a Wild Ride",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ham-radio-enthusiasts-vs-high-frequency-traders-a-battle-for-the-airwaves-6d6c5c1f",
+      "headline": "Ham Radio Enthusiasts Battle High-Frequency Traders for the Airwaves",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/record-amounts-of-money-sent-back-home-end-upaiding-autocratic-regimes-5bd9cdd9",
+      "headline": "Rising Money Flows, Fueled by Record Migration, Prop Up Autocrats",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/iowa-politics-democrats-republican-campaign-1d624898",
+      "headline": "Why Democrats Lost Iowa",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/big-oils-talent-crisis-high-salaries-are-no-longer-enough-194545be",
+      "headline": "Big Oil’s Talent Crisis: High Salaries Are No Longer Enough",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ukrainian-naval-drones-attack-russian-black-sea-port-81b4f2e6",
+      "headline": "Ukrainian Naval Drones Attack Russian Black Sea Port",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-made-cluster-munitions-fuel-ukrainian-counteroffensive-c45c305f",
+      "headline": "U.S.-Made Cluster Munitions Fuel Ukrainian Counteroffensive",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
