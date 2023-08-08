@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-07T10:14:42.777Z",
+  "lastUpdated": "2023-08-08T10:36:20.017Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/electric-vehicle-price-charging-ev/",
+      "headline": "Tale of 2 road trips: Are gasoline vehicles cheaper to fill up than EVs?",
+      "timestamp": "2023-08-08T10:30:58.428Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
