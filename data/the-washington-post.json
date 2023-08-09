@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-08-08T14:12:58.468Z",
+  "lastUpdated": "2023-08-09T10:15:11.698Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/surfing-resorts-indonesia-mentawais-airport/",
+      "headline": "Last call for a surfers’ hideaway",
+      "timestamp": "2023-08-09T10:00:50.234Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/identify-scam-quiz-zelle-email-text/",
+      "headline": "Are you smarter than a scammer? Play this game.",
+      "timestamp": "2023-08-09T10:00:30.163Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
