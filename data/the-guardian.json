@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-08-08T12:26:59.548Z",
+  "lastUpdated": "2023-08-10T08:17:58.325Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2023/aug/10/how-bakhmut-became-a-pivot-in-the-ukraine-war",
+      "headline": "How Bakhmut became a pivot in the Ukraine war",
+      "timestamp": "2023-08-10T07:05:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
