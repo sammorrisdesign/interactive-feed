@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-08T04:15:58.301Z",
+  "lastUpdated": "2023-08-10T04:17:08.758Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-us-gun-violence-border-crisis-guatemala/",
+      "headline": "The US Is Pushing Guns on a Country It Labels Violent and Corrupt",
+      "timestamp": "2023-08-10T04:01:10.465Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
