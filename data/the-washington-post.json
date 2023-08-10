@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-09T10:15:11.698Z",
+  "lastUpdated": "2023-08-10T12:29:33.156Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/virtual-reality-job-training/",
+      "headline": "Virtual reality has expanded into a new field: Job training",
+      "timestamp": "2023-08-10T12:00:25.144Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
