@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-08-10T05:13:03.148Z",
+  "lastUpdated": "2023-08-10T09:14:39.881Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/10/realestate/chicago-evanston-homes.html",
+      "headline": "With a Grandchild on the Way, Chicago Beckoned. What Could They Get for Less Than $400,00?",
+      "timestamp": "2023-08-10T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/10/travel/things-to-do-prague.html",
+      "headline": "36 Hours in Prague",
+      "timestamp": "2023-08-10T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
