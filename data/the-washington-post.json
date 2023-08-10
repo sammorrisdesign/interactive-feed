@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-10T12:29:33.156Z",
+  "lastUpdated": "2023-08-10T16:18:18.080Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/arts-entertainment/interactive/2023/meurent-manet-olympia/",
+      "headline": "She was always the object. And then she painted herself.",
+      "timestamp": "2023-08-10T15:50:11.502Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
