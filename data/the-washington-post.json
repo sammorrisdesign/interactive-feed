@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-10T16:18:18.080Z",
+  "lastUpdated": "2023-08-11T14:12:11.121Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/hurricane-prepare-home-safety/",
+      "headline": "How to prepare your family, home and pets for a hurricane",
+      "timestamp": "2023-08-11T14:00:17.331Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
