@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2023-08-08T15:37:34.857Z",
+  "lastUpdated": "2023-08-12T06:36:11.647Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/how-u-s-and-china-are-breaking-up-in-charts-282bd878",
+      "headline": "How U.S. and China Are Breaking Up, in Charts",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/consumer-price-index-report-july-inflation-a4a0a670",
+      "headline": "Cooler July Inflation Opens Door to Fed Pause on Rates",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/fitch-downgrade-us-credit-rating-4ad98230",
+      "headline": "Why Fitch’s Downgrade Matters",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/july-2023-hottest-month-record-climate-change-5e5b3097",
+      "headline": "Earth Just Had Its Hottest Month Ever. How Six Cities Are Coping.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/americas-most-tech-forward-city-has-doubts-about-self-driving-cars-d6b098e0",
+      "headline": "America’s Most Tech-Forward City Has Doubts About Self-Driving Cars",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/retirement-charts-social-security-savings-health-efa1962b",
+      "headline": "Here’s What Retirement Looks Like in America in Six Charts",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
