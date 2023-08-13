@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-04T14:36:18.133Z",
+  "lastUpdated": "2023-08-13T04:15:02.923Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/330d8771-7b0e-40e3-8574-b5b6921a4486",
+      "headline": "Meta’s Twitter rival Threads unravels",
+      "timestamp": "2023-08-13T04:00:36.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
