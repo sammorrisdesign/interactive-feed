@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-10T04:17:08.758Z",
+  "lastUpdated": "2023-08-13T14:11:02.920Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-argentina-election/",
+      "headline": "Argentina Election Live Results: Open Primaries 2023",
+      "timestamp": "2023-08-13T14:00:08.016Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
