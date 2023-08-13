@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-08-12T01:43:01.633Z",
+  "lastUpdated": "2023-08-13T01:01:04.281Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/12/climate/electric-car-politics-chevy-general-motors.html",
+      "headline": "The Clean Energy Future Is a Battle for Hearts and Minds",
+      "timestamp": "2023-08-13T00:08:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/12/climate/clean-energy-us-fossil-fuels.html",
+      "headline": "The Clean Energy Future Is Arriving Faster Than You Think",
+      "timestamp": "2023-08-13T00:08:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/12/climate/wind-solar-clean-energy.html",
+      "headline": "The Clean Energy Future Is Roiling Both Friends and Foes",
+      "timestamp": "2023-08-13T00:08:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
