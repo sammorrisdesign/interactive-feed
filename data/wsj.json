@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-08-12T06:36:11.647Z",
+  "lastUpdated": "2023-08-13T08:15:01.153Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/tax-rebates-energy-efficient-home-improvements-renovation-e6cdb19a",
+      "headline": "New Tax Rules Can Save You Thousands on Home Renovations",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/heres-what-a-5-million-retirement-looks-like-in-america-1abc76d9",
+      "headline": "Here’s What a $5 Million Retirement Looks Like in America",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
