@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-14T09:13:22.590Z",
+  "lastUpdated": "2023-08-14T09:36:19.979Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-us-middle-class-manufacturing-2024-election/",
+      "headline": "Two Towns, Two Factories: How a $500 Billion Boom Exposes American Failures",
+      "timestamp": "2023-08-14T09:30:08.047Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
