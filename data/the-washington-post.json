@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-14T10:14:17.348Z",
+  "lastUpdated": "2023-08-14T11:11:11.772Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/afghanistan-allies-stuck-visas/",
+      "headline": "This is how the U.S. is treating Afghans who helped us",
+      "timestamp": "2023-08-14T10:45:45.550Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
