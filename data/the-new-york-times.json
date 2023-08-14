@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-08-14T04:36:19.504Z",
+  "lastUpdated": "2023-08-14T14:36:22.037Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/14/books/booksupdate/broadway-books-quiz.html",
+      "headline": "How Many Books Do You Know That Became Broadway Musicals?",
+      "timestamp": "2023-08-14T14:30:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
