@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-13T14:11:02.920Z",
+  "lastUpdated": "2023-08-14T04:16:19.724Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-global-warming-impacts-data/",
+      "headline": "Rising Temperatures Are Wreaking Havoc Year-Round",
+      "timestamp": "2023-08-14T04:01:08.175Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
