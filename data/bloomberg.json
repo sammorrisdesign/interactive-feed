@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-14T04:16:19.724Z",
+  "lastUpdated": "2023-08-14T09:13:22.590Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-are-you-rich-best-cities-to-live-salary/",
+      "headline": "Miami, Austin or Denver: Where Would Your Paycheck Go Further?",
+      "timestamp": "2023-08-14T09:00:08.476Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
