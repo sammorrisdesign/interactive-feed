@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-08-11T14:12:11.121Z",
+  "lastUpdated": "2023-08-14T05:12:51.113Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/history/interactive/2023/smithsonian-brains-collection-racial-history-repatriation/",
+      "headline": "Revealing the Smithsonian’s ‘racial brain collection’",
+      "timestamp": "2023-08-14T05:00:52.025Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/history/interactive/2023/takeaways-smithsonian-human-brains-remains-collection/",
+      "headline": "What we know about the Smithsonian’s human remains ",
+      "timestamp": "2023-08-14T05:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
