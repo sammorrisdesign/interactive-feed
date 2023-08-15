@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-08-15T04:15:47.688Z",
+  "lastUpdated": "2023-08-15T04:36:23.841Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/15/us/politics/trump-georgia-indictment-annotated.html",
+      "headline": "The Trump Georgia Indictment, Annotated",
+      "timestamp": "2023-08-15T04:22:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
