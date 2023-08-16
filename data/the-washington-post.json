@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-16T05:12:46.890Z",
+  "lastUpdated": "2023-08-16T13:16:12.145Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/water-scarcity-map-solutions/",
+      "headline": "Here’s where water is running out in the world — and why",
+      "timestamp": "2023-08-16T13:10:17.446Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
