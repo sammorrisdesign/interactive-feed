@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-08-15T04:36:23.841Z",
+  "lastUpdated": "2023-08-16T14:12:20.208Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/16/nyregion/new-york-city-request-from-new-york-state-in-migrant-case.html",
+      "headline": "Read the letter",
+      "timestamp": "2023-08-16T13:51:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/16/us/new-york-state-response-to-new-york-city-in-migrant-case.html",
+      "headline": "Read the letter",
+      "timestamp": "2023-08-16T13:46:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
