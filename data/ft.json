@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-14T09:13:22.587Z",
+  "lastUpdated": "2023-08-16T04:16:31.998Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/coffee/",
+      "headline": "Have we reached peak coffee?",
+      "timestamp": "2023-08-16T04:00:39.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
