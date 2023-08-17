@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-17T11:11:09.034Z",
+  "lastUpdated": "2023-08-17T16:17:28.028Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/maui-fire-survivor-fight-hawaii-wildfires/",
+      "headline": "Inside one man’s harrowing fight out of the Maui fires",
+      "timestamp": "2023-08-17T15:40:31.237Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
