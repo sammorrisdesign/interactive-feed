@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-08-16T14:12:20.208Z",
+  "lastUpdated": "2023-08-17T09:13:07.657Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/17/upshot/six-kinds-of-republican-voters.html",
+      "headline": "The 6 Kinds of Republican Voters",
+      "timestamp": "2023-08-17T09:00:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/17/realestate/brooklyn-one-bedroom-apartment.html",
+      "headline": "Seeking a One-Bedroom in ‘a Quintessential New York Brownstone.’ How Far Would Their Budget Take Them?",
+      "timestamp": "2023-08-17T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/17/travel/things-to-do-palermo-italy.html",
+      "headline": "36 Hours in Palermo, Italy",
+      "timestamp": "2023-08-17T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
