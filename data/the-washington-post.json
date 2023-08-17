@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-17T05:12:39.797Z",
+  "lastUpdated": "2023-08-17T11:11:09.034Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2023/homeschooling-microschools-pods-esa-vouchers/",
+      "headline": "How home-schooling left the kitchen table and became a big business",
+      "timestamp": "2023-08-17T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
