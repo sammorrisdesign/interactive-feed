@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-16T04:16:31.998Z",
+  "lastUpdated": "2023-08-17T14:36:32.715Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/378253f2-a7a6-4c2d-a9e9-aa228f6ad547",
+      "headline": "Falling birth rate highlights UK’s demographic challenges",
+      "timestamp": "2023-08-17T14:18:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
