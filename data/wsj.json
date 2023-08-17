@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2023-08-13T08:15:01.153Z",
+  "lastUpdated": "2023-08-17T10:36:36.947Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/trump-georgia-indictment-co-defendants-d4ab3538",
+      "headline": "Trump and His Orbit: The Scope of Georgia’s Election Case Explained",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/law/who-are-trumps-co-defendants-in-the-georgia-rico-case-73b56354",
+      "headline": "Who Are Trump’s Co-Defendants in the Georgia Case?",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/microchips-in-the-parmigiano-and-other-ways-europeans-are-fighting-fake-food-3c719f9c",
+      "headline": "Next Time You Buy Parmesan, Watch Out for the Microchip",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/global-economy-economic-losers-fba30b53",
+      "headline": "The Economic Losers in the New World Order",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/green-power-gets-pricier-after-years-of-declines-87d71d5f",
+      "headline": "Green Power Gets Pricier After Years of Declines",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-in-talks-to-develop-ukraine-grain-export-routes-3e597c3",
+      "headline": "U.S. in Talks to Develop Ukraine’s Grain Export Routes",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china/the-u-s-is-turning-away-from-its-biggest-scientific-partner-at-a-precarious-time-9fb9adaa",
+      "headline": "U.S. Is Turning Away From Its Biggest Scientific Partner at a Precarious Time",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/u-s-steel-takeover-talk-rattles-manufacturers-1f3b351b",
+      "headline": "U.S. Steel Takeover Talk Rattles Manufacturers",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/restaurants-and-supermarkets-are-brawling-over-your-dollar-8a764eaa",
+      "headline": "Restaurants and Supermarkets Are Brawling Over Your Dollar",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/artificial-intelligence-jobs-pay-netflix-walmart-230fc3cb",
+      "headline": "The $900,000 AI Job Is Here",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
