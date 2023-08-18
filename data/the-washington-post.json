@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-17T16:17:28.028Z",
+  "lastUpdated": "2023-08-18T09:12:52.107Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/old-dollar-bills-cash-federal-reserve/",
+      "headline": "The high-tech, super-secure government warehouse where old cash dies",
+      "timestamp": "2023-08-18T09:00:45.697Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
