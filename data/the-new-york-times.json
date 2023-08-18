@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2023-08-18T01:48:40.333Z",
+  "lastUpdated": "2023-08-18T21:11:05.289Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/vivek-ramaswamy-republican-candidates-2024-issues.html",
+      "headline": "Vivek Ramaswamy, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:10:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/pence-republican-candidates-2024-issues.html",
+      "headline": "Mike Pence, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:09:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/tim-scott-republican-candidates-2024-issues.html",
+      "headline": "Tim Scott, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:08:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/francis-suarez-republican-candidates-2024-issues.html",
+      "headline": "Francis Suarez, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:08:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/asa-hutchinson-republican-candidates-2024-issues.html",
+      "headline": "Asa Hutchinson, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:08:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/will-hurd-republican-candidates-2024-issues.html",
+      "headline": "Will Hurd, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:08:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/doug-burgum-republican-candidates-2024-issues.html",
+      "headline": "Doug Burgm, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:07:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/chris-christie-republican-candidates-2024-issues.html",
+      "headline": "Chris Christie, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:07:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/nikki-haley-republican-candidates-2024-issues.html",
+      "headline": "Nikki Haley, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:06:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/18/us/politics/desantis-republican-candidates-2024-issues.html",
+      "headline": "DeSantis, Republican Presidential Candidate, on the Issues",
+      "timestamp": "2023-08-18T21:06:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
