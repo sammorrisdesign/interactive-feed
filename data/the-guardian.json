@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-08-10T10:15:10.883Z",
+  "lastUpdated": "2023-08-18T14:36:24.861Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2023/aug/18/lucy-letby-timeline-attacks-babies-when-alarm-raised",
+      "headline": "Timeline of Lucy Letby’s attacks on babies and when alarm was raised",
+      "timestamp": "2023-08-18T14:23:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
