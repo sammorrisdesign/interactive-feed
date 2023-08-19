@@ -115,7 +115,9 @@ const fetchers = {
         url = 'https://inquirer.com' + article.canonical_url,
         headline = article.headlines.basic,
         timestamp = article.display_date
-      ))
+      ));
+
+      articles = articles.filter(article => !article.url.includes('zzz-systest'));
 
       return articles;
     } else {
