@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-16T23:13:05.351Z",
+  "lastUpdated": "2023-08-19T15:11:53.160Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-pacific-hurricane-season/hilary.html",
+      "headline": "Tracking Hurricane Hilary’s Latest Path",
+      "timestamp": "2023-08-19T14:45:12.846Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
