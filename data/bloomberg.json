@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-19T15:11:53.160Z",
+  "lastUpdated": "2023-08-21T10:36:24.955Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-asset-management-relocation-wall-street-south/",
+      "headline": "New York and California Each Lost $1 Trillion When Financial Firms Moved South",
+      "timestamp": "2023-08-21T10:15:20.087Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
