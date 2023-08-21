@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-18T13:15:35.748Z",
+  "lastUpdated": "2023-08-21T21:11:30.178Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/china-fiji-police-mou-pacific-islands/",
+      "headline": "China hoped Fiji would be a template for the Pacific. Its plan backfired.",
+      "timestamp": "2023-08-21T21:00:58.270Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
