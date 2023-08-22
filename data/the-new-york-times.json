@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-08-21T14:36:22.741Z",
+  "lastUpdated": "2023-08-22T00:59:00.202Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/21/us/politics/republican-candidates-2024-transgender-rights.html",
+      "headline": "Republican Presidential Candidates on Transgender Rights",
+      "timestamp": "2023-08-21T23:55:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
