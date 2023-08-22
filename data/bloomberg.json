@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-21T10:36:24.955Z",
+  "lastUpdated": "2023-08-22T09:13:16.862Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-republican-presidential-race-fundraising/",
+      "headline": "Who’s Going to Give Trump the Biggest Run for His Money?",
+      "timestamp": "2023-08-22T09:00:08.692Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
