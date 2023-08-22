@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-17T14:36:32.715Z",
+  "lastUpdated": "2023-08-22T04:16:03.952Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/2748d160-03ee-433c-b822-6c07918d1797",
+      "headline": "Extreme renting: how rising rates turned the screws on tenants across Europe",
+      "timestamp": "2023-08-22T04:00:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
