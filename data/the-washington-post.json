@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-08-21T21:11:30.178Z",
+  "lastUpdated": "2023-08-23T10:14:09.085Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/poll-republican-presidential-debate/",
+      "headline": "What Republican voters think of GOP candidates before the debate",
+      "timestamp": "2023-08-23T10:00:58.112Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/where-2024-candidates-stand-elections-democracy-jan-6/",
+      "headline": "Where the 2024 candidates stand on elections, democracy and Jan. 6",
+      "timestamp": "2023-08-23T10:00:27.520Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
