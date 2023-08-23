@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-23T11:11:07.886Z",
+  "lastUpdated": "2023-08-23T16:17:35.783Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2023/republican-debate-bingo-game/",
+      "headline": "That wasn’t on my 2023 Republican debate bingo game card...",
+      "timestamp": "2023-08-23T16:00:05.136Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
