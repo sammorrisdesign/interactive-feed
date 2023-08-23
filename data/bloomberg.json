@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-22T09:13:16.862Z",
+  "lastUpdated": "2023-08-23T09:36:45.165Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-ev-charging-map-road-trip",
+      "headline": "America’s Loneliest Road is Finally EV-Ready",
+      "timestamp": "2023-08-23T09:30:10.465Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
