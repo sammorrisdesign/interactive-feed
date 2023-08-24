@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-08-23T21:11:29.089Z",
+  "lastUpdated": "2023-08-24T09:13:24.939Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/24/realestate/24hunt-orlando.html",
+      "headline": "In Orlando, Looking for a Move-In Ready House Near All the Fun",
+      "timestamp": "2023-08-24T09:00:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/24/opinion/republican-debate-winners-losers.html",
+      "headline": "Winners and Losers of the First Republican Debate",
+      "timestamp": "2023-08-24T09:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/24/travel/things-to-do-cartagena-colombia.html",
+      "headline": "36 Hours in Cartagena, Colombia",
+      "timestamp": "2023-08-24T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
