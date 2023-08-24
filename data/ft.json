@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-22T04:16:03.952Z",
+  "lastUpdated": "2023-08-24T16:39:07.932Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/76fae6bf-cd3f-40b0-be34-ff284c1fa129",
+      "headline": "Big Larry does a chart crime",
+      "timestamp": "2023-08-24T16:20:34.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
