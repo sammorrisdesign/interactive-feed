@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-08-23T23:36:36.678Z",
+  "lastUpdated": "2023-08-25T05:36:28.190Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/science/space-astronomy/the-global-race-to-water-at-the-moons-south-pole-74674197",
+      "headline": "The Global Race to Water at the Moon’s South Pole",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/law/tracking-the-charges-in-trumps-indictments-112864a3",
+      "headline": "Tracking the Charges in Trump’s Indictments",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/donald-trump-iowa-poll-lead-ron-desantis-bc96c1b4",
+      "headline": "Trump Holds 23-Point Lead Over DeSantis in Closely Watched Iowa Poll",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
