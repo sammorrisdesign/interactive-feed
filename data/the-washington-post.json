@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-24T16:17:46.682Z",
+  "lastUpdated": "2023-08-25T10:14:18.860Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/history/interactive/2023/march-on-washington-60th-anniversary-memories/",
+      "headline": "An oral history of the March on Washington, 60 years after MLK’s dream",
+      "timestamp": "2023-08-25T10:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
