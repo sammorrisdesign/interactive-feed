@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-25T10:14:18.860Z",
+  "lastUpdated": "2023-08-25T12:25:30.581Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/greenland-ice-sheet-drilling-bedrock-sea-rise/",
+      "headline": "Buried under the ice",
+      "timestamp": "2023-08-25T12:10:06.933Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
