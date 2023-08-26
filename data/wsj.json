@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-08-25T05:36:28.190Z",
+  "lastUpdated": "2023-08-26T11:36:22.073Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/climate-environment/hurricane-hilary-path-storm-1854677d",
+      "headline": "Tropical Storm Hilary Poses Unusual Threat to Southern California",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/investing/where-investors-are-finding-returns-in-a-world-of-yield-eba82767",
+      "headline": "Where Investors Are Finding Returns in a World of Yield",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
