@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-24T04:15:59.704Z",
+  "lastUpdated": "2023-08-27T16:36:45.234Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-atlantic-hurricane-season/idalia.html",
+      "headline": "Tracking Tropical Storm Idalia’s Latest Path",
+      "timestamp": "2023-08-27T16:16:20.047Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
