@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-24T16:39:07.932Z",
+  "lastUpdated": "2023-08-27T04:15:17.024Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/80122ded-4158-45f9-915c-a52b5fb2d088",
+      "headline": "How Europe’s water supplies turned to ‘gold dust’",
+      "timestamp": "2023-08-27T04:00:28.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
