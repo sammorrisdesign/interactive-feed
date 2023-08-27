@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-27T16:36:45.234Z",
+  "lastUpdated": "2023-08-27T23:12:43.015Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-apple-supply-chain-shift-beyond-china/",
+      "headline": "Apple's iPhone Supply Chain Splinters Under US-China Tensions",
+      "timestamp": "2023-08-27T23:00:11.621Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
