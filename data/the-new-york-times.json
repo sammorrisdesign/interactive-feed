@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-08-27T01:02:22.533Z",
+  "lastUpdated": "2023-08-27T09:11:45.461Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/27/magazine/daniel-dennett-interview.html",
+      "headline": "How to Live a Happy Life, From a Leading Atheist",
+      "timestamp": "2023-08-27T09:00:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
