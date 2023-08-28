@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-08-26T11:36:22.073Z",
+  "lastUpdated": "2023-08-28T11:36:36.157Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/the-exact-age-when-you-make-your-best-financial-decisions-2a8163bb",
+      "headline": "The Exact Age When You Make Your Best Financial Decisions",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/the-market-is-dead-ukraines-farmers-count-the-cost-of-grain-deals-collapse-379e648d",
+      "headline": "Ukraine’s Farmers Count the Cost of Grain Deal’s Collapse",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/careers/the-worker-bidding-war-is-over-companies-are-cutting-pay-for-new-hires-1cab0fe",
+      "headline": "The Worker Bidding War Is Over. Companies Are Cutting Pay for New Hires.",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
