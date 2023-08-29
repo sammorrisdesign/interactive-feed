@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-08-29T10:14:36.349Z",
+  "lastUpdated": "2023-08-29T12:26:37.678Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/nfl-owners-illustrated/",
+      "headline": "Who are the NFL owners?",
+      "timestamp": "2023-08-29T12:00:34.857Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/7-food-truck-operators-best-ideas-save-downtown-dc/",
+      "headline": "7 food truck operators’ best ideas to save downtown D.C.",
+      "timestamp": "2023-08-29T12:00:28.641Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
