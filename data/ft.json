@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-29T13:36:35.690Z",
+  "lastUpdated": "2023-08-29T22:14:33.781Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/490b8aa2-99c2-497f-ab75-1f8c74215803",
+      "headline": "Is a degree worth it?",
+      "timestamp": "2023-08-18T04:00:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
