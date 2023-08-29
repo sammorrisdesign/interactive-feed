@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-29T11:11:15.831Z",
+  "lastUpdated": "2023-08-29T13:36:35.690Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/dee2e564-de95-42ee-b18e-cd68b9648bf9",
+      "headline": "‘It boils down to money’: England and Spain prepare for Women’s World Cup face-off",
+      "timestamp": "2023-08-19T03:00:55.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
