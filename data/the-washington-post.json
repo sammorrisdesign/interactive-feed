@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-29T12:26:37.678Z",
+  "lastUpdated": "2023-08-29T15:14:18.358Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/active-shooter-what-to-do/",
+      "headline": "3 things to do if you’re caught in an active shooter situation",
+      "timestamp": "2023-08-29T15:05:34.813Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
