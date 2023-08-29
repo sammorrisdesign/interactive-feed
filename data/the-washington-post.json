@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-25T12:25:30.581Z",
+  "lastUpdated": "2023-08-29T10:14:36.349Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/tick-diseases-rocky-mountain-spotted-fever/",
+      "headline": "A deadly tick-borne epidemic is raging. Dogs are key to ending it.",
+      "timestamp": "2023-08-29T10:00:12.116Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

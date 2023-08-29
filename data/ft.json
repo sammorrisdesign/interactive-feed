@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-27T04:15:17.024Z",
+  "lastUpdated": "2023-08-29T10:14:36.358Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/35933da1-0df7-479d-b223-53a3b0ae59fb",
+      "headline": "Big US city downtowns ‘stuck’ behind smaller rivals in pandemic recovery",
+      "timestamp": "2023-08-29T04:00:25.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
