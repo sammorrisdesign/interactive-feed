@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-08-30T06:36:36.419Z",
+  "lastUpdated": "2023-08-30T17:36:27.971Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/climate-environment/tropical-storm-idalia-to-become-hurricane-on-its-path-toward-florida-1f87ac9d",
+      "headline": "Tropical Storm Idalia Expected to Become Major Hurricane on Its Path to Florida",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
