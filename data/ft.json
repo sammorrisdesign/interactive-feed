@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-29T22:14:33.781Z",
+  "lastUpdated": "2023-08-30T12:26:31.373Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/7997f72d-f772-4b70-9613-9823f233d18a",
+      "headline": "The à la carte world: our new geopolitical order",
+      "timestamp": "2023-08-21T04:00:48.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
