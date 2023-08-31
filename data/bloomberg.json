@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-31T10:14:20.142Z",
+  "lastUpdated": "2023-08-31T20:36:22.112Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-hoa-texas-homes-dallas-renters/",
+      "headline": "How Texas HOAs Are Keeping Low-Income Renters Out",
+      "timestamp": "2023-08-31T20:24:44.565Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
