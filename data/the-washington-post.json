@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-29T15:14:18.358Z",
+  "lastUpdated": "2023-08-31T10:14:20.135Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/how-to-talk-ai-chatbot-chatgpt/",
+      "headline": "How to talk to an AI chatbot",
+      "timestamp": "2023-08-31T10:00:52.636Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
