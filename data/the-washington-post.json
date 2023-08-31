@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-31T10:14:20.135Z",
+  "lastUpdated": "2023-08-31T13:16:56.458Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/best-pizza-new-york-chicago-los-angeles/",
+      "headline": "The best pizza in America, by region and style",
+      "timestamp": "2023-08-31T13:00:50.322Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
