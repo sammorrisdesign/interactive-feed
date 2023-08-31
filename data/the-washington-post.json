@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-31T13:16:56.458Z",
+  "lastUpdated": "2023-08-31T15:36:53.298Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/best-pizza-map-style-near-you/",
+      "headline": "Look up the best regional pizza in your state",
+      "timestamp": "2023-08-31T15:30:16.874Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
