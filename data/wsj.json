@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-08-30T17:36:27.971Z",
+  "lastUpdated": "2023-08-31T21:36:24.582Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/wellness/female-surgeons-get-better-results-than-male-counterparts-7ba9b9c2",
+      "headline": "Female Surgeons Get Better Results Than Male Counterparts",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/stocks/nyse-nasdaq-battle-for-new-listings-in-sign-of-ipo-awakening-bb25b8f8",
+      "headline": "NYSE, Nasdaq Battle for New Listings",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
