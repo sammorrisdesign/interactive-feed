@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-08-30T15:13:58.720Z",
+  "lastUpdated": "2023-08-31T09:13:26.931Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/31/opinion/politics/trump-indictment-election-key-players.html",
+      "headline": "The Key Players in Trump’s Plot to Upend the Election, Mapped",
+      "timestamp": "2023-08-31T09:03:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/31/realestate/apartment-east-village-lower-east-side.html",
+      "headline": "Lower Manhattan for Less Than $500,000? A Young Couple Knew They’d Need to Compromise.",
+      "timestamp": "2023-08-31T09:03:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/08/31/travel/things-to-do-amsterdam.html",
+      "headline": "36 Hours in Amsterdam",
+      "timestamp": "2023-08-31T09:03:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
