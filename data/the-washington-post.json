@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-08-31T22:12:19.455Z",
+  "lastUpdated": "2023-09-01T10:14:39.393Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/science/interactive/2023/hunga-tonga-submarine-volcano-eruption/",
+      "headline": "The day an underwater volcano almost wiped out a nation",
+      "timestamp": "2023-09-01T10:00:31.363Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2023/visual-journal-washington-maryland-virginia/",
+      "headline": "A capital summer",
+      "timestamp": "2023-09-01T10:00:04.308Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
