@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-01T10:14:39.393Z",
+  "lastUpdated": "2023-09-01T10:36:21.231Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/music/interactive/2023/best-pizza-washington-area/",
+      "headline": "Washington’s Best Pizza ",
+      "timestamp": "2023-09-01T10:30:09.573Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
