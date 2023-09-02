@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-01T10:36:21.231Z",
+  "lastUpdated": "2023-09-02T10:12:47.220Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2023/lahaina-wildfires-invasive-grass-destruction/",
+      "headline": "Maui’s neglected grasslands caused Lahaina fire to grow with deadly speed",
+      "timestamp": "2023-09-02T10:00:38.459Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
