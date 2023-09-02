@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-02T09:11:38.933Z",
+  "lastUpdated": "2023-09-02T21:10:50.790Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/02/world/asia/china-xi-rule.html",
+      "headline": "How Xi Returned China to One-Man Rule",
+      "timestamp": "2023-09-02T20:55:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
