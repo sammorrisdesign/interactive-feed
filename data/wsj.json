@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-08-31T21:36:24.582Z",
+  "lastUpdated": "2023-09-03T07:11:48.032Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/russia-defense-ukraine-trenches-dragon-teeth-visualized-614a4910",
+      "headline": "Russia’s Vast Fortifications in Ukraine, Visualized",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/jeffrey-epstein-calendar-bill-gates-leon-black-thomas-pritzker-62d7590",
+      "headline": "Bill Gates, Leon Black, Thomas Pritzker: ​One​ Day in the Life of Jeffrey Epstein",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china/in-new-moon-race-russian-crash-shows-the-only-u-s-rival-is-china-422b3db2",
+      "headline": "In New Moon Race, Russian Crash Shows the Chief U.S. Rival Is China",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/relationships/americans-ideal-family-size-is-larger-than-the-birthrate-suggests-9326b830",
+      "headline": "Americans’ Ideal Family Size Is Larger Than the Birthrate Suggests",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/trump-is-top-choice-for-nearly-60-of-gop-voters-wsj-poll-shows-877252b6",
+      "headline": "Trump Is Top Choice for Nearly 60% of GOP Voters",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
