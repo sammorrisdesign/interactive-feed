@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-09-03T07:11:47.947Z",
+  "lastUpdated": "2023-09-03T09:11:57.819Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/03/magazine/anderson-cooper-interview.html",
+      "headline": "Anderson Cooper Is Still Learning to Live With Loss",
+      "timestamp": "2023-09-03T09:00:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/03/climate/minnesota-drought-potatoes.html",
+      "headline": "Big Farms and Flawless Fries Are Gulping Water in the Land of 10,000 Lakes",
+      "timestamp": "2023-09-03T09:00:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
