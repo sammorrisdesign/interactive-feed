@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-02T21:10:50.790Z",
+  "lastUpdated": "2023-09-03T01:02:40.633Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/02/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, September 3, 2023",
+      "timestamp": "2023-09-03T00:14:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
