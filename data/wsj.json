@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-09-03T07:11:48.032Z",
+  "lastUpdated": "2023-09-04T14:12:55.189Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/science/environment/two-cyclones-hit-days-apart-can-scientists-prove-climate-change-caused-them-1354562f",
+      "headline": "Two Cyclones Hit Days Apart. Can Scientists Prove Climate Change Caused Them?",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/electric-cars-power-chinas-economic-hopes-as-internet-titans-take-a-back-seat-26c62d3b",
+      "headline": "EVs Elbow Out Internet Titans as China’s Business Darling",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/jobs/jobs-report-august-today-unemployment-economy-de847415",
+      "headline": "U.S. Added 187,000 Jobs Last Month",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/ukraine-fights-to-widen-its-puncture-of-russian-front-lines-141459a6",
+      "headline": "Ukraine Fights to Widen Its Puncture of Russian Front Lines",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
