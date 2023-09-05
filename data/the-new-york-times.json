@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-05T09:13:31.481Z",
+  "lastUpdated": "2023-09-05T14:12:47.672Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/05/climate/colorado-water-climate-change.html",
+      "headline": "A Colorado City Has Been Battling for Decades to Use Its Own Water",
+      "timestamp": "2023-09-05T14:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
