@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-09-02T10:12:47.220Z",
+  "lastUpdated": "2023-09-05T10:14:29.139Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/pakistan-extreme-heat-health-impacts-death/",
+      "headline": "A new era of climate sickness ",
+      "timestamp": "2023-09-05T10:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/extreme-heat-wet-bulb-globe-temperature/",
+      "headline": "Where dangerous heat is surging",
+      "timestamp": "2023-09-05T10:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
