@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-09-05T14:12:47.672Z",
+  "lastUpdated": "2023-09-05T15:14:18.093Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/05/us/elections/results-rhode-island.html",
+      "headline": "Rhode Island Special Primary Election Results",
+      "timestamp": "2023-09-05T15:06:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/05/us/elections/results-rhode-island-us-house-district-1.html",
+      "headline": "Rhode Island First Congressional District Special Primary Election Results",
+      "timestamp": "2023-09-05T15:03:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/05/us/elections/results-utah-us-house-district-2.html",
+      "headline": "Utah 2nd Congressional District Special Primary Election Results ",
+      "timestamp": "2023-09-05T15:02:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
