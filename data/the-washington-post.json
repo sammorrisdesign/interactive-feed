@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-05T10:14:29.139Z",
+  "lastUpdated": "2023-09-06T10:14:33.105Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/schizophrenia-extreme-heat-health-risk/",
+      "headline": "Heat’s hidden risk",
+      "timestamp": "2023-09-06T10:00:36.809Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
