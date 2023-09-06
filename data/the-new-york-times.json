@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-09-05T23:36:30.337Z",
+  "lastUpdated": "2023-09-06T09:13:35.286Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/06/opinion/seniors-urban-planning.html",
+      "headline": "The City Looks Different When You’re Older",
+      "timestamp": "2023-09-06T09:02:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/06/opinion/seniors-photographers-growing-old.html",
+      "headline": "‘It’s Fun to Be Alive’: 13 Older Photographers Show Us Their Work — and Themselves",
+      "timestamp": "2023-09-06T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/06/opinion/seniors-old-age-america.html",
+      "headline": "America Is Growing Old. We Look Into Its Future.",
+      "timestamp": "2023-09-06T09:00:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
