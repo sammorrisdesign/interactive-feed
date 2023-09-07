@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-09-06T10:14:33.105Z",
+  "lastUpdated": "2023-09-07T05:12:39.301Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/tennis-match-fixing-gambling-investigation-belgium/",
+      "headline": "The unraveling: How a small-town police officer took down the largest match-fixing ring in tennis",
+      "timestamp": "2023-09-07T05:00:37.314Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/tennis-match-fixing-itf-grigor-sargsyan/",
+      "headline": "The maestro: The man who built the biggest match-fixing ring in tennis",
+      "timestamp": "2023-09-07T05:00:09.324Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
