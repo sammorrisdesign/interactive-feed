@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-31T20:36:22.112Z",
+  "lastUpdated": "2023-09-07T04:16:09.630Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-09-reed-jobs-report-oxford-vs-cambridge/",
+      "headline": "Cambridge Is Winning the Race Against Oxford to Create Jobs",
+      "timestamp": "2023-09-07T04:00:08.129Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
