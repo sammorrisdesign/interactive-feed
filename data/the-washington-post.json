@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-07T05:12:39.301Z",
+  "lastUpdated": "2023-09-07T16:17:37.243Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/nfl-stadium-city-skyline-quiz/",
+      "headline": "Can you identify these NFL cities from their dramatic stadium shots?",
+      "timestamp": "2023-09-07T15:55:34.527Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
