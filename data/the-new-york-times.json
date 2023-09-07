@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-09-07T04:16:09.616Z",
+  "lastUpdated": "2023-09-07T09:13:55.591Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/07/realestate/07hunt-poughkeepsie.html",
+      "headline": "Two New Yorkers Hiked Up to the Hudson Valley With $700,000. Which House Was the Right Fit?",
+      "timestamp": "2023-09-07T09:03:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/07/travel/things-to-do-burlington-vermont.html",
+      "headline": "36 Hours in Burlington, Vt.",
+      "timestamp": "2023-09-07T09:02:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
