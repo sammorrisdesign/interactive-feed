@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-09-07T09:13:55.591Z",
+  "lastUpdated": "2023-09-07T21:36:32.543Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/07/magazine/duke-economic-diversity.html",
+      "headline": "Why Does Duke Have So Few Low-Income Students?",
+      "timestamp": "2023-09-07T21:20:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/07/magazine/college-access-index.html",
+      "headline": "The Top U.S. Colleges With the Greatest Economic Diversity",
+      "timestamp": "2023-09-07T21:18:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
