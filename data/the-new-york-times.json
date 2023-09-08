@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-07T21:36:32.543Z",
+  "lastUpdated": "2023-09-08T15:11:31.876Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/08/us/trump-georgia-grand-jury-report.html",
+      "headline": "Read the Report by the Special Grand Jury in Georgia That Investigated President Trump",
+      "timestamp": "2023-09-08T15:02:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
