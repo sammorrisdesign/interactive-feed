@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-09-07T11:36:34.686Z",
+  "lastUpdated": "2023-09-09T10:36:19.879Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/help-wanted-women-to-fix-americas-infrastructure-f7671df6",
+      "headline": "Help Wanted: Women to Fix America’s Infrastructure",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/entrepreneurship/inside-a-sales-army-turning-a-tax-break-into-a-modern-day-gold-rush-3741fa42",
+      "headline": "Inside a Sales Army Turning a Tax Break Into a Modern-Day Gold Rush",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
