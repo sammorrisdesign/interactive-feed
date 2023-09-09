@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-07T16:17:37.243Z",
+  "lastUpdated": "2023-09-09T11:10:14.312Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/jan-6-reffitt-family-repair-relationships/",
+      "headline": "Jan. 6 shattered her family. Now they’re trying to forgive.",
+      "timestamp": "2023-09-09T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
