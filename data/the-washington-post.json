@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-09T11:10:14.312Z",
+  "lastUpdated": "2023-09-09T12:23:27.406Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/cloud-shapes-height-sky-climate/",
+      "headline": "How high is the sky? It depends on where you live",
+      "timestamp": "2023-09-09T12:15:36.464Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
