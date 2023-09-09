@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-09T00:58:06.090Z",
+  "lastUpdated": "2023-09-09T15:12:21.452Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/09/world/africa/morocco-earthquake-damage.html",
+      "headline": "Mapping the Damage from the Earthquake in Morocco",
+      "timestamp": "2023-09-09T15:07:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
