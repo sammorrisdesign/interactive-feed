@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-09-09T10:36:19.879Z",
+  "lastUpdated": "2023-09-10T13:14:44.891Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/ukraine-loses-u-k-supplied-tank-in-push-for-counteroffensive-breakthrough-13e1737b",
+      "headline": "Ukraine Loses U.K.-Supplied Tank in Push for Counteroffensive Breakthrough",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
