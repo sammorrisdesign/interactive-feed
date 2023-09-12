@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-10T12:23:47.391Z",
+  "lastUpdated": "2023-09-12T04:16:05.432Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/generative-ai/",
+      "headline": "Generative AI exists because of the transformer. This is how it works",
+      "timestamp": "2023-09-12T04:00:39.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
