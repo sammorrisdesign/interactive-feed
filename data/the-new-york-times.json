@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-12T17:12:44.411Z",
+  "lastUpdated": "2023-09-12T20:14:49.449Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/12/us/elections/results-connecticut.html",
+      "headline": "Connecticut Municipal Primary Election Results",
+      "timestamp": "2023-09-12T20:02:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
