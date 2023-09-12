@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-08-02T09:36:27.149Z",
+  "lastUpdated": "2023-09-12T11:11:31.052Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "blueSkyHandle": "politico.com",
+      "url": "https://www.politico.com/interactives/2023/2024-election-campaign-manager-game/",
+      "headline": "Can you win the 2024 election? Play our campaign manager game.",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
