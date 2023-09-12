@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-12T09:13:33.349Z",
+  "lastUpdated": "2023-09-12T16:17:43.031Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/12/world/africa/libya-flooding-map.html",
+      "headline": "Mapping Where Floods Have Devastated a Libyan Port City",
+      "timestamp": "2023-09-12T15:52:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

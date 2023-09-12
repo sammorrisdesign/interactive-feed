@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-09T12:23:27.406Z",
+  "lastUpdated": "2023-09-12T16:17:43.045Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2023/opioid-epidemic-pain-pills-sold-oxycodone-hydrocodone/",
+      "headline": "How deeply did prescription opioid pills flood your county? See here.",
+      "timestamp": "2023-09-12T16:04:29.162Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
