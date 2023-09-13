@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-13T11:11:44.887Z",
+  "lastUpdated": "2023-09-13T22:12:42.986Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/weather/interactive/2023/hurricane-categories-scale-explained/",
+      "headline": "The 5 hurricane categories, explained",
+      "timestamp": "2023-09-13T22:00:13.300Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
