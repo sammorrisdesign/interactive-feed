@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-13T02:03:31.223Z",
+  "lastUpdated": "2023-09-13T11:11:44.887Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/lifestyle/interactive/2023/rat-hunters-dc-dogs/",
+      "headline": "Washington is full of rats. These dogs are happy to help with that.",
+      "timestamp": "2023-09-13T11:00:19.126Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
