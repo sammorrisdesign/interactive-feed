@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-12T16:17:43.045Z",
+  "lastUpdated": "2023-09-13T02:03:31.223Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/best-smartwatch-quiz-apple-android/",
+      "headline": "Is a smartwatch right for you? Our quiz can help you decide.",
+      "timestamp": "2023-09-13T02:00:29.851Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
