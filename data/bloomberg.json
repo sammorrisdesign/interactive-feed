@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-12T04:16:05.434Z",
+  "lastUpdated": "2023-09-13T23:13:40.663Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/china-credit-2023-09/",
+      "headline": "China Developer Distress Builds, Clouding Junk Bond Rebound",
+      "timestamp": "2023-09-13T23:00:12.386Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
