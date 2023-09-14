@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-13T23:13:40.663Z",
+  "lastUpdated": "2023-09-14T20:14:22.304Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-texas-grid-electricity-prices/",
+      "headline": "Texas Moved to Protect its Fragile Grid. Then Prices Skyrocketed",
+      "timestamp": "2023-09-14T20:13:41.373Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
