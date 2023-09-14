@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-14T19:36:28.386Z",
+  "lastUpdated": "2023-09-14T22:36:29.533Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2023/manet-olympia-met-degas/",
+      "headline": "The Mona Lisa of modern art arrives in America for the first time ",
+      "timestamp": "2023-09-14T22:20:24.970Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
