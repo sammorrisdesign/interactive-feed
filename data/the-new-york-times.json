@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-09-13T09:13:54.464Z",
+  "lastUpdated": "2023-09-14T09:14:01.085Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/14/opinion/Fall-Politics-Quiz.html",
+      "headline": "Your End-of-Summer Politics Quiz Is Here",
+      "timestamp": "2023-09-14T09:10:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/14/realestate/long-island-houses-sale.html",
+      "headline": "A New York Firefighter Left the City for the Long Island Suburbs. Which House Did He Choose? ",
+      "timestamp": "2023-09-14T09:02:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/14/travel/things-to-do-charleston.html",
+      "headline": "36 Hours in Charleston, S.C.",
+      "timestamp": "2023-09-14T09:00:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
