@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-14T11:11:31.339Z",
+  "lastUpdated": "2023-09-14T19:36:28.386Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/parenting/interactive/2023/lego-bricks-colors-history/",
+      "headline": "How Lego bricks went from five colors to nearly 200",
+      "timestamp": "2023-09-14T19:32:09.448Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
