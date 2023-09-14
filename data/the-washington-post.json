@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-13T22:12:42.986Z",
+  "lastUpdated": "2023-09-14T11:11:31.339Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2023/teeth-celebrities-veneers-tiktok/",
+      "headline": "Have you noticed that everyone’s teeth are a little too perfect?",
+      "timestamp": "2023-09-14T11:00:02.970Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
