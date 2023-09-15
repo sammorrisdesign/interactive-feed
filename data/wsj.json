@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2023-09-10T13:14:44.891Z",
+  "lastUpdated": "2023-09-15T15:14:00.363Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/how-crops-survived-drought-deluge-and-the-hottest-summer-on-record-4d5ba925",
+      "headline": "How Crops Survived Drought, Deluge and the Hottest Summer on Record",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/india/india-spends-big-on-what-it-needs-most-to-catch-up-to-china-198c28b4",
+      "headline": "India Spends Big on What It Needs Most to Catch Up to China",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/global/as-opecs-energy-influence-wanes-chinas-minerals-clout-rises-68ef2e42",
+      "headline": "As OPEC’s Energy Influence Wanes, China’s Minerals Clout Rises",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/hopes-of-rescuing-morocco-earthquake-survivors-dwindle-as-death-toll-nears-2-900-f60776eb",
+      "headline": "Morocco King Arrives in Marrakesh as Quake Death Toll Tops 2,900",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/africa/libya-flood-disasterthat-killed-thousandswas-decades-in-making-e4578d6b",
+      "headline": "Libya’s Deadly Flood Disaster Was Decades in the Making",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/africa/earthquake-strikes-at-heart-of-moroccos-troubled-economy-3913d593",
+      "headline": "Earthquake Strikes at Heart of Morocco’s Troubled Economy",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/russian-navy-shipyard-targeted-by-missile-strikes-in-sevastopol-two-vessels-hit-3770a81b",
+      "headline": "Russian Navy Shipyard Targeted by Missile Strikes in Sevastopol; Two Vessels Hit",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/africa/libya-storm-derna-flooding-thousands-dead-43a908a6",
+      "headline": "More Than 5,000 Feared Dead After Storm Batters Libya",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/uaw-strikes-gm-ford-stellantis-plants-69b04c95",
+      "headline": "UAW Strikes at Plants Owned by GM, Ford, Stellantis",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/media/disney-max-hulu-netflix-streaming-price-2c3bac2a",
+      "headline": "Streamflation Is Here and Media Companies Are Betting You’ll Pay Up",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
