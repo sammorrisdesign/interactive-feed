@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-15T12:26:21.406Z",
+  "lastUpdated": "2023-09-15T19:11:04.403Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/15/style/sandra-bullock-movies-technology.html",
+      "headline": "The Rise of Tech, According to Sandra Bullock Movies",
+      "timestamp": "2023-09-15T18:57:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
