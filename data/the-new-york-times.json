@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-15T02:21:23.583Z",
+  "lastUpdated": "2023-09-15T04:36:16.322Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/15/business/uaw-strike-map.html",
+      "headline": "Here Are the Plants Where U.A.W. Strikes Are Happening",
+      "timestamp": "2023-09-15T04:17:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
