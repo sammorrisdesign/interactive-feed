@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2023-09-14T09:14:01.085Z",
+  "lastUpdated": "2023-09-15T02:21:23.583Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/fbi-director-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – F.B.I. Director",
+      "timestamp": "2023-09-15T02:16:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/presidential-indictability-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Presidential Indictability",
+      "timestamp": "2023-09-15T02:15:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/domestic-military-action-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Domestic Military Action",
+      "timestamp": "2023-09-15T02:15:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/pardon-power-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Pardon Power",
+      "timestamp": "2023-09-15T02:14:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/presidential-obstruction-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Presidential Obstruction",
+      "timestamp": "2023-09-15T02:14:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/emergency-powers-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Emergency Powers Reform",
+      "timestamp": "2023-09-15T02:14:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/signing-statements-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Signing Statements",
+      "timestamp": "2023-09-15T02:14:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/commander-in-chief-power-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Commander-in-Chief Power",
+      "timestamp": "2023-09-15T02:14:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/press-freedoms-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Press Freedoms",
+      "timestamp": "2023-09-15T02:13:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/politics/law-enforcement-executive-power.html",
+      "headline": "The 2024 Executive Power Survey – Enforcement Independence",
+      "timestamp": "2023-09-15T02:13:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
