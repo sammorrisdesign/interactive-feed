@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-15T11:11:22.030Z",
+  "lastUpdated": "2023-09-15T14:12:46.022Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2023/student-loan-repayment-plan-options/",
+      "headline": "Got student loans? How to pay down your debt at any stage of life.",
+      "timestamp": "2023-09-15T13:58:03.595Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
