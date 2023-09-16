@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-15T22:12:30.374Z",
+  "lastUpdated": "2023-09-16T09:12:37.927Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/16/realestate/home-sales-north-carolina-wall-street.html",
+      "headline": "What Happens When Wall Street Buys Most of the Homes on Your Block?",
+      "timestamp": "2023-09-16T09:00:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
