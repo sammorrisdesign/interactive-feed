@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-15T14:12:46.022Z",
+  "lastUpdated": "2023-09-16T10:13:02.723Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/maui-fire-family-home-recovery/",
+      "headline": "A Maui family whose home burned down struggles to rebuild their lives ",
+      "timestamp": "2023-09-16T10:00:56.569Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
