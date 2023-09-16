@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-09-15T15:14:00.363Z",
+  "lastUpdated": "2023-09-16T23:36:34.532Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/morocco-earthquake-death-toll-damage-12d6279f",
+      "headline": "Earthquake-Hit Moroccans Grow Desperate as Aid Faces Hurdles",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
