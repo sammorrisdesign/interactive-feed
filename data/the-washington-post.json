@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-16T10:13:02.723Z",
+  "lastUpdated": "2023-09-18T21:12:02.748Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/electric-vehicles-forced-labor-china/",
+      "headline": "EV makers’ use of Chinese suppliers raises concerns about forced labor",
+      "timestamp": "2023-09-18T21:00:04.891Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
