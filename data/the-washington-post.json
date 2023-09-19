@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-18T21:12:02.748Z",
+  "lastUpdated": "2023-09-19T19:11:05.307Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2023/beer-history-types-timeline/",
+      "headline": "Explore the evolution of beer, from Stone Age sludge to craft brews",
+      "timestamp": "2023-09-19T19:10:01.676Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

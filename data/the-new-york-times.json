@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-19T01:55:24.579Z",
+  "lastUpdated": "2023-09-19T19:11:05.293Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/19/us/politics/republican-candidates-2024-social-security-medicare.html",
+      "headline": "Republican Presidential Candidates on Social Security and Medicare",
+      "timestamp": "2023-09-19T19:05:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
