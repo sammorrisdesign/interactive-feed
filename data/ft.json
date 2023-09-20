@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-12T04:16:05.432Z",
+  "lastUpdated": "2023-09-20T04:16:38.124Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/rare-earths",
+      "headline": "Can Europe go green without China’s critical minerals?",
+      "timestamp": "2023-09-20T04:00:28.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
