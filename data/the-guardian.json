@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-09-18T04:39:09.415Z",
+  "lastUpdated": "2023-09-20T10:15:13.573Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2023/sep/20/europes-pollution-divide-see-how-your-area-compares",
+      "headline": "Europe’s pollution divide: see how your area compares",
+      "timestamp": "2023-09-20T09:50:29.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
