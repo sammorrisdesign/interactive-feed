@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-19T19:11:05.307Z",
+  "lastUpdated": "2023-09-21T10:15:11.166Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/of-interest/interactive/2023/air-conditioning-climate-change/",
+      "headline": "Addicted to cool",
+      "timestamp": "2023-09-21T10:00:20.360Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
