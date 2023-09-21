@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-21T18:18:09.789Z",
+  "lastUpdated": "2023-09-21T21:12:26.497Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/china-dna-sequencing-bgi-covid/",
+      "headline": "China’s quest for human genetic data spurs fears of a DNA arms race",
+      "timestamp": "2023-09-21T21:00:41.607Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
