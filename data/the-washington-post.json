@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-21T10:15:11.166Z",
+  "lastUpdated": "2023-09-21T18:18:09.789Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2023/mooncake-political-protest-rebellion/",
+      "headline": "How protesters bake political rebellion into mooncakes",
+      "timestamp": "2023-09-21T17:45:13.636Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
