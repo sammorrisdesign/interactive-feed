@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-22T10:15:07.076Z",
+  "lastUpdated": "2023-09-22T11:11:45.602Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2023/art-galleries-dealers-museums-power/",
+      "headline": "First the megadealers conquered the art world. Next up, museums.",
+      "timestamp": "2023-09-22T11:00:28.151Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
