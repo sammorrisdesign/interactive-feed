@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-09-20T10:15:13.573Z",
+  "lastUpdated": "2023-09-22T05:12:53.669Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2023/sep/22/roman-abramovich-art-collection-dasha-zhukova",
+      "headline": "‘You could fill a museum with it’: the $963m Roman Abramovich art collection revealed",
+      "timestamp": "2023-09-22T05:00:09.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
