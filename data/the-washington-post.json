@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-21T21:12:26.497Z",
+  "lastUpdated": "2023-09-22T10:15:07.076Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/india-deadly-extreme-heat-poverty/",
+      "headline": "THE HEAT DIVIDE ",
+      "timestamp": "2023-09-22T10:00:19.839Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
