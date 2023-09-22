@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-09-20T04:16:38.124Z",
+  "lastUpdated": "2023-09-22T09:13:40.825Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b02f8282-f430-4abe-9ad0-c737a858f4d4",
+      "headline": "FTAV’s Friday chart quiz",
+      "timestamp": "2023-09-22T08:44:45.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/001ad953-a56a-4857-a2dd-9c995bc57bc8",
+      "headline": "Dutch bank shares fall after lawmakers vote for new taxes",
+      "timestamp": "2023-09-22T06:29:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
