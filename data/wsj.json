@@ -1,6 +1,118 @@
 {
-  "lastUpdated": "2023-09-16T23:36:34.532Z",
+  "lastUpdated": "2023-09-24T05:12:48.668Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/science/the-sticky-pricey-process-of-making-lab-grown-meat-1b693890",
+      "headline": "The Sticky, Pricey Process of Making Lab-Grown Meat",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/the-u-s-lost-4-1-million-days-of-work-last-month-to-strikes-92c6a9f7",
+      "headline": "The U.S. Lost 4.1 Million Days of Work Last Month to Strikes",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/media/how-prime-time-tv-will-look-different-this-fall-63ff818c",
+      "headline": "How Prime-Time TV Will Look Different This Fall",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/did-poverty-soar-last-year-it-depends-how-you-measure-it-6d19d07f",
+      "headline": "Did Poverty Soar Last Year? It Depends How You Measure It",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/americans-dont-want-another-impeachment-fight-484fe437",
+      "headline": "Americans Don’t Want Another Impeachment Fight",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/uk/britains-pitch-to-investors-were-boring-nowand-thats-good-afc03c89",
+      "headline": "Britain’s Pitch to Investors: We’re Boring Now—and That’s Good",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/the-selling-of-americas-most-controversial-gun-3c86127f",
+      "headline": "The Selling of America’s Most Controversial Gun",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/housing/august-home-sales-declined-to-slowest-pace-since-january-f4f8200a",
+      "headline": "August Home Sales Declined to Slowest Pace Since January",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/science/space-astronomy/nasa-capsule-osiris-rex-asteroid-bennu-mission-b9682c0c",
+      "headline": "NASA Capsule Set to Deliver Rare Sample From Asteroid Bennu",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/fields-fortified-by-russia-become-pivotal-to-ukraines-counteroffensive-756064b0",
+      "headline": "Fields Fortified by Russia Become Pivotal to Ukraine’s Counteroffensive",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/retail/race-for-soybean-dollars-on-u-s-farms-heats-up-39c4155",
+      "headline": "Race for Soybean Dollars on U.S. Farms Heats Up",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/azerbaijan-launches-assaults-in-disputed-region-on-russias-doorstep-f3ea5fdc",
+      "headline": "Azerbaijan Launches Assaults in Disputed Region on Russia’s Doorstep",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/careers/government-is-hiring-this-year-and-boosting-pay-were-booming-8719a98c",
+      "headline": "The Big Employer Still Adding Jobs and Boosting Pay: The Government",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/uaws-demand-for-32-hour-workweek-takes-back-seat-in-talks-21505fdc",
+      "headline": "UAW’s Demand for 32-Hour Workweek Takes Back Seat in Talks",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
