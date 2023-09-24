@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-09-24T05:12:48.668Z",
+  "lastUpdated": "2023-09-24T19:36:45.627Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/behind-libyas-dam-catastrophe-lies-a-long-trail-of-conflict-and-corruption-fa58c57",
+      "headline": "Behind Libya’s Dam Catastrophe Lies a Long Trail of Conflict and Corruption",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
