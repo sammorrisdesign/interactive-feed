@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-18T23:13:14.602Z",
+  "lastUpdated": "2023-09-25T23:13:36.439Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-black-lives-matter-equal-opportunity-corporate-diversity/",
+      "headline": "Corporate America Promised to Hire a Lot More People of Color. It Actually Did.",
+      "timestamp": "2023-09-25T23:00:03.833Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
