@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-09-24T19:36:45.627Z",
+  "lastUpdated": "2023-09-26T04:36:19.645Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/tech/biotech/antibiotics-drug-development-business-fda-aa5b4f00",
+      "headline": "The World Needs New Antibiotics, but the Business Model Is Broken",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/uaw-poised-to-expand-strike-to-more-auto-factories-98f0a9af",
+      "headline": "UAW Strikes at More GM and Stellantis Sites, but Spares Ford",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/africa/children-fed-on-grass-no-medication-for-rape-victims-aid-to-african-crises-cut-back-as-needs-soar-d2de51a8",
+      "headline": "Children Fed on Grass, No Medication for Rape Victims: Aid to African Crises Cut Back as Needs Soar",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/careers/attention-office-resisters-the-boss-is-counting-badge-swipes-5fa37ff7",
+      "headline": "Bosses Aren’t Just Tracking When You Show Up to the Office but How Long You Stay",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
