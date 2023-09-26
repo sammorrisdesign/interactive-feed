@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-26T20:14:32.797Z",
+  "lastUpdated": "2023-09-26T21:12:12.728Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-breaking-china-ev-supply-chain-dominance/",
+      "headline": "Why Breaking China's Stranglehold on the EV Supply Chain Is So Hard",
+      "timestamp": "2023-09-26T21:00:03.939Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
