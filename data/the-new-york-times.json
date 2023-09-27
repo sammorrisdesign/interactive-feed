@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-09-27T16:18:18.539Z",
+  "lastUpdated": "2023-09-27T21:36:42.595Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/27/us/politics/second-republican-debate-live-tracker.html",
+      "headline": "Live Tracking Each Candidate’s Speaking Time in the Second Republican Debate",
+      "timestamp": "2023-09-27T21:35:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/philippe-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Philippe",
+      "timestamp": "2023-09-27T21:15:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
