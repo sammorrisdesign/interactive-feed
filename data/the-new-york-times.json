@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-27T01:01:03.318Z",
+  "lastUpdated": "2023-09-27T09:36:47.573Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/27/learning/AlbaniaGeographyQuiz.html",
+      "headline": "How Much Do You Know About Albania?",
+      "timestamp": "2023-09-27T09:30:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
