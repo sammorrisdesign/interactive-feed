@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-28T15:14:35.812Z",
+  "lastUpdated": "2023-09-28T21:12:08.312Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2023/skipjack-oysters-chesapeake/",
+      "headline": "Skipjacks, oysters: The fight for survival of two Chesapeake Bay icons",
+      "timestamp": "2023-09-28T20:45:34.016Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
