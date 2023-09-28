@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-09-28T04:16:31.048Z",
+  "lastUpdated": "2023-09-28T09:13:59.511Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/28/t-magazine/art/soho-art-galleries.html",
+      "headline": "The Life Cycle of New York Galleries",
+      "timestamp": "2023-09-28T09:01:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/28/realestate/28hunt-mccullough.html",
+      "headline": "They Wanted a House in the City for $1 Million. Would They Find It in Brooklyn or Queens?",
+      "timestamp": "2023-09-28T09:01:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/28/opinion/republican-debate-winners-losers.html",
+      "headline": "‘The Entire Debate Was a Gong Show’: Winners and Losers From the Second Republican Showdown",
+      "timestamp": "2023-09-28T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/28/travel/things-to-do-chicago.html",
+      "headline": "36 Hours in Chicago",
+      "timestamp": "2023-09-28T09:01:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
