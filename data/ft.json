@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-22T09:13:40.825Z",
+  "lastUpdated": "2023-09-28T23:13:48.965Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/bf743e6f-a73d-48d2-81c3-053d4ef74f81",
+      "headline": "Live news: US mortgage rates hit highest level since 2000",
+      "timestamp": "2023-09-28T23:06:14.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
