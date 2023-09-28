@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-27T10:36:36.573Z",
+  "lastUpdated": "2023-09-28T15:14:35.812Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/books/interactive/2023/jennifer-egan-home-library/",
+      "headline": "Book Tour: At home with Jennifer Egan",
+      "timestamp": "2023-09-28T15:00:31.986Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
