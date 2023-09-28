@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-09-24T07:11:34.689Z",
+  "lastUpdated": "2023-09-28T12:27:20.653Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2023/sep/28/with-woman-the-high-stakes-for-a-home-birth-midwife-in-the-us",
+      "headline": "With Woman: the high stakes for a home-birth midwife in the US",
+      "timestamp": "2023-09-28T11:16:17.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2023/sep/25/australian-bird-of-the-year-2023-vote-the-guardian-bird-life-australia-poll",
+      "headline": "Australian bird of the year 2023: vote for your favourite #birdoftheyear in the Guardian / BirdLife Australia poll",
+      "timestamp": "2023-09-24T20:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
