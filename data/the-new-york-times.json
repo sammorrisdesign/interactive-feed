@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-09-27T21:36:42.595Z",
+  "lastUpdated": "2023-09-28T04:16:31.048Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/28/world/europe/russia-ukraine-war-map-front-line.html",
+      "headline": "Who’s Gaining Ground in Ukraine? This Year, No One.",
+      "timestamp": "2023-09-28T04:03:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
