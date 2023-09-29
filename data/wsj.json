@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-09-27T09:36:47.673Z",
+  "lastUpdated": "2023-09-29T13:36:33.332Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/north-korea-us-national-custody-b53b4449",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/why-now-is-a-horrible-time-to-refinance-student-loans-e3ddcd17",
+      "headline": "Why Now Is a Horrible Time to Refinance Student Loans",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/law/how-joe-bidens-kin-profited-off-the-family-name-the-big-guy-is-calling-me-547220ab",
+      "headline": "How Joe Biden’s Kin Profited Off the Family Name. ‘The Big Guy Is Calling Me.’",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/asia/how-a-tiny-crew-struck-a-blow-against-china-with-a-wooden-boat-and-a-knife-fc397ee1",
+      "headline": "How a Tiny Crew Struck a Blow Against China With a Wooden Boat and a Knife",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/kari-lake-to-announce-senate-run-setting-up-high-stakes-arizona-race-30ff1594",
+      "headline": "Kari Lake to Announce Senate Run, Setting Up High-Stakes Arizona Race",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
