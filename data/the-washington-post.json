@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-29T12:26:58.163Z",
+  "lastUpdated": "2023-09-29T19:36:25.637Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/house-vote-government-shutdown/",
+      "headline": "How each member voted on House stopgap bill with shutdown on horizon",
+      "timestamp": "2023-09-29T19:18:26.713Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
