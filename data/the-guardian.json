@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-09-28T12:27:20.653Z",
+  "lastUpdated": "2023-09-29T08:17:33.425Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2023/sep/29/the-hottest-summer-in-human-history-a-visual-timeline",
+      "headline": "The hottest summer in human history – a visual timeline",
+      "timestamp": "2023-09-29T07:07:19.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
