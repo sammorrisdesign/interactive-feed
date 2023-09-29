@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-29T11:11:40.844Z",
+  "lastUpdated": "2023-09-29T12:26:58.163Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2023/edna-angel-shark-biodiversity/",
+      "headline": "The high-tech hunt for one of the world’s most elusive sharks",
+      "timestamp": "2023-09-29T12:00:27.027Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
