@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-29T19:36:25.637Z",
+  "lastUpdated": "2023-09-29T21:11:58.210Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/which-federal-employees-work-furloughed-government-shutdown/",
+      "headline": "Here’s who works and who is furloughed during a government shutdown",
+      "timestamp": "2023-09-29T20:45:17.847Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
