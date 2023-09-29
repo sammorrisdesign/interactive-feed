@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-09-28T21:12:08.299Z",
+  "lastUpdated": "2023-09-29T04:16:41.371Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/29/health/mosquitoes-wolbachia-disease-viruses.html",
+      "headline": "Unleashing a New Weapon on the Mosquito: A Mosquito",
+      "timestamp": "2023-09-29T04:11:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/09/29/health/mosquitoes-new-solutions.html",
+      "headline": "Insecticides Can’t Stop These Mosquitoes. Now What?",
+      "timestamp": "2023-09-29T04:11:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
