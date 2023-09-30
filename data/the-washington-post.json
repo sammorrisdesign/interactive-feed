@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-29T21:11:58.210Z",
+  "lastUpdated": "2023-09-30T12:24:20.365Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/power/interactive/2023/sarasota-maga-dream/",
+      "headline": "The MAGAmerican dream lives in Sarasota",
+      "timestamp": "2023-09-30T12:00:10.821Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
