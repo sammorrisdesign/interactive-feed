@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-09-29T13:36:33.332Z",
+  "lastUpdated": "2023-09-30T08:36:41.070Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/consumers/consumer-spending-personal-income-inflation-august-2023-ee262c56",
+      "headline": "Underlying Prices Cooled in August, Giving Fed More Evidence of Softer Inflation",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/travis-king-u-s-soldier-held-in-north-korea-had-been-detained-in-south-korea-4cded529",
+      "headline": "Travis King, U.S. Soldier Held in North Korea, Had Been Detained in South Korea",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
