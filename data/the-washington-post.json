@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-30T12:24:20.365Z",
+  "lastUpdated": "2023-10-01T02:10:30.810Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/senate-vote-government-shutdown/",
+      "headline": "How each senator voted on stopgap bill to avoid shutdown",
+      "timestamp": "2023-10-01T01:11:32.511Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
