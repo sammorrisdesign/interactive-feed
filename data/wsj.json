@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-09-30T08:36:41.070Z",
+  "lastUpdated": "2023-10-01T09:36:33.140Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/uaw-expected-to-expand-auto-strikes-friday-c3c0bd7e",
+      "headline": "UAW Expands Auto Strikes to GM Plant in Michigan, Ford in Chicago",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
