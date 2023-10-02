@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-10-01T09:12:31.905Z",
+  "lastUpdated": "2023-10-02T14:36:53.950Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/02/books/booksupdate/travel-books-search.html",
+      "headline": "Can You Find The 13 Adventure Travel Books Hidden in This Text?",
+      "timestamp": "2023-10-02T14:30:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
