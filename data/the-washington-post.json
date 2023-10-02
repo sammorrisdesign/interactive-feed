@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-02T01:01:44.965Z",
+  "lastUpdated": "2023-10-02T16:18:27.972Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2023/best-restaurants-dc-2023-tom-sietsema/",
+      "headline": "2023 fall dining guide",
+      "timestamp": "2023-10-02T16:00:19.807Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
