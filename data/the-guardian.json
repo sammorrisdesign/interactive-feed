@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-09-29T08:17:33.425Z",
+  "lastUpdated": "2023-10-02T07:13:23.751Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/business/ng-interactive/2023/oct/02/uk-income-tax-how-fiscal-drag-leads-to-people-falling-into-higher-rates",
+      "headline": "UK income tax: how fiscal drag leads to people falling into higher rates",
+      "timestamp": "2023-10-02T06:00:05.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
