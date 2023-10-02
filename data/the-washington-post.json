@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-02T16:18:27.972Z",
+  "lastUpdated": "2023-10-02T21:12:20.188Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/honduras-china-taiwan-diplomacy/",
+      "headline": "As China arrives with a splash in Honduras, the U.S. wrings its hands",
+      "timestamp": "2023-10-02T21:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
