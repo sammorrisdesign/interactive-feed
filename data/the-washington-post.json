@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-01T02:10:30.810Z",
+  "lastUpdated": "2023-10-02T01:01:44.965Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/michael-lewis-sam-bankman-fried-ftx-crypto/",
+      "headline": "Play it again, Sam: Inside Bankman-Fried’s last year in the crypto game ",
+      "timestamp": "2023-10-02T00:00:47.430Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
