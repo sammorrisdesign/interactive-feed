@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-03T10:15:16.725Z",
+  "lastUpdated": "2023-10-03T20:13:59.787Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/house-speaker-vote-kevin-mccarthy/",
+      "headline": "See which House members rejected effort to spare McCarthy a vote on removal",
+      "timestamp": "2023-10-03T19:36:40.611Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
