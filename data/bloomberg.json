@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-29T16:38:39.389Z",
+  "lastUpdated": "2023-10-03T09:14:09.331Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-sam-bankman-fried-ftx-wealth-timeline/",
+      "headline": "From $26 Billion to Bust: Sam Bankman-Fried’s Astonishing Rise and Fall",
+      "timestamp": "2023-10-03T09:00:03.786Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
