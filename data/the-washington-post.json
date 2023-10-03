@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2023-10-02T21:12:20.188Z",
+  "lastUpdated": "2023-10-03T10:15:16.725Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/life-expectancy-calculator-compare-states-countries/",
+      "headline": "Compare your life expectancy with others around the world",
+      "timestamp": "2023-10-03T10:00:37.415Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/american-life-expectancy-dropping/",
+      "headline": "America’s epidemic of chronic illness is killing us too soon",
+      "timestamp": "2023-10-03T10:00:15.537Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/nonalcoholic-fatty-liver-disease-kids/",
+      "headline": "Fatty liver was a disease of the old. Then kids started getting sick.",
+      "timestamp": "2023-10-03T10:00:07.831Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/republican-politics-south-midwest-life-expectancy/",
+      "headline": "How red-state politics are shaving years off American lives",
+      "timestamp": "2023-10-03T10:00:01.591Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
