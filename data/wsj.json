@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-10-01T09:36:33.140Z",
+  "lastUpdated": "2023-10-04T06:38:01.534Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/healthcare/emergency-rooms-hospitals-kids-1c41a8a8",
+      "headline": "Find Verified Hospitals Ready to Treat Children in Your Area",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/for-teslas-cybertruck-another-sales-launch-date-comes-and-goes-836cd4f5",
+      "headline": "For Tesla’s Cybertruck, Another Sales Launch Date Comes and Goes",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/house-democrats-could-decide-kevin-mccarthys-fate-74de00ad",
+      "headline": "Kevin McCarthy Ousted as House Speaker in Historic Vote",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china-is-gaining-long-coveted-role-in-arctic-as-russia-yields-f5397315",
+      "headline": "China Is Gaining Long-Coveted Role in Arctic",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/retirement/millennials-on-better-track-for-retirement-than-boomers-and-gen-x-1aebf00",
+      "headline": "Millennials on Better Track for Retirement Than Boomers and Gen X",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
