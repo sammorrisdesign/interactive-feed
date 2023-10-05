@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-10-03T17:36:45.127Z",
+  "lastUpdated": "2023-10-05T09:14:25.921Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/05/realestate/los-angeles-house-sale.html",
+      "headline": "From a Floating Home in Portland to a Hilly Perch in Los Angeles. Which House Was Right?",
+      "timestamp": "2023-10-05T09:03:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/05/travel/things-to-do-florence.html",
+      "headline": "36 Hours in Florence, Italy",
+      "timestamp": "2023-10-05T09:00:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
