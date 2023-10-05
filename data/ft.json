@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-09-28T23:13:48.965Z",
+  "lastUpdated": "2023-10-05T04:16:44.254Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/de0dd61c-8f8a-4a41-b2fb-9623b6030245",
+      "headline": "Where are European mortgage holders most exposed to higher rates?",
+      "timestamp": "2023-10-05T04:00:42.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
