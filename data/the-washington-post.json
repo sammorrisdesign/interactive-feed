@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-03T20:13:59.787Z",
+  "lastUpdated": "2023-10-06T10:14:59.945Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/tesla-autopilot-crash-analysis/",
+      "headline": "The final 11 seconds of a fatal Tesla Autopilot crash",
+      "timestamp": "2023-10-06T10:00:04.301Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
