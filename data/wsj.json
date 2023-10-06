@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-10-05T05:36:42.122Z",
+  "lastUpdated": "2023-10-06T14:36:59.178Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/for-biden-and-trump-age-really-is-just-a-number-7a2bf6ea",
+      "headline": "For Biden and Trump, Age Really Is Just a Number",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/india/himalayan-lake-bursts-in-india-leaving-14-dead-dozens-missing-668b40aa",
+      "headline": "Himalayan Lake Bursts in India, Leaving Dozens Dead and Missing",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/jobs/jobs-report-september-economy-unemployment-d9409b8b",
+      "headline": "Hiring Accelerated With 336,000 Jobs Added Last Month",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
