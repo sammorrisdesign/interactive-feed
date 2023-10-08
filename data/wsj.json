@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-10-07T02:19:23.145Z",
+  "lastUpdated": "2023-10-08T09:12:20.747Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china/chinas-factory-floor-is-movingbut-not-to-india-or-mexico-dbd9fd69",
+      "headline": "China’s Factory Floor Is Moving—But Not to India or Mexico",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/barrage-of-rockets-fired-at-israel-from-gaza-strip-d5b2f05f",
+      "headline": "Israel Declares War on Hamas After Surprise Assault From Gaza",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
