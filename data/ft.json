@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-05T04:16:44.254Z",
+  "lastUpdated": "2023-10-09T11:36:35.149Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5e535a84-1794-450a-bbe4-1b10a876e5bd",
+      "headline": "The news is depressing — but data can help us",
+      "timestamp": "2023-10-09T11:18:27.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
