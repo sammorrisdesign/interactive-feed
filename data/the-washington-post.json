@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-06T10:14:59.945Z",
+  "lastUpdated": "2023-10-10T16:18:55.236Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/10/10/photos-fat-bear-week/",
+      "headline": "Survival of the fattest: Alaska’s brown bears, in photos",
+      "timestamp": "2023-10-10T16:10:01.386Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

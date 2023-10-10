@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-10T12:53:07.197Z",
+  "lastUpdated": "2023-10-10T16:18:55.229Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2023/oct/10/next-generation-2023-20-of-the-best-talents-at-premier-league-clubs",
+      "headline": "Next Generation 2023: 20 of the best talents at Premier League clubs",
+      "timestamp": "2023-10-10T15:12:28.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
