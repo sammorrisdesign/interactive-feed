@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-09T11:36:35.149Z",
+  "lastUpdated": "2023-10-10T04:16:37.392Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/42bbe534-8a0d-4ba8-9cc6-f84936d87196",
+      "headline": "The Israel-Hamas conflict in maps ",
+      "timestamp": "2023-10-10T04:00:13.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
