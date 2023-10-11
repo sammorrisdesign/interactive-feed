@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2023-10-08T21:36:29.849Z",
+  "lastUpdated": "2023-10-11T22:36:33.635Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/house-speaker-gop-factions-explained-d4fcdbaf",
+      "headline": "In a Chaotic House, the Next Speaker Must Unite These Three Factions",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-sought-to-contain-hamas-for-years-now-it-faces-a-potentially-costly-fight-to-eliminate-it-aee9f211",
+      "headline": "Israel Sought to Contain Hamas for Years. Now It Faces a Potentially Costly Fight to Eliminate It.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/as-israel-bombards-gaza-fears-of-humanitarian-disaster-mount-20bbd6e3",
+      "headline": "As Israel Strikes Gaza, Fears of Humanitarian Disaster Mount",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-readies-for-all-out-war-in-gaza-ef1899c3",
+      "headline": "President Biden Calls Attack on Israel ‘Sheer Evil’",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/central-banking/bond-selloff-threatens-hopes-for-economys-soft-landing-80bb152a",
+      "headline": "Bond Selloff Threatens Hopes for Soft Landing",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/retirement-downsizing-home-mortgage-rates-b27a15bd",
+      "headline": "Downsizing Your Home Isn’t the Money Move It Used to Be",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israels-military-says-it-has-regained-control-of-southern-towns-from-hamas-289fa65a",
+      "headline": "Israel Launches Barrage of Attacks on Gaza",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
