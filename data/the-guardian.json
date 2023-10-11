@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-10T16:18:55.229Z",
+  "lastUpdated": "2023-10-11T12:27:56.298Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2023/oct/11/next-generation-2023-60-of-the-best-young-talents-in-world-football",
+      "headline": "Next Generation 2023: 60 of the best young talents in world football",
+      "timestamp": "2023-10-11T11:00:38.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
