@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-11T12:27:56.298Z",
+  "lastUpdated": "2023-10-11T16:18:40.280Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/books/ng-interactive/2023/sep/30/this-months-best-paperbacks-margaret-atwood-cormac-mccarthy-and-more",
+      "headline": "This month’s best paperbacks: Margaret Atwood, Cormac McCarthy and more",
+      "timestamp": "2023-09-30T11:00:12.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",

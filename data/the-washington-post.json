@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-10T16:18:55.236Z",
+  "lastUpdated": "2023-10-11T16:18:40.300Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2023/10/11/photos-culturecon-2023/",
+      "headline": "Young creatives leave CultureCon amazed and inspired",
+      "timestamp": "2023-10-11T16:10:21.996Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
