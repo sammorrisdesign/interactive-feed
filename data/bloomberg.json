@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-11T09:14:31.725Z",
+  "lastUpdated": "2023-10-11T23:13:46.966Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/china-credit-2023-10/",
+      "headline": "China’s Credit Market Stress Eases After Onshore Defaults Drop",
+      "timestamp": "2023-10-11T23:00:07.055Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
