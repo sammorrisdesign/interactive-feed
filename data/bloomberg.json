@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-03T09:14:09.331Z",
+  "lastUpdated": "2023-10-11T09:14:31.725Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/pop-star-ranking/2023-october/taylor-swift-re-recorded-albums-into-hits-can-it-be-done-again.html",
+      "headline": "Taylor Swift Re-Recorded Albums Into Hits. Can It Be Done Again?",
+      "timestamp": "2023-10-11T09:00:03.504Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
