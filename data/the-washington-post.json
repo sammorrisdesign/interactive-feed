@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-11T16:18:40.300Z",
+  "lastUpdated": "2023-10-12T10:14:54.168Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/yemen-extreme-heat-hunger-malnourishment/",
+      "headline": "Where heat worsens hunger",
+      "timestamp": "2023-10-12T10:00:19.838Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
