@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-12T16:18:41.026Z",
+  "lastUpdated": "2023-10-12T21:11:53.723Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/laos-debt-china-belt-road/",
+      "headline": "China’s promise of prosperity brought Laos debt — and distress",
+      "timestamp": "2023-10-12T21:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
