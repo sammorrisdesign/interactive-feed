@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-10-11T20:14:27.516Z",
+  "lastUpdated": "2023-10-12T09:14:02.715Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/12/realestate/melissa-leo-upper-east-side.html",
+      "headline": "An Oscar Winner Scouts Her New Location: an Uptown Pad for Less Than $500,000",
+      "timestamp": "2023-10-12T09:02:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/12/travel/things-to-do-montreal.html",
+      "headline": "36 Hours in Montreal",
+      "timestamp": "2023-10-12T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
