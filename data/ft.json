@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-10T04:16:37.392Z",
+  "lastUpdated": "2023-10-13T04:16:53.225Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/209de510-e4d7-44c1-8bb1-b086af6a1f8a",
+      "headline": "Seventeen hours of terror: how Hamas invaded one Israeli community",
+      "timestamp": "2023-10-13T04:00:19.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
