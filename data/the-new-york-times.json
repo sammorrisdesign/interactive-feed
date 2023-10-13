@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2023-10-13T19:11:07.250Z",
+  "lastUpdated": "2023-10-13T21:11:59.847Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/nfl-playoff-picture.html",
+      "headline": "2023 N.F.L. Playoff Picture: Each Team’s Path to the Postseason",
+      "timestamp": "2023-10-13T20:52:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/tennessee-titans-nfl-playoff-picture.html",
+      "headline": "How the Tennessee Titans Can Make the Playoffs: Through Week 5",
+      "timestamp": "2023-10-13T20:51:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/washington-commanders-nfl-playoff-picture.html",
+      "headline": "How the Washington Commanders Can Make the Playoffs: Through Week 5",
+      "timestamp": "2023-10-13T20:51:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/tampa-bay-buccaneers-nfl-playoff-picture.html",
+      "headline": "How the Tampa Bay Buccaneers Can Make the Playoffs: Through Week 4",
+      "timestamp": "2023-10-13T20:51:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/seattle-seahawks-nfl-playoff-picture.html",
+      "headline": "How the Seattle Seahawks Can Make the Playoffs: Through Week 4",
+      "timestamp": "2023-10-13T20:51:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/san-francisco-49ers-nfl-playoff-picture.html",
+      "headline": "How the San Francisco 49ers Can Make the Playoffs: Through Week 5",
+      "timestamp": "2023-10-13T20:51:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/new-york-jets-nfl-playoff-picture.html",
+      "headline": "How the New York Jets Can Make the Playoffs: Through Week 5",
+      "timestamp": "2023-10-13T20:51:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/pittsburgh-steelers-nfl-playoff-picture.html",
+      "headline": "How the Pittsburgh Steelers Can Make the Playoffs: Through Week 6",
+      "timestamp": "2023-10-13T20:51:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/new-york-giants-nfl-playoff-picture.html",
+      "headline": "How the New York Giants Can Make the Playoffs: Through Week 5",
+      "timestamp": "2023-10-13T20:51:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/minnesota-vikings-nfl-playoff-picture.html",
+      "headline": "How the Minnesota Vikings Can Make the Playoffs: Through Week 5",
+      "timestamp": "2023-10-13T20:51:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
