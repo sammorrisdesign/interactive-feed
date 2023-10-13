@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-08T11:36:25.374Z",
+  "lastUpdated": "2023-10-13T16:17:59.139Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/speaker-of-the-house-time-tracker-rcna120179",
+      "headline": "How long has the House been without a speaker?",
+      "timestamp": "2023-10-13T15:15:39.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
