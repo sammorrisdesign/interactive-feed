@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-13T04:16:53.225Z",
+  "lastUpdated": "2023-10-13T11:12:04.282Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/55d70ab0-f18f-4de7-a4c9-0e14a717ea2a",
+      "headline": "‘Everything you can imagine and worse’ awaits Israeli army in Gaza",
+      "timestamp": "2023-10-12T08:22:49.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
