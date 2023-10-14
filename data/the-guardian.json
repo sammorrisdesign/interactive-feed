@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-14T07:11:44.619Z",
+  "lastUpdated": "2023-10-14T22:12:24.123Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2023/oct/15/how-did-your-area-vote-in-the-voice-referendum-check-out-our-interactive-map",
+      "headline": "How did your area vote in the voice referendum? Check out our interactive map",
+      "timestamp": "2023-10-14T21:36:52.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
