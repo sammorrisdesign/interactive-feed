@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-15T08:36:22.407Z",
+  "lastUpdated": "2023-10-15T11:10:38.588Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/95c5fcf1-c756-415f-85b8-1e4bbff24736",
+      "headline": "Did Israel bomb a civilian evacuation route in Gaza?",
+      "timestamp": "2023-10-15T10:46:52.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
