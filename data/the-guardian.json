@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-14T22:12:24.123Z",
+  "lastUpdated": "2023-10-15T23:13:15.255Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2023/oct/16/live-voice-referendum-results-aec-2023-poll-tracker-by-electorate-state-australia-yes-no-vote-polls-percentage-the-australian-indigenous-voice-to-parliament-who-won-result-winner-map-counts",
+      "headline": "Voice referendum live results: votes count and map by state in the 2023 Australian Indigenous voice to parliament poll",
+      "timestamp": "2023-10-15T23:07:09.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
