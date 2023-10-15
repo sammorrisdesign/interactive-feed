@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-10-11T22:36:33.635Z",
+  "lastUpdated": "2023-10-15T06:36:31.112Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/tech/cybersecurity/how-ads-on-your-phone-can-aid-government-surveillance-943bde04",
+      "headline": "How Ads on Your Phone Can Aid Government Surveillance",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/the-federal-deficit-is-even-bigger-than-it-looks-6bc8a070",
+      "headline": "The Federal Deficit Is Even Bigger Than It Looks",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/why-being-an-auto-worker-isnt-as-lucrative-as-it-used-to-be-in-charts-b401de9f",
+      "headline": "Why Being an Auto Worker Isn’t as Lucrative as It Used to Be, in Charts",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/social-security-cola-increase-2024-5b0cd62",
+      "headline": "Social Security Is Giving Retirees a Raise in 2024. Is It Enough?",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/asia/powerful-earthquakes-kill-more-than-2-000-in-afghanistan-this-is-a-huge-disaster-54a6f522",
+      "headline": "Earthquakes Kill More Than 2,400 in Afghanistan",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
