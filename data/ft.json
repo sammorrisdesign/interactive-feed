@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-13T11:12:04.282Z",
+  "lastUpdated": "2023-10-15T08:36:22.407Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/aee8f182-fc9f-4247-ba45-2d132edcbfa2",
+      "headline": "Israel conflict latest: Key developments on day nine ",
+      "timestamp": "2023-10-15T08:24:25.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
