@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-15T11:10:38.588Z",
+  "lastUpdated": "2023-10-16T09:36:59.839Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/7b618433-ba5f-4e92-a3e0-d5d41d6d17f8",
+      "headline": "The Gaza Strip — in charts",
+      "timestamp": "2023-10-16T09:24:20.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
