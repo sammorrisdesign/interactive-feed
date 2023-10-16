@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-10-15T06:36:31.112Z",
+  "lastUpdated": "2023-10-16T04:36:43.463Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/violence-surges-in-the-west-bank-following-gaza-attack-on-israelis-f1393059",
+      "headline": "Violence Surges in the West Bank Following Gaza Attack on Israelis",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/ukraines-next-target-russian-supply-lines-9f2c8d5c",
+      "headline": "Ukraine’s Next Target: Russian Supply Lines",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
