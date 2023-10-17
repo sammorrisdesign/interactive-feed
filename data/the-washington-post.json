@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2023-10-14T11:10:39.855Z",
+  "lastUpdated": "2023-10-17T10:15:27.370Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/lunchables-school-lunch-ultraprocessed-foods/",
+      "headline": "How Lunchables ended up on school lunch trays  ",
+      "timestamp": "2023-10-17T10:00:11.661Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/portugal-us-health-systems-life-expectancy/",
+      "headline": "A tale of two sisters, two countries and their health systems",
+      "timestamp": "2023-10-17T10:00:09.948Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/stress-chronic-illness-aging/",
+      "headline": "Stress is weathering our bodies from the inside out",
+      "timestamp": "2023-10-17T10:00:02.570Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
