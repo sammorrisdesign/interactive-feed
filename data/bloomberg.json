@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-11T23:13:46.966Z",
+  "lastUpdated": "2023-10-17T23:13:48.287Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-venezeula-migrant-crisis-brazil-jobs/",
+      "headline": "Brazil Is Embracing the Migrant Crisis That Everyone Else Wants to Avoid",
+      "timestamp": "2023-10-17T23:00:16.990Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
