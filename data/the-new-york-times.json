@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-10-18T17:12:44.339Z",
+  "lastUpdated": "2023-10-18T21:12:07.716Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/18/learning/quiz-25-anniversary-knowledge.html",
+      "headline": "Can You Spot Ways Our Culture Has Changed Over the Past 25 Years?",
+      "timestamp": "2023-10-18T20:38:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/world/americas/norma-map-path-tracker.html",
+      "headline": "Tracking Hurricane Norma",
+      "timestamp": "2023-10-18T20:36:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
