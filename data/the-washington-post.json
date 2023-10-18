@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-17T18:38:09.602Z",
+  "lastUpdated": "2023-10-18T10:15:00.157Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2023/golf-injuries-lower-back-pain-prevention/",
+      "headline": "The modern golf swing is powerful but can hurt your back. Here’s how to prevent injuries.",
+      "timestamp": "2023-10-18T10:00:42.364Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
