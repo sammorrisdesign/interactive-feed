@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-17T23:13:48.287Z",
+  "lastUpdated": "2023-10-18T04:16:45.632Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-water-data-trade-climate-change/",
+      "headline": "Climate Change Is Driving a Global Water Trade You Can't See",
+      "timestamp": "2023-10-18T04:00:16.970Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
