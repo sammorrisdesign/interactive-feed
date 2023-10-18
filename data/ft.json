@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-18T09:14:17.533Z",
+  "lastUpdated": "2023-10-18T16:18:46.795Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/2d43ed21-9f9d-4e90-a18b-ad46f0a4760d",
+      "headline": "How to make space-based solar power a reality",
+      "timestamp": "2023-10-17T04:00:12.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",

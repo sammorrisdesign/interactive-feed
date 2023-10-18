@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-18T10:15:00.195Z",
+  "lastUpdated": "2023-10-18T16:18:46.797Z",
   "articles": [
+    {
+      "publication": "Politico",
+      "twitterHandle": "politico",
+      "mastodonHandle": "politico@newsie.social",
+      "blueSkyHandle": "politico.com",
+      "url": "https://www.politico.com/interactives/2023/50-mayors-us-cities/ev-infrastructure/",
+      "headline": "Mayors to Biden: We're not prepared for your electric vehicle boom",
+      "timestamp": null
+    },
     {
       "publication": "Politico",
       "twitterHandle": "politico",
