@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-10-18T21:12:07.716Z",
+  "lastUpdated": "2023-10-18T22:12:59.736Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/tammy-map-path-tracker.html",
+      "headline": "Tropical Storm Tammy Forms in the Atlantic",
+      "timestamp": "2023-10-18T21:37:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
