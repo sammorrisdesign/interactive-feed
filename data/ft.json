@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-16T09:36:59.839Z",
+  "lastUpdated": "2023-10-18T09:14:17.533Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a230af60-e586-4dc1-a197-87cc042ef930",
+      "headline": "UK rents rise at fastest rate since records began",
+      "timestamp": "2023-10-17T22:59:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
