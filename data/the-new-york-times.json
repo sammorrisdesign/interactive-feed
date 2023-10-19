@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-10-19T09:13:55.654Z",
+  "lastUpdated": "2023-10-19T22:12:38.354Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/business/sam-bankman-fried-ftx-alameda-texts.html",
+      "headline": "Read the exchange between FTX and Alameda executives",
+      "timestamp": "2023-10-19T22:10:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/business/sam-bankman-fried-ftx-executives-text-messages.html",
+      "headline": "Read the transcript of text between FTX executives",
+      "timestamp": "2023-10-19T22:07:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/business/sam-bankman-fried-signal-messages-transcript.html",
+      "headline": "Read the transcript of FXT executives text exchanges",
+      "timestamp": "2023-10-19T22:07:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
