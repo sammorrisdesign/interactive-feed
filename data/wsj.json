@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2023-10-16T04:36:43.463Z",
+  "lastUpdated": "2023-10-19T06:37:56.219Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china/dont-rule-out-a-financial-crisis-in-china-ed048ef9",
+      "headline": "Don’t Rule Out a Financial Crisis in China",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/hamas-militant-group-palestine-israel-attack-58738d3f",
+      "headline": "What Is Hamas? What to Know About the Militant Group Fighting Israel",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-attacks-200-targets-in-gaza-ahead-of-biden-visit-cd6889d6",
+      "headline": "Blast at Gaza Hospital Kills More Than 500, Palestinian Officials Say",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/bidens-trip-to-israel-carries-risks-for-u-s-policyand-his-own-legacy-9962b2a2",
+      "headline": "Biden’s Trip to Israel Carries Risks for U.S. Policy—and His Own Legacy",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/biden-lands-in-tel-aviv-to-meet-israeli-leaders-on-hamas-war-c662832",
+      "headline": "Biden Backs Israel Over Gaza Hospital Blast",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/healthcare/health-inflations-big-hike-this-year-in-charts-2d278f69",
+      "headline": "Health Inflation’s Big Hike This Year, in Charts",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
