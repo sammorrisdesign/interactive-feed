@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-18T04:16:45.632Z",
+  "lastUpdated": "2023-10-19T10:37:09.624Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-us-made-gun-exports-shot-show-latin-america/",
+      "headline": "How Hundreds of US Government Employees Became Gun Industry Sales Reps",
+      "timestamp": "2023-10-19T10:30:17.318Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
