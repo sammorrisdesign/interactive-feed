@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-18T13:18:16.796Z",
+  "lastUpdated": "2023-10-19T02:04:12.125Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/republicans-voting-against-jim-jordan-house-speaker/",
+      "headline": "The surprising group of Republicans preventing Jim Jordan from becoming House speaker",
+      "timestamp": "2023-10-19T01:17:54.114Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
