@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2023-10-18T22:12:59.736Z",
+  "lastUpdated": "2023-10-19T09:13:55.654Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/t-magazine/henry-taylor-art.html",
+      "headline": "How Henry Taylor Transformed the Way We Look at Ourselves",
+      "timestamp": "2023-10-19T09:04:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/realestate/19hunt-pyne.html",
+      "headline": "She Bought a Manhattan Home for Less Than $400,000 — Sight Unseen. But Which One?",
+      "timestamp": "2023-10-19T09:04:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/t-magazine/miuccia-prada-fashion.html",
+      "headline": "How Miuccia Prada Reinvented Fashion",
+      "timestamp": "2023-10-19T09:04:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/t-magazine/annette-bening-nyad-netflix.html",
+      "headline": "Annette Bening Knows a Thing or Two About Difficult Women",
+      "timestamp": "2023-10-19T09:04:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/t-magazine/queen-latifah.html",
+      "headline": "Queen Latifah Redefined Being a Multihyphenate — and Made It Look Easy",
+      "timestamp": "2023-10-19T09:04:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/19/travel/things-to-do-glasgow.html",
+      "headline": "36 Hours in Glasgow",
+      "timestamp": "2023-10-19T09:00:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
