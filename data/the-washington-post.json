@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-19T02:04:12.125Z",
+  "lastUpdated": "2023-10-19T21:11:14.198Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/china-deep-sea-mining-military-renewable-energy/",
+      "headline": "China is set to dominate the deep sea and its wealth of rare metals",
+      "timestamp": "2023-10-19T21:00:25.267Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
