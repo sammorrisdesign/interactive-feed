@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-19T21:11:14.198Z",
+  "lastUpdated": "2023-10-20T10:14:59.993Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/jump-scare-horror-movies/",
+      "headline": "What’s killing the jump scare?",
+      "timestamp": "2023-10-20T10:00:24.353Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
