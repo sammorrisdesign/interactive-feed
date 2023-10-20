@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-18T16:18:46.795Z",
+  "lastUpdated": "2023-10-20T04:16:40.801Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/uk-land-use/",
+      "headline": "What is the British countryside really for?",
+      "timestamp": "2023-10-20T04:00:48.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
