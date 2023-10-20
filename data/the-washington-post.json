@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-20T10:14:59.993Z",
+  "lastUpdated": "2023-10-20T14:36:21.139Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/gaza-israel-ground-offensive/",
+      "headline": "What a ground war in Gaza could look like",
+      "timestamp": "2023-10-20T14:15:42.883Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
