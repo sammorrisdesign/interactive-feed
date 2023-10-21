@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-10-19T06:37:56.219Z",
+  "lastUpdated": "2023-10-21T08:36:51.703Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/housing/home-sales-report-to-show-how-much-high-rates-squeezed-market-54f64ea1",
+      "headline": "Home Sales Fall to Lowest Pace in 13 Years",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/workplace/bosses-have-a-problem-people-are-actually-using-sick-days-d45b5f9a",
+      "headline": "Americans Have Finally Started Calling In Sick",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-aims-to-dismantle-hamas-as-blinken-tries-to-prevent-wider-war-55a434f1",
+      "headline": "Israel Tells 1.1 Million Civilians to Evacuate Northern Gaza",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
