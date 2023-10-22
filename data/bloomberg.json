@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-19T14:36:34.177Z",
+  "lastUpdated": "2023-10-22T12:24:50.325Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-opinion-arctic-geopolitics-resources/fisheries.html",
+      "headline": "Red Alert for America’s Wild Arctic Fishery",
+      "timestamp": "2023-10-22T12:00:20.625Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
