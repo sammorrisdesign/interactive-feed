@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-21T12:47:20.527Z",
+  "lastUpdated": "2023-10-22T10:13:38.140Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/nba-top-100-players-2024/",
+      "headline": "The top 100 NBA players of the 2023-24 season",
+      "timestamp": "2023-10-22T10:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
