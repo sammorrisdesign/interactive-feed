@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-23T11:11:56.592Z",
+  "lastUpdated": "2023-10-23T16:17:50.015Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2023/maryland-zebras-jerry-holly/",
+      "headline": "Runaway zebras delighted the nation — and exposed their owner’s dark past",
+      "timestamp": "2023-10-23T16:15:40.254Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
