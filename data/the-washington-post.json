@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-23T10:15:47.137Z",
+  "lastUpdated": "2023-10-23T11:11:56.592Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/online-dating-interracial-diversity/",
+      "headline": "Online dating can be rough. But it’s good for society.",
+      "timestamp": "2023-10-23T11:00:01.348Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
