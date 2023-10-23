@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2023-10-21T08:36:51.703Z",
+  "lastUpdated": "2023-10-23T20:36:42.537Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/grand-old-party-how-aging-makes-you-more-conservative-8b2515b0",
+      "headline": "Grand Old Party: How Aging Makes You More Conservative",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/stocks/who-you-calling-dumb-money-everyday-investors-do-just-fine-9dd63892",
+      "headline": "Dumb Money? Everyday Investors Do Just Fine",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/policy/hydrogen-tax-breaks-company-fights-a571db76",
+      "headline": "Companies Clash Over Billions of Dollars in Hydrogen Tax Breaks",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-tries-to-back-up-claims-it-didnt-attack-gaza-hospital-a8cc3405",
+      "headline": "U.S., Experts Say Evidence Suggests Palestinian Rocket Hit Gaza Hospital",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/gaza-hospital-explosion-stuns-overworked-doctors-no-place-is-safe-now-e51bddc2",
+      "headline": "Gaza Hospital Explosion Stuns Overworked Doctors; ‘No Place Is Safe Now’",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/investing/investing-municipal-bonds-what-to-know-ff5cea31",
+      "headline": "Earn 4.5% With No Taxes? How to Invest in Municipal Bonds",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
