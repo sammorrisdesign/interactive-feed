@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-10-23T14:37:44.989Z",
+  "lastUpdated": "2023-10-24T01:00:53.420Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/23/dining/restaurant-reservations-nyc.html",
+      "headline": "How to Win the Restaurant Reservation Game",
+      "timestamp": "2023-10-24T00:21:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
