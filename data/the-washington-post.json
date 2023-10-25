@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-25T14:13:10.467Z",
+  "lastUpdated": "2023-10-25T18:36:38.571Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/house-speaker-vote-count/",
+      "headline": "How each House member voted for Mike Johnson as speaker",
+      "timestamp": "2023-10-25T18:35:17.800Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
