@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-24T11:11:47.512Z",
+  "lastUpdated": "2023-10-25T12:26:52.802Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2023/oct/25/my-blonde-gf-a-disturbing-story-of-deepfake-pornography",
+      "headline": "My Blonde GF: a disturbing story of deepfake pornography",
+      "timestamp": "2023-10-25T10:51:46.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
