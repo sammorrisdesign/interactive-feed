@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-20T04:16:40.801Z",
+  "lastUpdated": "2023-10-25T04:16:34.109Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/gaza-damage/",
+      "headline": "How Israeli air strikes destroyed one neighbourhood in Gaza",
+      "timestamp": "2023-10-25T04:00:10.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
