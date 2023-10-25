@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-25T13:17:05.117Z",
+  "lastUpdated": "2023-10-25T14:13:10.467Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/palestinian-families-gaza-israel-war/",
+      "headline": "Separated by Gaza war, Palestinian families live in fear of the next call ",
+      "timestamp": "2023-10-25T14:06:23.937Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
