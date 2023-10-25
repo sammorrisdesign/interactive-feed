@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-16T21:12:59.967Z",
+  "lastUpdated": "2023-10-25T20:14:32.753Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2023/10/genre",
+      "headline": "You should look at this chart about music genres.",
+      "timestamp": "2023-10-25T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
