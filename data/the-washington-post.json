@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-23T16:17:50.015Z",
+  "lastUpdated": "2023-10-25T13:17:05.117Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/halloween-game-pick-your-fate-alexandra-petri/",
+      "headline": "Pick your fate: A Halloween (mis)adventure!",
+      "timestamp": "2023-10-25T13:00:49.834Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
