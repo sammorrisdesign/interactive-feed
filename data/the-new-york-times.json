@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-10-24T09:14:29.950Z",
+  "lastUpdated": "2023-10-26T09:13:46.446Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/26/realestate/26hunt-nitroy.html",
+      "headline": "They Brought Their Brooklyn Budget to the Jersey Suburbs. Which House Would Be Theirs?",
+      "timestamp": "2023-10-26T09:03:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/26/travel/things-to-do-north-fork-new-york.html",
+      "headline": "36 Hours on the North Fork, Long Island",
+      "timestamp": "2023-10-26T09:00:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
