@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-22T12:24:50.325Z",
+  "lastUpdated": "2023-10-26T21:12:17.215Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-taylor-swift-net-worth-billionaire/",
+      "headline": "Taylor Swift Vaults Into Billionaire Ranks With Blockbuster Eras Tour",
+      "timestamp": "2023-10-26T21:00:37.553Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
