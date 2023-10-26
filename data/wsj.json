@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2023-10-23T20:36:42.537Z",
+  "lastUpdated": "2023-10-26T13:16:54.708Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/tech/xs-tumultuous-first-year-under-elon-musk-in-charts-71656f81",
+      "headline": "X’s Tumultuous First Year Under Elon Musk, in Charts",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/asia/china-a-u-s-ally-and-the-fight-over-an-old-rusty-ship-daf24da3",
+      "headline": "China, a U.S. Ally and the Fight Over an Old Rusty Ship",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/central-banking/us-gdp-economy-third-quarter-f247fa45",
+      "headline": "GDP Report Shows Economy Grew at 4.9% Rate in Third Quarter",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/iranian-backed-militias-mount-new-wave-of-attacks-as-u-s-supports-israel-d51364d4",
+      "headline": "Iranian-Backed Militias Mount New Wave of Attacks",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/uaw-strike-autoworkers-industry-impact-ccf65a3c",
+      "headline": "UAW Strike Pinches Automakers and Suppliers, but Spares Consumers—for Now",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/u-n-world-leaders-push-to-get-gaza-aid-flowing-after-biden-pledge-3b59283b",
+      "headline": "Biden Links Wars in Israel and Ukraine, Vows to Speed Aid to Allies",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
