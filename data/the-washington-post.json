@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-26T10:14:33.563Z",
+  "lastUpdated": "2023-10-26T16:37:46.101Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/interactive/2023/robert-rauschenberg-retroactive-jfk/",
+      "headline": "Robert Rauschenberg’s sad, silk-screened salute to JFK",
+      "timestamp": "2023-10-26T16:20:49.487Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
