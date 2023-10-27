@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-25T04:16:34.109Z",
+  "lastUpdated": "2023-10-27T04:16:29.747Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b2ad35f1-5c89-4abf-a40a-a426086654d8",
+      "headline": "Gaza: the history of an embattled territory",
+      "timestamp": "2023-10-27T04:00:42.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
