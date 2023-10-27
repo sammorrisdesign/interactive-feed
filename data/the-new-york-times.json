@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-10-27T14:12:43.589Z",
+  "lastUpdated": "2023-10-27T21:11:28.385Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/27/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, October 29, 2023",
+      "timestamp": "2023-10-27T21:05:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/27/arts/music/music-fivemins-collection.html",
+      "headline": "5 Minutes to Make You Love Music",
+      "timestamp": "2023-10-27T20:49:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
