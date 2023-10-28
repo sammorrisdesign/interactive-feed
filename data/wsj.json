@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-10-26T13:16:54.708Z",
+  "lastUpdated": "2023-10-28T12:46:22.829Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/conservatives-won-the-fight-for-house-speaker-did-they-also-put-the-gop-majority-at-risk-9816a009",
+      "headline": "Conservatives Won the Fight for House Speaker. Did They Also Put the GOP Majority At Risk?",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/investors-like-new-york-subways-san-franciscos-bart-not-so-much-e20bc29a",
+      "headline": "Investors Like New York Subways. San Francisco’s BART? Not So Much.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/sodastream-company-israel-factory-a8cf4e52",
+      "headline": "SodaStream Built a Factory for Israelis and Palestinians to Work Together. Then a War Erupted.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/gaza-hospitals-shelters-cut-back-on-services-as-fuel-runs-short-051d8fd2",
+      "headline": "Gaza Hospitals, Shelters Cut Back on Services as Fuel Runs Short",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/retirement/retirement-america-boat-rv-nomadic-fac65704",
+      "headline": "Here’s What Retirement on a Boat or RV Looks Like in America",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
