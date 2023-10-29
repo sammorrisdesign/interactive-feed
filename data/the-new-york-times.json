@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-10-28T09:12:27.061Z",
+  "lastUpdated": "2023-10-29T09:12:42.695Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/29/magazine/marina-abramovic-interview.html",
+      "headline": "Marina Abramovic Thinks the Pain of Love Is Hell on Earth",
+      "timestamp": "2023-10-29T09:01:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/29/us/illegal-border-crossings-data.html",
+      "headline": "Why Illegal Border Crossings Are at Sustained Highs",
+      "timestamp": "2023-10-29T09:01:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
