@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-10-28T12:46:22.829Z",
+  "lastUpdated": "2023-10-29T10:13:41.128Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/education/biden-has-canceled-about-127-billion-of-student-loans-despite-supreme-court-ruling-heres-how-ab289d75",
+      "headline": "Biden Has Canceled About $127 Billion of Student Loans Despite Supreme Court Ruling. Here’s How.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/us-gdp-economy-third-quarter-f247fa45",
+      "headline": "U.S. Economy’s Summer Surge May Not Last",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-27T16:17:31.698Z",
+  "lastUpdated": "2023-10-29T10:13:41.043Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/latino-culture-spanish-music-baseball/",
+      "headline": "Latino voices on family, sports, legacy, music, tradition and language",
+      "timestamp": "2023-10-29T10:00:30.039Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
