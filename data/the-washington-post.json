@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2023-10-30T10:15:24.675Z",
+  "lastUpdated": "2023-10-30T14:13:11.374Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/mass-shootings/where-in-us-america/",
+      "headline": "Where mass shootings happen most in America",
+      "timestamp": "2023-10-30T14:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/mass-shootings/mass-killings-no-gun/",
+      "headline": "Tracking other types of mass killings",
+      "timestamp": "2023-10-30T14:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/mass-shootings/shooters/",
+      "headline": "What we know about mass shooters in the U.S.",
+      "timestamp": "2023-10-30T14:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/mass-shootings/",
+      "headline": "Mass Shootings: Tracking gun violence in the U.S.",
+      "timestamp": "2023-10-30T14:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
