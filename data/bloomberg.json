@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-27T11:36:40.545Z",
+  "lastUpdated": "2023-10-30T04:17:15.975Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-10-reed-jobs-report-england-ai-jobs-decline/",
+      "headline": "AI Job Openings Dry Up in UK Despite Sunak’s Push on Technology",
+      "timestamp": "2023-10-30T04:00:17.144Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
