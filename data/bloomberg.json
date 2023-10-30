@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-30T21:11:24.261Z",
+  "lastUpdated": "2023-10-30T22:12:55.516Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/electric-vehicles/uk/",
+      "headline": "Bloomberg Green’s Electric Car Ratings | UK Edition",
+      "timestamp": "2023-10-30T22:00:26.934Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
