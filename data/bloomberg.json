@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-30T04:17:15.975Z",
+  "lastUpdated": "2023-10-30T21:11:24.261Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-opinion-how-xi-jinping-led-china-economy-astray/",
+      "headline": "How Xi Jinping Led China’s Economy Astray",
+      "timestamp": "2023-10-30T21:00:17.209Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
