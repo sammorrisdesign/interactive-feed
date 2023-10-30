@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-10-29T09:12:42.695Z",
+  "lastUpdated": "2023-10-30T01:02:52.473Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/upshot/extremely-detailed-nyc-neighborhood-map.html",
+      "headline": "An Extremely Detailed Map of New York City Neighborhoods",
+      "timestamp": "2023-10-30T00:56:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/10/29/upshot/new-york-neighborhood-guide.html",
+      "headline": "An Extremely Detailed Guide to An Extremely Detailed Map of New York City Neighborhoods",
+      "timestamp": "2023-10-30T00:51:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
