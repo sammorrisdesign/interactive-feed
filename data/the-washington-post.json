@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-30T14:13:11.374Z",
+  "lastUpdated": "2023-10-30T19:36:20.590Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/books/interactive/2023/stephen-king-home-library/",
+      "headline": "Book Tour: At home with Stephen King",
+      "timestamp": "2023-10-30T19:30:03.561Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
