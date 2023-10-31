@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-31T10:16:12.209Z",
+  "lastUpdated": "2023-10-31T10:37:57.190Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2023/mass-timber-wood-buildings-green-architecture/",
+      "headline": "From forest to penthouse: What it takes to build a high-rise out of wood",
+      "timestamp": "2023-10-31T10:30:21.699Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
