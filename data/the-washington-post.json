@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-31T10:37:57.190Z",
+  "lastUpdated": "2023-10-31T11:11:50.365Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2023/homeschooling-growth-data-by-district/",
+      "headline": "Home schooling’s rise from fringe to fastest growing form of education",
+      "timestamp": "2023-10-31T11:00:41.045Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
