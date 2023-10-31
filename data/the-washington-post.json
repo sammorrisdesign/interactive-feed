@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-30T19:36:20.590Z",
+  "lastUpdated": "2023-10-31T10:16:12.209Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/nasa-moon-missions-landing-blue-origin-artemis/",
+      "headline": "How NASA plans to change the way people fly to the moon",
+      "timestamp": "2023-10-31T10:00:48.159Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
