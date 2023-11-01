@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-26T15:14:06.029Z",
+  "lastUpdated": "2023-11-01T12:27:05.966Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2023/nov/01/how-ai-chatbots-like-chatgpt-or-bard-work-visual-explainer",
+      "headline": "How AI chatbots like ChatGPT or Bard work – visual explainer",
+      "timestamp": "2023-11-01T12:00:09.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
