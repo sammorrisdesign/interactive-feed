@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-31T11:11:50.365Z",
+  "lastUpdated": "2023-11-01T10:15:04.955Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/ai-generated-images-bias-racism-sexism-stereotypes/",
+      "headline": "See inside the stereotyping machines pushing American bias across the internet",
+      "timestamp": "2023-11-01T10:00:16.793Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
