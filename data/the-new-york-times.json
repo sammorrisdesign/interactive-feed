@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-11-01T21:36:35.183Z",
+  "lastUpdated": "2023-11-02T09:13:44.978Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/02/realestate/02hunt-massara.html",
+      "headline": "A Twist Ending Awaited Two Empty Nesters in San Francisco",
+      "timestamp": "2023-11-02T09:02:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/02/climate/us-groundwater-depletion-rules.html",
+      "headline": "A Tangle of Rules to Protect America’s Water Is Falling Short",
+      "timestamp": "2023-11-02T09:02:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/02/travel/things-to-do-durham-nc.html",
+      "headline": "36 Hours in Durham, N.C.",
+      "timestamp": "2023-11-02T09:00:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
