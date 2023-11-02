@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-01T12:27:05.966Z",
+  "lastUpdated": "2023-11-02T12:26:54.892Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2023/nov/02/ilya-the-ai-scientist-shaping-the-world",
+      "headline": "Ilya: The AI scientist shaping the world",
+      "timestamp": "2023-11-02T11:46:45.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
