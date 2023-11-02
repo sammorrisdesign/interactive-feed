@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-01T10:15:04.955Z",
+  "lastUpdated": "2023-11-02T11:36:31.227Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/space-junk-debris-removal/",
+      "headline": "Space has a junk problem. Here’s how earthlings can respond.",
+      "timestamp": "2023-11-02T11:30:25.423Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
