@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-02T11:36:31.227Z",
+  "lastUpdated": "2023-11-03T16:39:12.445Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/gaza-israel-water-crisis/",
+      "headline": "Water is running out in Gaza. It will mean more deaths.",
+      "timestamp": "2023-11-03T16:00:26.638Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
