@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-11-03T21:36:23.526Z",
+  "lastUpdated": "2023-11-03T23:13:55.190Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/03/world/middleeast/israel-hamas-attack-survivor-photos.html",
+      "headline": "In the Aftermath of the Hamas Attack: Portraits of Survivors",
+      "timestamp": "2023-11-03T22:41:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
