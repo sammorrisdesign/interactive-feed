@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2023-10-29T10:13:41.128Z",
+  "lastUpdated": "2023-11-04T21:11:31.213Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/the-economy-is-great-why-are-americans-in-such-a-rotten-mood-6e1044d8",
+      "headline": "The Economy Is Great. Why Are Americans in Such a Rotten Mood?",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/foreign-nationals-start-to-leave-gaza-at-egyptian-border-89e52cab",
+      "headline": "Foreign Nationals Start to Leave Gaza at Egyptian Border",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/global/is-globalization-in-decline-a-new-number-contradicts-the-consensus-60df8ecf",
+      "headline": "Is Globalization in Decline? A New Number Contradicts the Consensus",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/consumers/5-things-us-economy-8a588781",
+      "headline": "Americans Can’t Stop Spending. Five Reasons Why.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/israel-hamas-war-sparks-wave-of-antisemitism-in-europe-fef6ee9d",
+      "headline": "Wave of Antisemitism Has European Jews Wondering if They Will Ever Be Safe",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/americas/migrants-are-flocking-to-the-u-s-from-all-over-the-globe-46077c09",
+      "headline": "Migrants Are Flocking to the U.S. From All Over",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/this-russian-suicide-drone-is-blunting-ukraines-advance-8241a0e4",
+      "headline": "This Russian Suicide Drone Is Blunting Ukraine’s Advance",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-faces-growing-international-pressure-to-pause-gaza-strikes-5f422195",
+      "headline": "Netanyahu Rejects Calls for a Temporary Israeli Cease-Fire in Gaza",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/hospitals-in-gaza-get-closer-to-front-line-in-israels-battle-to-root-out-hamas-c210091f",
+      "headline": "Hospitals in Gaza Get Closer to Front Line in Israel’s Battle to Root Out Hamas",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/the-death-rate-for-babies-in-america-rose-for-the-first-time-in-20-years-7a5429c5",
+      "headline": "The Death Rate for Babies in America Rose for the First Time in 20 Years",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/jobs/what-to-watch-in-fridays-jobs-report-how-long-can-labor-market-keep-booming-344f5a1a",
+      "headline": "U.S. Hiring Slowed to 150,000 in October",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/americans-set-to-leave-gaza-as-israeli-forces-tighten-grip-c6aea88c",
+      "headline": "Blinken Hopes to Ease Humanitarian Crisis in Mideast Visit",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
