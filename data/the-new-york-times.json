@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2023-11-03T23:13:55.190Z",
+  "lastUpdated": "2023-11-05T10:13:42.441Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/05/us/elections/times-siena-nevada.html",
+      "headline": "Nevada Cross-Tabs: October 2023 Times/Siena Poll",
+      "timestamp": "2023-11-05T10:01:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/05/us/elections/times-siena-battlegrounds-registered-voters.html",
+      "headline": "Cross-Tabs: October 2023 Times/Siena Poll of the 2024 Battlegrounds",
+      "timestamp": "2023-11-05T10:01:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/05/us/elections/times-siena-battlegrounds-likely-electorate.html",
+      "headline": "Likely Electorate Cross-Tabs: October 2023 Times/Siena Poll of the 2024 Battlegrounds",
+      "timestamp": "2023-11-05T10:01:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/05/us/elections/times-siena-arizona.html",
+      "headline": "Arizona Cross-Tabs: October 2023 Times/Siena Poll",
+      "timestamp": "2023-11-05T10:01:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/05/us/elections/times-siena-georgia.html",
+      "headline": "Georgia Cross-Tabs: October 2023 Times/Siena Poll",
+      "timestamp": "2023-11-05T10:01:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/05/us/elections/times-siena-michigan.html",
+      "headline": "Michigan Cross-Tabs: October 2023 Times/Siena Poll",
+      "timestamp": "2023-11-05T10:01:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/05/us/elections/times-siena-pennsylvania.html",
+      "headline": "Pennsylvania Cross-Tabs: October 2023 Times/Siena Poll",
+      "timestamp": "2023-11-05T10:01:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/05/us/elections/times-siena-wisconsin.html",
+      "headline": "Wisconsin Cross-Tabs: October 2023 Times/Siena Poll",
+      "timestamp": "2023-11-05T10:01:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
