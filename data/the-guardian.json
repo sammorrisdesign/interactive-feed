@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-02T12:26:54.892Z",
+  "lastUpdated": "2023-11-05T09:12:31.895Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/books/ng-interactive/2023/nov/05/graphic-short-story-dancing-queen-by-anna-readman",
+      "headline": "Graphic short story: Dancing Queen by Anna Readman",
+      "timestamp": "2023-11-05T09:00:05.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/books/ng-interactive/2023/nov/05/graphic-short-story-safe-passage-by-candy-gourlay",
+      "headline": "Graphic short story: Safe Passage by Candy Gourlay",
+      "timestamp": "2023-11-05T09:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
