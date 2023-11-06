@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-03T16:39:12.445Z",
+  "lastUpdated": "2023-11-06T22:13:13.638Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/china-ports-trade-military-navy/",
+      "headline": "China has acquired a global network of strategically vital ports",
+      "timestamp": "2023-11-06T22:05:15.013Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
