@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-05T09:12:31.895Z",
+  "lastUpdated": "2023-11-06T07:13:22.608Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/society/ng-interactive/2023/nov/06/how-much-does-it-cost-for-you-to-raise-a-child",
+      "headline": "The true cost of childcare: how much parents have to spend in England – interactive calculator",
+      "timestamp": "2023-11-06T07:00:30.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
