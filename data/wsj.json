@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-04T21:11:31.213Z",
+  "lastUpdated": "2023-11-06T06:18:57.251Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/earnings/breaking-down-the-best-earnings-quarter-in-a-year-a62ad2a8",
+      "headline": "Breaking Down the Best Earnings Quarter in a Year",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/arts-culture/music/taylor-swifts-1989-re-do-tops-originals-first-week-sales-6ded1953",
+      "headline": "Taylor Swift’s ‘1989’ Re-Do Tops Original’s First-Week Sales",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
