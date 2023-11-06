@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-10-27T04:16:29.747Z",
+  "lastUpdated": "2023-11-06T05:13:53.055Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/3be2100f-3ea5-42a2-9523-33e05953705c",
+      "headline": "Amazon drought sparks fears of climate tipping points",
+      "timestamp": "2023-11-06T05:00:58.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
