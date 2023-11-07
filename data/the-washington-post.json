@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-06T22:13:13.638Z",
+  "lastUpdated": "2023-11-07T14:12:57.851Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/middle-east-sports-investment/",
+      "headline": "The Middle East’s play to rule global sports",
+      "timestamp": "2023-11-07T14:00:49.905Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
