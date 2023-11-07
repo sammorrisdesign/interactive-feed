@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2023-11-07T17:36:32.253Z",
+  "lastUpdated": "2023-11-07T18:17:45.307Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-maine-question-2-ban-foreign-campaign-funding.html",
+      "headline": "Maine Question 2 Election Results: Prohibit Foreign Governments From Spending Money to Influence Elections",
+      "timestamp": "2023-11-07T17:40:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-texas.html",
+      "headline": "Texas Election Results",
+      "timestamp": "2023-11-07T17:40:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-texas-proposition-10-medical-equip-tax-exemption.html",
+      "headline": "Texas Proposition 10 Election Results: Authorize an Exemption for Medical and Biomedical Manufacturers on Certain Taxes",
+      "timestamp": "2023-11-07T17:40:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-maine-question-3-create-pine-tree-power-co.html",
+      "headline": "Maine Question 3 Election Results: Create a Publicly Owned Utility Company",
+      "timestamp": "2023-11-07T17:40:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-new-jersey.html",
+      "headline": "New Jersey Election Results",
+      "timestamp": "2023-11-07T17:40:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
