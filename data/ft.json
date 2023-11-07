@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-06T05:13:53.055Z",
+  "lastUpdated": "2023-11-07T13:16:51.603Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ftadviser.com/",
+      "headline": "How to pass wealth down generations — and across continents",
+      "timestamp": "2023-11-07T12:45:06.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
