@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-06T06:18:57.251Z",
+  "lastUpdated": "2023-11-07T08:36:52.687Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/how-the-2024-election-could-be-the-closest-in-a-generation-98bcf1d9",
+      "headline": "How the 2024 Election Could Be the Closest in a Generation",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/why-republicans-abandoned-their-fight-to-repeal-obamacare-a28d4872",
+      "headline": "Repeal Obamacare? A GOP Applause Line Goes Silent on the Campaign Trail",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
