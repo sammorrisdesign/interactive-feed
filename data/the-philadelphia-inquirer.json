@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2023-11-02T09:13:44.997Z",
+  "lastUpdated": "2023-11-07T10:15:00.836Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/politics/election/inq2/philadelphia-pennsylvania-election-results-2023-20231107.html",
+      "headline": "Philadelphia General Election 2023 Results",
+      "timestamp": "2023-11-07T10:00:00.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/politics/election/inq2/nj-election-2023-results-state-senate-assembly-20231107.html",
+      "headline": "N.J. State Senate and Assembly 2023 Results",
+      "timestamp": "2023-11-07T10:00:00.000Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",
