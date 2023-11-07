@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2023-11-06T15:36:51.622Z",
+  "lastUpdated": "2023-11-07T17:36:32.253Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-mississippi-auditor.html",
+      "headline": "Mississippi Auditor Election Results",
+      "timestamp": "2023-11-07T17:34:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-virginia-ballot-measure-richmond-casino.html",
+      "headline": "Election Results: Approve Constructing a Casino in Richmond, Va.",
+      "timestamp": "2023-11-07T17:32:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-virginia-state-legislature.html",
+      "headline": "Virginia State Legislature Results",
+      "timestamp": "2023-11-07T17:32:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-maine-question-4-right-to-repair.html",
+      "headline": "Maine Question 4 Election Results: Establish an Automotive “Right to Repair”",
+      "timestamp": "2023-11-07T17:31:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-pennsylvania.html",
+      "headline": "Pennsylvania Election Results",
+      "timestamp": "2023-11-07T17:31:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-texas-proposition-6-create-water-fund.html",
+      "headline": "Texas Proposition 6 Election Results: Create the Texas Water Fund",
+      "timestamp": "2023-11-07T17:31:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-texas-proposition-2-childcare-tax-exemption.html",
+      "headline": "Texas Proposition 2 Election Results: Authorize a Property Tax Exemption for Child Care Businesses",
+      "timestamp": "2023-11-07T17:31:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-texas-proposition-11-permit-el-paso-reclam-dist.html",
+      "headline": "Texas Proposition 11 Election Results: Allow El Paso County Conservation and Reclamation Districts to Issue Bonds",
+      "timestamp": "2023-11-07T17:31:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-virginia.html",
+      "headline": "Virginia Election Results",
+      "timestamp": "2023-11-07T17:31:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-kentucky-governor.html",
+      "headline": "Kentucky Governor Election Results",
+      "timestamp": "2023-11-07T17:31:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
