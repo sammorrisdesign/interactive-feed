@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-07T14:12:57.851Z",
+  "lastUpdated": "2023-11-08T12:26:48.182Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/",
+      "headline": "Comparing where 2024 presidential candidates stand on key issues",
+      "timestamp": "2023-11-08T12:00:15.897Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

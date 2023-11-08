@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-07-19T09:13:57.072Z",
+  "lastUpdated": "2023-11-08T12:26:48.255Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/claimfile/",
+      "headline": "Find Out Why Your Health Insurer Denied Your Claim",
+      "timestamp": "2023-11-08T12:00:00.000Z"
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
