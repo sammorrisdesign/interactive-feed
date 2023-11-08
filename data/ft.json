@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-07T13:16:51.603Z",
+  "lastUpdated": "2023-11-08T05:13:11.883Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/fentanyl-crisis/",
+      "headline": "The global network behind the fentanyl crisis",
+      "timestamp": "2023-11-08T05:00:58.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
