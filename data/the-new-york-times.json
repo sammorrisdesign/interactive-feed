@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-11-08T02:05:52.283Z",
+  "lastUpdated": "2023-11-08T03:14:32.050Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-philadelphia-mayor.html",
+      "headline": "Philadelphia Mayor Election Results",
+      "timestamp": "2023-11-08T03:08:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/07/us/elections/results-ohio-issue-2-legalize-marijuana.html",
+      "headline": "Ohio Issue 2 Election Results: Legalize Marijuana",
+      "timestamp": "2023-11-08T02:39:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
