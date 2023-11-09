@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-08T12:26:48.255Z",
+  "lastUpdated": "2023-11-09T12:26:54.921Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/california-farmers-colorado-river",
+      "headline": "The 20 Farming Families Who Use More Water From the Colorado River Than Some Western States",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
