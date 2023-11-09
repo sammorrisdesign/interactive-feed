@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-05T12:47:34.536Z",
+  "lastUpdated": "2023-11-09T01:02:59.581Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/candidate-attacks-november-republican-debate-rcna123366",
+      "headline": "Tracking candidate attacks during the GOP debate",
+      "timestamp": "2023-11-09T00:50:01.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
