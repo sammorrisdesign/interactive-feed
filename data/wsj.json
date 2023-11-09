@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-11-07T08:36:52.687Z",
+  "lastUpdated": "2023-11-09T02:38:13.744Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/netanyahu-says-israel-will-control-gaza-security-indefinitely-5979ac93",
+      "headline": "U.S. Pushes Back on Israel’s Security Plan in Gaza After War",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/ev-makers-turn-to-discounts-to-combat-waning-demand-3aa77535",
+      "headline": "EV Makers Turn to Discounts to Combat Waning Demand",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/travel/las-vegas-formula-1-traffic-029f310d",
+      "headline": "Why October and November Are Now Tougher Times for Visiting Vegas",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
