@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-09T11:11:42.592Z",
+  "lastUpdated": "2023-11-09T22:13:00.650Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/interactive/2023/hinduism-sculpture-cambodian/",
+      "headline": "Half man, half woman, this sculpture addresses life’s deepest questions ",
+      "timestamp": "2023-11-09T22:05:44.123Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
