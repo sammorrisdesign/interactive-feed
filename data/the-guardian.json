@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-06T07:13:22.608Z",
+  "lastUpdated": "2023-11-10T16:18:06.199Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2023/nov/10/state-abortion-laws-us",
+      "headline": "Abortion rights across the US: we track where laws stand in every state",
+      "timestamp": "2023-11-10T15:57:17.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
