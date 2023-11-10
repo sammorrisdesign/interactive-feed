@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-09T22:13:00.650Z",
+  "lastUpdated": "2023-11-10T10:15:12.231Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/coffee-prices-rising-cost/",
+      "headline": "Why does my latte cost so much?",
+      "timestamp": "2023-11-10T10:00:03.622Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
