@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-10T06:18:32.558Z",
+  "lastUpdated": "2023-11-10T14:12:58.541Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/why-third-party-candidates-threaten-biden-in-2024-b639e64f",
+      "headline": "Why Third-Party Candidates Threaten Biden in 2024",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
