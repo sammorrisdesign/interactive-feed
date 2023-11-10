@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-11-09T02:38:13.744Z",
+  "lastUpdated": "2023-11-10T06:18:32.558Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/we-have-no-tears-left-sounds-and-voices-of-people-living-in-gaza-a028906f",
+      "headline": "‘We Have No Tears Left’: Sounds and Voices of People Living in Gaza",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china/surge-and-swarm-how-chinas-ships-control-the-south-china-sea-ac8fa61c",
+      "headline": "Surge and Swarm: How China’s Ships Control the South China Sea",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/americas-population-projected-to-shrink-by-2100-census-figures-show-3c4d60cc",
+      "headline": "America’s Population Projected to Shrink by 2100, Census Figures Show",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
