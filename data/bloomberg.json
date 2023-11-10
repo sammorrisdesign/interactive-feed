@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-10-30T22:12:55.516Z",
+  "lastUpdated": "2023-11-10T01:02:11.753Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-italia-energia-profitti-covid-lockdown/",
+      "headline": "Come le Aziende Elettriche Hanno Tratto Profitto dal Lockdown",
+      "timestamp": "2023-11-10T00:01:04.534Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-italy-power-profits-covid-lockdown/",
+      "headline": "How Power Companies Profited From Italy’s Covid Lockdown",
+      "timestamp": "2023-11-10T00:01:02.041Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
