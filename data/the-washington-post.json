@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-10T10:15:12.231Z",
+  "lastUpdated": "2023-11-10T17:12:55.270Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/american-agriculture-farming-climate-change/",
+      "headline": "American agriculture faces new headwinds. What’s next?",
+      "timestamp": "2023-11-10T17:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
