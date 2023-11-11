@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-10T14:12:58.541Z",
+  "lastUpdated": "2023-11-11T17:11:36.088Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/taxes/income-tax-brackets-2024-irs-be0f9cc5",
+      "headline": "IRS to Raise Tax Brackets, Standard Deduction by 5.4%",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-races-to-root-out-hamas-as-calls-for-gaza-cease-fire-mount-76a153a1",
+      "headline": "Israel Races to Root Out Hamas as Calls for Gaza Cease-Fire Mount",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
