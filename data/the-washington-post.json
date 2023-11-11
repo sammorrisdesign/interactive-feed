@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-10T17:12:55.270Z",
+  "lastUpdated": "2023-11-11T11:10:39.175Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/florida-book-bans-school-rules/",
+      "headline": "The librarian who couldn’t take it anymore",
+      "timestamp": "2023-11-11T11:05:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
