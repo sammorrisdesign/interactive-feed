@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-11-10T20:37:03.919Z",
+  "lastUpdated": "2023-11-12T10:13:42.929Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/12/climate/nuclear-reactors-clean-energy.html",
+      "headline": "U.S. Bets on Small Nuclear Reactors to Help Fix a Huge Climate Problem",
+      "timestamp": "2023-11-12T10:01:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/12/magazine/andrew-wylie-interview.html",
+      "headline": "When Ruthless Cultural Elitism Is Exactly the Job",
+      "timestamp": "2023-11-12T10:01:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
