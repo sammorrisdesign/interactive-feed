@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-11T11:10:39.175Z",
+  "lastUpdated": "2023-11-13T11:12:06.710Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/valley-fever-spread-climate-change-coccidioides-fungus/",
+      "headline": "An invisible killer",
+      "timestamp": "2023-11-13T11:00:18.209Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
