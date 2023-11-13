@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-13T11:12:06.710Z",
+  "lastUpdated": "2023-11-13T16:40:14.498Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/gaza-rising-death-toll-civilians/",
+      "headline": "Gaza reports more than 11,100 killed. That’s one out of every 200 people.",
+      "timestamp": "2023-11-13T16:30:16.386Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
