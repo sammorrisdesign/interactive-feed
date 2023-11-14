@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-14T11:36:29.583Z",
+  "lastUpdated": "2023-11-14T12:27:07.629Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2023/home-birth-midwife-karen-carr/",
+      "headline": "A home birth midwife faces scrutiny after a baby dies. It’s not the first time.",
+      "timestamp": "2023-11-14T11:55:17.020Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
