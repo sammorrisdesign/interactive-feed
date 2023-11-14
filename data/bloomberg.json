@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-14T01:02:21.270Z",
+  "lastUpdated": "2023-11-14T23:14:24.996Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/china-credit-2023-11/",
+      "headline": "China Credit Market Calm Belies Risks From Property Debt Crisis",
+      "timestamp": "2023-11-14T23:00:02.257Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
