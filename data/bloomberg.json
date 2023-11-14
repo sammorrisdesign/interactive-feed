@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-10T01:02:11.753Z",
+  "lastUpdated": "2023-11-14T01:02:21.270Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-wall-street-subprime-car-loans/",
+      "headline": "How Wall Street Makes Millions Selling Car Loans Customers Can't Repay",
+      "timestamp": "2023-11-14T00:02:01.779Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
