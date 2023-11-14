@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-08T05:13:11.883Z",
+  "lastUpdated": "2023-11-14T05:13:22.650Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f4e4ffb0-48d4-450f-bc21-a55bf9a361e9",
+      "headline": "The ‘Axis of Resistance’ pushing US to ramp up Middle East defences",
+      "timestamp": "2023-11-14T05:01:00.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
