@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-15T01:03:41.226Z",
+  "lastUpdated": "2023-11-15T12:53:50.351Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/f1-steering-wheel/",
+      "headline": "An F1 racecar’s intimidating steering wheel, explained",
+      "timestamp": "2023-11-15T12:30:08.827Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
