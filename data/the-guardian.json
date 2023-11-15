@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-11T19:10:27.101Z",
+  "lastUpdated": "2023-11-15T19:11:58.691Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/datablog/ng-interactive/2023/nov/15/bushfires-in-australias-north-this-year-have-burned-an-area-larger-than-the-size-of-spain",
+      "headline": "Bushfires in Australia’s north this year have burned an area larger than the size of Spain",
+      "timestamp": "2023-11-15T19:01:53.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
