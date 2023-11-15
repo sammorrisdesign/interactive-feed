@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-11-14T22:13:32.909Z",
+  "lastUpdated": "2023-11-15T10:16:29.515Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/15/opinion/opioids-tribe-family.html",
+      "headline": "Addiction Ravaged My Family and Tribe. I’m Fighting to Get Them Back.",
+      "timestamp": "2023-11-15T10:00:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
