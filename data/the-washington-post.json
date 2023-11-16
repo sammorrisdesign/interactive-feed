@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-16T11:12:12.630Z",
+  "lastUpdated": "2023-11-16T18:38:05.847Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/science/interactive/2023/leaf-shape-diversity/",
+      "headline": "Why do trees have differently shaped leaves?",
+      "timestamp": "2023-11-16T18:35:24.015Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
