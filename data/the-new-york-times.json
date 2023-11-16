@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-11-16T16:41:28.590Z",
+  "lastUpdated": "2023-11-16T22:13:42.367Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/vince-map-path-tracker.html",
+      "headline": "Tracking Potential Tropical Cyclone Twenty-Two",
+      "timestamp": "2023-11-16T21:52:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
