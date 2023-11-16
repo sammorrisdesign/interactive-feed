@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-16T10:39:16.693Z",
+  "lastUpdated": "2023-11-16T23:37:03.314Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-warns-of-wider-war-as-it-presses-on-in-gaza-65e8bef8",
+      "headline": "Israeli Forces Reach Gate of Gaza’s Largest Hospital",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/tech/i-visited-over-120-ev-chargers-three-reasons-why-so-many-were-broken-7a5d3e45",
+      "headline": "I Visited Over 120 EV Chargers. Here’s Why So Many Were Broken.",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
