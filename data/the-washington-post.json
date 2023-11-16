@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-11-16T05:36:24.517Z",
+  "lastUpdated": "2023-11-16T11:12:12.630Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/mass-shootings-graphic-images-public-records-debate/",
+      "headline": "As mass shootings multiplied, the horrific human cost was concealed",
+      "timestamp": "2023-11-16T11:00:25.856Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/ar-15-force-mass-shootings/",
+      "headline": "Terror on repeat",
+      "timestamp": "2023-11-16T11:00:11.332Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-14T23:14:24.996Z",
+  "lastUpdated": "2023-11-16T11:12:12.635Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-us-made-gun-exports-lake-city-ammo/",
+      "headline": "The Pentagon’s Deadly Secret: It Makes Money From Bullets Used in Mass Shootings",
+      "timestamp": "2023-11-16T11:00:07.435Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
