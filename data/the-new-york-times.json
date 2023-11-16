@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-11-16T07:13:47.244Z",
+  "lastUpdated": "2023-11-16T10:15:35.676Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/16/realestate/16hunt-phillips.html",
+      "headline": "She Wanted a New House in a New City. What Would $400,000 Buy in Colorado?",
+      "timestamp": "2023-11-16T10:01:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/16/world/africa/african-artists-ruth-carter-mr-eazi.html",
+      "headline": "Meet the African Artists Driving a Cultural Renaissance",
+      "timestamp": "2023-11-16T10:01:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/16/travel/things-to-do-cajun-country-acadiana.html",
+      "headline": "36 Hours in Acadiana, Louisiana",
+      "timestamp": "2023-11-16T10:00:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
