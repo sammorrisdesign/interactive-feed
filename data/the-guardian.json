@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-15T19:11:58.691Z",
+  "lastUpdated": "2023-11-16T12:28:00.630Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2023/nov/16/how-did-your-mp-vote-on-the-gaza-ceasefire-motion",
+      "headline": "How did your MP vote on the Gaza ceasefire motion?",
+      "timestamp": "2023-11-16T11:52:25.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
