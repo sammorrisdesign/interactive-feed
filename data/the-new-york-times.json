@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-11-15T10:16:29.515Z",
+  "lastUpdated": "2023-11-16T07:13:47.244Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/16/world/asia/south-china-sea-ships.html",
+      "headline": "Fleets of Force",
+      "timestamp": "2023-11-16T07:08:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
