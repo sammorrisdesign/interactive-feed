@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-11-13T04:36:59.705Z",
+  "lastUpdated": "2023-11-16T10:39:16.693Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/stocks/ipo-market-arm-instacart-klaviyo-birkenstock-3e3b40a0",
+      "headline": "The Charts That Could Predict the IPO Market’s Comeback",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/global/the-2-trillion-interest-bill-thats-hitting-governments-90142a5a",
+      "headline": "The $2 Trillion Interest Bill That’s Hitting Governments",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/iceland-volcano-grindavik-evacuation-earthquakes-53fa9248",
+      "headline": "Icelandic Villagers Brace as Volcanic Eruption Looms",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/central-banking/what-to-watch-in-the-cpi-report-did-inflation-heat-up-or-cool-down-last-month-5c22f833",
+      "headline": "Cooling Inflation Likely Ends Fed Rate Hikes",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/energy-oil/texas-size-electricity-demand-is-the-grids-big-future-37f0d7ca",
+      "headline": "Electricity Use Booms in Texas, a Harbinger for the Country",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
