@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-11-16T22:13:42.367Z",
+  "lastUpdated": "2023-11-17T03:14:59.855Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/16/us/cte-youth-football.html",
+      "headline": "They Started Playing Football as Young as 6. They Died in Their Teens and Twenties With C.T.E.",
+      "timestamp": "2023-11-17T03:00:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
