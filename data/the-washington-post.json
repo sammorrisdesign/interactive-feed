@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-17T11:12:23.477Z",
+  "lastUpdated": "2023-11-17T11:36:32.980Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2023/smithsonian-zoo-animal-weight/",
+      "headline": "How the National Zoo weighs its animals, from elephants to red pandas",
+      "timestamp": "2023-11-17T11:30:56.167Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
