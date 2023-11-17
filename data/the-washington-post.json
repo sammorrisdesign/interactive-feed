@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-17T11:36:32.980Z",
+  "lastUpdated": "2023-11-17T21:36:28.131Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/israel-palestine-gaza-west-bank-borders/",
+      "headline": "Six maps explain the boundaries of Israel and Palestinian territories ",
+      "timestamp": "2023-11-17T21:30:57.819Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
