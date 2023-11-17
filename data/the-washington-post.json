@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2023-11-16T18:38:05.847Z",
+  "lastUpdated": "2023-11-17T11:12:23.477Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/gaza-war-palestinian-audio-diary/",
+      "headline": "Life under bombardment: A young Palestinian’s audio diary of the war",
+      "timestamp": "2023-11-17T11:00:50.679Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/coral-reefs-sea-level-rise-climate-change/",
+      "headline": "Ancient warning of a rising sea",
+      "timestamp": "2023-11-17T11:00:33.372Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/us-senate-bias-white-rural-voters/",
+      "headline": "The hidden biases at play in the U.S. Senate",
+      "timestamp": "2023-11-17T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
