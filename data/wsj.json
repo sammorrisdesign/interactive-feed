@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-11-16T23:37:03.314Z",
+  "lastUpdated": "2023-11-17T14:13:21.005Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/real-estate-buying-home-charts-6dc40caa",
+      "headline": "Almost No One Pays a 6% Real-Estate Commission—Except Americans",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/wellness/ultra-processed-foods-dietary-guidelines-de00ccaa",
+      "headline": "The Trouble With America’s Ultra-Processed Diet",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/ukraine-seeks-to-reignite-counteroffensive-with-daring-river-crossings-07e68b97",
+      "headline": "Ukraine Seeks to Reignite Counteroffensive With Daring River Crossings",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
