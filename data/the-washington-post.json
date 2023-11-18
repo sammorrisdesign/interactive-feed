@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-17T21:36:28.131Z",
+  "lastUpdated": "2023-11-18T11:10:53.674Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2023/affirmative-action-race-teen-college-applications/",
+      "headline": "After affirmative action, a White teen’s Ivy hopes rose. A Black teen’s sank.",
+      "timestamp": "2023-11-18T11:05:25.466Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
