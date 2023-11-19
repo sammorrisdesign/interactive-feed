@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-11-17T14:13:21.005Z",
+  "lastUpdated": "2023-11-19T03:36:42.602Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-takes-fight-underground-to-hamass-vast-gaza-tunnel-network-2572b1d5",
+      "headline": "Israel Takes Fight Underground to Hamas’s Gaza Tunnel Network",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-says-it-is-close-to-dismantling-hamas-military-system-in-northern-gaza-4b339fcb",
+      "headline": "Israel to Allow Limited Delivery of Fuel Into Gaza",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-hamas-war-puts-palestinians-back-on-arab-worlds-agenda-82186d0c",
+      "headline": "Israel-Hamas War Puts Palestinians Back on Arab World’s Agenda",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
