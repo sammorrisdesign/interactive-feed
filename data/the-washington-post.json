@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-19T21:11:50.242Z",
+  "lastUpdated": "2023-11-19T22:12:47.417Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/f1-las-vegas-fans-fashion/",
+      "headline": "The fan fashion of F1",
+      "timestamp": "2023-11-19T22:00:08.879Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
