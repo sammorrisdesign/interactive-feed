@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-19T11:11:17.506Z",
+  "lastUpdated": "2023-11-19T21:11:50.242Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/photography/interactive/2023/photos-former-first-lady-rosalynn-carter-dies/",
+      "headline": "Rosalynn Carter dies at 96. Remembering the former first lady in photos.",
+      "timestamp": "2023-11-19T20:59:35.531Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
