@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-14T05:13:22.650Z",
+  "lastUpdated": "2023-11-19T23:13:30.246Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e1af534b-52f4-4ef8-88e4-c54b3dcae8fc",
+      "headline": "El Niño expected to cause floods and heatwaves into early 2024, warn scientists",
+      "timestamp": "2023-11-19T13:08:24.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
