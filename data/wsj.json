@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-19T03:36:42.602Z",
+  "lastUpdated": "2023-11-19T23:36:33.576Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/gaza-hospital-is-now-a-death-zone-says-u-n-after-visit-e9ddcf09",
+      "headline": "Israel, Hamas Close In on Hostage Deal Amid Mounting Scrutiny of Gaza Death Toll",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
