@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-16T12:28:00.630Z",
+  "lastUpdated": "2023-11-20T01:05:11.852Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2023/nov/20/the-great-carbon-divide-climate-chasm-rich-poor",
+      "headline": "The great carbon divide",
+      "timestamp": "2023-11-20T00:01:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
