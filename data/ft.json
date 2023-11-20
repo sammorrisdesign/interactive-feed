@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-20T05:14:04.026Z",
+  "lastUpdated": "2023-11-20T19:12:04.259Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9bbd39e8-eccc-4827-989d-0a2c3bfd934d",
+      "headline": "Global warming on track for 2.9C as greenhouse gases keep rising, UN says",
+      "timestamp": "2023-11-20T18:14:14.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
