@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-19T23:13:30.246Z",
+  "lastUpdated": "2023-11-20T05:14:04.026Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/04c1f19e-53c3-42b5-9af8-a2f5a962a896",
+      "headline": "In maps: half of northern Gaza’s buildings wrecked by war",
+      "timestamp": "2023-11-20T05:00:25.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
