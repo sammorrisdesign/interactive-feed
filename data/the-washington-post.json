@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-19T22:12:47.417Z",
+  "lastUpdated": "2023-11-20T10:16:33.791Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/gen-z-boomers-office-lingo-slang/",
+      "headline": "Quiz: From Boomer to Z, what generation is your work lingo?",
+      "timestamp": "2023-11-20T10:00:16.889Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
