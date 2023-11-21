@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-16T11:12:12.635Z",
+  "lastUpdated": "2023-11-21T06:19:20.218Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-israel-hamas-war-misinformation-twitter-community-notes/",
+      "headline": "How Musk’s X Failed To Stem the Surge of Misinformation About Israel and Gaza",
+      "timestamp": "2023-11-21T06:00:04.844Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
