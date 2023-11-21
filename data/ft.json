@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-20T19:12:04.259Z",
+  "lastUpdated": "2023-11-21T05:14:02.729Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6bf4f6ed-b705-4e66-ac6f-59b5ef6c0c77",
+      "headline": "How has public opinion on the Israel-Hamas war shifted?",
+      "timestamp": "2023-11-21T05:00:08.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
