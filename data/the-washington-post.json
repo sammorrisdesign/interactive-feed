@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-20T10:16:33.791Z",
+  "lastUpdated": "2023-11-21T22:13:47.987Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/china-space-program-south-america-defense/",
+      "headline": "A growing global footprint for China’s space program worries Pentagon ",
+      "timestamp": "2023-11-21T22:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
