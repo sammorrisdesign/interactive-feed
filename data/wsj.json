@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-11-19T23:36:33.576Z",
+  "lastUpdated": "2023-11-21T13:18:50.168Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/americas/argentinas-economic-turmoil-is-getting-worse-these-charts-explain-why-199fd7a8",
+      "headline": "Argentina’s Economic Turmoil Is Getting Worse. These Charts Explain Why.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china/us-submarine-dominance-shift-china-8db10a0d",
+      "headline": "The Era of Total U.S. Submarine Dominance Over China Is Ending",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/tired-ukrainian-troops-fight-to-hold-back-russian-offensive-they-come-like-zombies-9b4a31a1",
+      "headline": "Tired Ukrainian Troops Fight to Hold Back Russian Soldiers: ‘They Come Like Zombies’",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/housing/houses-too-expensive-to-buy-underpin-lofty-rents-411c145f",
+      "headline": "Houses Too Expensive to Buy Underpin Lofty Rents",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/science/iceland-volcano-grindavik-eruption-risk-b46b267b",
+      "headline": "Why Iceland’s Volcanic Activity Is Different This Time",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
