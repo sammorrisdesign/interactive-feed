@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-09T01:02:59.581Z",
+  "lastUpdated": "2023-11-22T19:12:06.097Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/five-charts-explain-housing-market-slump-rcna126259",
+      "headline": "The housing market’s deep slump, in five charts",
+      "timestamp": "2023-11-22T18:55:03.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
