@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-11-21T21:13:10.383Z",
+  "lastUpdated": "2023-11-22T10:16:38.884Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/22/business/economy/holiday-economy.html",
+      "headline": "It’s the Most Wonderful Time of the Year (for the Economy)",
+      "timestamp": "2023-11-22T10:02:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/22/opinion/brain-traumatic-injury-writing.html",
+      "headline": "Rebuilding Myself After Brain Injury, Sentence by Sentence",
+      "timestamp": "2023-11-22T10:02:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
