@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-11-21T13:18:50.168Z",
+  "lastUpdated": "2023-11-23T03:14:52.786Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/tech/ai/larry-summers-is-openais-surprise-pick-to-chart-path-forward-bc9708d3",
+      "headline": "Larry Summers Is OpenAI’s Surprise Pick to Mend Fences",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/housing/october-2023-home-sales-fall-ec6b3164",
+      "headline": "Home Sales Fell to a New 13-Year Low in October",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/inside-israels-campaign-to-prove-a-gaza-hospital-was-a-hamas-command-center-65e655ee",
+      "headline": "Inside Israel’s Effort to Prove a Gaza Hospital Was a Hamas Command Center",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
