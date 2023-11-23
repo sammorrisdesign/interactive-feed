@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-11-22T10:16:38.884Z",
+  "lastUpdated": "2023-11-23T10:15:33.792Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/23/realestate/23hunt-baxter.html",
+      "headline": "He Wanted a Studio in Lower Manhattan for Less Than $450,000. But Where?",
+      "timestamp": "2023-11-23T10:03:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/23/travel/things-to-do-oaxaca-mexico.html",
+      "headline": "36 Hours in Oaxaca, Mexico",
+      "timestamp": "2023-11-23T10:01:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
