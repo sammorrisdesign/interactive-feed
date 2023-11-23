@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-23T03:14:52.786Z",
+  "lastUpdated": "2023-11-23T07:36:22.208Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israels-military-strategy-in-the-gaza-strip-mapped-e9186fef",
+      "headline": "Israel’s Military Strategy in the Gaza Strip, Mapped",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/the-old-school-artillery-shell-is-becoming-high-tech-2d17deee",
+      "headline": "The Old-School Artillery Shell Is Becoming High Tech",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
