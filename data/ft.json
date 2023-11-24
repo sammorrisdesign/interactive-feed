@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-21T05:14:02.729Z",
+  "lastUpdated": "2023-11-24T11:12:18.351Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/43e20ea8-4467-4823-9e39-686fd45c4306",
+      "headline": "Cannabis redraws US’s 2024 electoral map",
+      "timestamp": "2023-11-24T11:00:14.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
