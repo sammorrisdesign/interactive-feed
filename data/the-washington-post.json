@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-21T22:13:47.987Z",
+  "lastUpdated": "2023-11-24T13:17:32.989Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/bird-names-racism-audobon-satire/",
+      "headline": "Bird species are being renamed! Here are my suggestions!",
+      "timestamp": "2023-11-24T13:00:33.522Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

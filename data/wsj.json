@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-23T07:36:22.208Z",
+  "lastUpdated": "2023-11-24T13:17:33.049Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/stocks/these-are-some-of-the-stocks-leading-the-markets-year-end-rally-0da16b93",
+      "headline": "These Are Some of the Stocks Leading the Market’s Year-End Rally",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-hamas-cease-fire-hangs-on-11th-hour-talks-over-hostages-400cbe54",
+      "headline": "Israel-Hamas Cease-Fire Begins After 11th-Hour Talks Over Hostages",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
