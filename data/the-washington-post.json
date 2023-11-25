@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-24T13:17:32.989Z",
+  "lastUpdated": "2023-11-25T11:11:10.215Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2023/mothers-sons-youth-gun-violence-support-groups/",
+      "headline": "Their sons’ lives ended in gunfire. In grief, they found a second act.",
+      "timestamp": "2023-11-25T11:05:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
