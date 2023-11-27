@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-27T01:04:42.198Z",
+  "lastUpdated": "2023-11-27T10:16:13.781Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-inflation-economy-cost-of-living/",
+      "headline": "Just How Bad Is the US Cost-of-Living Squeeze? We Did the Math",
+      "timestamp": "2023-11-27T10:00:06.235Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
