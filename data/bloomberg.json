@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-21T06:19:20.218Z",
+  "lastUpdated": "2023-11-27T01:04:42.198Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-china-solar-wind-power-cop28/",
+      "headline": "China’s Remote Deserts Are Hiding an Energy Revolution",
+      "timestamp": "2023-11-27T00:00:02.425Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
