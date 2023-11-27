@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-24T11:12:18.351Z",
+  "lastUpdated": "2023-11-27T05:14:19.187Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/china-mosques/",
+      "headline": "How China is tearing down Islam",
+      "timestamp": "2023-11-27T05:00:49.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
