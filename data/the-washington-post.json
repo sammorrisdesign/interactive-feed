@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-25T11:11:10.215Z",
+  "lastUpdated": "2023-11-27T17:36:25.424Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/plastic-pollution-united-nations-agreement-science-recycle/",
+      "headline": "How to end plastic pollution on Earth for good",
+      "timestamp": "2023-11-27T17:30:49.823Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
