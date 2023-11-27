@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-24T13:17:33.049Z",
+  "lastUpdated": "2023-11-27T21:36:53.097Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/israel-hamas-war-raises-concerns-in-u-s-about-religious-discrimination-7840e7c3",
+      "headline": "Israel-Hamas War Raises Concerns in U.S. About Religious Discrimination",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/careers/workers-morale-pay-benefits-remote-52c4ab10",
+      "headline": "Why Is Everyone So Unhappy at Work Right Now?",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
