@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-27T17:36:25.424Z",
+  "lastUpdated": "2023-11-28T11:12:23.477Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/puerto-rico-deaths/",
+      "headline": "More people are dying in Puerto Rico as its health-care system crumbles ",
+      "timestamp": "2023-11-28T11:00:50.239Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
