@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-28T11:12:23.477Z",
+  "lastUpdated": "2023-11-28T11:36:31.728Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2023/flood-resistant-home-bamboo/",
+      "headline": "The house you can pick up and move when the flood comes",
+      "timestamp": "2023-11-28T11:30:56.556Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
