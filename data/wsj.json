@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-11-27T21:36:53.097Z",
+  "lastUpdated": "2023-11-29T08:37:52.634Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/gaza-is-falling-into-absolute-chaos-aid-groups-say-5d37e9bf",
+      "headline": "Gaza Is Falling Into ‘Absolute Chaos,’ Aid Groups Say",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/healthcare/americans-suicide-highest-level-2022-02eb10ea",
+      "headline": "U.S. Suicides Reached a Record High Last Year",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/healthcare/winter-covid-flu-rsv-02096c77",
+      "headline": "Why You Are More Likely to Get Sick This Winter, in Charts",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
