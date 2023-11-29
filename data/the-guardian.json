@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-11-28T04:17:36.917Z",
+  "lastUpdated": "2023-11-29T13:17:58.287Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2023/nov/29/cop28-what-could-climate-conference-achieve",
+      "headline": "Cop28: what could the climate conference achieve? ",
+      "timestamp": "2023-11-29T13:08:10.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2023/nov/29/birdsong-the-dying-whistled-language-of-the-hmong-people-in-northern-laos",
+      "headline": "Birdsong: the dying whistled language of the Hmong people in northern Laos",
+      "timestamp": "2023-11-29T13:04:32.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
