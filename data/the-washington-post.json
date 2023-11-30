@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-28T11:36:31.728Z",
+  "lastUpdated": "2023-11-30T17:36:42.823Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/interactive/2023/kerry-james-marshall-slow-dance/",
+      "headline": "Come dance with me, baby",
+      "timestamp": "2023-11-30T17:15:59.376Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
