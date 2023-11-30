@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-11-29T20:36:49.217Z",
+  "lastUpdated": "2023-11-30T10:16:13.799Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/30/climate/airlines-jet-fuel-ethanol-corn.html",
+      "headline": "Airlines Race Toward a Future of Powering Their Jets With Corn",
+      "timestamp": "2023-11-30T10:03:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/11/30/travel/things-to-do-melbourne-australia.html",
+      "headline": "36 Hours in Melbourne, Australia",
+      "timestamp": "2023-11-30T10:00:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
