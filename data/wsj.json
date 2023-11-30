@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-29T14:36:47.009Z",
+  "lastUpdated": "2023-11-30T12:52:56.322Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/consumers/inflation-consumer-spending-personal-income-october-2023-6a1ecb1d",
+      "headline": "Consumers Likely Pulled Back on Spending in October",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
