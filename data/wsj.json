@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-11-30T12:52:56.322Z",
+  "lastUpdated": "2023-12-01T11:36:26.894Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/hospitality/airbnb-is-conquering-italy-one-city-is-fighting-back-eea8fee5",
+      "headline": "Airbnb Is Conquering Italy. One City Is Fighting Back.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/law/how-chinese-marijuana-operations-cropped-up-in-small-town-america-45b7b598",
+      "headline": "How Chinese Marijuana Operations Cropped Up in Small-Town America",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/violent-crime-is-down-heres-why-more-people-feel-victimized-ca4470d9",
+      "headline": "Violent Crime Is Down. Here’s Why More People Feel Victimized.",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-27T05:14:19.187Z",
+  "lastUpdated": "2023-12-01T11:36:26.843Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/cbef7fc8-90fc-4dca-a5d5-ff9726dfa283",
+      "headline": "FTAV’s Friday charts quiz",
+      "timestamp": "2023-12-01T11:28:24.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
