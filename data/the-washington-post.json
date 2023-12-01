@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-30T17:36:42.823Z",
+  "lastUpdated": "2023-12-01T17:13:21.421Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/house-vote-george-santos-expulsion/",
+      "headline": "How each House member voted on expelling George Santos from Congress",
+      "timestamp": "2023-12-01T17:00:18.495Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
