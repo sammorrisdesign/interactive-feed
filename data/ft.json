@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-01T11:36:26.843Z",
+  "lastUpdated": "2023-12-01T13:36:40.358Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/90f22820-616a-40d4-8244-3e6cb52e9010",
+      "headline": "In maps: Israel’s forced evacuations in Gaza",
+      "timestamp": "2023-12-01T13:31:15.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
