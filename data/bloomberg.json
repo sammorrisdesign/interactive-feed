@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-30T23:36:43.313Z",
+  "lastUpdated": "2023-12-01T05:14:10.985Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-opinion-google-ai-images-quiz/",
+      "headline": "Google Can’t Catch All the AI Images. Can You?",
+      "timestamp": "2023-12-01T05:00:02.141Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
