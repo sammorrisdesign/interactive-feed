@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-12-01T11:36:26.894Z",
+  "lastUpdated": "2023-12-02T07:36:34.285Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/tesla-cybertruck-compares-electric-pickups-8bacac8f",
+      "headline": "How Tesla’s Cybertruck Compares With Other Pickups",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/hamas-sees-surge-of-support-as-palestinian-prisoners-are-released-c1b3e927",
+      "headline": "Hamas Sees Surge of Support as Palestinian Prisoners Are Released",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
