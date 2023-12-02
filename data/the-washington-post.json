@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-02T11:11:45.054Z",
+  "lastUpdated": "2023-12-02T12:24:43.479Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2023/homeschooling-child-abuse-torture-roman-lopez/",
+      "headline": "What home schooling hides: A boy tortured and starved by his stepmom",
+      "timestamp": "2023-12-02T12:00:22.297Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
