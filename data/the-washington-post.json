@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-01T17:13:21.421Z",
+  "lastUpdated": "2023-12-02T11:11:45.054Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/trump-pardon-power-2024-benefit/",
+      "headline": "Trump pardoned them. Now they’re helping him return to power.",
+      "timestamp": "2023-12-02T11:00:28.364Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
