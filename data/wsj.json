@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-03T07:36:18.181Z",
+  "lastUpdated": "2023-12-03T16:38:16.057Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/tech/personal-tech/spotify-wrapped-2023-taylor-swift-e303333d",
+      "headline": "What It Takes to Be in the 1%—of Taylor Swift Fans",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
