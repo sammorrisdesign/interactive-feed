@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-12-02T07:36:34.285Z",
+  "lastUpdated": "2023-12-03T07:36:18.181Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/dead-or-alive-the-hunt-for-a-ukrainian-soldier-missing-on-a-chaotic-battlefield-5e90676b",
+      "headline": "Dead or Alive? The Hunt for a Ukrainian Soldier Missing on a Chaotic Battlefield",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/income-raise-happiness-06a70900",
+      "headline": "The Pay Raise People Say They Need to Be Happy",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
