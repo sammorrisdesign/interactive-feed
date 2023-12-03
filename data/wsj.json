@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-03T16:38:16.057Z",
+  "lastUpdated": "2023-12-03T21:36:33.597Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/tech/ai/ai-math-prize-imo-09a5852d",
+      "headline": "Answer Six Questions. Win $10 Million.",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
