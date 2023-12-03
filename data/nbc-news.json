@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-11-22T19:12:06.097Z",
+  "lastUpdated": "2023-12-03T12:49:20.540Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/wide-gap-ais-hype-use-business-rcna127210",
+      "headline": "There’s a gap between AI talk and businesses actually using it",
+      "timestamp": "2023-12-03T12:30:00.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
