@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-04T10:16:56.659Z",
+  "lastUpdated": "2023-12-04T15:36:49.992Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2023/holiday-cookie-recipes-christmas-baking/",
+      "headline": "12 holiday cookie recipes to savor and share this season",
+      "timestamp": "2023-12-04T15:30:39.350Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
