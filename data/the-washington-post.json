@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-04T15:36:49.992Z",
+  "lastUpdated": "2023-12-04T17:13:32.380Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2023/cookie-recipes-holiday/",
+      "headline": "Holiday cookie generator",
+      "timestamp": "2023-12-04T17:05:17.767Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
