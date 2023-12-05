@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-04T17:13:32.380Z",
+  "lastUpdated": "2023-12-05T13:18:48.693Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/lifestyle/interactive/2023/tokitae-lolita-orca/",
+      "headline": "The call of Tokitae",
+      "timestamp": "2023-12-05T13:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
