@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-01T05:14:10.985Z",
+  "lastUpdated": "2023-12-05T11:12:17.627Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-texas-pipelines/",
+      "headline": "A Pipeline Giant Is Helping to Push Texas's Power Grid to the Brink",
+      "timestamp": "2023-12-05T11:00:02.305Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
