@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-12-05T23:14:41.144Z",
+  "lastUpdated": "2023-12-06T19:11:53.058Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/06/us/politics/trump-2024-polls-gop-candidates.html",
+      "headline": "Trump’s Rivals Campaign Much More Than He Does, With Little Payoff",
+      "timestamp": "2023-12-06T18:49:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
