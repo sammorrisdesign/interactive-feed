@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-05T15:16:17.329Z",
+  "lastUpdated": "2023-12-06T11:12:39.543Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/photos-year-2023/",
+      "headline": "Year in photos: Enduring images of 2023",
+      "timestamp": "2023-12-06T11:00:23.055Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
