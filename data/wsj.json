@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-12-03T21:36:33.597Z",
+  "lastUpdated": "2023-12-06T09:36:51.586Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/americas/venezuela-ramps-up-threat-to-annex-part-of-guyana-7ad621e1",
+      "headline": "Venezuela Ramps Up Threat to Annex Part of Guyana",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-weighs-plan-to-flood-gaza-tunnels-with-seawater-a375dd0b",
+      "headline": "Israel Weighs Plan to Flood Gaza Tunnels With Seawater",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/savings/who-got-a-lot-richer-and-who-didnt-during-the-pandemic-8dd238ab",
+      "headline": "Who Got a Lot Richer and Who Didn’t During the Pandemic",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-hamas-engage-in-some-of-fiercest-fighting-of-war-30edb859",
+      "headline": "Israel, Hamas Engage in Some of Fiercest Fighting of War",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
