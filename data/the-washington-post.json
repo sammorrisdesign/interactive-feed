@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-06T12:28:07.193Z",
+  "lastUpdated": "2023-12-06T18:18:30.912Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/unique-christmas-trees-us/",
+      "headline": "Oldest, tallest, sandiest: Comparing America’s quirky Christmas trees",
+      "timestamp": "2023-12-06T18:15:13.050Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
