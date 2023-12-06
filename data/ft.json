@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-01T13:36:40.358Z",
+  "lastUpdated": "2023-12-06T05:13:52.446Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/7b407c2e-8149-4d83-be01-72dcae8aee7b",
+      "headline": "Military briefing: the Israeli bombs raining on Gaza",
+      "timestamp": "2023-12-06T05:00:43.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
