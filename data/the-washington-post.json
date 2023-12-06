@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-06T11:12:39.543Z",
+  "lastUpdated": "2023-12-06T12:28:07.193Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/amazon-rainforest-how-to-protect/",
+      "headline": "Here’s a realistic path to protecting the Amazon rainforest",
+      "timestamp": "2023-12-06T12:00:13.937Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

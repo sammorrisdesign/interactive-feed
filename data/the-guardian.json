@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-01T01:10:21.492Z",
+  "lastUpdated": "2023-12-06T12:28:07.188Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2023/dec/06/the-winterkeeper-steven-fuller-yellowstone-national-park",
+      "headline": "The Winterkeeper: protecting the US’s last great wilderness",
+      "timestamp": "2023-12-06T11:54:05.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
