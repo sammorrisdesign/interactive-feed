@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-12-06T09:36:51.586Z",
+  "lastUpdated": "2023-12-07T03:15:22.730Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/education/student-loan-forgiveness-amount-biden-ab289d75",
+      "headline": "Biden Has Canceled About $132 Billion of Student Loans Despite Supreme Court Ruling. Here’s How.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-says-it-has-killed-half-of-hamass-battalion-commanders-34a1c058",
+      "headline": "Israel Says It Has Killed Half of Hamas’s Battalion Commanders",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
