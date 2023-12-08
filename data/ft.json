@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-06T05:13:52.446Z",
+  "lastUpdated": "2023-12-08T05:14:20.922Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/4213be36-a122-4649-9214-4e763b098dc7",
+      "headline": "The nightmare economic in-tray awaiting Argentina’s Milei",
+      "timestamp": "2023-12-08T05:00:24.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
