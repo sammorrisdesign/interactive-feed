@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-06T12:28:07.188Z",
+  "lastUpdated": "2023-12-08T12:27:42.484Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2023/dec/08/revealed-more-than-1000-unmarked-graves-discovered-along-eu-migration-routes",
+      "headline": "Revealed: More than 1,000 unmarked graves discovered along EU migration routes",
+      "timestamp": "2023-12-08T12:00:51.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
