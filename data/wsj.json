@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-12-07T03:15:22.730Z",
+  "lastUpdated": "2023-12-08T10:37:40.411Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/policy/cost-of-hiring-au-pairs-could-double-under-biden-administration-proposal-23afe8b7",
+      "headline": "Cost of Hiring Au Pairs Could Double Under Biden Administration Proposal",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/jobs/jobs-report-november-2023-us-economy-59125cde",
+      "headline": "Hiring Is Cooling From Earlier This Year. What to Watch in Friday’s Jobs Report.",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/spotifys-layoff-memo-and-the-art-of-delivering-bad-news-58bfe79b",
+      "headline": "Spotify’s Layoff Memo and the Art of Delivering Bad News",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
