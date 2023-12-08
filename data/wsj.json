@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-12-08T10:37:40.411Z",
+  "lastUpdated": "2023-12-08T21:36:34.687Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/ftx-customers-fight-for-whats-left-of-their-crypto-cd62616b",
+      "headline": "FTX Customers Fight for What’s Left of Their Crypto",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/the-epicenter-of-gaza-humanitarian-crisis-is-this-border-town-65497b7c",
+      "headline": "The Epicenter of Gaza Humanitarian Crisis Is This Border Town",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
