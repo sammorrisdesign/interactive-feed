@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-09T05:13:07.106Z",
+  "lastUpdated": "2023-12-09T06:17:38.961Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-12-reed-jobs-report-seasonal-workers/",
+      "headline": "Seasonal Jobs Dry Up in England as Workers Seek Additional Jobs",
+      "timestamp": "2023-12-09T06:00:11.408Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
