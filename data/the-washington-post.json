@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-08T10:15:35.881Z",
+  "lastUpdated": "2023-12-09T11:11:27.950Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/chickasaw-county-iowa-rural/",
+      "headline": "A harvest of memories",
+      "timestamp": "2023-12-09T11:05:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
