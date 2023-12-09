@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-05T11:12:17.627Z",
+  "lastUpdated": "2023-12-09T05:13:07.106Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-opinion-arctic-geopolitics-resources/photo-essay.html",
+      "headline": "Scenes From an Arctic Circle Under Siege",
+      "timestamp": "2023-12-09T05:00:10.997Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
