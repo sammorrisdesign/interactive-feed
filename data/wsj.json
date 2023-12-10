@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-08T21:36:34.687Z",
+  "lastUpdated": "2023-12-10T12:48:04.061Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-hamas-war-civilian-death-grid-09888404",
+      "headline": "Overcrowded and Dangerous: Life in Gaza’s ‘Deconfliction Zones’",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
