@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-11T10:16:45.197Z",
+  "lastUpdated": "2023-12-11T12:54:32.367Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/424c182a-b05a-4884-9375-312c799ce147",
+      "headline": "And the winner is . . . ",
+      "timestamp": "2023-12-11T12:32:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
