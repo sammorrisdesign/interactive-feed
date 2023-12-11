@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-12-11T08:19:32.498Z",
+  "lastUpdated": "2023-12-11T10:16:45.166Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/11/climate/cop28-climate-quiz.html",
+      "headline": "Quiz: Are You a Climate Nerd?",
+      "timestamp": "2023-12-11T10:02:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/11/style/modern-love-money-relationships-readers.html",
+      "headline": "Taboo but True: Readers Share How Money Affects Relationships",
+      "timestamp": "2023-12-11T10:02:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

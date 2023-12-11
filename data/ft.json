@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-08T05:14:20.922Z",
+  "lastUpdated": "2023-12-11T10:16:45.197Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1388e9c9-cfc6-4c2c-93ef-e3c02221223d",
+      "headline": "Global carbon emissions from fossil fuels to hit record this year",
+      "timestamp": "2023-12-07T15:00:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
