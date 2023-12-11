@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2023-11-28T11:12:23.515Z",
+  "lastUpdated": "2023-12-11T14:38:11.290Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/2024-republican-primaries-tracker",
+      "headline": "Republican primaries poll tracker: can anyone beat Donald Trump?",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/briefing/2023/10/17/israel-gaza-map-hamas-war",
+      "headline": "Mapping Israel’s war in Gaza",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/2024-taiwan-election",
+      "headline": "Taiwan election poll tracker: who will be the next president?",
+      "timestamp": null
+    },
     {
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
