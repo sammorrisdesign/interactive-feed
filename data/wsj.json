@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-10T12:48:04.061Z",
+  "lastUpdated": "2023-12-11T09:36:54.318Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-says-groups-of-hamas-militants-surrendered-amid-gaza-fighting-7891bc22",
+      "headline": "Israel Detains Hundreds of Palestinian Men in Search for Hamas",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
