@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-12-11T09:36:54.318Z",
+  "lastUpdated": "2023-12-12T09:14:34.668Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/jobs/the-big-wins-by-unions-in-2023-cecdfc3a",
+      "headline": "The Big Wins by Unions in 2023",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/india/indias-top-court-upholds-modi-decision-to-remove-kashmirs-special-status-197e2e34",
+      "headline": "India’s Top Court Upholds Modi Decision to Remove Kashmir’s Special Status",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/articles/israel-warns-hezbollah-to-pull-back-forces-to-avert-war-5294f412",
+      "headline": "Israel Warns Hezbollah to Pull Back Forces to Avert War",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
