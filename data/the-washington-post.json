@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-10T13:36:12.086Z",
+  "lastUpdated": "2023-12-12T13:18:13.721Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/nfl-owners-quiz/",
+      "headline": "Can you tell these NFL owners by their quirks and caricatures?",
+      "timestamp": "2023-12-12T13:00:38.511Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
