@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-12T13:18:13.721Z",
+  "lastUpdated": "2023-12-13T22:13:49.698Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/north-korean-defectors-korean-war-survivors/",
+      "headline": "Seven decades away from home",
+      "timestamp": "2023-12-13T22:00:26.492Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
