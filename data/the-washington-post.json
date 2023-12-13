@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-13T22:13:49.698Z",
+  "lastUpdated": "2023-12-13T23:36:52.369Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/biden-impeachment-inquiry-vote-count/",
+      "headline": "How each House member voted on the Biden impeachment inquiry",
+      "timestamp": "2023-12-13T23:25:45.569Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
