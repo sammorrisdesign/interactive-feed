@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-14T10:16:00.622Z",
+  "lastUpdated": "2023-12-14T10:38:03.057Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-us-made-gun-exports-frankenstein-gun-parts/",
+      "headline": "Deadly New Trade in ‘Frankenstein’ Guns Enabled by a Gap in US Law",
+      "timestamp": "2023-12-14T10:30:10.814Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
