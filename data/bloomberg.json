@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-09T06:17:38.961Z",
+  "lastUpdated": "2023-12-14T01:04:16.231Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-us-higher-education-analysis/",
+      "headline": "The Economics of Small US Colleges Are Faltering",
+      "timestamp": "2023-12-14T00:00:11.197Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
