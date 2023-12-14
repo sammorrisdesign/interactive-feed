@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-14T14:13:52.828Z",
+  "lastUpdated": "2023-12-14T18:18:40.701Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/interactive/2023/manet-morisot-portrait-repose/",
+      "headline": "This Manet portrait of Berthe Morisot is ablaze with mutual attraction",
+      "timestamp": "2023-12-14T17:50:49.703Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
