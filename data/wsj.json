@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-12-12T09:14:34.668Z",
+  "lastUpdated": "2023-12-14T06:18:47.761Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/asia/soldiers-surrender-bases-fall-and-a-powerful-army-no-longer-seems-invincible-dd9f76ec",
+      "headline": "Soldiers Surrender, Bases Fall and a Powerful Army No Longer Seems Invincible",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/global/how-a-plan-to-end-poor-countries-debt-crises-created-a-new-one-102ca56e",
+      "headline": "How a Plan to End Poor Countries’ Debt Crises Created a New One",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-hamas-press-on-despite-rising-deaths-tolls-on-both-sides-afe9787f",
+      "headline": "Israel-Hamas War Enters Deadlier Phase With More Close Combat",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/africa/climate-change-made-their-homes-unsafe-who-pays-for-their-move-e9471547",
+      "headline": "Climate Change Made Their Homes Unsafe. Who Pays for Their Move?",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
