@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-14T01:04:16.231Z",
+  "lastUpdated": "2023-12-14T10:16:00.622Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-us-election-key-state-voter-polling/december-2023-poll/",
+      "headline": "Biden Forgave Billions in Student Debt. Poll Shows It's Not Enough For Gen Z",
+      "timestamp": "2023-12-14T10:00:14.978Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

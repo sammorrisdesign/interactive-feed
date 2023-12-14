@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2023-12-14T05:13:57.191Z",
+  "lastUpdated": "2023-12-14T10:16:00.596Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/14/realestate/14hunt-sahni.html",
+      "headline": "They Explored Upper East Side One-Bedrooms for Less Than $1 Million",
+      "timestamp": "2023-12-14T10:03:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/14/us/politics/congress-retirements.html",
+      "headline": "Tracking Retirements in the House",
+      "timestamp": "2023-12-14T10:03:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/14/climate/california-water-crisis-drought.html",
+      "headline": "Who Gets the Water in California? Whoever Gets There First.",
+      "timestamp": "2023-12-14T10:03:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/14/opinion/my-life-with-long-covid.html",
+      "headline": "1,374 Days: My Life With Long Covid",
+      "timestamp": "2023-12-14T10:02:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/14/travel/things-to-do-joshua-tree.html",
+      "headline": "36 Hours at Joshua Tree",
+      "timestamp": "2023-12-14T10:01:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
