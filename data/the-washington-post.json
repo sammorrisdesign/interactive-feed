@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2023-12-13T23:36:52.369Z",
+  "lastUpdated": "2023-12-14T11:12:51.914Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/black-maternal-mortality-doulas/",
+      "headline": "She knows the ache of losing a baby. Her calling is to help other Black moms.",
+      "timestamp": "2023-12-14T11:00:49.206Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2023/klamath-river-dam-removal/",
+      "headline": "Klamath River dam removal hopes to undo decades of ecological destruction",
+      "timestamp": "2023-12-14T11:00:44.169Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2023/black-women-pregnancy-mortality-fear/",
+      "headline": "For some Black women, the fear of death shadows the joy of birth",
+      "timestamp": "2023-12-14T11:00:09.108Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/history/interactive/2023/smithsonian-museum-washington-dc-brains-collection/",
+      "headline": "Smithsonian targeted D.C.’s vulnerable to build brain collection",
+      "timestamp": "2023-12-14T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

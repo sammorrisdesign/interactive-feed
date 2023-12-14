@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-14T10:38:03.057Z",
+  "lastUpdated": "2023-12-14T11:12:51.921Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-Green-Revolution-Needs-96000-Miles-of-New-Pipeline/",
+      "headline": "Carbon Capture Needs Enough Pipelines to Circle Earth Four Times",
+      "timestamp": "2023-12-14T11:00:13.356Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
