@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-12-12T14:13:49.308Z",
+  "lastUpdated": "2023-12-14T05:13:57.191Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/14/us/roofing-children-immigrants.html",
+      "headline": "Children Risk Their Lives Building America’s Roofs",
+      "timestamp": "2023-12-14T05:05:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
