@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-14T11:12:51.914Z",
+  "lastUpdated": "2023-12-14T14:13:52.828Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2023/flying-airport-etiquette/",
+      "headline": "The 52 definitive rules of flying",
+      "timestamp": "2023-12-14T14:00:54.965Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
