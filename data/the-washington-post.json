@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2023-12-14T18:18:40.701Z",
+  "lastUpdated": "2023-12-15T11:12:53.706Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/climate-disease-dengue-malaria-outbreaks-amazon/",
+      "headline": "On the hunt for climate disease",
+      "timestamp": "2023-12-15T11:00:08.839Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2023/human-remains-database-smithsonian-museum/",
+      "headline": "Search the Smithsonian’s records on human remains",
+      "timestamp": "2023-12-15T11:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/history/interactive/2023/smithsonian-staff-human-remains-repatriation/",
+      "headline": "Former employees say Smithsonian resisted action on human remains",
+      "timestamp": "2023-12-15T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
