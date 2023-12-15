@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-15T01:05:36.887Z",
+  "lastUpdated": "2023-12-15T18:18:24.246Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-in-graphics/",
+      "headline": "2023: The Year in Graphics",
+      "timestamp": "2023-12-15T18:00:19.411Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
