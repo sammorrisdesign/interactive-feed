@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-12-14T18:38:01.789Z",
+  "lastUpdated": "2023-12-15T04:17:58.878Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/14/briefing/2023-faces-quiz.html",
+      "headline": "The 2023 Faces Quiz",
+      "timestamp": "2023-12-15T03:41:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
