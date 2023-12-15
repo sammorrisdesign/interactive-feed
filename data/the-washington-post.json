@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-15T11:12:53.706Z",
+  "lastUpdated": "2023-12-15T17:36:27.649Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/interactive/2023/hollywood-snow-quiz/",
+      "headline": "Walking in a foam-filled wonderland: Find the fake snow in these movies",
+      "timestamp": "2023-12-15T17:30:34.044Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
