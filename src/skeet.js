@@ -1,6 +1,24 @@
 // Post to BlueSky
 const { BskyAgent, RichText } = require('@atproto/api');
+const ogs = require('open-graph-scraper');
 const utils = require("./utils");
+
+const getImageForArticleUrl = async(url, client) => {
+  try {
+    const openGraph = await ogs({ url: url, onlyGetOpenGraphInfo: true });
+
+    const imageResponse = await fetch(openGraph.result.ogImage[0].url);
+    const imageBuffer = await imageResponse.arrayBuffer();
+    const contentType = imageResponse.headers.get('content-type');
+
+    const blobResponse = await client.uploadBlob(imageBuffer, { encoding: contentType });
+    return await blobResponse.data.blob;
+  } catch (e) {
+    console.log('Error getting image for', url);
+    console.log(e);
+    return null;
+  }
+}
 
 const newArticles = async (articles) => {
   const isPublishing = process.env.npm_config_publish == "true";
@@ -21,19 +39,27 @@ const newArticles = async (articles) => {
       const richTextSkeet = new RichText({text: skeet});
       await richTextSkeet.detectFacets(client);
 
+      const embed = {
+        $type: 'app.bsky.embed.external',
+        external: {
+          uri: article.url,
+          title: article.headline ? article.headline : '',
+          description: '',
+        }
+      }
+
+      // Fetch image and add to embed object if it exists
+      const imageAsBlob = await getImageForArticleUrl(article.url, client);
+      if (imageAsBlob) {
+        embed.external.thumb = imageAsBlob; 
+      }
+
       client.post({
         $type: 'app.bsky.feed.post',
         text: richTextSkeet.text,
         facets: richTextSkeet.facets,
         createdAt: new Date().toISOString(),
-        embed: {
-          $type: 'app.bsky.embed.external',
-          external: {
-            uri: article.url,
-            title: article.headline ? article.headline : '',
-            description: ''
-          }
-        }
+        embed: embed
       }).then(val => {
         const postId = val.uri.split('/').at(-1);
         console.log(`Successfully skeeted: https://staging.bsky.app/profile/interactives.bsky.social/post/${postId}`)
