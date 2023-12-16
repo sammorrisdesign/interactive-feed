@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2023-12-14T06:18:47.761Z",
+  "lastUpdated": "2023-12-16T09:36:33.981Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/americas/mexico-launches-maya-train-in-bid-to-boost-southern-tourism-b761dafb",
+      "headline": "Mexico Launches Maya Train in Bid to Boost Southern Tourism",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/healthcare/the-surprisingly-good-news-on-life-expectancy-its-still-going-up-239b6252",
+      "headline": "The (Surprisingly) Good News on Life Expectancy: It’s Still Going Up",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israeli-military-steps-up-raids-in-flashpoint-west-bank-city-0b9818a6",
+      "headline": "Israeli Military Steps Up Raids in Flashpoint West Bank City",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/israel-hamas-war-pumping-seawater-gaza-tunnels-2ed3b3f2",
+      "headline": "Israel Begins Pumping Seawater Into Hamas’s Gaza Tunnels",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
