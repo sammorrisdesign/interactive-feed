@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-16T09:36:33.981Z",
+  "lastUpdated": "2023-12-17T12:48:15.412Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/joe-biden-poll-donald-trump-73cfa7d9",
+      "headline": "Biden’s 2024 Problem: Voters Say His Policies Hurt Them",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
