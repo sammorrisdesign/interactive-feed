@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2023-12-17T07:36:34.137Z",
+  "lastUpdated": "2023-12-17T10:14:38.354Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/17/magazine/ro-khanna-interview.html",
+      "headline": "Rep. Ro Khanna Has a Reminder for Democrats: Americans Love Money",
+      "timestamp": "2023-12-17T10:00:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/17/world/asia/myanmar-cyber-scam.html",
+      "headline": "7 Months Inside an Online Scam Labor Camp",
+      "timestamp": "2023-12-17T09:54:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/17/world/putin-companies-economy-boycott-elites-benefit-ukraine-war.html",
+      "headline": "How Putin Turned a Western Boycott Into a Bonanza",
+      "timestamp": "2023-12-17T09:53:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
