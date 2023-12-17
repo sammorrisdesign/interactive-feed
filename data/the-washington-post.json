@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-15T17:36:27.649Z",
+  "lastUpdated": "2023-12-17T11:36:28.735Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/assisted-living-wander-patient-deaths/",
+      "headline": "Dozens of assisted-living residents died after wandering away unnoticed ",
+      "timestamp": "2023-12-17T11:30:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
