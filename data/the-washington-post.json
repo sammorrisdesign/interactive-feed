@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-12-17T11:36:28.735Z",
+  "lastUpdated": "2023-12-18T11:12:46.292Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2023/football-participation-decline-politics-demographics/",
+      "headline": "The changing face of America’s favorite sport",
+      "timestamp": "2023-12-18T11:05:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2023/loneliness-causes-social-media/",
+      "headline": "For the lonely, technology offers friendship — at a price",
+      "timestamp": "2023-12-18T11:00:57.433Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
