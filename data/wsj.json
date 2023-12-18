@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-17T12:48:15.412Z",
+  "lastUpdated": "2023-12-18T13:36:26.154Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/stocks/stocks-americans-own-most-ever-9f6fd963",
+      "headline": "More Americans Than Ever Own Stocks",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
