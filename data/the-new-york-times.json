@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2023-12-18T16:18:52.823Z",
+  "lastUpdated": "2023-12-18T16:40:23.149Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths-music.html",
+      "headline": "Notable Deaths 2023: Music",
+      "timestamp": "2023-12-18T16:37:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths.html",
+      "headline": "Notable Deaths 2023",
+      "timestamp": "2023-12-18T16:37:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths-books.html",
+      "headline": "Notable Deaths 2023: Books",
+      "timestamp": "2023-12-18T16:37:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths-business-economics.html",
+      "headline": "Notable Deaths 2023: Business and Economics",
+      "timestamp": "2023-12-18T16:37:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths-arts-styles.html",
+      "headline": "Notable Deaths 2023: Arts and Styles",
+      "timestamp": "2023-12-18T16:37:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths-politics-public-affairs.html",
+      "headline": "Notable Deaths 2023: Politics and Public Affairs",
+      "timestamp": "2023-12-18T16:37:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths-sports.html",
+      "headline": "Notable Deaths 2023: Sports",
+      "timestamp": "2023-12-18T16:37:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths-stage-screen.html",
+      "headline": "Notable Deaths 2023: Stage and Screen",
+      "timestamp": "2023-12-18T16:37:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/obituaries/notable-deaths-science-technology.html",
+      "headline": "Notable Deaths 2023: Science and Technology",
+      "timestamp": "2023-12-18T16:37:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
