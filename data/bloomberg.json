@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-15T18:18:24.246Z",
+  "lastUpdated": "2023-12-18T23:14:36.920Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/china-credit-2023-12/",
+      "headline": "China’s Surviving Borrowers Enjoy Lowest Stress Since Crisis",
+      "timestamp": "2023-12-18T23:00:06.119Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
