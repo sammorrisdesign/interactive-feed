@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-19T11:12:13.543Z",
+  "lastUpdated": "2023-12-19T12:51:59.781Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/cleveland-downtown-empty-offices-transform/",
+      "headline": "Think it’s impossible to revive a downtown? Look at Cleveland.",
+      "timestamp": "2023-12-19T12:30:50.599Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
