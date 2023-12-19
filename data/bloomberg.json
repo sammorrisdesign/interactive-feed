@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-18T23:14:36.920Z",
+  "lastUpdated": "2023-12-19T01:04:31.642Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-nonbank-lender-mortgage-loan-borrower-fee/",
+      "headline": "Borrowers Turned to Nonbank Lenders for Mortgages &mdash; And It’s Costing Them",
+      "timestamp": "2023-12-19T00:00:05.693Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
