@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-18T11:36:32.956Z",
+  "lastUpdated": "2023-12-19T11:12:13.537Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2023/dec/19/the-100-best-male-footballers-in-the-world-2023",
+      "headline": "The 100 best male footballers in the world 2023 – Nos 100-71",
+      "timestamp": "2023-12-19T10:45:38.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-18T11:12:46.292Z",
+  "lastUpdated": "2023-12-19T11:12:13.543Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2023/dc-low-lying-city-flood-risks/",
+      "headline": "The nation’s capital, built on water, struggles to keep from drowning",
+      "timestamp": "2023-12-19T11:00:44.697Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
