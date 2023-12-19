@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-19T11:12:13.537Z",
+  "lastUpdated": "2023-12-19T13:17:12.461Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/media/ng-interactive/2023/dec/19/how-we-covered-2023",
+      "headline": "How we covered 2023",
+      "timestamp": "2023-12-19T12:55:03.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
