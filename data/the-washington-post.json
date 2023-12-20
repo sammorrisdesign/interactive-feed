@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-20T15:12:13.841Z",
+  "lastUpdated": "2023-12-20T16:39:36.110Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/lifestyle/interactive/2023/favorite-washington-post-illustrations-2023/",
+      "headline": "Our favorite illustrations of 2023",
+      "timestamp": "2023-12-20T16:30:57.465Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
