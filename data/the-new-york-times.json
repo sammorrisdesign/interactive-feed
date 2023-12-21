@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2023-12-20T22:36:13.005Z",
+  "lastUpdated": "2023-12-21T10:15:34.485Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/21/realestate/21hunt-reeves.html",
+      "headline": "From Harlem to Central Brooklyn With $500,000: Would It Be Enough for a Two-Bedroom?",
+      "timestamp": "2023-12-21T10:02:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/21/travel/things-to-do-cordoba-spain.html",
+      "headline": "36 Hours in Córdoba, Spain",
+      "timestamp": "2023-12-21T10:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

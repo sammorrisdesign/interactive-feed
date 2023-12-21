@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-11-09T12:26:54.921Z",
+  "lastUpdated": "2023-12-21T10:15:34.532Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/supreme-connections/",
+      "headline": "Supreme Connections: Search Supreme Court Financial Disclosures",
+      "timestamp": "2023-12-21T10:00:00.000Z"
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
