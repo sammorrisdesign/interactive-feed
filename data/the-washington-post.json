@@ -1,6 +1,114 @@
 {
-  "lastUpdated": "2023-12-21T14:13:14.692Z",
+  "lastUpdated": "2023-12-21T23:36:36.311Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/dean-phillips-climate-change/",
+      "headline": "Where Dean Phillips stands on climate change",
+      "timestamp": "2023-12-21T13:00:59.313Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/jill-stein-economic-policy/",
+      "headline": "Where Jill Stein stands on taxes, the economy",
+      "timestamp": "2023-12-21T13:00:54.689Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/dean-phillips-immigration/",
+      "headline": "Where Dean Phillips stands on immigration",
+      "timestamp": "2023-12-21T13:00:47.290Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/dean-phillips-6-2020-election-results/",
+      "headline": "Where Dean Phillips stands on 2020 election results, Jan. 6 prosecutions",
+      "timestamp": "2023-12-21T13:00:43.808Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/jill-stein-student-loans-education/",
+      "headline": "Where Jill Stein stands on student loan forgiveness, education",
+      "timestamp": "2023-12-21T13:00:43.342Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/dean-phillips-abortion/",
+      "headline": "Where Dean Phillips stands on abortion",
+      "timestamp": "2023-12-21T13:00:35.353Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/jill-stein-foreign-policy/",
+      "headline": "Where Jill Stein stands on foreign policy",
+      "timestamp": "2023-12-21T13:00:32.330Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/dean-phillips-economic-policy/",
+      "headline": "Where Dean Phillips stands on taxes, the economy",
+      "timestamp": "2023-12-21T13:00:29.799Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/jill-stein-6-2020-election-results/",
+      "headline": "Where Jill Stein stands on 2020 election results, Jan. 6 prosecutions",
+      "timestamp": "2023-12-21T13:00:20.877Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/dean-phillips-foreign-policy/",
+      "headline": "Where Dean Phillips stands on foreign policy",
+      "timestamp": "2023-12-21T13:00:18.639Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/dean-phillips-guns-crime/",
+      "headline": "Where Dean Phillips stands on crime and guns",
+      "timestamp": "2023-12-21T13:00:14.773Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/dean-phillips-student-loans-education/",
+      "headline": "Where Dean Phillips stands on student loan forgiveness, education",
+      "timestamp": "2023-12-21T13:00:07.419Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
