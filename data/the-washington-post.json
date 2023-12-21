@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-21T11:12:13.430Z",
+  "lastUpdated": "2023-12-21T13:17:04.458Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/russia-war-diamonds-holiday-shopping-ukraine/",
+      "headline": "How your holiday diamond may be funding Russia’s war ",
+      "timestamp": "2023-12-21T13:00:22.120Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
