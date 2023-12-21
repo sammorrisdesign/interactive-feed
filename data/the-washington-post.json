@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-21T13:17:04.458Z",
+  "lastUpdated": "2023-12-21T14:13:14.692Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/lifestyle/interactive/2023/nutcrackers-christmas-search-game/",
+      "headline": "Toy store trouble",
+      "timestamp": "2023-12-21T14:00:04.151Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
