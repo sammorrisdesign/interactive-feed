@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-18T12:28:26.269Z",
+  "lastUpdated": "2023-12-21T15:14:41.203Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/4c66a9fd-b444-4aa2-8a63-b8f043c3e4a5",
+      "headline": "Visual analysis: the wastelands in Gaza’s two biggest cities",
+      "timestamp": "2023-12-21T14:34:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
