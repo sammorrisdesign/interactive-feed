@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-22T11:12:15.142Z",
+  "lastUpdated": "2023-12-22T12:26:01.177Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/lifestyle/interactive/2023/santa-claus-stories-christmas/",
+      "headline": "Saving the magic of Santa",
+      "timestamp": "2023-12-22T12:00:26.741Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
