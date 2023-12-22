@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-12-21T10:15:34.485Z",
+  "lastUpdated": "2023-12-22T10:15:16.846Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/dining/holiday-food-quiz.html",
+      "headline": "Test Your Holiday Food IQ",
+      "timestamp": "2023-12-22T10:05:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
