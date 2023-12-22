@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-12-22T18:17:20.190Z",
+  "lastUpdated": "2023-12-22T21:12:08.969Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/technology/openai-chatgpt-privacy-exploit.html",
+      "headline": "How Strangers Got My Email Address From ChatGPT",
+      "timestamp": "2023-12-22T21:07:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
