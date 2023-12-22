@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-19T01:04:31.642Z",
+  "lastUpdated": "2023-12-22T01:03:03.001Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-china-ev-roadtrip-oil-turning-point/",
+      "headline": "Electric Cars Are Pushing the Age of Oil to Extinction in China",
+      "timestamp": "2023-12-22T00:00:11.585Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

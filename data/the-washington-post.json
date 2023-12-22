@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2023-12-21T23:36:36.311Z",
+  "lastUpdated": "2023-12-22T01:03:02.995Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/jill-stein-guns-crime/",
+      "headline": "Where Jill Stein stands on crime and guns",
+      "timestamp": "2023-12-21T13:00:47.842Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/jill-stein-climate-change/",
+      "headline": "Where Jill Stein stands on climate change",
+      "timestamp": "2023-12-21T13:00:38.876Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/jill-stein-immigration/",
+      "headline": "Where Jill Stein stands on immigration",
+      "timestamp": "2023-12-21T13:00:27.439Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/jill-stein-abortion/",
+      "headline": "Where Jill Stein stands on abortion",
+      "timestamp": "2023-12-21T13:00:17.360Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
