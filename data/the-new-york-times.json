@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2023-12-22T17:12:38.865Z",
+  "lastUpdated": "2023-12-22T18:17:20.190Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/michael-protzman-death.html",
+      "headline": "Michael Protzman Built a Kingdom of Conspiracy Theories",
+      "timestamp": "2023-12-22T18:03:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/donald-triplett-death.html",
+      "headline": "He Helped Defined Autism, but It Didn't Define Him",
+      "timestamp": "2023-12-22T18:02:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/tina-turner-death.html",
+      "headline": "Tina Turner’s Famous Body Was a Mirage",
+      "timestamp": "2023-12-22T18:02:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/jerry-springer-death.html",
+      "headline": "Jerry Springer Was the ‘Titan of Trash’",
+      "timestamp": "2023-12-22T18:01:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/rachel-pollack-death.html",
+      "headline": "Rachel Pollack Had a Special Way of Reading Tarot",
+      "timestamp": "2023-12-22T18:00:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/sally-kempton-death.html",
+      "headline": "Sally Kempton’s Complicated Feminism",
+      "timestamp": "2023-12-22T17:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/steve-harwell-death.html",
+      "headline": "Steve Harwell Was the Unsung Hero of ‘Shrek’",
+      "timestamp": "2023-12-22T17:57:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/sinead-oconnor-death.html",
+      "headline": "When Sinead O’Connor Unleashed Her Ghosts",
+      "timestamp": "2023-12-22T17:57:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/cormac-mccarthy-death.html",
+      "headline": "What Did Cormac McCarthy’s Tough-Guy Persona Hide?",
+      "timestamp": "2023-12-22T17:56:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/22/magazine/marianne-mantell-death.html",
+      "headline": "Marianne Mantell Willed Audiobooks Into Being",
+      "timestamp": "2023-12-22T17:55:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
