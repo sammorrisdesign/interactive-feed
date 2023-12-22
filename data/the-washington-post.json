@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-22T05:14:07.841Z",
+  "lastUpdated": "2023-12-22T11:12:15.142Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2023/cincinnati-police-gun-range-lincoln-heights/",
+      "headline": "‘It sounds like a war’",
+      "timestamp": "2023-12-22T11:00:34.749Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
