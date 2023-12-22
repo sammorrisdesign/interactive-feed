@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2023-12-18T13:36:26.154Z",
+  "lastUpdated": "2023-12-22T04:36:54.435Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/tech/tiktok-israel-gaza-hamas-war-a5dfa0ee",
+      "headline": "What TikTok Is Showing America’s Youth About the War in Gaza",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china/more-than-100-killed-in-china-earthquake-02a00ff8",
+      "headline": "Earthquake in Northwestern China Kills More Than 100 People",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/national-security/u-s-military-struggles-to-stop-osprey-crashes-after-decades-of-flaws-d1341a69",
+      "headline": "U.S. Military Struggles to Stop Osprey Crashes After Decades of Flaws",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/airlines/america-doesnt-have-enough-air-traffic-controllers-and-thats-a-problem-5a637cda",
+      "headline": "Fatigue and Mandatory Overtime: America’s Air-Traffic Controllers Are Stretched Thin",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/personal-finance/taxes/irs-waives-nearly-1-billion-in-penalties-for-taxpayers-3f717627",
+      "headline": "IRS Zaps Nearly $1 Billion in Penalties for Taxpayers",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/after-roaming-dogs-bite-children-parents-demand-action-190531ae",
+      "headline": "After Roaming Dogs Bite Children, Parents Demand Action",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/europe/iceland-volcano-erupts-after-weeks-of-concern-96b45e88",
+      "headline": "Iceland Volcano Erupts Near Grindavik After Weeks of Earthquakes",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
