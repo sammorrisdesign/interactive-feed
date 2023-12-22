@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-22T01:03:02.995Z",
+  "lastUpdated": "2023-12-22T05:14:07.841Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2023/gaza-palestine-displacement-rafah-maps-photos/",
+      "headline": "How Israel pushed over a million Palestinians into a tiny corner of Gaza",
+      "timestamp": "2023-12-22T05:00:45.874Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
