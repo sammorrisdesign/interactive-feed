@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-22T04:36:54.435Z",
+  "lastUpdated": "2023-12-23T07:12:52.124Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/airlines/throwing-punches-and-opening-emergency-doors-airline-passengers-are-still-losing-it-e7df28c0",
+      "headline": "Airline Passengers Are Still Losing It",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",

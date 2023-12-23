@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-21T23:14:53.945Z",
+  "lastUpdated": "2023-12-23T07:12:52.037Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/games/ng-interactive/2023/dec/23/what-happened-in-2023-the-christmas-quiz-of-the-year",
+      "headline": "What happened in 2023? The Christmas quiz of the year",
+      "timestamp": "2023-12-23T07:00:19.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
