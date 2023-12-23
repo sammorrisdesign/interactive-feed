@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-12-23T10:13:42.496Z",
+  "lastUpdated": "2023-12-23T13:15:32.033Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/23/books/review/christmas-books-quiz.html",
+      "headline": "Can You Find These 12 Hidden Holiday Books?",
+      "timestamp": "2023-12-23T13:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
