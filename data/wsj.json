@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-12-23T07:12:52.124Z",
+  "lastUpdated": "2023-12-23T21:11:47.048Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/airlines/near-misses-and-runway-traffic-jams-the-risks-your-flight-faces-at-the-airport-7b8826d8",
+      "headline": "Near Misses and Runway-Traffic Jams: The Risks Your Flight Faces at the Airport",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/houthi-rebel-attacks-target-global-shipping-7e55d7ae",
+      "headline": "Houthi Rebel Attacks Rattle Global Shipping",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
