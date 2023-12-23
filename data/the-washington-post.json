@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-22T12:26:01.177Z",
+  "lastUpdated": "2023-12-23T11:11:26.367Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2023/israel-war-destruction-gaza-record-pace/",
+      "headline": "Israel has waged one of this century’s most destructive wars in Gaza",
+      "timestamp": "2023-12-23T11:00:09.542Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
