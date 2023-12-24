@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-22T12:26:01.198Z",
+  "lastUpdated": "2023-12-24T05:13:36.214Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6945fb5d-b776-4934-9efb-c176639af177",
+      "headline": "How Taiwan’s disillusioned youth feel about a pivotal election",
+      "timestamp": "2023-12-24T05:00:44.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
