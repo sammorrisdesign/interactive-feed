@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-12-23T13:15:32.033Z",
+  "lastUpdated": "2023-12-25T01:04:39.702Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/24/climate/groundwater-crisis-chicken-cheese.html",
+      "headline": "How America’s Diet Is Feeding the Groundwater Crisis",
+      "timestamp": "2023-12-25T01:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
