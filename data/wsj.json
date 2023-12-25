@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2023-12-23T21:11:47.048Z",
+  "lastUpdated": "2023-12-25T10:15:52.075Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/from-patriot-missiles-to-a-mother-and-her-vintage-rifle-inside-ukraines-air-defense-406a2ca2",
+      "headline": "From Patriot Missiles to a Mother and Her Vintage Rifle: Inside Ukraine’s Air Defense",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/housing/the-rise-of-the-forever-renters-5538c249",
+      "headline": "The Rise of the Forever Renters",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/flaco-owl-new-york-city-peeping-tom-d9835848",
+      "headline": "Flaco the Famous New York City Owl Has Become a Peeping Tom",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
