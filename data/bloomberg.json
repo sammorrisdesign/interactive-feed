@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-22T01:03:03.001Z",
+  "lastUpdated": "2023-12-26T10:15:01.522Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2023-hospital-cost-gaps/",
+      "headline": "Hospital Price Gaps Show Just How Broken the US Health-Care Market Is",
+      "timestamp": "2023-12-26T10:00:13.899Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
