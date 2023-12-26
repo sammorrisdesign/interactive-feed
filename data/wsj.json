@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-25T11:11:53.554Z",
+  "lastUpdated": "2023-12-26T04:17:34.550Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/iran-backed-forces-widen-their-attacks-on-commercial-shipping-3121ae62",
+      "headline": "Iran-Backed Forces Widen Their Attacks on Commercial Shipping",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
