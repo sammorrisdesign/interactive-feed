@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2023-12-26T10:15:01.491Z",
+  "lastUpdated": "2023-12-26T21:36:30.628Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/us/2023-year-in-graphics.html",
+      "headline": "2023: The Year in Visual Stories and Graphics.",
+      "timestamp": "2023-12-26T21:18:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
