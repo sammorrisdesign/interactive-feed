@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-24T05:13:36.214Z",
+  "lastUpdated": "2023-12-27T01:02:17.931Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/34d0e495-31a6-45f5-929e-d46ba95fdbf6",
+      "headline": "China’s ‘lying flat’ generation checks out in Dali",
+      "timestamp": "2023-12-27T00:44:54.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
