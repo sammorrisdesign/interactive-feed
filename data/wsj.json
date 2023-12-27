@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-12-27T11:36:15.263Z",
+  "lastUpdated": "2023-12-27T13:36:26.583Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/finance/stocks/nasdaq-set-to-beat-nyse-in-ipo-race-for-fifth-year-in-a-row-16e91b89",
+      "headline": "Nasdaq Set to Beat NYSE in IPO Race for Fifth Year in a Row",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/travel/delta-alaska-mileage-run-frequent-flier-a343c191",
+      "headline": "The Frequent-Flier Trick That Won’t Work Anymore",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
