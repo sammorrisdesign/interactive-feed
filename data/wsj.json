@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-12-26T12:48:51.247Z",
+  "lastUpdated": "2023-12-27T11:36:15.263Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/autos/electric-vehicle-demand-charts-7d3089c7",
+      "headline": "How Electric-Vehicle Demand Is Losing Steam in the U.S., in Charts",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/the-bud-light-boycott-was-just-the-beginning-of-a-crazy-year-for-beer-9de3a402",
+      "headline": "The Bud Light Boycott Was Just the Beginning of a Crazy Year for Beer",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
