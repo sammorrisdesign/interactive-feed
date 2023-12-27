@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-27T01:02:17.931Z",
+  "lastUpdated": "2023-12-27T04:16:55.789Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/2f202d15-d1ae-40bd-83f5-e0ad3a786c49",
+      "headline": "UK mobile users had slowest 5G download speeds in G7 in 2023",
+      "timestamp": "2023-12-27T04:00:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
