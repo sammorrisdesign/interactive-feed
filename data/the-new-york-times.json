@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2023-12-27T02:06:01.725Z",
+  "lastUpdated": "2023-12-28T10:15:08.957Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/28/realestate/bronx-homes-apartments-buy.html",
+      "headline": "Suddenly Single, He Took His $200,000 Budget Up to the Bronx. Would It Be Enough?",
+      "timestamp": "2023-12-28T10:03:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/28/opinion/2023-charts-inflation-politics.html",
+      "headline": "More Than Words: 10 Charts That Defined 2023",
+      "timestamp": "2023-12-28T10:03:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/28/us/migrants-children-data.html",
+      "headline": "Where Migrant Children Are Living, and Often Working, in the U.S.",
+      "timestamp": "2023-12-28T10:03:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/28/opinion/keepers-best-of-2023.html",
+      "headline": "Our Keepers of 2023",
+      "timestamp": "2023-12-28T10:02:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/28/travel/things-to-do-hong-kong.html",
+      "headline": "36 Hours in Hong Kong",
+      "timestamp": "2023-12-28T10:00:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
