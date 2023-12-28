@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-27T15:14:01.333Z",
+  "lastUpdated": "2023-12-28T11:36:30.621Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2023/architecture-sustainable-cooling-techniques/",
+      "headline": "Ancient elements of cool",
+      "timestamp": "2023-12-28T11:30:29.055Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
