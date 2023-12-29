@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-29T14:12:42.025Z",
+  "lastUpdated": "2023-12-29T15:37:11.881Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/books/interactive/2023/celeste-ng-home-library/",
+      "headline": "Book Tour: Celeste Ng shows us her personal library",
+      "timestamp": "2023-12-29T15:30:46.134Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
