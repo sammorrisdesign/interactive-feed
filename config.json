@@ -152,6 +152,15 @@
         "format": "RSS",
         "path": "https://www.latimes.com/index.rss",
         "domain": "latimes.com/projects"
+      }, {
+        "type": "Website",
+        "path": "https://www.latimes.com/archives/projects",
+        "domain": "latimes.com/projects",
+        "selector": ".promo-wrapper",
+        "headline": ".promo-title",
+        "url": ".promo-title .link",
+        "timestamp": ".promo-timestamp",
+        "timestampFormat": ["MMM. D, YYYY", "MMM D, YYYY", "MMMM D, YYYY"]
       }]
     },
     {
@@ -312,7 +321,7 @@
         "selector": ".project",
         "headline": ".list__project-content h4",
         "timestamp": ".list__project-content p:nth-of-type(1)",
-        "timestampFormat": ["MMMM D, YYYY", "MMM. D, YYYY"]
+        "timestampFormat": ["MMMM D, YYYY", "MMM. D, YYYY", "MMM D, YYYY"]
       }]
     },
     {

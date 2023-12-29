@@ -42,7 +42,6 @@ All are required fields.
 
 Sources can look different depending on the `type` - a required field in each source object. The `type` basically tells [`src/fetchers.js`](src/fetchers.js) how it should handle the rest of the information. Some publications, like The Guardian and New York Times have their own `type` which refer to publication specific APIs. The other two types are `XML` and `Website`.
 
-
 ### Source level options for `XML`.
 Sources set to `"type": "XML"` get articles from an RSS feed or a Sitemap.
 
@@ -53,7 +52,6 @@ Sources set to `"type": "XML"` get articles from an RSS feed or a Sitemap.
 | `domain`      | `String` | For RSS feeds only. Optional filtering that will check that this string is contained in any url. Just in case the RSS feed includes non-interactives. |
 | `filters.in`  | `Object` | For Sitemaps only. Filter to keep articles by property/value pairs. For example: url must contain '/visuals' – the rest will be discarded             |
 | `filters.out` | `Object` | For Sitemaps only. Filter to exclude articles by property/value pairs. For example: headline should not contain "Week in"                             |
-
 
 ### Source level options for `Website`.
 Sources set to `"type": "Website"` get articles featured on a specific website. This source should only be used if it's the only option because it's the most likely to change and break over time.
@@ -69,7 +67,6 @@ Sources set to `"type": "Website"` get articles featured on a specific website. 
 | `timestamp`          | `String` | Optional child element within `selector` that contains the timestamp. The `textContent` for this element will be used.                                            |
 | `timestampAttribute` | `String` | Optional. If `timestamp` element has an attribute that you'd rather scrape instead of the `textContent`, provide it here                                          |
 | `timestampFormat`    | `Array`  | Optional. If `timestamp` is in a nonstandard format, you can use an array of [dayjs formats](https://day.js.org/docs/en/parse/string-format) to parse             |
-
 
 ### Testing
 Once you've added a publication to the config you can run `npm run test --publication="The New York Times"` to test it (only with the name of your publication instead). This will check the feeds but not actually tweet/toot anything. If you're happy with it, make a PR!

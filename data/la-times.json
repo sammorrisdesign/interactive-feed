@@ -1,6 +1,146 @@
 {
-  "lastUpdated": "2023-06-08T19:36:37.115Z",
+  "lastUpdated": "2023-12-29T19:32:11.773Z",
   "articles": [
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/data-graphics-best-of-2023-maps-charts/",
+      "headline": "  Best of L.A. Times Data and Graphics: 2023  ",
+      "timestamp": "2023-12-09T05:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/does-my-building-need-earthquake-retrofit-los-angeles-map/",
+      "headline": "  About 6,000 buildings in L.A. are at risk in an earthquake. Do you live or work in one of them?  ",
+      "timestamp": "2023-12-02T05:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/mental-health-mandarin-chinese-how-to/",
+      "headline": "  Mental health in Mandarin Chinese: a starter kit for dialogue  ",
+      "timestamp": "2023-10-01T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/writers-strike-deal-ai/",
+      "headline": "  Can you tell which script was written by AI?  ",
+      "timestamp": "2023-10-01T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/california-drinking-water-contamination/",
+      "headline": "  Does your water provider have a contamination problem? Look up your local utility here  ",
+      "timestamp": "2023-09-27T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/map-hurricane-hilary-storm-path-tracker-southern-california/",
+      "headline": "  Live updates: Tracking Tropical Storm Hilary as it approaches California  ",
+      "timestamp": "2023-08-08T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/maps-maui-fire-destroyed-lahaina-satellite/",
+      "headline": "   Mapping how the Maui fires destroyed Lahaina  ",
+      "timestamp": "2023-08-04T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/teenage-mutant-ninja-turtles-mayhem-movie-characters-personality-quiz/",
+      "headline": "  Which Teenage Mutant Ninja Turtle are you? Take our personality quiz  ",
+      "timestamp": "2023-08-04T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2023-womens-world-cup-players-build-own-dream-uswnt",
+      "headline": "  Build your own dream USWNT team  ",
+      "timestamp": "2023-07-13T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/california-city-nature-challenge-urban-biodiversity-inaturalist",
+      "headline": "  California started this community science project to document urban nature — now it’s taking over the world  ",
+      "timestamp": "2023-04-28T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/california-snow-elevation-map-near-you/",
+      "headline": "  Could it snow near you? Check this map to see where SoCal might see snow for the first time in years  ",
+      "timestamp": "2023-02-03T05:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/monterey-park-shooting-victims-tribute/zh/",
+      "headline": "  纪念蒙特利公园市枪击案逝去的生命  ",
+      "timestamp": "2023-02-08T05:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/monterey-park-shooting-victims-tribute/zh-CHT/",
+      "headline": "   紀念蒙特利公園市槍擊案逝去的生命  ",
+      "timestamp": "2023-02-08T05:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/monterey-park-mass-shooting-unfolded-lunar-new-year/",
+      "headline": "  ‘My life will end here.’ How a Lunar New Year celebration became a fight for survival   ",
+      "timestamp": "2023-01-01T05:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/monterey-park-shooting-victims-tribute/",
+      "headline": "  Honoring the lives lost in the Monterey Park mass shooting  ",
+      "timestamp": "2023-01-07T05:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2022-california-election-propositions-campaign-finance-vote-results",
+      "headline": "  Campaigns spent nearly $800 million on California propositions. See how your county voted\n  ",
+      "timestamp": "2022-12-08T05:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2022-california-election-neighborhood-vote-los-angeles-county-sheriff",
+      "headline": "  Find out how your neighborhood voted for the Los Angeles County sheriff   ",
+      "timestamp": "2022-11-05T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2022-california-election-neighborhood-vote-los-angeles-mayor",
+      "headline": "  Find out how your neighborhood voted for Los Angeles mayor  ",
+      "timestamp": "2022-11-05T04:00:00.000Z"
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/california-drought-status-maps-water-usage",
+      "headline": "  Tracking California’s water supplies  ",
+      "timestamp": null
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/california-earthquake-fault-map/",
+      "headline": "  What would a powerful earthquake feel like where you live?  ",
+      "timestamp": null
+    },
     {
       "publication": "LA Times",
       "twitterHandle": "datagraphics",
