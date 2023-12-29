@@ -74,3 +74,4 @@ Sources set to `"type": "Website"` get articles featured on a specific website. 
 ### Testing
 Once you've added a publication to the config you can run `npm run test --publication="The New York Times"` to test it (only with the name of your publication instead). This will check the feeds but not actually tweet/toot anything. If you're happy with it, make a PR!
 
+You can also use `npm run audit` to check the "health" of each publication. This will tell you whether a publication is still present in the config, whether articles have been picked up for them, and if possible, when the last article was published.

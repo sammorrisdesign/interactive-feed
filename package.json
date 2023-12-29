@@ -6,6 +6,7 @@
   "scripts": {
     "start": "node app.js $npm_config_publish",
     "test": "node src/test.js $npm_config_publication",
+    "audit": "node src/audit.js",
     "encrypt-secrets": "openssl aes-256-cbc -e -md sha256 -in ./secrets.json -out ./encrypted-secrets -k $KEY",
     "decrypt-secrets": "openssl aes-256-cbc -d -md sha256 -in ./encrypted-secrets -out ./secrets.json -k $KEY"
   },
