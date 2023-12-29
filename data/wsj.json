@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-29T03:15:38.455Z",
+  "lastUpdated": "2023-12-29T10:37:05.421Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/2024-presidential-senate-and-house-election-forecasts-5c4b54b8",
+      "headline": "2024 Presidential, Senate and House Election Forecasts",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
