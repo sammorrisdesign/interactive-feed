@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-28T06:18:42.434Z",
+  "lastUpdated": "2023-12-29T03:15:38.455Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/media/barbie-and-oppenheimer-trounce-franchise-films-to-jolt-a-slow-summer-at-the-box-office-e06ed258",
+      "headline": "‘Barbie,’ ‘Oppenheimer’ Trounce Franchise Films to Jolt a Slow Summer at the Box Office",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
