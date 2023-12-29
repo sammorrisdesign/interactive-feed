@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-12-28T15:14:23.309Z",
+  "lastUpdated": "2023-12-29T10:15:36.009Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/29/opinion/2023-america-focus-group.html",
+      "headline": "Here’s What 13 Biden and Trump Voters Agreed On About 2023",
+      "timestamp": "2023-12-29T10:03:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/29/climate/california-farmers-water-tax.html",
+      "headline": "Strawberry Case Study: What If Farmers Had to Pay for Water?",
+      "timestamp": "2023-12-29T10:03:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/29/opinion/2023-people-living-the-news.html",
+      "headline": "The People Who Lived the Headlines of 2023",
+      "timestamp": "2023-12-29T10:02:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2023/12/29/world/europe/russia-ukraine-war-censorship.html",
+      "headline": "How the Russian Government Silences Wartime Dissent",
+      "timestamp": "2023-12-29T09:59:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
