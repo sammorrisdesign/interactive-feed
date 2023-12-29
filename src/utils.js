@@ -28,7 +28,17 @@ module.exports = {
 
   getTimeStamp: (timeStamp, format) => {
     if (timeStamp) {
-      const date = dayjs(timeStamp, format);
+      // clean up timestamps if needed
+      const monthAbbreivations = ["Jan.", "Feb.", "Aug.", "Sept.", "Oct.", "Nov.", "Dec."];
+      if (timeStamp.includes('Sept.')) {
+        timeStamp = timeStamp.replace('Sept.', 'September');
+      }
+
+      if (monthAbbreivations.some(abbr => timeStamp.includes(abbr))) {
+        timeStamp = timeStamp.replace('.', '');
+      }
+
+      const date = dayjs(timeStamp, [...format]);
 
       if (date.isValid()) {
         return date.toISOString()
