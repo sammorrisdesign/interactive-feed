@@ -172,8 +172,10 @@
       "sources": [{
         "type": "Website",
         "path": "https://www.reuters.com/graphics/",
-        "selector": "article a",
-        "headline": "span"
+        "selector": ".article-block.articles article div:not(.hero-image) a",
+        "headline": "h2, h3",
+        "timestamp": "small",
+        "timestampFormat": ["MMM. D, YYYY", "MMM D, YYYY", "MMMM D, YYYY"]
       }]
     },
     {
