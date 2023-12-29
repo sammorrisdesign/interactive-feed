@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2023-12-28T11:36:30.621Z",
+  "lastUpdated": "2023-12-29T11:12:27.954Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/of-interest/interactive/2023/in-out-list-2024/",
+      "headline": "The List",
+      "timestamp": "2023-12-29T11:00:42.902Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2023/department-data-2023-quiz/",
+      "headline": "Take the Department of Data New Year’s Quiz",
+      "timestamp": "2023-12-29T11:00:36.645Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
