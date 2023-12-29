@@ -108,6 +108,9 @@
       "publication": "FiveThirtyEight",
       "twitterHandle": "FiveThirtyEight",
       "sources": [{
+        "type": "FiveThirtyEight"
+      },
+      {
         "type": "XML",
         "format": "RSS",
         "path": "https://fivethirtyeight.com/interactives/feed/"
