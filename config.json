@@ -230,6 +230,15 @@
             "url": "espn/feature/"
           }
         }
+      }, {
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.espn.com/googlenewssitemap",
+        "filters": {
+          "in": {
+            "url": "espn/feature/"
+          }
+        }
       }]
     },
     {
