@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-29T11:12:27.954Z",
+  "lastUpdated": "2023-12-29T14:12:42.025Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2023/david-ignatius-annual-quiz-2024-predictions/",
+      "headline": "What strange things does 2024 have in store? Take my quiz to find out.",
+      "timestamp": "2023-12-29T14:05:29.486Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
