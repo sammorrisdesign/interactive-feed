@@ -50,6 +50,15 @@
             "url": "/interactive"
           }
         }
+      }, {
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.cnn.com/sitemap/news.xml",
+        "filters": {
+          "in": {
+            "url": "/interactive"
+          }
+        }
       }]
     },
     {
