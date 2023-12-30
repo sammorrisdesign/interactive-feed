@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-29T10:37:05.421Z",
+  "lastUpdated": "2023-12-30T04:17:33.274Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/russia-launches-one-of-its-largest-attacks-yet-on-ukrainian-civilians-ae486f3d",
+      "headline": "Russian Strike on Ukraine Sent Warhead Through Polish Airspace, Warsaw Says",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
