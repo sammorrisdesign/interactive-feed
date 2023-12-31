@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-31T08:36:30.066Z",
+  "lastUpdated": "2023-12-31T21:11:57.698Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/media/the-year-in-graphics-f3aaf872",
+      "headline": "The Year in Graphics",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
