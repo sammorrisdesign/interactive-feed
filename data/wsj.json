@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-01T14:36:33.175Z",
+  "lastUpdated": "2024-01-01T23:36:55.448Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/asia/tsunami-warning-issued-in-japan-after-powerful-earthquake-f275bddc",
+      "headline": "Powerful Earthquake Hits Japan, Causing Tsunami and Killing Four",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
