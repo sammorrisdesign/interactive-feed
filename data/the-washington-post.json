@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-29T15:37:11.881Z",
+  "lastUpdated": "2024-01-01T11:36:10.823Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/fitness-test-by-age-exercise/",
+      "headline": "Are you fit for your age? Try our New Year’s tune-up to find out.",
+      "timestamp": "2024-01-01T11:00:38.692Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
