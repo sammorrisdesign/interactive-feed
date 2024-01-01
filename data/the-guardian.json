@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-01T09:14:49.438Z",
+  "lastUpdated": "2024-01-01T11:12:08.939Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2024/jan/01/is-it-time-to-reclaim-our-brains",
+      "headline": "Reclaim your brain: why it’s time to stop scrolling our lives away",
+      "timestamp": "2024-01-01T11:00:30.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
