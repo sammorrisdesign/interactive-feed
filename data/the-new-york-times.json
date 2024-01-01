@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-01T05:14:51.860Z",
+  "lastUpdated": "2024-01-01T14:13:17.510Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/01/world/asia/japan-earthquake-map.html",
+      "headline": "Map: Earthquake Strikes Japan",
+      "timestamp": "2024-01-01T14:08:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
