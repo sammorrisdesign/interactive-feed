@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2023-12-23T07:12:52.037Z",
+  "lastUpdated": "2024-01-01T09:14:49.438Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2024/jan/01/womens-transfer-window-january-2024-wsl-liga-f-serie-a-femminile-frauen-bundesliga-division-1-feminine",
+      "headline": "Women’s transfer window January 2024 – all deals from Europe’s top five leagues",
+      "timestamp": "2024-01-01T09:00:27.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2024/jan/01/mens-transfer-window-january-2024-premier-league-la-liga-serie-a-bundesliga-ligue-1",
+      "headline": "Men’s transfer window January 2024 – all deals from Europe’s top five leagues",
+      "timestamp": "2024-01-01T09:00:27.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
