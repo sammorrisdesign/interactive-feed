@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-28T01:01:52.050Z",
+  "lastUpdated": "2024-01-02T01:02:47.492Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-investment-outlooks/",
+      "headline": "Here’s (Almost) Everything Wall Street Expects in 2024",
+      "timestamp": "2024-01-02T00:00:11.877Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
