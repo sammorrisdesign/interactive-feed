@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-01-03T11:12:24.503Z",
+  "lastUpdated": "2024-01-03T12:26:56.928Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/siberia-melting-permafrost-climate-photos/",
+      "headline": "Siberia’s ice is melting, revealing its past and endangering its future",
+      "timestamp": "2024-01-03T12:00:14.008Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/global-heat-sea-surface-temperature-records/",
+      "headline": "Can you draw last year’s record heat? Try this game.",
+      "timestamp": "2024-01-03T12:00:12.312Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
