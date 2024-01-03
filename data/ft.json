@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-27T04:16:55.789Z",
+  "lastUpdated": "2024-01-03T16:17:35.963Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d77fff4d-a9c6-4224-89fc-b3b08d1d833b",
+      "headline": "Satellite mapping and AI expose widespread off-radar fishing",
+      "timestamp": "2024-01-03T16:00:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
