@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-02T13:36:30.248Z",
+  "lastUpdated": "2024-01-03T11:12:24.503Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/rock-climbing-gym-how-to/",
+      "headline": "How to start indoor rock climbing",
+      "timestamp": "2024-01-03T11:00:09.859Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
