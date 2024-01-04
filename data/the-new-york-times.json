@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-01-04T02:08:13.383Z",
+  "lastUpdated": "2024-01-04T10:15:50.372Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/04/upshot/nfl-playoff-picture-week-18.html",
+      "headline": "Week 18 N.F.L. Playoff Picture: Mapping the Paths That Remain for Each Team",
+      "timestamp": "2024-01-04T10:02:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/04/realestate/04hunt-quinn.html",
+      "headline": "A Single Dad Wanted a Manhattan Pad Fit for Two. Would His Budget Be Enough?",
+      "timestamp": "2024-01-04T10:02:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/04/travel/things-to-do-zurich.html",
+      "headline": "36 Hours in Zurich",
+      "timestamp": "2024-01-04T10:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
