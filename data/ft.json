@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-03T16:17:35.963Z",
+  "lastUpdated": "2024-01-05T15:14:51.367Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/408d30f6-f8fd-48bf-9007-a303e8d569de",
+      "headline": "When the Great Lakes fail to freeze over, climate alarm bells ring",
+      "timestamp": "2024-01-05T14:51:45.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
