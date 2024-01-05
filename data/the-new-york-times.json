@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-04T23:15:10.787Z",
+  "lastUpdated": "2024-01-05T19:36:10.452Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/05/world/05wea-quake-tracker-southern-california.html",
+      "headline": "Map: 4.2-Magnitude Earthquake Strikes Southern California",
+      "timestamp": "2024-01-05T19:35:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
