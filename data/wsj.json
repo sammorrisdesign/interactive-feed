@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-01-04T11:12:38.509Z",
+  "lastUpdated": "2024-01-05T06:37:47.847Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/asia/japan-airport-collision-probe-asks-why-was-plane-on-the-runway-359402c3",
+      "headline": "Japan Airport Collision Probe Asks: Why Was Coast Guard Plane on the Runway?",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/airlines/japan-flight-airline-safety-standards-9b4eda27",
+      "headline": "18 Minutes to Evacuate a Burning Plane: Success Story or Cautionary Tale?",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
