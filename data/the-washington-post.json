@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-03T16:17:35.939Z",
+  "lastUpdated": "2024-01-05T11:15:01.169Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/are-you-rich-american-wealth-net-worth/",
+      "headline": "Are you rich?",
+      "timestamp": "2024-01-05T11:00:45.737Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
