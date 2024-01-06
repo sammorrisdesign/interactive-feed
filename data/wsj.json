@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-01-05T06:37:47.847Z",
+  "lastUpdated": "2024-01-06T05:36:33.495Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/russia/heres-how-the-russian-and-ukrainian-war-efforts-compare-in-10-charts-1cf9a74f",
+      "headline": "Here’s How the Russian and Ukrainian War Efforts Compare, in 10 Charts",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/china-doesnt-want-you-to-say-tibet-anymore-dd41cbb9",
+      "headline": "China Doesn’t Want You to Say ‘Tibet’ Anymore",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
