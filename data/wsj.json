@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-06T05:36:33.495Z",
+  "lastUpdated": "2024-01-07T02:44:25.124Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/us-news/homicide-rates-fell-sharply-in-2023-after-rising-during-pandemic-4f84207f",
+      "headline": "Homicide Rates Fell Sharply in 2023 After Pandemic-Era Rise",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
