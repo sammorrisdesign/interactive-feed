@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-05T15:14:51.367Z",
+  "lastUpdated": "2024-01-07T11:12:02.766Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6097e183-d3b4-45dd-8de8-9a91556cd3b1",
+      "headline": "Britain turns to floating turbines to tap into ‘remarkable’ wind speeds ",
+      "timestamp": "2024-01-03T04:00:27.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
