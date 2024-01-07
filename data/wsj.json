@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-07T08:36:37.280Z",
+  "lastUpdated": "2024-01-07T14:36:11.171Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/national-security/pentagons-ukraine-coffers-run-dry-threatening-kyivs-grip-on-its-territory-5862a95f",
+      "headline": "Pentagon’s Ukraine Coffers Run Dry, Threatening Kyiv’s Grip on Its Territory",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
