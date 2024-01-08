@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-07T14:36:11.171Z",
+  "lastUpdated": "2024-01-08T13:36:38.179Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/media/the-cable-company-that-wants-to-take-the-pain-out-of-streaming-98562533",
+      "headline": "The Cable Company That Wants to Take the Pain Out of Streaming",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
