@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-05T11:15:01.169Z",
+  "lastUpdated": "2024-01-08T11:12:36.813Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/chatgpt-college-essay-ai-harvard-admission/",
+      "headline": "Can ChatGPT get into Harvard? We tested its admissions essay.",
+      "timestamp": "2024-01-08T11:00:15.547Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
