@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-07T11:12:02.766Z",
+  "lastUpdated": "2024-01-09T03:36:41.569Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/8299d318-7c35-49a0-9a9a-b8e5abeba7be",
+      "headline": "In charts: how India has changed under Narendra Modi",
+      "timestamp": "2024-01-09T01:30:18.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
