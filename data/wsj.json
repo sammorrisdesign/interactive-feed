@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-09T07:15:55.070Z",
+  "lastUpdated": "2024-01-09T21:36:33.035Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/policy/how-often-do-winners-in-iowa-and-new-hampshire-win-the-nomination-a51b0daa",
+      "headline": "How Often Do Winners in Iowa and New Hampshire Win the Nomination?",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
