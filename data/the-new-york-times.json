@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-08T23:15:03.588Z",
+  "lastUpdated": "2024-01-09T01:05:36.643Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/travel/places-to-travel-destinations-2024.html",
+      "headline": "52 Places 2024",
+      "timestamp": "2024-01-09T00:12:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
