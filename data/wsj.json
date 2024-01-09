@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2024-01-08T13:36:38.179Z",
+  "lastUpdated": "2024-01-09T07:15:55.070Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/for-fleeing-palestinians-gaza-has-shrunkby-two-thirds-96bc10ae",
+      "headline": "For Fleeing Palestinians, Gaza Has Shrunk—by Two-Thirds",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/lifestyle/careers/the-workers-getting-big-and-small-raises-in-2024-c124dd1f",
+      "headline": "The Workers Getting Big and Small Raises in 2024",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/business/airlines/faa-approves-inspection-method-for-grounded-boeing-737-max-9-jets-c06c3234",
+      "headline": "United, Alaska Find Loose Parts on Some Boeing 737 MAX 9 Jets",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
