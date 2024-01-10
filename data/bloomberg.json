@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-10T16:19:13.596Z",
+  "lastUpdated": "2024-01-10T23:14:17.486Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-global-election-watch-on-economic-market-issues/",
+      "headline": "What’s at Risk as Half of the World’s GDP Heads Into an Election Year",
+      "timestamp": "2024-01-10T23:00:13.650Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
