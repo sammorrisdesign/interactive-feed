@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-09T03:36:41.569Z",
+  "lastUpdated": "2024-01-10T01:05:42.894Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/fafaf4cc-4f93-46fd-ab94-2f90165cef9f",
+      "headline": "Climate records tumbled ‘like dominoes’ during world’s hottest year",
+      "timestamp": "2024-01-09T16:00:43.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
