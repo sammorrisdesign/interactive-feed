@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-08T11:12:36.813Z",
+  "lastUpdated": "2024-01-10T10:15:48.451Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/are-you-building-wealth-or-debt-quiz/",
+      "headline": "Not rich? Take this quiz to see how to build your wealth.",
+      "timestamp": "2024-01-10T10:00:23.724Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
