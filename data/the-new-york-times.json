@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-01-10T20:15:50.429Z",
+  "lastUpdated": "2024-01-11T10:16:01.922Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/11/opinion/republican-debate-iowa-winners-losers.html",
+      "headline": "And Then There Were Two: ‘So Yappy, So Nyah-Nyah-Nyah, So Smarmy’",
+      "timestamp": "2024-01-11T10:01:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/11/realestate/11hunt-heidorn.html",
+      "headline": "After Years in Washington, a Couple Found More Value in Baltimore. What Could They Afford?",
+      "timestamp": "2024-01-11T10:01:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
