@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-11T18:18:43.433Z",
+  "lastUpdated": "2024-01-12T16:40:46.511Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/mapping-our-fast-warming-world/",
+      "headline": "Where the world warmed the most in Earth’s hottest year",
+      "timestamp": "2024-01-12T16:30:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
