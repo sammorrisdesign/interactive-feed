@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-13T09:36:24.002Z",
+  "lastUpdated": "2024-01-13T17:12:23.789Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/economy/how-iowas-economy-is-faring-heading-into-the-caucuses-in-seven-charts-cef930ab",
+      "headline": "How Iowa’s Economy Is Faring Heading Into the Caucuses, in Seven Charts",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
