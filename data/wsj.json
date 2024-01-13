@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2024-01-10T13:36:33.348Z",
+  "lastUpdated": "2024-01-13T09:36:24.002Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/where-trumps-republican-challengers-can-rally-potential-support-in-iowa-3527a538",
+      "headline": "Where Trump’s Republican Challengers Can Rally Potential Support in Iowa",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/americas/argentinas-inflation-surges-after-new-president-cuts-subsidies-d8d304e2",
+      "headline": "Argentina’s Inflation Surges After New President Cuts Subsidies",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/policy/6-trillion-in-taxes-are-at-stake-in-this-years-elections-ee4353ed",
+      "headline": "$6 Trillion in Taxes Are at Stake in This Year’s Elections",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/uk/isles-of-scilly-worlds-smallest-soccer-league-8475aabd",
+      "headline": "The World’s Smallest Soccer League Still Can’t Find Enough Players",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
