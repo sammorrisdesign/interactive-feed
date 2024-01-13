@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-12T10:16:06.547Z",
+  "lastUpdated": "2024-01-13T01:05:01.250Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-taiwan-election/",
+      "headline": "Taiwan 2024 Election Results",
+      "timestamp": "2024-01-13T00:00:11.717Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
