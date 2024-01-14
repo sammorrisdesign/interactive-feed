@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-13T17:12:23.789Z",
+  "lastUpdated": "2024-01-14T10:36:24.652Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/drones-are-changing-the-way-wars-are-fought-b6cb4c46",
+      "headline": "Drones Are Changing How Wars Are Fought",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
