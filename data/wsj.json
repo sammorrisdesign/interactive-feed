@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-14T10:36:24.652Z",
+  "lastUpdated": "2024-01-14T17:36:17.872Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/after-100-days-israel-hamas-war-threatens-to-spill-beyond-gaza-disrupt-global-trade-2d36ab09",
+      "headline": "After 100 Days, Israel’s War With Hamas Threatens to Spill Beyond Gaza",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
