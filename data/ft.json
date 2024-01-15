@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-10T01:05:42.894Z",
+  "lastUpdated": "2024-01-15T01:08:04.079Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1d1eb1dd-4fa0-4693-9512-23a219de5d77",
+      "headline": "Missiles from Iran and North Korea boost Russia’s onslaught on Ukraine",
+      "timestamp": "2024-01-14T05:00:02.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
