@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-01-14T17:36:17.872Z",
+  "lastUpdated": "2024-01-15T17:13:54.519Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/palestinian-attack-in-central-israel-kills-one-woman-injures-16-israeli-police-say-c39f4e10",
+      "headline": "Palestinian Attack in Central Israel Kills One Woman, Injures 16, Police Say",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/world/middle-east/armed-uniformed-men-divert-oil-tanker-to-iranian-waters-d843f9a3",
+      "headline": "Iran Seizes Oil Tanker Linked to U.S. Sanctions Dispute",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
