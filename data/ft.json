@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-15T01:08:04.079Z",
+  "lastUpdated": "2024-01-15T12:54:05.154Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/0f73a2ac-f6e4-4dc2-9732-e38a7e53752f",
+      "headline": "Davos snowfall belies climate change toll further down the mountain",
+      "timestamp": "2024-01-15T12:25:22.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
