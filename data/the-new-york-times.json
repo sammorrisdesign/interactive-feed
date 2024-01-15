@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-14T10:14:27.217Z",
+  "lastUpdated": "2024-01-15T18:37:21.266Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/15/us/elections/results-iowa-caucus.html",
+      "headline": "Iowa Caucus Results",
+      "timestamp": "2024-01-15T18:18:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
