@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-16T07:13:54.610Z",
+  "lastUpdated": "2024-01-16T12:28:13.857Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2023/dec/23/heat-pumps-science-visualised",
+      "headline": "A fridge but in reverse? The fascinating science of heat pumps – visualised",
+      "timestamp": "2023-12-23T12:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
