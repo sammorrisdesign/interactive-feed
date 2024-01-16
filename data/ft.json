@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-15T12:54:05.154Z",
+  "lastUpdated": "2024-01-16T17:13:34.164Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/fd15e541-8a60-4129-9ca7-cc04d2b69333",
+      "headline": "Goldman Sachs’ adventures in time and space",
+      "timestamp": "2024-01-16T16:51:30.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
