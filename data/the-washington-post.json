@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-01-14T12:25:36.981Z",
+  "lastUpdated": "2024-01-16T10:16:07.661Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/women-business-history-quiz/",
+      "headline": "How much do you know about these women who made financial history?",
+      "timestamp": "2024-01-16T10:00:47.139Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/women-money-economy-finance-investing/",
+      "headline": "The Big Shift",
+      "timestamp": "2024-01-16T10:00:15.152Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
