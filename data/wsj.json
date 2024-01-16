@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-01-15T17:13:54.519Z",
+  "lastUpdated": "2024-01-16T06:38:28.957Z",
   "articles": [
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/politics/elections/iowa-caucus-voters-candidates-results-62448104",
+      "headline": "2024 Iowa Caucuses: How Different Groups Voted",
+      "timestamp": null
+    },
+    {
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "mastodonHandle": "wsj@mstdn.social",
+      "url": "https://www.wsj.com/health/pharma/medicare-part-d-plan-drug-cost-savings-69c3db3c",
+      "headline": "Medicare Patients on Pricey Drugs Are Saving Big This Year",
+      "timestamp": null
+    },
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
