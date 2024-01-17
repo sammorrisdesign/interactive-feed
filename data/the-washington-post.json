@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-17T12:28:12.693Z",
+  "lastUpdated": "2024-01-17T13:18:07.074Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/ai-image-generation-art-innovation-issue/",
+      "headline": "AI is outrageous — and wonderful. It’s also prompting a new art form.",
+      "timestamp": "2024-01-17T13:00:47.139Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
