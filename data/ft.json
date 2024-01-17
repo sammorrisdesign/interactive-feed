@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-16T17:13:34.164Z",
+  "lastUpdated": "2024-01-17T19:12:13.842Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/187e4183-8e7c-44f3-88c0-444aa0594791",
+      "headline": "China is not alone in having unreliable growth data",
+      "timestamp": "2024-01-17T18:43:37.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
