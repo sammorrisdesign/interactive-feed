@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-01-17T20:36:56.614Z",
+  "lastUpdated": "2024-01-18T10:16:26.664Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/18/world/middleeast/gaza-displaced-tent-camps-rafah.html",
+      "headline": "See the Rapid Expansion of Tent Camps in Southern Gaza",
+      "timestamp": "2024-01-18T10:01:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/18/realestate/18hunt-rowen.html",
+      "headline": "After Raising a Family in the West Village, She Began Again in Her Own Place",
+      "timestamp": "2024-01-18T10:01:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/18/opinion/trump-cabinet-election-2024.html",
+      "headline": "What 17 of Trump’s ‘Best People’ Said About Him",
+      "timestamp": "2024-01-18T10:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/18/travel/things-to-do-breckenridge.html",
+      "headline": "36 Hours in Breckenridge, Colo.",
+      "timestamp": "2024-01-18T10:00:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
