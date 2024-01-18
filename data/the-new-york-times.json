@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-18T10:16:26.664Z",
+  "lastUpdated": "2024-01-18T21:13:11.385Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/18/us/doj-uvalde-shooting-report.html",
+      "headline": "Read the Justice Department Report on the Uvalde School Shooting Response",
+      "timestamp": "2024-01-18T20:59:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
