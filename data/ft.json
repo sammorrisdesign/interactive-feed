@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-18T05:14:25.144Z",
+  "lastUpdated": "2024-01-18T18:18:34.205Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c7b4fa91-3601-4b82-b766-319af3c261a5",
+      "headline": "UK general election poll tracker",
+      "timestamp": "2024-01-18T17:35:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
