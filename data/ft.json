@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-17T19:12:13.842Z",
+  "lastUpdated": "2024-01-18T05:14:25.144Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/ai-animals/",
+      "headline": "How AI is decoding the animal kingdom",
+      "timestamp": "2024-01-18T05:00:58.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
