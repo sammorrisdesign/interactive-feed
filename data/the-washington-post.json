@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-19T12:27:38.496Z",
+  "lastUpdated": "2024-01-20T01:04:50.834Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/weather/interactive/2024/snowfall-total-cities-photo-quiz/",
+      "headline": "Quiz: Can you guess from these photos how much snow fell across the U.S.?",
+      "timestamp": "2024-01-20T00:05:04.841Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
