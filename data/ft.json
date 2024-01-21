@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-18T18:18:34.205Z",
+  "lastUpdated": "2024-01-21T06:18:53.913Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/937dabc4-9f4a-4a55-b91f-fcf2d43dd5a3",
+      "headline": "Jobs of the future ",
+      "timestamp": "2024-01-21T06:00:18.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
