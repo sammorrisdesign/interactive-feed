@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-21T06:18:53.913Z",
+  "lastUpdated": "2024-01-21T13:16:55.633Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e508268c-57b0-4680-83d2-b9a105a31a66",
+      "headline": "US launches fresh strikes on Houthis as Red Sea trade disruption spreads",
+      "timestamp": "2024-01-16T19:24:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
