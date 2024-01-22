@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-22T10:16:32.426Z",
+  "lastUpdated": "2024-01-22T15:36:56.424Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/22/books/review/best-sellers-title-search.html",
+      "headline": "Can You Find the 14 Best Sellers Hidden in This Text Puzzle?",
+      "timestamp": "2024-01-22T15:30:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
