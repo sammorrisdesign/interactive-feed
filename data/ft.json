@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-21T13:16:55.633Z",
+  "lastUpdated": "2024-01-22T02:19:50.613Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ad850ad2-6752-4ca7-99f6-4b947d0b741e",
+      "headline": "Japan turns to avatars, robots and AI to tackle labour crisis",
+      "timestamp": "2024-01-22T01:03:03.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
