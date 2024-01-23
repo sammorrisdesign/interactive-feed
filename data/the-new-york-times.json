@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-22T19:12:03.202Z",
+  "lastUpdated": "2024-01-23T02:12:20.843Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/22/dining/restaurant-menu-trends.html",
+      "headline": "The Menu Trends That Define Dining Right Now",
+      "timestamp": "2024-01-23T01:54:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
