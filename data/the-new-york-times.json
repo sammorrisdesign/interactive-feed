@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-01-23T10:15:59.286Z",
+  "lastUpdated": "2024-01-23T19:12:03.701Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/23/us/elections/results-bridgeport-mayor-primary.html",
+      "headline": "Bridgeport Mayoral Democratic Primary Election Results",
+      "timestamp": "2024-01-23T18:48:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/23/us/elections/results-new-hampshire-democratic-primary.html",
+      "headline": "New Hampshire Democratic Primary Election Results",
+      "timestamp": "2024-01-23T18:48:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/23/us/elections/results-new-hampshire-republican-primary.html",
+      "headline": "New Hampshire Republican Primary Election Results",
+      "timestamp": "2024-01-23T18:47:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
