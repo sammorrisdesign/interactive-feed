@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-22T02:19:50.613Z",
+  "lastUpdated": "2024-01-24T17:13:49.019Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d3aa4444-0362-4afb-9228-df5e6dd41d8d",
+      "headline": "Climate change was big driver of historic Amazonian drought, study finds",
+      "timestamp": "2024-01-24T17:00:27.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
