@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-01-24T23:36:57.871Z",
+  "lastUpdated": "2024-01-25T10:15:54.125Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/25/realestate/25hunt-simons.html",
+      "headline": "A Young Family Who ‘Could Move Anywhere’ Chose Denver. But What Could They Afford There?",
+      "timestamp": "2024-01-25T10:01:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-openai-microsoft-midjourney-copyright.html",
+      "headline": "We Asked A.I. to Create the Joker. It Generated a Copyrighted Image.",
+      "timestamp": "2024-01-25T10:01:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/25/travel/things-to-do-grenada.html",
+      "headline": "36 Hours on Grenada",
+      "timestamp": "2024-01-25T10:00:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
