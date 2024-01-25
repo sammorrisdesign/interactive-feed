@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-24T17:13:49.019Z",
+  "lastUpdated": "2024-01-25T01:07:07.280Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ec5f680d-01e8-4170-914b-28c0e08b3aee",
+      "headline": "Trump’s big New Hampshire win hides White House electability issues",
+      "timestamp": "2024-01-24T23:03:15.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
