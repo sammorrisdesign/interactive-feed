@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-25T16:19:51.559Z",
+  "lastUpdated": "2024-01-26T11:11:33.159Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/hong-kong-china-integration-development/",
+      "headline": "China is absorbing Hong Kong, as geography follows politics",
+      "timestamp": "2024-01-26T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
