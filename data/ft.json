@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-26T05:13:07.519Z",
+  "lastUpdated": "2024-01-26T18:36:50.173Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/fa20c7a0-2cd2-4abf-a189-ba530c931de7",
+      "headline": "Atmospheric rivers set to hit US west coast",
+      "timestamp": "2024-01-26T18:23:05.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
