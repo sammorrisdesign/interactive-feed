@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-25T01:07:07.280Z",
+  "lastUpdated": "2024-01-26T05:13:07.519Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b395ba69-f3f1-48e4-a896-64e95d52b8d2",
+      "headline": "Britain’s infrastructure impasse",
+      "timestamp": "2024-01-26T05:01:38.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
