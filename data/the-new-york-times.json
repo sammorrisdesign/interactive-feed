@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-28T10:14:16.108Z",
+  "lastUpdated": "2024-01-29T10:15:05.567Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/29/opinion/destruction-of-homes-crime-domicide.html",
+      "headline": "Domicide: The Mass Destruction of Homes Should Be a Crime Against Humanity",
+      "timestamp": "2024-01-29T10:01:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
