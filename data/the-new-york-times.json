@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-01-29T10:15:05.567Z",
+  "lastUpdated": "2024-01-29T15:13:58.437Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/01/29/books/review/short-story-movies-quiz.html",
+      "headline": "Do You Know These Short Stories That Became Major Films?",
+      "timestamp": "2024-01-29T15:00:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
