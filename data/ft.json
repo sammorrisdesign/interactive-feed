@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-26T18:36:50.173Z",
+  "lastUpdated": "2024-01-30T05:14:02.395Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e5be1cac-3901-4066-a036-f78546b55eaf",
+      "headline": "The Turkish terminal helping disguised Russian oil reach Europe ",
+      "timestamp": "2024-01-30T05:00:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
