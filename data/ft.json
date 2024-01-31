@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-30T05:14:02.395Z",
+  "lastUpdated": "2024-01-31T06:17:59.991Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/supermarket-salmon/",
+      "headline": "The hidden cost of your supermarket salmon",
+      "timestamp": "2024-01-31T05:00:10.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
