@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-30T13:15:33.322Z",
+  "lastUpdated": "2024-01-31T11:36:18.148Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/nfl-concussion-settlement/",
+      "headline": "The broken promises of the NFL concussion settlement",
+      "timestamp": "2024-01-31T11:30:06.098Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
