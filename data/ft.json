@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-31T06:17:59.991Z",
+  "lastUpdated": "2024-01-31T21:13:38.879Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a54a8de2-0319-4dc0-863b-66b94c5a78f7",
+      "headline": "What the $55bn Tesla pay deal setback means for Elon Musk and his empire",
+      "timestamp": "2024-01-31T20:37:01.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
