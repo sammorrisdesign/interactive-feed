@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-12-03T12:49:20.540Z",
+  "lastUpdated": "2024-01-31T15:13:51.683Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/aircraft-laser-strike-record-high-2023-rcna135918",
+      "headline": "Aircraft laser strikes surge to record high in 2023",
+      "timestamp": "2024-01-31T14:55:40.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
