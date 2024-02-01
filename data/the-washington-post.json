@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-01T16:17:31.199Z",
+  "lastUpdated": "2024-02-01T21:12:11.006Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/us-economy-quiz/",
+      "headline": "Mad at Biden over the economy? Take our quiz.",
+      "timestamp": "2024-02-01T20:40:20.618Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
