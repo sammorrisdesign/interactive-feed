@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-31T13:15:20.488Z",
+  "lastUpdated": "2024-02-01T12:25:20.175Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/carbon-dioxide-emissions-source-earth/",
+      "headline": "Watch how carbon dioxide builds up in the atmosphere, day by day",
+      "timestamp": "2024-02-01T12:00:58.622Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
