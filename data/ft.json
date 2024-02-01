@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-31T21:13:38.879Z",
+  "lastUpdated": "2024-02-01T11:11:54.778Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6d371375-b7be-4228-a3d5-2ad74f91454a",
+      "headline": "The struggle to meet rising demand for nuclear power",
+      "timestamp": "2024-02-01T11:00:51.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
