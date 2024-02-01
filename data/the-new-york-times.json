@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-02-01T05:14:28.304Z",
+  "lastUpdated": "2024-02-01T10:15:18.208Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/01/realestate/01hunt-sigloch.html",
+      "headline": "Searching Astoria’s New Condo Developments: Could He Afford a One-Bedroom?",
+      "timestamp": "2024-02-01T10:03:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/01/upshot/learning-loss-school-districts.html",
+      "headline": "See How Your School District Is Recovering From the Pandemic",
+      "timestamp": "2024-02-01T10:02:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/01/travel/things-to-do-turin.html",
+      "headline": "36 Hours in Turin, Italy",
+      "timestamp": "2024-02-01T10:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
