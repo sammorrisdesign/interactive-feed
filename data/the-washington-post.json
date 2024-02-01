@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-01T12:25:20.175Z",
+  "lastUpdated": "2024-02-01T14:13:08.427Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/how-much-is-child-tax-credit/",
+      "headline": "Calculate how much you would get from the expanded child tax credit",
+      "timestamp": "2024-02-01T14:12:19.609Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
