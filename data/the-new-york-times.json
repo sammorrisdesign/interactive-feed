@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-02-01T10:15:18.208Z",
+  "lastUpdated": "2024-02-01T15:36:29.487Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/01/magazine/israel-founding-palestinian-conflict.html",
+      "headline": "The Road to 1948, and the Roots of a Perpetual Conflict",
+      "timestamp": "2024-02-01T15:20:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
