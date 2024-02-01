@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2023-12-21T10:15:34.532Z",
+  "lastUpdated": "2024-02-01T10:36:33.288Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/stillbirth-memorial/",
+      "headline": "A Memorial for the Children Lost to Stillbirth",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
