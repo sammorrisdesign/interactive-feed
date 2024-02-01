@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-01-30T05:14:02.397Z",
+  "lastUpdated": "2024-02-01T01:04:39.543Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-uk-wind-farms-overstate-output/",
+      "headline": "Wind Farms Are Overstating Their Output &mdash; And Consumers Are Paying For It",
+      "timestamp": "2024-02-01T00:00:17.650Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
