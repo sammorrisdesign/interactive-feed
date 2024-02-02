@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-01T11:11:54.778Z",
+  "lastUpdated": "2024-02-02T17:13:39.546Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d3b36d80-ebfb-4dc7-95c2-85034cd156c4",
+      "headline": "BofA’s elephant in the room",
+      "timestamp": "2024-02-02T16:41:15.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
