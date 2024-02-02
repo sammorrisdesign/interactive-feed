@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-02-01T15:36:29.487Z",
+  "lastUpdated": "2024-02-02T21:37:27.038Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/02/us/fani-willis-response.html",
+      "headline": "Read the Filing From Fani Willis",
+      "timestamp": "2024-02-02T21:12:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
