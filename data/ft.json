@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-02T17:13:39.546Z",
+  "lastUpdated": "2024-02-03T10:13:02.185Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/2d3e6f53-3829-431f-930f-41c14605e685",
+      "headline": "Climate graphic of the week: Swaths of South America struggle with fires",
+      "timestamp": "2024-02-03T10:00:15.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
