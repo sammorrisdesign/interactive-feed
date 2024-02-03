@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-02-03T10:13:02.172Z",
+  "lastUpdated": "2024-02-03T18:16:46.642Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/03/us/elections/results-south-carolina-democratic-primary.html",
+      "headline": "South Carolina Democratic Primary Results",
+      "timestamp": "2024-02-03T18:09:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
