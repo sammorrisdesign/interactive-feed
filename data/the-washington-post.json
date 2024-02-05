@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-01T21:12:11.006Z",
+  "lastUpdated": "2024-02-05T06:18:16.465Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/ukraine-dnipro-dnipier-river/",
+      "headline": "A year along the vital river that flows through Ukraine’s heart",
+      "timestamp": "2024-02-05T06:00:00.711Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
