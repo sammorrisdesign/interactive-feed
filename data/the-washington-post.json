@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-05T06:18:16.465Z",
+  "lastUpdated": "2024-02-05T15:13:58.459Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2024/speed-puzzling-competitions/",
+      "headline": "For top jigsaw puzzlers, 500 pieces in an hour is no problem",
+      "timestamp": "2024-02-05T15:00:29.212Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
