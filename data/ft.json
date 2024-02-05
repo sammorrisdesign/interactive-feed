@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-04T07:14:21.944Z",
+  "lastUpdated": "2024-02-05T01:03:00.189Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c178324b-ee20-4256-9f6c-6c605f0d5b44",
+      "headline": "Why central banks are reluctant to declare victory over inflation ",
+      "timestamp": "2024-02-04T05:00:51.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",

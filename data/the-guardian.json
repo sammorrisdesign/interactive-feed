@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-01-31T10:14:18.221Z",
+  "lastUpdated": "2024-02-05T01:03:00.182Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/jan/30/mapped-gaza-war-violence-spreading-middle-east",
+      "headline": "Mapped: how Gaza war led to violence spreading around the Middle East ",
+      "timestamp": "2024-01-30T14:56:17.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
