@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-02-06T19:11:48.827Z",
+  "lastUpdated": "2024-02-06T19:36:31.324Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/06/us/elections/results-nevada-republican-primary.html",
+      "headline": "Nevada Republican Primary Election Results",
+      "timestamp": "2024-02-06T19:27:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/06/us/elections/results-nevada-democratic-primary.html",
+      "headline": "Nevada Democratic Primary Election Results",
+      "timestamp": "2024-02-06T19:27:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/06/us/politics/mayorkas-impeachment-articles-annotated.html",
+      "headline": "Read the Articles of Impeachment Against Alejandro N. Mayorkas",
+      "timestamp": "2024-02-06T19:12:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
