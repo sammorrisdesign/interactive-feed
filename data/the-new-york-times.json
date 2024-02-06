@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-02-06T18:15:37.277Z",
+  "lastUpdated": "2024-02-06T19:11:48.827Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/06/world/europe/king-charles-royal-family-succession.html",
+      "headline": "The Royal Line of Succession",
+      "timestamp": "2024-02-06T19:02:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
