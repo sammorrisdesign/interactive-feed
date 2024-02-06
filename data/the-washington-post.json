@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-05T15:13:58.459Z",
+  "lastUpdated": "2024-02-06T11:12:09.180Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/14th-amendment-trump-ballot/",
+      "headline": "What the 14th Amendment says about whether Trump can be on the ballot",
+      "timestamp": "2024-02-06T11:00:39.638Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
