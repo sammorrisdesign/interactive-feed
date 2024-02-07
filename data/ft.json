@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-05T01:03:00.189Z",
+  "lastUpdated": "2024-02-07T05:13:41.493Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/mariupol/",
+      "headline": "Inside Mariupol: Russia’s new Potemkin village",
+      "timestamp": "2024-02-07T05:00:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
