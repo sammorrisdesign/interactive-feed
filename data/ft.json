@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-07T05:13:41.493Z",
+  "lastUpdated": "2024-02-08T03:37:36.771Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/8927424e-2828-4414-86b7-f3a991214288",
+      "headline": "Critical 1.5C threshold breached over 12-month period for first time",
+      "timestamp": "2024-02-08T03:15:48.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
