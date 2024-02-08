@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-02-08T20:13:54.633Z",
+  "lastUpdated": "2024-02-08T21:37:17.875Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/08/us/Garland-letter-congress-hur-report.html",
+      "headline": "Attorney General’s Letter to Congress on the Hur Report",
+      "timestamp": "2024-02-08T21:22:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/08/us/special-counsel-report-on-biden-and-classified-documents.html",
+      "headline": "Special Counsel’s Report on President Biden and Classified Documents",
+      "timestamp": "2024-02-08T21:12:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
