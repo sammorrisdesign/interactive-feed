@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-02-06T22:36:20.074Z",
+  "lastUpdated": "2024-02-08T10:14:13.902Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/08/realestate/madison-wisconsin-family-homes.html",
+      "headline": "A Young Family Took Their Chicago Budget to Madison, Wis. How Much House Could They Afford?",
+      "timestamp": "2024-02-08T10:04:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/trump-supreme-court-cases.html",
+      "headline": "What the Law Says in 3 Cases That Could Decide Trump’s Fate",
+      "timestamp": "2024-02-08T10:01:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/08/travel/things-to-do-marrakesh.html",
+      "headline": "36 Hours in Marrakesh, Morocco",
+      "timestamp": "2024-02-08T10:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
