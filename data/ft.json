@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-08T08:17:08.879Z",
+  "lastUpdated": "2024-02-08T14:12:26.406Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c88d1773-ec84-46a2-bb0f-fbaf8889e954",
+      "headline": "UK nuclear venture aims to realise fusion dream",
+      "timestamp": "2024-02-07T04:00:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
