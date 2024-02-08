@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-08T03:37:36.771Z",
+  "lastUpdated": "2024-02-08T08:17:08.879Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6265f18b-3fba-4110-9b9f-300638e48d4c",
+      "headline": "Visual analysis: Gazans’ last refuge becomes Israel’s next target ",
+      "timestamp": "2024-02-08T05:00:48.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
