@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-08T16:17:40.970Z",
+  "lastUpdated": "2024-02-09T11:12:55.601Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/super-bowl-party-expensive/",
+      "headline": "What makes Super Bowl parties so expensive — and where you can save",
+      "timestamp": "2024-02-09T11:00:08.993Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
