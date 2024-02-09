@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-02-09T11:12:55.601Z",
+  "lastUpdated": "2024-02-09T14:12:32.419Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/quiz-which-dog-breeds-live-longest-why/",
+      "headline": "Which dog breeds live the longest? Take our quiz",
+      "timestamp": "2024-02-09T14:00:10.888Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/israel-gaza-war-journalists-killed-cpj/",
+      "headline": "The journalists killed in Gaza — and what they tried to show the world",
+      "timestamp": "2024-02-09T14:00:02.006Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
