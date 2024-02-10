@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-10T11:10:46.725Z",
+  "lastUpdated": "2024-02-10T12:23:43.704Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/self-expansion-sustainable-love/",
+      "headline": "Do you have a sustainable relationship? Take our quiz to find out.",
+      "timestamp": "2024-02-10T12:00:04.020Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
