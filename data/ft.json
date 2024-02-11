@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-08T14:12:26.406Z",
+  "lastUpdated": "2024-02-11T18:16:48.466Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e5c01838-b17b-4fcd-852f-55701a8b4899",
+      "headline": "The MBA in charts: from GMAT scores to the top-rated classes",
+      "timestamp": "2024-02-11T18:00:36.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
