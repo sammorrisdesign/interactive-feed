@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-02-13T15:36:25.856Z",
+  "lastUpdated": "2024-02-13T19:36:25.032Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/13/us/elections/results-pennsylvania-state-house-district-140-special.html",
+      "headline": "Pennsylvania State House 140th District Special Election Results",
+      "timestamp": "2024-02-13T19:15:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/13/us/elections/results-new-york-us-house-3-special.html",
+      "headline": "New York 3rd Congressional District Special Election Results",
+      "timestamp": "2024-02-13T19:12:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
