@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-12T14:13:01.096Z",
+  "lastUpdated": "2024-02-13T11:14:09.572Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/tesla-full-self-driving-fatal-crash/",
+      "headline": "Tesla worker killed in fiery crash may be first ‘Full Self-Driving’ fatality",
+      "timestamp": "2024-02-13T10:55:41.209Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
