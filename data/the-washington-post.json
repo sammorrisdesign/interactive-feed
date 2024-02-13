@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-13T11:14:09.572Z",
+  "lastUpdated": "2024-02-13T14:36:27.726Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/ukraine-israel-aid-package-senate-vote/",
+      "headline": "How each senator voted on the Ukraine, Israel aid package",
+      "timestamp": "2024-02-13T14:30:20.893Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
