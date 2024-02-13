@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-13T23:13:59.436Z",
+  "lastUpdated": "2024-02-13T23:36:28.537Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/ai-chatbot-breakup-text-quiz/",
+      "headline": "Could you tell if an AI chatbot dumped you?",
+      "timestamp": "2024-02-13T23:15:39.466Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
