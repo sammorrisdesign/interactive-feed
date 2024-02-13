@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2023-10-25T20:14:32.753Z",
+  "lastUpdated": "2024-02-13T20:16:50.101Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2024/02/anthems",
+      "headline": "Quantifying the Diva-ness of 138 National Anthem Performances",
+      "timestamp": "2024-02-12T06:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
