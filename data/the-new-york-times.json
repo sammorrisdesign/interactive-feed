@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-02-14T01:01:23.657Z",
+  "lastUpdated": "2024-02-14T02:02:37.717Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/13/climate/flooding-sea-levels-groundwater.html",
+      "headline": "The East Coast Is Sinking",
+      "timestamp": "2024-02-14T02:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
