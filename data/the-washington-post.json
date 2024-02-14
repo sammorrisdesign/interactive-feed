@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-13T23:36:28.537Z",
+  "lastUpdated": "2024-02-14T11:13:09.346Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/can-we-save-nature-with-crazy-shapes/",
+      "headline": "Can we save nature with crazy shapes?",
+      "timestamp": "2024-02-14T11:00:21.554Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
