@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-01T10:15:18.220Z",
+  "lastUpdated": "2024-02-15T03:17:02.748Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-japan-nikkei-index-tracker/",
+      "headline": "Japan’s Nikkei Index Is Within a Whisker of its 1989 Peak",
+      "timestamp": "2024-02-15T03:09:32.673Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
