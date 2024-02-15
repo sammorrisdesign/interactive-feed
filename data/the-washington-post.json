@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-14T11:13:09.346Z",
+  "lastUpdated": "2024-02-15T12:24:55.082Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/boxing-gyms-how-to/",
+      "headline": "How to start boxing",
+      "timestamp": "2024-02-15T12:00:17.222Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
