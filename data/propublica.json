@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-01T10:36:33.288Z",
+  "lastUpdated": "2024-02-15T10:15:19.564Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/the-year-after-a-denied-abortion/",
+      "headline": "The Year After a Denied Abortion",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
