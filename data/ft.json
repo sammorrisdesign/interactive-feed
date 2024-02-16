@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-11T18:16:48.466Z",
+  "lastUpdated": "2024-02-16T05:13:52.225Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b3738a2e-7094-4c92-93cc-f2fa340375be",
+      "headline": "Progressives beware: high turnout now favours the right",
+      "timestamp": "2024-02-16T05:00:01.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
