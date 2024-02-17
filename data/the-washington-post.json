@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-15T12:24:55.082Z",
+  "lastUpdated": "2024-02-17T11:10:37.345Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/brazil-amazon-catholic-evangelical-protestant/",
+      "headline": "The judgment of São Miguel",
+      "timestamp": "2024-02-17T11:05:53.375Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
