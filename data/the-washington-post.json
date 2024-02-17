@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-17T11:10:37.345Z",
+  "lastUpdated": "2024-02-17T11:36:27.373Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/farmworker-heat-safety-fair-food-program/",
+      "headline": "These farmworkers created America’s strongest workplace heat rules",
+      "timestamp": "2024-02-17T11:30:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
