@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-17T11:36:27.373Z",
+  "lastUpdated": "2024-02-19T13:15:33.506Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/gapminder-quiz-immigration-america/",
+      "headline": "Worried about migrants overwhelming the U.S.? Take our quiz.",
+      "timestamp": "2024-02-19T13:00:38.939Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
