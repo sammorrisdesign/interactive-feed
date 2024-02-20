@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-02-20T15:36:39.764Z",
+  "lastUpdated": "2024-02-20T22:36:35.251Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/20/us/miller-kc-charging-docs.html",
+      "headline": "Read the Charging Documents Against Dominic Miller",
+      "timestamp": "2024-02-20T22:16:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/20/us/mays-kc-charging-docs.html",
+      "headline": "Read the Charging Documents Against Lyndell Mays",
+      "timestamp": "2024-02-20T22:16:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
