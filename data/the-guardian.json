@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-02-20T14:12:55.092Z",
+  "lastUpdated": "2024-02-20T14:36:30.626Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/food/ng-interactive/2024/feb/18/30-things-we-love-in-the-world-of-food-2024",
+      "headline": "30 things we love in the world of food, 2024",
+      "timestamp": "2024-02-18T11:00:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
