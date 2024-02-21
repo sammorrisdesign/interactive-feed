@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-16T05:13:52.225Z",
+  "lastUpdated": "2024-02-21T21:12:20.840Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/fbdf57c2-cce4-4c35-827a-1528899f5fb7",
+      "headline": "Pakistan’s economy in crisis — in charts",
+      "timestamp": "2024-02-21T21:00:23.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
