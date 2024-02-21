@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-19T13:15:33.506Z",
+  "lastUpdated": "2024-02-21T14:12:55.078Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/south-korea-women-career-childcare/",
+      "headline": "Career or kids: It’s a tough choice for these women",
+      "timestamp": "2024-02-21T14:00:50.789Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
