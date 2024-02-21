@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-19T01:01:53.358Z",
+  "lastUpdated": "2024-02-21T01:01:08.340Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-ev-battery-supply-chain-alternatives/",
+      "headline": "Biden’s EV Dreams Are a Nightmare for Tesla and the US Car Industry",
+      "timestamp": "2024-02-21T00:00:13.750Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
