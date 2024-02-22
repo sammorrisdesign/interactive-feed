@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-02-22T01:51:43.840Z",
+  "lastUpdated": "2024-02-22T10:14:37.292Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/22/realestate/22hunt-roberts.html",
+      "headline": "Their Hearts Were Set on a House in Hudson. Could They Afford the One They Wanted?",
+      "timestamp": "2024-02-22T10:04:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/22/travel/things-to-do-merida-mexico.html",
+      "headline": "36 Hours in Mérida, Mexico",
+      "timestamp": "2024-02-22T10:02:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
