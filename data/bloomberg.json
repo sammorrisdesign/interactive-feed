@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-21T01:01:08.340Z",
+  "lastUpdated": "2024-02-22T04:37:15.293Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-japan-nikkei-225-records-historic-high/",
+      "headline": "How Japan's Nikkei 225 Got Its Mojo Back",
+      "timestamp": "2024-02-22T04:25:32.682Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
