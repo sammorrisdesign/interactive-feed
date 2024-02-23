@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-21T21:12:20.840Z",
+  "lastUpdated": "2024-02-23T11:12:18.405Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d9acb360-9416-413b-a57b-9c6750e26e71",
+      "headline": "How Ukraine is trying to help its ‘lost generation’",
+      "timestamp": "2024-02-23T11:00:04.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
