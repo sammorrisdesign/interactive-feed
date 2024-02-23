@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-23T11:12:18.405Z",
+  "lastUpdated": "2024-02-23T13:15:23.796Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/bd3d01b3-32a7-45d0-b06b-42e8eef70cfb",
+      "headline": "Birth rate drops to new low in England and Wales",
+      "timestamp": "2024-02-23T12:39:23.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
