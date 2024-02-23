@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-23T17:12:16.635Z",
+  "lastUpdated": "2024-02-23T18:36:46.338Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/008a1341-1882-4b98-83d4-0d7dc08a4134",
+      "headline": "The troubling decline in the global fertility rate",
+      "timestamp": "2024-02-23T18:19:57.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
