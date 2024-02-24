@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-02-23T22:13:00.135Z",
+  "lastUpdated": "2024-02-24T05:12:55.445Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/24/world/europe/russia-war-calculus.html",
+      "headline": "Russia’s Brutal War Calculus",
+      "timestamp": "2024-02-24T05:05:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
