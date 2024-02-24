@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-23T18:36:46.338Z",
+  "lastUpdated": "2024-02-24T11:11:02.929Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/39656a7f-fcf8-4ceb-b162-041863dc7a55",
+      "headline": "Ukraine’s war of survival enters third year",
+      "timestamp": "2024-02-24T11:00:50.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
