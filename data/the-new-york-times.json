@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-02-24T18:16:34.416Z",
+  "lastUpdated": "2024-02-25T10:13:26.728Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/25/magazine/patric-gagne-interview.html",
+      "headline": "What It’s Like to Be a Sociopath",
+      "timestamp": "2024-02-25T10:04:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
