@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-25T05:13:18.228Z",
+  "lastUpdated": "2024-02-25T16:16:56.242Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b6d89def-aea4-4790-9ff5-cddf32f3b36c",
+      "headline": "Global house prices rebound as economists predict turning point ",
+      "timestamp": "2024-02-25T16:00:54.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
