@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-24T11:11:02.929Z",
+  "lastUpdated": "2024-02-25T05:13:18.228Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ea57d82c-e042-46d3-9989-ac1ef336766a",
+      "headline": "How could nuclear weapons be used in space?",
+      "timestamp": "2024-02-25T05:00:38.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
