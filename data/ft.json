@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-25T16:16:56.242Z",
+  "lastUpdated": "2024-02-26T22:36:18.212Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/0dfb94d7-e140-4d6c-97b9-18ec410d6a7c",
+      "headline": "Chinese research ships increase activity near Taiwan",
+      "timestamp": "2024-02-26T21:03:20.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
