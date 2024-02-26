@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-02-21T11:12:02.428Z",
+  "lastUpdated": "2024-02-26T19:36:21.798Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2024/feb/27/gender-pay-gap-parity-australia-salaries-men-women-explore-company-lookup",
+      "headline": "Australia’s gender pay gap explorer: where does your employer rank?",
+      "timestamp": "2024-02-26T19:09:12.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
