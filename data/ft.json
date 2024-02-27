@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-27T08:17:11.513Z",
+  "lastUpdated": "2024-02-27T09:37:12.547Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d8112360-81e6-468e-a1dc-584b7d4797d8",
+      "headline": "ARK Invest’s ‘seemingly outlandish’ economic forecasts",
+      "timestamp": "2024-02-27T09:11:28.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
