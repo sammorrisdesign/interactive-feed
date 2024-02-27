@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-26T22:36:18.212Z",
+  "lastUpdated": "2024-02-27T08:17:11.513Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/38c5c4d1-1312-4e7f-9e72-bd06740bea1a",
+      "headline": "UK food inflation eases to two-year low",
+      "timestamp": "2024-02-27T02:11:43.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
