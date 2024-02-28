@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-02-28T13:36:22.345Z",
+  "lastUpdated": "2024-02-28T14:36:25.620Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e9939f2b-6454-4be8-b99d-05023f635e87",
+      "headline": "The companies benefiting from Europe’s defence revival",
+      "timestamp": "2024-02-23T05:00:04.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/51cf54ed-55df-4369-bdef-6f98be17d26c",
+      "headline": "Will Germany deliver on its grand military ambitions?",
+      "timestamp": "2024-02-15T11:47:23.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
