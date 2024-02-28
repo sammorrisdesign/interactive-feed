@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-28T05:14:29.237Z",
+  "lastUpdated": "2024-02-28T13:36:22.345Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5e8bb796-61eb-4b6b-a207-30a35eb83c89",
+      "headline": "Share of patients hit by long NHS waits in England five times higher than decade ago",
+      "timestamp": "2024-02-28T13:12:58.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
