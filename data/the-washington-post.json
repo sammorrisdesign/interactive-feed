@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-22T17:36:24.243Z",
+  "lastUpdated": "2024-02-28T11:13:20.384Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/ai-video-sora-openai-flaws/",
+      "headline": "The future of AI video is here, super weird flaws and all",
+      "timestamp": "2024-02-28T11:00:05.278Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
