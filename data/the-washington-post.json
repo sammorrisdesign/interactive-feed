@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-29T11:12:32.056Z",
+  "lastUpdated": "2024-02-29T20:15:57.827Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/house-vote-government-shutdown-march/",
+      "headline": "How each House member voted on delaying a government shutdown",
+      "timestamp": "2024-02-29T19:54:02.223Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
