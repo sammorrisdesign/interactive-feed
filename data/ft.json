@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-28T14:36:25.620Z",
+  "lastUpdated": "2024-02-29T21:14:52.378Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/0db0bafd-fc40-4434-b786-1bae0c7d8b44",
+      "headline": "India halts farmers’ march with smoke bombs and drones",
+      "timestamp": "2024-02-29T21:00:36.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
