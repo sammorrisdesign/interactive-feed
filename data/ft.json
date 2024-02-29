@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-29T21:14:52.378Z",
+  "lastUpdated": "2024-02-29T23:36:51.607Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f0d67cff-8507-498a-91cc-30fbfa65c1c3",
+      "headline": "‘Epidemic of obesity’ blights children as global rates soar",
+      "timestamp": "2024-02-29T23:30:49.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
