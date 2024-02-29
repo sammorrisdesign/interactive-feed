@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-28T11:13:20.384Z",
+  "lastUpdated": "2024-02-29T11:12:32.056Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-voters-demographics-shift/",
+      "headline": "What the early primaries tell us about Trump’s changing base",
+      "timestamp": "2024-02-29T11:00:25.134Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
