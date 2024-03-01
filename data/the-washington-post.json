@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-29T20:15:57.827Z",
+  "lastUpdated": "2024-03-01T02:06:56.631Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/senate-vote-government-shutdown-march/",
+      "headline": "How each senator voted on delaying a government shutdown",
+      "timestamp": "2024-03-01T01:42:22.630Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
