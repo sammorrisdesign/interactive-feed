@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-01T05:14:10.635Z",
+  "lastUpdated": "2024-03-01T11:11:45.135Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-solar-eclipse-path-map-cities/",
+      "headline": "How to Find the Best Cities to Watch the Solar Eclipse",
+      "timestamp": "2024-03-01T11:00:16.824Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

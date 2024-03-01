@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-01T02:06:56.631Z",
+  "lastUpdated": "2024-03-01T11:11:45.129Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/books/interactive/2024/book-tour-home-with-lisa-scottoline/",
+      "headline": "Book tour: At home with Lisa Scottoline",
+      "timestamp": "2024-03-01T11:00:05.272Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
