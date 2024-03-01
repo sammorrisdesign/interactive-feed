@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-02-29T10:16:48.339Z",
+  "lastUpdated": "2024-03-01T01:06:12.480Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/02/29/world/middleeast/gaza-aid-trucks-map.html",
+      "headline": "What We Know About the Deaths Near the Gaza Aid Convoy",
+      "timestamp": "2024-03-01T00:58:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
