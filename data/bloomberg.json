@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-29T10:16:48.352Z",
+  "lastUpdated": "2024-03-01T05:14:10.635Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-ukraine-war-effort-farm-workers/",
+      "headline": "Ukraine Drafts Crucial Farm Workers in Desperate Rush to Bolster Military",
+      "timestamp": "2024-03-01T05:00:17.861Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

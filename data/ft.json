@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-29T23:36:51.607Z",
+  "lastUpdated": "2024-03-01T05:14:10.633Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/russia-sanctions/",
+      "headline": "Inside the brazen Arctic trip supplying Putin’s flagship energy scheme",
+      "timestamp": "2024-03-01T05:00:38.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
