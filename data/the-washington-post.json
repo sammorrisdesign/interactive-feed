@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-01T15:36:36.319Z",
+  "lastUpdated": "2024-03-02T11:36:26.698Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/amazon-solar-panels-ecuador/",
+      "headline": "In the Amazon, a new way to live off nature",
+      "timestamp": "2024-03-02T11:30:06.711Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
