@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-02-29T19:36:51.092Z",
+  "lastUpdated": "2024-03-02T12:23:06.886Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/anti-dei-bills-states-republican-lawmakers-map-rcna140756",
+      "headline": "Map: See which states have introduced or passed anti-DEI bills",
+      "timestamp": "2024-03-02T12:00:00.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
