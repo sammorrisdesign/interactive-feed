@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-01T05:14:10.633Z",
+  "lastUpdated": "2024-03-03T23:12:56.509Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/dda0d04a-7cbb-4b84-9375-b20225f780c3",
+      "headline": "In charts: why European stock markets are in crisis",
+      "timestamp": "2024-03-03T05:00:33.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
