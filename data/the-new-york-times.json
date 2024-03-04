@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-03-04T02:47:43.628Z",
+  "lastUpdated": "2024-03-04T10:24:55.602Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/04/opinion/nuclear-weapons-nytimes.html",
+      "headline": "It’s Time to Protest Nuclear War Again",
+      "timestamp": "2024-03-04T10:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/04/opinion/nuclear-war-prevention.html",
+      "headline": "The Brink",
+      "timestamp": "2024-03-04T10:01:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
