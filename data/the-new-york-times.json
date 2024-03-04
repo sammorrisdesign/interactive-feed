@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-04T16:38:31.592Z",
+  "lastUpdated": "2024-03-04T21:13:09.924Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/04/us/elections/results-north-dakota-republican-caucus.html",
+      "headline": "North Dakota Republican Caucus Results",
+      "timestamp": "2024-03-04T21:07:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
