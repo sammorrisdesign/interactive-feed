@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-02T11:36:26.698Z",
+  "lastUpdated": "2024-03-04T13:18:21.283Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/quiz-trump-ukraine-spending/",
+      "headline": "Does Trump have a point about Ukraine? Take our quiz.",
+      "timestamp": "2024-03-04T13:00:35.255Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
