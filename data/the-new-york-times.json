@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2024-03-04T21:13:09.924Z",
+  "lastUpdated": "2024-03-05T18:17:06.844Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/us/elections/results-north-carolina-primary.html",
+      "headline": "North Carolina Primary Election Results",
+      "timestamp": "2024-03-05T18:00:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/us/elections/results-texas-primary.html",
+      "headline": "Texas Primary Election Results",
+      "timestamp": "2024-03-05T18:00:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/us/elections/results-arkansas-primary.html",
+      "headline": "Arkansas Primary Election Results",
+      "timestamp": "2024-03-05T18:00:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/us/elections/results-california-primary.html",
+      "headline": "California Primary Election Results",
+      "timestamp": "2024-03-05T17:59:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/us/elections/results-super-tuesday-key-races.html",
+      "headline": "Super Tuesday Results: Key Races to Watch",
+      "timestamp": "2024-03-05T17:59:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/us/elections/results-north-carolina-lieutenant-governor.html",
+      "headline": "North Carolina Lieutenant Governor Primary Election Results",
+      "timestamp": "2024-03-05T17:57:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/us/elections/results-california-us-house-13-primary.html",
+      "headline": "California 13th Congressional District Primary Election Results",
+      "timestamp": "2024-03-05T17:56:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/us/elections/results-utah-democratic-presidential-primary.html",
+      "headline": "Utah Democratic Primary Election Results",
+      "timestamp": "2024-03-05T17:56:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
