@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-05T18:17:06.844Z",
+  "lastUpdated": "2024-03-05T23:37:15.004Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/05/nyregion/bob-menendez-obstruction-justice.html",
+      "headline": "Read the Latest Menendez Indictment",
+      "timestamp": "2024-03-05T23:31:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
