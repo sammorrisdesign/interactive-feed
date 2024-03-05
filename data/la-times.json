@@ -1,6 +1,27 @@
 {
-  "lastUpdated": "2024-02-07T00:59:06.307Z",
+  "lastUpdated": "2024-03-05T22:36:19.267Z",
   "articles": [
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2024-california-primary-election-live-results/",
+      "headline": "  Primary election results: Congressional and California  ",
+      "timestamp": null
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2024-california-primary-election-orange-county-live-results/",
+      "headline": "  Primary election results: Orange County  ",
+      "timestamp": null
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/2024-california-primary-election-los-angeles-live-results/",
+      "headline": "  Primary election results: Los Angeles County  ",
+      "timestamp": null
+    },
     {
       "publication": "LA Times",
       "twitterHandle": "datagraphics",
