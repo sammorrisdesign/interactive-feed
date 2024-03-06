@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-06T01:00:22.257Z",
+  "lastUpdated": "2024-03-06T19:36:12.293Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/cfd6878f-537e-404e-8b6d-5dca88a1ff73",
+      "headline": "How Trump’s Super Tuesday win shows strengths — and weaknesses",
+      "timestamp": "2024-03-06T19:12:14.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
