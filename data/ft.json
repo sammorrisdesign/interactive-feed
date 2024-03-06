@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-03T23:12:56.509Z",
+  "lastUpdated": "2024-03-06T01:00:22.257Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/17e9add6-1a5a-478c-ac30-f46978a6f8f6",
+      "headline": "Super Tuesday primaries: live results map",
+      "timestamp": "2024-03-05T23:48:23.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
