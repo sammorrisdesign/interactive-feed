@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-03-06T09:14:33.391Z",
+  "lastUpdated": "2024-03-06T18:18:06.751Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/mar/06/presidential-election-candidates-2024",
+      "headline": "Who is running for president in 2024? Biden, Trump and the full list of candidates",
+      "timestamp": "2024-03-06T15:45:05.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
