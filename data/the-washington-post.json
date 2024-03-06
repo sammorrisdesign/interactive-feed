@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-03-06T12:48:29.557Z",
+  "lastUpdated": "2024-03-06T22:13:46.444Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/partial-government-shutdown-vote-house/",
+      "headline": "How each House member voted on $459 billion in new government spending",
+      "timestamp": "2024-03-06T22:05:12.637Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/interactive/2024/wigs-quiz-oscars-movies/",
+      "headline": "Quiz: Can you spot which of these actors are wearing wigs?",
+      "timestamp": "2024-03-06T22:00:38.996Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
