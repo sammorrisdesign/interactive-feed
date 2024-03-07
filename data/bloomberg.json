@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-01T11:11:45.135Z",
+  "lastUpdated": "2024-03-07T10:13:41.123Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-opinion-biden-accomplishment-data/",
+      "headline": "What Has Biden Accomplished? Look at These 10 Metrics, Not the Polls",
+      "timestamp": "2024-03-07T10:00:37.608Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

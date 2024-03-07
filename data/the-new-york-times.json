@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-03-07T03:13:14.718Z",
+  "lastUpdated": "2024-03-07T10:13:41.110Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/07/realestate/queens-staten-island-houses-sale.html",
+      "headline": "They Wanted a Waterfront House in New York City for $450,000 (but Not for Themselves)",
+      "timestamp": "2024-03-07T10:05:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/07/opinion/international-world/nuclear-weapons-president.html",
+      "headline": "The Danger of the President’s Nuclear Powers",
+      "timestamp": "2024-03-07T10:04:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/07/travel/things-to-do-asuncion-paraguay.html",
+      "headline": "36 Hours in Asunción, Paraguay",
+      "timestamp": "2024-03-07T10:01:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
