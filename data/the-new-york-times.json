@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-03-07T22:13:12.900Z",
+  "lastUpdated": "2024-03-08T10:16:23.727Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/08/business/economy/remote-work-home.html",
+      "headline": "Who Still Works From Home?",
+      "timestamp": "2024-03-08T10:04:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/08/us/sat-online-quiz.html",
+      "headline": "Here’s What It’s Like to Take the New SAT",
+      "timestamp": "2024-03-08T10:03:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
