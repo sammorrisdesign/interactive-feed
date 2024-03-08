@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-07T10:13:41.123Z",
+  "lastUpdated": "2024-03-08T01:00:22.826Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-openai-gpt-hiring-racial-discrimination/",
+      "headline": "OpenAI's GPT Is a Recruiter’s Dream Tool. Tests Show There’s Racial Bias",
+      "timestamp": "2024-03-08T00:00:26.966Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
