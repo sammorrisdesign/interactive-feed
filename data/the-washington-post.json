@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-08T09:37:26.854Z",
+  "lastUpdated": "2024-03-08T11:11:24.507Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2024/ivf-couples-alabama-ruling/",
+      "headline": "Three couples and their IVF hopes, jolted by Alabama’s court ruling",
+      "timestamp": "2024-03-08T11:00:40.366Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
