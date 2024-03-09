@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-09T01:45:48.552Z",
+  "lastUpdated": "2024-03-09T09:36:48.519Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/09/world/asia/china-childbirth-propaganda.html",
+      "headline": "Three Is Best: How China’s Family Planning Propaganda Has Changed",
+      "timestamp": "2024-03-09T09:30:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
