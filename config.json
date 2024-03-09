@@ -342,14 +342,11 @@
       "publication": "Tagesspiegel",
       "twitterHandle": "BerlinDigital",
       "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://digitalpresent.tagesspiegel.de/feed.xml",
-        "filters": {
-          "in": {
-            "url": "interaktiv.tagesspiegel.de"
-          }
-        }
+        "type": "Website",
+        "path": "https://interaktiv.tagesspiegel.de",
+        "baseUrl": "https://interaktiv.tagesspiegel.de",
+        "selector": ".tslr-startpage-article a",
+        "headline": ".tslr-startpage-teaser__kicker"
       }]
     },
     {
