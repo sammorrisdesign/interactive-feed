@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-09T02:16:48.624Z",
+  "lastUpdated": "2024-03-09T13:13:43.474Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/dei-history-affirmative-action-timeline/",
+      "headline": "Affirmative action is under attack. How did we get here?",
+      "timestamp": "2024-03-09T13:00:43.927Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
