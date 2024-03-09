@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-08T12:25:36.894Z",
+  "lastUpdated": "2024-03-09T02:16:48.624Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/partial-government-shutdown-vote-senate/",
+      "headline": "How each senator voted on $459 billion in government spending",
+      "timestamp": "2024-03-09T01:48:53.345Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
