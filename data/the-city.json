@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2023-06-02T17:12:21.350Z",
+  "lastUpdated": "2024-03-09T20:13:51.748Z",
   "articles": [
+    {
+      "publication": "The City",
+      "twitterHandle": "thecityny",
+      "mastodonHandle": "@THECITY@newsie.social",
+      "url": "https://projects.thecity.nyc/thecity-coverage-map/",
+      "headline": "MAP: See Where AI Mapped Our Stories",
+      "timestamp": "2024-02-29T17:19:55.000Z"
+    },
+    {
+      "publication": "The City",
+      "twitterHandle": "thecityny",
+      "mastodonHandle": "@THECITY@newsie.social",
+      "url": "https://www.thecity.nyc/2024/02/29/chatgpt-map-stories-nyc/",
+      "headline": "We Asked an AI to Map Our Stories Across NYC",
+      "timestamp": "2024-02-29T17:19:27.000Z"
+    },
+    {
+      "publication": "The City",
+      "twitterHandle": "thecityny",
+      "mastodonHandle": "@THECITY@newsie.social",
+      "url": "https://projects.thecity.nyc/2023_07_heat-island-nyc/index.html",
+      "headline": "Find Out How Much Hotter Your Neighborhood Gets Due to NYC’s Heat Island Effect",
+      "timestamp": "2023-07-26T19:56:00.000Z"
+    },
+    {
+      "publication": "The City",
+      "twitterHandle": "thecityny",
+      "mastodonHandle": "@THECITY@newsie.social",
+      "url": "https://projects.thecity.nyc/queer-wrestling-red-hook/",
+      "headline": "Making My Force and My Face Known: Queer Wrestlers Enter the Ring in Red Hook",
+      "timestamp": "2023-06-23T09:00:00.000Z"
+    },
+    {
+      "publication": "The City",
+      "twitterHandle": "thecityny",
+      "mastodonHandle": "@THECITY@newsie.social",
+      "url": "https://projects.thecity.nyc/school-mental-health",
+      "headline": "How Well Does Your Child’s School Support Student Mental Health?",
+      "timestamp": "2023-05-04T09:00:00.000Z"
+    },
     {
       "publication": "The City",
       "twitterHandle": "THECITYNY",

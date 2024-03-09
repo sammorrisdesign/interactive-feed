@@ -359,6 +359,20 @@
         "selector": "article a",
         "headline": "span"
       }]
+    },
+    {
+      "publication": "The City",
+      "twitterHandle": "thecityny",
+      "mastodonHandle": "@THECITY@newsie.social",
+      "sources": [{
+        "type": "Website",
+        "path": "https://www.thecity.nyc/category/interactive/",
+        "selector": ".type-post.category-interactive",
+        "headline": ".entry-title a",
+        "url": ".entry-title a",
+        "timestamp": ".entry-date",
+        "timestampAttribute": "datetime"
+      }]
     }
   ]
 }
