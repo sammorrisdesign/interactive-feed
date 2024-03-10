@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-09T10:15:11.050Z",
+  "lastUpdated": "2024-03-10T09:14:37.011Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/10/magazine/jeremy-strong-interview.html",
+      "headline": "Jeremy Strong Isn’t Sure He Knows Who He Is",
+      "timestamp": "2024-03-10T09:01:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
