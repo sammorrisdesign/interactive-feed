@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-06T19:36:12.293Z",
+  "lastUpdated": "2024-03-11T02:02:26.467Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/add7d18c-cf64-414c-a54a-7316a1830f9a",
+      "headline": "How high will the BoJ go after ditching negative interest rates?",
+      "timestamp": "2024-03-11T01:00:04.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
