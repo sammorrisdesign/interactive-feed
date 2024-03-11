@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-09T13:13:43.474Z",
+  "lastUpdated": "2024-03-11T10:37:18.008Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/f1-technology-road-cars/",
+      "headline": "If you drive a car, you are already using F1 technology",
+      "timestamp": "2024-03-11T10:30:05.168Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
