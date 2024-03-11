@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-11T02:02:26.467Z",
+  "lastUpdated": "2024-03-11T05:14:26.670Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1f030704-0697-47d2-b6ef-5360aa36e6ba",
+      "headline": "Can ships carrying aid help avert famine in Gaza?",
+      "timestamp": "2024-03-11T05:00:06.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
