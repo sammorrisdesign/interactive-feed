@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-03-12T17:13:25.480Z",
+  "lastUpdated": "2024-03-12T19:13:23.765Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2024/mar/13/serco-australia-immigration-detention-network-srat-tool-risk-rating-ntwnfb-",
+      "headline": "Revealed: the secret algorithm that controls the lives of Serco’s immigration detainees",
+      "timestamp": "2024-03-12T19:00:00.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
