@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-03-11T11:13:11.877Z",
+  "lastUpdated": "2024-03-12T17:13:25.480Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2024/feb/29/jay-shetty-self-help-empire",
+      "headline": "Uncovering the higher truth of Jay Shetty",
+      "timestamp": "2024-02-29T12:30:17.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
