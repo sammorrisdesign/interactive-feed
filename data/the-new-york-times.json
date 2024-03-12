@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-12T04:19:20.435Z",
+  "lastUpdated": "2024-03-12T05:15:28.666Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/12/opinion/former-trump-voters-focus-group.html",
+      "headline": "‘He Lost Me’: Why 10 Voters Who Backed Trump in 2016 and 2020 Have Moved On",
+      "timestamp": "2024-03-12T05:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
