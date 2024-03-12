@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-03-12T19:13:23.765Z",
+  "lastUpdated": "2024-03-12T23:36:53.159Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/mar/12/presidential-primary-elections-results-live",
+      "headline": "Full live results of the 2024 presidential primaries, state by state",
+      "timestamp": "2024-03-12T23:14:32.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
