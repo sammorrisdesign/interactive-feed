@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-13T12:25:51.859Z",
+  "lastUpdated": "2024-03-13T14:13:27.129Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/science/interactive/2024/map-totality-solar-eclipse-locations/",
+      "headline": "Follow a mile-by-mile map of the total solar eclipse",
+      "timestamp": "2024-03-13T14:00:49.871Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
