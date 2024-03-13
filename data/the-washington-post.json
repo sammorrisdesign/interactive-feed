@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-03-13T11:14:14.841Z",
+  "lastUpdated": "2024-03-13T12:25:51.859Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2024/764-predator-discord-telegram/",
+      "headline": "On popular online platforms, predatory groups coerce children into self-harm",
+      "timestamp": "2024-03-13T12:01:27.599Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/climate-change-backyards-plants-birds-migration/",
+      "headline": "Want to measure climate change? Head to your backyard.",
+      "timestamp": "2024-03-13T12:00:47.985Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
