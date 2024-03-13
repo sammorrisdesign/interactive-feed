@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-13T14:13:27.129Z",
+  "lastUpdated": "2024-03-13T15:14:57.746Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/tiktok-ban-house-vote/",
+      "headline": "How each House member voted on the bill targeting TikTok",
+      "timestamp": "2024-03-13T15:05:21.014Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
