@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-13T15:14:57.746Z",
+  "lastUpdated": "2024-03-13T16:38:30.895Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/house-control-republican-margin/",
+      "headline": "Republicans’ House majority is their smallest in decades, and shrinking",
+      "timestamp": "2024-03-13T16:03:36.942Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
