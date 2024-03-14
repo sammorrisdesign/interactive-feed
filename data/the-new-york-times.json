@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-14T19:11:01.929Z",
+  "lastUpdated": "2024-03-14T21:36:25.802Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/14/nyregion/bragg-trump-hush-money-trial-delay.html",
+      "headline": "Read Manhattan District Attorney’s Filing on Potential Trump Trial Delay",
+      "timestamp": "2024-03-14T21:14:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
