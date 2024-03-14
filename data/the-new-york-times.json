@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-14T22:12:48.444Z",
+  "lastUpdated": "2024-03-14T22:37:09.931Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/14/us/trump-documents-pdf.html",
+      "headline": "Read the Rejection of Trump’s Motion to Dismiss the Documents Case",
+      "timestamp": "2024-03-14T22:20:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
