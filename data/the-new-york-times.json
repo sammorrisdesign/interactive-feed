@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-14T21:36:25.802Z",
+  "lastUpdated": "2024-03-14T22:12:48.444Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/14/business/chicco-vs-gm-lexisnexis.html",
+      "headline": "Read the Class Action Complaint Against G.M. and LexisNexis Risk Solutions",
+      "timestamp": "2024-03-14T21:59:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
