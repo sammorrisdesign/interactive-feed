@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-11T05:14:26.670Z",
+  "lastUpdated": "2024-03-18T04:16:35.824Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/32a3bb3b-7183-4ec9-b102-9f7786acc6fc",
+      "headline": "The divisive politics of India’s movement to ‘reclaim’ temples",
+      "timestamp": "2024-03-18T04:05:27.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
