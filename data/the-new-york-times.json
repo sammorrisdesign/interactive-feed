@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-03-19T17:13:07.828Z",
+  "lastUpdated": "2024-03-19T19:12:21.744Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-ohio-primary.html",
+      "headline": "Ohio Primary Election Results",
+      "timestamp": "2024-03-19T18:44:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-key-races.html",
+      "headline": "March 19 Results: Key Races to Watch",
+      "timestamp": "2024-03-19T18:44:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-ohio-us-senate-class-i-primary.html",
+      "headline": "Ohio U.S. Senate Primary Election Results",
+      "timestamp": "2024-03-19T18:40:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-ohio-us-house-6-special.html",
+      "headline": "Ohio 6th Congressional District Special Primary Election Results",
+      "timestamp": "2024-03-19T18:40:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-ohio-us-house-6-primary.html",
+      "headline": "Ohio 6th Congressional District Primary Election Results",
+      "timestamp": "2024-03-19T18:40:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-ohio-us-house-7-primary.html",
+      "headline": "Ohio 7th Congressional District Primary Election Results",
+      "timestamp": "2024-03-19T18:40:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-ohio-us-house-8-primary.html",
+      "headline": "Ohio 8th Congressional District Primary Election Results",
+      "timestamp": "2024-03-19T18:39:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-ohio-us-house-9-primary.html",
+      "headline": "Ohio 9th Congressional District Primary Election Results",
+      "timestamp": "2024-03-19T18:39:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/19/us/elections/results-ohio-us-house-2-primary.html",
+      "headline": "Ohio 2nd Congressional District Primary Election Results",
+      "timestamp": "2024-03-19T18:39:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
