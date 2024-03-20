@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-03-13T11:14:14.834Z",
+  "lastUpdated": "2024-03-20T09:14:55.160Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/mar/20/trump-campaign-analysis-biden-democracy-threats",
+      "headline": "Trump’s latest campaign strategy: co-opt Biden’s claims about the threat to democracy",
+      "timestamp": "2024-03-20T09:00:47.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
