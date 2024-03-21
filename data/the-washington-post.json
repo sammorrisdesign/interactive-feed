@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-21T11:36:20.402Z",
+  "lastUpdated": "2024-03-21T15:15:22.725Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/science/interactive/2024/solar-eclipse-view-cities/",
+      "headline": "See what the solar eclipse will look like in your city",
+      "timestamp": "2024-03-21T15:00:30.133Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
