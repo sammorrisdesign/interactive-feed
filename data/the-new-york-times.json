@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-03-21T02:37:27.542Z",
+  "lastUpdated": "2024-03-21T09:13:38.606Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/21/realestate/21hunt-zero.html",
+      "headline": "In Santa Barbara, Their Budget Would Buy a Mobile Home. Which One Would You Choose?",
+      "timestamp": "2024-03-21T09:05:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/21/travel/36-hours-cape-town.html",
+      "headline": "36 Hours in Cape Town",
+      "timestamp": "2024-03-21T09:03:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
