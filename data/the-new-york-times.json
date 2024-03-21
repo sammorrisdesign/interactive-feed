@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-21T15:15:22.713Z",
+  "lastUpdated": "2024-03-21T18:17:40.220Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/21/us/politics/trump-white-house-employee-testimony-jan-6.html",
+      "headline": "A White House Employee’s Testimony About Jan. 6, 2021",
+      "timestamp": "2024-03-21T17:52:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
