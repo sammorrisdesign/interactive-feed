@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-18T04:16:35.824Z",
+  "lastUpdated": "2024-03-21T01:02:17.428Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/318ff981-d189-4bd6-b608-a9709097eedc",
+      "headline": "Declining fertility rates will transform global economy, report says",
+      "timestamp": "2024-03-21T00:24:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
