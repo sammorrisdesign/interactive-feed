@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-02-15T10:15:19.564Z",
+  "lastUpdated": "2024-03-21T10:14:14.773Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/toddler-formula-documents",
+      "headline": "Documents Show Internal Clash Before U.S. Officials Pushed to Weaken Toddler Formula Rules",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",

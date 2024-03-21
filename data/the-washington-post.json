@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-20T14:13:10.985Z",
+  "lastUpdated": "2024-03-21T10:14:14.732Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/cherry-blossom-merch-dc/",
+      "headline": "Our guide to cherry blossom merch",
+      "timestamp": "2024-03-21T10:00:11.150Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
