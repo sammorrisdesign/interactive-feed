@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-21T10:14:14.732Z",
+  "lastUpdated": "2024-03-21T11:36:20.402Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/dairy-vs-plant-milk/",
+      "headline": "Dairy vs. plant milk: Which is better?",
+      "timestamp": "2024-03-21T11:31:04.617Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
