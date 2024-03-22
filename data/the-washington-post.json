@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-21T16:19:28.042Z",
+  "lastUpdated": "2024-03-22T11:11:56.558Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/dc-cherry-blossom-peak-bloom-climate-change/",
+      "headline": "One cherry tree’s rush to bloom",
+      "timestamp": "2024-03-22T11:00:00.076Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
