@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-22T16:38:10.098Z",
+  "lastUpdated": "2024-03-23T11:10:28.571Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/03/23/senate-vote-government-shutdown-bill-results/",
+      "headline": "How every senator voted on the budget bill to avert a government shutdown",
+      "timestamp": "2024-03-23T10:45:50.296Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
