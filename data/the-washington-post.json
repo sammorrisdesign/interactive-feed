@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-25T10:36:31.794Z",
+  "lastUpdated": "2024-03-25T11:12:49.130Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/gaza-numbers-killed-displaced-scale/",
+      "headline": "Friends, family, acquaintances: What would have happened to them if Gaza was home?",
+      "timestamp": "2024-03-25T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
