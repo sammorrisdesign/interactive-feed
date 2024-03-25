@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-23T18:36:27.705Z",
+  "lastUpdated": "2024-03-25T14:13:20.623Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/science/total-solar-eclipse-maps-path.html",
+      "headline": "Maps of the April 2024 Total Solar Eclipse",
+      "timestamp": "2024-03-25T13:59:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
