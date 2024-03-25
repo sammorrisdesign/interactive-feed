@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-21T01:02:17.428Z",
+  "lastUpdated": "2024-03-25T16:37:51.994Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a41d09fa-a095-4e06-bae7-66f468e4f6d7",
+      "headline": "And the non-winner is . . . ",
+      "timestamp": "2024-03-25T16:32:23.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
