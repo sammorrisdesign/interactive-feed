@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-25T16:37:51.994Z",
+  "lastUpdated": "2024-03-26T09:14:51.877Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6225f58f-bd1d-44d1-b061-3b6b9ab30d83",
+      "headline": "Baltimore road bridge collapses after container ship collision",
+      "timestamp": "2024-03-26T08:54:42.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
