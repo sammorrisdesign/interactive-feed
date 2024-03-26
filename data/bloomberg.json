@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-21T12:25:11.880Z",
+  "lastUpdated": "2024-03-26T04:16:28.127Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-opinion-rate-cuts-covid-inflation-central-banks/",
+      "headline": "The Great Rates Descent Will Be Nasty, Brutish and Long",
+      "timestamp": "2024-03-26T04:00:27.438Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
