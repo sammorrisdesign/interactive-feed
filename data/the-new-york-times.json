@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-27T02:02:48.654Z",
+  "lastUpdated": "2024-03-27T09:15:20.091Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/27/us/politics/trump-cases-legal-fund.html",
+      "headline": "How Trump Moved Money to Pay $100 Million in Legal Bills",
+      "timestamp": "2024-03-27T09:03:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
