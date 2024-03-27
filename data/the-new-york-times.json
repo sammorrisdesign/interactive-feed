@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-26T12:26:40.797Z",
+  "lastUpdated": "2024-03-27T02:02:48.654Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/26/business/silicon-valley-tech-xerox-parc-sri.html",
+      "headline": "Can Xerox’s PARC, a Silicon Valley Icon, Find New Life with SRI?",
+      "timestamp": "2024-03-27T01:42:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
