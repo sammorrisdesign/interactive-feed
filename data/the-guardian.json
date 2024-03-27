@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-03-27T11:12:02.032Z",
+  "lastUpdated": "2024-03-27T14:14:35.492Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/food/ng-interactive/2024/mar/27/burrito-price-inflation-vaca-birria-san-francisco",
+      "headline": "How a viral $22 burrito explains inflation in the US",
+      "timestamp": "2024-03-27T14:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
