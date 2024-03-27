@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-26T09:14:51.877Z",
+  "lastUpdated": "2024-03-27T22:36:13.938Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5dd4a04f-bab2-4521-925f-484b650f91cb",
+      "headline": "Melting of polar ice having effect on global timekeeping, research says",
+      "timestamp": "2024-03-27T22:22:19.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
