@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2024-03-27T17:12:15.831Z",
+  "lastUpdated": "2024-03-28T09:14:48.451Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/28/business/economy/big-ship-dali-baltimore.html",
+      "headline": "The Dali Is a Big Ship. But Not the Biggest.",
+      "timestamp": "2024-03-28T09:07:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/28/sports/ncaabasketball/march-madness-nil.html",
+      "headline": "The Many Ways Men’s Sweet 16 Players Are Being Paid",
+      "timestamp": "2024-03-28T09:07:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/28/realestate/28hunt-schwartz.html",
+      "headline": "On the Upper West Side, a Good Kitchen and Room to Grow: Which Home Did They Choose?",
+      "timestamp": "2024-03-28T09:07:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/28/books/review/literary-allusions-quiz.html",
+      "headline": "Use Your Allusion: See How Many Literary References You Recognize",
+      "timestamp": "2024-03-28T09:07:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/28/opinion/ai-political-bias.html",
+      "headline": "How A.I. Chatbots Become Political",
+      "timestamp": "2024-03-28T09:04:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/28/travel/things-to-do-mumbai.html",
+      "headline": "36 Hours in Mumbai",
+      "timestamp": "2024-03-28T09:02:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
