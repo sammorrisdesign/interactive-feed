@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-28T05:15:29.721Z",
+  "lastUpdated": "2024-03-28T10:14:42.850Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b9e7e292-8ac6-45c9-8098-8318ddb83256",
+      "headline": "EU hits roadblocks in reaching green milestone as elections loom",
+      "timestamp": "2024-03-28T04:00:20.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
