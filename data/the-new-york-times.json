@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-28T09:14:48.451Z",
+  "lastUpdated": "2024-03-28T23:14:25.747Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/28/upshot/baltimore-bridge-ship-force.html",
+      "headline": "Force of Ship Collision Was on the Scale of a Rocket Launch",
+      "timestamp": "2024-03-28T23:06:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
