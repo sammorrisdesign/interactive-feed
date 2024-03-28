@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-27T14:14:35.500Z",
+  "lastUpdated": "2024-03-28T21:13:29.427Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-biden-manufacturing-jobs-swing-states/",
+      "headline": "39,000 Lost Jobs Undercut Biden’s Manufacturing Wins",
+      "timestamp": "2024-03-28T21:00:20.376Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
