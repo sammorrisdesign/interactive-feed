@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-27T22:36:13.938Z",
+  "lastUpdated": "2024-03-28T05:15:29.721Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b5b1b3d7-ca51-482a-a028-45a81816559a",
+      "headline": "Military briefing: Ukraine digs deep as Russians advance",
+      "timestamp": "2024-03-28T05:00:21.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
