@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-29T09:13:42.213Z",
+  "lastUpdated": "2024-03-29T19:12:01.342Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/29/us/judge-quraishi-nj-ballot-line.html",
+      "headline": "Read Judge Quraishi’s Ruling",
+      "timestamp": "2024-03-29T18:47:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
