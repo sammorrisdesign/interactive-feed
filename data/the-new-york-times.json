@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-28T23:14:25.747Z",
+  "lastUpdated": "2024-03-29T01:01:33.133Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/03/28/realestate/rent-party-harlem-renaissance.html",
+      "headline": "The Rent Was Too High So They Threw a Party",
+      "timestamp": "2024-03-28T23:41:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
