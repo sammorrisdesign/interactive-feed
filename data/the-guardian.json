@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-03-29T11:13:12.790Z",
+  "lastUpdated": "2024-03-29T12:26:55.781Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/mar/29/new-york-grocery-store-latino-immigration",
+      "headline": "A nimble New York grocery store follows Latino immigration to the south",
+      "timestamp": "2024-03-29T12:00:41.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
