@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-03-30T18:18:04.513Z",
+  "lastUpdated": "2024-04-01T09:15:40.670Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/01/well/eat/salt-sodium-diet-quiz.html",
+      "headline": "Salt Is Hiding Everywhere. Can You Spot It?",
+      "timestamp": "2024-04-01T09:02:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
