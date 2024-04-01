@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-04-01T14:13:27.976Z",
+  "lastUpdated": "2024-04-01T20:15:39.675Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/01/us/florida-abortion-constitutional-amendment.html",
+      "headline": "Read the Florida Supreme Court’s Ruling on the Constitutional Amendment",
+      "timestamp": "2024-04-01T20:13:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
