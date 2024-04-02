@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-04-01T23:36:22.120Z",
+  "lastUpdated": "2024-04-02T17:36:35.914Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-key-races.html",
+      "headline": "Key Races to Watch Tonight",
+      "timestamp": "2024-04-02T17:28:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-arkansas.html",
+      "headline": "Arkansas Election Results",
+      "timestamp": "2024-04-02T17:25:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-wisconsin-question-2-limit-election-conduct-to-election-officials.html",
+      "headline": "Wisconsin Question 2 Results",
+      "timestamp": "2024-04-02T17:22:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-rhode-island-democratic-presidential-primary.html",
+      "headline": "Rhode Island Democratic Primary Election Results",
+      "timestamp": "2024-04-02T17:22:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-wisconsin-democratic-presidential-primary.html",
+      "headline": "Wisconsin Democratic Primary Election Results",
+      "timestamp": "2024-04-02T17:22:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-rhode-island-republican-presidential-primary.html",
+      "headline": "Rhode Island Republican Primary Election Results",
+      "timestamp": "2024-04-02T17:22:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-wisconsin-republican-presidential-primary.html",
+      "headline": "Wisconsin Republican Primary Election Results",
+      "timestamp": "2024-04-02T17:22:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-new-york-republican-presidential-primary.html",
+      "headline": "New York Republican Primary Election Results",
+      "timestamp": "2024-04-02T17:20:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/02/us/elections/results-connecticut-democratic-presidential-primary.html",
+      "headline": "Connecticut Democratic Primary Election Results",
+      "timestamp": "2024-04-02T17:20:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
