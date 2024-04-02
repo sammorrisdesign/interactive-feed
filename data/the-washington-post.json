@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-02T10:36:24.082Z",
+  "lastUpdated": "2024-04-02T12:27:24.315Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/podcasts/interactive/2024/try-this/",
+      "headline": "Try This",
+      "timestamp": "2024-04-02T12:00:42.108Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
