@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-04-02T01:04:27.075Z",
+  "lastUpdated": "2024-04-02T10:36:24.082Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/smart-mouthguards-concussions-sports-rugby-nfl/",
+      "headline": "Are smart mouthguards the answer to better concussion protocols?",
+      "timestamp": "2024-04-02T10:30:39.058Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/new-emerging-technology-innovation-trends/",
+      "headline": "Innovations",
+      "timestamp": "2024-04-02T10:30:07.993Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
