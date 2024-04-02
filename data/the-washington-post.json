@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-02T12:27:24.315Z",
+  "lastUpdated": "2024-04-02T12:49:25.572Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/what-is-ai/",
+      "headline": "Is this AI? See if you can spot the technology in your everyday life. ",
+      "timestamp": "2024-04-02T12:30:48.201Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
