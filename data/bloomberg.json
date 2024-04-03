@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-03-28T21:13:29.427Z",
+  "lastUpdated": "2024-04-03T12:26:00.264Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexican-election-poll-tracker-sheinbaum-leads-before-debate/",
+      "headline": "Mexico Election 2024 Tracker: Sheinbaum Leads Polls by 23 Points Ahead of Debate",
+      "timestamp": "2024-04-03T12:00:24.759Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-elecciones-mexico-sheinbaum-lidera-antes-debate/",
+      "headline": "Barómetro Electoral México 2024: Sheinbaum lidera encuestas por 23 puntos antes de debate",
+      "timestamp": "2024-04-03T12:00:22.648Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
