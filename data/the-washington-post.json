@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-02T12:49:25.572Z",
+  "lastUpdated": "2024-04-03T10:36:23.095Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2024/tolar-solar-eclipse-quiz/",
+      "headline": "Are you in the dark about the eclipse? Take our quiz.",
+      "timestamp": "2024-04-03T10:30:09.011Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
