@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-28T10:14:42.850Z",
+  "lastUpdated": "2024-04-03T04:17:36.871Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/54068dcd-925c-48d3-bb7b-3c947ba20cb6",
+      "headline": "Can Rishi Sunak stage the biggest electoral comeback in decades? ",
+      "timestamp": "2024-04-03T04:00:11.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
