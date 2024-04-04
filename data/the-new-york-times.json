@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-04-04T12:26:19.294Z",
+  "lastUpdated": "2024-04-04T20:14:42.548Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/04/dining/flavor-quiz.html",
+      "headline": "Do You Know How Flavor Works?",
+      "timestamp": "2024-04-04T19:36:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
