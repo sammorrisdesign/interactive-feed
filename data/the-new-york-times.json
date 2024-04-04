@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-04-04T09:14:51.094Z",
+  "lastUpdated": "2024-04-04T12:26:19.294Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/04/us/health-biden-letter.html",
+      "headline": "Read The Times’s Letter to the White House",
+      "timestamp": "2024-04-04T08:55:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/04/us/health-trump-letter.html",
+      "headline": "Read The Times’s Letter to the Trump Campaign",
+      "timestamp": "2024-04-04T08:55:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
