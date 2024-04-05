@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-05T11:12:16.223Z",
+  "lastUpdated": "2024-04-05T21:12:51.758Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/baltimore-bridge-cleanup-steps/",
+      "headline": "Inside the massive three-step cleanup of Baltimore’s Key Bridge",
+      "timestamp": "2024-04-05T21:00:02.597Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
