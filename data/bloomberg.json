@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-04T09:14:51.108Z",
+  "lastUpdated": "2024-04-05T11:12:16.235Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-baltimore-bridge-collapse-ship-diverted-routes/",
+      "headline": "What Happened to Ships Bound for Baltimore When the Bridge Fell",
+      "timestamp": "2024-04-05T11:00:28.954Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
