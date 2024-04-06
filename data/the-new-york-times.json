@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-04-05T20:14:58.652Z",
+  "lastUpdated": "2024-04-06T09:13:32.290Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/06/upshot/older-voters.html",
+      "headline": "How ‘All in the Family’ Explains Biden’s Strength Among Seniors",
+      "timestamp": "2024-04-06T09:04:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/06/world/middleeast/iran-hamas-hezbollah-houthis-iraq.html",
+      "headline": "Power by Proxy: How Iran Shapes the Mideast",
+      "timestamp": "2024-04-06T09:03:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
