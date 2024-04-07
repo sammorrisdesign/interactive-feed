@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-04-06T23:13:52.287Z",
+  "lastUpdated": "2024-04-07T06:16:49.894Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/07/us/insurer-hidden-fees-united-healthcare-emails.html",
+      "headline": "Inside an Insurer’s Debate About Fees",
+      "timestamp": "2024-04-07T06:00:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/07/us/insurer-hidden-fees-cigna-example.html",
+      "headline": "Fact Check: An Explanation of Benefits",
+      "timestamp": "2024-04-07T06:00:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
