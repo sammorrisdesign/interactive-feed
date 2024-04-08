@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-04-08T14:14:28.013Z",
+  "lastUpdated": "2024-04-08T15:13:15.940Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/08/science/eclipse-satellite.html",
+      "headline": "Follow the Total Solar Eclipse’s Shadow From Space",
+      "timestamp": "2024-04-08T14:54:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
