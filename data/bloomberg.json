@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-04-05T11:12:16.235Z",
+  "lastUpdated": "2024-04-09T20:36:34.402Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/Barometro-Electoral-2024:-Mexico-a-la-espera-encuestas-post-debate-con-Sheinbaum-25-puntos-arriba/",
+      "headline": "Elecciones México 2024: Sheinbaum lidera con 25pp a la espera de encuestas post debate",
+      "timestamp": "2024-04-09T20:31:34.321Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexican-election-tracker-sheinbaum-ahead-before-post-debate-polls/",
+      "headline": "Mexico Election 2024 Tracker: Sheinbaum Leads By 25 Points Before Post-Debate Polls",
+      "timestamp": "2024-04-09T20:31:26.025Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
