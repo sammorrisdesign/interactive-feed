@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-06T10:14:30.275Z",
+  "lastUpdated": "2024-04-09T01:02:26.502Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/weather/interactive/2024/solar-eclipse-photos-videos-totality-us/",
+      "headline": "See how the eclipse transformed America, city by city",
+      "timestamp": "2024-04-09T00:25:46.999Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
