@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-09T09:15:12.603Z",
+  "lastUpdated": "2024-04-09T12:48:47.267Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/good-bad-economy-quiz-wages-inflation/",
+      "headline": "Build your dream economy, and see how it compares to reality",
+      "timestamp": "2024-04-09T12:35:10.115Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
