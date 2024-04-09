@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-04-09T05:13:42.605Z",
+  "lastUpdated": "2024-04-09T19:36:36.216Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/09/us/arizona-abortion-ruling.html",
+      "headline": "Read the Arizona Supreme Court’s Abortion Ruling",
+      "timestamp": "2024-04-09T19:22:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
