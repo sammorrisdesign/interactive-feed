@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-04-10T15:15:25.145Z",
+  "lastUpdated": "2024-04-10T18:19:47.548Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/apr/07/israel-gaza-identity-october-7",
+      "headline": "Since 7 October, my therapy patients have asked themselves: who are our people?",
+      "timestamp": "2024-04-07T11:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
