@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-09T12:48:47.267Z",
+  "lastUpdated": "2024-04-10T11:36:18.997Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/nature-health-maps-neighborhood-city/",
+      "headline": "Mapping America’s access to nature, neighborhood by neighborhood      ",
+      "timestamp": "2024-04-10T11:30:24.256Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
