@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-04-09T19:36:36.216Z",
+  "lastUpdated": "2024-04-10T09:16:04.223Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/10/us/eclipse-population-traffic.html",
+      "headline": "See Maps of Where Eclipse Seekers Flocked and the Traffic That Followed",
+      "timestamp": "2024-04-10T09:03:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
