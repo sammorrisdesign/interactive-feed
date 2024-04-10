@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-04-09T10:17:38.137Z",
+  "lastUpdated": "2024-04-10T15:15:25.145Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/apr/11/evs-are-booming-but-electric-bikes-are-really-cutting-emissions",
+      "headline": "EVs are booming but electric bikes are really cutting emissions",
+      "timestamp": "2024-04-10T15:00:32.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
