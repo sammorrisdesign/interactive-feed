@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-04-11T04:16:38.935Z",
+  "lastUpdated": "2024-04-11T09:15:18.291Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/11/travel/things-to-do-toronto.html",
+      "headline": "36 Hours in Toronto",
+      "timestamp": "2024-04-11T09:06:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/11/realestate/chicago-apartment-sale.html",
+      "headline": "With Homes Flying Off the Market, They Hoped $500,000 Would Suffice in Chicago. Which Apartment Did They Buy?",
+      "timestamp": "2024-04-11T09:05:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
