@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-11T10:15:53.343Z",
+  "lastUpdated": "2024-04-11T11:38:08.102Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/crime-united-states-factcheck-quiz/",
+      "headline": "Does Trump have a point on crime? Take our quiz.",
+      "timestamp": "2024-04-11T11:15:31.937Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
