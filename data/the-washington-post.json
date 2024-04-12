@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-12T09:15:12.345Z",
+  "lastUpdated": "2024-04-12T14:36:49.922Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2024/packing-styles-rolling-folding/",
+      "headline": "An illustrated encyclopedia of packing styles",
+      "timestamp": "2024-04-12T14:30:34.018Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
