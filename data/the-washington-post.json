@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-04-11T11:38:08.102Z",
+  "lastUpdated": "2024-04-12T09:15:12.345Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/quiz-should-i-buy-house-afford-mortgage/",
+      "headline": "Are you ready to buy a house? Take our quiz and find out.",
+      "timestamp": "2024-04-12T09:00:00.571Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/ecuador-gang-takeover-noboa-cocaine/",
+      "headline": "A narco revolt takes a once-peaceful nation to the brink",
+      "timestamp": "2024-04-12T09:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
