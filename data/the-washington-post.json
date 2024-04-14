@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-12T14:36:49.922Z",
+  "lastUpdated": "2024-04-14T10:36:55.098Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2024/texas-border-eagle-pass-migrant-deaths/",
+      "headline": "Texas county at center of border fight is overwhelmed by migrant deaths",
+      "timestamp": "2024-04-14T10:00:30.275Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
