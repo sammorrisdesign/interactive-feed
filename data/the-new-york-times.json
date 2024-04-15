@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-04-15T14:36:41.649Z",
+  "lastUpdated": "2024-04-15T20:36:45.532Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/15/magazine/polycule-polyamory-boston.html",
+      "headline": "Lessons From a 20-Person Polycule",
+      "timestamp": "2024-04-15T20:33:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/15/dining/dinner-party-menu.html",
+      "headline": "What’s Your Dinner Party Style? Choose One.",
+      "timestamp": "2024-04-15T20:30:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
