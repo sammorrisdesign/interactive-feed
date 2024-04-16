@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-04-16T06:18:23.439Z",
+  "lastUpdated": "2024-04-16T16:36:25.817Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-elecciones-mexico-encuestas-barometro-posicion-galvez-sin-cambios-pos-debate/",
+      "headline": "Encuestas de México posdebate muestran que Gálvez no avanza",
+      "timestamp": "2024-04-16T16:30:27.486Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexican-election-poll-tracker-galvez-flat-after-first-presidential-debate/",
+      "headline": "Mexico Post-Debate Polls Show Galvez Flat, Deepening Opposition's Challenge",
+      "timestamp": "2024-04-16T16:30:25.166Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
