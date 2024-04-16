@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-16T09:14:35.545Z",
+  "lastUpdated": "2024-04-16T10:36:16.244Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/cancer-blood-test-screening/",
+      "headline": "A blood test to detect cancer? Some patients are using them already.",
+      "timestamp": "2024-04-16T10:30:50.527Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
