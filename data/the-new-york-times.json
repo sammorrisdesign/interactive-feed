@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-04-16T17:13:39.915Z",
+  "lastUpdated": "2024-04-16T19:11:31.752Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/16/us/elections/results-michigan-state-house-special.html",
+      "headline": "Michigan State House Special Election Results",
+      "timestamp": "2024-04-16T18:38:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/16/us/elections/results-alabama-us-house-2.html",
+      "headline": "Alabama 2nd Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-04-16T18:33:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
