@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-12T10:15:34.486Z",
+  "lastUpdated": "2024-04-16T06:18:23.439Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-map-gaza-rafah-israel-hamas-war/",
+      "headline": "A Detailed Map Shows How Airstrikes and Refugees Reshaped Rafah",
+      "timestamp": "2024-04-16T06:00:04.751Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
