@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-04-17T09:15:22.210Z",
+  "lastUpdated": "2024-04-17T10:15:47.069Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/data-centers-internet-power-source-coal/",
+      "headline": "Internet data centers are fueling drive to old power source: Coal",
+      "timestamp": "2024-04-17T10:05:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/live-music-high-decibel-ear-hearing-damage/",
+      "headline": "Is a love of live music wrecking your hearing? Don’t let it.",
+      "timestamp": "2024-04-17T09:45:55.873Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
