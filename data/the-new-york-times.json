@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-04-17T20:37:47.321Z",
+  "lastUpdated": "2024-04-18T09:15:06.261Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/realestate/18hunt-weiss.html",
+      "headline": "‘No One Retires to California,’ They Thought. But Their Grandchildren Beckoned Them to the Bay Area.",
+      "timestamp": "2024-04-18T09:07:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/t-magazine/earl-sweatshirt-boots-riley-upcoming-next-projects.html",
+      "headline": "What 80 Artists, Musicians and Writers Are Starting Right Now",
+      "timestamp": "2024-04-18T09:05:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/t-magazine/tips-advice-procrastination-productivity.html",
+      "headline": "What to Do When You Can’t Figure Out How to Draw Anthony Fauci’s Glasses?",
+      "timestamp": "2024-04-18T09:05:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/t-magazine/toni-morrison-tabboo-lorraine-ogrady.html",
+      "headline": "The Artists for Whom It Was Never Too Late",
+      "timestamp": "2024-04-18T09:05:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/t-magazine/meg-stalter-hacks-too-much.html",
+      "headline": "How Meg Stalter Went From Social Media to a Leading TV Role",
+      "timestamp": "2024-04-18T09:05:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/t-magazine/new-artist-ice-spice-sarah-pidgeon-dae-kim.html",
+      "headline": "A First Album, a First Restaurant, a First Time on Broadway: Ten Debuts Happening Right Now",
+      "timestamp": "2024-04-18T09:05:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/t-magazine/deborah-roberts-marina-abramovic-do-ho-suh-childhood-art.html",
+      "headline": "Six Artists Look Back at Work They Made in Their Youth",
+      "timestamp": "2024-04-18T09:05:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/t-magazine/ralph-ellison-harper-lee-beginning-end.html",
+      "headline": "The Artists Who Stopped What They’d Started",
+      "timestamp": "2024-04-18T09:05:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/18/t-magazine/humberto-leon-bon-jovi-beginnings-rebirth.html",
+      "headline": "What Jon Bon Jovi Did After Losing His Voice",
+      "timestamp": "2024-04-18T09:04:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
