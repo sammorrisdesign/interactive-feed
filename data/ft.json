@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-10T04:16:32.209Z",
+  "lastUpdated": "2024-04-19T19:13:13.507Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/56064051-e880-43db-b7e9-a56717c8c38b",
+      "headline": "Military briefing: the Israeli missiles used to strike Iran",
+      "timestamp": "2024-04-19T18:43:27.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
