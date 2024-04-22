@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-19T19:13:13.507Z",
+  "lastUpdated": "2024-04-22T02:07:27.556Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1430d8d5-9d2f-4cca-a39d-d68b368e1fcc",
+      "headline": "Heatwave-linked deaths in Europe reported up 30% over past 20 years",
+      "timestamp": "2024-04-22T02:00:23.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
