@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2024-04-22T21:37:11.920Z",
+  "lastUpdated": "2024-04-23T17:13:53.656Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/23/us/elections/results-pennsylvania-us-house-8-primary.html",
+      "headline": "Pennsylvania 8th Congressional District Primary Election Results",
+      "timestamp": "2024-04-23T16:43:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/23/us/elections/results-pennsylvania-us-senate-primary.html",
+      "headline": "Pennsylvania U.S. Senate Primary Election Results",
+      "timestamp": "2024-04-23T16:43:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/23/us/elections/results-pennsylvania-us-house-9-primary.html",
+      "headline": "Pennsylvania 9th Congressional District Primary Election Results",
+      "timestamp": "2024-04-23T16:43:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/23/us/elections/results-pennsylvania-us-house-1-primary.html",
+      "headline": "Pennsylvania 1st Congressional District Primary Election Results",
+      "timestamp": "2024-04-23T16:43:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/23/us/elections/results-pennsylvania-us-house-6-primary.html",
+      "headline": "Pennsylvania 6th Congressional District Primary Election Results",
+      "timestamp": "2024-04-23T16:43:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/23/us/elections/results-pennsylvania-us-house-5-primary.html",
+      "headline": "Pennsylvania 5th Congressional District Primary Election Results",
+      "timestamp": "2024-04-23T16:43:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/23/us/elections/results-pennsylvania-us-house-7-primary.html",
+      "headline": "Pennsylvania 7th Congressional District Primary Election Results",
+      "timestamp": "2024-04-23T16:43:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
