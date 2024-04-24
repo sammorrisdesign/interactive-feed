@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-04-16T16:36:25.817Z",
+  "lastUpdated": "2024-04-24T02:06:59.929Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-elecciones-mexico-encuestas-barometro-sheinbaum-amplia-ventaja/",
+      "headline": "Sheinbaum amplía su ventaja a 29 puntos en la contienda electoral",
+      "timestamp": "2024-04-24T01:45:09.111Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexican-election-poll-tracker-sheinbaum-lead-galvez-widens-presidential-polls-race/",
+      "headline": "Sheinbaum Lead Widens to 29 Points in Mexico Presidential Race",
+      "timestamp": "2024-04-24T01:45:07.330Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
