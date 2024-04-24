@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-04-24T09:37:31.007Z",
+  "lastUpdated": "2024-04-24T15:37:02.772Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/24/us/elections/nikki-haley-trump-zombie-votes.html",
+      "headline": "What to Make of the ‘Zombie Vote’ Against Donald Trump",
+      "timestamp": "2024-04-24T15:23:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
