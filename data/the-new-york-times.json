@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-04-25T07:14:27.687Z",
+  "lastUpdated": "2024-04-25T09:15:34.617Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/25/realestate/atlanta-georgia-house-sale.html",
+      "headline": "Outside Atlanta, a Mother-Daughter Duo Wanted a House to Share (With Enough Room for Some Privacy)",
+      "timestamp": "2024-04-25T09:07:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/25/travel/things-to-do-maui.html",
+      "headline": "36 Hours on Maui",
+      "timestamp": "2024-04-25T09:05:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
