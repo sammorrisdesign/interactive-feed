@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-24T02:38:49.450Z",
+  "lastUpdated": "2024-04-25T01:05:32.487Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/bay-of-bengal-climate-change/",
+      "headline": "Rising threat at the water’s edge",
+      "timestamp": "2024-04-25T01:00:26.647Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
