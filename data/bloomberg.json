@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-24T02:06:59.929Z",
+  "lastUpdated": "2024-04-25T04:17:30.859Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-04-reed-jobs-report-flexible-working-vacancies-decline/",
+      "headline": "Jobs Offering Flexible Working Are Getting Rarer in the UK",
+      "timestamp": "2024-04-25T04:00:21.938Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
