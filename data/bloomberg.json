@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-04-26T20:15:54.358Z",
+  "lastUpdated": "2024-04-26T22:14:36.991Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-elecciones-mexico-galvez-prepara-debate-presidencial-cerrar-brecha-sheinbaum/",
+      "headline": "Gálvez se prepara para debate clave ante brecha que no se cierra",
+      "timestamp": "2024-04-26T22:00:46.699Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexican-election-poll-tracker-galvez-support-struggles-close-gap-second-debate/",
+      "headline": "Gálvez Girds for Do-or-Die Debate as she Struggles to Close Gap",
+      "timestamp": "2024-04-26T22:00:14.597Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
