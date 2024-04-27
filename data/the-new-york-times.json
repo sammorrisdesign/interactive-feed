@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-04-26T21:13:01.421Z",
+  "lastUpdated": "2024-04-27T09:13:22.350Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/27/world/middleeast/gaza-pier-israel-hamas-war.html",
+      "headline": "How the U.S. Humanitarian Pier in Gaza Will Work",
+      "timestamp": "2024-04-27T09:05:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/27/upshot/upshot-ten-years.html",
+      "headline": "10 Years, 100 Stories: The Work That Defines the Upshot",
+      "timestamp": "2024-04-27T09:05:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
