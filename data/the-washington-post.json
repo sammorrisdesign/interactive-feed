@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-27T10:15:33.795Z",
+  "lastUpdated": "2024-04-28T12:27:14.148Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/student-debt-crisis-statistics/",
+      "headline": "Is student loan debt an emergency? Take our quiz.",
+      "timestamp": "2024-04-28T12:00:24.852Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
