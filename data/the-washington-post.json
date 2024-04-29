@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-04-28T12:27:14.148Z",
+  "lastUpdated": "2024-04-29T10:16:12.034Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/flooding-sea-level-rise-gulf-coast/",
+      "headline": "The new face of flooding",
+      "timestamp": "2024-04-29T10:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/southern-us-sea-level-rise-risk-cities/",
+      "headline": "Where seas are rising at alarming speed ",
+      "timestamp": "2024-04-29T10:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
