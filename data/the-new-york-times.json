@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-04-29T09:16:29.212Z",
+  "lastUpdated": "2024-04-29T18:18:48.607Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/29/us/25600615-b9ed-4a46-bfc9-d0b0c35848d0.html",
+      "headline": "Read the Notice From Columbia Administrators",
+      "timestamp": "2024-04-29T17:56:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
