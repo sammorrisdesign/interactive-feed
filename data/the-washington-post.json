@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-30T09:16:10.305Z",
+  "lastUpdated": "2024-04-30T11:13:12.783Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/gaza-parents-children-fear-war/",
+      "headline": "Parenting in Gaza today is so much more than keeping your children alive",
+      "timestamp": "2024-04-30T11:00:46.584Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
