@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-04-29T20:36:31.588Z",
+  "lastUpdated": "2024-04-30T09:16:10.292Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations-salary.html",
+      "headline": "What Should a Congress Member’s Salary Be?",
+      "timestamp": "2024-04-30T09:04:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations-future.html",
+      "headline": "What Worries Members of Congress the Most About the Future?",
+      "timestamp": "2024-04-30T09:04:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations-how-to-fix.html",
+      "headline": "How Do You Fix Congress?",
+      "timestamp": "2024-04-30T09:04:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations-one-word.html",
+      "headline": "What’s One Word You Would Use to Describe Congress?",
+      "timestamp": "2024-04-30T09:03:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations.html",
+      "headline": "12 Departing Lawmakers Tell Us What Congress Is Really Like",
+      "timestamp": "2024-04-30T09:03:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations-frustrating.html",
+      "headline": "What Was Your Most Frustrating Experience in Congress?",
+      "timestamp": "2024-04-30T09:03:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations-corrupt.html",
+      "headline": "Is Congress Corrupt?",
+      "timestamp": "2024-04-30T09:03:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations-perk.html",
+      "headline": "What’s the Best Perk of  Being in Congress?",
+      "timestamp": "2024-04-30T09:03:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/04/30/opinion/congress-resignations-difference.html",
+      "headline": "Did You Make a Difference  in Congress?",
+      "timestamp": "2024-04-30T09:03:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

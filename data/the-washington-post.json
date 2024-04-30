@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-29T10:16:12.034Z",
+  "lastUpdated": "2024-04-30T09:16:10.305Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/sleep-data-survey-americans/",
+      "headline": "Americans are sleeping more than ever. See how you compare.",
+      "timestamp": "2024-04-30T09:00:55.180Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
