@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-05-01T08:40:23.530Z",
+  "lastUpdated": "2024-05-01T10:38:40.976Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/may/01/can-journalism-survive-the-taliban",
+      "headline": "Can journalism survive the Taliban?",
+      "timestamp": "2024-05-01T10:34:10.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
