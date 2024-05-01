@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-01T17:37:09.155Z",
+  "lastUpdated": "2024-05-01T18:37:54.435Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/01/nyregion/trump-hush-money-trial-transcript-april-25.html",
+      "headline": "Transcript of Trump Manhattan Trial, April 25, 2024",
+      "timestamp": "2024-05-01T18:19:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
