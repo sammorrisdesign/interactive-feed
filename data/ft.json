@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-22T02:07:27.556Z",
+  "lastUpdated": "2024-05-01T04:17:16.904Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/05722dc9-e0c3-4bef-a1d4-f95487f4a46d",
+      "headline": "EU states that joined 20 years ago seek fresh growth boost",
+      "timestamp": "2024-05-01T04:00:14.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
