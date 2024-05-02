@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-02T09:15:31.143Z",
+  "lastUpdated": "2024-05-02T15:15:42.674Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/formula-one-guide-beginners-flags-tires-colors/",
+      "headline": "The beginner’s illustrated guide to watching an F1 race",
+      "timestamp": "2024-05-02T15:00:48.940Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
