@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-05-01T15:36:29.333Z",
+  "lastUpdated": "2024-05-02T16:17:59.785Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2024/may/02/local-elections-2024-full-council-results-for-england",
+      "headline": "Local elections 2024: full council results for England",
+      "timestamp": "2024-05-02T15:07:29.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
