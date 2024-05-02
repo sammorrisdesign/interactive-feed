@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-05-01T04:17:16.904Z",
+  "lastUpdated": "2024-05-02T04:17:27.604Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/7883e6ba-25b1-4ee4-9b4e-b2f69926802e",
+      "headline": "US nears completion of $320mn floating pier for Gaza aid",
+      "timestamp": "2024-05-02T04:00:12.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/black-sea/",
+      "headline": "How Ukraine broke Russia’s grip in the Black Sea",
+      "timestamp": "2024-05-02T04:00:11.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
