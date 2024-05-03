@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-03T20:36:38.350Z",
+  "lastUpdated": "2024-05-03T22:36:15.687Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/03/us/ucla-protests-encampment-violence.html",
+      "headline": "How Counterprotesters at U.C.L.A. Provoked Violence, Unchecked For Hours",
+      "timestamp": "2024-05-03T22:17:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
