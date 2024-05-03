@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-03T10:15:45.483Z",
+  "lastUpdated": "2024-05-03T17:12:59.957Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2024/gaza-israel-agriculture-food-fisheries/",
+      "headline": "Israel’s offensive is destroying Gaza’s ability to grow its own food",
+      "timestamp": "2024-05-03T17:00:56.340Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
