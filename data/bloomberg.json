@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-04-26T22:36:35.590Z",
+  "lastUpdated": "2024-05-03T09:15:37.563Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-benioff-save-trillion-trees/",
+      "headline": "A Billionaire Wanted to Save 1 Trillion Trees by 2030. It's Not Going Great.",
+      "timestamp": "2024-05-03T09:00:31.671Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
