@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-02T04:17:27.604Z",
+  "lastUpdated": "2024-05-04T07:13:46.981Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/56d11a27-7ffc-46ce-8609-21704ac233f8",
+      "headline": "Panama Canal traffic recovers from drought caused by El Niño, study finds",
+      "timestamp": "2024-05-04T07:00:46.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
