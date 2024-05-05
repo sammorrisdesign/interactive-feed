@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-04T07:13:46.981Z",
+  "lastUpdated": "2024-05-05T10:15:03.262Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6b1763dc-b290-4c76-b9a9-582909ebffd5",
+      "headline": "Trump vs Biden: who is winning with six months to go?",
+      "timestamp": "2024-05-05T10:00:38.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
