@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-05-06T15:15:23.762Z",
+  "lastUpdated": "2024-05-06T16:19:55.454Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/06/us/compass-direct-llc-north-carolina.html",
+      "headline": "Compass Direct LLC’s 2024 Registration in North Carolina",
+      "timestamp": "2024-05-06T15:54:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/06/us/conservative-partnership-institute-north-carolina.html",
+      "headline": "Conservative Partnership Institute’s Registration to Fundraise in North Carolina",
+      "timestamp": "2024-05-06T15:46:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/06/us/conservative-partnership-institute-2022-filing.html",
+      "headline": "The Conservative Partnership Institute’s 2022 Annual Filing With the I.R.S.",
+      "timestamp": "2024-05-06T15:43:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/06/us/irs-filing-conservative-institute.html",
+      "headline": "The Conservative Partnership Institute’s 2021 Annual Filing With the I.R.S.",
+      "timestamp": "2024-05-06T15:39:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
