@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-06T14:14:32.183Z",
+  "lastUpdated": "2024-05-07T12:27:20.152Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/solar-storm-threat-electric-grid/",
+      "headline": "The next global crisis could come from the sun. We should prepare now.",
+      "timestamp": "2024-05-07T12:00:50.037Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
