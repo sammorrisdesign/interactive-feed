@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-05-03T09:15:37.563Z",
+  "lastUpdated": "2024-05-07T01:04:25.210Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-elecciones-mexico-sheinbaum-ventaja-amplia-galvez/",
+      "headline": "Ventaja de Sheinbaum se amplía a 30 puntos; se agota el tiempo para Gálvez",
+      "timestamp": "2024-05-07T00:27:40.788Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexican-election-poll-sheinbaum-lead-widens-time-runs-out-galvez/",
+      "headline": "Sheinbaum Widens Lead to 30 Points as Time Runs Out for Gálvez",
+      "timestamp": "2024-05-07T00:27:30.977Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
