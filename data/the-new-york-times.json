@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2024-05-07T12:49:53.507Z",
+  "lastUpdated": "2024-05-07T16:17:26.740Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-primary.html",
+      "headline": "Indiana Primary Election Results",
+      "timestamp": "2024-05-07T16:13:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-democratic-presidential-primary.html",
+      "headline": "Indiana Democratic Primary Election Results",
+      "timestamp": "2024-05-07T16:08:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-us-house-7-primary.html",
+      "headline": "Indiana 7th Congressional District Primary Election Results",
+      "timestamp": "2024-05-07T16:08:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-us-senate-primary.html",
+      "headline": "Indiana U.S. Senate Primary Election Results",
+      "timestamp": "2024-05-07T16:08:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-us-house-6-primary.html",
+      "headline": "Indiana 6th Congressional District Primary Election Results",
+      "timestamp": "2024-05-07T16:08:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-us-house-8-primary.html",
+      "headline": "Indiana 8th Congressional District Primary Election Results",
+      "timestamp": "2024-05-07T16:08:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-us-house-9-primary.html",
+      "headline": "Indiana 9th Congressional District Primary Election Results",
+      "timestamp": "2024-05-07T16:08:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-us-house-5-primary.html",
+      "headline": "Indiana 5th Congressional District Primary Election Results",
+      "timestamp": "2024-05-07T16:08:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-governor-primary.html",
+      "headline": "Indiana Governor Primary Election Results",
+      "timestamp": "2024-05-07T16:08:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/07/us/elections/results-indiana-us-house-1-primary.html",
+      "headline": "Indiana 1st Congressional District Primary Election Results",
+      "timestamp": "2024-05-07T16:08:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
