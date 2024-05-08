@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-05T10:15:03.262Z",
+  "lastUpdated": "2024-05-08T02:16:24.737Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/cf8f2870-6024-4c35-ae55-d0f9b465fdcd",
+      "headline": "Record temperatures expected to continue to drive extreme weather",
+      "timestamp": "2024-05-08T02:00:48.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
