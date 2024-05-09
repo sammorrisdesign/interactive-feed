@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-05-09T01:04:38.771Z",
+  "lastUpdated": "2024-05-09T09:16:07.157Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/09/opinion/purebred-dogs-inbreeding.html",
+      "headline": "Quiz: Has Dog Breeding Gone Too Far?",
+      "timestamp": "2024-05-09T09:06:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/09/realestate/france-home-sale.html",
+      "headline": "In Search of New Scenery, an American Took a Chance in France With a $300,000 Budget. Which Home Did She Buy?",
+      "timestamp": "2024-05-09T09:05:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/09/realestate/faith-popcorn-futurist-author-home.html",
+      "headline": "The Futurist Living Above the Store",
+      "timestamp": "2024-05-09T09:05:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/09/travel/things-to-do-colorado-springs.html",
+      "headline": "36 Hours in Colorado Springs, Colo.",
+      "timestamp": "2024-05-09T09:03:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
