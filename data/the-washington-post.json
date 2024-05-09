@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-08T23:15:58.594Z",
+  "lastUpdated": "2024-05-09T10:17:22.182Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/home/interactive/2024/are-you-ready-for-dog/",
+      "headline": "Think you want a dog? Take our quiz to find out if you’re ready.",
+      "timestamp": "2024-05-09T10:00:24.043Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
