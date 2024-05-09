@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-08T19:11:49.090Z",
+  "lastUpdated": "2024-05-09T01:04:38.771Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/08/us/politics/house-vote-speaker-johnson.html",
+      "headline": "House Vote Count: How Speaker Mike Johnson Survived Motion on Ousting",
+      "timestamp": "2024-05-09T00:25:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
