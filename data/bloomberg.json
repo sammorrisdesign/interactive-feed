@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-07T09:17:06.266Z",
+  "lastUpdated": "2024-05-10T09:16:07.674Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-gaza-humanitarian-aid-israel-hamas-war/",
+      "headline": "How Israel’s Rafah Operation Threatens Gaza’s Critical Aid Pipeline",
+      "timestamp": "2024-05-10T08:38:18.080Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

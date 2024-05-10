@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-09T10:17:22.182Z",
+  "lastUpdated": "2024-05-10T09:16:07.667Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/no-mow-lawn-care-tips/",
+      "headline": "Why you should let your grass grow",
+      "timestamp": "2024-05-10T09:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
