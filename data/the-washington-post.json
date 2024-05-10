@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-10T12:27:10.046Z",
+  "lastUpdated": "2024-05-10T15:36:57.412Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-gag-order-violations/",
+      "headline": "Every time Trump has broken the gag order in his New York trial",
+      "timestamp": "2024-05-10T15:20:46.456Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
