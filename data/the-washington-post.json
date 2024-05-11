@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-10T15:36:57.412Z",
+  "lastUpdated": "2024-05-11T09:15:01.849Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/north-atlantic-right-whale-species-challenges/",
+      "headline": "Bishop vanished. His species can still be saved.",
+      "timestamp": "2024-05-11T09:00:14.653Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
