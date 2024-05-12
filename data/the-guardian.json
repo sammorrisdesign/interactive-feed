@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-05-08T09:15:29.475Z",
+  "lastUpdated": "2024-05-12T20:14:15.800Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/may/13/australia-average-earnings-interactive-wealth-comparison-tool-salary",
+      "headline": "What makes someone rich? Find out how your income and wealth compares",
+      "timestamp": "2024-05-12T20:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
