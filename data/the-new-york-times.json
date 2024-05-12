@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-11T07:14:37.132Z",
+  "lastUpdated": "2024-05-12T17:11:58.836Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/12/world/americas/earthquake-guatemala-mexico.html",
+      "headline": "Map: 6.4-Magnitude Earthquake Strikes off the Coasts of Mexico and Guatemala",
+      "timestamp": "2024-05-12T17:05:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
