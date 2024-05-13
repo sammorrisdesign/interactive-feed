@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-11T09:15:01.849Z",
+  "lastUpdated": "2024-05-13T10:16:10.257Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/financial-advice-tiktok-quiz/",
+      "headline": "Can you spot bad financial advice on TikTok? Take our quiz",
+      "timestamp": "2024-05-13T10:05:32.389Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
