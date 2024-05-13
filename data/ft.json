@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-08T02:16:24.737Z",
+  "lastUpdated": "2024-05-13T04:18:40.733Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/be9393db-cd63-4141-a4c8-c16b4fe1b6b0",
+      "headline": "How GPS warfare is playing havoc with civilian life",
+      "timestamp": "2024-05-13T04:00:30.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
