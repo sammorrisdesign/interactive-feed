@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-05-13T18:37:02.788Z",
+  "lastUpdated": "2024-05-14T01:05:21.188Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/13/climate/home-insurance-profit-us-states-weather.html",
+      "headline": "The Home Insurance Crunch: See What’s Happening in Your State",
+      "timestamp": "2024-05-14T00:42:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/13/climate/insurance-homes-climate-change-weather.html",
+      "headline": "As Insurers Around the U.S. Bleed Cash From Climate Shocks, Homeowners Lose",
+      "timestamp": "2024-05-14T00:41:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/13/nyregion/trump-hush-money-trial-transcript-may-10.html",
+      "headline": "Transcript of Trump Manhattan Trial, May 10, 2024",
+      "timestamp": "2024-05-14T00:36:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
