@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-14T10:17:35.119Z",
+  "lastUpdated": "2024-05-14T10:37:52.839Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/sustainability-fashion-fabric-biodegradable/",
+      "headline": "Biodegradable fabric might be the next best thing in clothing",
+      "timestamp": "2024-05-14T10:30:26.599Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
