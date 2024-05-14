@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-05-14T18:19:10.884Z",
+  "lastUpdated": "2024-05-14T18:38:19.238Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-west-virginia-primary.html",
+      "headline": "West Virginia Primary Election Results",
+      "timestamp": "2024-05-14T18:36:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-nebraska-primary.html",
+      "headline": "Nebraska Primary Election Results",
+      "timestamp": "2024-05-14T18:36:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-key-races.html",
+      "headline": "Key Races to Watch",
+      "timestamp": "2024-05-14T18:36:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-maryland-primary.html",
+      "headline": "Maryland Primary Election Results",
+      "timestamp": "2024-05-14T18:36:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-west-virginia-us-senate-primary.html",
+      "headline": "West Virginia U.S. Senate Primary Election Results",
+      "timestamp": "2024-05-14T18:31:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-west-virginia-us-house-1-primary.html",
+      "headline": "West Virginia 1st Congressional District Primary Election Results",
+      "timestamp": "2024-05-14T18:31:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-west-virginia-us-house-2-primary.html",
+      "headline": "West Virginia 2nd Congressional District Primary Election Results",
+      "timestamp": "2024-05-14T18:31:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-nebraska-us-house-3-primary.html",
+      "headline": "Nebraska 3rd Congressional District Primary Election Results",
+      "timestamp": "2024-05-14T18:31:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/elections/results-west-virginia-democratic-presidential-primary.html",
+      "headline": "West Virginia Democratic Primary Election Results",
+      "timestamp": "2024-05-14T18:31:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
