@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-05-14T12:29:00.200Z",
+  "lastUpdated": "2024-05-14T18:19:10.884Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/gun-homicides-map.html",
+      "headline": "How Has Gun Violence Changed in Your Neighborhood?",
+      "timestamp": "2024-05-14T17:47:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/14/us/gun-homicides-data.html",
+      "headline": "How the Pandemic Reshaped American Gun Violence",
+      "timestamp": "2024-05-14T17:45:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
