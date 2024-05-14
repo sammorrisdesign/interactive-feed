@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-13T10:16:10.257Z",
+  "lastUpdated": "2024-05-14T10:17:35.119Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/housing-market-price-trends-zip-code-map/",
+      "headline": "Are home prices still rising? See how prices have changed in your area.",
+      "timestamp": "2024-05-14T10:05:20.201Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
