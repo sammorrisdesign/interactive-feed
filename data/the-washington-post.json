@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-05-14T14:14:03.879Z",
+  "lastUpdated": "2024-05-15T09:18:17.382Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2024/texas-ranger-corrido-tiroteo/",
+      "headline": "En búsqueda de la verdad a más de 100 años de una matanza fronteriza",
+      "timestamp": "2024-05-15T09:00:42.970Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2024/texas-ranger-song-shootout/",
+      "headline": "After a borderland shootout, a 100-year-old battle for the truth",
+      "timestamp": "2024-05-15T09:00:02.414Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
