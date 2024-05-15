@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-15T02:43:58.636Z",
+  "lastUpdated": "2024-05-15T04:18:48.972Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/15/world/europe/russia-offensive-ukraine-maps.html",
+      "headline": "Mapping Russia’s Sudden Push Across Ukrainian Lines",
+      "timestamp": "2024-05-15T04:01:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
