@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-13T04:18:40.733Z",
+  "lastUpdated": "2024-05-15T10:16:17.846Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/07202a13-08fd-4a27-b612-50927561b4c5",
+      "headline": "Visual analysis: how tiny Al-Mawasi grew into Gaza’s latest tent city",
+      "timestamp": "2024-05-15T10:00:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",

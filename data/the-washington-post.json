@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-15T09:18:17.382Z",
+  "lastUpdated": "2024-05-15T10:16:17.839Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/immigration-history-race-quota-progress/",
+      "headline": "How America tried and failed to stay White",
+      "timestamp": "2024-05-15T10:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
