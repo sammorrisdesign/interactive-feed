@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-05-10T09:16:07.674Z",
+  "lastUpdated": "2024-05-15T01:05:50.350Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/Encuestas-Presidenciales-2024-candidato-Maynez-gana-apoyo-antes-debate/",
+      "headline": "Candidato de México Máynez gana apoyo en medio de peticiones de retirada",
+      "timestamp": "2024-05-15T00:31:44.363Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexican-elections-poll-maynez-gains-support-before-third-debate/",
+      "headline": "Mexico Candidate Máynez Gains Support Amid Calls to Step Down",
+      "timestamp": "2024-05-15T00:31:38.281Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
