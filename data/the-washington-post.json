@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-15T13:17:13.195Z",
+  "lastUpdated": "2024-05-16T10:36:59.017Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/best-places-work-federal-government/",
+      "headline": "Best Places to Work in the Federal Government 2023",
+      "timestamp": "2024-05-16T10:30:16.816Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
