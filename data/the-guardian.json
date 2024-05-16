@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-05-15T14:15:18.514Z",
+  "lastUpdated": "2024-05-16T01:05:35.426Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/may/16/australia-federal-budget-2024-jobseeker-centrelink-payments-welfare-services-australia",
+      "headline": "No increase to base jobseeker rate in budget means Centrelink payment remains below poverty line",
+      "timestamp": "2024-05-16T00:00:52.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
