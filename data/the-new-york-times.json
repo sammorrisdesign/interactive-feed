@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-05-15T12:29:48.278Z",
+  "lastUpdated": "2024-05-16T09:15:50.738Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/16/realestate/newburgh-beacon-homes-sale.html",
+      "headline": "A New Yorker Took Her $400,000 Budget Up to the Hudson Valley. Here’s What She Found.",
+      "timestamp": "2024-05-16T09:07:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/16/travel/things-to-do-menorca.html",
+      "headline": "36 Hours on Minorca",
+      "timestamp": "2024-05-16T09:07:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/16/us/elections/biden-trump-donors.html",
+      "headline": "One Area Where Biden Is Leading Trump: His Number of Donors",
+      "timestamp": "2024-05-16T09:06:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
