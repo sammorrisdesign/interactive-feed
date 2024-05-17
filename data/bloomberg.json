@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-15T01:05:50.350Z",
+  "lastUpdated": "2024-05-17T07:14:18.598Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-aurora-forecast-solar-storms/",
+      "headline": "Dazzling Solar Storm Tested Power Grids. Data Suggests More Are Coming.",
+      "timestamp": "2024-05-17T07:03:47.679Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
