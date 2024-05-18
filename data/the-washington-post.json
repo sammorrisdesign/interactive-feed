@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-16T20:36:32.192Z",
+  "lastUpdated": "2024-05-18T12:26:39.455Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/books/interactive/2024/book-tour-home-with-amor-towles/",
+      "headline": "Book Tour: At home with Amor Towles",
+      "timestamp": "2024-05-18T12:13:22.475Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
