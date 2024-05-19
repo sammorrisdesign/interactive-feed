@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-15T10:16:17.846Z",
+  "lastUpdated": "2024-05-19T17:13:11.158Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/taiwan-battlegrounds/",
+      "headline": "The battlegrounds that could decide a US-China war over Taiwan",
+      "timestamp": "2024-05-19T17:00:47.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
