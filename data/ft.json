@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-19T17:13:11.158Z",
+  "lastUpdated": "2024-05-21T04:17:48.649Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f5a9be7a-b446-426f-8b04-ee6a340bb781",
+      "headline": "How sanctions played havoc with Iran’s ageing helicopters",
+      "timestamp": "2024-05-21T04:00:03.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
