@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-05-21T04:17:48.636Z",
+  "lastUpdated": "2024-05-21T16:18:42.708Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-georgia-primary.html",
+      "headline": "Georgia Primary Election Results",
+      "timestamp": "2024-05-21T16:11:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-oregon-primary.html",
+      "headline": "Oregon Primary Election Results",
+      "timestamp": "2024-05-21T16:11:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-idaho-primary.html",
+      "headline": "Idaho Primary Election Results",
+      "timestamp": "2024-05-21T16:11:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-georgia-district-attorney-primary.html",
+      "headline": "Fulton County District Attorney Primary Election Results",
+      "timestamp": "2024-05-21T16:10:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-oregon-us-house-3-primary.html",
+      "headline": "Oregon 3rd Congressional District Primary Election Results",
+      "timestamp": "2024-05-21T16:06:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-kentucky-us-house-3-primary.html",
+      "headline": "Kentucky 3rd Congressional District Primary Election Results",
+      "timestamp": "2024-05-21T16:06:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-kentucky-republican-presidential-primary.html",
+      "headline": "Kentucky Republican Primary Election Results",
+      "timestamp": "2024-05-21T16:06:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-kentucky-us-house-5-primary.html",
+      "headline": "Kentucky 5th Congressional District Primary Election Results",
+      "timestamp": "2024-05-21T16:06:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-kentucky-us-house-6-primary.html",
+      "headline": "Kentucky 6th Congressional District Primary Election Results",
+      "timestamp": "2024-05-21T16:06:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
