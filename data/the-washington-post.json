@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-20T01:06:14.774Z",
+  "lastUpdated": "2024-05-21T03:17:01.274Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/eu-migrant-north-africa-mediterranean/",
+      "headline": "With Europe’s support, North African nations push migrants to the desert ",
+      "timestamp": "2024-05-21T03:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
