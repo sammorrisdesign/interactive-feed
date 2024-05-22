@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-21T03:17:01.274Z",
+  "lastUpdated": "2024-05-22T09:17:24.967Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/septic-tanks-rising-waters-environment-health/",
+      "headline": "A hidden threat",
+      "timestamp": "2024-05-22T09:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
