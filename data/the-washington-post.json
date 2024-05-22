@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-22T09:17:24.967Z",
+  "lastUpdated": "2024-05-22T11:13:53.824Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/texas-california-heat-waves-blackouts-map/",
+      "headline": "See how heat waves could increase the risk of blackouts where you live",
+      "timestamp": "2024-05-22T11:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
