@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-05-21T23:16:08.433Z",
+  "lastUpdated": "2024-05-22T01:06:11.687Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/well/live/first-aid-cuts-burns-rashes.html",
+      "headline": "First Aid Basics Everyone Should Know",
+      "timestamp": "2024-05-22T00:45:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/21/us/elections/results-multnomah-county-oregon-district-attorney.html",
+      "headline": "Multnomah County, Ore. District Attorney Election Results",
+      "timestamp": "2024-05-22T00:14:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
