@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-05-23T06:22:00.953Z",
+  "lastUpdated": "2024-05-23T15:16:44.572Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/may/24/nuclear-power-australia-liberal-coalition-peter-dutton-cost",
+      "headline": "One Big Chart: how does the cost of nuclear power compare to renewables?",
+      "timestamp": "2024-05-23T15:00:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
