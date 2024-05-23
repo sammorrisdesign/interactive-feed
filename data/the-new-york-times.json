@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-23T18:38:01.748Z",
+  "lastUpdated": "2024-05-23T19:15:13.681Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/23/arts/asian-language-movies-subtitles.html",
+      "headline": "From ‘The Sympathizer’ to ‘Past Lives,’ American Audiences Warm to Subtitles",
+      "timestamp": "2024-05-23T18:45:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
