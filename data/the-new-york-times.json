@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-05-22T23:37:45.595Z",
+  "lastUpdated": "2024-05-23T09:17:12.515Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/23/realestate/hamptons-home-sale-hunt.html",
+      "headline": "She Realized Her American Dream With a Hamptons House. Which One Did She Buy?",
+      "timestamp": "2024-05-23T09:04:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/23/travel/things-to-do-traverse-city.html",
+      "headline": "36 Hours in Traverse City, Mich.",
+      "timestamp": "2024-05-23T09:03:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/23/travel/airport-travel-quiz.html",
+      "headline": "So You Think You’re a Jet-Setter? Test Your Airport I.Q.",
+      "timestamp": "2024-05-23T09:01:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
