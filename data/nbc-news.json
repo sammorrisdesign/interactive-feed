@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-05-10T15:14:45.548Z",
+  "lastUpdated": "2024-05-23T11:14:28.844Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/us-home-buyer-index-data-cost-availability-difficulty-rcna139257",
+      "headline": "New: NBC News is measuring how hard it is to buy a home in the U.S.",
+      "timestamp": "2024-05-23T11:00:00.000Z"
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/home-buyer-difficulty-index-findings-rcna152273",
+      "headline": "Four things we learned from the first Home Buyer Index report",
+      "timestamp": "2024-05-23T11:00:00.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
