@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-23T15:16:44.564Z",
+  "lastUpdated": "2024-05-23T18:38:01.748Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/23/us/elections/results-idaho-democratic-presidential-caucus.html",
+      "headline": "Idaho Democratic Caucus Results",
+      "timestamp": "2024-05-23T18:32:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
