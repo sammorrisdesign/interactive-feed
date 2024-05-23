@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-23T19:15:13.681Z",
+  "lastUpdated": "2024-05-23T21:13:44.404Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/23/realestate/hamptons-beach-house-architecture.html",
+      "headline": "Sand, Sea and Soul: These Architects Follow Nature",
+      "timestamp": "2024-05-23T20:41:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
