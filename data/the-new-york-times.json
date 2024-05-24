@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-05-23T21:13:44.404Z",
+  "lastUpdated": "2024-05-24T09:16:21.604Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/24/us/politics/trump-election-results-doubt.html",
+      "headline": "Trump’s Pattern of Sowing Election Doubt Intensifies in 2024",
+      "timestamp": "2024-05-24T09:05:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/24/opinion/ads-abortion-election-2024.html",
+      "headline": "This Is the Democrats’ Best Shot in 2024. And They Are Spending Like Crazy on It.",
+      "timestamp": "2024-05-24T09:05:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

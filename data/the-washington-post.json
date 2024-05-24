@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-23T21:37:12.315Z",
+  "lastUpdated": "2024-05-24T09:16:21.617Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/school-temperatures-heat-climate-change/",
+      "headline": "Where classrooms are becoming too hot for learning",
+      "timestamp": "2024-05-24T09:00:40.030Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
