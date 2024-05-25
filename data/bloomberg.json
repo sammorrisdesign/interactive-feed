@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-23T09:17:12.534Z",
+  "lastUpdated": "2024-05-25T08:18:31.459Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-south-africa-election-racial-inequality/",
+      "headline": "Apartheid’s Long Shadow Hangs Over South Africa’s Election",
+      "timestamp": "2024-05-25T08:00:20.780Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
