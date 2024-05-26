@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-21T04:17:48.649Z",
+  "lastUpdated": "2024-05-26T04:17:34.139Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/190465a0-b308-4da2-9d62-5cce40e2edf1",
+      "headline": "Visual analysis: the growth of Gaza’s wartime trash mountains",
+      "timestamp": "2024-05-26T04:00:52.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
