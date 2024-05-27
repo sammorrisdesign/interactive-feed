@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-24T21:14:42.100Z",
+  "lastUpdated": "2024-05-27T09:17:01.048Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/27/world/middleeast/gaza-food-aid-crossings.html",
+      "headline": "Access to Aid in Gaza Was Dire. Now, It’s Worse.",
+      "timestamp": "2024-05-27T09:04:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
