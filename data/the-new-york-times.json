@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-05-28T12:28:43.975Z",
+  "lastUpdated": "2024-05-28T16:39:28.353Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-primary-runoff.html",
+      "headline": "Texas Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:35:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-us-house-7-primary-runoff.html",
+      "headline": "Texas 7th Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:32:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-us-house-31-primary-runoff.html",
+      "headline": "Texas 31st Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:32:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-us-house-28-primary-runoff.html",
+      "headline": "Texas 28th Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:32:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-us-house-29-primary-runoff.html",
+      "headline": "Texas 29th Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:32:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-us-house-23-primary-runoff.html",
+      "headline": "Texas 23rd Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:30:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-us-house-32-primary-runoff.html",
+      "headline": "Texas 32nd Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:30:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-us-house-12-primary-runoff.html",
+      "headline": "Texas 12th Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:30:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-us-house-35-primary-runoff.html",
+      "headline": "Texas 35th Congressional District Primary Runoff Election Results",
+      "timestamp": "2024-05-28T16:30:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
