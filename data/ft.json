@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-26T04:17:34.139Z",
+  "lastUpdated": "2024-05-29T04:20:01.663Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9806fecb-ec0a-49e1-9fff-b333845e6518",
+      "headline": "The FT’s UK general election model explained",
+      "timestamp": "2024-05-29T04:00:46.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
