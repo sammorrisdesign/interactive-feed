@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-05-25T08:18:31.459Z",
+  "lastUpdated": "2024-05-29T01:09:54.600Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-elecciones-mexico-sheinbaum-ventaja-recta-final/",
+      "headline": "Elecciones México 2024: Sheinbaum mantiene su ventaja en la recta final",
+      "timestamp": "2024-05-29T00:37:23.784Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexican-elections-poll-sheinbaum-lead-final-days-campaign/",
+      "headline": "Mexico Election 2024: Sheinbaum's Lead Steadies in Final Days of Campaign",
+      "timestamp": "2024-05-29T00:36:08.495Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

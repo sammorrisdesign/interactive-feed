@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-05-28T20:16:21.498Z",
+  "lastUpdated": "2024-05-29T01:09:54.582Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/05/28/us/elections/results-texas-state-house-21-primary-runoff.html",
+      "headline": "Texas State House 21st District Primary Runoff Results",
+      "timestamp": "2024-05-29T00:06:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
