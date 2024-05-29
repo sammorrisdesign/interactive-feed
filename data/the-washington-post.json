@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-29T10:38:28.810Z",
+  "lastUpdated": "2024-05-29T16:40:06.948Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/lifestyle/interactive/2024/spelling-test-word-quiz/",
+      "headline": "How many mispelled words can you spot in these sentances?",
+      "timestamp": "2024-05-29T16:30:19.795Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
