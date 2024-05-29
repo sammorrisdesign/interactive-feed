@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-05-26T09:16:34.796Z",
+  "lastUpdated": "2024-05-29T10:38:28.810Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2024/american-indian-boarding-schools-history-legacy/",
+      "headline": "They took the children: U.S. created Indian boarding schools to destroy cultures and seize land",
+      "timestamp": "2024-05-29T10:35:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2024/sexual-abuse-native-american-boarding-schools/",
+      "headline": "‘In the name of God’: Native American children endured years of sexual abuse at boarding schools",
+      "timestamp": "2024-05-29T10:35:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
