@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-29T04:20:01.663Z",
+  "lastUpdated": "2024-05-29T08:39:02.883Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/uk-general-election/2024/projection",
+      "headline": "Predict the UK general election result",
+      "timestamp": "2024-05-29T04:00:45.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
