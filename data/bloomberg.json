@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-05-29T01:09:54.600Z",
+  "lastUpdated": "2024-05-30T03:16:55.707Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/Mexico-Encuestas-Presidenciales-2024-ventaja-sheinbaum-galvez-veda/",
+      "headline": "Campaña de México finaliza con ventaja de 21 puntos para Sheinbaum",
+      "timestamp": "2024-05-30T02:53:16.080Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-mexico-elections-campaign-ends-sheinbaum-advantage-polls/",
+      "headline": "Mexico Campaign Ends With 21 Point Advantage for Sheinbaum",
+      "timestamp": "2024-05-30T02:53:09.845Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
