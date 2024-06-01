@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-31T10:36:58.394Z",
+  "lastUpdated": "2024-06-01T10:16:31.562Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/whats-washington-listening/",
+      "headline": "What’s Washington listening to?",
+      "timestamp": "2024-06-01T10:00:41.045Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
