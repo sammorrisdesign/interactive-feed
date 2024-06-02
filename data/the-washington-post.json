@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-01T10:16:31.562Z",
+  "lastUpdated": "2024-06-02T11:12:50.448Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/science/interactive/2024/loud-restaurant-noise-health-effects/",
+      "headline": "Why restaurants are so loud, and what science says we can do about it",
+      "timestamp": "2024-06-01T20:19:53.065Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
