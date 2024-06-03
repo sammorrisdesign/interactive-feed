@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-06-02T15:14:40.919Z",
+  "lastUpdated": "2024-06-03T10:39:54.909Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2024/jun/03/uk-general-election-opinion-polls-tracker-latest-labour-tories-2024",
+      "headline": "UK general election opinion polls tracker: Labour significantly ahead of Tories as campaign continues",
+      "timestamp": "2024-06-03T10:29:10.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
