@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-02T12:27:12.204Z",
+  "lastUpdated": "2024-06-03T02:45:13.307Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-india-election/",
+      "headline": "India Election Results 2024",
+      "timestamp": "2024-06-03T02:30:19.191Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
