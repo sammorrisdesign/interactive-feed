@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-05-29T08:39:02.883Z",
+  "lastUpdated": "2024-06-03T08:20:24.686Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/4e7359f0-f9bc-4830-bc2f-72955cdef6d7",
+      "headline": "La Niña switch expected to fuel extreme weather later this year",
+      "timestamp": "2024-06-03T08:00:08.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
