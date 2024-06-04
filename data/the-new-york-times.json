@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-06-04T18:20:13.581Z",
+  "lastUpdated": "2024-06-04T21:14:12.091Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/movies/pablo-berger-robot-dreams-movie.html",
+      "headline": "Bringing a New York Street Scene to Life in ‘Robot Dreams’",
+      "timestamp": "2024-06-04T21:03:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-washington-dc-us-delegate-primary.html",
+      "headline": "District of Columbia U.S. Delegate Primary Election Results",
+      "timestamp": "2024-06-04T20:46:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-washington-dc-shadow-senator-primary.html",
+      "headline": "District of Columbia Shadow Senator Primary Election Results",
+      "timestamp": "2024-06-04T20:46:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
