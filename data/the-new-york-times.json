@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2024-06-04T09:17:59.049Z",
+  "lastUpdated": "2024-06-04T18:20:13.581Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-washington-dc-primary.html",
+      "headline": "District of Columbia Primary Election Results",
+      "timestamp": "2024-06-04T17:37:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-south-dakota-primary.html",
+      "headline": "South Dakota Primary Election Results",
+      "timestamp": "2024-06-04T17:37:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-new-mexico-primary.html",
+      "headline": "New Mexico Primary Election Results",
+      "timestamp": "2024-06-04T17:37:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-montana-primary.html",
+      "headline": "Montana Primary Election Results",
+      "timestamp": "2024-06-04T17:36:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-iowa-primary.html",
+      "headline": "Iowa Primary Election Results",
+      "timestamp": "2024-06-04T17:36:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-new-mexico-us-house-2-primary.html",
+      "headline": "New Mexico 2nd Congressional District Primary Election Results",
+      "timestamp": "2024-06-04T17:32:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-new-jersey-us-house-1-primary.html",
+      "headline": "New Jersey 1st Congressional District Primary Election Results",
+      "timestamp": "2024-06-04T17:32:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/04/us/elections/results-washington-dc-democratic-presidential-primary.html",
+      "headline": "District of Columbia Democratic Primary Election Results",
+      "timestamp": "2024-06-04T17:32:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
