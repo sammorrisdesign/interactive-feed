@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-03T08:20:24.686Z",
+  "lastUpdated": "2024-06-05T23:38:39.666Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f03ee739-052e-41b0-9252-e8cc2a42af1c",
+      "headline": "How Indian voters stripped Modi of his parliamentary majority — in charts",
+      "timestamp": "2024-06-05T13:47:51.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
