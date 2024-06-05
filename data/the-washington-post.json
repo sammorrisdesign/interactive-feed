@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-04T13:36:34.305Z",
+  "lastUpdated": "2024-06-05T16:40:44.250Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2024/pick-your-vacation-quiz/",
+      "headline": "Can’t decide on a vacation? Choose your own adventure with our quiz.",
+      "timestamp": "2024-06-05T16:20:06.251Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
