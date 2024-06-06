@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-05T23:38:39.666Z",
+  "lastUpdated": "2024-06-06T04:18:22.549Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d2a83880-7e2a-4aa6-8535-13088cb55033",
+      "headline": "What swing state Michigan’s boom says about the Biden economy",
+      "timestamp": "2024-06-06T04:00:04.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
