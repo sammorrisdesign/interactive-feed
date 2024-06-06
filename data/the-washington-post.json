@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-06T13:18:06.540Z",
+  "lastUpdated": "2024-06-06T13:38:04.017Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/transgender-sports-debate-politics/",
+      "headline": "The fiercest political clash in sports",
+      "timestamp": "2024-06-06T13:30:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
