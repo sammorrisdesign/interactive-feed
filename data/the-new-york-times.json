@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-06-05T21:36:51.677Z",
+  "lastUpdated": "2024-06-06T09:17:56.718Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/06/realestate/dubai-apartments-sale-hunt.html",
+      "headline": "A French Expat Tries Buying in Dubai. What Could She Find for Under $1 Million?",
+      "timestamp": "2024-06-06T09:04:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/06/travel/things-to-do-brooklyn.html",
+      "headline": "36 Hours in Brooklyn",
+      "timestamp": "2024-06-06T09:00:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
