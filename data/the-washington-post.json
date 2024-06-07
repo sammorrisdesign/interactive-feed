@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-07T10:16:29.444Z",
+  "lastUpdated": "2024-06-07T10:38:11.143Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/smart-pet-technology-care-ai/",
+      "headline": "How AI is helping (and possibly harming) our pets",
+      "timestamp": "2024-06-07T10:30:31.063Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
