@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-06T13:38:04.017Z",
+  "lastUpdated": "2024-06-07T10:16:29.444Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/heat-index-temperatures-global-cities/",
+      "headline": "More than 1.5 billion people have faced dangerous heat this year",
+      "timestamp": "2024-06-07T10:00:24.044Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
