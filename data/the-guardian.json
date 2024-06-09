@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-06-09T13:16:09.190Z",
+  "lastUpdated": "2024-06-09T15:15:00.738Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/jun/09/european-elections-results-2024-europe-eu-parliament",
+      "headline": "European election results 2024: live from across the EU",
+      "timestamp": "2024-06-09T15:08:33.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
