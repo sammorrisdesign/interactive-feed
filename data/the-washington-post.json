@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-07T10:38:11.143Z",
+  "lastUpdated": "2024-06-10T09:18:09.354Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/microplastics-air-human-body-organs-spread/",
+      "headline": "The plastics we breathe",
+      "timestamp": "2024-06-10T09:00:00.665Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
