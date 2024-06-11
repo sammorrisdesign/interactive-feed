@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-05-28T20:36:34.868Z",
+  "lastUpdated": "2024-06-11T17:14:50.737Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/map-where-can-you-afford-a-home-in-the-united-states-rcna155286",
+      "headline": "Find out where in the U.S. can you afford a home on your income",
+      "timestamp": "2024-06-11T16:52:14.000Z"
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/housing-affordability-worst-and-costs-highest-rcna155285",
+      "headline": "‘An impossible market:’ The homebuying affordability gap is widening",
+      "timestamp": "2024-06-11T16:52:08.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",

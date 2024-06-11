@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2024-06-10T14:38:02.818Z",
+  "lastUpdated": "2024-06-11T17:14:50.684Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-south-carolina-primary.html",
+      "headline": "South Carolina Primary Election Results",
+      "timestamp": "2024-06-11T17:11:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-north-dakota-primary.html",
+      "headline": "North Dakota Primary Election Results",
+      "timestamp": "2024-06-11T17:10:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-maine-primary.html",
+      "headline": "Maine Primary Election Results",
+      "timestamp": "2024-06-11T17:10:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-nevada-primary.html",
+      "headline": "Nevada Primary Election Results",
+      "timestamp": "2024-06-11T17:10:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-ohio-us-house-6-special.html",
+      "headline": "Ohio 6th Congressional District Special Election Results",
+      "timestamp": "2024-06-11T17:06:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-south-carolina-us-house-4-primary.html",
+      "headline": "South Carolina 4th Congressional District Primary Election Results",
+      "timestamp": "2024-06-11T17:06:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-south-carolina-us-house-3-primary.html",
+      "headline": "South Carolina 3rd Congressional District Primary Election Results",
+      "timestamp": "2024-06-11T17:06:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-south-carolina-us-house-5-primary.html",
+      "headline": "South Carolina 5th Congressional District Primary Election Results",
+      "timestamp": "2024-06-11T17:06:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-south-carolina-us-house-6-primary.html",
+      "headline": "South Carolina 6th Congressional District Primary Election Results",
+      "timestamp": "2024-06-11T17:06:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/11/us/elections/results-nevada-us-senate-primary.html",
+      "headline": "Nevada U.S. Senate Primary Election Results",
+      "timestamp": "2024-06-11T17:06:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
