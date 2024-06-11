@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-11T09:18:01.597Z",
+  "lastUpdated": "2024-06-11T13:36:34.204Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/sports-society-divisiveness-media-journalism/",
+      "headline": "The media’s role in fracturing sports",
+      "timestamp": "2024-06-11T13:30:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
