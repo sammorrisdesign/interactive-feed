@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-06-11T17:14:50.684Z",
+  "lastUpdated": "2024-06-12T09:16:59.890Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/12/crosswords/12connections-quiz.html",
+      "headline": "Connections Quiz: Can you connect the art to the puzzle?",
+      "timestamp": "2024-06-12T09:04:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/12/realestate/tony-nominee-2024-brian-darcy-james.html",
+      "headline": "At Home With - Brian d’Arcy James",
+      "timestamp": "2024-06-12T09:04:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
