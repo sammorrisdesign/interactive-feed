@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-06-12T04:18:50.487Z",
+  "lastUpdated": "2024-06-12T12:29:57.587Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2024/jun/12/the-cocaine-superhighway-how-death-and-destruction-mark-drugs-path-from-south-america-to-europe",
+      "headline": "‘The cocaine superhighway’: how death and destruction mark drug’s path from South America to Europe",
+      "timestamp": "2024-06-12T12:15:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/society/ng-interactive/2024/jun/12/dear-mamma-a-journey-of-acceptance-for-a-mother-and-transgender-son",
+      "headline": "Dear Mamma: a journey of acceptance for a mother and transgender son",
+      "timestamp": "2024-06-12T11:59:46.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",

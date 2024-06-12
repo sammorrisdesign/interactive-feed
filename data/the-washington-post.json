@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-06-11T13:36:34.204Z",
+  "lastUpdated": "2024-06-12T12:29:57.595Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2024/south-bend-police-child-sexual-abuse-punishment/",
+      "headline": "An officer sexually abused a teen in his police car. How will he be punished? ",
+      "timestamp": "2024-06-12T12:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2024/police-officers-child-sexual-abuse-in-america/",
+      "headline": "Abused by the badge ",
+      "timestamp": "2024-06-12T12:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
