@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-09T19:13:23.251Z",
+  "lastUpdated": "2024-06-12T04:18:50.495Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/2d0013d2-a407-449f-b1e2-3d14fe65188f",
+      "headline": "Moscow lists abducted Ukrainian children on adoption sites",
+      "timestamp": "2024-06-12T04:00:14.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
