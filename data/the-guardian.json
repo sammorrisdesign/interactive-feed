@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-06-12T12:29:57.587Z",
+  "lastUpdated": "2024-06-12T13:18:15.792Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/jun/12/social-media-crime-washington-dc",
+      "headline": "They post constant crime news from police scanners. But does it feed into rightwing fears?",
+      "timestamp": "2024-06-12T13:00:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
