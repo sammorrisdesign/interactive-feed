@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-06-12T09:16:59.890Z",
+  "lastUpdated": "2024-06-13T09:17:25.303Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/13/travel/things-to-do-ljubljana.html",
+      "headline": "36 Hours in Ljubljana, Slovenia",
+      "timestamp": "2024-06-13T09:06:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/13/realestate/brooklyn-windsor-terrace-south-slope-home-search.html",
+      "headline": "They Wanted a Small House on a Quiet Brooklyn Street. Would Their Budget Cover It?",
+      "timestamp": "2024-06-13T09:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/13/realestate/lincoln-center-san-juan-hill.html",
+      "headline": "For Lincoln Center’s West Side, A New Story",
+      "timestamp": "2024-06-13T09:04:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/13/us/abortion-state-laws-ban-travel.html",
+      "headline": "171,000 Traveled for Abortions Last Year. See Where They Went.",
+      "timestamp": "2024-06-13T09:04:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
