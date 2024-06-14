@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-12T04:18:50.495Z",
+  "lastUpdated": "2024-06-14T04:18:58.345Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f3a4417b-ea97-4855-a943-fdf6b5f1ed48",
+      "headline": "The pollsters’ conundrum: how big or small a victory could Labour win?",
+      "timestamp": "2024-06-14T04:00:22.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
