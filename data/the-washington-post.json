@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-13T19:36:28.487Z",
+  "lastUpdated": "2024-06-14T16:39:23.421Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/06/14/defense-bill-house-vote/",
+      "headline": "How every House member voted on the National Defense Authorization Act",
+      "timestamp": "2024-06-14T16:30:37.734Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
