@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-14T16:39:23.421Z",
+  "lastUpdated": "2024-06-15T10:17:08.723Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2024/mauree-turner-oklahoma-legislature/",
+      "headline": "The lonely, resolute path of Oklahoma legislator Mauree Turner",
+      "timestamp": "2024-06-15T10:00:42.792Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
