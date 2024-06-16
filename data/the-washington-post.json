@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-15T10:17:08.723Z",
+  "lastUpdated": "2024-06-16T10:16:59.767Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/lionel-messi-argentina-fan-scene/",
+      "headline": "The magic and mania of Lionel Messi",
+      "timestamp": "2024-06-16T10:00:45.167Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
