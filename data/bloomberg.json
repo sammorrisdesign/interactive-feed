@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-18T04:18:21.689Z",
+  "lastUpdated": "2024-06-18T09:17:12.224Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-nyc-police-helicopter-flights/",
+      "headline": "Police Helicopter Flights and Spending Soar in New York City",
+      "timestamp": "2024-06-18T09:00:03.511Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
