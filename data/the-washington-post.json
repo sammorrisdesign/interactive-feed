@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-06-16T10:16:59.767Z",
+  "lastUpdated": "2024-06-18T10:18:41.049Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/habits-new-years-resolutions/",
+      "headline": "Juggle, swim, make the bed! How these readers forged new habits.",
+      "timestamp": "2024-06-18T10:00:33.160Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/undecided-voters-views-2024-election/",
+      "headline": "Compare your views with those of the voters who may swing the election",
+      "timestamp": "2024-06-18T10:00:24.427Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

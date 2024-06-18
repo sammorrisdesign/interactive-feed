@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-03-21T10:14:14.773Z",
+  "lastUpdated": "2024-06-18T10:18:41.091Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/527-explorer/",
+      "headline": "527 Explorer",
+      "timestamp": "2024-06-18T10:00:00.000Z"
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
