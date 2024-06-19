@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-14T04:18:58.345Z",
+  "lastUpdated": "2024-06-19T23:15:47.079Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f0e1f4fa-bc5a-45e9-9257-871dae461e5d",
+      "headline": "Energy emissions hit record high on rising fossil fuel demand, says report ",
+      "timestamp": "2024-06-19T23:01:26.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
