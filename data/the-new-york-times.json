@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-06-19T02:20:08.148Z",
+  "lastUpdated": "2024-06-19T09:19:52.987Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/19/world/africa/sudan-darfur-siege.html",
+      "headline": "A Massacre Threatens Darfur — Again",
+      "timestamp": "2024-06-19T09:01:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
