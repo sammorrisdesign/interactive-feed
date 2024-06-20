@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-06-19T15:17:33.477Z",
+  "lastUpdated": "2024-06-20T09:18:34.048Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/20/realestate/rome-italy-apartment-prices-hunt.html",
+      "headline": "It Was ‘Love at First Sight’ in the Heart of Rome. But for Which Apartment?",
+      "timestamp": "2024-06-20T09:03:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/20/opinion/nuclear-weapons-testing.html",
+      "headline": "The Human Toll of Nuclear Testing",
+      "timestamp": "2024-06-20T09:03:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/20/travel/things-to-do-portland-maine.html",
+      "headline": "36 Hours in Portland, Maine",
+      "timestamp": "2024-06-20T09:00:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-19T23:15:47.079Z",
+  "lastUpdated": "2024-06-20T09:18:34.071Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f0d2a5a7-e5ef-4044-8380-ff690b609a5a",
+      "headline": "Birth rates in rich countries halve to hit record low",
+      "timestamp": "2024-06-20T09:07:30.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
