@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-18T09:17:12.224Z",
+  "lastUpdated": "2024-06-20T09:36:33.142Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-opinion-biden-ira-sends-green-energy-investment-republican-districts/",
+      "headline": "Biden Is Giving Red Districts an Inconvenient Gift: Green Jobs",
+      "timestamp": "2024-06-20T09:30:02.945Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
