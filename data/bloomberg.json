@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-20T09:36:33.142Z",
+  "lastUpdated": "2024-06-21T16:39:22.486Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-ai-data-centers-power-grids/",
+      "headline": "AI Is Already Wreaking Havoc on Global Power Systems",
+      "timestamp": "2024-06-21T16:34:40.558Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
