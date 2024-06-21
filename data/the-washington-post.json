@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-06-20T09:18:34.061Z",
+  "lastUpdated": "2024-06-21T10:16:36.853Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/top-workplaces-2024/",
+      "headline": "Top Workplaces 2024",
+      "timestamp": "2024-06-21T10:00:56.079Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/baby-names-trendy-suffixes/",
+      "headline": "The mysterious tyranny of trendy baby names",
+      "timestamp": "2024-06-21T10:00:07.128Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
