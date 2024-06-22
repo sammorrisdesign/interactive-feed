@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-22T10:16:47.843Z",
+  "lastUpdated": "2024-06-22T12:27:33.396Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/ai-startups-boom-san-francisco/",
+      "headline": "A peek inside San Francisco’s AI boom",
+      "timestamp": "2024-06-22T12:05:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
