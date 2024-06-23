@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-20T09:18:34.071Z",
+  "lastUpdated": "2024-06-23T04:18:01.757Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/0aadcd8a-bbeb-4003-8ed1-a4750a9a1604",
+      "headline": "French trust Marine Le Pen’s RN most on economy",
+      "timestamp": "2024-06-23T04:00:43.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
