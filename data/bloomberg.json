@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-21T16:39:22.486Z",
+  "lastUpdated": "2024-06-23T06:21:01.101Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-opinion-how-to-plan-green-wedding-carbon-footprint-calculator",
+      "headline": "An Opinionated Guide to Big, Fat, Green Weddings",
+      "timestamp": "2024-06-23T06:00:03.203Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
