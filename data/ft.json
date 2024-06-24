@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-23T04:18:01.757Z",
+  "lastUpdated": "2024-06-24T17:36:17.542Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/2307e263-6cbb-4529-bf2c-0bb089f6c99b",
+      "headline": "French parliamentary election tracker 2024",
+      "timestamp": "2024-06-24T17:25:06.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
