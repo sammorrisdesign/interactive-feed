@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-06-24T14:37:22.596Z",
+  "lastUpdated": "2024-06-24T20:16:17.462Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/24/technology/test-imagenes-falsas-IA-midjourney-facebook.html",
+      "headline": "La inteligencia artificial mejora rápidamente. ¿Puedes distinguir lo que es real?",
+      "timestamp": "2024-06-24T19:59:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
