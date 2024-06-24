@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-06-23T04:18:01.743Z",
+  "lastUpdated": "2024-06-24T09:18:54.990Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/24/technology/ai-deepfake-facebook-midjourney-quiz.html",
+      "headline": "A.I. Is Getting Better Fast. Can You Tell What’s Real Now?",
+      "timestamp": "2024-06-24T09:02:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/24/world/europe/uk-conservatives.html",
+      "headline": "How Support for Britain’s Conservative Party is Collapsing",
+      "timestamp": "2024-06-24T09:01:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
