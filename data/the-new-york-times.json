@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-06-25T18:21:30.330Z",
+  "lastUpdated": "2024-06-25T20:38:53.277Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-utah-us-house-3-primary.html",
+      "headline": "Utah 3rd Congressional District Primary Election Results",
+      "timestamp": "2024-06-25T20:12:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-utah-attorney-general-primary.html",
+      "headline": "Utah Attorney General Primary Election Results",
+      "timestamp": "2024-06-25T20:12:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-utah-governor-primary.html",
+      "headline": "Utah Governor Primary Election Results",
+      "timestamp": "2024-06-25T20:12:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-utah-auditor-primary.html",
+      "headline": "Utah Auditor Primary Election Results",
+      "timestamp": "2024-06-25T20:12:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
