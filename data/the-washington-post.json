@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-25T11:13:52.686Z",
+  "lastUpdated": "2024-06-25T12:29:54.308Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/us-spending-housing-healthcare-costs/",
+      "headline": "See how your spending habits differ from previous generations",
+      "timestamp": "2024-06-25T12:05:51.668Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
