@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-24T17:36:17.542Z",
+  "lastUpdated": "2024-06-25T04:18:26.281Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/8631dfdd-873a-4b1b-a0ba-24c4c56aeedc",
+      "headline": "In charts: Iran’s economic pain as voters head to polls",
+      "timestamp": "2024-06-25T04:00:52.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
