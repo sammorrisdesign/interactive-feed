@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2024-06-25T05:15:32.381Z",
+  "lastUpdated": "2024-06-25T18:21:30.330Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-new-york-assembly.html",
+      "headline": "New York State Assembly Primary Election Results",
+      "timestamp": "2024-06-25T18:10:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-colorado-us-house-8-primary.html",
+      "headline": "Colorado 8th Congressional District Primary Election Results",
+      "timestamp": "2024-06-25T18:06:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-new-york-us-house-15-primary.html",
+      "headline": "New York 15th Congressional District Primary Election Results",
+      "timestamp": "2024-06-25T18:06:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-new-york-us-house-22-primary.html",
+      "headline": "New York 22nd Congressional District Primary Election Results",
+      "timestamp": "2024-06-25T18:06:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/25/us/elections/results-utah-us-house-2-primary.html",
+      "headline": "Utah 2nd Congressional District Primary Election Results",
+      "timestamp": "2024-06-25T18:06:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
