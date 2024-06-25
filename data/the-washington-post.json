@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-22T12:27:33.396Z",
+  "lastUpdated": "2024-06-25T11:13:52.686Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/biden-trump-age-global-leaders-comparison/",
+      "headline": "Even among world leaders, Biden and Trump are old",
+      "timestamp": "2024-06-25T11:00:01.951Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
