@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-26T12:31:22.095Z",
+  "lastUpdated": "2024-06-26T17:13:50.016Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/presidential-polling-averages/",
+      "headline": "Who is ahead in 2024 presidential polls right now?",
+      "timestamp": "2024-06-26T17:00:35.400Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
