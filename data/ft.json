@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-25T04:18:26.281Z",
+  "lastUpdated": "2024-06-26T04:19:58.298Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/afghan-mining/",
+      "headline": "How the Taliban took over Afghanistan’s mines",
+      "timestamp": "2024-06-26T04:00:11.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",

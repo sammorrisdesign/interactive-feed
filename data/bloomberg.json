@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-25T05:37:07.144Z",
+  "lastUpdated": "2024-06-26T04:19:58.301Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-uk-election-sewage/",
+      "headline": "England’s Sewage-Infested Waters Spill Into Election Campaign",
+      "timestamp": "2024-06-26T04:00:33.947Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
