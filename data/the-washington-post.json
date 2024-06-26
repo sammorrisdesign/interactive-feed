@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-26T10:17:23.993Z",
+  "lastUpdated": "2024-06-26T12:31:22.095Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/dc-heat-island-kingman-park/",
+      "headline": "A day in one of D.C.’s ‘heat islands’",
+      "timestamp": "2024-06-26T12:00:56.574Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
