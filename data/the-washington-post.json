@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-26T17:13:50.016Z",
+  "lastUpdated": "2024-06-27T09:16:46.689Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/green-hydrogen-water-clean-fuel-process/",
+      "headline": "How water could be the future of fuel",
+      "timestamp": "2024-06-27T09:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

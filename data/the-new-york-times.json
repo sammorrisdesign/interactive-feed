@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-06-27T03:37:15.905Z",
+  "lastUpdated": "2024-06-27T09:16:46.674Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/27/realestate/Flatiron-garment-district-kips-bay-home-search.html",
+      "headline": "Pandemic-Era Newlyweds Consider an Age-Old Question: To Buy or Not to Buy?",
+      "timestamp": "2024-06-27T09:05:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/27/us/supreme-court-chamber-photos.html",
+      "headline": "Behind the Curtain at the Supreme Court",
+      "timestamp": "2024-06-27T09:03:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/27/travel/things-to-do-dublin.html",
+      "headline": "36 Hours in Dublin",
+      "timestamp": "2024-06-27T09:02:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/06/27/t-magazine/lgbtq-queer-artists-pride.html",
+      "headline": "30 L.G.B.T.Q. Artists Look Back on the Pleasures and Pain of Being 30",
+      "timestamp": "2024-06-27T09:02:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
