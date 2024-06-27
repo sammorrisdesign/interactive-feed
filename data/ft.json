@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-27T04:20:53.283Z",
+  "lastUpdated": "2024-06-27T12:30:16.792Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/cbd46c42-9729-41ee-bc3e-16016924b779",
+      "headline": "Teens lack financial literacy and maths skills for digital economy, OECD report finds",
+      "timestamp": "2024-06-27T11:35:45.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
