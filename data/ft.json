@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-26T04:19:58.298Z",
+  "lastUpdated": "2024-06-27T04:20:53.283Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9b4c3cab-13b6-4195-a496-555c7a1db15b",
+      "headline": "How Israel is creating a ‘dead zone’ in Lebanon",
+      "timestamp": "2024-06-27T04:00:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
