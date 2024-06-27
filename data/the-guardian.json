@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-06-26T14:14:30.293Z",
+  "lastUpdated": "2024-06-27T14:37:05.341Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/jun/27/supreme-court-allows-emergency-abortions-idaho",
+      "headline": "US supreme court dismisses case over law blocking emergency abortions in Idaho",
+      "timestamp": "2024-06-27T14:31:02.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/jun/27/us-supreme-court-purdue-pharma-opioids",
+      "headline": "US supreme court blocks Purdue Pharma’s bankruptcy settlement that would shield Sacklers from lawsuits",
+      "timestamp": "2024-06-27T14:18:14.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
