@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-06-27T14:37:05.341Z",
+  "lastUpdated": "2024-06-27T15:17:49.189Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/jun/27/supreme-court-epa-pollution-ruling",
+      "headline": "US supreme court puts hold on EPA attempt to reduce pollution that drifts across states",
+      "timestamp": "2024-06-27T14:06:31.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
