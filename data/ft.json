@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-27T12:30:16.792Z",
+  "lastUpdated": "2024-06-27T17:15:52.689Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d82000ee-b141-48ec-8af0-b06802c08f88",
+      "headline": "Trump vs Biden: tracking the 2024 US presidential ad battle",
+      "timestamp": "2024-06-27T17:11:30.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
