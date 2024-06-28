@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-06-27T15:17:49.189Z",
+  "lastUpdated": "2024-06-28T05:15:04.208Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2024/jun/28/how-the-unforced-error-of-tory-austerity-wrecked-britain",
+      "headline": "How the ‘unforced error’ of austerity wrecked Britain",
+      "timestamp": "2024-06-28T05:00:13.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
