@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-27T17:15:52.689Z",
+  "lastUpdated": "2024-06-28T04:18:36.455Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/93319f6d-9837-429c-9cb3-07361ca4c106",
+      "headline": "The dazzling rise and fall of Macronism",
+      "timestamp": "2024-06-28T04:00:28.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
