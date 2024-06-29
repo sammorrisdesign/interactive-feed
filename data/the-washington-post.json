@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-27T17:15:52.682Z",
+  "lastUpdated": "2024-06-29T10:36:39.683Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/young-voters-election-2024-democracy/",
+      "headline": "Can a civics teacher persuade her students to believe in democracy?",
+      "timestamp": "2024-06-29T10:00:13.756Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
