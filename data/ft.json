@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-28T04:18:36.455Z",
+  "lastUpdated": "2024-06-30T17:13:50.960Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e72eeffb-a5bf-4896-9e60-34f539eca37c",
+      "headline": "French election live: Voters turn out in record numbers",
+      "timestamp": "2024-06-30T16:56:36.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
