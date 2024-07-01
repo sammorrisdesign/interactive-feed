@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-07-01T13:19:29.874Z",
+  "lastUpdated": "2024-07-01T15:16:45.132Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/jul/01/supreme-court-decision-trump-immunity-ruling",
+      "headline": "US supreme court rules Trump has ‘absolute immunity’ for official acts",
+      "timestamp": "2024-07-01T14:36:20.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
