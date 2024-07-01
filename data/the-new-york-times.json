@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-01T16:19:06.491Z",
+  "lastUpdated": "2024-07-01T19:37:21.802Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/01/upshot/congestion-pricing.html",
+      "headline": "We Counted 22,252 Cars to See How Much Congestion Pricing Might Have Made This Morning",
+      "timestamp": "2024-07-01T19:22:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
