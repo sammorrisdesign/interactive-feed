@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2024-07-01T19:37:21.802Z",
+  "lastUpdated": "2024-07-01T21:15:19.076Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-arizona.html",
+      "headline": "Election 2024 Polls: Arizona",
+      "timestamp": "2024-07-01T20:48:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-wisconsin.html",
+      "headline": "Election 2024 Polls: Wisconsin",
+      "timestamp": "2024-07-01T20:47:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-pennsylvania.html",
+      "headline": "Election 2024 Polls: Pennsylvania",
+      "timestamp": "2024-07-01T20:47:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-north-carolina.html",
+      "headline": "Election 2024 Polls: North Carolina",
+      "timestamp": "2024-07-01T20:47:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-nevada.html",
+      "headline": "Election 2024 Polls: Nevada",
+      "timestamp": "2024-07-01T20:47:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-michigan.html",
+      "headline": "Election 2024 Polls: Michigan",
+      "timestamp": "2024-07-01T20:47:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-georgia.html",
+      "headline": "Election 2024 Polls: Georgia",
+      "timestamp": "2024-07-01T20:47:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
