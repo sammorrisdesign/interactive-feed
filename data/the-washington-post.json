@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-30T05:14:02.605Z",
+  "lastUpdated": "2024-07-01T09:20:33.954Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2024/dc-school-math-quiz/",
+      "headline": "After pandemic closures, kids are still behind. Can you do their math?",
+      "timestamp": "2024-07-01T09:00:55.632Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
