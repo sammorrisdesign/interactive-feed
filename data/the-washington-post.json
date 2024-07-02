@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-01T09:20:33.954Z",
+  "lastUpdated": "2024-07-02T09:16:47.538Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/how-accurate-is-the-weather-forecast/",
+      "headline": "How accurate is the weather forecast in your city?",
+      "timestamp": "2024-07-02T09:00:30.222Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
