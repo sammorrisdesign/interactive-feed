@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-07-02T10:38:25.159Z",
+  "lastUpdated": "2024-07-02T15:36:50.393Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/jul/03/why-so-many-australian-homes-are-either-too-hot-or-too-cold",
+      "headline": "Why so many Australian homes are either too hot or too cold",
+      "timestamp": "2024-07-02T15:00:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
