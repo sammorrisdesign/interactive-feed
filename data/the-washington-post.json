@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-02T09:16:47.538Z",
+  "lastUpdated": "2024-07-03T09:17:11.501Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/us-citizenship-quiz/",
+      "headline": "Can you pass a U.S. citizenship test? Take our civics quiz.",
+      "timestamp": "2024-07-03T09:00:29.171Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
