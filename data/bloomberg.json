@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-02T10:16:55.402Z",
+  "lastUpdated": "2024-07-03T17:36:42.325Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-uk-election-results/",
+      "headline": "2024 UK General Election Results",
+      "timestamp": "2024-07-03T17:28:08.734Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

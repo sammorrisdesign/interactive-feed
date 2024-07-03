@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-07-03T17:14:06.987Z",
+  "lastUpdated": "2024-07-03T17:36:42.305Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/03/us/elections/times-siena-poll-toplines.html",
+      "headline": "Toplines: July 2024 Times/Siena Poll of Registered Voters Nationwide",
+      "timestamp": "2024-07-03T17:29:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/03/us/elections/times-siena-poll-registered-voter-crosstabs.html",
+      "headline": "Cross-Tabs: July 2024 Times/Siena Poll of Registered Voters Nationwide",
+      "timestamp": "2024-07-03T17:29:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/03/us/elections/times-siena-poll-likely-electorate-crosstabs.html",
+      "headline": "Cross-Tabs: July 2024 Times/Siena Poll of the Likely Electorate",
+      "timestamp": "2024-07-03T17:29:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
