@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-03T11:13:27.049Z",
+  "lastUpdated": "2024-07-03T14:16:37.714Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/what-makes-tennis-surfaces-different/",
+      "headline": "Order in the court: An animated look at how tennis surfaces change the game",
+      "timestamp": "2024-07-03T14:00:35.850Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
