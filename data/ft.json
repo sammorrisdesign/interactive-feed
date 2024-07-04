@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-04T14:36:50.183Z",
+  "lastUpdated": "2024-07-04T20:37:09.303Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/uk-general-election/2024/results/",
+      "headline": "Live results: Exit poll to be released when voting ends at 10pm",
+      "timestamp": "2024-07-04T06:01:35.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
