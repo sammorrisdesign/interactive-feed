@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-07-03T22:37:10.413Z",
+  "lastUpdated": "2024-07-04T09:17:57.249Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/04/us/presidential-debate-trump-biden-voters.html",
+      "headline": "How a Weekend of Media and Memes Shaped Six Voters’ Thoughts About the Debate",
+      "timestamp": "2024-07-04T09:05:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/04/realestate/virginia-washington-dc-condo-sale.html",
+      "headline": "From an R.V. to a Condo Near Washington: Which Was Better for Their Growing Family?",
+      "timestamp": "2024-07-04T09:05:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/04/travel/things-to-do-boston.html",
+      "headline": "36 Hours in Boston",
+      "timestamp": "2024-07-04T09:03:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
