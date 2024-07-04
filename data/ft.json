@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-03T04:18:36.714Z",
+  "lastUpdated": "2024-07-04T14:36:50.183Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f4f65270-3d27-4ec6-8179-af82e1b4e836",
+      "headline": "Europe’s newest rocket puts bloc’s space ambitions to the test",
+      "timestamp": "2024-06-30T04:00:58.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
