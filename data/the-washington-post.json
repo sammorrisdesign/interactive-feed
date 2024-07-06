@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-05T15:17:11.183Z",
+  "lastUpdated": "2024-07-06T09:18:42.417Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/nukes-space-explosion-nuclear-weapon-russia/",
+      "headline": "What would happen if Russia detonated a nuclear bomb in space?",
+      "timestamp": "2024-07-06T09:00:34.296Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
