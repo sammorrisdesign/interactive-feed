@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-05T09:18:22.600Z",
+  "lastUpdated": "2024-07-07T20:15:25.285Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-french-election-results/",
+      "headline": "French Legislative Election: Second Round Results",
+      "timestamp": "2024-07-07T20:10:29.719Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
