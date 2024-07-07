@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-06T09:18:42.417Z",
+  "lastUpdated": "2024-07-07T09:17:05.683Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2024/measles-outbreak-vaccine/",
+      "headline": "Isolation, extreme fatigue, lingering misery: What it’s like to survive measles",
+      "timestamp": "2024-07-07T09:00:45.521Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
