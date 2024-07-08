@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-07-07T09:17:05.683Z",
+  "lastUpdated": "2024-07-08T10:17:49.287Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/should-i-quit-my-job-quiz-reasons-leave/",
+      "headline": "Should you quit your job? Take our quiz.",
+      "timestamp": "2024-07-08T10:05:51.496Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2024/michigan-prosecutors-crumbley-parents-oxford-school-shooting/",
+      "headline": "Guilty: Inside the high-risk, historic prosecution of a school shooter’s parents",
+      "timestamp": "2024-07-08T10:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
