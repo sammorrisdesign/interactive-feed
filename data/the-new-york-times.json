@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-08T22:36:52.005Z",
+  "lastUpdated": "2024-07-09T19:12:27.423Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/09/dining/grocery-receipts.html",
+      "headline": "What Your Grocery Cart Says About You",
+      "timestamp": "2024-07-09T19:07:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
