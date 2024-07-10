@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-08T15:17:05.038Z",
+  "lastUpdated": "2024-07-10T04:20:06.448Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ef463ac9-4804-4ad7-b9a2-c113590f2f96",
+      "headline": "Type of Russian missile that struck Kyiv children’s hospital uses western components",
+      "timestamp": "2024-07-10T04:00:54.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
