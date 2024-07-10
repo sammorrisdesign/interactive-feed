@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-09T20:37:42.739Z",
+  "lastUpdated": "2024-07-10T09:16:54.113Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/10/us/politics/mar-a-lago-republicans-trump.html",
+      "headline": "How Mar-a-Lago Became the Center of Gravity for the Hard Right",
+      "timestamp": "2024-07-10T09:04:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
