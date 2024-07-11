@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-11T10:16:14.273Z",
+  "lastUpdated": "2024-07-11T11:36:40.530Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/africa-quiz-coups-elections-economy-trade/",
+      "headline": "Does Africa need to be more than an afterthought?",
+      "timestamp": "2024-07-11T11:15:10.235Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
