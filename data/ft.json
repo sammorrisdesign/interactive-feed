@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-11T02:23:24.373Z",
+  "lastUpdated": "2024-07-11T16:40:14.520Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/2d37dc16-5c73-4f2a-92a5-a78326f9dc3d",
+      "headline": "Global population to shrink this century as birth rates fall",
+      "timestamp": "2024-07-11T16:30:17.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
