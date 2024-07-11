@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-11T11:36:40.530Z",
+  "lastUpdated": "2024-07-11T18:20:50.340Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2024/henri-matisse-studio-quai-saint-michel/",
+      "headline": "Everything changed for Matisse after he painted this nude ",
+      "timestamp": "2024-07-11T17:50:27.798Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
