@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-10T04:20:06.448Z",
+  "lastUpdated": "2024-07-11T02:23:24.373Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f822a309-4d62-451d-8098-cc8adc727f93",
+      "headline": "How bad are Biden’s post-debate poll numbers?",
+      "timestamp": "2024-07-10T19:57:42.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
