@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-07-11T04:21:04.586Z",
+  "lastUpdated": "2024-07-11T09:18:47.857Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/11/opinion/editorials/donald-trump-2024-unfit.html",
+      "headline": "Donald Trump Is Unfit to Lead",
+      "timestamp": "2024-07-11T09:09:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/11/realestate/11hunt-shoemaker.html",
+      "headline": "Searching the East Side of Manhattan for a Two-Bedroom Co-op. What Could They Get for Around $1 Million?",
+      "timestamp": "2024-07-11T09:04:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/11/opinion/housing-deregulation-panacea-policy.html",
+      "headline": "Yes In My Backyard: The Case for Housing Deregulation",
+      "timestamp": "2024-07-11T09:03:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/11/nyregion/subway-cuts-congestion-pricing.html",
+      "headline": "See How Your Subway Service May Suffer From the Congestion Pricing Delay",
+      "timestamp": "2024-07-11T09:02:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
