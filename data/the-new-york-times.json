@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-07-11T14:14:44.799Z",
+  "lastUpdated": "2024-07-12T09:17:48.155Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/12/opinion/biden-trump-electoral-map-outlook.html",
+      "headline": "These Maps Show Biden’s Rapidly Shrinking Path to Re-election",
+      "timestamp": "2024-07-12T09:04:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/books/21st-century-books-read-next.html",
+      "headline": "That’s a Dizzying List! Help Me Choose a Book.",
+      "timestamp": "2024-07-12T09:02:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
