@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-12T09:17:48.170Z",
+  "lastUpdated": "2024-07-12T16:19:44.691Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/cognitive-test-questions-biden/",
+      "headline": "Biden is resistant to taking a cognitive test. Try a short one yourself.  ",
+      "timestamp": "2024-07-12T15:45:01.070Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
