@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-12T19:37:12.099Z",
+  "lastUpdated": "2024-07-14T02:29:34.224Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/13/us/trump-rally-shooting-maps-photos.html",
+      "headline": "Shooting at a Trump Rally in Pennsylvania: Diagrams, Maps and Photos",
+      "timestamp": "2024-07-14T01:36:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
