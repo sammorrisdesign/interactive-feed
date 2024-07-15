@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-15T09:18:03.967Z",
+  "lastUpdated": "2024-07-15T14:37:00.907Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/15/us/trump-documents.html",
+      "headline": "Read the Ruling That Dismisses the Documents Case Against Trump",
+      "timestamp": "2024-07-15T14:30:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
