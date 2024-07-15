@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-14T06:23:55.174Z",
+  "lastUpdated": "2024-07-15T09:18:03.981Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/republican-platform-changes-trump/",
+      "headline": "Trump remade the GOP in his image — and its platform in his words",
+      "timestamp": "2024-07-15T09:00:08.243Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
