@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-07-15T16:19:53.929Z",
+  "lastUpdated": "2024-07-15T21:15:43.118Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-minnesota.html",
+      "headline": "Election 2024 Polls: Minnesota",
+      "timestamp": "2024-07-15T21:11:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-virginia.html",
+      "headline": "Election 2024 Polls: Virginia",
+      "timestamp": "2024-07-15T21:11:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/15/us/elections/milwaukee-black-voters.html",
+      "headline": "In Milwaukee, Black Voters Struggle to Find a Home With Either Party",
+      "timestamp": "2024-07-15T20:50:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
