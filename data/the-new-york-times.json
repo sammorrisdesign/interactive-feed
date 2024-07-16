@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-07-16T02:23:21.351Z",
+  "lastUpdated": "2024-07-16T19:36:41.520Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/16/world/middleeast/israel-hostage-rescue-nuseirat.html",
+      "headline": "How the Israeli Hostage Rescue Led to One of Gaza’s Deadliest Days",
+      "timestamp": "2024-07-16T19:29:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/16/us/elections/results-new-jersey-us-house-10-special.html",
+      "headline": "New Jersey 10th Congressional District Special Primary Election Results",
+      "timestamp": "2024-07-16T19:21:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
