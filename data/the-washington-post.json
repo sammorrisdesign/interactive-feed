@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-16T10:14:50.201Z",
+  "lastUpdated": "2024-07-16T17:13:59.256Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/rnc-speakers-list/",
+      "headline": "Who is — and isn’t — speaking at the Republican National Convention",
+      "timestamp": "2024-07-16T16:45:38.236Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
