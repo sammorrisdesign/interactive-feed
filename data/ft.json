@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-13T12:27:34.890Z",
+  "lastUpdated": "2024-07-17T12:31:01.323Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9acf8ed0-9b32-49cc-99e0-dbcab449ad13",
+      "headline": "How security failings let a would-be assassin shoot Donald Trump",
+      "timestamp": "2024-07-17T12:00:24.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
