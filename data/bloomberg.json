@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-07T20:15:25.285Z",
+  "lastUpdated": "2024-07-17T09:19:08.921Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-albertsons-kroger-merger/",
+      "headline": "Kroger-Albertsons Deal Is Haunted by ‘Spectacular’ Past Failure",
+      "timestamp": "2024-07-17T09:00:35.416Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

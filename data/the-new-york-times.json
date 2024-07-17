@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-16T19:36:41.520Z",
+  "lastUpdated": "2024-07-17T09:19:08.900Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/17/travel/switzerland-local-maps.html",
+      "headline": "Trekking Across Switzerland, Guided by Locals’ Hand-Drawn Maps",
+      "timestamp": "2024-07-17T09:02:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
