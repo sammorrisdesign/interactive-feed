@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-16T17:13:59.256Z",
+  "lastUpdated": "2024-07-17T01:11:23.834Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2024/trump-rally-shooting-maps-secret-service-analysis/",
+      "headline": "Obstructed view may have delayed sniper response at Trump rally",
+      "timestamp": "2024-07-16T23:50:38.555Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
