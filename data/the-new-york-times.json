@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-17T16:20:31.486Z",
+  "lastUpdated": "2024-07-18T03:20:27.968Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/17/us/politics/rnc-quotes-scenes.html",
+      "headline": "What We Heard at the R.N.C. in 20 Off-Stage Scenes",
+      "timestamp": "2024-07-18T02:51:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
