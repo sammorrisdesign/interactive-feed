@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-17T12:31:01.323Z",
+  "lastUpdated": "2024-07-18T04:19:21.844Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/563a6c72-d754-44aa-a35d-cb6ad6275b64",
+      "headline": "What makes Donald Trump irresistible ",
+      "timestamp": "2024-07-18T04:00:08.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
