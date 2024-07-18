@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-07-18T03:20:27.968Z",
+  "lastUpdated": "2024-07-18T09:16:54.351Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/18/realestate/san-francisco-apartment-home-mortgage.html",
+      "headline": "In San Francisco, a Gallerist Followed Her Heart to a New Apartment for Around $1 Million",
+      "timestamp": "2024-07-18T09:03:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/18/technology/spain-domestic-violence-viogen-algorithm.html",
+      "headline": "An Algorithm Told Police She Was Safe. Then Her Husband Killed Her.",
+      "timestamp": "2024-07-18T09:02:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/18/travel/things-to-do-san-diego.html",
+      "headline": "36 Hours in San Diego",
+      "timestamp": "2024-07-18T09:02:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/18/opinion/trump-presidency-record.html",
+      "headline": "Donald Trump’s First Term Is a Warning",
+      "timestamp": "2024-07-18T08:56:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
