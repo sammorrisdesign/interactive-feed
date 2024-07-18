@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-18T09:16:54.369Z",
+  "lastUpdated": "2024-07-18T12:31:40.394Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/fracking-geothermal-energy-plant-technology/",
+      "headline": "How fracking could unlock a clean energy future",
+      "timestamp": "2024-07-18T12:05:37.549Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
