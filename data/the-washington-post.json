@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-18T12:31:40.394Z",
+  "lastUpdated": "2024-07-18T20:16:56.153Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/rnc-attendees-photos/",
+      "headline": "The many outfits, opinions of RNC convention attendees",
+      "timestamp": "2024-07-18T20:02:31.756Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
