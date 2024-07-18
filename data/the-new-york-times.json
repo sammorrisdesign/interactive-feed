@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-18T09:16:54.351Z",
+  "lastUpdated": "2024-07-18T14:15:20.528Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/books/reader-best-books-21st-century.html",
+      "headline": "Readers Pick Their 100 Best Books of the 21st Century",
+      "timestamp": "2024-07-18T13:59:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
