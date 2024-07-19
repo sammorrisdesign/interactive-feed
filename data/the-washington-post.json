@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-18T20:16:56.153Z",
+  "lastUpdated": "2024-07-19T13:18:36.240Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2024/french-pastries-olympics-sports/",
+      "headline": "Classic French pastries and the Olympic sports to pair with them",
+      "timestamp": "2024-07-19T13:15:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
