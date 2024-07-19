@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-07-19T09:16:43.222Z",
+  "lastUpdated": "2024-07-19T20:18:06.182Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/19/arts/television/spongebob-anniversary-quiz.html",
+      "headline": "Are You Ready, Kids?",
+      "timestamp": "2024-07-19T20:15:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/19/technology/crowdstrike-outage-explained.html",
+      "headline": "How a Software Update Crashed Computers Around the World",
+      "timestamp": "2024-07-19T20:01:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
