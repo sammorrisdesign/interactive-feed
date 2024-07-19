@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-07-19T20:18:06.182Z",
+  "lastUpdated": "2024-07-19T21:14:32.541Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/19/magazine/tornado-alley-storm-chaser.html",
+      "headline": "A Trip Into Tornado Alley With America’s Most Obsessive Storm Chaser",
+      "timestamp": "2024-07-19T21:04:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/19/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, July 20, 2024",
+      "timestamp": "2024-07-19T21:01:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
