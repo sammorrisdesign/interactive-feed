@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-19T13:18:36.240Z",
+  "lastUpdated": "2024-07-19T19:38:14.801Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/olympics/interactive/2024/olympic-world-records-real-world-quiz/",
+      "headline": "Quiz: What world records might look like in real life",
+      "timestamp": "2024-07-19T19:30:04.058Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
