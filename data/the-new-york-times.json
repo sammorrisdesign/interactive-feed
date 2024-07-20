@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-19T23:15:54.231Z",
+  "lastUpdated": "2024-07-20T11:13:11.929Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/20/opinion/republicans-trump-bent-the-knee.html",
+      "headline": "Meet the Flip-Flop Club: 7 Republicans Who Kissed the Ring",
+      "timestamp": "2024-07-20T11:00:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
