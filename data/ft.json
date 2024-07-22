@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-22T04:19:46.420Z",
+  "lastUpdated": "2024-07-22T18:21:06.085Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/77b32462-3d56-43f9-bb4d-44f8c58edc8a",
+      "headline": "What do we know about Harris’s chances against Trump?",
+      "timestamp": "2024-07-22T18:08:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
