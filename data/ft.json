@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-18T04:19:21.844Z",
+  "lastUpdated": "2024-07-22T04:19:46.420Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/8a7a1138-ec8f-494b-99fe-d9e548fe4df8",
+      "headline": "Surviving Gaza: ‘We were displaced twice in less than 10 hours’ ",
+      "timestamp": "2024-07-22T04:00:35.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
