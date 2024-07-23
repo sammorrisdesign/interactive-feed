@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-22T20:36:34.901Z",
+  "lastUpdated": "2024-07-23T03:19:44.021Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/22/us/politics/harris-democratic-nominee-endorsements.html",
+      "headline": "Harris Has Enough Support for a Nomination. Here’s Which State Delegations Endorsed Her.",
+      "timestamp": "2024-07-23T02:59:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
