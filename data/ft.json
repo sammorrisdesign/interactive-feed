@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-07-22T18:21:06.085Z",
+  "lastUpdated": "2024-07-24T04:18:26.913Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/76c3747d-f068-467a-98f9-4ed687dcb575",
+      "headline": "The dangerous effects of rising sea temperatures",
+      "timestamp": "2024-07-24T04:00:21.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/private-equity/",
+      "headline": "How private equity tangled banks in a web of debt",
+      "timestamp": "2024-07-24T04:00:21.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
