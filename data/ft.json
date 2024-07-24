@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-24T04:18:26.913Z",
+  "lastUpdated": "2024-07-24T19:13:04.044Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/0b125a3c-6b82-4703-b8a8-e28f7f1aa3ea",
+      "headline": "NHS prescriptions for Wegovy held back by lack of weight-loss clinics ",
+      "timestamp": "2024-07-24T04:00:21.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
