@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-17T09:19:08.921Z",
+  "lastUpdated": "2024-07-24T16:19:56.872Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/paris-2024-summer-olympics-medal-count/",
+      "headline": "Who’s Winning at the Paris 2024 Summer Olympics?",
+      "timestamp": "2024-07-24T16:02:55.876Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
