@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-24T10:19:02.204Z",
+  "lastUpdated": "2024-07-24T12:30:21.081Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/salmon-labeling-wild-farm-species-explained/",
+      "headline": "What you can learn about salmon from its packaging",
+      "timestamp": "2024-07-24T12:05:22.751Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
