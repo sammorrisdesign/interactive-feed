@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-25T04:19:46.407Z",
+  "lastUpdated": "2024-07-25T21:15:38.139Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-harvard-property-tax/",
+      "headline": "Harvard's $465 Million in Tax Benefits Draw New Scrutiny",
+      "timestamp": "2024-07-25T21:00:17.764Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
