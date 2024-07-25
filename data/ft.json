@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-25T04:19:46.405Z",
+  "lastUpdated": "2024-07-25T18:20:53.219Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/35e3ad3c-f5c1-4a79-9ae5-e5c96da6353f",
+      "headline": "Harris memes resonate with Gen Z voters",
+      "timestamp": "2024-07-25T17:45:28.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
