@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-24T19:13:04.044Z",
+  "lastUpdated": "2024-07-25T04:19:46.405Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/canary-wharf/",
+      "headline": "The world of work is changing. Is Canary Wharf ready? ",
+      "timestamp": "2024-07-25T04:00:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
