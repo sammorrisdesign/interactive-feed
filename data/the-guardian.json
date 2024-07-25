@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-07-25T09:36:31.258Z",
+  "lastUpdated": "2024-07-25T10:38:58.862Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/jul/25/diabetes-amputations-crisis",
+      "headline": "More than 100,000 Americans with diabetes have limbs amputated each year. This is a crisis",
+      "timestamp": "2024-07-25T10:15:17.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
