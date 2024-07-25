@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-07-24T12:30:21.081Z",
+  "lastUpdated": "2024-07-25T09:18:12.113Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/us-sanction-countries-work/",
+      "headline": "How four U.S. presidents unleashed economic warfare across the globe",
+      "timestamp": "2024-07-25T09:00:20.575Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/national-security/interactive/2024/us-syria-civil-war-sanctions-drug-trafficking/",
+      "headline": "Sanctions crushed Syria’s elite. So they built a zombie economy fueled by drugs.",
+      "timestamp": "2024-07-25T09:00:00.681Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
