@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-26T10:17:17.803Z",
+  "lastUpdated": "2024-07-26T12:29:39.383Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/olympics/interactive/2024/paris-olympics-medal-count-tracker/",
+      "headline": "Paris Olympics medal count: Tracking medals by country in 2024",
+      "timestamp": "2024-07-26T12:00:04.142Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
