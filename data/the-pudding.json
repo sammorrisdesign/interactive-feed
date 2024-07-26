@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-07-12T09:17:48.163Z",
+  "lastUpdated": "2024-07-26T05:38:01.852Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2024/07/sleep-training",
+      "headline": "Is Sleep Training Harmful?",
+      "timestamp": "2024-07-25T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
