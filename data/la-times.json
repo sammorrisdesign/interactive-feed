@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2024-05-31T10:16:08.364Z",
+  "lastUpdated": "2024-07-26T09:36:38.436Z",
   "articles": [
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "url": "https://www.latimes.com/projects/california-insurance-map-statefarm-rates-wildfire-risk/",
+      "headline": "  How much has your State Farm premium changed because of wildfire risk?  ",
+      "timestamp": null
+    },
     {
       "publication": "LA Times",
       "twitterHandle": "datagraphics",
