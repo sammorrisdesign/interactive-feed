@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-25T18:20:53.219Z",
+  "lastUpdated": "2024-07-26T14:14:25.667Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6543795e-e90f-47c7-a971-8935859b17d3",
+      "headline": "Sabotage hits French railways hours before Olympics opening ceremony",
+      "timestamp": "2024-07-26T13:59:13.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
