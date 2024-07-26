@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-07-25T20:37:18.993Z",
+  "lastUpdated": "2024-07-26T04:19:41.598Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/26/world/asia/japan-skateboarding.html",
+      "headline": "Will These Sensational Skateboarding Tricks Win Japan Olympic Gold?",
+      "timestamp": "2024-07-26T04:01:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
