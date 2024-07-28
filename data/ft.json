@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-26T14:36:58.296Z",
+  "lastUpdated": "2024-07-28T04:18:01.600Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6ce668bc-4180-4e84-9feb-f25ac0e83f6f",
+      "headline": "The hunt for a rare nuclear isotope that could redefine cancer care",
+      "timestamp": "2024-07-28T04:00:17.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
