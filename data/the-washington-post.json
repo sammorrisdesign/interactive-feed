@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-29T10:18:44.201Z",
+  "lastUpdated": "2024-07-29T16:20:44.675Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/wildfire-drinking-water-supply-danger/",
+      "headline": "A surprising byproduct of wildfires: Contaminated drinking water",
+      "timestamp": "2024-07-29T16:00:23.564Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
