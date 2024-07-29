@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-28T04:18:01.600Z",
+  "lastUpdated": "2024-07-29T04:19:11.945Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9b1f982a-485c-4868-9a03-b7e58a6f5746",
+      "headline": "EU prepares two-step trade plan to tackle Trump  ",
+      "timestamp": "2024-07-29T04:00:34.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
