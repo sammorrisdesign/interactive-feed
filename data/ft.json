@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-29T04:19:11.945Z",
+  "lastUpdated": "2024-07-29T17:37:43.808Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c1d51c75-5e83-4368-9296-eb8a6d159f7c",
+      "headline": "Olympic swimming in Seine at risk from bacteria",
+      "timestamp": "2024-07-29T14:33:11.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
