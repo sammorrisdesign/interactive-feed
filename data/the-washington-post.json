@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-29T09:18:20.061Z",
+  "lastUpdated": "2024-07-29T10:18:44.201Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/china-india-skilled-workers-immigration/",
+      "headline": "Our immigration rules stop skilled workers from coming in. Here’s why.",
+      "timestamp": "2024-07-29T09:45:30.882Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
