@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-07-29T18:40:12.193Z",
+  "lastUpdated": "2024-07-29T21:17:16.093Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/29/us/politics/supreme-court-biden-term-limits.html",
+      "headline": "How the Current Supreme Court Would Look Under Biden’s Term-Limit Plan",
+      "timestamp": "2024-07-29T21:04:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/29/science/ai-weather-forecast-hurricane.html",
+      "headline": "Artificial Intelligence Gives Weather Forecasters a New Edge",
+      "timestamp": "2024-07-29T20:48:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/29/us/quake-tracker-california-barstow.html",
+      "headline": "Map: 4.9-Magnitude Earthquake Strikes Southern California",
+      "timestamp": "2024-07-29T20:42:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
