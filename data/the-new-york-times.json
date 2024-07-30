@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-07-29T21:17:16.093Z",
+  "lastUpdated": "2024-07-30T20:15:46.187Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-us-senate-primary.html",
+      "headline": "Arizona U.S. Senate Primary Election Results",
+      "timestamp": "2024-07-30T20:06:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-maricopa-county-recorder-primary.html",
+      "headline": "Maricopa County Recorder Primary Election Results",
+      "timestamp": "2024-07-30T20:06:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-us-house-5-primary.html",
+      "headline": "Arizona 5th Congressional District Primary Election Results",
+      "timestamp": "2024-07-30T20:06:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-us-house-7-primary.html",
+      "headline": "Arizona 7th Congressional District Primary Election Results",
+      "timestamp": "2024-07-30T20:06:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-us-house-2-primary.html",
+      "headline": "Arizona 2nd Congressional District Primary Election Results",
+      "timestamp": "2024-07-30T20:06:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-us-house-4-primary.html",
+      "headline": "Arizona 4th Congressional District Primary Election Results",
+      "timestamp": "2024-07-30T20:06:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-us-house-9-primary.html",
+      "headline": "Arizona 9th Congressional District Primary Election Results",
+      "timestamp": "2024-07-30T20:06:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-us-house-8-primary.html",
+      "headline": "Arizona 8th Congressional District Primary Election Results",
+      "timestamp": "2024-07-30T20:06:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-us-house-3-primary.html",
+      "headline": "Arizona 3rd Congressional District Primary Election Results",
+      "timestamp": "2024-07-30T20:06:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
