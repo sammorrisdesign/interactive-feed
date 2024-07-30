@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-07-30T20:15:46.187Z",
+  "lastUpdated": "2024-07-30T20:36:38.957Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-pima-sheriff-primary.html",
+      "headline": "Pima County Sheriff Primary Election Results",
+      "timestamp": "2024-07-30T20:28:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/30/us/elections/results-arizona-maricopa-sheriff-primary.html",
+      "headline": "Maricopa County Sheriff Primary Election Results",
+      "timestamp": "2024-07-30T20:28:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
