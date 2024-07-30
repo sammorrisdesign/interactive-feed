@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-29T16:20:44.675Z",
+  "lastUpdated": "2024-07-30T09:17:15.083Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/starving-palestinian-boy-viral-video/",
+      "headline": "Images of a starving Palestinian boy went viral. The attention saved him.",
+      "timestamp": "2024-07-30T09:00:36.105Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
