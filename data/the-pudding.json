@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-07-26T05:38:01.852Z",
+  "lastUpdated": "2024-07-30T21:36:57.066Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2024/07/ai",
+      "headline": "Can an AI make a data-driven, visual story?",
+      "timestamp": "2024-07-30T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
