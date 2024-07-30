@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-29T17:37:43.808Z",
+  "lastUpdated": "2024-07-30T04:19:00.169Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/running-shoe/",
+      "headline": "Inside the race to make the world’s fastest running shoes",
+      "timestamp": "2024-07-30T04:00:28.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
