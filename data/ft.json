@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-30T04:19:00.169Z",
+  "lastUpdated": "2024-07-31T20:36:45.149Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/20422086-56cb-4b53-ad36-dbc4797dbf59",
+      "headline": "High cholesterol critical factor in development of dementia, study finds",
+      "timestamp": "2024-07-31T20:18:16.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
