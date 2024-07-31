@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-28T20:16:38.893Z",
+  "lastUpdated": "2024-07-31T09:18:25.083Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/mba-return-on-investment/",
+      "headline": "The Business School ROI Calculator 2024–25",
+      "timestamp": "2024-07-31T09:00:02.235Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

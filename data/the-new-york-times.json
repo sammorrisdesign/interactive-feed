@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2024-07-30T22:13:27.639Z",
+  "lastUpdated": "2024-07-31T09:18:25.059Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/born-this-way-queerness-genetics.html",
+      "headline": "Beyond ‘Born That Way’",
+      "timestamp": "2024-07-31T09:15:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/ai-fears.html",
+      "headline": "A.I. Is Actually Our Friend",
+      "timestamp": "2024-07-31T09:14:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/church-scandals-religion.html",
+      "headline": "It’s Better to Be Good Than Right",
+      "timestamp": "2024-07-31T09:13:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/natural-parenting-childbirth-science.html",
+      "headline": "Natural Childbirth Isn’t Best",
+      "timestamp": "2024-07-31T09:12:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/dmv-inequality.html",
+      "headline": "Don’t Hate On the D.M.V.",
+      "timestamp": "2024-07-31T09:11:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/cats-vs-dogs.html",
+      "headline": "Cats Are Better Than Dogs",
+      "timestamp": "2024-07-31T09:08:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/forgive-hypocrisy.html",
+      "headline": "A Little Hypocrisy Is Healthy",
+      "timestamp": "2024-07-31T09:07:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/markets-education-media.html",
+      "headline": "The Market Doesn’t Always Get It Right",
+      "timestamp": "2024-07-31T09:06:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/opinion/political-violence-history-division.html",
+      "headline": "We’re Less Divided Than You Think",
+      "timestamp": "2024-07-31T09:04:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/realestate/kecia-lewis-tony-winner-nyc-home.html",
+      "headline": "At Home With - Kecia Lewis",
+      "timestamp": "2024-07-31T09:04:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
