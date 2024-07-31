@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-07-31T15:37:17.713Z",
+  "lastUpdated": "2024-07-31T21:36:40.155Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/weather/carlotta-mapa-trayectoria.html",
+      "headline": "Monitoreo de la tormenta tropical Carlotta, en vivo",
+      "timestamp": "2024-07-31T21:32:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/07/31/weather/carlotta-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Carlotta",
+      "timestamp": "2024-07-31T21:17:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
