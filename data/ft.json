@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-01T09:16:02.685Z",
+  "lastUpdated": "2024-08-01T18:21:08.553Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/us-elections/2024/polls",
+      "headline": "Trump or Harris: Who will win the US presidency?",
+      "timestamp": "2024-08-01T18:09:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
