@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-31T20:36:45.149Z",
+  "lastUpdated": "2024-08-01T09:16:02.685Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/8a63bec7-048c-40fb-b3ae-717419f4469f",
+      "headline": "Wildfire intensity rises across northern hemisphere",
+      "timestamp": "2024-08-01T09:00:01.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",

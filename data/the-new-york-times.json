@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-08-01T05:15:57.204Z",
+  "lastUpdated": "2024-08-01T09:16:02.665Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/01/travel/things-to-do-salzburg.html",
+      "headline": "36 Hours in Salzburg, Austria",
+      "timestamp": "2024-08-01T09:05:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/01/realestate/california-bakersfield-houses-sale.html",
+      "headline": "He Wanted a Three-Bedroom House for $350,000. Here’s the California City Where He Found It.",
+      "timestamp": "2024-08-01T09:04:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
