@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-07-30T10:39:21.814Z",
+  "lastUpdated": "2024-08-01T10:18:08.713Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/rent-average-by-county-change-rising-falling/",
+      "headline": "How much are rents going up? See how prices have changed in your area.",
+      "timestamp": "2024-08-01T10:00:28.270Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
