@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-08-01T04:19:22.975Z",
+  "lastUpdated": "2024-08-02T01:11:04.000Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/aug/02/how-do-australias-sprinters-compare-to-the-fastest-of-all-time",
+      "headline": "How do Australia’s sprinters compare to the fastest of all time?",
+      "timestamp": "2024-08-02T00:20:16.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
