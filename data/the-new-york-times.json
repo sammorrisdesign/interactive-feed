@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-02T18:21:47.150Z",
+  "lastUpdated": "2024-08-02T19:37:42.800Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/02/us/ae-628-declassified-version.html",
+      "headline": "The Court Filing",
+      "timestamp": "2024-08-02T19:14:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
