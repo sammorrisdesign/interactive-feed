@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-01T18:21:08.553Z",
+  "lastUpdated": "2024-08-02T18:21:47.170Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a2673129-3c0c-4cd2-ba74-aacc1f651c17",
+      "headline": "How all-out war between Israel and its adversaries might play out",
+      "timestamp": "2024-08-02T17:43:55.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
