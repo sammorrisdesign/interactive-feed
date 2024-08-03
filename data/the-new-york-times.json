@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-02T23:15:22.896Z",
+  "lastUpdated": "2024-08-03T01:10:23.443Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/02/us/elections/arizona-native-voters.html",
+      "headline": "What’s Uniting, and Dividing, Native Voters in Arizona",
+      "timestamp": "2024-08-02T23:45:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
