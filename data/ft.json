@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-02T18:21:47.170Z",
+  "lastUpdated": "2024-08-03T12:28:21.519Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b78d2ec2-382b-4389-90d9-5ca6dcdb003b",
+      "headline": "‘We thought we lived in Tuscany’: Hizbollah strikes ravage Israel’s north",
+      "timestamp": "2024-08-03T12:00:13.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
