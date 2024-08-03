@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-02T10:17:18.173Z",
+  "lastUpdated": "2024-08-03T09:17:33.655Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/trump-cabinet-endorsements/",
+      "headline": "Trump’s presidential bid has the support of only half of his Cabinet",
+      "timestamp": "2024-08-03T09:00:11.668Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
