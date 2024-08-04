@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-03T10:16:12.017Z",
+  "lastUpdated": "2024-08-04T10:15:37.403Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2024/olympic-artistic-swimming-synchronized-strength-risks-paris/",
+      "headline": "How synchronized swimming became a contact sport",
+      "timestamp": "2024-08-04T10:00:59.745Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
