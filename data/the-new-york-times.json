@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-03T22:14:00.487Z",
+  "lastUpdated": "2024-08-04T02:50:37.649Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/03/sports/olympics/womens-100-julien-alfred-shacarri-richardson.html",
+      "headline": "How Julien Alfred Beat Sha’Carri Richardson for Gold",
+      "timestamp": "2024-08-04T02:38:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
