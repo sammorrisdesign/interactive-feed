@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-08-05T14:37:47.500Z",
+  "lastUpdated": "2024-08-05T15:17:18.584Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/05/weather/map-emilia-path-tracker.html",
+      "headline": "Tracking Tropical Storm Emilia",
+      "timestamp": "2024-08-05T15:02:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/05/books/review/medical-thrillers-quiz.html",
+      "headline": "Can You Find the 12 Book Titles Hidden in This Text?",
+      "timestamp": "2024-08-05T15:00:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
