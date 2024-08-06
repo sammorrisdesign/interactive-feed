@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2024-08-06T15:18:12.762Z",
+  "lastUpdated": "2024-08-06T18:22:50.604Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-michigan-us-house-8-primary.html",
+      "headline": "Michigan 8th Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T17:39:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-washington-us-house-9-primary.html",
+      "headline": "Washington 9th Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T17:39:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-washington-us-house-3-primary.html",
+      "headline": "Washington 3rd Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T17:39:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-washington-us-house-1-primary.html",
+      "headline": "Washington 1st Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T17:39:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-washington-us-house-7-primary.html",
+      "headline": "Washington 7th Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T17:39:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

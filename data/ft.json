@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-03T12:28:21.519Z",
+  "lastUpdated": "2024-08-06T18:22:50.624Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b4c57347-d64d-436a-a2f1-33b7049a74b7",
+      "headline": "Can better data save the NHS?",
+      "timestamp": "2024-08-06T17:41:17.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
