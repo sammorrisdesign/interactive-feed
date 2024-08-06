@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2024-08-06T19:37:02.049Z",
+  "lastUpdated": "2024-08-06T20:37:07.250Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-washington-us-house-6-primary.html",
+      "headline": "Washington 6th Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T20:11:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-missouri-amendment-4-increase-police-funding.html",
+      "headline": "Missouri Amendment 4 Election Results: Increase Police Funding",
+      "timestamp": "2024-08-06T20:11:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-washington-us-house-4-primary.html",
+      "headline": "Washington 4th Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T20:11:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-missouri-amendment-1-exempt-childcare-property-taxes.html",
+      "headline": "Missouri Amendment 1 Election Results: Exempt Childcare Property Taxes",
+      "timestamp": "2024-08-06T20:11:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-missouri-us-house-1-primary.html",
+      "headline": "Missouri 1st Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T20:11:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/06/us/elections/results-washington-us-house-8-primary.html",
+      "headline": "Washington 8th Congressional District Primary Election Results",
+      "timestamp": "2024-08-06T20:11:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
