@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-04T10:15:37.403Z",
+  "lastUpdated": "2024-08-07T10:17:04.373Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/heat-waves-risk-global-warming/",
+      "headline": "How life-threatening are heat waves going to be with global warming?",
+      "timestamp": "2024-08-07T10:00:56.354Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
