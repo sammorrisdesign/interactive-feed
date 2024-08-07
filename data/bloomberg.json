@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-08-02T14:37:17.846Z",
+  "lastUpdated": "2024-08-07T09:18:00.858Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-cost-of-layoffs-quantified/",
+      "headline": "Layoffs Are More Expensive for Companies Than You Think",
+      "timestamp": "2024-08-07T09:00:15.918Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-hot-oceans-hurricane-data/",
+      "headline": "Hurricanes Debby and Beryl Show How Hot Oceans Fuel a Deadly Storm Season",
+      "timestamp": "2024-08-07T09:00:13.453Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
