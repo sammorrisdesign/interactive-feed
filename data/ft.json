@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-06T18:22:50.624Z",
+  "lastUpdated": "2024-08-08T17:36:39.647Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c8317b53-ce27-42fc-bd67-59f9ac9267c9",
+      "headline": "Far-right riots centred on England’s deprivation hotspots  ",
+      "timestamp": "2024-08-08T17:18:05.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
