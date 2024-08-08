@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-07T10:17:04.373Z",
+  "lastUpdated": "2024-08-08T12:31:33.736Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/summer-winter-seasonal-warming-global-trends/",
+      "headline": "Summer or winter: Which season is warming faster in your town?",
+      "timestamp": "2024-08-08T12:10:52.063Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
