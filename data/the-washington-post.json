@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-09T06:23:50.615Z",
+  "lastUpdated": "2024-08-09T10:39:02.678Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/amy-sillman-artist-summer-abstraction/",
+      "headline": "Summer: Abstraction as apprehension",
+      "timestamp": "2024-08-09T10:30:10.359Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
