@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-08T22:38:02.510Z",
+  "lastUpdated": "2024-08-09T16:20:23.032Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-flood-fire-climate-risk-analytics/",
+      "headline": "The Risky Business of Predicting Where Climate Disaster Will Hit",
+      "timestamp": "2024-08-09T16:00:14.314Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
