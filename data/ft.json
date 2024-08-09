@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-08T17:36:39.647Z",
+  "lastUpdated": "2024-08-09T10:17:28.952Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/52340ee3-3ad3-4add-8409-a7ad03e766ee",
+      "headline": "Israel’s air defences face biggest test from a synchronised Iran-led attack",
+      "timestamp": "2024-08-09T10:00:13.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
