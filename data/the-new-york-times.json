@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-10T03:20:42.734Z",
+  "lastUpdated": "2024-08-10T04:20:56.776Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/10/world/asia/china-border-villages.html",
+      "headline": "China’s Great Wall of Villages",
+      "timestamp": "2024-08-10T04:01:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
