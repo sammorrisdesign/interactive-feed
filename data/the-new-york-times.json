@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-09T20:17:41.004Z",
+  "lastUpdated": "2024-08-10T02:23:51.732Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/09/technology/migrants-racism-social-media-violence.html",
+      "headline": "How Online Hatred Toward Migrants Spurs Real-World Violence",
+      "timestamp": "2024-08-10T01:49:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
