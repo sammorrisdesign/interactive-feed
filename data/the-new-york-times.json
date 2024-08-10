@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-10T18:20:14.421Z",
+  "lastUpdated": "2024-08-10T19:12:50.184Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/10/us/elections/results-hawaii-us-house-1-primary.html",
+      "headline": "Hawaii 1st Congressional District Primary Election Results",
+      "timestamp": "2024-08-10T19:06:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
