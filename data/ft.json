@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-09T10:17:28.952Z",
+  "lastUpdated": "2024-08-11T14:16:14.234Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1f77330a-5f12-474a-8f30-d9c2eaa25fb2",
+      "headline": "France uses Olympics home advantage to boost medals tally",
+      "timestamp": "2024-08-11T13:43:46.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
