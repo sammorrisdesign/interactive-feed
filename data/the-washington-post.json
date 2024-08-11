@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-10T10:17:35.635Z",
+  "lastUpdated": "2024-08-11T10:16:02.925Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/phone-emoji-missing-animals/",
+      "headline": "Your phone’s emoji library is incomplete. Here’s what’s missing.",
+      "timestamp": "2024-08-11T10:00:24.293Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
