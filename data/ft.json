@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-11T14:16:14.234Z",
+  "lastUpdated": "2024-08-12T04:19:54.668Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5eb64108-3181-4352-804e-aca76e1be505",
+      "headline": "On the front line of the battle against illegal Amazon gold mining",
+      "timestamp": "2024-08-12T04:00:52.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
