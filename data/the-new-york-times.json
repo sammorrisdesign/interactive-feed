@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-13T18:22:36.688Z",
+  "lastUpdated": "2024-08-13T22:15:05.695Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/13/us/elections/results-wisconsin-question-1-prohibit-legislature-from-delegating-appropriations.html",
+      "headline": "Wisconsin Question 1 Election Results: Prohibit Legislature from Delegating Appropriations",
+      "timestamp": "2024-08-13T21:42:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
