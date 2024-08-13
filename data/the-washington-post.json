@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-11T10:16:02.925Z",
+  "lastUpdated": "2024-08-13T11:37:02.006Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/superblocks-barcelona-cities-congestion/",
+      "headline": "How to transform city streets — without losing your parking spot",
+      "timestamp": "2024-08-13T11:30:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
