@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-08-13T17:15:42.952Z",
+  "lastUpdated": "2024-08-13T18:22:36.688Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/13/us/elections/results-vermont-governor-primary.html",
+      "headline": "Vermont Governor Primary Election Results",
+      "timestamp": "2024-08-13T17:51:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/13/us/elections/results-minnesota-us-senate-primary.html",
+      "headline": "Minnesota U.S. Senate Primary Election Results",
+      "timestamp": "2024-08-13T17:50:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/13/us/politics/kamala-harris-presence-videos.html",
+      "headline": "How Kamala Harris Found Her Footing in the Spotlight",
+      "timestamp": "2024-08-13T17:49:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
