@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-08-14T09:17:19.664Z",
+  "lastUpdated": "2024-08-15T09:16:54.115Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/15/us/california-fires.html",
+      "headline": "Half Their Land Burned in a Decade: The California Counties Constantly on Fire",
+      "timestamp": "2024-08-15T09:03:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/15/realestate/bay-area-sonoma-county-home-sale.html",
+      "headline": "A Three-Bedroom House in the Bay Area for Under $1 Million? Here Were Their Options.",
+      "timestamp": "2024-08-15T09:03:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/15/travel/things-to-do-provincetown.html",
+      "headline": "36 Hours in Provincetown, Mass.",
+      "timestamp": "2024-08-15T09:02:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
