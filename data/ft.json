@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-08-12T04:19:54.668Z",
+  "lastUpdated": "2024-08-15T04:18:48.761Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1843b68e-64cf-479f-b354-a7081257d42e",
+      "headline": "In charts: Elon Musk’s megaphone reach on X",
+      "timestamp": "2024-08-15T04:00:24.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/eu-fishing/",
+      "headline": "The European boats fishing under a veil of secrecy",
+      "timestamp": "2024-08-15T04:00:24.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
