@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-14T10:17:34.458Z",
+  "lastUpdated": "2024-08-15T10:19:14.696Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/ai-detection-tools-accuracy-deepfakes-election-2024/",
+      "headline": "See why AI detection tools can fail to catch election deepfakes",
+      "timestamp": "2024-08-15T10:05:11.964Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
