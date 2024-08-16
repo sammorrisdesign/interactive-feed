@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-15T10:19:14.696Z",
+  "lastUpdated": "2024-08-16T13:18:55.191Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/which-premier-league-team-should-you-support/",
+      "headline": "Which Premier League team should you support?",
+      "timestamp": "2024-08-16T13:15:14.637Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
