@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-16T13:18:55.191Z",
+  "lastUpdated": "2024-08-16T23:16:36.528Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/meet-the-dnc-protesters/",
+      "headline": "Meet the protesters planning to make their voices heard in Chicago",
+      "timestamp": "2024-08-16T22:45:55.524Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
