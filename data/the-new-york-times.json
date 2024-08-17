@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-08-16T19:14:20.437Z",
+  "lastUpdated": "2024-08-17T09:15:13.623Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-north-carolina-likely-electorate.html",
+      "headline": "Cross-Tabs: August 2024 Times/Siena Poll of the Likely Electorate in North Carolina",
+      "timestamp": "2024-08-17T08:58:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-north-carolina-registered-voters.html",
+      "headline": "Cross-Tabs: August 2024 Times/Siena Poll of Registered Voters in North Carolina",
+      "timestamp": "2024-08-17T08:58:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-north-carolina-toplines.html",
+      "headline": "Toplines: August 2024 Times/Siena Poll of Registered Voters in North Carolina",
+      "timestamp": "2024-08-17T08:58:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-nevada-likely-electorate.html",
+      "headline": "Cross-Tabs: August 2024 Times/Siena Poll of the Likely Electorate in Nevada",
+      "timestamp": "2024-08-17T08:58:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-nevada-registered-voters.html",
+      "headline": "Cross-Tabs: August 2024 Times/Siena Poll of Registered Voters in Nevada",
+      "timestamp": "2024-08-17T08:58:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-nevada-toplines.html",
+      "headline": "Toplines: August 2024 Times/Siena Poll of Registered Voters in Nevada",
+      "timestamp": "2024-08-17T08:58:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-georgia-likely-electorate.html",
+      "headline": "Cross-Tabs: August 2024 Times/Siena Poll of the Likely Electorate in Georgia",
+      "timestamp": "2024-08-17T08:58:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-georgia-registered-voters.html",
+      "headline": "Cross-Tabs: August 2024 Times/Siena Poll of Registered Voters in Georgia",
+      "timestamp": "2024-08-17T08:58:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/17/us/elections/times-siena-poll-georgia-toplines.html",
+      "headline": "Toplines: August 2024 Times/Siena Poll of Registered Voters in Georgia",
+      "timestamp": "2024-08-17T08:58:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
