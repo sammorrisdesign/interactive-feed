@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-17T10:16:47.160Z",
+  "lastUpdated": "2024-08-18T10:16:50.299Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/republican-campaign-ads-immigration-border-security/",
+      "headline": "Republicans flood TV with misleading ads about immigration, border",
+      "timestamp": "2024-08-18T10:00:47.869Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
