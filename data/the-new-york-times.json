@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-20T17:15:25.213Z",
+  "lastUpdated": "2024-08-20T21:17:12.903Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/20/us/final-report-of-the-independent-commission-to-investigate-the-facts-of-the-tragedy-in-lewiston.html",
+      "headline": "Read the Final Report on the Lewiston, Maine, Mass Shootings",
+      "timestamp": "2024-08-20T21:00:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
