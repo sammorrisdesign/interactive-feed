@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-08-18T10:16:50.299Z",
+  "lastUpdated": "2024-08-20T10:17:35.893Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/sam-bankman-fried-michael-lewis-ftx/",
+      "headline": "Sam Bankman-Fried, a personal verdict",
+      "timestamp": "2024-08-20T10:00:11.202Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/interactive/2024/dnc-rnc-candidate-walkout-songs/",
+      "headline": "What walkout songs are candidates using at the DNC and RNC?",
+      "timestamp": "2024-08-20T10:00:03.829Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
