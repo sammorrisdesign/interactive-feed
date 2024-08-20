@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-08-20T12:31:57.969Z",
+  "lastUpdated": "2024-08-20T17:15:25.213Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/20/us/elections/results-florida-us-house-12-primary.html",
+      "headline": "Florida 12th Congressional District Primary Election Results",
+      "timestamp": "2024-08-20T17:03:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/20/us/elections/results-florida-us-house-9-primary.html",
+      "headline": "Florida 9th Congressional District Primary Election Results",
+      "timestamp": "2024-08-20T17:03:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/20/us/elections/results-wyoming-us-senate-primary.html",
+      "headline": "Wyoming U.S. Senate Primary Election Results",
+      "timestamp": "2024-08-20T17:03:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/20/us/elections/results-florida-us-house-16-primary.html",
+      "headline": "Florida 16th Congressional District Primary Election Results",
+      "timestamp": "2024-08-20T17:03:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
