@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-22T04:19:12.067Z",
+  "lastUpdated": "2024-08-22T05:15:57.852Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/22/opinion/young-voters-focus-group.html",
+      "headline": "Why These 15 Young Voters Aren't Rushing to Kamala Harris Like Their Peers",
+      "timestamp": "2024-08-22T05:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
