@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-22T10:18:28.613Z",
+  "lastUpdated": "2024-08-22T12:31:41.152Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/mosquito-season-state-change-global-warming/",
+      "headline": "Where mosquito season is getting longer",
+      "timestamp": "2024-08-22T12:10:06.386Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
