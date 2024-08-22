@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-21T09:17:51.144Z",
+  "lastUpdated": "2024-08-22T10:18:28.613Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/dnc-democratic-convention-delegate-clothes-optimism/",
+      "headline": "The vibes and styles of the Democratic National Convention",
+      "timestamp": "2024-08-22T10:00:43.557Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
