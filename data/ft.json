@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-19T19:14:07.848Z",
+  "lastUpdated": "2024-08-22T01:13:51.750Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/140f4bf8-0701-421b-9360-47fa86cd5353",
+      "headline": "Harris raised four times as much cash as Trump in July",
+      "timestamp": "2024-08-21T18:06:20.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
