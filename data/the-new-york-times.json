@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-08-22T05:15:57.852Z",
+  "lastUpdated": "2024-08-22T09:17:15.693Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/22/realestate/socal-home-buying-orange-county.html",
+      "headline": "Seeking a New Start in Southern California for Less Than $800,000",
+      "timestamp": "2024-08-22T09:03:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/22/travel/things-to-do-denver.html",
+      "headline": "36 Hours in Denver",
+      "timestamp": "2024-08-22T09:03:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
