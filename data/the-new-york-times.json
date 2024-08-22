@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-08-22T12:31:41.134Z",
+  "lastUpdated": "2024-08-22T21:37:42.395Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/22/weather/hone-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Hone",
+      "timestamp": "2024-08-22T21:24:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/22/us/elections/kamala-harris-donors.html",
+      "headline": "Who Are Kamala Harris’s 1.5 Million New Donors?",
+      "timestamp": "2024-08-22T21:23:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
