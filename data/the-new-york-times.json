@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-23T15:39:22.435Z",
+  "lastUpdated": "2024-08-23T19:36:49.444Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/23/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, August 24, 2024",
+      "timestamp": "2024-08-23T19:36:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
