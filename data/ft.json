@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-08-22T01:13:51.750Z",
+  "lastUpdated": "2024-08-23T04:19:50.773Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/285fc437-de1a-4bfd-9acb-fcfeafea3491",
+      "headline": "Clamour for Africa",
+      "timestamp": "2024-08-23T04:00:17.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a811400c-6c1f-4970-b1a9-4e9d28efa62e",
+      "headline": "The foreign powers competing to win influence in Africa",
+      "timestamp": "2024-08-23T04:00:17.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
