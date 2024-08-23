@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-22T20:17:39.847Z",
+  "lastUpdated": "2024-08-23T10:17:13.265Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/kids-screen-time-quiz-recommendations-age/",
+      "headline": "Is your kid’s screen time a problem?",
+      "timestamp": "2024-08-23T10:05:16.416Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
