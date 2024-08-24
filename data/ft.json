@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-23T04:19:50.773Z",
+  "lastUpdated": "2024-08-24T16:18:33.495Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/ukraine-incursion/",
+      "headline": "Ten days that turned the tables on Russia",
+      "timestamp": "2024-08-24T16:00:01.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
