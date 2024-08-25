@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-06-18T10:18:41.091Z",
+  "lastUpdated": "2024-08-25T11:14:32.310Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/why-i-left-the-network/",
+      "headline": "Why It’s So Hard to Find a Therapist Who Takes Insurance",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
