@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-26T04:20:18.739Z",
+  "lastUpdated": "2024-08-26T23:17:14.106Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9cd56880-4360-4e11-8c22-e810d3787e88",
+      "headline": "China export curbs on semiconductor materials stoke chip output fears",
+      "timestamp": "2024-08-26T23:01:08.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
