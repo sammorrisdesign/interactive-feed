@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-24T16:18:33.495Z",
+  "lastUpdated": "2024-08-26T04:20:18.739Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/3cc7c0f4-987e-4931-aaef-67cd73d850ba",
+      "headline": "Complex Russian share swap scheme falls short of targets",
+      "timestamp": "2024-08-26T04:00:12.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
