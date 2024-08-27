@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-27T20:37:28.532Z",
+  "lastUpdated": "2024-08-27T22:41:02.979Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/27/business/economy/jobs-election-county.html",
+      "headline": "The Geography of Unequal Recovery",
+      "timestamp": "2024-08-27T22:32:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
