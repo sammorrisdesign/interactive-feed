@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-26T10:18:16.748Z",
+  "lastUpdated": "2024-08-27T10:17:13.642Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/music-ai-creativity/",
+      "headline": "Why musicians are smart to embrace AI",
+      "timestamp": "2024-08-27T10:15:00.839Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
