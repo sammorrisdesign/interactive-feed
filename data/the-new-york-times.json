@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-27T17:14:34.724Z",
+  "lastUpdated": "2024-08-27T20:37:28.532Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/27/us/politics/trump-jan-6-indictment-jack-smith.html",
+      "headline": "Read the Revised Indictment in the Federal Election Subversion Case",
+      "timestamp": "2024-08-27T20:30:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
