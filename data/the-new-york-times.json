@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-08-26T19:13:48.242Z",
+  "lastUpdated": "2024-08-27T17:14:34.724Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/27/us/elections/results-oklahoma.html",
+      "headline": "Oklahoma Primary Runoff Election Results",
+      "timestamp": "2024-08-27T17:07:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/upshot/connections-bot.html",
+      "headline": "Connections Bot",
+      "timestamp": "2024-08-27T16:50:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
