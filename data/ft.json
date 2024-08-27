@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-26T23:17:14.106Z",
+  "lastUpdated": "2024-08-27T11:14:55.438Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/274d8994-c0fb-4f9b-8572-0ffb00b5de23",
+      "headline": "Why Ukraine’s allies are divided over deep strikes into Russia",
+      "timestamp": "2024-08-27T10:54:36.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
