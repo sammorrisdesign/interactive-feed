@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-27T22:41:02.979Z",
+  "lastUpdated": "2024-08-28T09:17:55.048Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/28/realestate/tony-danza-apartment.html",
+      "headline": "Tony Danza on His Love of Sinatra, Boxing and Air Fryers",
+      "timestamp": "2024-08-28T09:06:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
