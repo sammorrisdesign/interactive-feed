@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-28T09:17:55.048Z",
+  "lastUpdated": "2024-08-28T15:17:46.697Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/08/28/well/wildfire-smoke-health.html",
+      "headline": "How Wildfire Smoke Threatens Health",
+      "timestamp": "2024-08-28T15:03:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
