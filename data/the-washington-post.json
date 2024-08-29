@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-29T12:32:39.822Z",
+  "lastUpdated": "2024-08-29T13:21:24.147Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2024/amtrak-train-travel-diary/",
+      "headline": "Seeing America by train",
+      "timestamp": "2024-08-29T13:00:12.539Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
