@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-29T09:18:52.547Z",
+  "lastUpdated": "2024-08-29T12:32:39.822Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/college-football-realignment-quiz/",
+      "headline": "Quiz: Can you keep up with college football realignment?",
+      "timestamp": "2024-08-29T12:00:59.457Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
