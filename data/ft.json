@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-08-27T11:14:55.438Z",
+  "lastUpdated": "2024-09-01T04:21:19.200Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/93c1fd48-55e5-4b1a-b9b8-ac0306a985fc",
+      "headline": "Czechs stamp out loan sharks to help tackle inequality",
+      "timestamp": "2024-09-01T04:00:15.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
