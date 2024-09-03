@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-03T09:18:20.637Z",
+  "lastUpdated": "2024-09-03T12:33:12.440Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/michael-lewis-chris-marks-the-canary-who-is-government/",
+      "headline": "The Canary",
+      "timestamp": "2024-09-03T12:00:48.729Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
