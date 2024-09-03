@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2024-09-03T15:18:11.721Z",
+  "lastUpdated": "2024-09-03T16:43:57.630Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-primary.html",
+      "headline": "Massachusetts Primary Election Results",
+      "timestamp": "2024-09-03T16:42:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-7-primary.html",
+      "headline": "Massachusetts 7th Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T16:37:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-2-primary.html",
+      "headline": "Massachusetts 2nd Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T16:37:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-4-primary.html",
+      "headline": "Massachusetts 4th Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T16:37:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-senate-primary.html",
+      "headline": "Massachusetts U.S. Senate Primary Election Results",
+      "timestamp": "2024-09-03T16:37:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-3-primary.html",
+      "headline": "Massachusetts 3rd Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T16:37:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-9-primary.html",
+      "headline": "Massachusetts 9th Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T16:37:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-1-primary.html",
+      "headline": "Massachusetts 1st Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T16:37:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-8-primary.html",
+      "headline": "Massachusetts 8th Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T16:37:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-6-primary.html",
+      "headline": "Massachusetts 6th Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T16:37:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
