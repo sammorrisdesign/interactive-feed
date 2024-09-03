@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-02T12:34:06.064Z",
+  "lastUpdated": "2024-09-03T09:18:20.637Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2024/chinese-communist-party-us-repression-xi-jinping-apec/",
+      "headline": "How China extended its repression into an American city",
+      "timestamp": "2024-09-03T09:00:00.702Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
