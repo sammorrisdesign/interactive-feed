@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-09-03T19:14:14.653Z",
+  "lastUpdated": "2024-09-04T01:15:59.021Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/technology/zoox-self-driving-cars-remote-control.html",
+      "headline": "How Self-Driving Cars Get Help From Humans Hundreds of Miles Away",
+      "timestamp": "2024-09-04T00:56:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/03/us/elections/results-massachusetts-us-house-5-primary.html",
+      "headline": "Massachusetts 5th Congressional District Primary Election Results",
+      "timestamp": "2024-09-03T23:36:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
