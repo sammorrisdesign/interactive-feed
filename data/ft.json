@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-03T04:20:26.432Z",
+  "lastUpdated": "2024-09-05T04:20:19.507Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/710b8677-2ed2-4a68-9600-4ecb4b22d0d6",
+      "headline": "How close is the US presidential election race?",
+      "timestamp": "2024-09-05T04:00:52.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
