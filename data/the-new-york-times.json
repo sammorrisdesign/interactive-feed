@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-09-05T05:16:31.492Z",
+  "lastUpdated": "2024-09-05T09:16:48.126Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/05/realestate/philadelphia-home-buyers.html",
+      "headline": "How Much Space Could They Find in Greater Philadelphia for Less Than $500,000?",
+      "timestamp": "2024-09-05T09:07:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/05/travel/things-to-do-door-county.html",
+      "headline": "36 Hours in Door County, Wis.",
+      "timestamp": "2024-09-05T09:05:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
