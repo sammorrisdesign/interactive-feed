@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-04T09:18:17.692Z",
+  "lastUpdated": "2024-09-05T05:16:31.492Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/05/opinion/politics/focus-group-pennsylvania-voters.html",
+      "headline": "These 12 Pennsylvania Voters Could Decide The Election. They Aren’t Thrilled About It.",
+      "timestamp": "2024-09-05T05:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
