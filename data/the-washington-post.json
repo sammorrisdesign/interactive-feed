@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-07T12:29:55.360Z",
+  "lastUpdated": "2024-09-07T16:20:02.967Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/dmv-summer-love-street-photography/",
+      "headline": "A summer of love",
+      "timestamp": "2024-09-07T16:00:29.990Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
