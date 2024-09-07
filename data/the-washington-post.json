@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-04T11:13:42.824Z",
+  "lastUpdated": "2024-09-07T10:16:53.888Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2024/migrant-shelter-norfolk-massachusetts-immigration-debate/",
+      "headline": "The shelter and the storm",
+      "timestamp": "2024-09-07T10:05:56.697Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
