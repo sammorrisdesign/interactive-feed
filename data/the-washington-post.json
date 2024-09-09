@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-07T16:20:02.967Z",
+  "lastUpdated": "2024-09-09T09:19:36.560Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/quiz-presidential-debates/",
+      "headline": "Can you spot the famous presidential debate one-liner? Take this quiz.",
+      "timestamp": "2024-09-09T09:00:27.057Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",

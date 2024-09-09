@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-09-08T09:16:15.269Z",
+  "lastUpdated": "2024-09-09T09:19:36.540Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/09/us/politics/trump-harris-campaign-social-media.html",
+      "headline": "What Harris and Trump Say About Each Other",
+      "timestamp": "2024-09-09T09:03:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/09/technology/ai-video-deepfake-runway-kling-quiz.html",
+      "headline": "A.I. Can Now Create Lifelike Videos. Can You Tell What’s Real?",
+      "timestamp": "2024-09-09T09:03:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
