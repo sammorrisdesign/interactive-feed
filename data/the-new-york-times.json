@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-09T09:19:36.540Z",
+  "lastUpdated": "2024-09-09T14:18:28.813Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/09/books/review/sports-book-movies.html",
+      "headline": "Do You Know These Sports Books That Became Movies?",
+      "timestamp": "2024-09-09T14:00:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
