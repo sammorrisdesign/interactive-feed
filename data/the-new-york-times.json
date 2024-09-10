@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-09-10T19:37:52.699Z",
+  "lastUpdated": "2024-09-10T21:16:13.616Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/elections/results-new-hampshire-us-house-2-primary.html",
+      "headline": "New Hampshire 2nd Congressional District Primary Election Results",
+      "timestamp": "2024-09-10T21:04:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/elections/results-delaware-governor-primary.html",
+      "headline": "Delaware Governor Primary Election Results",
+      "timestamp": "2024-09-10T21:04:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
