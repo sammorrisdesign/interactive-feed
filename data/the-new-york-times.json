@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-10T15:38:00.400Z",
+  "lastUpdated": "2024-09-10T16:42:57.477Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/los-angeles-fire-tracker.html",
+      "headline": "Maps: Tracking Los Angeles-Area Wildfires",
+      "timestamp": "2024-09-10T16:21:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
