@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-10T19:14:44.216Z",
+  "lastUpdated": "2024-09-10T20:37:53.111Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/presidential-debate-voter-poll/",
+      "headline": "What swing-state voters are saying about the Harris-Trump debate",
+      "timestamp": "2024-09-10T20:20:34.162Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
