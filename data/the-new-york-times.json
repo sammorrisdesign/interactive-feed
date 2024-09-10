@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2024-09-10T16:42:57.477Z",
+  "lastUpdated": "2024-09-10T19:37:52.699Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/elections/results-rhode-island-us-house-2-primary.html",
+      "headline": "Rhode Island 2nd Congressional District Primary Election Results",
+      "timestamp": "2024-09-10T19:15:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/elections/results-rhode-island-us-house-1-primary.html",
+      "headline": "Rhode Island 1st Congressional District Primary Election Results",
+      "timestamp": "2024-09-10T19:15:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/elections/results-rhode-island-us-senate-primary.html",
+      "headline": "Rhode Island U.S. Senate Primary Election Results",
+      "timestamp": "2024-09-10T19:15:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/elections/results-delaware-lieutenant-governor-primary.html",
+      "headline": "Delaware Lieutenant Governor Primary Election Results",
+      "timestamp": "2024-09-10T19:15:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/elections/results-delaware-us-house-1-primary.html",
+      "headline": "Delaware At-Large Congressional District Primary Election Results",
+      "timestamp": "2024-09-10T19:15:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/us/elections/results-new-hampshire-us-house-1-primary.html",
+      "headline": "New Hampshire 1st Congressional District Primary Election Results",
+      "timestamp": "2024-09-10T19:15:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
