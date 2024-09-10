@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-09T09:19:36.560Z",
+  "lastUpdated": "2024-09-10T12:34:51.654Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/casey-cep-ronald-walters-the-sentinel-who-is-government/",
+      "headline": "The sentinel",
+      "timestamp": "2024-09-10T12:00:08.991Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
