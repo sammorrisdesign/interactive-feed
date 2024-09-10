@@ -1,6 +1,168 @@
 {
-  "lastUpdated": "2024-09-10T12:34:51.654Z",
+  "lastUpdated": "2024-09-10T18:23:09.541Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/kamala-harris-climate-change/",
+      "headline": "Kamala Harris’s climate policies, explained",
+      "timestamp": "2024-09-10T18:00:55.532Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/kamala-harris-foreign-policy/",
+      "headline": "Kamala Harris’s foreign policy, explained",
+      "timestamp": "2024-09-10T18:00:51.605Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/donald-trump-policy-positions/",
+      "headline": "Donald Trump’s policy positions, where he stands on key issues",
+      "timestamp": "2024-09-10T18:00:49.354Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/kamala-harris-student-loans-education/",
+      "headline": "Kamala Harris’s education policies, explained",
+      "timestamp": "2024-09-10T18:00:44.823Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/kamala-harris-6-2020-election-results/",
+      "headline": "Kamala Harris’s election policies, explained",
+      "timestamp": "2024-09-10T18:00:40.873Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/donald-trump-economic-policy/",
+      "headline": "Donald Trump’s economic policies, explained",
+      "timestamp": "2024-09-10T18:00:40.658Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/kamala-harris-economic-policy/",
+      "headline": "Kamala Harris’s economic policies, explained",
+      "timestamp": "2024-09-10T18:00:39.862Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/kamala-harris-immigration/",
+      "headline": "Kamala Harris’s immigration policies, explained",
+      "timestamp": "2024-09-10T18:00:37.242Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/donald-trump-immigration/",
+      "headline": "Donald Trump’s immigration policies, explained",
+      "timestamp": "2024-09-10T18:00:36.120Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/donald-trump-foreign-policy/",
+      "headline": "Donald Trump’s foreign policy, explained",
+      "timestamp": "2024-09-10T18:00:31.373Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/donald-trump-guns-crime/",
+      "headline": "Donald Trump’s crime and gun policies, explained",
+      "timestamp": "2024-09-10T18:00:27.549Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/kamala-harris-guns-crime/",
+      "headline": "Kamala Harris’s crime and gun policies, explained",
+      "timestamp": "2024-09-10T18:00:23.810Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/donald-trump-student-loans-education/",
+      "headline": "Donald Trump’s education policies, explained",
+      "timestamp": "2024-09-10T18:00:13.596Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/kamala-harris-policy-positions/",
+      "headline": "Kamala Harris’s policy positions, where she stands on key issues",
+      "timestamp": "2024-09-10T18:00:13.502Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/kamala-harris-abortion/",
+      "headline": "Kamala Harris’s abortion policies, explained",
+      "timestamp": "2024-09-10T18:00:11.445Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/donald-trump-abortion/",
+      "headline": "Donald Trump’s abortion policies, explained",
+      "timestamp": "2024-09-10T18:00:04.136Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/donald-trump-6-2020-election-results/",
+      "headline": "Donald Trump’s election policies, explained",
+      "timestamp": "2024-09-10T18:00:03.460Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2023/presidential-candidates-2024-policies-issues/donald-trump-climate-change/",
+      "headline": "Donald Trump’s climate policies, explained",
+      "timestamp": "2024-09-10T18:00:02.131Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
