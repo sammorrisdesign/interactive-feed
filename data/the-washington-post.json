@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2024-09-10T18:23:09.541Z",
+  "lastUpdated": "2024-09-10T19:14:44.216Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-harris-jan-6-election-results/",
+      "headline": "Harris vs. Trump stances on the 2020 election results, Jan. 6 prosecutions",
+      "timestamp": "2024-09-10T18:45:52.127Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-harris-abortion/",
+      "headline": "Harris vs. Trump on abortion: Where they stand on the issue ",
+      "timestamp": "2024-09-10T18:45:37.827Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-harris-economic-policy/",
+      "headline": "Harris vs. Trump on the economy: Comparing their policies",
+      "timestamp": "2024-09-10T18:45:36.233Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-harris-climate-change/",
+      "headline": "Harris vs. Trump on climate change: Where they stand on the issue",
+      "timestamp": "2024-09-10T18:45:30.895Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-harris-student-loans-education/",
+      "headline": "Harris vs. Trump on student loans, education: Where they stand",
+      "timestamp": "2024-09-10T18:45:30.401Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-harris-foreign-policy/",
+      "headline": "Harris vs. Trump on foreign policy: Where they stand",
+      "timestamp": "2024-09-10T18:45:05.728Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-harris-crime/",
+      "headline": "Harris vs. Trump on crime: Where they stand on the issue",
+      "timestamp": "2024-09-10T18:45:05.369Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/trump-harris-immigration/",
+      "headline": "Harris vs. Trump on immigration: Where they stand on the issue",
+      "timestamp": "2024-09-10T18:45:01.996Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
