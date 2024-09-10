@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-10T01:16:54.805Z",
+  "lastUpdated": "2024-09-10T15:38:00.400Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/10/weather/bebinca-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Bebinca",
+      "timestamp": "2024-09-10T15:37:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
