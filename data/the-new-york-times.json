@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-09-11T09:19:06.464Z",
+  "lastUpdated": "2024-09-12T09:18:01.900Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/12/realestate/chicago-house-sale.html",
+      "headline": "They Wanted a House in Chicago for Their Growing Family. Would $650,000 Be Enough?",
+      "timestamp": "2024-09-12T09:06:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/12/travel/things-to-do-lima.html",
+      "headline": "36 Hours in Lima, Peru",
+      "timestamp": "2024-09-12T09:01:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

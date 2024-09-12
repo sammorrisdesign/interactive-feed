@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-10T09:19:05.458Z",
+  "lastUpdated": "2024-09-12T09:18:01.929Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-opinion-trust-government-science-religion-business-decreasing/",
+      "headline": "How America Became a Republic of Distrust",
+      "timestamp": "2024-09-12T09:00:21.450Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
