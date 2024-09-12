@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-09-12T09:18:01.900Z",
+  "lastUpdated": "2024-09-12T15:18:05.361Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/12/books/chaos-meaning-word.html",
+      "headline": "‘Chaos’ Reigns!",
+      "timestamp": "2024-09-12T15:07:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/12/us/earthquake-tracker-southern-california.html",
+      "headline": "Map: 4.7-Magnitude Earthquake Strikes Near Los Angeles",
+      "timestamp": "2024-09-12T14:48:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
