@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-12T09:18:01.929Z",
+  "lastUpdated": "2024-09-12T18:43:30.291Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-opinion-history-government-trust/",
+      "headline": "Don’t Panic: Distrusting Government Is an American Tradition",
+      "timestamp": "2024-09-12T09:00:19.028Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
