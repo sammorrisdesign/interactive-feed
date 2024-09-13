@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-12T23:18:36.089Z",
+  "lastUpdated": "2024-09-13T14:15:37.875Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/politics/abortion-ballot-states.html",
+      "headline": "Where Voters Will Decide on Abortion in November",
+      "timestamp": "2024-09-13T13:52:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
