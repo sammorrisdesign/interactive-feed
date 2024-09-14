@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-05T04:20:19.507Z",
+  "lastUpdated": "2024-09-14T04:20:08.488Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/bdcdd185-73ba-411b-93f0-1a3b3b879834",
+      "headline": "Wildfires sweep Amazon as Brazil suffers worst drought on record",
+      "timestamp": "2024-09-14T04:00:20.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
