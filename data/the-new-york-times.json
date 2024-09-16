@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-15T07:14:46.966Z",
+  "lastUpdated": "2024-09-16T09:20:54.680Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/16/realestate/rent-or-buy-home-quiz.html",
+      "headline": "Should They Rent or Buy? These Families Had a Tough Decision to Make.",
+      "timestamp": "2024-09-16T09:03:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
