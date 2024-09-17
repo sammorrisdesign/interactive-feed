@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-17T10:40:42.177Z",
+  "lastUpdated": "2024-09-17T12:33:36.636Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/dave-eggers-jet-propulsion-laboratory-nasa-who-is-government/",
+      "headline": "The Searchers",
+      "timestamp": "2024-09-17T12:00:36.808Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
