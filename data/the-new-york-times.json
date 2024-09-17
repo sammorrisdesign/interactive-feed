@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-17T15:18:28.707Z",
+  "lastUpdated": "2024-09-17T17:15:45.613Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/17/arts/music/sean-combs-diddy-indictment.html",
+      "headline": "Read the Indictment in the Sex Trafficking Case Against Sean Combs",
+      "timestamp": "2024-09-17T16:43:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
