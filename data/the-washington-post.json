@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-15T09:16:28.501Z",
+  "lastUpdated": "2024-09-17T09:18:09.596Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/data-centers-tour-northern-virginia/",
+      "headline": "Our digital lives need massive data centers. What goes on inside them?",
+      "timestamp": "2024-09-17T09:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
