@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-08-09T14:37:53.086Z",
+  "lastUpdated": "2024-09-17T22:16:00.480Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/map-new-data-shows-many-americans-are-without-homeowners-insurance-rcna169974",
+      "headline": "Map: New data shows how many Americans are going without homeowners insurance",
+      "timestamp": "2024-09-17T21:39:10.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
