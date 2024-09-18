@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-14T04:20:08.488Z",
+  "lastUpdated": "2024-09-18T04:21:00.192Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/west-bank/",
+      "headline": "How extremist settlers in the West Bank became the law",
+      "timestamp": "2024-09-18T04:00:49.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
