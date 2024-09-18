@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2024-06-05T16:40:44.300Z",
+  "lastUpdated": "2024-09-18T17:15:11.833Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/investigations/spotlight/2024/09/steward-hospitals/",
+      "headline": "",
+      "timestamp": null
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2024/06/recovery-decline-icu-comic/",
+      "headline": "Recovery and decline: True stories of addiction from an ICU nurse",
+      "timestamp": "2024-06-03T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/2024/03/lewiston-warnings-timeline/",
+      "headline": "Pursuit of the Lewiston shooter proved to be a case study in how not to prevent a mass shooting",
+      "timestamp": "1970-01-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/ideas/graphics/2024/02/reimagining-downtown-boston/",
+      "headline": "Reimagining downtown Boston",
+      "timestamp": "2024-02-09T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2023/12/when-accidents-happen-icu-nurse/",
+      "headline": "When accidents happen: True stories from an ICU nurse",
+      "timestamp": "2023-12-04T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2023/11/fast-fashion/",
+      "headline": "Not so fast, fashion",
+      "timestamp": "2023-11-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/ideas/graphics/2023/09/teens-speak/",
+      "headline": "Teens Speak",
+      "timestamp": "2023-09-21T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2023/07/ban-assault-weapons/",
+      "headline": "Ban military-style assault weapons",
+      "timestamp": "2023-07-10T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
