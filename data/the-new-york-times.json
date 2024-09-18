@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-17T17:15:45.613Z",
+  "lastUpdated": "2024-09-18T12:33:32.915Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/18/business/economy/consumer-interest-rates.html",
+      "headline": "Cheaper Mortgages and Car Loans: Lower Rates Are on the Horizon",
+      "timestamp": "2024-09-18T12:30:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
