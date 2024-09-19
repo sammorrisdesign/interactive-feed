@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2024-09-18T19:37:37.372Z",
+  "lastUpdated": "2024-09-19T09:18:40.858Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/19/realestate/upper-manhattan-co-op-hunt.html",
+      "headline": "They Combed the Co-ops of Upper Manhattan With $700,000 to Spend",
+      "timestamp": "2024-09-19T09:06:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/19/climate/food-costs-protein-environment.html",
+      "headline": "The Hidden Environmental Costs of Food",
+      "timestamp": "2024-09-19T09:04:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/19/travel/things-to-do-malmo-sweden.html",
+      "headline": "36 Hours in Malmo, Sweden",
+      "timestamp": "2024-09-19T09:04:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/19/us/politics/times-siena-inquirer-poll-pennsylvania-likely-electorate.html",
+      "headline": "Cross-Tabs: September 2024 Inquirer/Times/Siena Poll of the Pennsylvania Likely Electorate",
+      "timestamp": "2024-09-19T08:58:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/19/us/politics/times-siena-inquirer-poll-pennsylvania-toplines.html",
+      "headline": "Toplines: September 2024 Inquirer/Times/Siena Poll of Pennsylvania Registered Voters",
+      "timestamp": "2024-09-19T08:58:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
