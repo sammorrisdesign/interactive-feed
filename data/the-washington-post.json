@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-18T20:18:22.757Z",
+  "lastUpdated": "2024-09-19T10:18:45.218Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2024/covid-booster-shot-facts-xec/",
+      "headline": "Do you need another covid shot? Test your coronavirus knowledge.",
+      "timestamp": "2024-09-19T10:00:41.289Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
