@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-19T10:18:45.218Z",
+  "lastUpdated": "2024-09-20T18:43:33.102Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/china-military-threat-united-states/",
+      "headline": "How serious a military threat is China?",
+      "timestamp": "2024-09-20T18:42:38.174Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
