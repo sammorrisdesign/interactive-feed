@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-09-20T21:16:21.422Z",
+  "lastUpdated": "2024-09-21T09:16:35.387Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/21/us/politics/trump-harris-2024-election-speech.html",
+      "headline": "Every Falsehood, Exaggeration and Untruth in Trump’s and Harris’s Stump Speeches",
+      "timestamp": "2024-09-21T09:04:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/21/us/trump-opponents-investigations.html",
+      "headline": "Here are Cases of Trump Rivals Who Were Subject to Investigation",
+      "timestamp": "2024-09-21T09:04:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
