@@ -73,22 +73,6 @@
       }]
     },
     {
-      "publication": "Politico",
-      "twitterHandle": "politico",
-      "mastodonHandle": "politico@newsie.social",
-      "blueSkyHandle": "politico.com",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://www.politico.com/rss/politicopicks.xml",
-        "filters": {
-          "in": {
-            "url": "/interactives"
-          }
-        }
-      }]
-    },
-    {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
       "mastodonHandle": "business@press.coop",
