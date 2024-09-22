@@ -317,8 +317,8 @@
         "type": "Website",
         "path": "https://apps.bostonglobe.com/",
         "selector": ".project",
-        "headline": ".list__project-content h4",
-        "timestamp": ".list__project-content p:nth-of-type(1)",
+        "headline": ".miller-n6",
+        "timestamp": "p:nth-of-type(1)",
         "timestampFormat": ["MMMM D, YYYY", "MMM. D, YYYY", "MMM D, YYYY"]
       }]
     },
