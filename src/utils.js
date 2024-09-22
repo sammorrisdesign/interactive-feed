@@ -1,4 +1,5 @@
 const url = require('url');
+const ogs = require('open-graph-scraper');
 const dayjs = require('dayjs');
 const customParseFormat = require('dayjs/plugin/customParseFormat');
 dayjs.extend(customParseFormat);
@@ -45,6 +46,15 @@ module.exports = {
       } else {
         return false;
       }
+    }
+  },
+
+  getImageURLFromOpenGraph: async(articleUrl) => {
+    try {
+      const openGraph = await ogs({ url: articleUrl, onlyGetOpenGraphInfo: true });
+      return openGraph.result.ogImage[0].url;
+    } catch (e) {
+      console.log(`Can't get Image URL via OpenGraph for ${articleUrl}`);
     }
   }
 }

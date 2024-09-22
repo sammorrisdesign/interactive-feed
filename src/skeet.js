@@ -1,18 +1,19 @@
 // Post to BlueSky
 const { BskyAgent, RichText } = require('@atproto/api');
-const ogs = require('open-graph-scraper');
 const utils = require("./utils");
 
-const getImageForArticleUrl = async(url, client) => {
+const getImageForArticleUrl = async(imageUrl, client) => {
   try {
-    const openGraph = await ogs({ url: url, onlyGetOpenGraphInfo: true });
+    if (imageUrl) {
+      const imageResponse = await fetch(imageUrl);
+      const imageBuffer = await imageResponse.arrayBuffer();
+      const contentType = imageResponse.headers.get('content-type');
 
-    const imageResponse = await fetch(openGraph.result.ogImage[0].url);
-    const imageBuffer = await imageResponse.arrayBuffer();
-    const contentType = imageResponse.headers.get('content-type');
-
-    const blobResponse = await client.uploadBlob(imageBuffer, { encoding: contentType });
-    return await blobResponse.data.blob;
+      const blobResponse = await client.uploadBlob(imageBuffer, { encoding: contentType });
+      return await blobResponse.data.blob;
+    } else {
+      return null;
+    }
   } catch (e) {
     console.log('Error getting image for', url);
     console.log(e);
@@ -49,7 +50,7 @@ const newArticles = async (articles) => {
       }
 
       // Fetch image and add to embed object if it exists
-      const imageAsBlob = await getImageForArticleUrl(article.url, client);
+      const imageAsBlob = await getImageForArticleUrl(article.image, client);
       if (imageAsBlob) {
         embed.external.thumb = imageAsBlob; 
       }

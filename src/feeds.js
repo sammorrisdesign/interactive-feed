@@ -52,6 +52,12 @@ const findNewArticles = async(data) => {
 
       if (!isOld) {
         console.log("Found new article");
+
+        // last minute check for image url
+        if (!article.image) {
+          article.image = await utils.getImageURLFromOpenGraph(article.url);
+        }
+
         newArticlesFromFeed.push(article);
       }
     }

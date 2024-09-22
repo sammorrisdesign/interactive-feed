@@ -10,7 +10,7 @@ const fetchers = {
     const secrets = await utils.getSecrets();
 
     if (secrets) {
-      const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,body,type_of_material&sort=newest&api-key=${secrets.nyt.key}`);
+      const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,body,type_of_material,multimedia&sort=newest&api-key=${secrets.nyt.key}`);
       const data = await response.json();
 
       let articles = data.response.docs;
@@ -22,6 +22,7 @@ const fetchers = {
         blueSkyHandle = feed.blueSkyHandle,
         url = article.web_url,
         headline = article.headline.main,
+        image = 'https://nytimes.com/' + article?.multimedia?.sort((a, b) => b.width - a.width)[0].url,
         timestamp = article.pub_date
       ));
 
@@ -52,7 +53,7 @@ const fetchers = {
   },
 
   WashingtonPost: async(feed) => {
-    const response = await fetch(`https://www.washingtonpost.com/prism/api/prism-query?_website=washpost&query=%7B%22query%22%3A%22prism%3A%2F%2Fprism.query%2Fsubtype%2Cinteractive%26limit%3D30%22%7D&filter=%7Bitems%7B_id%20canonical_url%20display_date%20headlines%20publish_date%20taxonomy%7Btags%7D%7D%7D`);
+    const response = await fetch(`https://www.washingtonpost.com/prism/api/prism-query?_website=washpost&query=%7B%22query%22%3A%22prism%3A%2F%2Fprism.query%2Fsubtype%2Cinteractive%26limit%3D30%22%7D&filter=%7Bitems%7B_id%20canonical_url%20display_date%20promo_items%20headlines%20publish_date%20taxonomy%7Btags%7D%7D%7D`);
     const data = await response.json();
     let articles = data.items;
     articles = articles.filter(article => !article.taxonomy.tags.map(tag => tag.description).includes('stamp'));
@@ -63,6 +64,7 @@ const fetchers = {
       blueSkyHandle = feed.blueSkyHandle,
       url = article.canonical_url,
       headline = article.headlines.basic,
+      image = article?.promo_items?.basic?.url,
       timestamp = article.display_date
     ));
 
@@ -77,6 +79,7 @@ const fetchers = {
       const data = await response.json();
 
       let articles = data.response.results;
+
       articles = articles.map(article => new Article(
         publication = feed.publication,
         twitterHandle = feed.twitterHandle,
@@ -84,6 +87,7 @@ const fetchers = {
         blueSkyHandle = feed.blueSkyHandle,
         url = article.webUrl,
         headline = article.webTitle,
+        image = null,
         timestamp = article.webPublicationDate
       ));
 
@@ -96,7 +100,7 @@ const fetchers = {
   PhiladelphiaInquirerAPI: async(feed) => {
     const secrets = await utils.getSecrets();
     if (secrets) {
-      const response = await fetch(`${secrets.inquirer.baseUrl}/content/v4/search/published?website=philly-media-network&q=type:story AND (taxonomy.tags.text:"interactive-bespoke")&size=10&_sourceInclude="_id,headlines.basic,display_date,canonical_url,canonical_website"&sort=display_date:desc`, {
+      const response = await fetch(`${secrets.inquirer.baseUrl}/content/v4/search/published?website=philly-media-network&q=type:story AND (taxonomy.tags.text:"interactive-bespoke")&size=10&_sourceInclude="_id,headlines.basic,display_date,canonical_url,promo_items,canonical_website"&sort=display_date:desc`, {
         'method': 'GET',
         'headers': {
           'Authorization': `Bearer ${secrets.inquirer.bearerToken}`,
@@ -114,6 +118,7 @@ const fetchers = {
         blueSkyHandle = feed.blueSkyHandle,
         url = 'https://inquirer.com' + article.canonical_url,
         headline = article.headlines.basic,
+        image = article?.promo_items?.basic?.url,
         timestamp = article.display_date
       ));
 
@@ -137,6 +142,7 @@ const fetchers = {
         blueSkyHandle = feed.blueSkyHandle,
         url = article.url,
         headline = article.title,
+        image = article.image,
         timestamp = article.published
       ));
 
@@ -169,6 +175,7 @@ const fetchers = {
           blueSkyHandle = feed.blueSkyHandle,
           url = article.link,
           headline = article.title,
+          image = null,
           timestamp = article.isoDate || article.pubDate
         ))
       } else if (feed.format == 'Atom') {
@@ -185,6 +192,7 @@ const fetchers = {
           blueSkyHandle = feed.blueSkyHandle,
           url = article.id,
           headline = article.title,
+          image = null,
           timestamp = article.published
         ));
       } else if (feed.format == 'Sitemap') {
@@ -196,6 +204,7 @@ const fetchers = {
           blueSkyHandle = feed.blueSkyHandle,
           url = article.loc,
           headline = article?.['news:news']?.['news:title'],
+          image = article?.['image:image']?.['image:loc'],
           timestamp = article?.['news:news']?.['news:publication_date'] || article.lastmod
         ));
       }
@@ -245,6 +254,7 @@ const fetchers = {
             blueSkyHandle = feed.blueSkyHandle,
             url = url,
             headline = $(article).find(feed.headline).text(),
+            image = null,
             timestamp = timestamp
           )
         }
