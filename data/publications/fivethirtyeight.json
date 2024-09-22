@@ -1,0 +1,1544 @@
+{
+  "lastUpdated": "2024-09-04T20:39:17.745Z",
+  "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/kamala-harris-poll-quiz-2024/",
+      "headline": "Can You Guess How Americans Feel About Harris’s Platform?",
+      "timestamp": "2024-09-04T20:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/political-dog-quiz/",
+      "headline": "",
+      "timestamp": "2024-07-26T17:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/biden-trump-june-debate-poll/",
+      "headline": "Who Will Win The First Biden-Trump Presidential Debate?",
+      "timestamp": "2024-06-27T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2024-election-forecast/",
+      "headline": "Who Is Favored To Win The 2024 Presidential Election?",
+      "timestamp": "2024-06-10T14:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/types-democrats-republicans-house-2024/",
+      "headline": "The 8 Types Of Democrats And Republicans In The House",
+      "timestamp": "2024-05-01T14:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/abortion-poll-quiz-2024/",
+      "headline": "Can you guess where Americans stand on abortion?",
+      "timestamp": "2024-04-08T15:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2024-swing-the-election/",
+      "headline": "What Would It Take To Flip States In The 2024 Election",
+      "timestamp": "2024-04-04T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republican-new-hampshire-primary-poll/",
+      "headline": "",
+      "timestamp": "2024-01-18T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2024-republican-delegate-benchmarks/",
+      "headline": "Who’s on track for the GOP nomination?",
+      "timestamp": "2024-01-11T16:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republican-debate-december-poll/",
+      "headline": "Who Won The Fourth Republican Debate?",
+      "timestamp": "2023-12-06T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republican-debate-november-poll/",
+      "headline": "Who Won The Third Republican Debate?",
+      "timestamp": "2023-11-08T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republican-debate-september-poll/",
+      "headline": "Who Won The Second Republican Debate?",
+      "timestamp": "2023-09-27T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/biden-approval-rating/",
+      "headline": "How Popular Is Joe Biden?",
+      "timestamp": "2021-01-28T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2024-republican-primary-updates/",
+      "headline": "The Latest Updates On The 2024 Republican Presidential Primary",
+      "timestamp": "2023-09-19T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/soccer-predictions/",
+      "headline": "Club Soccer Predictions",
+      "timestamp": "2017-01-19T20:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/pollster-ratings/",
+      "headline": "Pollster Ratings",
+      "timestamp": "2023-03-09T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/checking-our-work/",
+      "headline": "How Good Are FiveThirtyEight Forecasts?",
+      "timestamp": "2019-04-04T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/biden-congress-votes/",
+      "headline": "Does Your Member Of Congress Vote With Or Against Biden?",
+      "timestamp": "2021-04-22T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/coronavirus-polls/",
+      "headline": "How Americans View Biden’s Response To The Coronavirus Crisis",
+      "timestamp": "2021-02-16T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/",
+      "headline": "Global Club Soccer Rankings",
+      "timestamp": "2017-08-22T19:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/redistricting-2022-maps/",
+      "headline": "What Redistricting Looks Like In Every State",
+      "timestamp": "2021-08-09T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2021-mlb-predictions/",
+      "headline": "2021 MLB Predictions",
+      "timestamp": "2021-03-30T14:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2021-wnba-predictions/",
+      "headline": "2021 WNBA Predictions",
+      "timestamp": "2021-05-12T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nba-player-projections/",
+      "headline": "2021-22 NBA Player Projections",
+      "timestamp": "2021-08-30T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/california-recall-polls/",
+      "headline": "Latest Polls Of The California Recall Election",
+      "timestamp": "2021-08-18T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/435-representatives/",
+      "headline": "What If The House Of Representatives Had More Than 435 Seats?",
+      "timestamp": "2021-08-12T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/olympics-medal-count/",
+      "headline": "Which Countries Are Doing Better — Or Worse — Than Expected At The Tokyo Olympics?",
+      "timestamp": "2021-07-23T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2021-nba-predictions/",
+      "headline": "2020-21 NBA Predictions",
+      "timestamp": "2020-12-17T18:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/skateboarding-olympics/",
+      "headline": "How Good Was That Skateboarder&#8217;s Kickflip? You Be The Olympic Judge.",
+      "timestamp": "2021-07-20T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/covid-forecasts/",
+      "headline": "Where The Latest COVID-19 Models Think We&#8217;re Headed — And Why They Disagree",
+      "timestamp": "2020-05-01T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2021-march-madness-predictions/",
+      "headline": "2021 March Madness Predictions",
+      "timestamp": "2021-03-14T23:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/negro-leagues-mlb/",
+      "headline": "The Negro League Stars That MLB Kept Out — And Is Finally Recognizing",
+      "timestamp": "2021-02-25T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-nfl-predictions/",
+      "headline": "2020 NFL Predictions",
+      "timestamp": "2020-09-09T18:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/super-bowl-ads/",
+      "headline": "According To Super Bowl Ads, Americans Love America, Animals And Sex",
+      "timestamp": "2021-02-04T16:11:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/trump-approval-ratings/",
+      "headline": "How Popular Is Donald Trump?",
+      "timestamp": "2017-03-02T17:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/trump-impeachment-removal-polls/",
+      "headline": "Do Americans Support Removing Trump From Office?",
+      "timestamp": "2021-01-13T15:20:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/women-of-color-congress-2020/",
+      "headline": "Women Of Color Were Shut Out Of Congress For Decades. Now They&#8217;re Transforming It.",
+      "timestamp": "2021-01-18T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/congress-trump-score/",
+      "headline": "Tracking Congress In The Age Of Trump",
+      "timestamp": "2017-01-30T12:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/georgia-senate-polls/",
+      "headline": "Latest Polls Of The Georgia Senate Runoff Elections",
+      "timestamp": "2020-12-07T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2021-nba-player-projections/",
+      "headline": "NBA Player Projections",
+      "timestamp": "2020-12-17T18:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-swing-states/",
+      "headline": "How The 2020 Election Changed The Electoral Map",
+      "timestamp": "2020-12-08T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-election-forecast/",
+      "headline": "2020 Election Forecast",
+      "timestamp": "2020-08-12T10:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/trump-biden-election-map/",
+      "headline": "Explore The Ways Trump Or Biden Could Win The Election",
+      "timestamp": "2020-10-21T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/how-to-vote-2020/",
+      "headline": "How To Vote In The 2020 Election",
+      "timestamp": "2020-08-14T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/election-results-timing/",
+      "headline": "When To Expect Election Results In Every State",
+      "timestamp": "2020-10-30T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-mlb-predictions/",
+      "headline": "2020 MLB Predictions",
+      "timestamp": "2020-07-21T14:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/non-voters-poll-2020-election/",
+      "headline": "Why Millions Of Americans Don’t Vote",
+      "timestamp": "2020-10-26T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/trump-biden-final-debate-poll/",
+      "headline": "Who Will Win The Last Presidential Debate?",
+      "timestamp": "2020-10-21T18:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-nba-player-ratings/",
+      "headline": "The Best NBA Players This Season, According To RAPTOR",
+      "timestamp": "2019-11-07T18:54:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-nba-predictions/",
+      "headline": "2019-20 NBA Predictions",
+      "timestamp": "2019-07-16T18:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/harris-pence-vp-debate-poll/",
+      "headline": "Who Will Win The Vice Presidential Debate?",
+      "timestamp": "2020-10-06T22:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/trump-biden-debate-poll/",
+      "headline": "Here&#8217;s Where The Candidates Stand Before The First Presidential Debate",
+      "timestamp": "2020-09-29T13:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/swing-states-2020-election/",
+      "headline": "Is The Electoral Map Changing?",
+      "timestamp": "2020-08-26T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/nba-contracts/",
+      "headline": "Which NBA Contracts Were Gems This Season, And Which Were Stinkers?",
+      "timestamp": "2020-07-29T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/confederate-statues/",
+      "headline": "Confederate Statues Were Never Really About Preserving History",
+      "timestamp": "2020-07-08T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/racism-polls/",
+      "headline": "Do You Know How Divided White And Black Americans Are On Racism?",
+      "timestamp": "2020-06-10T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/sports-classics/nba/",
+      "headline": "The Best NBA Playoff Games To Watch While Sports Are Shut Down",
+      "timestamp": "2020-04-16T19:34:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-endorsements/democratic-primary/",
+      "headline": "The 2020 Endorsement Primary",
+      "timestamp": "2019-02-28T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-campaign-ads/",
+      "headline": "Tracking Every Presidential Candidate’s TV Ad Buys",
+      "timestamp": "2019-09-26T17:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-primaries/democratic/",
+      "headline": "The 2020 Democratic Presidential Primary",
+      "timestamp": "2019-04-22T17:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-primary-forecast/",
+      "headline": "Who Will Win The 2020 Democratic Nomination?",
+      "timestamp": "2020-01-09T15:45:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-march-madness-predictions/",
+      "headline": "2020 (Simulated) March Madness Predictions",
+      "timestamp": "2020-03-19T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/biden-sanders-debate-poll/",
+      "headline": "Who Will Win The Biden-Sanders Debate?",
+      "timestamp": "2020-03-13T17:22:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/sanders-poll-quiz/",
+      "headline": "Can You Guess How Popular Bernie Sanders’s Policies Are?",
+      "timestamp": "2020-03-13T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/super-tuesday/",
+      "headline": "Pick Your Own Super Tuesday Winners And Watch The Race Change",
+      "timestamp": "2020-03-02T13:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-debate-south-carolina-poll/",
+      "headline": "Who Will Win The South Carolina Democratic Debate?",
+      "timestamp": "2020-02-25T19:50:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/impeachment-polls/",
+      "headline": "Do Americans Support Removing Trump From Office?",
+      "timestamp": "2019-10-21T19:58:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-debate-first-february-poll/",
+      "headline": "Who Will Win The New Hampshire Democratic Primary Debate?",
+      "timestamp": "2020-02-07T15:25:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2019-nfl-predictions/",
+      "headline": "2019 NFL Predictions",
+      "timestamp": "2019-09-04T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-fundraising-q4/",
+      "headline": "What Fourth-Quarter Fundraising Can Tell Us About 2020",
+      "timestamp": "2020-02-01T17:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-debate-january-poll/",
+      "headline": "Who Will Win The January Debate?",
+      "timestamp": "2020-01-14T00:20:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2019-college-football-predictions/",
+      "headline": "2019 College Football Predictions",
+      "timestamp": "2019-09-19T17:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/jobs-report-growth-unemployment/",
+      "headline": "A Better Way To Think About June’s Jobs Numbers",
+      "timestamp": "2017-12-08T14:10:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-debate-december-poll/",
+      "headline": "Who Will Win The December Democratic Debate?",
+      "timestamp": "2019-12-18T17:45:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-debate-november-poll/",
+      "headline": "Who Will Win The Fifth Democratic Debate?",
+      "timestamp": "2019-11-19T23:04:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2019-mlb-predictions/",
+      "headline": "2019 MLB Predictions",
+      "timestamp": "2019-03-27T15:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/college-football-ticket-sales/",
+      "headline": "How Widespread Is Your College Football Fan Base?",
+      "timestamp": "2019-10-24T21:40:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-nba-player-projections/",
+      "headline": "NBA Player Projections",
+      "timestamp": "2019-10-10T21:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-debate-october-poll/",
+      "headline": "Who Will Win The Fourth Democratic Debate?",
+      "timestamp": "2019-10-15T12:14:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-fundraising-q3/",
+      "headline": "What Third-Quarter Fundraising Can Tell Us About 2020",
+      "timestamp": "2019-10-16T17:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-debate-september-poll/",
+      "headline": "Who Won The Third Democratic Debate?",
+      "timestamp": "2019-09-12T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/college-fight-song-lyrics/",
+      "headline": "Our Guide To The Exuberant Nonsense Of College Fight Songs",
+      "timestamp": "2019-08-30T14:56:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/political-quiz/",
+      "headline": "Quiz: Can You Tell Political Pundits From Sports Commentators?",
+      "timestamp": "2019-08-20T18:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/electoral-college-new-states-2016-election/",
+      "headline": "How 13 Rejected States Would Have Changed The Electoral College",
+      "timestamp": "2019-07-22T16:24:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-fundraising-q2/",
+      "headline": "What Second-Quarter Fundraising Can Tell Us About 2020",
+      "timestamp": "2019-07-16T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/carmelo/",
+      "headline": "CARMELO NBA Player Projections",
+      "timestamp": "2018-07-01T19:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2019-womens-world-cup-predictions/",
+      "headline": "2019 Women&#8217;s World Cup Predictions",
+      "timestamp": "2019-06-05T15:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-debate-poll/",
+      "headline": "Who Won The First Democratic Debate?",
+      "timestamp": "2019-06-26T14:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2019-nba-predictions/",
+      "headline": "2018-19 NBA Predictions",
+      "timestamp": "2018-10-15T15:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republicans-democrats-cities/",
+      "headline": "How Politically Segregated Is Your City?",
+      "timestamp": "2019-05-20T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-fundraising/",
+      "headline": "What First-Quarter Fundraising Can Tell Us About 2020",
+      "timestamp": "2019-04-16T13:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2019-march-madness-predictions/",
+      "headline": "2019 March Madness Predictions",
+      "timestamp": "2019-03-18T00:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/russia-investigation/",
+      "headline": "Is The Russia Investigation Really Another Watergate?",
+      "timestamp": "2019-03-07T18:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/partisan-gerrymandering-north-carolina/",
+      "headline": "One Way To Spot A Partisan Gerrymander",
+      "timestamp": "2019-03-18T12:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-nfl-predictions/",
+      "headline": "2018 NFL Predictions",
+      "timestamp": "2018-09-05T16:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-candidate-appeal/",
+      "headline": "Which 2020 Contender Has The Widest Appeal? You Tell Us.",
+      "timestamp": "2019-01-28T15:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-college-football-predictions/",
+      "headline": "2018 College Football Predictions",
+      "timestamp": "2018-10-04T17:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/",
+      "headline": "2018 House Forecast",
+      "timestamp": "2018-08-16T16:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-midterm-election-forecast/senate/",
+      "headline": "2018 Senate Forecast",
+      "timestamp": "2018-09-11T19:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-midterm-election-forecast/governor/",
+      "headline": "2018 Governors Forecast",
+      "timestamp": "2018-10-17T18:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-mlb-predictions/",
+      "headline": "2018 MLB Predictions",
+      "timestamp": "2018-03-28T15:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/world-cup-comparisons/",
+      "headline": "Compare Every World Cup Performance Since 1966",
+      "timestamp": "2018-06-29T14:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-world-cup-predictions/",
+      "headline": "2018 World Cup Predictions",
+      "timestamp": "2018-06-13T15:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/carmelo-2018-19/",
+      "headline": "2018-19 CARMELO NBA Player Projections",
+      "timestamp": "2018-06-26T18:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-nba-predictions/",
+      "headline": "2017-18 NBA Predictions",
+      "timestamp": "2017-10-13T20:40:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2018-march-madness-predictions/",
+      "headline": "2018 March Madness Predictions",
+      "timestamp": "2018-03-12T00:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/guns-parkland-polling-quiz/",
+      "headline": "Do You Know Where America Stands On Guns?",
+      "timestamp": "2018-03-09T15:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/winter-olympics-quiz/",
+      "headline": "Which Winter Olympic Sport Is Best For You?",
+      "timestamp": "2018-02-09T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2017-nfl-predictions/",
+      "headline": "2017 NFL Predictions",
+      "timestamp": "2017-09-06T13:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/nfl-predictions-game/",
+      "headline": "Can You Beat FiveThirtyEight&#8217;s NFL Predictions?",
+      "timestamp": "2017-09-08T14:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/redistricting-maps/",
+      "headline": "The Atlas Of Redistricting",
+      "timestamp": "2018-01-25T11:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2017-college-football-predictions/",
+      "headline": "2017 College Football Predictions",
+      "timestamp": "2017-10-05T16:20:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/sexual-assault-victims/",
+      "headline": "What We Know About Victims Of Sexual Assault In America",
+      "timestamp": "2018-01-02T15:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/next-bechdel/",
+      "headline": "The Next Bechdel Test",
+      "timestamp": "2017-12-21T16:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/world-cup-quiz/",
+      "headline": "Which World Cup Team Should You Root For?",
+      "timestamp": "2017-11-30T18:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2017-mlb-predictions/",
+      "headline": "2017 MLB Predictions",
+      "timestamp": "2017-03-31T16:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/reddit-ngram/",
+      "headline": "How The Internet* Talks",
+      "timestamp": "2015-11-18T19:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/sandy-311/",
+      "headline": "The (Very) Long Tail Of Hurricane Recovery",
+      "timestamp": "2017-09-19T10:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/if-clinton-had-won/",
+      "headline": "If Hillary Clinton Had Won",
+      "timestamp": "2017-07-20T15:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/carmelo-2017-18/",
+      "headline": "2017-18 CARMELO NBA Player Projections",
+      "timestamp": "2017-06-29T19:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2017-nba-predictions/",
+      "headline": "2016-17 NBA Predictions",
+      "timestamp": "2016-10-20T17:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/mortality-rates-united-states/",
+      "headline": "35 Years Of American Death",
+      "timestamp": "2017-04-20T16:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2017-march-madness-predictions/",
+      "headline": "2017 March Madness Predictions",
+      "timestamp": "2017-03-13T00:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/tipping-workers-minimum-wage/",
+      "headline": "How Hard Is Your Server Working To Earn Minimum Wage?",
+      "timestamp": "2017-03-09T19:50:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-nfl-predictions/",
+      "headline": "2016 NFL Predictions",
+      "timestamp": "2016-09-07T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/oscar-predictions-2017/",
+      "headline": "Who’s On Track To Win The 2017 Oscars",
+      "timestamp": "2017-01-24T15:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/obama-polling-trends/",
+      "headline": "How America&#8217;s Views On 32 Big Issues Changed Under Obama",
+      "timestamp": "2017-01-18T12:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-college-football-predictions/",
+      "headline": "2016 College Football Predictions",
+      "timestamp": "2016-11-01T23:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/election-night-forecast-2016/",
+      "headline": "Live Election Night Forecast",
+      "timestamp": "2016-11-08T23:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-election-forecast/senate/",
+      "headline": "2016 Senate Forecast",
+      "timestamp": "2016-09-20T14:55:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-election-forecast/",
+      "headline": "2016 General Election Forecast",
+      "timestamp": "2016-06-29T18:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/marathon-calculator/",
+      "headline": "How Fast Would You Run A Marathon?",
+      "timestamp": "2016-11-03T18:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/perfect-stump-speech/",
+      "headline": "The Perfect Presidential Stump Speech",
+      "timestamp": "2016-11-03T17:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-mlb-predictions/",
+      "headline": "2016 MLB Predictions",
+      "timestamp": "2016-04-25T19:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/clinton-trump-vote-maps-2016/",
+      "headline": "Where Do Clinton And Trump Have The Most Upside?",
+      "timestamp": "2016-10-12T12:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-swing-the-election/",
+      "headline": "2016 Swing-O-Matic",
+      "timestamp": "2015-12-03T19:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-election-forecast/articles/",
+      "headline": "2016 Election Forecast - Analysis",
+      "timestamp": "2016-09-06T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-us-open-tennis-predictions/",
+      "headline": "2016 U.S. Open Predictions",
+      "timestamp": "2016-08-28T22:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/web-developer-position/",
+      "headline": "We’re Looking For A Sports-Loving Web Developer",
+      "timestamp": "2016-08-10T20:55:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/clinton-trump-hip-hop-lyrics/",
+      "headline": "Hip-Hop Is Turning On Donald Trump",
+      "timestamp": "2016-07-14T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/features/gun-deaths/",
+      "headline": "Gun Deaths In America",
+      "timestamp": "2016-07-13T14:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/carmelo-2016-17/",
+      "headline": "2016-17 CARMELO NBA Player Projections",
+      "timestamp": "2016-07-07T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/election-2016/national-primary-polls/republican/",
+      "headline": "2016 National Primary Polls",
+      "timestamp": "2016-01-26T19:40:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/election-2016/primary-forecast/",
+      "headline": "2016 Primary Forecast",
+      "timestamp": "2016-01-12T19:40:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/election-2016/delegate-targets/",
+      "headline": "Who’s On Track For The Nomination?",
+      "timestamp": "2016-02-29T19:05:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/election-2016/can-you-get-trump-to-1237/",
+      "headline": "Can You Get Trump To 1,237?",
+      "timestamp": "2016-04-04T19:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-endorsement-primary/",
+      "headline": "The Endorsement Primary",
+      "timestamp": "2015-07-14T17:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/sumo/",
+      "headline": "A History Of Sumo",
+      "timestamp": "2016-05-13T17:15:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/complete-history-of-mlb/",
+      "headline": "The Complete History Of MLB",
+      "timestamp": "2016-04-25T19:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-march-madness-predictions/",
+      "headline": "2016 March Madness Predictions",
+      "timestamp": "2016-03-14T00:30:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/democratic-stump-speech/",
+      "headline": "The Perfect Democratic Stump Speech",
+      "timestamp": "2016-02-19T00:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/facebook-primary/",
+      "headline": "The Facebook Primary",
+      "timestamp": "2016-02-11T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/oscars-2016/",
+      "headline": "The 2016 Oscars Race",
+      "timestamp": "2016-02-05T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2015-nfl-predictions/",
+      "headline": "2015 NFL Predictions",
+      "timestamp": "2015-09-10T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/complete-history-of-the-nba/",
+      "headline": "The Complete History Of The NBA",
+      "timestamp": "2015-12-07T21:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2016-nba-picks/",
+      "headline": "2015-16 NBA Predictions",
+      "timestamp": "2015-12-07T21:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/flights/",
+      "headline": "Which Flight Will Get You There Fastest?",
+      "timestamp": "2015-03-11T23:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republican-stump-speech/",
+      "headline": "The Perfect Republican Stump Speech",
+      "timestamp": "2015-11-24T00:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/carmelo-2015-16/",
+      "headline": "2015-16 CARMELO NBA Player Projections",
+      "timestamp": "2015-10-09T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/complete-history-of-the-nfl/",
+      "headline": "The Complete History Of The NFL",
+      "timestamp": "2015-09-16T16:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/features/science-isnt-broken/",
+      "headline": "Science Isn't Broken",
+      "timestamp": "2015-08-19T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/features/prison-reform-risk-assessment/",
+      "headline": "Should Prison Sentences Be Based On Crimes That Haven’t Been Committed Yet?",
+      "timestamp": "2015-08-04T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/womens-world-cup/",
+      "headline": "2015 Women&#8217;s World Cup Predictions",
+      "timestamp": "2015-06-02T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/interactives/uk-general-election-predictions/",
+      "headline": "U.K. General Election Predictions",
+      "timestamp": "2015-05-07T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/interactives/marriage-penalty/",
+      "headline": "Should You Get Married (Or Divorced) For Tax Reasons?",
+      "timestamp": "2015-04-15T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/interactives/march-madness-predictions-2015/",
+      "headline": "2015 March Madness Predictions",
+      "timestamp": "2015-03-15T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/features/madden/",
+      "headline": "How Madden Ratings Are Made",
+      "timestamp": "2015-02-25T21:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/features/every-nba-teams-chance-of-winning-in-every-minute-across-every-game/",
+      "headline": "Every NBA Team’s Chance Of Winning In Every Minute Across Every Game",
+      "timestamp": "2015-02-18T21:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/features/skeptical-football-patriots-vs-cardinals-and-an-interactive-history-of-the-nfl/",
+      "headline": "Complete History of NFL Scoring",
+      "timestamp": "2014-11-21T21:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/interactives/senate-forecast/",
+      "headline": "2014 Senate Forecast",
+      "timestamp": "2014-11-04T21:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/features/the-playoff-implications-of-every-game-for-every-nfl-team/",
+      "headline": "NFL Playoff Implications",
+      "timestamp": "2014-10-16T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/interactives/world-cup/",
+      "headline": "2014 World Cup Predictions",
+      "timestamp": "2014-06-09T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://fivethirtyeight.com/interactives/march-madness-predictions/",
+      "headline": "2014 NCAA Tournament Predictions",
+      "timestamp": "2014-03-14T20:00:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://abcnews.go.com/Politics/live-updates/republican-debate-primary/",
+      "headline": "",
+      "timestamp": "2023-08-23T22:44:53.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republican-debate-august-poll/",
+      "headline": "Who Will Win The First Republican Debate?",
+      "timestamp": "2023-08-23T10:00:59.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/polls/president-primary-d/2024/national/",
+      "headline": "How Are Biden And RFK Jr. Polling In The Democratic Primary?",
+      "timestamp": "2023-07-27T10:00:39.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/epl-consistency-2023/",
+      "headline": "How Consistent Was Every Premier League Lineup This Season?",
+      "timestamp": "2023-05-23T16:30:14.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2024-election-endorsements/",
+      "headline": "Which 2024 Republican Presidential Candidate Has The Most Endorsements?",
+      "timestamp": "2023-04-19T10:00:06.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-mlb-predictions/",
+      "headline": "2023 MLB Predictions",
+      "timestamp": "2023-03-29T10:00:31.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-march-madness-predictions/",
+      "headline": "2023 March Madness Predictions",
+      "timestamp": "2023-03-12T23:14:31.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/abortion-driving-distance/",
+      "headline": "What Happens If More Red States Ban Abortion?",
+      "timestamp": "2023-03-08T11:00:09.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/daylight-saving-time/",
+      "headline": "Can You Make Winter Less Dark?",
+      "timestamp": "2022-12-22T11:00:26.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "headline": "Can You Make Winter Less Dark?",
+      "timestamp": "2022-12-22T11:00:26.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2020-nfl-forecasting-game/",
+      "headline": "Can You Beat FiveThirtyEight’s NFL Forecasts?",
+      "timestamp": "2022-12-20T15:57:18.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republicans-house-election-margin/",
+      "headline": "A Red Wave In Florida. A Blue Riptide In Michigan.",
+      "timestamp": "2022-11-21T11:00:52.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/world-cup-2022-quiz/",
+      "headline": "Which World Cup Player Should You Root For?",
+      "timestamp": "2022-11-21T11:00:38.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-world-cup-predictions/",
+      "headline": "2022 World Cup Predictions",
+      "timestamp": "2022-11-16T16:11:18.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/when-election-results-2022/",
+      "headline": "When Will We Know 2022 Midterm Election Results?",
+      "timestamp": "2022-11-05T14:00:52.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/nfl-receiver-rankings/",
+      "headline": "The Best NFL Receivers, According To ESPN Analytics",
+      "timestamp": "2022-11-01T16:30:04.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-nba-predictions/",
+      "headline": "2022-23 NBA Predictions",
+      "timestamp": "2022-10-14T10:00:44.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/nba-trades-2023/",
+      "headline": "Build An NBA Contender With Our Roster-Shuffling Machine",
+      "timestamp": "2022-10-14T10:00:25.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-nhl-predictions/",
+      "headline": "2022-23 NHL Predictions",
+      "timestamp": "2022-10-07T10:00:44.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/gop-house-2022/",
+      "headline": "The Seats Republicans Could Flip To Win The House In 2022",
+      "timestamp": "2022-10-06T10:00:33.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-college-football-predictions/",
+      "headline": "2022 College Football Predictions",
+      "timestamp": "2022-09-27T10:00:23.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nfl-forecasting-game/",
+      "headline": "Can You Beat FiveThirtyEight’s NFL Forecasts?",
+      "timestamp": "2022-09-07T14:00:39.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nfl-predictions/",
+      "headline": "2022 NFL Predictions",
+      "timestamp": "2022-09-07T14:00:08.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/republicans-trump-election-fraud/",
+      "headline": "Where Candidates Who Deny The 2020 Election Results Are On The Ballot — And Where They Could Win",
+      "timestamp": "2022-09-06T10:00:03.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-flip-senate-house/",
+      "headline": "Explore The Ways Republicans Or Democrats Could Win The Midterms",
+      "timestamp": "2022-09-01T10:00:52.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2023-nba-player-projections/",
+      "headline": "2022-23 NBA Player Projections",
+      "timestamp": "2022-08-30T15:00:25.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/redistricting-alternate-maps/",
+      "headline": "What If Democrats — Or Republicans — Had Won Every Redistricting Battle?",
+      "timestamp": "2022-08-11T10:00:21.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-election-forecast/",
+      "headline": "2022 Election Forecast",
+      "timestamp": "2022-06-30T14:00:11.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/voting-restrictions-by-state/",
+      "headline": "Has Your State Made It Harder To Vote?",
+      "timestamp": "2022-06-16T10:00:04.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/gun-control-polling-2022/",
+      "headline": "Just How Far Apart Are The Two Parties On Gun Control?",
+      "timestamp": "2022-06-07T10:00:48.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-wnba-predictions/",
+      "headline": "2022 WNBA Predictions",
+      "timestamp": "2022-05-05T14:07:40.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-mlb-predictions/",
+      "headline": "2022 MLB Predictions",
+      "timestamp": "2022-04-06T10:00:58.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-march-madness-predictions/",
+      "headline": "2022 March Madness Predictions",
+      "timestamp": "2022-03-13T23:08:24.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/abortion-restrictions-by-state/",
+      "headline": "Undue Burden",
+      "timestamp": "2022-03-07T11:00:57.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/redlining/",
+      "headline": "The Lasting Legacy Of Redlining",
+      "timestamp": "2022-02-09T11:00:52.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/winter-olympics-medal-count/",
+      "headline": "What We Expect From Each Country At The Beijing Olympics",
+      "timestamp": "2022-02-04T11:00:21.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/tom-brady-touchdown-passes/",
+      "headline": "The NFL Really Does Revolve Around Tom Brady",
+      "timestamp": "2022-01-11T11:00:54.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/nba-player-ratings/",
+      "headline": "The Best NBA Players, According To RAPTOR",
+      "timestamp": "2021-10-27T10:00:20.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/covid-19-updates/",
+      "headline": "All The Science You Need To Make Your COVID-19 Decisions",
+      "timestamp": "2021-10-25T14:06:34.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nba-predictions/",
+      "headline": "2021-22 NBA Predictions",
+      "timestamp": "2021-10-14T10:00:30.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/nba-trades-2022/",
+      "headline": "Build An NBA Contender With Our Roster-Shuffling Machine",
+      "timestamp": "2021-10-14T09:59:29.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/us-economy-coronavirus/",
+      "headline": "How Fast Is The Economy Recovering?",
+      "timestamp": "2021-10-08T13:11:12.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2022-nhl-predictions/",
+      "headline": "2021-22 NHL Predictions",
+      "timestamp": "2021-10-07T10:00:14.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2021-college-football-predictions/",
+      "headline": "2021 College Football Predictions",
+      "timestamp": "2021-09-29T10:00:39.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/polls/governor/virginia/",
+      "headline": "Latest Polls In The Virginia Governor&#8217;s Race",
+      "timestamp": "2021-09-21T15:31:51.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/congress-generic-ballot-polls/",
+      "headline": "Do Voters Want Democrats Or Republicans In Congress?",
+      "timestamp": "2021-09-16T10:00:30.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/2021-nfl-predictions/",
+      "headline": "2021 NFL Predictions",
+      "timestamp": "2021-09-07T14:00:43.000Z"
+    }
+  ]
+}

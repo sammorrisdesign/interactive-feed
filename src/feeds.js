@@ -28,9 +28,9 @@ const findNewArticles = async(data) => {
 
   // loop through recently fetched feeds
   for (const feed of Object.keys(data)) {
-    const path = `./data/${utils.handlise(feed)}.json`;
+    const path = `./data/publications/${utils.handlise(feed)}.json`;
 
-    // create /data/publication-name.json if it doesn't exist
+    // create /data/publications/publication-name.json if it doesn't exist
     if (!fs.existsSync(path)) {
       fs.writeFileSync(path, JSON.stringify({
         lastUpdated: new Date(),
@@ -71,16 +71,36 @@ const findNewArticles = async(data) => {
   return newArticles;
 }
 
+const updateFullFeed = async() => {
+  const dir = './data/publications';
+  const feeds = fs.readdirSync(dir);
+  let fullFeed = new Object();
+  fullFeed.lastUpdated = new Date();
+  fullFeed.articles = new Array();
+
+  for (const feed of feeds) {
+    const data = fs.readJSONSync(`${dir}/${feed}`);
+
+    fullFeed.articles.push(...data.articles);
+  }
+
+  fullFeed.articles.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
+  fs.writeFileSync('./data/all.json', JSON.stringify(fullFeed, null, 2));
+  console.log(`Updated the full feed (${fullFeed.articles.length} Interactives)`);
+}
+
 module.exports = {
   check: async() => {
     const data = await pullRecentFeeds();
     const newArticles = await findNewArticles(data);
 
-    if (newArticles) {
+    if (newArticles.length) {
       console.log(newArticles.length, "new articles found");
       await tweet.newArticles(newArticles);
       await toot.newArticles(newArticles);
       await skeet.newArticles(newArticles);
+
+      await updateFullFeed();
     }
   }
 }
