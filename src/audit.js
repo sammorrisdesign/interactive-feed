@@ -10,7 +10,7 @@ dayjs.extend(relativeTime);
 (async() => {
   // Get a complete list of publications from config and saved data
   const publicationsFromConfig = config.feeds.map(feed => utils.handlise(feed.publication));
-  const publicationsFromData = fs.readdirSync('./data/').map(fileName => fileName.replace('.json', ''));
+  const publicationsFromData = fs.readdirSync('./data/publications').map(fileName => fileName.replace('.json', ''));
   const uniquePublications = Array.from(new Set([...publicationsFromConfig, ...publicationsFromData])).sort();
 
   // Check each publication
@@ -28,7 +28,7 @@ dayjs.extend(relativeTime);
     if (publicationsFromData.includes(publication)) {
       console.log('✅ Data found');
 
-      const data = fs.readJSONSync(`./data/${publication}.json`);
+      const data = fs.readJSONSync(`./data/publications/${publication}.json`);
       const articles = data.articles;
       const numberOfArticles = articles.length;
 
