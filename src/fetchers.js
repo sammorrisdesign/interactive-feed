@@ -22,7 +22,6 @@ const fetchers = {
         blueSkyHandle = feed.blueSkyHandle,
         url = article.web_url,
         headline = article.headline.main,
-        image = 'https://nytimes.com/' + article?.multimedia?.sort((a, b) => b.width - a.width)[0].url,
         timestamp = article.pub_date
       ));
 
@@ -64,7 +63,6 @@ const fetchers = {
       blueSkyHandle = feed.blueSkyHandle,
       url = article.canonical_url,
       headline = article.headlines.basic,
-      image = article?.promo_items?.basic?.url,
       timestamp = article.display_date
     ));
 
