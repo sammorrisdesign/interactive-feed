@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-23T16:21:27.995Z",
+  "lastUpdated": "2024-09-23T21:16:25.779Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/23/us/routh-detention-memo.html",
+      "headline": "Read the prosecutors’ detention memo",
+      "image": "2024-09-23T20:54:57+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
