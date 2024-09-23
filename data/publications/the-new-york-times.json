@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-22T20:10:27.963Z",
+  "lastUpdated": "2024-09-23T16:21:27.995Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/23/books/review/classic-lit-villains.html",
+      "headline": "Do You Know These Villains of Classic British Literature?",
+      "image": "https://nytimes.com/images/2024/09/23/books/review/23Quiz-Villains/23Quiz-Villains-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-09-23T16:00:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
