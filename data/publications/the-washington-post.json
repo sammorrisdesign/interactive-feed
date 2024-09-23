@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-20T20:19:26.280Z",
+  "lastUpdated": "2024-09-23T09:20:52.728Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/galveston-sea-level-rise-condo-development/",
+      "headline": "Where the sea wall ends",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CROVEEXZQGLC7Q2V53MROMA7CU.JPG",
+      "timestamp": "2024-09-23T09:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
