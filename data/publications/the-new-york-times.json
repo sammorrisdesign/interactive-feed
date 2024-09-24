@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2024-09-24T15:19:22.205Z",
+  "lastUpdated": "2024-09-24T16:22:24.290Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-new-mexico.html",
+      "headline": "Election 2024 Polls: New Mexico",
+      "image": "2024-09-24T15:48:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-ohio.html",
+      "headline": "Election 2024 Polls: Ohio",
+      "image": "2024-09-24T15:48:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-texas.html",
+      "headline": "Election 2024 Polls: Texas",
+      "image": "2024-09-24T15:48:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-california.html",
+      "headline": "Election 2024 Polls: California",
+      "image": "2024-09-24T15:48:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-maryland.html",
+      "headline": "Election 2024 Polls: Maryland",
+      "image": "2024-09-24T15:47:59+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
