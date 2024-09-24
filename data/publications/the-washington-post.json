@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-24T12:35:33.883Z",
+  "lastUpdated": "2024-09-24T14:40:31.380Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/trudeau-doonesbury-trump-satire/",
+      "headline": "The Rigger",
+      "image": "2024-09-24T14:15:21.181Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
