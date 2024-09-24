@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-24T09:19:24.116Z",
+  "lastUpdated": "2024-09-24T14:15:36.772Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/24/weather/nine-map-path-tracker.html",
+      "headline": "Tracking a Potential Hurricane Headed Toward the U.S.",
+      "image": "2024-09-24T14:03:56+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
