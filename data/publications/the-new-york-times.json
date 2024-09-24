@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-09-24T01:20:22.628Z",
+  "lastUpdated": "2024-09-24T09:19:24.116Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/24/opinion/global-poverty-rates.html",
+      "headline": "We Need a New Global Measure for Poverty",
+      "image": "2024-09-24T09:04:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/24/realestate/nicholas-sparks-home-north-carolina.html",
+      "headline": "Nicholas Sparks on His New Book, Backgammon and Splenda Chicken Salad",
+      "image": "2024-09-24T09:04:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
