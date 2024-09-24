@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-24T10:19:54.853Z",
+  "lastUpdated": "2024-09-24T10:42:28.769Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/solar-farms-agriculture-agrivoltaics/",
+      "headline": "Under a Texas sun, agrivoltaics offer farmers a new way to make money",
+      "image": "2024-09-24T10:30:11.318Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
