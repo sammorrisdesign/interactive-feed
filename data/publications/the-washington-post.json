@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-09-23T09:20:52.728Z",
+  "lastUpdated": "2024-09-24T10:19:54.853Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2024/grocery-store-owners-map-kroger-albertsons-merger/",
+      "headline": "Grocery chains are bigger than ever. See who runs the stores near you.",
+      "image": "2024-09-24T10:05:33.092Z",
+      "timestamp": null
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-solutions/interactive/2024/virtual-power-plants-clean-energy-electricity-demand/",
+      "headline": "Why you should give up control of your thermostat",
+      "image": "2024-09-24T10:00:00.000Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
