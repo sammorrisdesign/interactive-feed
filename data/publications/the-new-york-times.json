@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-24T14:15:36.772Z",
+  "lastUpdated": "2024-09-24T15:19:22.205Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/24/weather/helene-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Helene",
+      "image": "2024-09-24T14:03:56+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
