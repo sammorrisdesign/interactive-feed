@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-24T10:19:54.845Z",
+  "lastUpdated": "2024-09-25T01:21:22.084Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/sep/25/australia-vaping-ban-tobacconists-smoke-shops-impact",
+      "headline": "There are way more smoke and vape shops than there used to be. Has the government crackdown had any effect?",
+      "image": "https://i.guim.co.uk/img/media/1b5d9eb145844e87eb8cb39b8d62294ffb340b26/0_0_1000_600/master/1000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32a1182506b617996954e7d257de7869",
+      "timestamp": "2024-09-25T00:00:11.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
