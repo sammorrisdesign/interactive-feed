@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-24T16:22:24.290Z",
+  "lastUpdated": "2024-09-25T03:25:07.062Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/business/antitrust-case-tracker.html",
+      "headline": "Visa, Google, JetBlue: A Guide to a New Era of Antitrust Action",
+      "image": "2024-09-25T02:54:07+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
