@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-22T20:10:01.074Z",
+  "lastUpdated": "2024-09-25T06:25:35.232Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2024/09/lineup",
+      "headline": "Batting by the Numbers",
+      "image": "https://pudding.cool/2024/09/lineup/assets/social-facebook.jpg",
+      "timestamp": "2024-09-24T07:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
