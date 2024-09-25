@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-25T14:17:48.108Z",
+  "lastUpdated": "2024-09-25T22:16:32.231Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2024/09/25/house-vote-results-government-shutdown-bill-cr/",
+      "headline": "How every House member voted on a bill to avert a government shutdown",
+      "image": "2024-09-25T22:00:03.620Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
