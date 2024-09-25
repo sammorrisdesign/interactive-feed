@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-25T01:21:22.084Z",
+  "lastUpdated": "2024-09-25T10:20:09.840Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/griffith-mba-leading-the-way/ng-interactive/2024/sep/25/how-one-university-is-flipping-the-script-on-business-education",
+      "headline": "How one university is flipping the script on business education",
+      "image": "https://i.guim.co.uk/img/media/1e0db1dfbfd1bcbfc95d4b4001ff686ef0be6579/0_341_5349_3209/master/5349.jpg?width=700&quality=85&auto=format&fit=max&s=89abb6ed7b15ffe9b80b6c403662f663",
+      "timestamp": "2024-09-25T04:45:54.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
