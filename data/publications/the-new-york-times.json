@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-25T03:25:07.062Z",
+  "lastUpdated": "2024-09-25T09:19:36.240Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/25/us/politics/usss-hsgac-interim-report.html",
+      "headline": "Read the Senate committee report",
+      "image": "2024-09-25T09:12:31+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
