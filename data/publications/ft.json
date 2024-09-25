@@ -1,6 +1,25 @@
 {
-  "lastUpdated": "2024-09-18T04:21:00.192Z",
+  "lastUpdated": "2024-09-25T04:21:43.591Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/us-election-game/",
+      "headline": "Can you mastermind a US presidential campaign?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig.ft.com%2Fimages%2F8273386310-tk7lz.jpg?source=ig",
+      "timestamp": "2024-09-25T04:06:42.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/15b81850-49ff-4ae3-ab2d-b81c0c019bca",
+      "headline": "Military briefing: Israel’s ‘victory doctrine’ against Hizbollah",
+      "timestamp": "2024-09-25T04:00:11.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
