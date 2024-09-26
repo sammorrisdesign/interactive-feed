@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2024-09-26T15:19:08.436Z",
+  "lastUpdated": "2024-09-26T19:13:58.523Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/magazine/food-voyages.html",
+      "headline": "Food Voyages",
+      "image": "2024-09-26T18:45:37+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/magazine/senegal-poulet-yassa.html",
+      "headline": "Searching for a Family Feast in Senegal That Tastes Like Home",
+      "image": "2024-09-26T18:45:37+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/magazine/hong-kong-dai-pai-dong.html",
+      "headline": "Wok Hei Is Vanishing From Hong Kong. My Mom Wanted to Taste It Again.",
+      "image": "2024-09-26T18:45:37+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/magazine/aji-amarillo-pepper-peru.html",
+      "headline": "Hunting for One of the World’s Most Exquisite Peppers",
+      "image": "2024-09-26T18:45:37+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/magazine/paris-eggs.html",
+      "headline": "Our Son Hates Eggs. Could a Dozen French Chefs Change That?",
+      "image": "2024-09-26T18:45:37+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/magazine/sea-urchin-sex-drive.html",
+      "headline": "How to Cure My Sex Drive? Dive for Sea Urchins.",
+      "image": "2024-09-26T18:45:37+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/magazine/gelato-southern-italy.html",
+      "headline": "Was It the Best Gelato I’d Ever Had Because I’d Just Survived a Brain Tumor?",
+      "image": "2024-09-26T18:45:37+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
