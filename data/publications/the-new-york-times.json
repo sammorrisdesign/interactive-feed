@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2024-09-25T09:19:36.240Z",
+  "lastUpdated": "2024-09-26T09:19:09.494Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/realestate/minnesota-one-bedroom-condo.html",
+      "headline": "Starting a New Chapter in the Twin Cities for Less Than $180,000",
+      "image": "2024-09-26T09:05:05+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/opinion/donald-trump-personality-history.html",
+      "headline": "The Dangers of Donald Trump, From Those Who Know Him",
+      "image": "2024-09-26T09:02:45+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/travel/things-to-do-stowe-vermont.html",
+      "headline": "36 Hours in Stowe, Vermont",
+      "image": "2024-09-26T09:01:26+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
