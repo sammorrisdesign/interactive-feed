@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-26T19:13:58.523Z",
+  "lastUpdated": "2024-09-26T22:39:47.862Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/26/upshot/ten-minute-challenge-bridge.html",
+      "headline": "10-Minute Challenge: Hiroshige’s ‘Sudden Rain’",
+      "image": "2024-09-26T22:19:12+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
