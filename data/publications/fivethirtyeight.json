@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-09-04T20:39:17.745Z",
+  "lastUpdated": "2024-09-26T20:18:57.277Z",
   "articles": [
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/donald-trump-poll-quiz-2024/",
+      "headline": "Can You Guess How Americans Feel About Trump’s Platform?",
+      "image": "https://projects.fivethirtyeight.com/donald-trump-poll-quiz-2024/images/trump-poll-quiz-headline-image.jpg",
+      "timestamp": "2024-09-25T20:05:00.000Z"
+    },
+    {
+      "publication": "FiveThirtyEight",
+      "twitterHandle": "FiveThirtyEight",
+      "url": "https://projects.fivethirtyeight.com/trump-harris-2024-election-map/",
+      "headline": "Explore The Ways Trump Or Harris Could Win The 2024 Election",
+      "image": "https://projects.fivethirtyeight.com/trump-harris-2024-election-map/images/what-if-headline-image.jpg",
+      "timestamp": "2024-09-09T13:45:00.000Z"
+    },
     {
       "publication": "FiveThirtyEight",
       "twitterHandle": "FiveThirtyEight",
