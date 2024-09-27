@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-09-26T22:39:47.862Z",
+  "lastUpdated": "2024-09-27T09:19:18.701Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/27/opinion/fentanyl-overdose-deaths.html",
+      "headline": "These Maps and Charts Explain Fentanyl’s Unique Path of Destruction",
+      "image": "2024-09-27T09:03:50+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/27/us/politics/battleground-state-voters.html",
+      "headline": "Which Battleground State Voters Could Sway the Election?",
+      "image": "2024-09-27T09:03:28+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
