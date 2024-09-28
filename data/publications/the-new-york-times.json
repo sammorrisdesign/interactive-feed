@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-28T09:17:00.760Z",
+  "lastUpdated": "2024-09-28T21:16:11.466Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/28/weather/krathon-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Krathon",
+      "image": "2024-09-28T20:40:58+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
