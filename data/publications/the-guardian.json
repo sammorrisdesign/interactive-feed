@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-27T10:41:47.744Z",
+  "lastUpdated": "2024-09-28T10:16:40.773Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/sep/28/trump-oil-national-parks-wildlife-election",
+      "headline": "If Trump wins the election, US parks and wildlife will face a new age of mining",
+      "image": "https://i.guim.co.uk/img/media/f0a17292d9d1320357a188e9a24609462c09956e/1_0_2976_1787/master/2976.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c7ec68c6998126fddfa92b0ccf2dee8f",
+      "timestamp": "2024-09-28T10:00:12.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
