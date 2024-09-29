@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-29T09:18:02.791Z",
+  "lastUpdated": "2024-09-29T10:16:51.390Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/philadelphia-mail-ballots-election/",
+      "headline": "How Philadelphia election workers will race to count votes this fall",
+      "image": "2024-09-29T10:00:00.122Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
