@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-28T21:16:11.466Z",
+  "lastUpdated": "2024-09-29T04:20:32.650Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/29/us/helene-path-map.html",
+      "headline": "Hurricane Helene: Mapping More Than 600 Miles of Devastation",
+      "image": "2024-09-29T04:16:05+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
