@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-30T14:17:27.198Z",
+  "lastUpdated": "2024-09-30T14:42:10.641Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/30/books/review/70s-books-quiz.html",
+      "headline": "Can You Uncover the 13 Book Titles Hidden in This Text Puzzle?",
+      "image": "2024-09-30T14:30:04+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
