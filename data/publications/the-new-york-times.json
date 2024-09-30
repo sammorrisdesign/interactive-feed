@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-30T09:20:57.264Z",
+  "lastUpdated": "2024-09-30T14:17:27.198Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/30/weather/kirk-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Kirk",
+      "image": "2024-09-30T14:13:31+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
