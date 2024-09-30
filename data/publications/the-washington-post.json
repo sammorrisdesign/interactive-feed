@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-09-29T23:16:23.746Z",
+  "lastUpdated": "2024-09-30T19:12:15.790Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/utils/interactive/2021/custom-url-here/",
+      "headline": "Custom template test file (please don’t delete)",
+      "image": "2024-09-30T18:23:33.914Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
