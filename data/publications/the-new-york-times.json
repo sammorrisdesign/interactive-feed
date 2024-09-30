@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-30T14:42:10.641Z",
+  "lastUpdated": "2024-09-30T23:17:42.029Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/30/opinion/harris-trump-swing-voters-focus-group.html",
+      "headline": "Why Isn’t Harris Clobbering Trump? These 15 Swing State Voters Can Tell You.",
+      "image": "2024-09-30T22:40:54+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
