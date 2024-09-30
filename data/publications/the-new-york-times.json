@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-29T04:20:32.650Z",
+  "lastUpdated": "2024-09-30T09:20:57.264Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/09/30/climate/americans-moving-hurricane-wildfire-risk.html",
+      "headline": "Where Americans Have Been Moving Into Disaster-Prone Areas",
+      "image": "2024-09-30T09:06:14+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
