@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-30T10:20:21.231Z",
+  "lastUpdated": "2024-09-30T12:36:54.900Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/sep/30/mass-shooting-survivors-lawsuits",
+      "headline": "Mass shootings upended their lives. Now survivors are making the gun industry pay",
+      "image": "https://i.guim.co.uk/img/media/2e99584c8c48d8a140fb7a4e15ba4b1b70e359b2/0_946_4035_2421/master/4035.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f95123cc073b3a9e2eea93aa397bff41",
+      "timestamp": "2024-09-30T12:00:01.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
