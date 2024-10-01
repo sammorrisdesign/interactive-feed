@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-30T12:36:54.900Z",
+  "lastUpdated": "2024-10-01T02:48:27.043Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/oct/01/labor-nsw-coalmine-expansion-greenhouse-gas-emissions-impact",
+      "headline": "See the greenhouse gas impact of Labor’s decision to expand three NSW coalmines",
+      "image": "https://i.guim.co.uk/img/media/fc8a44d293c25ad1ccfd3e49cf56a10d90e9cefa/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9b0a8cbb72b5d8989a04aa64ca362de6",
+      "timestamp": "2024-10-01T02:25:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
