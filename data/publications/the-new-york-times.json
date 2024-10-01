@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-09-30T23:17:42.029Z",
+  "lastUpdated": "2024-10-01T09:19:51.638Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/early-vote-tracker-2024.html",
+      "headline": "Early Voting Has Started. Here’s What to Watch.",
+      "image": "2024-10-01T08:57:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
