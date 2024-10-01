@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-01T09:19:51.638Z",
+  "lastUpdated": "2024-10-01T16:23:01.866Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/01/nyregion/eric-adams-legal-filing.html",
+      "headline": "Read Eric Adams’s Legal Filing",
+      "image": "2024-10-01T15:57:54+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
