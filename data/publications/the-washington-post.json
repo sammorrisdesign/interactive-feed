@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-01T10:43:18.650Z",
+  "lastUpdated": "2024-10-01T12:35:49.775Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/cyber-sleuth/",
+      "headline": "The Cyber Sleuth",
+      "image": "2024-10-01T12:00:30.439Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
