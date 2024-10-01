@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-01T12:35:49.775Z",
+  "lastUpdated": "2024-10-01T14:17:05.464Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/flooding-house-storm-water-damage/",
+      "headline": "How water damages a flooded house — and which parts can be saved",
+      "image": "2024-10-01T13:55:08.223Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
