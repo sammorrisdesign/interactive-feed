@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-01T16:23:01.866Z",
+  "lastUpdated": "2024-10-01T22:16:57.008Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/01/weather/eleven-e-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Eleven-e",
+      "image": "2024-10-01T21:56:18+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
