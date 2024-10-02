@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-02T01:20:02.369Z",
+  "lastUpdated": "2024-10-02T14:16:02.333Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/02/magazine/trump-politics-justice-department.html",
+      "headline": "Trump Wants to Jail His Political Adversaries. Here’s How He Could Do It",
+      "image": "2024-10-02T13:54:52+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
