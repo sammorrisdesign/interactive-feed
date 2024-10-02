@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-17T22:16:00.480Z",
+  "lastUpdated": "2024-10-02T01:20:02.672Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/graphic-tracking-topics-2024-presidential-debate-rcna173246",
+      "headline": "See in real time the topics Vance and Walz are debating",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/20241001-debate-topics-2x1-nc-f0b19a.jpg",
+      "timestamp": "2024-10-02T00:59:21.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",

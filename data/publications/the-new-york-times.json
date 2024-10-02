@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-01T22:16:57.008Z",
+  "lastUpdated": "2024-10-02T01:20:02.369Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/01/us/elections/vance-walz-attacks-vp-debate.html",
+      "headline": "Tracking Attacks in the Vance-Walz Debate",
+      "image": "2024-10-01T23:37:27+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
