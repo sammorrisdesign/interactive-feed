@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-03T09:19:05.683Z",
+  "lastUpdated": "2024-10-03T14:17:31.244Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/weather/leslie-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Leslie",
+      "image": "2024-10-03T14:11:03+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
