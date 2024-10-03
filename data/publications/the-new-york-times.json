@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-02T22:17:56.186Z",
+  "lastUpdated": "2024-10-03T09:19:05.683Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/03/realestate/brooklyn-apartment-search.html",
+      "headline": "Seeking Some (Relative) Peace and Quiet in Brooklyn for Less Than $800,000",
+      "image": "2024-10-03T09:07:21+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
