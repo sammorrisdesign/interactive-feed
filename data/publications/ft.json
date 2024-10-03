@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-03T10:18:58.197Z",
+  "lastUpdated": "2024-10-03T16:22:27.273Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e646b893-e793-4053-81ba-50b6fded62e8",
+      "headline": "Radar maps show scale of damage from Israeli strikes on Lebanon",
+      "timestamp": "2024-10-03T16:15:02.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
