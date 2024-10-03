@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-09-26T15:39:48.451Z",
+  "lastUpdated": "2024-10-03T03:42:50.291Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/das-sind-die-airbnb-hotspots-in-europa-ld.1844803",
+      "headline": "Das sind die Airbnb-Hotspots in Europa",
+      "image": "https://img.nzz.ch/2024/10/01/cc24b3d5-ac24-4a49-99d0-b97a67c1f860.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y212&wmark=nzz",
+      "timestamp": "2024-10-03T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/der-schauplatz-der-toetung-nasrallahs-zerstoerte-gebaeude-rauchwolken-und-ein-gigantischer-krater-ld.1850815",
+      "headline": "Der Schauplatz der Tötung Nasrallahs: Zerstörte Gebäude, Rauchwolken und ein gigantischer Krater",
+      "image": "https://img.nzz.ch/2024/10/02/33e86cb4-9935-40d6-ab03-2e5f175b0a90.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1280,720,x0,y0&wmark=nzz",
+      "timestamp": "2024-10-03T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
