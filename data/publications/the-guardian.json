@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-04T01:20:04.160Z",
+  "lastUpdated": "2024-10-04T04:21:28.923Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/oct/04/israel-told-not-alone-but-year-war-isolated",
+      "headline": "Israel was told ‘you are not alone’ – but year of war has left it isolated",
+      "image": "https://i.guim.co.uk/img/media/da1cb1a34d230063b69696f3d948e6018fcdf77c/1_0_4998_3000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2cf513a52753353984041c3f1827fe8",
+      "timestamp": "2024-10-04T04:00:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
