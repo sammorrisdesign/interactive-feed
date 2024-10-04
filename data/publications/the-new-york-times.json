@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-04T09:18:41.393Z",
+  "lastUpdated": "2024-10-04T15:39:12.610Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/04/us/elections/2024-election-undecided-voters.html",
+      "headline": "Undecided Voters Tell Us About Their Biggest Worries",
+      "image": "2024-10-04T15:34:02+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
