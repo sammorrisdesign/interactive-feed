@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-02T08:22:57.753Z",
+  "lastUpdated": "2024-10-04T01:20:04.160Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/news/ng-interactive/2024/oct/04/grin-and-bear-it-more-than-a-third-of-lower-income-australians-are-uncomfortable-with-how-their-teeth-look",
+      "headline": "Grin and bear it? More than a third of lower income Australians are uncomfortable with how their teeth look",
+      "image": "https://i.guim.co.uk/img/media/e191096de837d5d4b32550afaea2463495a33654/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1d758094dd9c7d41786704f4e702bb0",
+      "timestamp": "2024-10-04T00:00:38.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
