@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-03T16:22:27.273Z",
+  "lastUpdated": "2024-10-05T12:32:27.786Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/993cd0e4-8a56-4e29-9347-a2f205a43ae3",
+      "headline": "Swing states and undecided voters: how to win the White House",
+      "timestamp": "2024-10-05T12:00:46.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
