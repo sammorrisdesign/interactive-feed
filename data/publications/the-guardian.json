@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-04T04:21:28.923Z",
+  "lastUpdated": "2024-10-05T07:16:43.852Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/oct/05/it-felt-like-death-was-chasing-us-one-gaza-familys-attempt-to-evade-israeli-strikes-visualised",
+      "headline": "‘It felt like death was chasing us’: one Gaza family’s attempt to evade Israeli strikes – visualised",
+      "image": "https://i.guim.co.uk/img/media/ac3013ae0efad3df42e5030f587b198cce3d54e4/0_0_2500_1500/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=89ac017aaddb55660a8293b4440ce587",
+      "timestamp": "2024-10-05T07:00:17.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
