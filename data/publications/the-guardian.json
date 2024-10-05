@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-05T07:16:43.852Z",
+  "lastUpdated": "2024-10-05T10:17:00.639Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/oct/05/trump-presidency-protest-rights-black-lives-matter",
+      "headline": "If Trump wins the election, US protest movements could face serious crackdowns",
+      "image": "https://i.guim.co.uk/img/media/f9e8d4317bd1e3dbde1e4eac911ff41dc1a3a347/0_0_3500_2100/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7f97bd28fd17a4d0684db974a78bf04a",
+      "timestamp": "2024-10-05T10:00:22.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
