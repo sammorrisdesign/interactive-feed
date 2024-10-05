@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-10-05T09:20:01.051Z",
+  "lastUpdated": "2024-10-05T11:14:27.294Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2024/helene-flooding-damage-north-carolina-chimney-rock/",
+      "headline": "How Helene became a ‘worst case scenario’",
+      "image": "2024-10-05T11:00:47.090Z",
+      "timestamp": null
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/science/interactive/2024/bald-eagle-avian-flu-death/",
+      "headline": "In eagle nirvana, avian flu is decimating America’s national bird ",
+      "image": "2024-10-05T11:00:10.235Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
