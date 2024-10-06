@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-06T12:32:08.363Z",
+  "lastUpdated": "2024-10-06T14:14:35.699Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/oct/06/election-republican-democrat-cities",
+      "headline": "City of villains: Republicans stoke fears of Democratic-run cities ",
+      "image": "https://i.guim.co.uk/img/media/c7da09bd1c0e86445cc6e09fbd9c87f526917fa3/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=540b0eeeea13ab4a10be4f0b6b328c63",
+      "timestamp": "2024-10-06T14:00:08.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
