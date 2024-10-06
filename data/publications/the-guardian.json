@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-05T10:17:00.639Z",
+  "lastUpdated": "2024-10-06T12:32:08.363Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/oct/06/palestinian-family-gaza-israel",
+      "headline": "‘It’s quite evil’: a US-based Palestinian on the ‘nightmare’ of having family left in Gaza",
+      "image": "https://i.guim.co.uk/img/media/a2f04cd687ac6e38225c226b1969c5a0ca2fef63/0_1328_5304_3181/master/5304.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de036a1d3f7b43df3383f7fb261ba99a",
+      "timestamp": "2024-10-06T12:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
