@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-05T12:32:27.786Z",
+  "lastUpdated": "2024-10-07T03:44:32.794Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/70439c51-6bcd-4eae-ae11-dbc86109bf37",
+      "headline": "The Executive MBA in charts",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252Fd63fa25a-ca78-4718-b59b-f5d1a1a92358.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "timestamp": "2024-10-07T03:30:35.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
