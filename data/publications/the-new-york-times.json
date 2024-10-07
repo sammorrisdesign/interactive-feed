@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-07T14:41:18.820Z",
+  "lastUpdated": "2024-10-07T19:37:29.196Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/07/climate/gulf-mexico-ocean-temperature.html",
+      "headline": "See the Ocean Heat Fueling Hurricane Milton, in One Chart",
+      "image": "2024-10-07T19:19:15+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
