@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-06T10:17:27.460Z",
+  "lastUpdated": "2024-10-08T10:41:46.941Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/science/interactive/2024/archeology-discoveries-ai-lidar-lost-cities-ancient/",
+      "headline": "New archaeology tools unearth lost cities and other ancient marvels",
+      "image": "2024-10-08T10:30:36.999Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
