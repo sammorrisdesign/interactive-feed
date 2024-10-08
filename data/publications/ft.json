@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-08T14:19:10.740Z",
+  "lastUpdated": "2024-10-08T18:24:14.074Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/907e88cb-d897-4627-a3d3-8b1227641cbd",
+      "headline": "Biden urges Florida residents to evacuate as Hurricane Milton nears",
+      "timestamp": "2024-10-08T17:12:01.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
