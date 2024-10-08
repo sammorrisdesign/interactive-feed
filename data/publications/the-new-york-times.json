@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-08T01:20:19.784Z",
+  "lastUpdated": "2024-10-08T05:17:17.739Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/opinion/undecided-voters-harris-trump-focus-group.html",
+      "headline": "‘This Issue Is Not Going Away’: Why These Undecided Voters Are Wary of Trump",
+      "image": "2024-10-08T05:00:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
