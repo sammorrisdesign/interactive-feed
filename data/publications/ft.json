@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-08T11:16:46.511Z",
+  "lastUpdated": "2024-10-08T14:19:10.740Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ffb5b03b-34ac-4cd7-a924-535168bebb74",
+      "headline": "Florida braced for Hurricane Milton to make landfall",
+      "timestamp": "2024-10-08T07:23:00.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
