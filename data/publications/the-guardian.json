@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-06T14:14:35.699Z",
+  "lastUpdated": "2024-10-08T12:33:18.520Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/oct/08/rashid-khalidi-palestine-israel-scholar-columbia-university-retires",
+      "headline": "Rashid Khalidi, America’s foremost scholar of Palestine, is retiring: ‘I don’t want to be a cog in the machine any more’",
+      "image": "https://i.guim.co.uk/img/media/793a6dc4dbc40dfba65e579c4eb3c89cd156517f/0_0_3964_2379/master/3964.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aefb4f6df1f373caea0f17c7cef3dc09",
+      "timestamp": "2024-10-08T12:00:10.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
