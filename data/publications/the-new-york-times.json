@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2024-10-08T05:17:17.739Z",
+  "lastUpdated": "2024-10-08T09:19:02.089Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/realestate/jules-feiffer-home-upstate-new-york.html",
+      "headline": "An Artist Who Loved the City Finds ‘Paradise’ Upstate",
+      "image": "2024-10-08T09:03:57+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/us/elections/times-siena-poll-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters Nationwide",
+      "image": "2024-10-08T08:58:04+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/us/elections/times-siena-poll-texas-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in Texas",
+      "image": "2024-10-08T08:58:03+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/us/elections/times-siena-poll-texas-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in  Texas",
+      "image": "2024-10-08T08:58:03+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/us/elections/times-siena-poll-florida-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in Florida",
+      "image": "2024-10-08T08:58:02+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/us/elections/times-siena-poll-florida-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in Florida",
+      "image": "2024-10-08T08:58:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/us/elections/times-siena-poll-likely-electorate-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the National Likely Electorate",
+      "image": "2024-10-08T08:58:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
