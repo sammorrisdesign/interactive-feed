@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-08T09:19:02.089Z",
+  "lastUpdated": "2024-10-08T23:18:11.361Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/08/weather/hurricane-milton-storm-surge.html",
+      "headline": "Tracking Hurricane Milton’s Storm Surge Risk Across Florida",
+      "image": "2024-10-08T23:13:12+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
