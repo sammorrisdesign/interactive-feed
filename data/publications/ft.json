@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-07T03:44:32.794Z",
+  "lastUpdated": "2024-10-08T11:16:46.511Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6dab865d-d3fe-426b-9b87-461299c3975e",
+      "headline": "Rising global temperatures fuel extreme rainfall",
+      "timestamp": "2024-10-08T10:34:11.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
