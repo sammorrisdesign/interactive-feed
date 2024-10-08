@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-07T19:37:29.196Z",
+  "lastUpdated": "2024-10-08T01:20:19.784Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/07/world/middleeast/israel-gaza-destruction-hamas-war.html",
+      "headline": "Gaza in Ruins After a Year of War",
+      "image": "2024-10-07T23:46:23+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
