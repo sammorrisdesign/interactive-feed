@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-10-03T03:42:50.291Z",
+  "lastUpdated": "2024-10-09T03:42:51.528Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/satellitenbilder-zeigen-die-schaeden-des-iranischen-angriffs-auf-den-israelischen-luftwaffenstuetzpunkt-nevatim-ld.1851993",
+      "headline": "Satellitenbilder zeigen die Schäden des iranischen Angriffs auf den israelischen Luftwaffenstützpunkt Nevatim",
+      "image": "https://img.nzz.ch/2024/10/08/f686fbd8-b258-4cd8-b9d8-033d793cf75a.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y0&wmark=nzz",
+      "timestamp": "2024-10-09T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
