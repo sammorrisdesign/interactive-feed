@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-09T09:19:41.722Z",
+  "lastUpdated": "2024-10-09T12:34:51.593Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/09/world/middleeast/lebanon-destruction.html",
+      "headline": "New Images Show Lebanese Border Villages Flattened in Israeli Invasion",
+      "image": "2024-10-09T12:09:57+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
