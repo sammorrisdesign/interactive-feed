@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-09T06:26:03.140Z",
+  "lastUpdated": "2024-10-09T13:25:43.038Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2024/best-dc-restaurants/",
+      "headline": "The 40 best restaurants in and around D.C.",
+      "image": "2024-10-09T13:10:28.950Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
