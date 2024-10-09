@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-09-18T17:15:11.833Z",
+  "lastUpdated": "2024-10-09T19:37:44.192Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/business/2024/10/ma-ballot-question-5-minimum-wage/",
+      "headline": "The $15 question",
+      "image": "https://apps.bostonglobe.com/business/2024/10/ma-ballot-question-5-minimum-wage/static/cb0bd063ea3b9e95c2b69c4fa2ec9ca1/47498/U57FGU7YCFDMPO4LIPYDICCRAU.jpg",
+      "timestamp": "2024-10-08T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2024/07/sports/paris-olympics-2024-new-england-athletes/",
+      "headline": "Hometown heroes: Meet the New Englanders competing in the 2024 Paris Olympics",
+      "image": "https://www.bostonglobe.com/pf/resources/images/logo-bg.jpg?d=312",
+      "timestamp": "2024-07-17T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "mastodonHandle": "BostonGlobe@press.coop",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/2024/06/busing-in-boston/home/",
+      "headline": "Broken Promises, Unfulfilled Hope: the legacy of Boston’s busing era.",
+      "image": "https://apps.bostonglobe.com/metro/2024/06/busing-in-boston/static/d3c10f694d887908dd767729d0ca1020/a41d1/E3FAFP5SAZFFXPPPJBH2BWJ7KU.jpg",
+      "timestamp": "2024-06-20T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",

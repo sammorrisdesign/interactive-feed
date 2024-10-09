@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-09T18:44:24.703Z",
+  "lastUpdated": "2024-10-09T19:37:43.693Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/09/us/elections/swing-states-voters.html",
+      "headline": "Voices from the Swing States",
+      "image": "2024-10-09T19:35:51+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
