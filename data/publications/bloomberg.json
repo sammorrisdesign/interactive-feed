@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-06T20:17:33.002Z",
+  "lastUpdated": "2024-10-09T09:19:41.745Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-opinion-covid-pandemic-hurt-trust-science-medicine-data/",
+      "headline": "How Shame, Blame and the Internet Eroded Trust in Science",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ibeywmWjlDCQ/v0/1200x-1.png",
+      "timestamp": "2024-10-09T09:00:28.148Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-09T02:37:54.459Z",
+  "lastUpdated": "2024-10-09T09:19:41.722Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/09/opinion/gaza-doctor-interviews.html",
+      "headline": "65 Doctors, Nurses and Paramedics: What We Saw in Gaza",
+      "image": "2024-10-09T09:02:33+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
