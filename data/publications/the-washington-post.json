@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-10T12:34:48.753Z",
+  "lastUpdated": "2024-10-10T14:17:14.808Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2024/best-bagels-dc/",
+      "headline": "The best bagels in D.C.? We tried 9 shops and found a clear winner.",
+      "image": "2024-10-10T14:00:55.662Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
