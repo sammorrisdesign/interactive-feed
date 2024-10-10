@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-09T04:20:51.714Z",
+  "lastUpdated": "2024-10-10T01:19:37.478Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/99314ded-3cf9-4407-ac32-4097f8e86a81",
+      "headline": "The data says the US economy is strong. Swing-state voters disagree",
+      "timestamp": "2024-10-09T17:50:04.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
