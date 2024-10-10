@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-09-25T06:25:35.232Z",
+  "lastUpdated": "2024-10-10T12:34:48.744Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2024/10/fanfic",
+      "headline": "Who Gets Shipped?",
+      "image": "https://pudding.cool/2024/10/fanfic/assets/images/social/social-facebook.jpg",
+      "timestamp": "2024-10-09T05:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",

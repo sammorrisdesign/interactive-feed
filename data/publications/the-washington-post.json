@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-09T16:21:45.800Z",
+  "lastUpdated": "2024-10-10T12:34:48.753Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/bob-woodward-trump-interview-1989/",
+      "headline": "A lost Trump interview comes back to life",
+      "image": "2024-10-10T12:00:37.627Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
