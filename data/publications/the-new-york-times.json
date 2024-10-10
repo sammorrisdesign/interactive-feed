@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2024-10-09T21:16:18.629Z",
+  "lastUpdated": "2024-10-10T09:19:31.074Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/10/realestate/london-apartment-home-sale.html",
+      "headline": "In London, He and his Roommate Became Co-Owners. What Did They Find for Under £1 Million?",
+      "image": "2024-10-10T09:05:41+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/10/travel/things-to-do-berkshires.html",
+      "headline": "36 Hours in the Berkshires",
+      "image": "2024-10-10T09:05:21+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/10/opinion/nuclear-weapons-us-price.html",
+      "headline": "The Staggering Price You’re Paying for America’s Nuclear Makeover",
+      "image": "2024-10-10T09:00:56+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/10/us/elections/times-siena-poll-montana-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in Montana",
+      "image": "2024-10-10T08:58:10+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/10/us/elections/times-siena-poll-montana-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in Montana",
+      "image": "2024-10-10T08:58:09+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
