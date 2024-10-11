@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-10T01:19:37.478Z",
+  "lastUpdated": "2024-10-11T14:17:09.762Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/df240556-a957-4103-9e65-c51d8abf49ca",
+      "headline": "Florida surveys wreckage left by Hurricane Milton ",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7c8b9f03-91a3-4882-9851-a50a713d88b7.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-10T23:29:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
