@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-11T04:21:07.564Z",
+  "lastUpdated": "2024-10-11T09:19:01.482Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/11/us/trump-migrant-children.html",
+      "headline": "How a Fox News host’s misleading question about migrant children morphed into a Trump talking point",
+      "image": "2024-10-11T09:05:51+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
