@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-10T09:19:31.074Z",
+  "lastUpdated": "2024-10-11T04:21:07.564Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/11/style/words-of-wisdom.html",
+      "headline": "Words of Wisdom",
+      "image": "2024-10-11T04:05:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
