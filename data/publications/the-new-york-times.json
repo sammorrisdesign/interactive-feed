@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-12T09:18:23.199Z",
+  "lastUpdated": "2024-10-12T15:17:21.850Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-poll-arizona-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in  Arizona",
+      "image": "2024-10-12T14:39:11+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
