@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-12T12:31:55.380Z",
+  "lastUpdated": "2024-10-12T14:14:39.795Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/oct/12/gavin-grimm-trans-youth-rights",
+      "headline": "Gavin Grimm won a landmark victory for US trans youth. He now struggles to survive",
+      "image": "https://i.guim.co.uk/img/media/dee3d39a2750eef6881e32f3b08444808c49fe43/0_673_2500_1499/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=add7f172223ce5eb1c5893fbbb32b5f6",
+      "timestamp": "2024-10-12T14:00:26.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
