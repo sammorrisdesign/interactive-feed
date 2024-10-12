@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2024-10-12T07:15:11.961Z",
+  "lastUpdated": "2024-10-12T09:18:23.199Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-poll-black-registered-voters.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Black Registered Voters",
+      "image": "2024-10-12T08:58:18+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-inquirer-poll-pennsylvania-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania",
+      "image": "2024-10-12T08:58:16+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-inquirer-poll-pennsylvania-toplines.html",
+      "headline": "Toplines: October 2024 Times/Inquirer/Siena Poll of Registered Voters in Pennsylvania",
+      "image": "2024-10-12T08:58:16+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-poll-arizona-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in Arizona",
+      "image": "2024-10-12T08:58:15+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/12/us/elections/times-siena-poll-black-likely-electorate.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Black Likely Electorate",
+      "image": "2024-10-12T08:58:13+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
