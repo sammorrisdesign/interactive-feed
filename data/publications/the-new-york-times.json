@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-12T15:17:21.850Z",
+  "lastUpdated": "2024-10-12T19:13:10.050Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/12/world/americas/quake-tracker-costa-rica.html",
+      "headline": "Map: 6.2-Magnitude Earthquake Strikes Near Costa Rica",
+      "image": "2024-10-12T18:48:58+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
