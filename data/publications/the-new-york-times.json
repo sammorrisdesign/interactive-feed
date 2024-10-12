@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-11T21:38:36.520Z",
+  "lastUpdated": "2024-10-12T04:20:31.401Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/12/world/asia/china-nepal-borders.html",
+      "headline": "China’s ‘New Great Wall’ Casts a Shadow on Nepal",
+      "image": "2024-10-12T04:01:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
