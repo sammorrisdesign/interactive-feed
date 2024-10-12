@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-10T16:43:00.920Z",
+  "lastUpdated": "2024-10-12T12:31:55.380Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/oct/12/gen-z-kamala-harris-youth-vote-election",
+      "headline": "Gen Z and Kamala Harris: is the meet-cute enough to bring her to the White House?",
+      "image": "https://i.guim.co.uk/img/media/640715ab9c77dc996df9e9570e2bdd8f868d7b23/44_56_10715_6429/master/10715.png?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=217cb873ed3d725b3a1dd2aa8a9ef38e",
+      "timestamp": "2024-10-12T12:28:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
