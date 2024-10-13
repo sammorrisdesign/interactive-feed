@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-11T14:17:09.762Z",
+  "lastUpdated": "2024-10-13T02:42:01.965Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b552f50c-b601-4443-833a-bba0f8d372dc",
+      "headline": "In charts: Hong Kong’s economy is struggling to recover lost ground",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b931ff9-108f-40bd-a2a4-721ed8a043b9.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-13T01:47:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
