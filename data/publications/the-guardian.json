@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-12T14:14:39.795Z",
+  "lastUpdated": "2024-10-14T10:21:48.981Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2024/oct/14/next-generation-2024-20-of-the-best-talents-at-premier-league-clubs",
+      "headline": "Next Generation 2024: 20 of the best talents at Premier League clubs",
+      "image": "https://i.guim.co.uk/img/media/06d74b304b5f5520a49de2859aa9bcc762d01175/1_0_1998_1199/master/1998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=103db7f76d8a03aa723f2052eebd4b4f",
+      "timestamp": "2024-10-14T10:00:22.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
