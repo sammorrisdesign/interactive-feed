@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-03T09:19:06.021Z",
+  "lastUpdated": "2024-10-14T09:20:00.767Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/middle-class-new-homeowners-cost-burdened-house-poor-rcna163853",
+      "headline": "Middle-class buyers are increasingly springing for homes they can barely afford",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/map-house-poor-0dc5e1.png",
+      "timestamp": "2024-10-14T09:00:00.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
