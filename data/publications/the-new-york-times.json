@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-13T09:17:33.435Z",
+  "lastUpdated": "2024-10-15T09:19:19.632Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/15/world/asia/pandas-zoo-breeding-death-captivity.html",
+      "headline": "The Panda Factories",
+      "image": "2024-10-15T09:03:47+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
