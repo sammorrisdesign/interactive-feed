@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-15T09:19:19.632Z",
+  "lastUpdated": "2024-10-15T14:17:11.428Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/15/books/review/crime-series-cities.html",
+      "headline": "Do You Know Where These Memorable Detectives Live?",
+      "image": "2024-10-15T14:00:16+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
