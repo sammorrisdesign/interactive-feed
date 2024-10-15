@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-14T22:18:24.233Z",
+  "lastUpdated": "2024-10-15T04:21:43.102Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/chancellor-game/",
+      "headline": "Can you run the UK economy?",
+      "image": "https://d1e00ek4ebabms.cloudfront.net/production/7aa8a9f0-527d-4884-9fea-fbb88a520abf.jpg",
+      "timestamp": "2024-10-15T04:00:09.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
