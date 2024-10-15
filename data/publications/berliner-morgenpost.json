@@ -1,6 +1,146 @@
 {
-  "lastUpdated": "2024-06-21T06:40:50.391Z",
+  "lastUpdated": "2024-10-15T11:15:23.719Z",
   "articles": [
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/e-autos",
+      "headline": "Neuzulassungen: So überholt das Elektroauto den Diesel",
+      "image": "https://interaktiv.morgenpost.de/elektroauto-boom-deutschland-neuzulassungen/images/ogimage.jpg",
+      "timestamp": "2024-10-15T09:52:37.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/waldvergleich",
+      "headline": "Das neue Waldsterben im Größen- und CO2-Vergleich",
+      "image": "https://interaktiv.morgenpost.de/waldsterben-klimawandel-borkenkaefer-hitze-duerre-co2-rechner/images/ogimage.jpg",
+      "timestamp": "2024-10-15T09:45:37.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/klimaausblick",
+      "headline": "Interaktive Karte: So trifft der Klimawandel Ihre Gegend",
+      "image": "https://interaktiv.morgenpost.de/klimawandel-hitze-starkregen-deutschland-karte/images/ogimage.jpg",
+      "timestamp": "2024-10-15T09:39:40.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/klima-wetter",
+      "headline": "Ist das Wetter noch normal? Der tägliche Check",
+      "image": "https://interaktiv.morgenpost.de/wetter-klima-vergleich-heute-klimawandel/images/wetter-klima-vergleich-teaser.jpg",
+      "timestamp": "2024-10-02T14:53:19.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/sonntagsfrage-aktuell/",
+      "headline": "Sonntagsfrage: So würden die Deutschen gerade wählen",
+      "image": "https://interaktiv.morgenpost.de/umfrage-sonntagsfrage-bundestagswahl/images/sonntagsfrage_630x1200.jpg",
+      "timestamp": "2024-10-02T13:30:25.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/europawahl-karte-2024-deutschland",
+      "headline": "Interaktive Karte: So hat Deutschland bei der Europawahl gestimmt",
+      "timestamp": "2024-10-02T11:54:26.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/innerdeutsche-grenze-zeichnen/",
+      "headline": "Interaktiv: Zeichnen Sie den Verlauf der innerdeutschen Grenze!",
+      "image": "https://interaktiv.morgenpost.de/innerdeutsche-grenze/images/wo-deutschland-geteilt-war-grenze_fb.jpg",
+      "timestamp": "2024-10-01T16:08:45.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/landtagswahl-brandenburg-2024-umfragen-ergebnisse-karte/",
+      "headline": "Brandenburg-Wahl interaktiv: Ergebnis-Karte der Gemeinden und Wahlkreise",
+      "timestamp": "2024-09-11T16:07:49.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/landtagswahl-sachsen-2024-umfragen-ergebnisse-karte/",
+      "headline": "Landtagswahl 2024 in Sachsen: Alle Ergebnisse auf einer Interaktiven Karte",
+      "timestamp": "2024-08-27T11:25:16.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/landtagswahl-thueringen-2024-umfragen-ergebnisse-karte/",
+      "headline": "Landtagswahl 2024 Thüringen: Interaktive Karte",
+      "timestamp": "2024-08-23T09:52:24.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/recycling-luecke",
+      "headline": "Die große Recycling-Lücke",
+      "image": "https://interaktiv.morgenpost.de/kunststoff-recycling-luecke-verpackung/images/recycling_gap_teaser.jpg",
+      "timestamp": "2024-07-04T13:59:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/cannabis-karte",
+      "headline": "Cannabis-Karte: Wo Kiffen weiter verboten sein soll",
+      "image": "https://interaktiv.morgenpost.de/cannabis-legalisierung-kiffen-karte/images/cannabis-map-teaser-v2.jpg",
+      "timestamp": "2024-03-23T15:05:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/bahnkarte/",
+      "headline": "Bahn-Karte: So ist Deutschlands Schienennetz geschrumpft",
+      "image": "https://interaktiv.morgenpost.de/bahn-schienennetz-deutschland-1835-bis-heute/images/bahn-netz-1200x630.jpg",
+      "timestamp": "2023-11-15T13:24:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/mein-co2budget",
+      "headline": "Klima-Budget: Wie viel CO2 kann ich mir noch leisten?",
+      "image": "https://interaktiv.morgenpost.de/co2-budget-pro-kopf-testen-klimawandel/images/klimaspiel-teaser.jpg",
+      "timestamp": "2023-10-02T15:29:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/unbewohnbar",
+      "headline": "Wo unsere Erde unbewohnbar wird",
+      "image": "https://interaktiv.morgenpost.de/klimawandel-hitze-meeresspiegel-wassermangel-stuerme-unbewohnbar/images/ogimage.jpg",
+      "timestamp": "2023-10-02T15:21:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/vermoegenskarte",
+      "headline": "Arm vs. reich - Deutschland nach Vermögen aufgeteilt",
+      "image": "https://interaktiv.morgenpost.de/vermoegen-deutschland-karte-vergleich/images/vermoegen_teaser_1200x630.jpg",
+      "timestamp": "2023-06-02T14:27:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/atomausstieg",
+      "headline": "Atomkraft-Ausstieg: Bei den AKWs geht das Licht aus",
+      "image": "https://interaktiv.morgenpost.de/atomkraft-ausstieg-deutschland-grafiken/images/ogimage-akw-germany.jpg",
+      "timestamp": "2023-04-15T15:35:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/btw21-bundestag",
+      "headline": "Interaktive Auswertung: Der XXL-Bundestag – im Vergleich zur Bevölkerung",
+      "image": "https://interaktiv.morgenpost.de/neuer-bundestag-2021-bundestagswahl-abgeordnete-parlament/images/ogimage.jpg",
+      "timestamp": "2021-10-01T12:00:14.000Z"
+    },
     {
       "publication": "Berliner Morgenpost",
       "twitterHandle": "morgenpost",
