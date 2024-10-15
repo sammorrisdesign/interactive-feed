@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-14T10:21:48.981Z",
+  "lastUpdated": "2024-10-15T12:35:36.130Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/football/ng-interactive/2024/oct/15/next-generation-2024-60-of-the-best-young-talents-in-world-football",
+      "headline": "Next Generation 2024: 60 of the best young talents in world football",
+      "image": "https://i.guim.co.uk/img/media/5c8a07a843e5aafdf5fc63e6f6512e6748c60b2d/1_0_1998_1199/master/1998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ac3b9aede8696721c35b7a15d8964b4",
+      "timestamp": "2024-10-15T11:00:57.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
