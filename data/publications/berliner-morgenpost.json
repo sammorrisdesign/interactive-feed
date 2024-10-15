@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2024-10-15T11:15:23.719Z",
+  "lastUpdated": "2024-10-15T16:44:51.338Z",
   "articles": [
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://interaktiv.morgenpost.de/abgeordnetenhaus-2023-berlin-wahl-abgeordnete-parlament/",
+      "headline": "Berlin-Wahl 2023: Das ist das neue Abgeordnetenhaus",
+      "image": "https://interaktiv.morgenpost.de/abgeordnetenhaus-2023-berlin-wahl-abgeordnete-parlament/images/ogimage.jpg",
+      "timestamp": "2023-02-27T10:52:35.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://interaktiv.morgenpost.de/30-jahre-deutsche-einheit-zwillingsorte-fotoreise/",
+      "headline": "Zwillingsorte der Einheit im Fotovergleich",
+      "image": "https://interaktiv.morgenpost.de/30-jahre-deutsche-einheit-zwillingsorte-fotoreise/images/zwillingsorte_soc.jpg",
+      "timestamp": "2020-10-02T04:00:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://interaktiv.morgenpost.de/trump-mauer-groessenvergleich/",
+      "headline": "Interaktiv: Donald Trumps Mauerpläne im Größenvergleich",
+      "image": "https://interaktiv.morgenpost.de/trump-mauer-groessenvergleich/images/thumb2.jpg",
+      "timestamp": "2016-01-27T06:01:03.000Z"
+    },
     {
       "publication": "Berliner Morgenpost",
       "twitterHandle": "morgenpost",
