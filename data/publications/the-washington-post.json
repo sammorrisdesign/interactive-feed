@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-15T10:43:25.134Z",
+  "lastUpdated": "2024-10-16T10:18:50.287Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/ai-voice-detection-trump-harris-deepfake-election/",
+      "headline": "AI is spawning a flood of fake Trump and Harris voices. Here’s how to tell what’s real.",
+      "image": "2024-10-16T10:05:19.415Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
