@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-16T18:24:22.124Z",
+  "lastUpdated": "2024-10-16T20:39:15.855Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/16/us/politics/harris-trump-2024-campaign.html",
+      "headline": "Where Are Trump and Harris Campaigning?",
+      "image": "2024-10-16T20:28:34+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
