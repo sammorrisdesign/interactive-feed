@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-10T12:34:48.744Z",
+  "lastUpdated": "2024-10-16T02:40:36.292Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2024/10/kpop-survey",
+      "headline": "Defining Generations in K-pop",
+      "image": "https://pudding.cool/2024/10/kpop-survey/assets/social-facebook.jpg",
+      "timestamp": "2024-10-15T05:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
