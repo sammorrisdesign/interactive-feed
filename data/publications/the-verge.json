@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-10-16T11:37:39.179Z",
+  "lastUpdated": "2024-10-16T12:35:29.820Z",
   "articles": [
+    {
+      "publication": "The Verge",
+      "twitterHandle": "verge",
+      "blueSkyHandle": "theverge.com",
+      "url": "https://www.theverge.com/c/24239057/music-license-grokster-legal-lawsuit-2004",
+      "headline": "The year of the music licensing legal wars",
+      "image": "https://cdn.vox-cdn.com/thumbor/taujFXlidT8CVFiG8TcAti4YG00=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25671968/e1b43f420d62a0144473921914bdac9f.jpeg",
+      "timestamp": "2024-10-16T12:30:00.000Z"
+    },
+    {
+      "publication": "The Verge",
+      "twitterHandle": "verge",
+      "blueSkyHandle": "theverge.com",
+      "url": "https://www.theverge.com/c/24242128/nintendo-ds-touchscreen-games-2004-launch",
+      "headline": "The Nintendo DS introduced touchscreens to a generation of gamers",
+      "image": "https://cdn.vox-cdn.com/thumbor/mnMByBkdUMxSXfLfjO4l1HxM2hM=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25672568/2004_DS_CHORUS_LEDE.jpg",
+      "timestamp": "2024-10-16T12:00:00.000Z"
+    },
     {
       "publication": "The Verge",
       "twitterHandle": "verge",
