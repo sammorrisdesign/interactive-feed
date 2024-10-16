@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-15T14:17:11.428Z",
+  "lastUpdated": "2024-10-16T05:17:48.769Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/16/opinion/16focus-group-women-trump-voters.html",
+      "headline": "These 9 Women Were Solidly With Trump. Here’s What Has Changed.",
+      "image": "2024-10-16T05:00:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
