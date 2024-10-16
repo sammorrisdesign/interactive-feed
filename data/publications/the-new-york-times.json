@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-16T05:17:48.769Z",
+  "lastUpdated": "2024-10-16T18:24:22.124Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/16/us/16nat-nebraska-voting-ruling.html",
+      "headline": "Read the Nebraska Supreme Court Ruling on Voting Rights for Felons",
+      "image": "2024-10-16T18:13:56+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
