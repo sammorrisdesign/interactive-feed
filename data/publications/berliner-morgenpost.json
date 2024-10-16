@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-10-15T16:44:51.338Z",
+  "lastUpdated": "2024-10-16T07:17:35.470Z",
   "articles": [
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "url": "https://www.morgenpost.de/corona-karte",
+      "headline": "Corona: Fallzahlen auf einer interaktiven Karte",
+      "image": "https://interaktiv.morgenpost.de/corona-virus-karte-infektionen-deutschland-weltweit/images/ogimage.jpg",
+      "timestamp": "2024-10-16T06:48:08.000Z"
+    },
     {
       "publication": "Berliner Morgenpost",
       "twitterHandle": "morgenpost",
