@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-16T02:40:36.292Z",
+  "lastUpdated": "2024-10-17T16:23:39.808Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "mastodonHandle": "thepudding@vis.social",
+      "url": "https://pudding.cool/2024/10/crokinole",
+      "headline": "The Greatest Game You’ve Never Heard of",
+      "image": "https://pudding.cool/2024/10/crokinole/assets/og.png",
+      "timestamp": "2024-10-16T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
