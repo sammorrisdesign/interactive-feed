@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2024-10-16T14:17:08.923Z",
+  "lastUpdated": "2024-10-17T12:35:23.697Z",
   "articles": [
+    {
+      "publication": "The Verge",
+      "twitterHandle": "verge",
+      "blueSkyHandle": "theverge.com",
+      "url": "https://www.theverge.com/c/24201735/melodrama-com-website-community-2004-melo",
+      "headline": "Melodrama!",
+      "image": "https://cdn.vox-cdn.com/thumbor/S4qYW30EtYrxd-L9eOBTiVuO-f0=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25537596/CHORUS_LEDE.png",
+      "timestamp": "2024-10-17T12:30:00.000Z"
+    },
+    {
+      "publication": "The Verge",
+      "twitterHandle": "verge",
+      "blueSkyHandle": "theverge.com",
+      "url": "https://www.theverge.com/c/24243754/blockbuster-video-netflix-streaming-dvd-transition-2000s",
+      "headline": "Remember Blockbuster?",
+      "image": "https://cdn.vox-cdn.com/thumbor/zGHV7IbzG-vIyDuCMyUR4csoBIE=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25618974/2004_BLOCKBUSTER_CHORUS_LEDE_1.jpg",
+      "timestamp": "2024-10-17T12:00:00.000Z"
+    },
+    {
+      "publication": "The Verge",
+      "twitterHandle": "verge",
+      "blueSkyHandle": "theverge.com",
+      "url": "https://www.theverge.com/c/24235606/world-of-warcraft-legacy-mmorpg-blizzard-2004",
+      "headline": "Oh, WoW",
+      "image": "https://cdn.vox-cdn.com/thumbor/XT6700ILsoLePkjz-g5R8s3gtSQ=/138x217:1902x1143/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25602999/c0e64ba1fe080d8389a62fd8d2549345.jpeg",
+      "timestamp": "2024-10-17T11:30:00.000Z"
+    },
     {
       "publication": "The Verge",
       "twitterHandle": "verge",
