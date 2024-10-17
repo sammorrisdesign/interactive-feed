@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2024-10-17T04:21:24.936Z",
+  "lastUpdated": "2024-10-17T09:19:32.333Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/us/politics/national-polls-election-results.html",
+      "headline": "How Accurate, or Off-Target, Could the Polls Be This Year?",
+      "image": "2024-10-17T09:06:30+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/realestate/new-york-hudson-valley-home-sale.html",
+      "headline": "Heading North to Find a Hudson Valley Home for $500,000. But Which One?",
+      "image": "2024-10-17T09:06:19+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/travel/things-to-do-hanoi-vietnam.html",
+      "headline": "36 Hours in Hanoi, Vietnam",
+      "image": "2024-10-17T09:05:20+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/t-magazine/lorna-simpson-ebony-magazine-race-gender.html",
+      "headline": "Lorna Simpson Is America’s Great Archivist",
+      "image": "2024-10-17T09:04:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/t-magazine/jonathan-anderson-loewe.html",
+      "headline": "Jonathan Anderson Only Wants to Be the World’s Best Fashion Designer",
+      "image": "2024-10-17T09:03:38+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/t-magazine/theaster-gates-chicago-art-multidisciplinary.html",
+      "headline": "Theaster Gates Is Redefining What It Means to Be an Artist",
+      "image": "2024-10-17T09:03:38+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/t-magazine/florence-welch-machine-dance-fever-music.html",
+      "headline": "How Florence Welch Turned Rage Into Power",
+      "image": "2024-10-17T09:03:30+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
