@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-17T02:38:20.089Z",
+  "lastUpdated": "2024-10-17T04:21:24.936Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/opinion/dobbs-roe-abortion-stories.html",
+      "headline": "This Is What It Takes to Get an Abortion in America",
+      "image": "2024-10-17T04:04:11+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
