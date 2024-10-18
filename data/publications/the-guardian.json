@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-17T10:18:38.913Z",
+  "lastUpdated": "2024-10-18T11:15:12.032Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/oct/18/elon-musk-trump-election-influence",
+      "headline": "Elon Musk has been inescapable in this election. How could he affect the results?",
+      "image": "https://i.guim.co.uk/img/media/d981e67f02bb9d2af5a3ef99b05f3edeb96eacca/0_482_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=68e66113f3bb670d68d042cc6fd67337",
+      "timestamp": "2024-10-18T11:00:23.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
