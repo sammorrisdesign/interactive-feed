@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-17T09:19:32.333Z",
+  "lastUpdated": "2024-10-18T01:20:26.479Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/17/business/shark-tank-economy.html",
+      "headline": "Want to Understand America? Watch ‘Shark Tank.’",
+      "image": "2024-10-18T00:46:55+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
