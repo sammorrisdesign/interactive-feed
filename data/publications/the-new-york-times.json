@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-18T01:20:26.479Z",
+  "lastUpdated": "2024-10-18T09:19:34.088Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/18/opinion/swing-state-regional-election-maps.html",
+      "headline": "The 21 Slivers of America That Could Decide the Election",
+      "image": "2024-10-18T09:04:21+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
