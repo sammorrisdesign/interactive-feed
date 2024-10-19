@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-19T18:22:12.216Z",
+  "lastUpdated": "2024-10-19T19:13:48.589Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/19/us/elections/flint-michigan-voters.html",
+      "headline": "In Michigan, Trade Policies and the Water Crisis Loom Large for Voters",
+      "image": "2024-10-19T18:55:27+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
