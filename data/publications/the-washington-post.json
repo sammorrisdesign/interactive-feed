@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-18T10:19:46.584Z",
+  "lastUpdated": "2024-10-19T09:16:55.333Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/gen-z-candidates-political-office-election/",
+      "headline": "Gen Z is running for office",
+      "image": "2024-10-19T09:00:57.503Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
