@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-18T18:24:23.536Z",
+  "lastUpdated": "2024-10-19T18:22:12.216Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/19/weather/oscar-map-path-tracker.html",
+      "headline": "Tracking Hurricane Oscar",
+      "image": "2024-10-19T17:39:18+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
