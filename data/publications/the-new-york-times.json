@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-10-19T19:13:48.589Z",
+  "lastUpdated": "2024-10-21T09:20:13.259Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/21/upshot/parking-mandates.html",
+      "headline": "Why Does This Building by the Subway Need 193 Parking Spots? (Yes, Exactly 193.)",
+      "image": "2024-10-21T09:03:33+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/21/us/elections/trump-school-trans.html",
+      "headline": "Can Trump really defund public schools that recognize transgender students?",
+      "image": "2024-10-21T09:02:29+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
