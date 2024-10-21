@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-21T09:20:13.259Z",
+  "lastUpdated": "2024-10-21T12:35:51.291Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/21/us/task-force-interim-staff-report-10212024.html",
+      "headline": "Read the Task Force’s Report",
+      "image": "2024-10-21T11:38:35+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-19T15:17:09.722Z",
+  "lastUpdated": "2024-10-21T12:35:51.404Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/oct/21/idaho-abortion-trump",
+      "headline": "Life-threatening crises, frantic calls: Idaho offers glimpse of what abortion could look like under Trump",
+      "image": "https://i.guim.co.uk/img/media/d84e557d8928320bbb4143c4ccbf61f16a778876/0_0_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29ca18c2dcd684e0b8e25c589c142896",
+      "timestamp": "2024-10-21T11:57:39.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
