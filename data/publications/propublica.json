@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-08-25T11:14:32.310Z",
+  "lastUpdated": "2024-10-21T09:40:22.464Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/new-effects-of-immigration",
+      "headline": "The New Effects of Immigration",
+      "image": "https://assets-c3.propublica.org/images/externals/immigrationdata_og_1200x630.png",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
