@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-21T12:35:51.291Z",
+  "lastUpdated": "2024-10-21T14:41:22.001Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/21/books/review/memoirs-title-search.html",
+      "headline": "Can You Find These 14 Hidden Book Titles in This Puzzle?",
+      "image": "2024-10-21T14:30:12+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

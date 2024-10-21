@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-10-21T10:20:35.600Z",
+  "lastUpdated": "2024-10-21T14:41:22.021Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/nba-top-100-players-ranking/",
+      "headline": "The top 100 NBA players of the 2024-25 season",
+      "image": "2024-10-21T14:30:50.413Z",
+      "timestamp": null
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/2024-swing-states-trump-harris/",
+      "headline": "A guide to the 7 battleground states that could swing the election",
+      "image": "2024-10-21T14:30:10.705Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
