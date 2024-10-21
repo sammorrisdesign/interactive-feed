@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-10-19T10:17:25.791Z",
+  "lastUpdated": "2024-10-21T10:20:35.600Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2024/american-dream-buy-townhouse/",
+      "headline": "So long, suburbia! Townhouses should be the new American Dream.",
+      "image": "2024-10-21T10:00:26.720Z",
+      "timestamp": null
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2024/nil-money-deals-college-sports-athlete-pay/",
+      "headline": "The hidden NIL economy of college sports",
+      "image": "2024-10-21T10:00:17.435Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
