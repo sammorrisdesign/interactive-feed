@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-22T09:19:01.115Z",
+  "lastUpdated": "2024-10-22T10:18:58.151Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2024/election-misinformation-quiz-ai-fake-real/",
+      "headline": "Misinformation is everywhere this election. Can you tell what’s real?",
+      "image": "2024-10-22T10:10:16.154Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
