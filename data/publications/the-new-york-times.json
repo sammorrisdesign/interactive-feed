@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-22T01:21:11.105Z",
+  "lastUpdated": "2024-10-22T09:19:01.092Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/22/us/politics/project-2025-trump-heritage-foundation.html",
+      "headline": "The Many Links Between Project 2025 and Trump’s World",
+      "image": "2024-10-22T09:05:58+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
