@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-23T10:18:49.465Z",
+  "lastUpdated": "2024-10-23T10:41:46.870Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2024/oct/23/guardian-of-the-gibbons-animal-human-harmony-hangs-in-the-balance",
+      "headline": "Guardian of the Gibbons: animal-human harmony hangs in the balance",
+      "image": "https://i.guim.co.uk/img/media/a084ec96cd349abfe9896a8f3c315945f903a264/0_0_1798_1080/master/1798.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb82e747bb5ad1dba214d621a0ad5fd1",
+      "timestamp": "2024-10-23T09:56:56.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
