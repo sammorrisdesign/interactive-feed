@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-23T10:41:46.870Z",
+  "lastUpdated": "2024-10-23T11:37:34.756Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/commentisfree/ng-interactive/2024/oct/23/the-guardian-view-on-the-us-presidential-election-2024-a-democratic-government-is-the-one-we-need",
+      "headline": "The Guardian view on the US presidential election 2024: a Democratic government is the one we need",
+      "image": "https://i.guim.co.uk/img/media/fe84d05cd2bb6419f6116dd7f38b9f464b115cbe/0_0_2500_1500/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=a007811b6fd7f8f14f0ef8ce8f62cf57",
+      "timestamp": "2024-10-23T11:21:52.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
