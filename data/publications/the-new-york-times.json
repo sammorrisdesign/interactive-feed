@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-22T09:19:01.092Z",
+  "lastUpdated": "2024-10-23T03:23:23.258Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/22/us/elections/trump-deportation.html",
+      "headline": "What if Trump Deported 11 Million Immigrants?",
+      "image": "2024-10-23T02:46:06+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
