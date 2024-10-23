@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-23T09:18:59.111Z",
+  "lastUpdated": "2024-10-23T11:14:54.310Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "WashingtonPost",
+      "mastodonHandle": "washingtonpost@press.coop",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/elections/interactive/2024/elections-doubts-2024-republicans/",
+      "headline": "Over 230 Republican candidates have cast doubt on the 2024 election",
+      "image": "2024-10-23T11:00:02.910Z",
+      "timestamp": null
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
