@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-24T01:20:19.693Z",
+  "lastUpdated": "2024-10-24T03:23:25.284Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/23/us/elections/trump-harris-manufacturing-policy.html",
+      "headline": "Can Donald Trump or Kamala Harris Bring Back Manufacturing Jobs?",
+      "image": "2024-10-24T03:01:06+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
