@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-10-24T03:23:25.284Z",
+  "lastUpdated": "2024-10-24T09:19:23.158Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/24/realestate/upper-east-side-co-op-condo.html",
+      "headline": "On the Upper East Side, Was $800,000 Enough for a Dog-Friendly Two-Bedroom?",
+      "image": "2024-10-24T09:05:23+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/24/travel/things-to-do-moab-utah.html",
+      "headline": "36 Hours in Moab, Utah",
+      "image": "2024-10-24T09:04:51+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
