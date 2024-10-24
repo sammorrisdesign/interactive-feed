@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-23T16:46:27.343Z",
+  "lastUpdated": "2024-10-24T11:37:35.832Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/oct/24/trump-gun-safety-stakes",
+      "headline": "‘Passing laws saves lives’: what’s at stake for US gun safety if Trump wins?",
+      "image": "https://i.guim.co.uk/img/media/9b7842fc5f069d2d086cdd757f2c01828e8da7ba/0_0_5843_3506/master/5843.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6649b901881e276285c2847dda0b8917",
+      "timestamp": "2024-10-24T11:00:49.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
