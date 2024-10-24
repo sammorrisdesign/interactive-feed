@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-24T04:21:37.042Z",
+  "lastUpdated": "2024-10-24T14:17:45.237Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1b07050f-a94d-4a57-afce-3099e9b9e7d5",
+      "headline": "Israel bolsters its defences on Syria border, satellite images show",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc3e433d0-3600-40bf-bef1-5fd92fc10aa2.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-24T14:08:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",

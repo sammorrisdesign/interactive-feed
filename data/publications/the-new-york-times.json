@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-24T09:19:23.158Z",
+  "lastUpdated": "2024-10-24T14:17:44.534Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/24/us/sci-pol-nobel-winners-pdf.html",
+      "headline": "Read the Letter from Nobel Laureates Endorsing Kamala Harris for President",
+      "image": "2024-10-24T13:54:28+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
