@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-15T04:21:43.102Z",
+  "lastUpdated": "2024-10-24T04:21:37.042Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5ccb736f-3e09-4f20-8c5d-51fc47f65069",
+      "headline": "How FT readers are faring in the Budget Game",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fec60412d-5c36-49a4-9702-e927de65cef5.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-24T04:00:57.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
