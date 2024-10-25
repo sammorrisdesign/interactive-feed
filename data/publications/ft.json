@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-10-24T14:17:45.237Z",
+  "lastUpdated": "2024-10-25T04:28:20.573Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c1e5d405-370e-4aaf-af08-94ef4e6e6954",
+      "headline": "How the US election looks in the swing states",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F766306f1-2456-4d5f-ad02-405a129b96ef.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-25T04:01:05.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/7895de9b-20dc-43c5-b20d-1f105bb42d55",
+      "headline": "Atlas of Finance — a visual aid to the global money maze",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2f5539fa-11aa-4c55-848f-484ef68d02ea.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-25T04:00:06.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
