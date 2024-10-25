@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-24T14:17:44.534Z",
+  "lastUpdated": "2024-10-25T08:47:55.085Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/25/opinion/what-trump-says.html",
+      "headline": "Trump Is Telling Us What He Would Do. Believe Him.",
+      "image": "2024-10-25T08:32:39+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
