@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-10-25T20:24:39.506Z",
+  "lastUpdated": "2024-10-25T21:22:19.152Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/politics/whats-at-stake.html",
+      "headline": "What’s at Stake in the 2024 Election",
+      "image": "2024-10-25T21:04:38+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/25/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, October 26, 2024",
+      "image": "2024-10-25T20:59:27+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
