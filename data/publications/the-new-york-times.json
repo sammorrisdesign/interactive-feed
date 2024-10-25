@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-25T15:23:12.051Z",
+  "lastUpdated": "2024-10-25T20:24:39.506Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/25/movies/scary-movie-it-alien-smile.html",
+      "headline": "25 Jump Scares That Still Make Us Jump",
+      "image": "2024-10-25T20:10:27+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
