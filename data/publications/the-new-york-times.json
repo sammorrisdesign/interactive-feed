@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-25T09:24:17.647Z",
+  "lastUpdated": "2024-10-25T13:45:24.556Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/25/weather/kong-rey-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Kong-rey",
+      "image": "2024-10-25T13:30:09+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
