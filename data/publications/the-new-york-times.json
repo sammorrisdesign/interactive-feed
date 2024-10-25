@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2024-10-25T13:45:24.556Z",
+  "lastUpdated": "2024-10-25T15:23:12.051Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-new-hampshire.html",
+      "headline": "Election 2024 Polls:New Hampshire",
+      "image": "2024-10-25T15:03:17+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-new-york.html",
+      "headline": "Election 2024 Polls:New York",
+      "image": "2024-10-25T15:03:17+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-nebraska-2.html",
+      "headline": "Election 2024 Polls:Nebraska C.D. 2",
+      "image": "2024-10-25T15:03:16+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-president-maine-2.html",
+      "headline": "Election 2024 Polls:Maine C.D. 2",
+      "image": "2024-10-25T15:03:16+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
