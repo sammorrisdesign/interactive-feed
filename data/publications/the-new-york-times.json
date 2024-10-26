@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2024-10-25T21:22:19.152Z",
+  "lastUpdated": "2024-10-26T09:21:34.358Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/26/us/medicaid-election-voters-photos.html",
+      "headline": "Medicaid Is Not a Top Campaign Issue. But for These Voters, It’s Crucial.",
+      "image": "2024-10-26T09:05:40+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/26/climate/north-atlantic-right-whale-population.html",
+      "headline": "Can 70 Moms Save a Species?",
+      "image": "2024-10-26T09:05:40+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/26/upshot/census-relative-income.html",
+      "headline": "They Used to Be Ahead in the American Economy. Now They’ve Fallen Behind.",
+      "image": "2024-10-26T09:05:39+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/26/us/elections/times-siena-nyc-poll-registered-voter-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of Registered Voters in New York City",
+      "image": "2024-10-26T08:55:02+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/26/us/elections/times-siena-nyc-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in New York City",
+      "image": "2024-10-26T08:55:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/26/us/elections/times-siena-nyc-poll-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in New York City",
+      "image": "2024-10-26T08:55:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
