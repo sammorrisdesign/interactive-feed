@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-21T09:40:22.464Z",
+  "lastUpdated": "2024-10-26T09:41:52.051Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/christian-nationalism-origins",
+      "headline": "The Genesis of Christian Nationalism",
+      "image": "https://assets-d.propublica.org/v5/images/christian_right_lead_final_filigree-OG.jpg",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
