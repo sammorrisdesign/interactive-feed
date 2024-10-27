@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-10-26T09:21:34.358Z",
+  "lastUpdated": "2024-10-27T23:22:37.916Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/27/us/unitedhealthcare-force-aggressive-program.html",
+      "headline": "Pushing employers to ‘more aggressive programs’",
+      "image": "2024-10-27T23:00:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/27/us/unitedhealthcare-fee-revenue.html",
+      "headline": "UnitedHealthcare fee revenue",
+      "image": "2024-10-27T22:59:32+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
