@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-26T16:24:52.732Z",
+  "lastUpdated": "2024-10-27T11:18:15.066Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/commentisfree/ng-interactive/2024/oct/27/trump-press-freedom-stakes",
+      "headline": "I fear for freedom of the press under a second Donald Trump administration | Margaret Sullivan",
+      "image": "https://i.guim.co.uk/img/media/cf6db7e62e3c6a1f5c617c821f92f68a7d3ceaab/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=646700c9f7bb6bba4a4dc4a81bdd2354",
+      "timestamp": "2024-10-27T11:00:01.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
