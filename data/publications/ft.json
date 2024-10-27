@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-26T04:25:41.925Z",
+  "lastUpdated": "2024-10-27T05:21:50.498Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/711f21e3-3c2a-4e12-8647-625d0925887d",
+      "headline": "How does private equity’s carried interest work?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fwww.ft.com%2F__origami%2Fservice%2Fimage%2Fv2%2Fimages%2Fraw%2Fhttps%253A%252F%252Fd1e00ek4ebabms.cloudfront.net%252Fproduction%252F50f5b0ea-1a92-46f7-b4c0-6620baf85e46.jpg%3Fsource%3Dnext-article%26fit%3Dscale-down%26quality%3Dhighest%26width%3D700%26dpr%3D1?source=next-opengraph&fit=scale-down&width=900",
+      "timestamp": "2024-10-27T05:00:41.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
