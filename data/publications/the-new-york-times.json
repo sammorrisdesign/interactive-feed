@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2024-10-27T23:22:37.916Z",
+  "lastUpdated": "2024-10-28T09:24:53.561Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/28/opinion/election-ads.html",
+      "headline": "Democrats Won the Ad War. Will It Be Enough?",
+      "image": "2024-10-28T09:04:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/28/us/politics/inside-the-movement-behind-trumps-election-lies.html",
+      "headline": "Inside the Movement Behind Trump’s Election Lies",
+      "image": "2024-10-28T09:03:41+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/28/upshot/trump-abortion-words.html",
+      "headline": "Trump’s Changing Messages on Abortion, in 670 Quotes",
+      "image": "2024-10-28T09:03:22+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/28/us/politics/election-voter-fraud-threats.html",
+      "headline": "What Threats Does My Vote Really Face?",
+      "image": "2024-10-28T09:03:20+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/28/us/elections/times-siena-texas-poll-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in Texas",
+      "image": "2024-10-28T08:58:07+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/28/us/elections/times-siena-nebraska-poll-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Polls of Registered Voters in Nebraska and Nebraska’s 2nd C.D.",
+      "image": "2024-10-28T08:58:07+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/28/us/elections/times-siena-nebraska-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Polls of the Likely Electorate in Nebraska and Nebraska’s 2nd C.D.",
+      "image": "2024-10-28T08:58:06+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
