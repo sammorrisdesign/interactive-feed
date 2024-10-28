@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-28T09:24:53.561Z",
+  "lastUpdated": "2024-10-28T15:44:58.807Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/28/books/review/halloween-books-quiz.html",
+      "headline": "How Well Do You Know Classic Books for Halloween Reading?",
+      "image": "2024-10-28T15:30:06+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
