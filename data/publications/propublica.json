@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-26T09:41:52.051Z",
+  "lastUpdated": "2024-10-29T10:24:25.028Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "mastodonHandle": "ProPublica@newsie.social",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/homeless-encampment-sweeps-taken-belongings",
+      "headline": "Swept Away",
+      "image": "/homeless-encampment-sweeps-taken-belongings/assets/Swept-Away-Promo.295a341e.jpg",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
