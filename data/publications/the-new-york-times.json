@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-28T15:44:58.807Z",
+  "lastUpdated": "2024-10-29T05:22:48.913Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/29/opinion/focus-group-michigan-voters.html",
+      "headline": "Why Trump Has an Edge With These 11 Michigan Voters — Even Though They Don’t Like Him",
+      "image": "2024-10-29T05:00:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

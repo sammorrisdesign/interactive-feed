@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-10-27T05:21:50.498Z",
+  "lastUpdated": "2024-10-29T05:22:49.371Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/eac9c198-1b33-418d-a239-a05538bd0056",
+      "headline": "Spanish growth soars as Eurozone stutters",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff275157a-c5af-4795-8386-ddaf38abaa62.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-29T05:00:03.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9bb5f649-d54f-42b9-a0ed-cbf89a9b95e1",
+      "headline": "One week to go: is Harris or Trump leading the US presidential race?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F92e5e6d8-7b7f-48e8-8b6e-18f1603841fe.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-29T05:00:03.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
