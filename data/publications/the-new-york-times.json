@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-30T11:42:10.716Z",
+  "lastUpdated": "2024-10-30T16:27:49.909Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/30/well/eat/sugar-health-effects-risks.html",
+      "headline": "This Is Your Body on Sugar",
+      "image": "2024-10-30T15:45:37+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

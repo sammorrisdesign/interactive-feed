@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-27T11:18:15.066Z",
+  "lastUpdated": "2024-10-30T16:27:50.300Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/oct/30/election-harris-trump-myths-lies-fact-checkfalse-claims-include-that-noncitizens-are-voting-in-broad-numbers-and-attacks-on-the-voting-and-counting-process",
+      "headline": "Factchecking the most pervasive myths and lies about US elections",
+      "image": "https://i.guim.co.uk/img/media/88bc791ace6df09808603c6bf557d6c7cac5d713/0_0_1920_1152/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f0f071fdb391ae1935fd072e4c3e59a",
+      "timestamp": "2024-10-30T16:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
