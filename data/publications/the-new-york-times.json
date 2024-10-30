@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2024-10-30T09:23:31.279Z",
+  "lastUpdated": "2024-10-30T11:42:10.716Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/30/business/30ftx-parents-nishad-defense-sentencing.html",
+      "headline": "Here is the letter from Nishad Singh’s father to Judge Kaplan.",
+      "image": "2024-10-30T11:22:17+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/30/business/30ftx-parents-caroline-defense-memo.html",
+      "headline": "Here is the letter from Caroline Ellison’s parents to Judge Kaplan.",
+      "image": "2024-10-30T11:21:21+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/30/business/30ftx-parents-joe-bankman-letter.html",
+      "headline": "Read a letter from Sam Bankman-Fried’s father.",
+      "image": "2024-10-30T11:20:17+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/30/business/30ftx-parents-barbara-letter.html",
+      "headline": "Here is the letter from Sam Bankman-Fried’s parents to Judge Kaplan.",
+      "image": "2024-10-30T11:15:26+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
