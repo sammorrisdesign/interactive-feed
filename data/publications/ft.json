@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-29T05:22:49.371Z",
+  "lastUpdated": "2024-10-30T05:22:45.254Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/sudan-hospitals/",
+      "headline": "Hospitals in firing line of forgotten war",
+      "timestamp": "2024-10-30T05:00:35.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
