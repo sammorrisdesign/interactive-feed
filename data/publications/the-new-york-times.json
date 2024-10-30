@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-10-30T02:44:03.295Z",
+  "lastUpdated": "2024-10-30T09:23:31.279Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/30/us/politics/trump-administration-criticism.html",
+      "headline": "Once Top Advisers to Trump, They Now Call Him ‘Liar,’ ‘Fascist’ and ‘Unfit’",
+      "image": "2024-10-30T09:04:20+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/30/opinion/gender-education-gap.html",
+      "headline": "Gender and Education Are the New Fault Lines of American Politics",
+      "image": "2024-10-30T09:02:49+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
