@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-30T16:27:49.909Z",
+  "lastUpdated": "2024-10-31T02:45:42.520Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/30/upshot/voters-moving-polarization.html",
+      "headline": "Millions of Movers Reveal American Polarization in Action",
+      "image": "2024-10-31T01:40:02+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
