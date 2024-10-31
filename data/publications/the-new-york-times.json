@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-10-31T17:21:50.860Z",
+  "lastUpdated": "2024-10-31T21:22:11.613Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/us/elections/pennsylvania-voters.html",
+      "headline": "Pennsylvania Voters Worry About the Toxicity of Politics",
+      "image": "2024-10-31T21:13:15+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/nyregion/ny-climate-quiz.html",
+      "headline": "How Much Do You Know About New York City and Climate Change?",
+      "image": "2024-10-31T20:42:10+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
