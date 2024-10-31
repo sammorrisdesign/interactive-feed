@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-31T12:39:43.940Z",
+  "lastUpdated": "2024-10-31T13:29:32.639Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "mastodonHandle": "guardian@press.coop",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/oct/26/presidential-polls-latest-kamala-harris-donald-trump-election",
+      "headline": "2024 US presidential polls tracker: Trump v Harris latest national averages",
+      "image": "https://i.guim.co.uk/img/media/a3df3312006d248ef570f42f2fe321739fd75ad6/1_0_2398_1440/master/2398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e722266a10bdb9b6144b9ca253cf03de",
+      "timestamp": "2024-10-26T12:11:56.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
