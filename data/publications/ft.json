@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-31T12:39:44.370Z",
+  "lastUpdated": "2024-10-31T18:49:34.201Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/31b728d9-7426-4abb-a995-f2d191f8bf7e",
+      "headline": "Deadly Spanish floods drive home threat of Mediterranean ‘petrol can’",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9b5f40ea-2394-44a3-b34c-fee9b650ac57.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-31T18:27:08.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
