@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-10-31T16:27:47.748Z",
+  "lastUpdated": "2024-10-31T17:21:51.396Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "mastodonHandle": "nbcnews@newsie.social",
+      "url": "https://www.nbcnews.com/data-graphics/2024-early-vote-data-map-rcna177666",
+      "headline": "Two charts and a map to help make sense of all the early voting data",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/early-vote-map-2024-1x1-4proxy-32a6e1.png",
+      "timestamp": "2024-10-31T17:03:06.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
