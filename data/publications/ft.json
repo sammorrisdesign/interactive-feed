@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-10-30T05:22:45.254Z",
+  "lastUpdated": "2024-10-31T12:39:44.370Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "mastodonHandle": "FinancialTimes@press.coop",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9ace4635-d71e-4d19-a385-5bd84dcc30e6",
+      "headline": "Democrats face jobs report blow ahead of election",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2191dfdb-c701-40d5-a2ec-fef83b8c73f7.jpg?source=next-barrier-page",
+      "timestamp": "2024-10-31T12:26:06.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
