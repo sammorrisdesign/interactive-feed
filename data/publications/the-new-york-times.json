@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-10-31T13:45:44.787Z",
+  "lastUpdated": "2024-10-31T14:21:42.994Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-ohio.html",
+      "headline": "Election 2024 Polls: Ohio Senate",
+      "image": "2024-10-31T13:33:40+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-maryland.html",
+      "headline": "Election 2024 Polls: Maryland Senate",
+      "image": "2024-10-31T13:33:39+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
