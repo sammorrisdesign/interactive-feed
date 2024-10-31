@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-10-31T02:45:42.520Z",
+  "lastUpdated": "2024-10-31T04:27:08.394Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/world/us-election-world.html",
+      "headline": "How the U.S. Election Matters for the Rest of the World",
+      "image": "2024-10-31T04:01:10+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/world/europe/bayesian-yacht-sinking-italy.html",
+      "headline": "What Sank the Tech Tycoon’s ‘Unsinkable’ Yacht?",
+      "image": "2024-10-31T04:01:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
