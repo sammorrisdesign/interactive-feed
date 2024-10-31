@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2024-10-25T10:23:48.620Z",
+  "lastUpdated": "2024-10-31T09:23:07.270Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/politics/election/inq2/watch-mail-ballot-processing-pennsylvania-20241031.html",
+      "headline": "See how mail-in ballots are processed in Pennsylvania",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/DOXUFKE26VFIJOVM3AJ36UXXYU.jpg",
+      "timestamp": "2024-10-31T09:00:00.450Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/eagles/inq2/eagles-bird-box-grid-game-jacksonville-week-9-20241031.html",
+      "headline": "Bird Box: Can you beat this week’s grid by naming past and current players",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/XWTATDBGGFESTMBKJHSO423PDM.jpg",
+      "timestamp": "2024-10-31T09:00:00.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/phillies/inq2/phillies-free-agents-mlb-offseason-stay-go-20241031.html",
+      "headline": "Here are the Phillies players that fans most — and least — want to see back next season",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/IXVJGXVBK5EU3DVNNUFYHV7DV4.jpg",
+      "timestamp": "2024-10-31T09:00:00.000Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",

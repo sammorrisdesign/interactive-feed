@@ -1,6 +1,50 @@
 {
-  "lastUpdated": "2024-10-31T04:27:08.394Z",
+  "lastUpdated": "2024-10-31T09:23:07.250Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/realestate/los-angeles-home-sale.html",
+      "headline": "In Los Angeles, They Wanted a House for Their Growing Family. Which Neighborhood Was Right?",
+      "image": "2024-10-31T09:06:32+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/us/politics/house-races-abortion-stances.html",
+      "headline": "Republicans Shift Message on Abortion, Sounding More Like Democrats",
+      "image": "2024-10-31T09:04:35+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/travel/things-to-do-lyon-france.html",
+      "headline": "36 Hours in Lyon, France",
+      "image": "2024-10-31T09:03:10+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/world/europe/russia-gains-ukraine-maps.html",
+      "headline": "Russia’s Swift March Forward in Ukraine’s East",
+      "image": "2024-10-31T09:03:00+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
