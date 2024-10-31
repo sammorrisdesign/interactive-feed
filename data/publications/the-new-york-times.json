@@ -1,6 +1,17 @@
 {
-  "lastUpdated": "2024-10-31T14:21:42.994Z",
+  "lastUpdated": "2024-10-31T15:24:09.591Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/10/31/movies/memoir-of-a-snail-adam-elliot.html",
+      "headline": "One Frame, Thousands of Snails",
+      "image": "2024-10-31T15:10:01+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
