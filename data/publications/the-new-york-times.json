@@ -1,6 +1,116 @@
 {
-  "lastUpdated": "2024-10-31T09:23:07.250Z",
+  "lastUpdated": "2024-10-31T13:45:44.787Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate.html",
+      "headline": "Election 2024 Polls: Senate Races",
+      "image": "2024-10-31T13:33:41+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-wisconsin.html",
+      "headline": "Election 2024 Polls: Wisconsin Senate",
+      "image": "2024-10-31T13:33:40+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-texas.html",
+      "headline": "Election 2024 Polls: Texas Senate",
+      "image": "2024-10-31T13:33:40+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-virginia.html",
+      "headline": "Election 2024 Polls: Virginia Senate",
+      "image": "2024-10-31T13:33:40+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-tennessee.html",
+      "headline": "Election 2024 Polls: Tennessee Senate",
+      "image": "2024-10-31T13:33:40+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-montana.html",
+      "headline": "Election 2024 Polls: Montana Senate",
+      "image": "2024-10-31T13:33:39+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-pennsylvania.html",
+      "headline": "Election 2024 Polls: Pennsylvania Senate",
+      "image": "2024-10-31T13:33:39+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-nebraska.html",
+      "headline": "Election 2024 Polls: Nebraska Senate",
+      "image": "2024-10-31T13:33:39+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-nevada.html",
+      "headline": "Election 2024 Polls: Nevada Senate",
+      "image": "2024-10-31T13:33:39+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/polls-senate-missouri.html",
+      "headline": "Election 2024 Polls: Missouri Senate",
+      "image": "2024-10-31T13:33:39+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
