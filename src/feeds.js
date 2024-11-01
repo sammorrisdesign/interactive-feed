@@ -2,7 +2,6 @@ const fs = require('fs-extra');
 const config = require('../config.json');
 const fetchers = require('./fetchers');
 const tweet = require('./tweet');
-const toot = require('./toot');
 const skeet = require('./skeet');
 const utils = require('./utils');
 
@@ -103,7 +102,6 @@ module.exports = {
     if (newArticles.length) {
       console.log(newArticles.length, "new articles found");
       await tweet.newArticles(newArticles);
-      await toot.newArticles(newArticles);
       await skeet.newArticles(newArticles);
 
       await updateFullFeed();
