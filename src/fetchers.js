@@ -84,9 +84,6 @@ const fetchers = {
       const data = await response.json();
 
       let articles = data.response.results;
-
-      console.log(articles[0]);
-
       articles = articles.map(article => new Article({
         publication: feed.publication,
         twitterHandle: feed.twitterHandle,

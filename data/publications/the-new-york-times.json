@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-01T18:25:41.198Z",
+  "lastUpdated": "2024-11-01T19:44:31.083Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/01/books/philip-larkin-party-politics-poem.html",
+      "headline": "A Poem About Waiting, and Wishing You Had a Drink",
+      "image": "https://nytimes.com/images/2024/11/01/books/larkin-poem-illo/fpo_larkin_no_pub-superJumbo-v6.jpg",
+      "timestamp": "2024-11-01T19:31:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
