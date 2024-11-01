@@ -1,15 +1,27 @@
 // Post to BlueSky
 const { BskyAgent, RichText } = require('@atproto/api');
+const sharp = require('sharp');
 const utils = require("./utils");
 
 const getImageForArticleUrl = async(imageUrl, client) => {
   try {
     if (imageUrl) {
+      let bufferToReturn;
+
       const imageResponse = await fetch(imageUrl);
       const imageBuffer = await imageResponse.arrayBuffer();
       const contentType = imageResponse.headers.get('content-type');
 
-      const blobResponse = await client.uploadBlob(imageBuffer, { encoding: contentType });
+      // if the image is too big for BlueSky, we should resize and return that instead
+      if (imageBuffer.byteLength > 900000) {
+        bufferToReturn = await sharp(imageBuffer)
+          .resize({ width: 1000 })
+          .toBuffer();
+      } else {
+        bufferToReturn = imageBuffer
+      }
+
+      const blobResponse = await client.uploadBlob(bufferToReturn, { encoding: contentType });
       return await blobResponse.data.blob;
     } else {
       return null;

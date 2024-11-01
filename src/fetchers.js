@@ -15,14 +15,20 @@ const fetchers = {
 
       let articles = data.response.docs;
       articles = articles.filter(article => article.web_url.includes('interactive'));
-      articles = articles.map(article => new Article({
-        publication: feed.publication,
-        twitterHandle: feed.twitterHandle,
-        blueSkyHandle: feed.blueSkyHandle,
-        url: article.web_url,
-        headline: article.headline.main,
-        timestamp: article.pub_date
-      }));
+
+      articles = articles.map(article => {
+        const image = article?.multimedia.sort((a, b) => b.height - a.height)?.[0]?.url;
+
+        return new Article({
+          publication: feed.publication,
+          twitterHandle: feed.twitterHandle,
+          blueSkyHandle: feed.blueSkyHandle,
+          url: article.web_url,
+          image: image ? "https://nytimes.com/" + image : null,
+          headline: article.headline.main,
+          timestamp: article.pub_date
+        });
+      });
 
       // filter out recurring features
       articles = articles.filter(article => !article.headline.includes("New Paperbacks"));
@@ -78,6 +84,8 @@ const fetchers = {
       const data = await response.json();
 
       let articles = data.response.results;
+
+      console.log(articles[0]);
 
       articles = articles.map(article => new Article({
         publication: feed.publication,
