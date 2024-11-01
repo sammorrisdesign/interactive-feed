@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-01T19:44:31.083Z",
+  "lastUpdated": "2024-11-01T21:16:19.797Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/2024-gift-guide.html",
+      "headline": "2024 Holiday Gift Guide",
+      "image": "https://nytimes.com/images/2024/11/01/homepage/holiday-gift-guide-2024-hp-promo-illo-1/holiday-gift-guide-2024-hp-promo-illo-1-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-01T21:08:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
