@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2024-10-31T21:22:11.613Z",
+  "lastUpdated": "2024-11-01T09:23:26.702Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/us/elections/results-timing-presidential-race-calls.html",
+      "headline": "When to Expect Results in Each State on Election Night, and Beyond",
+      "image": "2024-11-01T09:06:36+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/01/us/politics/voting-sticker-quiz.html",
+      "headline": "Can You Identify These Regional Election Stickers?",
+      "image": "2024-11-01T09:05:10+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "mastodonHandle": "nytimes@press.coop",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/01/opinion/harris-trump-electoral-college-prediction.html",
+      "headline": "How Harris or Trump Could Win This Deadlocked Presidential Race, in 19 Maps",
+      "image": "2024-11-01T09:05:08+0000",
+      "timestamp": null,
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

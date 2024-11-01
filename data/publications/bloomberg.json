@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-01T05:22:27.861Z",
+  "lastUpdated": "2024-11-01T09:23:26.720Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "twitterHandle": "BBGVisualData",
+      "mastodonHandle": "business@press.coop",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2024-us-election-pac-spending-donations-fec/",
+      "headline": "11,000 Political Groups Spent $14 Billion To Influence the 2024 Election",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iZreQqyCf4jg/v0/1200x-1.png",
+      "timestamp": "2024-11-01T09:00:28.305Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
