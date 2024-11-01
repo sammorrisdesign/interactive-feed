@@ -3,7 +3,6 @@
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
-      "mastodonHandle": "nytimes@press.coop",
       "blueSkyHandle": "nytimes.com",
       "sources": [{
         "type": "NewYorkTimesAPI"
@@ -12,7 +11,6 @@
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
-      "mastodonHandle": "thepudding@vis.social",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -23,7 +21,6 @@
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
-      "mastodonHandle": "guardian@press.coop",
       "sources": [{
         "type": "TheGuardianAPI"
       }]
@@ -31,7 +28,6 @@
     {
       "publication": "The Washington Post",
       "twitterHandle": "WashingtonPost",
-      "mastodonHandle": "washingtonpost@press.coop",
       "blueSkyHandle": "washingtonpost.com",
       "sources": [{
         "type": "WashingtonPost"
@@ -40,7 +36,6 @@
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
-      "mastodonHandle": "CNN@press.coop",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -64,7 +59,6 @@
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
-      "mastodonHandle": "FinancialTimes@press.coop",
       "blueSkyHandle": "data.ft.com",
       "sources": [{
         "type": "XML",
@@ -75,7 +69,6 @@
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
-      "mastodonHandle": "business@press.coop",
       "blueSkyHandle": "bloombergnews.bsky.social",
       "sources": [{
         "type": "XML",
@@ -119,7 +112,6 @@
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
-      "mastodonHandle": "nbcnews@newsie.social",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -275,7 +267,6 @@
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
-      "mastodonHandle": "ProPublica@newsie.social",
       "blueSkyHandle": "propublica.bsky.social",
       "sources": [{
         "type": "Website",
@@ -311,7 +302,6 @@
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
-      "mastodonHandle": "BostonGlobe@press.coop",
       "blueSkyHandle": "bostonglobe.bsky.social",
       "sources": [{
         "type": "Website",
@@ -336,7 +326,6 @@
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
-      "mastodonHandle": "wsj@mstdn.social",
       "sources": [{
         "type": "Website",
         "path": "https://www.wsj.com/search?query=gfx-standalone",
@@ -347,7 +336,6 @@
     {
       "publication": "The City",
       "twitterHandle": "thecityny",
-      "mastodonHandle": "@THECITY@newsie.social",
       "sources": [{
         "type": "Website",
         "path": "https://www.thecity.nyc/category/interactive/",

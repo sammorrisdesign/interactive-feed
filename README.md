@@ -1,11 +1,11 @@
 # Interactive Journalism Feed
-A Twitter, Mastodon, and BlueSky bot that shares new interactive, graphic, and data vis stories from newsrooms around the world. It works by periodically checking APIs, RSS feeds, and sitemaps.
+Twitter and BlueSky bots that share new interactive, graphic, and data vis stories from newsrooms around the world. It works by periodically checking APIs, RSS feeds, and sitemaps.
 
 You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed), [@Interactives@botsin.space](https://botsin.space/@Interactives), or [@interactives.bsky.social](https://staging.bsky.app/profile/interactives.bsky.social).
 
 ## Requirements
 - Node v18 or above
-- NYT, Guardian, WashingtonPost, Philadelphia Inquirer, Mastodon, BlueSky, and Twitter credentials for `secrets.json` or the secret key.
+- NYT, Guardian, WashingtonPost, Philadelphia Inquirer, BlueSky, and Twitter credentials for `secrets.json` or the secret key.
 
 ## Installation
 Use `npm i` to get all dependecies.

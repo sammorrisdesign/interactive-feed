@@ -19,7 +19,6 @@ const fetchers = {
         publication: feed.publication,
         twitterHandle: feed.twitterHandle,
         blueSkyHandle: feed.blueSkyHandle,
-        mastodonHandle: feed.mastodonHandle,
         url: article.web_url,
         headline: article.headline.main,
         timestamp: article.pub_date
@@ -62,7 +61,6 @@ const fetchers = {
     articles = articles.map(article => new Article({
       publication: feed.publication,
       twitterHandle: feed.twitterHandle,
-      mastodonHandle: feed.mastodonHandle,
       blueSkyHandle: feed.blueSkyHandle,
       url: article.canonical_url,
       headline: article.headlines.basic,
@@ -84,7 +82,6 @@ const fetchers = {
       articles = articles.map(article => new Article({
         publication: feed.publication,
         twitterHandle: feed.twitterHandle,
-        mastodonHandle: feed.mastodonHandle,
         blueSkyHandle: feed.blueSkyHandle,
         url: article.webUrl,
         headline: article.webTitle,
@@ -114,7 +111,6 @@ const fetchers = {
       articles = articles.map(article => new Article({
         publication: feed.publication,
         twitterHandle: feed.twitterHandle,
-        mastodonHandle: feed.mastodonHandle,
         blueSkyHandle: feed.blueSkyHandle,
         url: 'https://inquirer.com' + article.canonical_url,
         headline: article.headlines.basic,
@@ -138,7 +134,6 @@ const fetchers = {
       articles = articles.map(article => new Article({
         publication: feed.publication,
         twitterHandle: feed.twitterHandle,
-        mastodonHandle: feed.mastodonHandle,
         blueSkyHandle: feed.blueSkyHandle,
         url: article.url,
         headline: article.title,
@@ -171,7 +166,7 @@ const fetchers = {
         articles = data.map(article => new Article({
           publication: feed.publication,
           twitterHandle: feed.twitterHandle,
-          mastodonHandle: feed.mastodonHandle,
+
           blueSkyHandle: feed.blueSkyHandle,
           url: article.link,
           headline: article.title,
@@ -187,7 +182,7 @@ const fetchers = {
         articles = data.map(article => new Article({
           publication: feed.publication,
           twitterHandle: feed.twitterHandle,
-          mastodonHandle: feed.mastodonHandle,
+
           blueSkyHandle: feed.blueSkyHandle,
           url: article.id,
           headline: article.title,
@@ -198,7 +193,7 @@ const fetchers = {
         articles = data.map(article => new Article({
           publication: feed.publication,
           twitterHandle: feed.twitterHandle,
-          mastodonHandle: feed.mastodonHandle,
+
           blueSkyHandle: feed.blueSkyHandle,
           url: article.loc,
           headline: article?.['news:news']?.['news:title'],
@@ -248,7 +243,7 @@ const fetchers = {
           return new Article({
             publication: feed.publication,
             twitterHandle: feed.twitterHandle,
-            mastodonHandle: feed.mastodonHandle,
+  
             blueSkyHandle: feed.blueSkyHandle,
             url: url,
             headline: $(article).find(feed.headline).text(),
