@@ -245,16 +245,16 @@ const fetchers = {
         url = feed.baseUrl ? feed.baseUrl + url : url;
 
         if (!feed.domain || url.includes(feed.domain)) {
-          return new Article(
-            publication = feed.publication,
-            twitterHandle = feed.twitterHandle,
-            mastodonHandle = feed.mastodonHandle,
-            blueSkyHandle = feed.blueSkyHandle,
-            url = url,
-            headline = $(article).find(feed.headline).text(),
-            image = null,
-            timestamp = timestamp
-          )
+          return new Article({
+            publication: feed.publication,
+            twitterHandle: feed.twitterHandle,
+            mastodonHandle: feed.mastodonHandle,
+            blueSkyHandle: feed.blueSkyHandle,
+            url: url,
+            headline: $(article).find(feed.headline).text(),
+            image: null,
+            timestamp: timestamp
+          })
         }
       });
 
