@@ -15,15 +15,15 @@ const fetchers = {
 
       let articles = data.response.docs;
       articles = articles.filter(article => article.web_url.includes('interactive'));
-      articles = articles.map(article => new Article(
-        publication = feed.publication,
-        twitterHandle = feed.twitterHandle,
-        mastodonHandle = feed.mastodonHandle,
-        blueSkyHandle = feed.blueSkyHandle,
-        url = article.web_url,
-        headline = article.headline.main,
-        timestamp = article.pub_date
-      ));
+      articles = articles.map(article => new Article({
+        publication: feed.publication,
+        twitterHandle: feed.twitterHandle,
+        blueSkyHandle: feed.blueSkyHandle,
+        mastodonHandle: feed.mastodonHandle,
+        url: article.web_url,
+        headline: article.headline.main,
+        timestamp: article.pub_date
+      }));
 
       // filter out recurring features
       articles = articles.filter(article => !article.headline.includes("New Paperbacks"));
@@ -52,19 +52,22 @@ const fetchers = {
   },
 
   WashingtonPost: async(feed) => {
-    const response = await fetch(`https://www.washingtonpost.com/prism/api/prism-query?_website=washpost&query=%7B%22query%22%3A%22prism%3A%2F%2Fprism.query%2Fsubtype%2Cinteractive%26limit%3D30%22%7D&filter=%7Bitems%7B_id%20canonical_url%20display_date%20promo_items%20headlines%20publish_date%20taxonomy%7Btags%7D%7D%7D`);
+    const response = await fetch(`https://www.washingtonpost.com/prism/api/prism-query?_website=washpost&query=%7B%22query%22%3A%22prism%3A%2F%2Fprism.query%2Fsubtype%2Cinteractive%26limit%3D30%22%7D&filter=%7Bitems%7B_id%20canonical_url%20display_date%20promo_items%20headlines%20publish_date%20taxonomy%7Btags%7D%7D%7D`, {
+      signal: AbortSignal.timeout(5000)
+    });
+
     const data = await response.json();
     let articles = data.items;
     articles = articles.filter(article => !article.taxonomy.tags.map(tag => tag.description).includes('stamp'));
-    articles = articles.map(article => new Article(
-      publication = feed.publication,
-      twitterHandle = feed.twitterHandle,
-      mastodonHandle = feed.mastodonHandle,
-      blueSkyHandle = feed.blueSkyHandle,
-      url = article.canonical_url,
-      headline = article.headlines.basic,
-      timestamp = article.display_date
-    ));
+    articles = articles.map(article => new Article({
+      publication: feed.publication,
+      twitterHandle: feed.twitterHandle,
+      mastodonHandle: feed.mastodonHandle,
+      blueSkyHandle: feed.blueSkyHandle,
+      url: article.canonical_url,
+      headline: article.headlines.basic,
+      timestamp: article.display_date
+    }));
 
     return articles;
   },
@@ -78,16 +81,15 @@ const fetchers = {
 
       let articles = data.response.results;
 
-      articles = articles.map(article => new Article(
-        publication = feed.publication,
-        twitterHandle = feed.twitterHandle,
-        mastodonHandle = feed.mastodonHandle,
-        blueSkyHandle = feed.blueSkyHandle,
-        url = article.webUrl,
-        headline = article.webTitle,
-        image = null,
-        timestamp = article.webPublicationDate
-      ));
+      articles = articles.map(article => new Article({
+        publication: feed.publication,
+        twitterHandle: feed.twitterHandle,
+        mastodonHandle: feed.mastodonHandle,
+        blueSkyHandle: feed.blueSkyHandle,
+        url: article.webUrl,
+        headline: article.webTitle,
+        timestamp: article.webPublicationDate
+      }));
 
       return articles;
     } else {
@@ -109,16 +111,16 @@ const fetchers = {
       const data = await response.json();
 
       let articles = data.content_elements;
-      articles = articles.map(article => new Article(
-        publication = feed.publication,
-        twitterHandle = feed.twitterHandle,
-        mastodonHandle = feed.mastodonHandle,
-        blueSkyHandle = feed.blueSkyHandle,
-        url = 'https://inquirer.com' + article.canonical_url,
-        headline = article.headlines.basic,
-        image = article?.promo_items?.basic?.url,
-        timestamp = article.display_date
-      ));
+      articles = articles.map(article => new Article({
+        publication: feed.publication,
+        twitterHandle: feed.twitterHandle,
+        mastodonHandle: feed.mastodonHandle,
+        blueSkyHandle: feed.blueSkyHandle,
+        url: 'https://inquirer.com' + article.canonical_url,
+        headline: article.headlines.basic,
+        image: article?.promo_items?.basic?.url,
+        timestamp: article.display_date
+      }));
 
       articles = articles.filter(article => !article.url.includes('zzz-systest'));
 
@@ -133,16 +135,16 @@ const fetchers = {
       const response = await fetch('https://projects.fivethirtyeight.com/projects-page/projects.json');
       let data = await response.json();
       let articles = data.projects;
-      articles = articles.map(article => new Article(
-        publication = feed.publication,
-        twitterHandle = feed.twitterHandle,
-        mastodonHandle = feed.mastodonHandle,
-        blueSkyHandle = feed.blueSkyHandle,
-        url = article.url,
-        headline = article.title,
-        image = article.image,
-        timestamp = article.published
-      ));
+      articles = articles.map(article => new Article({
+        publication: feed.publication,
+        twitterHandle: feed.twitterHandle,
+        mastodonHandle: feed.mastodonHandle,
+        blueSkyHandle: feed.blueSkyHandle,
+        url: article.url,
+        headline: article.title,
+        image: article.image,
+        timestamp: article.published
+      }));
 
       articles = articles.filter(article => article.url !== 'https://data.fivethirtyeight.com/' && article.url !== "https://projects.fivethirtyeight.com/polls/" && article.url !== "https://projects.fivethirtyeight.com/");
 
@@ -166,16 +168,15 @@ const fetchers = {
           data = data.filter(item => item.link.includes(feed.domain))
         }
 
-        articles = data.map(article => new Article(
-          publication = feed.publication,
-          twitterHandle = feed.twitterHandle,
-          mastodonHandle = feed.mastodonHandle,
-          blueSkyHandle = feed.blueSkyHandle,
-          url = article.link,
-          headline = article.title,
-          image = null,
-          timestamp = article.isoDate || article.pubDate
-        ))
+        articles = data.map(article => new Article({
+          publication: feed.publication,
+          twitterHandle: feed.twitterHandle,
+          mastodonHandle: feed.mastodonHandle,
+          blueSkyHandle: feed.blueSkyHandle,
+          url: article.link,
+          headline: article.title,
+          timestamp: article.isoDate || article.pubDate
+        }))
       } else if (feed.format == 'Atom') {
         data = data.feed.entry;
 
@@ -183,28 +184,27 @@ const fetchers = {
           data = data.filter(entry => entry.id.includes(feed.domain))
         }
 
-        articles = data.map(article => new Article(
-          publication = feed.publication,
-          twitterHandle = feed.twitterHandle,
-          mastodonHandle = feed.mastodonHandle,
-          blueSkyHandle = feed.blueSkyHandle,
-          url = article.id,
-          headline = article.title,
-          image = null,
-          timestamp = article.published
-        ));
+        articles = data.map(article => new Article({
+          publication: feed.publication,
+          twitterHandle: feed.twitterHandle,
+          mastodonHandle: feed.mastodonHandle,
+          blueSkyHandle: feed.blueSkyHandle,
+          url: article.id,
+          headline: article.title,
+          timestamp: article.published
+        }));
       } else if (feed.format == 'Sitemap') {
         data = data.urlset.url;
-        articles = data.map(article => new Article(
-          publication = feed.publication,
-          twitterHandle = feed.twitterHandle,
-          mastodonHandle = feed.mastodonHandle,
-          blueSkyHandle = feed.blueSkyHandle,
-          url = article.loc,
-          headline = article?.['news:news']?.['news:title'],
-          image = article?.['image:image']?.['image:loc'],
-          timestamp = article?.['news:news']?.['news:publication_date'] || article.lastmod
-        ));
+        articles = data.map(article => new Article({
+          publication: feed.publication,
+          twitterHandle: feed.twitterHandle,
+          mastodonHandle: feed.mastodonHandle,
+          blueSkyHandle: feed.blueSkyHandle,
+          url: article.loc,
+          headline: article?.['news:news']?.['news:title'],
+          image: article?.['image:image']?.['image:loc'],
+          timestamp: article?.['news:news']?.['news:publication_date'] || article.lastmod
+        }));
       }
 
       if (feed?.filters?.in) {
