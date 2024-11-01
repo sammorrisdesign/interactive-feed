@@ -1,7 +1,7 @@
 # Interactive Journalism Feed
 Twitter and BlueSky bots that share new interactive, graphic, and data vis stories from newsrooms around the world. It works by periodically checking APIs, RSS feeds, and sitemaps.
 
-You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed), [@Interactives@botsin.space](https://botsin.space/@Interactives), or [@interactives.bsky.social](https://staging.bsky.app/profile/interactives.bsky.social).
+You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed), or [@interactives.bsky.social](https://staging.bsky.app/profile/interactives.bsky.social).
 
 ## Requirements
 - Node v18 or above
