@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-10-31T04:47:54.869Z",
+  "lastUpdated": "2024-11-02T04:41:59.975Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/spanien-flutkatastrophe-satellitenbilder-zeigen-die-lage-in-valencia-ld.1855533",
+      "headline": "Valencia versinkt im Schlamm – Satellitenbilder zeigen das Ausmass des Unwetters",
+      "image": "https://img.nzz.ch/2024/11/01/cf35a4f0-ad05-4b81-aff6-cfb87118f731.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4896,2754,x0,y255&wmark=nzz",
+      "timestamp": "2024-11-02T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
