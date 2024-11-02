@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-11-01T22:16:34.708Z",
+  "lastUpdated": "2024-11-02T09:17:07.964Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/02/us/politics/trump-places-quotes.html",
+      "headline": "‘Cesspools,’ ‘Hellholes’ and ‘Beautiful Places’: How Trump Describes the U.S.",
+      "image": "https://nytimes.com/images/2024/11/01/multimedia/2024-10-22-trump-speech-places-index/2024-10-22-trump-speech-places-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-11-02T09:06:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/02/world/middleeast/missile-defense-israel-iran.html",
+      "headline": "How Missile Defense Works (and Why It Fails)",
+      "image": "https://nytimes.com/images/2024/10/30/multimedia/2024-10-04-israel-missile-defense-index/2024-10-04-israel-missile-defense-index-superJumbo.png",
+      "timestamp": "2024-11-02T09:03:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/02/upshot/election-day-card-scenarios.html",
+      "headline": "Squirrels, Soda and Tractors: 12 Emergencies You Never Thought About but Election Officials Are Prepared For",
+      "image": "https://nytimes.com/images/2024/10/31/multimedia/2024-10-28-election-scenario-cards-index/2024-10-28-election-scenario-cards-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-11-02T09:03:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
