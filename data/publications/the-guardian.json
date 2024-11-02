@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-11-01T14:21:21.195Z",
+  "lastUpdated": "2024-11-02T11:13:44.406Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/nov/02/trump-immunity-election-supreme-court",
+      "headline": "If Trump wins the election, he could seize control of America’s courts",
+      "image": "https://i.guim.co.uk/img/media/def4b763016bf7fe411bac01c2ab69fcdd7ef858/1_0_4999_3000/master/4999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90cd3ec27579eb8025553bec323e208c",
+      "timestamp": "2024-11-02T11:00:13.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
