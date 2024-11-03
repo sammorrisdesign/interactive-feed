@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2024-11-02T11:13:44.261Z",
+  "lastUpdated": "2024-11-03T10:19:53.923Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-michigan-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in Michigan",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-03T09:58:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-michigan-poll-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in Michigan",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-03T09:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-battleground-poll-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in the 2024 Battlegrounds",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-03T09:58:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-battleground-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in the 2024 Battlegrounds",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-03T09:58:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-north-carolina-poll-toplines.html",
+      "headline": "Toplines: October 2024 Times/Siena Poll of Registered Voters in North Carolina",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-03T09:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-wisconsin-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in Wisconsin",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-03T09:58:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/03/us/elections/times-siena-north-carolina-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2024 Times/Siena Poll of the Likely Electorate in North Carolina",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-03T09:58:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
