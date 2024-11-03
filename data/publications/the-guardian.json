@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-11-02T11:13:44.406Z",
+  "lastUpdated": "2024-11-03T09:18:34.969Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/nov/03/us-presidential-election-trump-harris",
+      "headline": "Everything you need to know about the 2024 US presidential election",
+      "image": "https://i.guim.co.uk/img/media/63af2736fef480dc235066dce5af7bc023c29bba/407_0_3172_1904/master/3172.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b90ee3beb37027e43928695994e99e93",
+      "timestamp": "2024-11-03T09:00:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
