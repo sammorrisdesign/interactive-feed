@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-04T17:38:15.599Z",
+  "lastUpdated": "2024-11-04T20:18:42.461Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/04/weather/yinxing-map-path-tracker.html",
+      "headline": "Tracking Typhoon Yinxing",
+      "image": "https://nytimes.com/images/2024/11/04/world/yinxing-map-path-tracker-index/yinxing-map-path-tracker-index-videoSixteenByNine3000-v4.jpg",
+      "timestamp": "2024-11-04T19:39:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
