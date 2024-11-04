@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-11-04T10:19:52.798Z",
+  "lastUpdated": "2024-11-04T14:17:33.967Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/04/magazine/climate-change-kids.html",
+      "headline": "What It Means to Come of Age in Climate Chaos",
+      "image": "https://nytimes.com/images/2024/11/10/magazine/10mag-Teenagers-26/10mag-Teenagers-26-superJumbo-v2.jpg",
+      "timestamp": "2024-11-04T14:10:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/04/books/review/space-books-quiz.html",
+      "headline": "Do You Know These Space Books That Were Adapted Into Hit Movies?",
+      "image": "https://nytimes.com/images/2024/11/04/books/review/04Quiz-SPACE/04Quiz-SPACE-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-04T14:00:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
