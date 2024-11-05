@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-05T03:20:58.295Z",
+  "lastUpdated": "2024-11-05T06:24:51.411Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/opinion/focusgroup-swing-state-voters.html",
+      "headline": "Why These 15 Late-Deciding Swing State Voters Give the Edge to Harris",
+      "image": "https://nytimes.com/images/2024/11/05/opinion/05focusgroup-promo/05focusgroup-promo-superJumbo.jpg",
+      "timestamp": "2024-11-05T06:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
