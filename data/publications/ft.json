@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2024-11-03T05:16:36.811Z",
+  "lastUpdated": "2024-11-05T05:17:32.951Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/4a822d5f-f9c7-4b41-841d-cc727e3468a0",
+      "headline": "The 7 charts that define the 2024 US presidential campaign",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc2c30d90-f104-472a-bc8e-e771b4f62fff.jpg?source=next-barrier-page",
+      "timestamp": "2024-11-05T05:01:57.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/us-elections/2024/results/president",
+      "headline": "Live results map: US presidential election 2024",
+      "image": "https://d1e00ek4ebabms.cloudfront.net/production/12fbe645-4739-4c45-ba9e-87bb1f1c4ecb.jpg",
+      "timestamp": "2024-11-05T05:01:57.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f984bc60-d8dd-4886-aa7f-bee950119bb7",
+      "headline": "America’s reckoning: will gender decide the US election?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F19de77b2-cd33-4d57-a3b9-ebcded51c268.jpg?source=next-barrier-page",
+      "timestamp": "2024-11-05T05:00:58.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/us-elections/2024/results/house/",
+      "headline": "Live results: US House of Representatives election 2024",
+      "image": "https://d1e00ek4ebabms.cloudfront.net/production/2bc88d7a-52b4-4f76-be05-12a7513afa4c.jpg",
+      "timestamp": "2024-11-05T05:00:58.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/us-elections/2024/results/senate/",
+      "headline": "Live results: US Senate election 2024",
+      "image": "https://d1e00ek4ebabms.cloudfront.net/production/7a73813c-1061-4281-9fef-bcba45ebef8d.jpg",
+      "timestamp": "2024-11-05T05:00:58.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
