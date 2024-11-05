@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-11-05T10:20:06.554Z",
+  "lastUpdated": "2024-11-05T20:19:15.022Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-west-virginia.html",
+      "headline": "West Virginia Election Results",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-05T20:17:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-new-mexico.html",
+      "headline": "New Mexico Election Results",
+      "image": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-PRE-2024-11-05-state-nm-51ed48/eln-PRE-2024-11-05-state-nm-51ed48-facebookJumbo.jpg",
+      "timestamp": "2024-11-05T20:17:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-kansas.html",
+      "headline": "Kansas Election Results",
+      "image": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-PRE-2024-11-05-state-ks-4e6e2d/eln-PRE-2024-11-05-state-ks-4e6e2d-facebookJumbo.jpg",
+      "timestamp": "2024-11-05T20:17:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-idaho.html",
+      "headline": "Idaho Election Results",
+      "image": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-PRE-2024-11-05-state-id-bb2d06/eln-PRE-2024-11-05-state-id-bb2d06-facebookJumbo.jpg",
+      "timestamp": "2024-11-05T20:17:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-nebraska-us-senate.html",
+      "headline": "Nebraska U.S. Senate Election Results",
+      "image": "https://nytimes.com/images/2024/11/05/multimedia/eln-PRE-2024-11-05-race-ne-us-s-general-c16733/eln-PRE-2024-11-05-race-ne-us-s-general-c16733-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-05T20:01:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-wisconsin.html",
+      "headline": "Wisconsin Election Results",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2024-11-05T20:01:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-north-dakota.html",
+      "headline": "North Dakota Election Results",
+      "image": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-PRE-2024-11-05-state-nd-cbe31d/eln-PRE-2024-11-05-state-nd-cbe31d-facebookJumbo.jpg",
+      "timestamp": "2024-11-05T20:01:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-new-york.html",
+      "headline": "New York Election Results",
+      "image": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-PRE-2024-11-05-state-ny-c3231a/eln-PRE-2024-11-05-state-ny-c3231a-facebookJumbo.jpg",
+      "timestamp": "2024-11-05T20:01:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-colorado.html",
+      "headline": "Colorado Election Results",
+      "image": "https://static01.nyt.com/images/2024/11/05/multimedia/eln-PRE-2024-11-05-state-co-18e7de/eln-PRE-2024-11-05-state-co-18e7de-facebookJumbo.jpg",
+      "timestamp": "2024-11-05T20:01:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
