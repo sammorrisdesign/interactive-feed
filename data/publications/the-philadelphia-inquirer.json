@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2024-11-01T09:23:26.725Z",
+  "lastUpdated": "2024-11-05T10:20:06.575Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/politics/election/inq2/2024-national-election-results-donald-trump-kamala-harris-20241105.html",
+      "headline": "2024 Presidential Elections National Results",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/GOIF2GMRJ5GHTEDJLX7UXG72YU.jpg",
+      "timestamp": "2024-11-05T10:00:54.233Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/politics/election/inq2/2024-state-election-voting-results-pennsylvania-20241105.html",
+      "headline": "Pa. State House and Senate general election 2024 results",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/HWNXUGEV2FCCDBQQ6WMPA5E3S4.jpg",
+      "timestamp": "2024-11-05T10:00:49.096Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/politics/election/inq2/2024-election-voting-results-pennsylvania-20241105.html",
+      "headline": "Pennsylvania general election 2024 results",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/GFT6GJLKGBH5PAXC32YVPR2FWU.jpg",
+      "timestamp": "2024-11-05T10:00:34.924Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "url": "https://inquirer.com/politics/election/inq2/2024-election-voting-results-nj-20241105.html",
+      "headline": "New Jersey general election 2024 results",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/IKUDEEYESBCYDL3HACD6FTAQNQ.jpg",
+      "timestamp": "2024-11-05T10:00:12.578Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",

@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-05T06:24:51.411Z",
+  "lastUpdated": "2024-11-05T10:20:06.554Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/opinion/election-day-meditation.html",
+      "headline": "Election Day Is Long. Give Us Five Minutes to Help You Get Through It.",
+      "image": "https://nytimes.com/images/2024/11/04/multimedia/2024-10-18-election-day-relief-index/2024-10-18-election-day-relief-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-11-05T10:04:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
