@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-06T01:18:37.533Z",
+  "lastUpdated": "2024-11-06T09:41:09.107Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/06/us/politics/presidential-election-2024-red-shift.html",
+      "headline": "Early Results Show a Red Shift Across the U.S.",
+      "image": "https://nytimes.com/images/2024/11/06/multimedia/2024-11-06-press-red-shift-index/2024-11-06-press-red-shift-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2024-11-06T09:30:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
