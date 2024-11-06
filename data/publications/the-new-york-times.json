@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-11-06T18:23:44.088Z",
+  "lastUpdated": "2024-11-06T20:19:12.955Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/podcasts/serial-good-whale.html",
+      "headline": "A Good Whale",
+      "image": "https://nytimes.com/images/2024/10/15/podcasts/the-good-whale-promo-art/the-good-whale-promo-art-jumbo-v4.png",
+      "timestamp": "2024-11-06T20:01:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/06/world/trump-president-world.html",
+      "headline": "What a Trump Presidency Means for the World",
+      "image": "https://nytimes.com/images/2024/11/06/multimedia/2024-11-04-us-result-matters-intl-index/2024-11-04-us-result-matters-intl-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2024-11-06T19:59:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
