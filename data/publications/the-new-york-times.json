@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-06T09:41:09.107Z",
+  "lastUpdated": "2024-11-06T18:23:44.088Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/06/us/elections/abortion-ballot-results-laws-election.html",
+      "headline": "How Ballot Measures Will Change Abortion Access",
+      "image": "https://nytimes.com/images/2024/11/06/multimedia/2024-10-15-abortion-ballot-outcomes-index/2024-10-15-abortion-ballot-outcomes-index-videoSixteenByNine3000-v2.png",
+      "timestamp": "2024-11-06T17:48:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
