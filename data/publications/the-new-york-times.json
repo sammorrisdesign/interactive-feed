@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-05T20:19:15.022Z",
+  "lastUpdated": "2024-11-06T01:18:37.533Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/05/us/elections/results-president-forecast-needle.html",
+      "headline": "Live Presidential Forecast",
+      "image": "https://static01.nyt.com/images/2024/11/06/multimedia/eln-POST-2024-11-05-model-overview-P-facf28/eln-POST-2024-11-05-model-overview-P-facf28-facebookJumbo-v2.jpg",
+      "timestamp": "2024-11-06T01:02:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
