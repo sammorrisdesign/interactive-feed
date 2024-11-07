@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-07T09:18:31.415Z",
+  "lastUpdated": "2024-11-07T10:18:28.248Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/07/travel/things-to-do-san-francisco.html",
+      "headline": "36 Hours in San Francisco",
+      "image": "https://nytimes.com/images/2024/11/07/multimedia/36hours-sanfrancisco-03-vhlb/36hours-sanfrancisco-03-vhlb-mobileMasterAt3x-v4.jpg",
+      "timestamp": "2024-11-07T10:03:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
