@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-06T20:19:12.955Z",
+  "lastUpdated": "2024-11-07T04:20:53.953Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/06/us/elections/trump-america-red-shift-victory.html",
+      "headline": "How the Nation Swung Back to Trump in 2024",
+      "image": "https://nytimes.com/images/2024/11/06/multimedia/2024-11-06-demog-multi-shifts-index/2024-11-06-demog-multi-shifts-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2024-11-07T04:10:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
