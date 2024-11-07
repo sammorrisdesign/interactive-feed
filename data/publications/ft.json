@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-11-06T13:23:39.945Z",
+  "lastUpdated": "2024-11-07T05:16:48.760Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1bf29f6e-fcdf-462a-b257-d1690ff53825",
+      "headline": "Europe’s winter gas supplies at risk from market disruptions",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F73258e24-1da0-4967-b7fd-c6e9d4dc5f95.jpg?source=next-barrier-page",
+      "timestamp": "2024-11-07T05:00:46.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/42cd0c17-c7a0-4ff5-af8e-0f1e29829544",
+      "headline": "How Trump redrew the political map of America",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fcab99594-6f56-4401-bf68-b939e3fda12d.jpg?source=next-barrier-page",
+      "timestamp": "2024-11-07T05:00:46.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
