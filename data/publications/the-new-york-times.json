@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-07T10:18:28.248Z",
+  "lastUpdated": "2024-11-07T21:15:52.465Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/07/movies/clint-eastwood-squint.html",
+      "headline": "The Clint Squint",
+      "image": "https://nytimes.com/images/2024/11/07/arts/clint-squint-static/clint-squint-static-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-07T21:07:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
