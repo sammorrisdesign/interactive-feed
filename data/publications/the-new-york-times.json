@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-08T02:35:56.606Z",
+  "lastUpdated": "2024-11-08T18:23:20.784Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/08/us/politics/smith-jan-6-filing.html",
+      "headline": "Read the Special Counsel’s Filing",
+      "image": "https://nytimes.com/images/2024/11/08/doc-57a51c24-06cf-4884-80aa-a-promo/doc-57a51c24-06cf-4884-80aa-a-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-11-08T17:41:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
