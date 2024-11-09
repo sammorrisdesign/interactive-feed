@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-08T20:38:10.070Z",
+  "lastUpdated": "2024-11-09T01:17:12.383Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/08/nyregion/us-v-shakeri-et-al-complaint.html",
+      "headline": "Read the Trump Assassination Plot Criminal Complaint",
+      "image": "https://nytimes.com/images/2024/11/08/doc-599c64c4-cfa0-4300-a573-4-promo/doc-599c64c4-cfa0-4300-a573-4-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-11-08T23:55:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
