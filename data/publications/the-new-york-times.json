@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-10T16:40:43.576Z",
+  "lastUpdated": "2024-11-10T18:40:41.255Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/10/world/americas/quake-tracker-cuba.html",
+      "headline": "Maps: Strong Quakes Strike Near Cuba",
+      "image": "https://nytimes.com/images/2024/11/10/world/10wea-quake-tracker-caribbean-sea-nytb4qgx-index/10wea-quake-tracker-caribbean-sea-nytb4qgx-index-videoSixteenByNine3000-v15.jpg",
+      "timestamp": "2024-11-10T16:40:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
