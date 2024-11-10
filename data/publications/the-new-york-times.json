@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-09T01:17:12.383Z",
+  "lastUpdated": "2024-11-10T16:40:43.576Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/10/world/10wea-quake-tracker-caribbean-sea-nytb4qgx.html",
+      "headline": "Map: 5.9-Magnitude Earthquake Strikes Near Cuba",
+      "image": "https://nytimes.com/images/2024/11/10/world/10wea-quake-tracker-caribbean-sea-nytb4qgx-index/10wea-quake-tracker-caribbean-sea-nytb4qgx-index-videoSixteenByNine3000-v7.jpg",
+      "timestamp": "2024-11-10T16:40:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
