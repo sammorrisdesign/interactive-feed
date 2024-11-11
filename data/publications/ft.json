@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-11-11T05:18:05.559Z",
+  "lastUpdated": "2024-11-11T12:34:50.070Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/35daf515-71bf-4de0-bc79-959a2d93ba71",
+      "headline": "Was it inflation that swung it for Trump?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F10ddc667-02ce-4721-b2bb-c7fcedb2211a.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2024-11-11T11:36:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
