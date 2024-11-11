@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2024-11-01T18:25:41.274Z",
+  "lastUpdated": "2024-11-11T13:39:15.343Z",
   "articles": [
-
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/us-2024-election/results/president",
+      "headline": "Live results of the US presidential election",
+      "image": "https://www.economist.com/interactive/us-2024-election/results/president/promo.jpg",
+      "timestamp": null
+    },
     {
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
