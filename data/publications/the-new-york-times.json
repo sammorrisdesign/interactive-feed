@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-10T18:40:41.255Z",
+  "lastUpdated": "2024-11-11T10:19:12.434Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/11/realestate/Real-Estate-Closing-Quiz.html",
+      "headline": "Do You Know What It Takes to Close on a New Home? Take Our Quiz.",
+      "image": "https://nytimes.com/images/2024/11/11/realestate/11BuyingGuide5-TopArt/11BuyingGuide5-TopArt-mediumSquareAt3X.jpg",
+      "timestamp": "2024-11-11T10:03:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
