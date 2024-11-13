@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-12T23:37:16.155Z",
+  "lastUpdated": "2024-11-13T06:25:01.078Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/13/opinion/focusgroup-young-undecided-voters.html",
+      "headline": "We Spoke With 13 Young Undecided Americans for Months. Here’s How They Voted.",
+      "image": "https://nytimes.com/images/2024/11/13/opinion/13focusgroup-promo/13focusgroup-promo-superJumbo.jpg",
+      "timestamp": "2024-11-13T06:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
