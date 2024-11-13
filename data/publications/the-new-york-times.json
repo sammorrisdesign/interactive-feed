@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-13T06:25:01.078Z",
+  "lastUpdated": "2024-11-13T10:18:48.368Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/13/climate/cop-climate-summit-attendance.html",
+      "headline": "This Is 29 Years of International Climate Summits, Visualized",
+      "image": "https://nytimes.com/images/2024/11/12/multimedia/2024-10-22-cop-attendees-index/2024-10-22-cop-attendees-index-videoSixteenByNine3000-v2.png",
+      "timestamp": "2024-11-13T10:04:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
