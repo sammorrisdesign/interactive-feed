@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-14T10:19:13.231Z",
+  "lastUpdated": "2024-11-14T18:45:19.722Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/14/well/mind/crying-quiz-tears.html",
+      "headline": "What Kind of Crier Are You?",
+      "image": "https://nytimes.com/images/2024/11/06/well/WELL-TEARS-QUIZ-topart/WELL-TEARS-QUIZ-topart-horizontalMediumAt2X-v7.png",
+      "timestamp": "2024-11-14T18:32:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
