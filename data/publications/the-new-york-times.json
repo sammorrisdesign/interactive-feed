@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-11-14T05:17:21.226Z",
+  "lastUpdated": "2024-11-14T10:19:13.231Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/14/realestate/boston-charlestown-home-sale.html",
+      "headline": "Searching for a ‘Forever Home’ in Boston, a Family Played the Long Game",
+      "image": "https://nytimes.com/images/2024/11/14/multimedia/14Hunt-Boston-gpwc/14Hunt-Boston-gpwc-mobileMasterAt3x.jpg",
+      "timestamp": "2024-11-14T10:07:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/14/travel/things-to-do-atlanta.html",
+      "headline": "36 Hours in Atlanta",
+      "image": "https://nytimes.com/images/2024/11/14/multimedia/36-hours-atlanta-02-kwtj/36-hours-atlanta-02-kwtj-horizontalMediumAt2X-v8.jpg",
+      "timestamp": "2024-11-14T10:07:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
