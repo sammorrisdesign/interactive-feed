@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-11-11T04:21:15.444Z",
+  "lastUpdated": "2024-11-14T04:42:44.508Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/nordkorea-baut-neue-graeben-an-der-grenze-zu-suedkorea-ld.1857312",
+      "headline": "Nordkorea baut neue Gräben an der Grenze zu Südkorea",
+      "image": "https://img.nzz.ch/2024/11/13/9a3940f8-2bc0-455b-9071-25f084beb186.jpeg?width=1194&height=672&fit=bounds&quality=75&auto=webp&crop=1194,672,x0,y62&wmark=nzz",
+      "timestamp": "2024-11-14T04:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "url": "https://www.nzz.ch/visuals/aktuell/datenleck-bei-destatis-prorussische-hacker-erbeuten-dokumente-ueber-deutsche-unternehmen-ld.1857259",
+      "headline": "Datenleck bei Destatis: Prorussische Hacker erbeuten Dokumente über deutsche Unternehmen",
+      "image": "https://img.nzz.ch/2024/11/13/a6dc15b1-3e70-4ede-9e0b-cf4d63af8d36.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8256,4644,x0,y781&wmark=nzz",
+      "timestamp": "2024-11-14T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
