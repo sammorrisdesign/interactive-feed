@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-15T14:41:18.793Z",
+  "lastUpdated": "2024-11-15T19:37:39.407Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/15/magazine/pennsylvania-luzerne-county-trump.html",
+      "headline": "Becoming Trump Country",
+      "image": "https://nytimes.com/images/2024/11/24/magazine/24mag-election16/24mag-election16-horizontalMediumAt2X-v3.jpg",
+      "timestamp": "2024-11-15T19:19:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
