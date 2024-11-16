@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/sammorrisdesign/interactive-feed#readme",
   "dependencies": {
-    "@atproto/api": "^0.3.8",
+    "@atproto/api": "^0.13.16",
     "cheerio": "^1.0.0-rc.12",
     "dayjs": "^1.11.9",
     "fast-xml-parser": "^4.0.8",

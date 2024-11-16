@@ -1,4 +1,5 @@
 const { XMLParser } = require('fast-xml-parser');
+const { BskyAgent } = require('@atproto/api');
 const cheerio = require('cheerio');
 
 const { Article } = require("./article");
@@ -170,7 +171,6 @@ const fetchers = {
         articles = data.map(article => new Article({
           publication: feed.publication,
           twitterHandle: feed.twitterHandle,
-
           blueSkyHandle: feed.blueSkyHandle,
           url: article.link,
           headline: article.title,
@@ -186,7 +186,6 @@ const fetchers = {
         articles = data.map(article => new Article({
           publication: feed.publication,
           twitterHandle: feed.twitterHandle,
-
           blueSkyHandle: feed.blueSkyHandle,
           url: article.id,
           headline: article.title,
@@ -197,7 +196,6 @@ const fetchers = {
         articles = data.map(article => new Article({
           publication: feed.publication,
           twitterHandle: feed.twitterHandle,
-
           blueSkyHandle: feed.blueSkyHandle,
           url: article.loc,
           headline: article?.['news:news']?.['news:title'],
@@ -263,9 +261,64 @@ const fetchers = {
     } catch (e) {
       console.log(e);
     }
+  },
+
+  BlueSky: async(feed) => {
+    try {
+      const idResponse = await fetch(`https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=${feed.handle}`);
+      const idData = await idResponse.json();
+
+
+      const client = new BskyAgent({
+        service: 'https://bsky.social/'
+      });
+
+      const secrets = await utils.getSecrets();
+
+      await client.login({
+        identifier: secrets.bluesky.identifier,
+        password: secrets.bluesky.password
+      })
+
+      const { data } = await client.getAuthorFeed({
+        actor: idData.did,
+        filter: 'posts_and_author_threads',
+        limit: 30,
+      });
+
+      let articles = data.feed.filter(entry => entry.post?.embed?.external);
+      articles = articles.map(entry => {
+        const external = entry.post.embed.external;
+
+        return new Article({
+          publication: feed.publication,
+          twitterHandle: feed.twitterHandle,
+          blueSkyHandle: feed.blueSkyHandle,
+          url: external.uri,
+          headline: external.title,
+          image: external.thumb,
+          timestamp: entry.post.record.createdAt // this is when the link was shared, which isn't ideal
+        })
+      });
+
+      if (feed?.filters?.in) {
+        for (const key of Object.keys(feed.filters.in)) {
+          articles = articles.filter(article => article[key].includes(feed.filters.in[key]));
+        }
+      }
+
+      if (feed?.filters?.out) {
+        for (const key of Object.keys(feed.filters.out)) {
+          articles = articles.filter(article => !article[key].includes(feed.filters.out[key]))
+        }
+      }
+
+      return articles;
+    } catch(e) {
+      console.log(e);
+    }
   }
 }
-
 
 module.exports = {
   fetch: async(feed) => {

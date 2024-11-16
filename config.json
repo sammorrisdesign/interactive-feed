@@ -28,10 +28,32 @@
       }]
     },
     {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "washingtonpost.com",
+        "filters": {
+          "in": {
+            "url": "/interactive"
+          }
+        }
+      }]
+    },
+    {
       "publication": "CNN",
       "twitterHandle": "CNN",
       "blueSkyHandle": "cnn.com",
       "sources": [{
+        "type": "BlueSky",
+        "handle": "cnn.com",
+        "filters": {
+          "in": {
+            "url": "/interactive"
+          }
+        }
+      }, {
         "type": "XML",
         "format": "RSS",
         "path": "http://rss.cnn.com/rss/cnn_topstories.rss",
@@ -378,6 +400,58 @@
         "timestamp": "time",
         "timestampAttribute": "datetime",
         "image": "picture img"
+      }]
+    }, {
+      "publication": "San Francisco Chronicle",
+      "twitterHandle": "sfchronicle",
+      "blueSkyHandle": "sfchronicle.bsky.social",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "sfchronicle.bsky.social",
+        "filters": {
+          "in": {
+            "url": "projects"
+          }
+        }
+      }]
+    }, {
+      "publication": "Publico",
+      "twitterHandle": "publico_es",
+      "blueSkyHandle": "publico.bsky.social",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "publico.bsky.social",
+        "filters": {
+          "in": {
+            "url": "interactivos"
+          }
+        }
+      }]
+    }, {
+      "publication": "de Volkskrant",
+      "twitterHandle": "volkskrant",
+      "blueSkyHandle": "volkskrant.bsky.social",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "volkskrant.bsky.social",
+        "filters": {
+          "in": {
+            "url": "kijkverder"
+          }
+        }
+      }]
+    }, {
+      "publication": "Nature",
+      "twitterHandle": "Nature",
+      "blueSkyHandle": "natureportfolio.bsky.social",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "natureportfolio.bsky.social",
+        "filters": {
+          "in": {
+            "url": "/immersive"
+          }
+        }
       }]
     }
   ]
