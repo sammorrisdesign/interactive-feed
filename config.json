@@ -26,14 +26,6 @@
       }]
     },
     {
-      "publication": "The Washington Post",
-      "twitterHandle": "WashingtonPost",
-      "blueSkyHandle": "washingtonpost.com",
-      "sources": [{
-        "type": "WashingtonPost"
-      }]
-    },
-    {
       "publication": "CNN",
       "twitterHandle": "CNN",
       "sources": [{
