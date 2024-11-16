@@ -39,7 +39,17 @@ All are required fields.
 | `twitterHandle`   | `String` | An @-less Twitter handle for the publication or specific team   |
 | `sources`         | `Array`  | An array of source objects. See below for more information      |
 
-Sources can look different depending on the `type` - a required field in each source object. The `type` basically tells [`src/fetchers.js`](src/fetchers.js) how it should handle the rest of the information. Some publications, like The Guardian and New York Times have their own `type` which refer to publication specific APIs. The other two types are `XML` and `Website`.
+Sources can look different depending on the `type` - a required field in each source object. The `type` basically tells [`src/fetchers.js`](src/fetchers.js) how it should handle the rest of the information. Some publications, like The Guardian and New York Times have their own `type` which refer to publication specific APIs. The other types are `BlueSky`, `XML` and `Website`.
+
+### Source level options for `BlueSky`.
+Sources set to `"type": "BlueSky"` get articles from an BlueSky account.
+
+| Name          | Type     | Description                                                                                                                                           |
+| ------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `handle`      | `String` | The handle of the account you wish to scrape                                                                                                          |
+| `filters.in`  | `Object` | For Sitemaps only. Filter to keep articles by property/value pairs. For example: url must contain '/visuals' – the rest will be discarded             |
+| `filters.out` | `Object` | For Sitemaps only. Filter to exclude articles by property/value pairs. For example: headline should not contain "Week in"                             |
+
 
 ### Source level options for `XML`.
 Sources set to `"type": "XML"` get articles from an RSS feed or a Sitemap.
