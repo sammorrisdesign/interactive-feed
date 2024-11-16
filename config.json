@@ -191,7 +191,7 @@
         "path": "https://www.straitstimes.com/googlenews.xml",
         "filters": {
           "in": {
-            "url": "/multimedia/graphics"
+            "url": "/multimedia"
           }
         }
       }]
