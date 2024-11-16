@@ -58,6 +58,8 @@ const findNewArticles = async(data) => {
         }
 
         newArticlesFromFeed.push(article);
+      } else {
+        console.log(article.headline);
       }
     }
 
