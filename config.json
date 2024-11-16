@@ -213,7 +213,7 @@
         "path": "https://www.straitstimes.com/googlenews.xml",
         "filters": {
           "in": {
-            "url": "/multimedia"
+            "url": "/multimedia/graphics"
           }
         }
       }]
