@@ -5,7 +5,7 @@ You can follow it at [@InteractiveFeed](https://twitter.com/InteractiveFeed), or
 
 ## Requirements
 - Node v18 or above
-- NYT, Guardian, WashingtonPost, Philadelphia Inquirer, BlueSky, and Twitter credentials for `secrets.json` or the secret key.
+- NYT, Guardian, Philadelphia Inquirer, BlueSky, and Twitter credentials for `secrets.json` or the secret key.
 
 ## Installation
 Use `npm i` to get all dependecies.
@@ -15,7 +15,7 @@ If you know the secret key you can run `export KEY=<SECRET-KEY>` and then `npm r
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-Berliner Morgenpost, Boston Globe, Bloomberg, CNN, De Tijd, El Confidencial, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, NBC News,  NZZ, ProPublica, Reuters, South China Morning Post, Tagesspiegel, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Verge, and WSJ
+ABC News Australia, Berliner Morgenpost, Boston Globe, Bloomberg, CNN, De Tijd, El Confidencial, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, NBC News,  NZZ, ProPublica, Reuters, South China Morning Post, Sydney Morning Herald, Tagesspiegel, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Verge, and WSJ
 
 ## Missing Publications
 Not all publications have specific feeds or repeatable url structures to get the types of stories we're looking to share. While this isn't a complete list of what's missing, here's some major newsrooms that we don't have hooked up...

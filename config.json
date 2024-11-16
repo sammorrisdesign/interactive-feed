@@ -350,6 +350,35 @@
         "timestamp": ".entry-date",
         "timestampAttribute": "datetime"
       }]
+    },
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "sources": [{
+        "type": "Website",
+        "path": "https://www.abc.net.au/news/interactives",
+        "baseUrl": "https://www.abc.net.au",
+        "selector": "ul li > article",
+        "headline": "h3",
+        "url": "a[data-component='Link']",
+        "timestamp": "time",
+        "timestampAttribute": "datetime",
+        "image": "img[data-component='Image']"
+      }]
+    }, {
+      "publication": "Sydney Morning Herald",
+      "twitterHandle": "smh",
+      "sources": [{
+        "type": "Website",
+        "path": "https://www.smh.com.au/by/the-visual-stories-team-p53776",
+        "baseUrl": "https://www.smh.com.au",
+        "selector": "[data-pb-type='st']",
+        "headline": "h3[data-pb-type='hl']",
+        "url": "a[data-testid='article-link']",
+        "timestamp": "time",
+        "timestampAttribute": "datetime",
+        "image": "picture img"
+      }]
     }
   ]
 }
