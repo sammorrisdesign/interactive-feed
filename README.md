@@ -15,12 +15,12 @@ If you know the secret key you can run `export KEY=<SECRET-KEY>` and then `npm r
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-ABC News Australia, Berliner Morgenpost, Boston Globe, Bloomberg, CNN, de Volkskrand, De Tijd, El Confidencial, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, Nature, NBC News, NZZ, ProPublica, Publico, Reuters, San Francisco Chronicle, South China Morning Post, Sydney Morning Herald, Tagesspiegel, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Washington Post, The Verge, and WSJ
+ABC News Australia, Berliner Morgenpost, Boston Globe, Bloomberg, CNN, de Volkskrand, De Tijd, El Confidencial, ESPN, FiveThirtyEight, FT, Kontinentalist, LA Times, Le Monde, Nature, NBC News, NZZ, ProPublica, Publico, Reuters, San Francisco Chronicle, South China Morning Post, Seattle Times, Sydney Morning Herald, Tagesspiegel, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Washington Post, The Verge, and WSJ
 
 ## Missing Publications
 Not all publications have specific feeds or repeatable url structures to get the types of stories we're looking to share. While this isn't a complete list of what's missing, here's some major newsrooms that we don't have hooked up...
 
-Al Jazeera, Atlanta Journal Constitution, Associated Press, Bayerischer Rundfunk, BBC News, CBC, Chicago Tribune, El Diario, Helsingin Sanomat, Le Monde, Le Nacion, Insider, Marshall Project, Minnepolis Star Tribune, Miami Herald, National Geographic, Politico, Radio Canada, SB Nation, Seattle Times, SRF, Süddeutsche Zeitung, Tampa Bay Times, The Atlantic, The Globe and Mail, The New Yorker, The Times of London, Time Magazine, Toronto Star, Vox, Zeit
+Al Jazeera, Atlanta Journal Constitution, Associated Press, Bayerischer Rundfunk, BBC News, CBC, Chicago Tribune, El Diario, Helsingin Sanomat, Le Nacion, Insider, Marshall Project, Minnepolis Star Tribune, Miami Herald, National Geographic, Politico, Radio Canada, SB Nation, SRF, Süddeutsche Zeitung, Tampa Bay Times, The Atlantic, The Globe and Mail, The New Yorker, The Times of London, Time Magazine, Toronto Star, Vox, Zeit
 
 There are some publications that used to be featured but changes to the Twitter API, along with a lack of an alternative source, means they're not longer included. They are: Axios, Commonwealth Magazine, El País, La Vanguardia, Les Échos, NPR, and USA Today.
 

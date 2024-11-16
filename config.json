@@ -453,6 +453,19 @@
           }
         }
       }]
+    },
+    {
+      "publication": "Seattle Times",
+      "twitterHandle": "seattletimes",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "seattletimes-rss.bsky.social",
+        "filters": {
+          "in": {
+            "url": "projects."
+          }
+        }
+      }]
     }
   ]
 }
