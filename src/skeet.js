@@ -47,7 +47,7 @@ const newArticles = async (articles) => {
     });
 
     for (let article of articles) {
-      let skeet = `New on ${article.blueskyHandle ? "@" + article.blueskyHandle : article.publication} ${article.headline ? `: “${article.headline}”` : ""} ${article.url}`;
+      let skeet = `New on ${article.blueskyHandle ? "@" + article.blueskyHandle : article.publication} ${article.headline ? `: “${article.headline}”` : ""}`;
 
       const richTextSkeet = new RichText({text: skeet});
       await richTextSkeet.detectFacets(client);
