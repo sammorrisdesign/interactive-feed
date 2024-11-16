@@ -11,6 +11,7 @@
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
+      "blueSkyHandle": "puddingviz.bsky.social",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -21,6 +22,7 @@
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
       "sources": [{
         "type": "TheGuardianAPI"
       }]
@@ -28,6 +30,7 @@
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
+      "blueSkyHandle": "cnn.com",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -88,6 +91,7 @@
     {
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",
+      "blueSkyHandle": "inquirer.com",
       "sources": [{
         "type": "PhiladelphiaInquirerAPI"
       }]
@@ -166,6 +170,7 @@
     {
       "publication": "Le Monde",
       "twitterHandle": "lemondefr",
+      "blueSkyHandle": "lemonde.fr",
       "sources": [{
         "type": "XML",
         "format": "RSS",
@@ -230,6 +235,7 @@
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
       "sources": [{
         "type": "XML",
         "format": "Sitemap",
@@ -244,6 +250,7 @@
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
       "sources": [{
         "type": "XML",
         "format": "Sitemap",
@@ -310,6 +317,7 @@
     {
       "publication": "Tagesspiegel",
       "twitterHandle": "BerlinDigital",
+      "blueSkyHandle": "tagesspiegel.de",
       "sources": [{
         "type": "Website",
         "path": "https://interaktiv.tagesspiegel.de",
@@ -321,6 +329,7 @@
     {
       "publication": "WSJ",
       "twitterHandle": "WSJGraphics",
+      "blueSkyHandle": "wsj.com",
       "sources": [{
         "type": "Website",
         "path": "https://www.wsj.com/search?query=gfx-standalone",
@@ -331,6 +340,7 @@
     {
       "publication": "The City",
       "twitterHandle": "thecityny",
+      "blueSkyHandle": "thecity.bsky.social",
       "sources": [{
         "type": "Website",
         "path": "https://www.thecity.nyc/category/interactive/",
