@@ -102,7 +102,7 @@ const fetchers = {
   PhiladelphiaInquirerAPI: async(feed) => {
     const secrets = await utils.getSecrets();
     if (secrets) {
-      const response = await fetch(`${secrets.inquirer.baseUrl}/content/v4/search/published?website=philly-media-network&q=type:story AND (taxonomy.tags.text:"interactive-bespoke")&size=10&_sourceInclude="_id,headlines.basic,display_date,canonical_url,promo_items,canonical_website"&sort=display_date:desc`, {
+      const response = await fetch(`${secrets.inquirer.baseUrl}/content/v4/search/published?website=philly-media-network&q=type:story AND (taxonomy.tags.text:"interactive-bespoke")&size=10&_sourceInclude="_id,headlines,display_date,canonical_url,promo_items,canonical_website"&sort=display_date:desc`, {
         'method': 'GET',
         'headers': {
           'Authorization': `Bearer ${secrets.inquirer.bearerToken}`,
@@ -118,7 +118,7 @@ const fetchers = {
         twitterHandle: feed.twitterHandle,
         blueSkyHandle: feed.blueSkyHandle,
         url: 'https://inquirer.com' + article.canonical_url,
-        headline: article.headlines.basic,
+        headline: article.headlines.meta_title !== '' ? article.headlines.meta_title : article.headlines.basic,
         image: article?.promo_items?.basic?.url,
         timestamp: article.display_date
       }));
