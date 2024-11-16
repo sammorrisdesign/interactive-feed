@@ -241,6 +241,8 @@ const fetchers = {
           timestamp = utils.getTimeStamp(timestamp, feed.timestampFormat);
         }
 
+        const image = feed.image ? $(article).find(feed.image).attr('src') : null;
+
         let url = feed.url ? $(article).find(feed.url).attr('href') : $(article).attr('href');
         url = feed.baseUrl ? feed.baseUrl + url : url;
 
@@ -252,7 +254,7 @@ const fetchers = {
             blueSkyHandle: feed.blueSkyHandle,
             url: url,
             headline: $(article).find(feed.headline).text(),
-            image: null,
+            image: image || null,
             timestamp: timestamp
           })
         }

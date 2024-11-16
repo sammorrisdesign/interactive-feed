@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2024-09-03T13:22:12.211Z",
+  "lastUpdated": "2024-11-16T18:48:16.845Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/india/how-hoax-bomb-threats-india-flights-have-skyrocketed-2024-11-12/",
+      "headline": "How hoax bomb threats on India flights have skyrocketed",
+      "image": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/DEXEWRCU5BCFHD4BPXHCJ5RFWY.jpg",
+      "timestamp": "2024-11-12T05:00:00.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/business/energy/us-solar-tariffs-cant-stop-chinese-firms-2024-11-04/",
+      "headline": "US solar tariffs can’t stop Chinese firms",
+      "timestamp": "2024-11-04T05:00:00.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/us/elections/where-harris-trump-stand-key-issues-2024-10-31/",
+      "headline": "Where Harris and Trump stand on key issues",
+      "timestamp": "2024-10-31T04:00:00.000Z"
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",

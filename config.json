@@ -148,10 +148,13 @@
       "sources": [{
         "type": "Website",
         "path": "https://www.reuters.com/graphics/",
-        "selector": ".article-block.articles article div:not(.hero-image) a",
-        "headline": "h2, h3",
-        "timestamp": "small",
-        "timestampFormat": ["MMM. D, YYYY", "MMM D, YYYY", "MMMM D, YYYY"]
+        "selector": "main > section > ul > li",
+        "headline": "span[data-testid='TitleHeading']",
+        "url": "a[data-testid='MediaImageLink']",
+        "baseUrl": "https://www.reuters.com",
+        "timestamp": "time",
+        "timestampFormat": ["MMM. D, YYYY", "MMM D, YYYY", "MMMM D, YYYY"],
+        "image": "img"
       }]
     },
     {
