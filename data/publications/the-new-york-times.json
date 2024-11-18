@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-11-18T13:44:36.657Z",
+  "lastUpdated": "2024-11-18T16:47:35.952Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/18/us/elections/results-north-carolina-supreme-court.html",
+      "headline": "North Carolina State Supreme Court Results",
+      "image": "https://nytimes.com/images/2024/11/18/multimedia/eln-POST-2024-11-05-state-nc-1ec40c/eln-POST-2024-11-05-state-nc-1ec40c-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-18T16:38:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/18/books/review/romantic-literary-couples.html",
+      "headline": "How Well Do You Know These Memorable Couples of Literature?",
+      "image": "https://nytimes.com/images/2024/11/18/books/review/18Quiz-COUPLES/18Quiz-COUPLES-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-18T16:30:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
