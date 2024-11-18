@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2024-11-16T13:22:34.696Z",
+  "lastUpdated": "2024-11-18T13:44:37.045Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2024/nov/18/when-the-water-subsided-i-saw-our-house-was-gone-this-is-climate-breakdown",
+      "headline": "‘When the water subsided, I saw our house was gone’ – This is climate breakdown",
+      "image": "https://i.guim.co.uk/img/media/72265d947fca9d61486f3439e60898b1efd0876e/842_165_4946_2969/master/4946.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29866082d17170db6bb63a59da35a715",
+      "timestamp": "2024-11-18T12:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2024/nov/15/there-are-days-when-the-school-closes-because-children-dont-have-water-to-drink-this-is-climate-breakdown",
+      "headline": "‘There are days when the school closes because children don’t have water to drink’ – This is climate breakdown",
+      "image": "https://i.guim.co.uk/img/media/48139c59cbcfe5e2c81301b6d1890f33b368ebad/120_297_5669_3403/master/5669.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=141ad46764ccbb2d3e74e35f9f40964a",
+      "timestamp": "2024-11-15T12:00:10.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",

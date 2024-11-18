@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-15T20:19:44.784Z",
+  "lastUpdated": "2024-11-18T13:44:36.657Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/18/books/review/charles-burns-final-cut.html",
+      "headline": "How a Gen X Graphic Novelist Reinvented the Romance Comic",
+      "image": "https://nytimes.com/images/2024/11/13/arts/13charles-burns-promo/13charles-burns-promo-mediumSquareAt3X.jpg",
+      "timestamp": "2024-11-18T10:02:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
