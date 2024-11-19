@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-18T16:47:35.952Z",
+  "lastUpdated": "2024-11-19T09:19:53.607Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/19/climate/china-emissions-fossil-fuels-climate.html",
+      "headline": "China’s Soaring Emissions Are Upending Climate Politics",
+      "image": "https://nytimes.com/images/2024/11/18/multimedia/2024-11-14-cop29-historical-emissions-index/2024-11-14-cop29-historical-emissions-index-videoSixteenByNine3000-v5.png",
+      "timestamp": "2024-11-19T09:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
