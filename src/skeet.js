@@ -77,7 +77,7 @@ const newArticles = async (articles) => {
         });
 
         const postId = post.uri.split('/').at(-1);
-        console.log(`Successfully skeeted: https://staging.bsky.app/profile/interactives.bsky.social/post/${postId}`);
+        console.log(`Successfully skeeted: https://bsky.app/profile/interactives.bsky.social/post/${postId}`);
       } catch (err) {
         console.log(err);
       }
