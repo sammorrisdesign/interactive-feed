@@ -67,18 +67,20 @@ const newArticles = async (articles) => {
         embed.external.thumb = imageAsBlob; 
       }
 
-      client.post({
-        $type: 'app.bsky.feed.post',
-        text: richTextSkeet.text,
-        facets: richTextSkeet.facets,
-        createdAt: new Date().toISOString(),
-        embed: embed
-      }).then(val => {
-        const postId = val.uri.split('/').at(-1);
-        console.log(`Successfully skeeted: https://staging.bsky.app/profile/interactives.bsky.social/post/${postId}`)
-      }).catch(err => {
+      try {
+        const post = await client.post({
+          $type: 'app.bsky.feed.post',
+          text: richTextSkeet.text,
+          facets: richTextSkeet.facets,
+          createdAt: new Date().toISOString(),
+          embed: embed
+        });
+
+        const postId = post.uri.split('/').at(-1);
+        console.log(`Successfully skeeted: https://staging.bsky.app/profile/interactives.bsky.social/post/${postId}`);
+      } catch (err) {
         console.log(err);
-      })
+      }
     }
   } else {
     console.log("Publishing is turned off, please use 'npm run start --publish=true'")
