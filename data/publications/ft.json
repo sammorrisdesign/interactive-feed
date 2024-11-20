@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-11-18T13:44:37.362Z",
+  "lastUpdated": "2024-11-20T05:18:04.318Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/ai-robots",
+      "headline": "How AI is powering a robotics revolution",
+      "timestamp": "2024-11-20T05:10:13.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
