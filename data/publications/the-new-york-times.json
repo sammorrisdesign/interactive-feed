@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-19T22:41:10.973Z",
+  "lastUpdated": "2024-11-20T03:29:04.677Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/19/us/politics/voter-turnout-election-trump-harris.html",
+      "headline": "Key to Trump’s Win: Heavy Losses for Harris Across the Map",
+      "image": "https://nytimes.com/images/2024/11/19/multimedia/2024-11-06-turnout-analysis-index/2024-11-06-turnout-analysis-index-videoSixteenByNine3000-v4.jpg",
+      "timestamp": "2024-11-20T02:54:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
