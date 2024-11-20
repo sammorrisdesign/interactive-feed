@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2024-11-16T18:48:16.845Z",
+  "lastUpdated": "2024-11-20T14:17:02.076Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/graphics/monkeypox-tracking-infections-around-world-2022-08-10/",
+      "headline": "Monkeypox: Tracking infections around the world",
+      "timestamp": "2022-08-10T00:00:00.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/us/graphics-telehealth-restrictions-medical-abortions-2022-06-24/",
+      "headline": "Graphics: Telehealth restrictions for medical abortions",
+      "timestamp": "2022-06-24T00:00:00.000Z"
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",
