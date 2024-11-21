@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-11-21T08:24:08.192Z",
+  "lastUpdated": "2024-11-21T10:20:23.368Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/21/realestate/washington-dc-condo-sale.html",
+      "headline": "She Took Her $300,000 Budget to the Washington, D.C., Area. Could She Afford Something in the City?",
+      "image": "https://nytimes.com/images/2024/11/21/multimedia/hunt-licari-hqgm/hunt-licari-hqgm-mobileMasterAt3x.jpg",
+      "timestamp": "2024-11-21T10:06:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/21/travel/things-to-do-tucson-arizona.html",
+      "headline": "36 Hours in Tucson, Ariz.",
+      "image": "https://nytimes.com/images/2024/11/20/travel/36hours-tucson/36hours-tucson-horizontalMediumAt2X-v5.jpg",
+      "timestamp": "2024-11-21T10:03:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
