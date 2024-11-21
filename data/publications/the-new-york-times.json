@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-21T02:43:34.468Z",
+  "lastUpdated": "2024-11-21T08:24:08.192Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/21/us/21xp-texas-doc.html",
+      "headline": "Read the Verdict in the Civil Case Against Amber Guyger",
+      "image": "https://nytimes.com/images/2024/11/21/doc-178f03c8-a603-4ccc-96f7-1-promo/doc-178f03c8-a603-4ccc-96f7-1-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-11-21T08:13:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
