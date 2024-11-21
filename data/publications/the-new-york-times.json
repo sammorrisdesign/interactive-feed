@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-20T03:29:04.677Z",
+  "lastUpdated": "2024-11-21T02:43:34.468Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/20/nyregion/connecticut-earthquake.html",
+      "headline": "Map: 2.3-Magnitude Earthquake Strikes Connecticut",
+      "image": "https://nytimes.com/images/2024/11/21/world/20wea-quake-tracker-connecticut-nytd0vcx-index/20wea-quake-tracker-connecticut-nytd0vcx-index-videoSixteenByNine3000-v20.jpg",
+      "timestamp": "2024-11-21T01:27:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
