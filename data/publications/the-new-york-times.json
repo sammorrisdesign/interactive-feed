@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-22T10:19:51.291Z",
+  "lastUpdated": "2024-11-22T20:20:51.542Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/22/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Nov. 23, 2024",
+      "image": "https://nytimes.com/images/2024/11/01/upshot/flashback-promo-20241123/flashback-promo-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2024-11-22T20:18:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
