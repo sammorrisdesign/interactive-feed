@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-22T21:17:09.771Z",
+  "lastUpdated": "2024-11-23T08:21:30.062Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/23/nyregion/nyc-outdoor-dining-sheds-removal.html",
+      "headline": "Dining Sheds Changed the N.Y.C. Food Scene. Now Watch Them Disappear.",
+      "image": "https://nytimes.com/images/2024/11/22/nyregion/00ny-outdoor-dining-promo/00ny-outdoor-dining-promo-superJumbo.jpg",
+      "timestamp": "2024-11-23T08:00:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
