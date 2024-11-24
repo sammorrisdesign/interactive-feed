@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-11-24T10:40:36.294Z",
+  "lastUpdated": "2024-11-24T13:39:02.996Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/abstimmungen-zuerich-november-2024-die-resultate-ld.1858686",
+      "headline": "Die Resultate in der Übersicht: Karten und Grafiken zu den Abstimmungen in Zürich",
+      "image": "https://img.nzz.ch/2024/11/22/60399bf0-5915-478d-9708-a86ab164751b.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y228&wmark=nzz",
+      "timestamp": "2024-11-24T13:36:50.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
