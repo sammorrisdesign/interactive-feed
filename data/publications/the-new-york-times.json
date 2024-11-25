@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-23T08:21:30.062Z",
+  "lastUpdated": "2024-11-25T14:42:34.895Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/25/books/review/novels-title-search.html",
+      "headline": "Can You Find The 13 Hidden Book Titles in This Text Puzzle?",
+      "image": "https://nytimes.com/images/2024/11/25/books/review/25Quiz-AUGHTS/25Quiz-AUGHTS-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-25T14:30:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
