@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-26T01:25:19.343Z",
+  "lastUpdated": "2024-11-26T13:28:18.937Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/26/books/notable-books.html",
+      "headline": "100 Notable Books of 2024",
+      "image": "https://nytimes.com/images/2024/11/26/books/review/26NotableBooks-PROMO_1-1/26NotableBooks-PROMO_1-1-superJumbo.jpg",
+      "timestamp": "2024-11-26T12:54:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
