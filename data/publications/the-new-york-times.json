@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-11-26T13:28:18.937Z",
+  "lastUpdated": "2024-11-26T19:15:02.549Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/26/us/elections/results-mississippi-runoff.html",
+      "headline": "Mississippi Runoff Election Results",
+      "image": "https://nytimes.com/images/2024/11/26/multimedia/eln-PRE-2024-11-26-state-ms-db5cdd/eln-PRE-2024-11-26-state-ms-db5cdd-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-26T19:13:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/26/us/elections/results-mississippi-supreme-court-district-1-position-3.html",
+      "headline": "Mississippi Supreme Court District 1, Position 3 Runoff Election Results",
+      "image": "https://nytimes.com/images/2024/11/26/multimedia/eln-PRE-2024-11-26-state-ms-54ada5/eln-PRE-2024-11-26-state-ms-54ada5-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-11-26T19:08:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
