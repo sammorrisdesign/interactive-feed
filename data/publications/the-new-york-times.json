@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-25T14:42:34.895Z",
+  "lastUpdated": "2024-11-26T01:25:19.343Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/25/dining/celebrity-thanksgiving-2024.html",
+      "headline": "We’re Talking Thanksgiving With Martha Stewart, David Chang, Gayle King, Gwyneth Paltrow and More",
+      "image": "https://nytimes.com/images/2024/11/25/dining/celebrity-thanksgiving-2024-still/celebrity-thanksgiving-2024-still-horizontalMediumAt2X-v5.jpg",
+      "timestamp": "2024-11-25T23:57:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
