@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-11-27T06:27:31.496Z",
+  "lastUpdated": "2024-11-27T16:47:38.005Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/journey-into-sleep-2023-04-07/",
+      "headline": "Journey into sleep",
+      "image": "https://www.reuters.com/resizer/v2/https%3A%2F%2Fcloudfront-us-east-2.images.arcpublishing.com%2Freuters%2FKXTJDFKDUVDYBO5AN5NZ6HH3S4.png?auth=6312527da42e7deb5e78be25a79e0144b271cdd8e168ecb1464ed7d267551b09&width=1200&quality=80",
+      "timestamp": "2023-04-07T00:00:00.000Z"
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",
