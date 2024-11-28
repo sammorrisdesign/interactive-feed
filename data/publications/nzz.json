@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-11-24T13:39:02.996Z",
+  "lastUpdated": "2024-11-28T04:45:04.458Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/von-manchen-doerfern-in-suedlibanon-bleiben-nur-truemmerhaufen-uebrig-ld.1859371",
+      "headline": "Von manchen Dörfern in Südlibanon bleiben nur Trümmerhaufen übrig",
+      "image": "https://img.nzz.ch/2024/11/27/0f4c48a7-bc16-483b-9c03-1cf802cc4ca9.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2024-11-28T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
