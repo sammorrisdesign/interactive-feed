@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-11-27T18:26:05.381Z",
+  "lastUpdated": "2024-11-28T10:20:26.211Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/28/realestate/brooklyn-park-slope-clinton-hill-home-sale.html",
+      "headline": "In Brooklyn With $800,000 and Designs on a One-Bedroom. Which Option Was the Right Fit?",
+      "image": "https://nytimes.com/images/2024/11/28/multimedia/28Hunt-Kothari-01-mgkl/28Hunt-Kothari-01-mgkl-threeByTwoLargeAt2X.jpg",
+      "timestamp": "2024-11-28T10:05:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/28/travel/things-to-do-honolulu.html",
+      "headline": "36 Hours in Honolulu",
+      "image": "https://nytimes.com/images/2024/11/28/multimedia/28Hours-Honolulu-qcbw/28Hours-Honolulu-qcbw-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2024-11-28T10:02:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
