@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-11-28T10:20:26.211Z",
+  "lastUpdated": "2024-11-28T14:42:08.245Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/11/28/us/elections/precinct-city-maps.html",
+      "headline": "Maps Pinpoint Where Democrats Lost Ground Since 2020 in 11 Big Cities",
+      "image": "https://nytimes.com/images/2024/11/27/multimedia/2024-11-08-precinct-city-maps-index/2024-11-08-precinct-city-maps-index-videoSixteenByNine3000-v5.jpg",
+      "timestamp": "2024-11-28T14:26:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
