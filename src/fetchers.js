@@ -226,7 +226,9 @@ const fetchers = {
     try {
       const response = await fetch(feed.path);
       const html = await response.text();
-      const $ = cheerio.load(html);
+      const $ = cheerio.load(html, {
+        xmlMode: true
+      });
       let data = $(feed.selector);
 
       let articles = data.map((i, article) => {
