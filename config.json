@@ -130,9 +130,7 @@
       "publication": "South China Morning Post",
       "twitterHandle": "SCMPgraphics",
       "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.scmp.com/sitemap_infographics.xml"
+        "type": "SouthChinaMorningPost"
       }]
     },
     {

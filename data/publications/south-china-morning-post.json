@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2024-11-20T09:19:52.123Z",
+  "lastUpdated": "2024-11-30T15:05:50.838Z",
   "articles": [
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3286769/hk47sentence/index.html",
+      "headline": "Hong Kong 47 and their jail time after longest national security trial",
+      "image": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3286769/hk47sentence/img/cover.jpg",
+      "timestamp": "2024-11-21T05:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/news/china/article/3287008/china-weapon/",
+      "headline": "China’s top 5 weapons systems, from stealth fighters to anti-ballistic missiles",
+      "image": "https://multimedia.scmp.com/infographics/news/china/article/3287008/china-weapon/img/cover.jpg",
+      "timestamp": "2024-11-20T05:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3285210/monkeys-zoo/",
+      "headline": "Hong Kong zoo monkey deaths: here’s what we know",
+      "image": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3285210/monkeys-zoo/img/cover.jpg",
+      "timestamp": "2024-11-08T05:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/news/world/article/3283711/trump-harris-path/",
+      "headline": "America at crossroads: Harris’ and Trump’s paths to power collide",
+      "image": "https://multimedia.scmp.com/infographics/news/world/article/3283711/trump-harris-path/img/cover.jpg",
+      "timestamp": "2024-11-28T05:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/news/world/article/3282465/2024-electoral-polls/",
+      "headline": "Tracking the polls in the 2024 US race",
+      "image": "https://multimedia.scmp.com/infographics/news/world/article/3282465/2024-electoral-polls/img/cover.jpg",
+      "timestamp": "2024-11-16T05:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/news/world/article/3280814/aapi-voter-survey-2024/",
+      "headline": "Rise of Asian-American voters in US elections — a visual explainer",
+      "image": "https://multimedia.scmp.com/infographics/news/world/article/3280814/aapi-voter-survey-2024/img/cover.jpg",
+      "timestamp": "2024-11-03T04:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3280167/dennisstory/",
+      "headline": "In memory of Dennis Wong (1971-2024) Award-winning Post infographics designer",
+      "image": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3280167/dennisstory/img/cover.jpg",
+      "timestamp": "2024-11-30T05:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3275641/panda-tracker/",
+      "headline": "What are Hong Kong’s baby panda twins up to? Track their growth and daily activities",
+      "image": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3275641/panda-tracker/img/cover_new.jpg",
+      "timestamp": "2024-11-23T05:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/sport/article/3271976/hongkong-athletes-olympics-2024/index.html",
+      "headline": "Meet the 35 Hong Kong athletes heading to Paris",
+      "image": "https://multimedia.scmp.com/infographics/sport/article/3271976/hongkong-athletes-olympics-2024/social/socialbanner2.jpg",
+      "timestamp": "2024-11-27T05:00:00.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "url": "https://multimedia.scmp.com/infographics/sport/article/3271702/paris-2024-openning-ceremony/index.html",
+      "headline": "Paris Olympics: a visual guide to the historic opening ceremony on the Seine River",
+      "image": "https://multimedia.scmp.com/infographics/sport/article/3271702/paris-2024-openning-ceremony/img/cover.jpg",
+      "timestamp": "2024-11-26T05:00:00.000Z"
+    },
     {
       "publication": "South China Morning Post",
       "twitterHandle": "SCMPgraphics",

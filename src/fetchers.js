@@ -154,6 +154,28 @@ const fetchers = {
     }
   },
 
+  SouthChinaMorningPost: async(feed) => {
+    try {
+      const response = await fetch('https://interactive-static.scmp.com/sheet/graphics/arcade.json');
+      let data = await response.json();
+      let articles = data.entries.reverse();
+      articles = articles.slice(0, 10);
+      articles = articles.map(article => new Article({
+        publication: feed.publication,
+        twitterHandle: feed.twitterHandle,
+        blueSkyHandle: feed.blueSkyHandle,
+        url: article.url,
+        headline: article.title,
+        image: article.imageurl,
+        timestamp: utils.getTimeStamp(article.date, 'DD/MM/YYYY'),
+      }));
+
+      return articles;
+    } catch (e) {
+      console.log(e);
+    }
+  },
+
   XML: async(feed) => {
     try {
       const parser = new XMLParser();
@@ -269,7 +291,6 @@ const fetchers = {
     try {
       const idResponse = await fetch(`https://bsky.social/xrpc/com.atproto.identity.resolveHandle?handle=${feed.handle}`);
       const idData = await idResponse.json();
-
 
       const client = new BskyAgent({
         service: 'https://bsky.social/'
