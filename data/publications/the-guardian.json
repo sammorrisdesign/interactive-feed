@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-02T16:24:33.339Z",
+  "lastUpdated": "2024-12-02T17:16:55.477Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2024/dec/02/matt-mcgorry-long-covid",
+      "headline": "‘I was in denial about it’: actor Matt McGorry on having long Covid",
+      "image": "https://i.guim.co.uk/img/media/623cb9e590eab04e26a487d2131719418295d2cf/0_0_1500_900/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0de73d86bb11cf2955f19adfe09fbf02",
+      "timestamp": "2024-12-02T17:00:29.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
