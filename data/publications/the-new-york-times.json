@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-02T22:18:42.222Z",
+  "lastUpdated": "2024-12-03T10:21:29.625Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/03/us/politics/trump-cabinet-administration-picks.html",
+      "headline": "Project 2025, Mar-a-Lago and Fox News: What Connects Trump’s New Staff Picks",
+      "image": "https://nytimes.com/images/2024/12/02/multimedia/2024-11-26-trump-cabinet-connection-index/2024-11-26-trump-cabinet-connection-index-videoSixteenByNine3000-v6.jpg",
+      "timestamp": "2024-12-03T10:04:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

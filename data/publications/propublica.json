@@ -1,7 +1,15 @@
 {
-  "lastUpdated": "2024-11-01T18:25:41.284Z",
+  "lastUpdated": "2024-12-03T10:21:30.069Z",
   "articles": [
-
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/formaldehyde-cancer-risk-map",
+      "headline": "Check the Formaldehyde Cancer Risk in Your Neighborhood",
+      "image": "https://static.propublica.org/assets/formaldehyde-app/formaldehyde_risk_map_final_org.jpg",
+      "timestamp": "2024-12-03T10:05:00.000Z"
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
