@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-04T14:43:57.710Z",
+  "lastUpdated": "2024-12-04T20:20:58.977Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/04/us/jn-december-4-2024-letter.html",
+      "headline": "Read Representative Jerrold Nadler’s Letter",
+      "image": "https://nytimes.com/images/2024/12/04/doc-f2acfa4d-7135-4d47-bd19-4-promo/doc-f2acfa4d-7135-4d47-bd19-4-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-04T20:13:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
