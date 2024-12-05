@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-12-05T06:27:38.072Z",
+  "lastUpdated": "2024-12-05T10:20:56.536Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/05/realestate/sonoma-marin-county-california-home-sale.html",
+      "headline": "Two San Francisco Renters Fled the City for a Quieter Life. Would They Find It in Sonoma or Marin?",
+      "image": "https://nytimes.com/images/2024/12/05/multimedia/Hunt-Sonoma-01-mkwl/Hunt-Sonoma-01-mkwl-mobileMasterAt3x.jpg",
+      "timestamp": "2024-12-05T10:06:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/05/travel/things-to-do-dubai.html",
+      "headline": "36 Hours in Dubai",
+      "image": "https://nytimes.com/images/2024/12/05/multimedia/05Hours-Dubai-kflh/05Hours-Dubai-kflh-horizontalMediumAt2X-v6.jpg",
+      "timestamp": "2024-12-05T10:04:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
