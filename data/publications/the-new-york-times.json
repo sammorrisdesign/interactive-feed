@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-05T10:20:56.536Z",
+  "lastUpdated": "2024-12-05T19:38:05.381Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/05/us/quake-tracker-california.html",
+      "headline": "Map: 7.0-Magnitude Earthquake Shakes Northern California",
+      "image": "https://nytimes.com/images/2024/12/05/world/05wea-quake-tracker-north-pacific-ocean-nytac297-index/05wea-quake-tracker-north-pacific-ocean-nytac297-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2024-12-05T19:22:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
