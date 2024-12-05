@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-05T22:18:17.552Z",
+  "lastUpdated": "2024-12-05T23:39:16.322Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/05/nyregion/unitedhealthcare-brian-thompson-shooting-maps-photos.html",
+      "headline": "A Visual Timeline of the UnitedHealthcare C.E.O. Shooting",
+      "image": "https://nytimes.com/images/2024/12/05/multimedia/2024-12-05-uhc-ceo-shooting-index/2024-12-05-uhc-ceo-shooting-index-videoSixteenByNine3000-v4.jpg",
+      "timestamp": "2024-12-05T23:26:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
