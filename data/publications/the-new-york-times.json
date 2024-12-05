@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-05T01:27:46.710Z",
+  "lastUpdated": "2024-12-05T06:27:38.072Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/05/opinion/nuclear-weapons-space.html",
+      "headline": "The Warning",
+      "image": "https://nytimes.com/images/2024/12/04/multimedia/2024-10-25-space-nukes-index/2024-10-25-space-nukes-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2024-12-05T06:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
