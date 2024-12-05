@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-04T20:20:58.977Z",
+  "lastUpdated": "2024-12-05T01:27:46.710Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/04/us/memphis-police-justice-department-report.html",
+      "headline": "Read the Justice Department’s Report",
+      "image": "https://nytimes.com/images/2024/12/05/doc-53847ee8-f420-4483-a058-0-promo/doc-53847ee8-f420-4483-a058-0-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-05T00:32:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
