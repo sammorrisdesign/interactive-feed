@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-05T19:38:05.381Z",
+  "lastUpdated": "2024-12-05T22:18:17.552Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/05/well/eat/how-to-brush-teeth.html",
+      "headline": "Think You Know How to Brush Your Teeth?",
+      "image": "https://nytimes.com/images/2024/12/04/well/WELL-TOOTHBRUSHING-promo/WELL-TOOTHBRUSHING-promo-superJumbo.jpg",
+      "timestamp": "2024-12-05T22:08:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
