@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-05T23:39:16.322Z",
+  "lastUpdated": "2024-12-06T02:50:13.921Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/05/arts/design/notre-dame-reopens-paris.html",
+      "headline": "A Miracle: Notre-Dame’s Astonishing Rebirth From the Ashes",
+      "image": "https://nytimes.com/images/2024/12/05/arts/notre-dame-reopens-promo/notre-dame-reopens-promo-mobileMasterAt3x-v2.jpg",
+      "timestamp": "2024-12-06T01:31:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
