@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2024-12-04T19:17:19.899Z",
+  "lastUpdated": "2024-12-06T15:41:13.804Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/worlds-hunger-watchdog-warned-catastrophe-sudan-famine-struck-anyway-2024-12-05/",
+      "headline": "The world’s hunger watchdog warned of catastrophe in Sudan. Famine struck anyway.",
+      "image": "https://www.reuters.com/resizer/v2/GXDQWK4TMJGCNPFKCFSSOMFLP4.jpg?auth=d324765a07571cd87f7def1097ce933617b4a76c3d77893e2bf7943354a7f14a&width=1200&quality=80",
+      "timestamp": "2024-12-05T00:00:00.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/how-reuters-counted-dead-famine-stricken-sudan-2024-12-05/",
+      "headline": "How Reuters counted the dead in famine-stricken Sudan",
+      "image": "https://www.reuters.com/resizer/v2/7SCNAPI4VZA6JDG6DUYJCRP46A.jpg?auth=bd1ce2e592fd36c0096f904ead0f8c8492f9aeaf03a7ee70bdd233ac8c452f95&width=1200&quality=80",
+      "timestamp": "2024-12-05T00:00:00.000Z"
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",
