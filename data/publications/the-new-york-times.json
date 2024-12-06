@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-06T02:50:13.921Z",
+  "lastUpdated": "2024-12-06T10:20:28.951Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/06/world/middleeast/syria-war-maps-control.html",
+      "headline": "The War in Syria Has a New Map. Again.",
+      "image": "https://nytimes.com/images/2024/12/05/multimedia/2024-12-03-syria-historic-control-maps-index/2024-12-03-syria-historic-control-maps-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2024-12-06T10:00:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
