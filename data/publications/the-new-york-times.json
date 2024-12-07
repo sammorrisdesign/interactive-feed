@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2024-12-07T16:21:32.137Z",
+  "lastUpdated": "2024-12-07T20:19:11.477Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/07/us/elections/results-louisiana.html",
+      "headline": "Louisiana Constitutional Amendment Election Results",
+      "image": "https://nytimes.com/images/2024/12/07/multimedia/eln-PRE-2024-12-07-state-la-131058/eln-PRE-2024-12-07-state-la-131058-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-07T20:07:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/07/us/elections/results-louisiana-amendment-4-property-tax-sales-administration.html",
+      "headline": "Louisiana Amendment 4 Election Results: Property Tax Sales Administration",
+      "image": "https://nytimes.com/images/2024/12/07/multimedia/eln-PRE-2024-12-07-state-la-020673/eln-PRE-2024-12-07-state-la-020673-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-07T20:02:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/07/us/elections/results-louisiana-amendment-2-waiting-period-for-concurrence-on-appropriations.html",
+      "headline": "Louisiana Amendment 2 Election Results: Waiting Period for Concurrence on Appropriations",
+      "image": "https://nytimes.com/images/2024/12/07/multimedia/eln-PRE-2024-12-07-state-la-52d11c/eln-PRE-2024-12-07-state-la-52d11c-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-07T20:02:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/07/us/elections/results-louisiana-amendment-3-extend-sessions-for-appropriations.html",
+      "headline": "Louisiana Amendment 3 Election Results: Extend Sessions for Appropriations",
+      "image": "https://nytimes.com/images/2024/12/07/multimedia/eln-PRE-2024-12-07-state-la-00324a/eln-PRE-2024-12-07-state-la-00324a-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-07T20:02:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/07/us/elections/results-louisiana-amendment-1-expand-judiciary-commission.html",
+      "headline": "Louisiana Amendment 1 Election Results: Expand Judiciary Commission",
+      "image": "https://nytimes.com/images/2024/12/07/multimedia/eln-PRE-2024-12-07-state-la-605cec/eln-PRE-2024-12-07-state-la-605cec-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-07T20:02:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
