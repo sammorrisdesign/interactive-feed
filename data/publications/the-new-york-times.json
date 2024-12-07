@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-06T22:17:45.008Z",
+  "lastUpdated": "2024-12-07T16:21:32.137Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/07/world/asia/south-korea-protests-seoul-yoon.html",
+      "headline": "How Protesters Filled the Streets in South Korea’s Center of Power",
+      "image": "https://nytimes.com/images/2024/12/08/multimedia/2024-12-05-seoul-protests-index/2024-12-05-seoul-protests-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-12-07T16:01:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
