@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-12-09T21:39:13.374Z",
+  "lastUpdated": "2024-12-09T22:18:31.080Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/09/books/one-hundred-years-of-solitude-netflix-magical-realism.html",
+      "headline": "How Netflix Made Magic Look Real in ‘One Hundred Years of Solitude’",
+      "image": "https://nytimes.com/images/2024/12/04/multimedia/cienanos8-tvbc/cienanos8-tvbc-horizontalMediumAt2X-v3.jpg",
+      "timestamp": "2024-12-09T21:51:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/09/health/rfkltr.html",
+      "headline": "Read the Letter From Nobel Laureates Urging That Mr. Kennedy Not be Confirmed",
+      "image": "https://nytimes.com/images/2024/12/09/doc-93a0add3-d332-4124-88f0-a-promo/doc-93a0add3-d332-4124-88f0-a-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-09T21:39:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
