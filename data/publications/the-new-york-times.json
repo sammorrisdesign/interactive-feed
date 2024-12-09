@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-09T10:21:39.576Z",
+  "lastUpdated": "2024-12-09T15:20:35.302Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/09/books/review/winter-holiday-books.html",
+      "headline": "Do You Know These Winter Holidays and Popular Books of the Season?",
+      "image": "https://nytimes.com/images/2024/12/09/books/review/09Quiz-HOLIDAYS/09Quiz-HOLIDAYS-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-09T15:15:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
