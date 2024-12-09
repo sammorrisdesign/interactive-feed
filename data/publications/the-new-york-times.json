@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-07T20:19:11.477Z",
+  "lastUpdated": "2024-12-09T10:21:39.576Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/09/opinion/pregnant-women-homicide.html",
+      "headline": "The Killings of Young Mothers",
+      "image": "https://static01.nyt.com/images/2024/12/09/autossell/PAH_still/PAH_still-facebookJumbo.jpg",
+      "timestamp": "2024-12-09T10:02:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
