@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-10T01:36:48.280Z",
+  "lastUpdated": "2024-12-10T06:27:51.219Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/10/opinion/trump-voters-second-term-focus-group.html",
+      "headline": "These 14 Trump Voters See Him as a Little Extreme. Here’s Why They Like It.",
+      "image": "https://nytimes.com/images/2024/12/10/opinion/10focusgroup/10focusgroup-superJumbo.jpg",
+      "timestamp": "2024-12-10T06:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
