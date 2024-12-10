@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-09T22:18:31.080Z",
+  "lastUpdated": "2024-12-10T01:36:48.280Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/09/us/quake-tracker-nevada.html",
+      "headline": "Map: 5.8-Magnitude Earthquake Strikes Nevada",
+      "image": "https://nytimes.com/images/2024/12/09/world/09wea-quake-tracker-nevada-nyta80vc-index/09wea-quake-tracker-nevada-nyta80vc-index-videoSixteenByNine3000-v20.jpg",
+      "timestamp": "2024-12-09T23:48:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
