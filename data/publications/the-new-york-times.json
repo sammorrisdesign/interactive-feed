@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-11T15:42:03.615Z",
+  "lastUpdated": "2024-12-11T18:48:50.532Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/11/nyregion/alexander-indictment.html",
+      "headline": "Alexander Brothers Sex Trafficking Indictment",
+      "image": "https://nytimes.com/images/2024/12/11/doc-e8a1b683-42e0-4616-93f9-8-promo/doc-e8a1b683-42e0-4616-93f9-8-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-11T18:33:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
