@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-12T10:20:45.218Z",
+  "lastUpdated": "2024-12-12T13:28:50.035Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/12/realestate/bronx-dobbs-ferry-connecticut-home.html",
+      "headline": "She Invested in Her Future and Her Family. Which Property Would Work for Both?",
+      "image": "https://nytimes.com/images/2024/12/12/realestate/12Hunt-Jones-LEAD/12Hunt-Jones-LEAD-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-12T12:44:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
