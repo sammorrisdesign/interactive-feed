@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-12-11T18:48:50.532Z",
+  "lastUpdated": "2024-12-12T10:20:45.218Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/12/us/trump-cabinet-fact-check.html",
+      "headline": "This is what 4 of Trump’s cabinet picks think of the agencies they would lead.",
+      "image": "https://nytimes.com/images/2024/12/11/us/politics/cabinet-promo/cabinet-promo-horizontalMediumAt2X-v3.jpg",
+      "timestamp": "2024-12-12T10:02:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/12/travel/things-to-do-venice.html",
+      "headline": "36 Hours in Venice",
+      "image": "https://nytimes.com/images/2024/12/12/multimedia/36hoursvenice-pjtv/36hoursvenice-pjtv-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-12T10:02:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
