@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-12T13:28:50.035Z",
+  "lastUpdated": "2024-12-12T16:24:31.623Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/12/theater/oh-mary-broadway.html",
+      "headline": "The Sublime, Stupid World of ‘Oh, Mary!’",
+      "image": "https://nytimes.com/images/2024/12/11/arts/oh-mary-static/oh-mary-static-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-12T16:10:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
