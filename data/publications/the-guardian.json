@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-09T10:45:52.065Z",
+  "lastUpdated": "2024-12-12T09:40:59.318Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/dec/12/german-election-opinion-polls-whos-leading-for-2025",
+      "headline": "German election opinion polls – who’s leading for 2025",
+      "image": "https://i.guim.co.uk/img/media/30e4357919e1916fbd68b5ad286201e20f5a52b8/1_0_4999_3000/master/4999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=900768c45ac2c08fc150b5cbc7621684",
+      "timestamp": "2024-12-12T09:25:58.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
