@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-12T09:40:59.318Z",
+  "lastUpdated": "2024-12-14T16:21:42.651Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2024/dec/14/washington-dc-trump",
+      "headline": "Washington DC steels itself for Trump’s ‘takeover’: ‘We’re in for a bumpy ride’",
+      "image": "https://i.guim.co.uk/img/media/054289d9a9e515908b281d4deea46e90a3d0e84c/1_0_1919_1151/master/1919.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7aad7e0f86eff67733410731905c72f",
+      "timestamp": "2024-12-14T16:00:19.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
