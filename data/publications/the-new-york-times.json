@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-15T19:14:02.419Z",
+  "lastUpdated": "2024-12-15T21:16:37.047Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/15/nyregion/nyc-congestion-pricing-cost.html",
+      "headline": "See How Much NYC's Congestion Pricing Plan Would Cost You",
+      "image": "https://nytimes.com/images/2024/12/15/nyregion/00-congestion-pricing-pomo/00-congestion-pricing-pomo-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-15T20:57:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
