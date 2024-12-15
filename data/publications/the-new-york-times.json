@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-14T12:34:43.462Z",
+  "lastUpdated": "2024-12-15T19:14:02.419Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/15/us/revere-high-principals-email-june-2023-resize.html",
+      "headline": "Read the email from Revere’s principal",
+      "image": "https://nytimes.com/images/2024/12/13/doc-cbef8db6-a6e5-44f1-bd1f-5-promo/doc-cbef8db6-a6e5-44f1-bd1f-5-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-15T18:53:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
