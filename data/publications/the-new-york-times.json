@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-15T21:16:37.047Z",
+  "lastUpdated": "2024-12-16T15:20:19.487Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/16/books/review/dickens-london-quiz.html",
+      "headline": "How Well Do You Know the London of Charles Dickens?",
+      "image": "https://nytimes.com/images/2024/12/16/books/review/00BKS-QUIZ-Dickens/00BKS-QUIZ-Dickens-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-16T15:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
