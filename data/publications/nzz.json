@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-12T04:45:17.826Z",
+  "lastUpdated": "2024-12-16T06:28:30.101Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/inflation-und-lebensmittel-so-teuer-ist-ihr-einkauf-geworden-ld.1861594",
+      "headline": "So teuer ist Ihr Einkauf geworden",
+      "image": "https://img.nzz.ch/2024/12/12/2a3834f7-957c-4ccf-8ba2-5cce227a214d.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2024-12-16T06:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
