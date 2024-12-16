@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-16T15:20:19.487Z",
+  "lastUpdated": "2024-12-16T20:21:09.911Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/16/us/aam-letter-to-president-biden.html",
+      "headline": "Read the Letter",
+      "image": "https://nytimes.com/images/2024/12/16/doc-390d5da1-10e5-4e64-90ab-c-promo/doc-390d5da1-10e5-4e64-90ab-c-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-16T19:46:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
