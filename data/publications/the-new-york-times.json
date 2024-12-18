@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-12-17T10:20:30.319Z",
+  "lastUpdated": "2024-12-18T05:18:05.623Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/18/climate/insurance-non-renewal-climate-crisis.html",
+      "headline": "Insurers Are Deserting Homeowners as Climate Shocks Worsen",
+      "image": "https://nytimes.com/images/2024/12/17/multimedia/2024-12-09-nonrenewals-insurance-index/2024-12-09-nonrenewals-insurance-index-videoSixteenByNine3000-v4.jpg",
+      "timestamp": "2024-12-18T05:10:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/18/climate/insurance-nonrenewal-rates-policies-state-map.html",
+      "headline": "See Where Home Insurance Policies Were Dropped in Your State",
+      "image": "https://nytimes.com/images/2024/12/17/multimedia/2024-12-06-nononrenewals-explore-index/2024-12-06-nononrenewals-explore-index-videoSixteenByNine3000-v5.jpg",
+      "timestamp": "2024-12-18T05:10:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
