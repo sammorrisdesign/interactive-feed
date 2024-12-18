@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-18T17:16:34.754Z",
+  "lastUpdated": "2024-12-18T21:15:00.584Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/18/magazine/israel-gaza-war-medical-treatment-who.html",
+      "headline": "For a Desperate Few, a Hectic Escape From Gaza",
+      "image": "https://nytimes.com/images/2024/11/22/magazine/22mag-Gaza-Flight-09-Fader/22mag-Gaza-Flight-09-superJumbo-v3.jpg",
+      "timestamp": "2024-12-18T20:52:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
