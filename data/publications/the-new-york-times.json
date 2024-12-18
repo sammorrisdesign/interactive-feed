@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-12-18T05:18:05.623Z",
+  "lastUpdated": "2024-12-18T10:19:54.112Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/18/books/romantic-poet-diane-seuss.html",
+      "headline": "Will You Fall in Love With This Poem? I Did.",
+      "image": "https://nytimes.com/images/2024/12/10/arts/romantic-poetry/romantic-poetry-superJumbo-v2.jpg",
+      "timestamp": "2024-12-18T10:02:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/18/opinion/books-ezra-klein-show-guests-recommended-2024.html",
+      "headline": "62 Books ‘The Ezra Klein Show’ Guests Recommended This Year",
+      "image": "https://nytimes.com/images/2024/12/18/opinion/18eks-books-topart/18eks-books-topart-superJumbo-v4.jpg",
+      "timestamp": "2024-12-18T10:02:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/18/us/tornadoes-2024.html",
+      "headline": "2024 Was the Most Intense Year for Tornadoes in a Decade",
+      "image": "https://nytimes.com/images/2024/12/06/multimedia/2024-11-25-extreme-storms-tornadoes-index/2024-11-25-extreme-storms-tornadoes-index-videoSixteenByNine3000-v5.jpg",
+      "timestamp": "2024-12-18T10:02:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/world/year-in-pictures.html",
+      "headline": "The Year in Pictures 2024: Far From Ordinary",
+      "image": "https://nytimes.com/images/2024/12/20/multimedia/2024-yip-topper-02-hmjv/2024-yip-topper-02-hmjv-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-18T10:01:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
