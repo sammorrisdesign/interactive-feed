@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-19T10:19:46.490Z",
+  "lastUpdated": "2024-12-19T16:21:01.970Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/arts/year-in-illustration.html",
+      "headline": "The 73 Best Illustrations of 2024",
+      "image": "https://nytimes.com/images/2024/06/27/autossell/yearinillo-promo/27ai-voices-fpo-superJumbo-v2.jpg",
+      "timestamp": "2024-12-19T16:15:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
