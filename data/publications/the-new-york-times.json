@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2024-12-18T21:15:00.584Z",
+  "lastUpdated": "2024-12-19T10:19:46.490Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/realestate/philadelphia-housing-market-apartment-sale.html",
+      "headline": "Priced Out of New York, She Took Her $350,000 Budget to Philadelphia. Here’s What She Found.",
+      "image": "https://nytimes.com/images/2024/12/19/multimedia/19Hunt-Lili-08-wpgc/19Hunt-Lili-08-wpgc-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-19T10:05:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/opinion/2024-photos-america-election.html",
+      "headline": "The Moments That Shaped 2024, in 17 Photos",
+      "image": "https://nytimes.com/images/2024/12/19/opinion/19simon-14/19simon-14-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2024-12-19T10:03:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/travel/things-to-do-innsbruck.html",
+      "headline": "36 Hours in Innsbruck, Austria",
+      "image": "https://nytimes.com/images/2024/01/09/multimedia/09Hours-Innsbruck-wgpb/09Hours-Innsbruck-wgpb-mobileMasterAt3x-v3.jpg",
+      "timestamp": "2024-12-19T10:03:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
