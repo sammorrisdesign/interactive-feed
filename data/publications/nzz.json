@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-16T06:28:30.101Z",
+  "lastUpdated": "2024-12-19T04:43:02.213Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/satellitenbilder-liefern-hinweise-auf-russlands-rueckzug-aus-syrien-ld.1863022",
+      "headline": "Satellitenbilder liefern Hinweise auf Russlands Rückzug aus Syrien",
+      "image": "https://img.nzz.ch/2024/12/18/a6acbec6-7a59-4ad0-872c-e1075417df00.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5500,3094,x0,y227&wmark=nzz",
+      "timestamp": "2024-12-19T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
