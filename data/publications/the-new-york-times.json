@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-19T16:21:01.970Z",
+  "lastUpdated": "2024-12-19T18:24:44.281Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/nyregion/24-mag-4375-mangione-complaint.html",
+      "headline": "Read the Criminal Complaint Against Luigi Mangione",
+      "image": "https://nytimes.com/images/2024/12/19/doc-15746c43-72d2-4607-9e9f-4-promo/doc-15746c43-72d2-4607-9e9f-4-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-19T18:05:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
