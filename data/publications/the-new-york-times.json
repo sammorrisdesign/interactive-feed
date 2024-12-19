@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2024-12-19T18:24:44.281Z",
+  "lastUpdated": "2024-12-19T23:17:05.417Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/briefing/2024-faces-quiz-politics.html",
+      "headline": "2024 Faces Quiz: Politics",
+      "image": "https://nytimes.com/images/2024/12/19/multimedia/2024-11-20-faces-quiz-2024-extra-ten-news/2024-11-20-faces-quiz-2024-extra-ten-news-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-12-19T22:46:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/briefing/2024-faces-quiz-sports.html",
+      "headline": "2024 Faces Quiz: Sports",
+      "image": "https://nytimes.com/images/2024/12/19/multimedia/2024-11-20-faces-quiz-2024-extra-ten-sports/2024-11-20-faces-quiz-2024-extra-ten-sports-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-12-19T22:46:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/briefing/2024-faces-quiz-culture.html",
+      "headline": "2024 Faces Quiz: Culture",
+      "image": "https://nytimes.com/images/2024/12/19/multimedia/2024-11-20-faces-quiz-2024-extra-ten-culture/2024-11-20-faces-quiz-2024-extra-ten-culture-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-12-19T22:46:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/briefing/2024-faces-quiz.html",
+      "headline": "2024 Faces Quiz",
+      "image": "https://nytimes.com/images/2024/12/19/multimedia/2024-11-20-faces-quiz-2024-index/2024-11-20-faces-quiz-2024-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-12-19T22:46:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
