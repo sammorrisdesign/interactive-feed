@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2024-12-18T08:24:24.243Z",
+  "lastUpdated": "2024-12-19T01:25:06.115Z",
   "articles": [
+    {
+      "publication": "Sydney Morning Herald",
+      "twitterHandle": "smh",
+      "url": "https://www.smh.com.au/interactive/2024/christmas-lights-2024-sydney/index.html",
+      "headline": "Where to find Sydney’s best Christmas lights",
+      "image": "https://static.ffx.io/images/$zoom_2.2074%2C$multiply_0.5%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_53/t_crop_custom/q_86%2Cf_auto/eee8e4c5e8dbee8be880fb19810476afae7d0ff7",
+      "timestamp": null
+    },
     {
       "publication": "Sydney Morning Herald",
       "twitterHandle": "smh",
