@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-20T01:21:18.009Z",
+  "lastUpdated": "2024-12-20T16:42:54.012Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/weather/extreme-weather-costs-quiz.html",
+      "headline": "Weather’s Impact on Your Wallet: See How Much You Know",
+      "image": "https://nytimes.com/images/2024/12/18/multimedia/21weather-personal-finance-quiz-bzwk/21weather-personal-finance-quiz-bzwk-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-20T16:33:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
