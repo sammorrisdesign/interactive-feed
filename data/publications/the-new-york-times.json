@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2024-12-20T20:19:04.904Z",
+  "lastUpdated": "2024-12-20T20:38:14.721Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/eleanor-coppola-sofia.html",
+      "headline": "Eleanor Coppola’s Frustrated Ambitions",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-coppola/29mag-coppola-mobileMasterAt3x-v2.jpg",
+      "timestamp": "2024-12-20T20:37:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/shelley-duvall-actor.html",
+      "headline": "Shelley Duvall Made Her Mark Well Before ‘The Shining’",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-Duvall/29mag-Duvall-mobileMasterAt3x-v4.jpg",
+      "timestamp": "2024-12-20T20:36:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/paul-auster-writer.html",
+      "headline": "Paul Auster’s Life and Work Were Marked by Death",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-auster/29mag-auster-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-20T20:35:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/edward-stone-nasa.html",
+      "headline": "How Edward Stone Resolved NASA’s Scientific Turf Wars",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-Stone/29mag-Stone-superJumbo.jpg",
+      "timestamp": "2024-12-20T20:35:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/willie-mays-baseball-banned.html",
+      "headline": "When Willie Mays Was Banned From Baseball",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-Mays/29mag-Mays-horizontalMediumAt2X-v3.jpg",
+      "timestamp": "2024-12-20T20:34:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Dec. 21, 2024",
+      "image": "https://nytimes.com/images/2024/12/20/upshot/flashback-promo/flashback-promo-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-12-20T20:34:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/michaela-deprince-dance.html",
+      "headline": "Michaela DePrince Danced as if She Were Sprinkled With Pixie Dust",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-deprince/29mag-deprince-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2024-12-20T20:34:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/mary-weiss-shangri-las.html",
+      "headline": "Mary Weiss Influenced Musicians From the Ramones to Amy Winehouse",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-weiss/29mag-weiss-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-20T20:33:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/frankie-beverly-music.html",
+      "headline": "Frankie Beverly Created America’s No. 1 Cookout Song",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-Beverly-image/29mag-Beverly-image-mobileMasterAt3x.jpg",
+      "timestamp": "2024-12-20T20:32:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/jerry-west-basketball.html",
+      "headline": "Jerry West Was the N.B.A.’s Tortured Genius",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-west/29mag-west-horizontalMediumAt2X-v3.jpg",
+      "timestamp": "2024-12-20T20:29:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
