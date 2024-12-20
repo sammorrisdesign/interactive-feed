@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-12-20T20:38:14.721Z",
+  "lastUpdated": "2024-12-20T21:15:52.134Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/naomi-feil-dementia.html",
+      "headline": "Naomi Feil Developed a Radical Approach to Caring for Dementia Patients",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-feil/29mag-feil-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-20T20:46:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/rosa-sea-otter.html",
+      "headline": "The Orphaned Sea Otter Who Became a Foster Mom to 15 Pups",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-rosa/29mag-rosa-mobileMasterAt3x.jpg",
+      "timestamp": "2024-12-20T20:45:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/wafa-aludaini-killed-palestinian-journalist.html",
+      "headline": "Wafa Al-Udaini Captured the Experiences of Palestinians From Within",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-Aiudaini/29mag-Aiudaini-mobileMasterAt3x.jpg",
+      "timestamp": "2024-12-20T20:45:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/famous-amos-cookies.html",
+      "headline": "How Wally Amos Lost It All — and Found Something New in the Wreckage",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-amos/29mag-amos-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2024-12-20T20:44:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/pete-rose-baseball.html",
+      "headline": "Were Pete Rose’s Sins Ahead of His Time?",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-Rose/29mag-Rose-superJumbo.jpg",
+      "timestamp": "2024-12-20T20:43:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/angela-bofill-singer.html",
+      "headline": "Angela Bofill Sang What She Could Until the End",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-Bofill/29mag-Bofill-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-20T20:42:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/hettie-jones-poet.html",
+      "headline": "Hettie Jones Helped Kickstart New York’s Beat Scene",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-jones/29mag-jones-superJumbo.jpg",
+      "timestamp": "2024-12-20T20:42:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/peter-buxtun-tuskegee-study.html",
+      "headline": "Peter Buxtun Refused to Give Up",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-buxtun/29mag-buxtun-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-20T20:41:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/janice-burgess-backyardians.html",
+      "headline": "Janice Burgess Combined High Culture With Childish Delight",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-burgess/29mag-burgess-mobileMasterAt3x.jpg",
+      "timestamp": "2024-12-20T20:40:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
