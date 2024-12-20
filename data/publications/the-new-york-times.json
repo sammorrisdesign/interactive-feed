@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-12-20T16:42:54.012Z",
+  "lastUpdated": "2024-12-20T20:19:04.904Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/us/2024-year-in-graphics.html",
+      "headline": "2024: The Year in Visual Stories and Graphics.",
+      "image": "https://nytimes.com/images/2024/12/19/multimedia/2024-11-13-year-in-graphics-index/2024-11-13-year-in-graphics-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2024-12-20T20:17:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/20/magazine/dogs-cats-pets-friends.html",
+      "headline": "The Best Friends They Left Behind",
+      "image": "https://nytimes.com/images/2024/12/29/magazine/29mag-PETS-images-02/29mag-PETS-images-02-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-20T20:13:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
