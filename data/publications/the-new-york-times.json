@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-19T23:17:05.417Z",
+  "lastUpdated": "2024-12-20T01:21:18.009Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/19/us/politics/shutdown-house-vote-live.html",
+      "headline": "How Each House Member Voted on the Bill to Avoid a Government Shutdown",
+      "image": "https://nytimes.com/images/2024/12/19/multimedia/2024-12-19-government-shutdown-vote-index/2024-12-19-government-shutdown-vote-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2024-12-20T00:12:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
