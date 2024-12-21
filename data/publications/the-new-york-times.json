@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2024-12-20T21:15:52.134Z",
+  "lastUpdated": "2024-12-21T15:36:57.202Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/21/us/complaint-of-blake-lively-v-wayfarer-studios-llc-et-al.html",
+      "headline": "Read the Complaint",
+      "image": "https://nytimes.com/images/2024/12/21/doc-a45507a1-0341-4497-b17f-8-promo/doc-a45507a1-0341-4497-b17f-8-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-21T15:29:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/21/us/statement-to-the-new-york-times.html",
+      "headline": "Read the Statement",
+      "image": "https://nytimes.com/images/2024/12/21/doc-b644f1b1-abfc-4790-a546-f-promo/doc-b644f1b1-abfc-4790-a546-f-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-21T15:28:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
