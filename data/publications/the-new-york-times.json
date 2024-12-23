@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-22T05:15:58.416Z",
+  "lastUpdated": "2024-12-23T15:18:27.059Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/23/books/review/2024-books-quiz.html",
+      "headline": "Can You Find the 10 Hidden 2024 Best Sellers in This Text Puzzle?",
+      "image": "https://nytimes.com/images/2024/12/23/books/review/00BKS-QUIZ-bestsellers/00BKS-QUIZ-bestsellers-horizontalMediumAt2X.png",
+      "timestamp": "2024-12-23T15:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
