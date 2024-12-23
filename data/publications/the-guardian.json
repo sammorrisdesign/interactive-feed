@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-19T14:17:06.311Z",
+  "lastUpdated": "2024-12-23T07:36:37.487Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2024/dec/23/did-democracy-survive-the-2024-global-election-marathon",
+      "headline": "Did democracy survive the 2024 global election marathon?",
+      "image": "https://i.guim.co.uk/img/media/2ef5ffa113a804ee25574deb35c236987a300321/0_1031_2217_1330/master/2217.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06222fd283fe15030a8970d73cf90b71",
+      "timestamp": "2024-12-23T07:15:16.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
