@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-23T15:18:27.059Z",
+  "lastUpdated": "2024-12-23T17:15:27.860Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/23/us/ethics-report-on-gaetz.html",
+      "headline": "Read the Ethics Committee’s Report on Matt Gaetz",
+      "image": "https://nytimes.com/images/2024/12/23/doc-35c06a78-b885-4e61-bb9e-a-promo/doc-35c06a78-b885-4e61-bb9e-a-promo-mobileMasterAt3x.png",
+      "timestamp": "2024-12-23T16:44:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
