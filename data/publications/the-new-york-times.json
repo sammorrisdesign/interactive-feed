@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-23T17:15:27.860Z",
+  "lastUpdated": "2024-12-24T02:36:37.848Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/23/business/elon-musk-trump-family-friends-backers.html",
+      "headline": "The Men and Women Swirling Around Elon Musk",
+      "image": "https://nytimes.com/images/2024/12/20/multimedia/2024-11-15-musk-orbits-index/2024-11-15-musk-orbits-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2024-12-24T01:57:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
