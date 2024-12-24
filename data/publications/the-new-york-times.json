@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-24T02:36:37.848Z",
+  "lastUpdated": "2024-12-24T10:18:15.459Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/24/world/middleeast/syria-assad-rebels-allies.html",
+      "headline": "A Visual Guide to the Tangled Alliances and Rivalries in Syria",
+      "image": "https://nytimes.com/images/2024/12/23/multimedia/2024-12-08-syrian-groups-index/2024-12-08-syrian-groups-index-videoSixteenByNine3000-v7.png",
+      "timestamp": "2024-12-24T10:00:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
