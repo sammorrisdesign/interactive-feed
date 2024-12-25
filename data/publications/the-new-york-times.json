@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-24T10:18:15.459Z",
+  "lastUpdated": "2024-12-25T10:18:25.692Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/25/opinion/best-of-2024.html",
+      "headline": "What We Loved in 2024",
+      "image": "https://nytimes.com/images/2024/12/25/opinion/25OpinionStaff/25OpinionStaff-superJumbo.jpg",
+      "timestamp": "2024-12-25T10:00:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
