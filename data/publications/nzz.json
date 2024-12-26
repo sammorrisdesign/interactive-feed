@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-20T17:15:08.304Z",
+  "lastUpdated": "2024-12-26T04:41:29.193Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-tsunami-von-2004-satellitenbilder-zeigen-die-verheerende-zerstoerung-ld.1864001",
+      "headline": "Der Tsunami von 2004: Satellitenbilder zeigen die verheerende Zerstörung",
+      "image": "https://img.nzz.ch/2024/12/25/7a96abba-89f0-4fdf-a6c1-02e7854bab51.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1900,1069,x0,y466&wmark=nzz",
+      "timestamp": "2024-12-26T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
