@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-25T10:18:25.692Z",
+  "lastUpdated": "2024-12-26T10:18:21.750Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/26/travel/things-to-do-palm-springs.html",
+      "headline": "36 Hours in Palm Springs, Calif.",
+      "image": "https://nytimes.com/images/2024/12/26/multimedia/36hours-palmsprings-bpqz/36hours-palmsprings-bpqz-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-26T10:02:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
