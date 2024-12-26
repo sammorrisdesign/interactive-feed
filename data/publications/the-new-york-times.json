@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-26T10:18:21.750Z",
+  "lastUpdated": "2024-12-26T11:14:16.055Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/26/world/middleeast/israel-gaza-strikes-takeaways.html",
+      "headline": "Eight Takeaways: How Israel Weakened Civilian Protections When Bombing Hamas Fighters",
+      "image": "https://nytimes.com/images/2024/12/25/multimedia/2024-12-05-israel-gaza-strikes-graphic-index/2024-12-05-israel-gaza-strikes-graphic-index-videoSixteenByNine3000-v5.png",
+      "timestamp": "2024-12-26T10:43:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
