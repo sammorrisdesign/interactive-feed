@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-29T22:38:11.835Z",
+  "lastUpdated": "2024-12-30T12:34:57.218Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/30/us/carter-on-death.html",
+      "headline": "Jimmy Carter, on Death",
+      "image": "https://nytimes.com/images/2023/09/22/us/00nat-carter-death-walk/00nat-carter-death-walk-mobileMasterAt3x.jpg",
+      "timestamp": "2024-12-30T11:44:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
