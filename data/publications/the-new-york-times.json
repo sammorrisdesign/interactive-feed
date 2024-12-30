@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-30T15:37:51.321Z",
+  "lastUpdated": "2024-12-30T16:21:23.799Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/30/books/review/2024-movie-books.html",
+      "headline": "You Saw the Movie in 2024. Do You Know the Book That Inspired It?",
+      "image": "https://nytimes.com/images/2024/12/30/books/review/30Quiz-FilmMemoir/30Quiz-FilmMemoir-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-30T16:00:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
