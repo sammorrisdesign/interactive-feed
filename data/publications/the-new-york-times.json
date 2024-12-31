@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-31T20:18:24.044Z",
+  "lastUpdated": "2024-12-31T22:16:09.981Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/31/realestate/fine-china-dumulong-family.html",
+      "headline": "One Set of China. Five Generations.",
+      "image": "https://nytimes.com/images/2024/01/01/multimedia/01fine-china-promo-qplw/01fine-china-promo-qplw-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2024-12-31T22:03:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
