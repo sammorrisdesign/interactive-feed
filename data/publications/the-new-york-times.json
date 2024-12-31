@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-31T22:16:09.981Z",
+  "lastUpdated": "2024-12-31T23:16:09.427Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/31/upshot/nfl-playoff-picture-week-18.html",
+      "headline": "Week 18 N.F.L. Playoff Picture: Mapping the Paths for Each Team",
+      "image": "https://nytimes.com/images/2024/12/31/multimedia/nfl-playoff-picture-kbml/nfl-playoff-picture-kbml-horizontalMediumAt2X.jpg",
+      "timestamp": "2024-12-31T22:57:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
