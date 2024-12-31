@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-31T03:20:52.208Z",
+  "lastUpdated": "2024-12-31T20:18:24.044Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2024/12/31/world/asia/jeju-plane-crash-maps-photos.html",
+      "headline": "How the Jeju Air Plane Crashed: Timeline, Maps and Photos",
+      "image": "https://nytimes.com/images/2024/12/31/multimedia/2024-12-31-skorea-jeju-plane-crash-index/2024-12-31-skorea-jeju-plane-crash-index-videoSixteenByNine3000-v5.jpg",
+      "timestamp": "2024-12-31T20:08:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
