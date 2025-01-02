@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2024-12-31T23:16:09.427Z",
+  "lastUpdated": "2025-01-02T03:21:12.159Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/01/weather/northern-california-quake.html",
+      "headline": "Map: 4.7-Magnitude Earthquake Strikes Northern California",
+      "image": "https://nytimes.com/images/2025/01/02/world/01wea-quake-tracker-northern-california-nyt72na0-index/01wea-quake-tracker-northern-california-nyt72na0-index-videoSixteenByNine3000-v9.jpg",
+      "timestamp": "2025-01-02T03:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
