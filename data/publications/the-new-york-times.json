@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-01-02T03:21:12.159Z",
+  "lastUpdated": "2025-01-02T10:18:19.867Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/02/realestate/harlem-rowhouse-friends-sale.html",
+      "headline": "In Harlem, Two Friends Joined Forces to Buy a Rowhouse. Which Was the Right Fit?",
+      "image": "https://nytimes.com/images/2024/01/02/multimedia/02HUNT-BREEDLOVE-pljb/02HUNT-BREEDLOVE-pljb-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-02T10:02:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/02/travel/things-to-do-antwerp.html",
+      "headline": "36 Hours in Antwerp, Belgium",
+      "image": "https://nytimes.com/images/2024/01/02/multimedia/02Hours-Antwerp-htpw/02Hours-Antwerp-htpw-mobileMasterAt3x-v2.jpg",
+      "timestamp": "2025-01-02T10:02:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/02/travel/travel-52-places-to-go-anniversary.html",
+      "headline": "20 Years of ‘Places to Go’",
+      "image": "https://nytimes.com/images/2024/12/31/travel/52-anniversary-promo/52-anniversary-promo-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-01-02T10:01:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
