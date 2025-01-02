@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-26T04:41:29.193Z",
+  "lastUpdated": "2025-01-02T12:34:48.209Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aus-dem-orbit/entspannung-in-der-grenzregion-zwischen-china-und-indien-ld.1859559",
+      "headline": "Entspannung in der Grenzregion zwischen China und Indien",
+      "image": "https://img.nzz.ch/2024/11/27/c33b018f-e00d-42d4-905c-27dd25a918c4.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1956,1100,x0,y162&wmark=nzz",
+      "timestamp": "2025-01-02T12:03:46.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
