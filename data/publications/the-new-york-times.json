@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-02T10:18:19.867Z",
+  "lastUpdated": "2025-01-03T20:18:43.043Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/03/us/new-orleans-security-report.html",
+      "headline": "Read the Report on Security in New Orleans",
+      "image": "https://nytimes.com/images/2025/01/03/doc-a2e8572e-da81-467a-b03d-6-promo/doc-a2e8572e-da81-467a-b03d-6-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-01-03T19:37:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
