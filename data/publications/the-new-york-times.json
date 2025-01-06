@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-05T10:17:06.400Z",
+  "lastUpdated": "2025-01-06T02:41:26.875Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/05/well/eat/ultraprocessed-foods-challenge-quiz.html",
+      "headline": "Can You Spot Ultraprocessed Foods? Play Our Supermarket Game.",
+      "image": "https://nytimes.com/images/2024/11/21/well/WELL-UPF-QUIZ-static-promo/WELL-UPF-QUIZ-topart-mobileMasterAt3x-v39.jpg",
+      "timestamp": "2025-01-06T02:22:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
