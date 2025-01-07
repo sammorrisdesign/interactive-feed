@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-06T15:37:27.632Z",
+  "lastUpdated": "2025-01-07T01:21:16.095Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/travel/places-to-travel-destinations-2025.html",
+      "headline": "52 Places to Go in 2025",
+      "image": "https://nytimes.com/images/2025/01/07/travel/07-52places-2025-promo/07-52places-2025-promo-superJumbo-v2.png",
+      "timestamp": "2025-01-07T01:02:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
