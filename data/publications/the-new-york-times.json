@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-07T20:19:01.098Z",
+  "lastUpdated": "2025-01-08T06:25:38.611Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/08/weather/los-angeles-fire-maps-california.html",
+      "headline": "Maps: Tracking the Los Angeles Wildfires",
+      "image": "https://nytimes.com/images/2025/01/08/multimedia/2025-01-08-palisades-fire-index/2025-01-08-palisades-fire-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-01-08T06:08:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
