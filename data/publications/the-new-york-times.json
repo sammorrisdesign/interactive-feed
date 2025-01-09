@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-01-08T06:25:38.611Z",
+  "lastUpdated": "2025-01-09T10:19:13.970Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/09/world/asia/tibet-china-boarding-schools.html",
+      "headline": "Boarding Schools in Tibet Reshape the ‘Souls of Children’",
+      "image": "https://nytimes.com/images/2025/01/07/multimedia/2024-09-19-tibet-boarding-schools-index/2024-09-19-tibet-boarding-schools-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-01-09T10:11:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/09/realestate/marrakesh-morocco-home-sale.html",
+      "headline": "They Dreamed of a Traditional Marrakesh Riad for About $500,000",
+      "image": "https://nytimes.com/images/2025/01/09/multimedia/09HUNT-BAILEY-lwgk/09HUNT-BAILEY-lwgk-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-09T10:03:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
