@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-09T10:19:13.970Z",
+  "lastUpdated": "2025-01-09T22:39:46.164Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/09/weather/dikeledi-map-path-tracker.html",
+      "headline": "Tracking Tropical Cyclone Dikeledi",
+      "image": "https://nytimes.com/images/2025/01/09/world/dikeledi-map-path-tracker-index/dikeledi-map-path-tracker-index-videoSixteenByNine3000-v4.jpg",
+      "timestamp": "2025-01-09T22:25:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
