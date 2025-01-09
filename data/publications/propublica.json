@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2024-12-27T10:18:03.119Z",
+  "lastUpdated": "2025-01-09T16:22:53.331Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "http://projects.propublica.org/alaska-sex-assault-case-delays-timeline",
+      "headline": "The Neverending Case: How 10 Years of Delays Have Prevented a “Horrendous” Sexual Assault Allegation From Going to Trial",
+      "image": "https://static.propublica.org/projects/graphics/2024-alaska-sex-assault-case-delays-timeline/neverending-case_OG_maxWidth_3000_maxHeight_3000_ppi_72_quality_95_embedColorProfile_true.jpg",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
