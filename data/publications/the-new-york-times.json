@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-10T04:21:29.308Z",
+  "lastUpdated": "2025-01-10T16:22:48.630Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/10/weather/quake-tracker-san-francisco.html",
+      "headline": "Map: 3.7-Magnitude Earthquake Strikes Near San Francisco",
+      "image": "https://nytimes.com/images/2025/01/10/world/10wea-quake-tracker-north-pacific-ocean-nytilnqy-index/10wea-quake-tracker-north-pacific-ocean-nytilnqy-index-videoSixteenByNine3000-v10.jpg",
+      "timestamp": "2025-01-10T15:45:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
