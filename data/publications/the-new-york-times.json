@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-10T03:24:55.247Z",
+  "lastUpdated": "2025-01-10T04:21:29.308Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/09/us/la-wildfires-damage-photos-map.html",
+      "headline": "Mapping the Damage From the Palisades Fire",
+      "image": "https://nytimes.com/images/2025/01/09/multimedia/2025-01-09-la-fire-damage-index/2025-01-09-la-fire-damage-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-01-10T04:14:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
