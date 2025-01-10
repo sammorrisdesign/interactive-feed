@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-10T16:22:48.630Z",
+  "lastUpdated": "2025-01-10T17:38:20.542Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/10/us/january-10-2025-quinn-emanuel-white-paper-president-trumps-second-term-in-office.html",
+      "headline": "Read the Trump Family’s Ethics Agreement",
+      "image": "https://nytimes.com/images/2025/01/10/doc-9a87b8b4-d04b-4205-b281-1-promo/doc-9a87b8b4-d04b-4205-b281-1-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-01-10T17:33:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
