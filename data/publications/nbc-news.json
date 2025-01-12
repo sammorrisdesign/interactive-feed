@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-01-09T01:20:27.287Z",
+  "lastUpdated": "2025-01-12T01:28:02.914Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/data-graphics/california-fire-map-track-wildfires-size-rcna187291",
+      "headline": "Maps: See how large the California wildfires are",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/20250110-fire-shape-2x1-nc-5b82b3.png",
+      "timestamp": "2025-01-12T00:53:10.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
