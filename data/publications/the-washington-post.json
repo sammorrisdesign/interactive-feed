@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-11T18:41:57.453Z",
+  "lastUpdated": "2025-01-13T20:19:02.270Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2025/police-artificial-intelligence-facial-recognition/",
+      "headline": "Arrested by AI: Police ignore standards after facial recognition matches",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreifj2g4c4agngi7cv3yffd46gdz75g23bikttpit5n5w3ebjh375yy@jpeg",
+      "timestamp": "2025-01-13T19:40:41.506Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
