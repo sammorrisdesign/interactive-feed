@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-10T21:37:04.265Z",
+  "lastUpdated": "2025-01-13T02:42:21.232Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/12/well/health-tips-experts.html",
+      "headline": "35 Simple Health Tips Experts Swear By",
+      "image": "https://nytimes.com/images/2025/01/11/well/11health-tips-experts-staticpromo/11health-tips-experts-staticpromo-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-13T01:38:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
