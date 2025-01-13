@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-13T14:17:33.713Z",
+  "lastUpdated": "2025-01-13T15:40:03.756Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/13/books/review/controversial-books-quiz.html",
+      "headline": "How Much Do You Know About These Controversial Classics?",
+      "image": "https://nytimes.com/images/2025/01/13/books/review/13Quiz-Controversy/13Quiz-Controversy-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-13T15:30:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
