@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-13T02:42:21.232Z",
+  "lastUpdated": "2025-01-13T10:19:54.252Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/13/upshot/vaccination-rates.html",
+      "headline": "Childhood Vaccination Rates Were Falling Even Before the Rise of R.F.K. Jr.",
+      "image": "https://nytimes.com/images/2025/01/04/multimedia/2024-11-25-school-immunizations-index/2024-11-25-school-immunizations-index-videoSixteenByNine3000-v8.png",
+      "timestamp": "2025-01-13T10:01:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
