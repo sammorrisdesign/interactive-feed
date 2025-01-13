@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-13T10:19:54.252Z",
+  "lastUpdated": "2025-01-13T14:17:33.713Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/13/world/asia/quake-tracker-japan.html",
+      "headline": "Map: 6.8-Magnitude Earthquake Strikes Near Japan",
+      "image": "https://nytimes.com/images/2025/01/13/world/13wea-quake-tracker-philippine-sea-nyt4nc9k-index/13wea-quake-tracker-philippine-sea-nyt4nc9k-index-videoSixteenByNine3000-v18.jpg",
+      "timestamp": "2025-01-13T13:50:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
