@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-14T12:34:24.934Z",
+  "lastUpdated": "2025-01-14T23:16:07.531Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jan/09/democrats-war-foreign-policy",
+      "headline": "Democrats have become the party of war. Americans are tired of it",
+      "image": "https://i.guim.co.uk/img/media/0f163b11355d8dc31817d8b61407eecc2b8d12df/0_78_2400_1439/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f2f41e22ff09b932ed518ebfe5843572",
+      "timestamp": "2025-01-09T11:00:01.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
