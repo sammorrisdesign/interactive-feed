@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-01-14T06:23:53.323Z",
+  "lastUpdated": "2025-01-14T10:17:56.086Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/14/world/europe/mediterranean-floods.html",
+      "headline": "The Floods This Time: In the Mediterranean, Climate Change Is Already Here",
+      "image": "https://nytimes.com/images/2025/01/13/multimedia/2024-11-14-mediterranean-floods-index/2024-11-14-mediterranean-floods-index-superJumbo-v3.jpg",
+      "timestamp": "2025-01-14T10:03:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/14/opinion/fix-congress-proportional-representation.html",
+      "headline": "How to Fix America’s Two-Party Problem",
+      "image": "https://nytimes.com/images/2025/01/14/opinion/14-wegman-promo-alt1/14-wegman-promo-alt1-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-14T10:01:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
