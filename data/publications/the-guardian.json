@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-13T11:15:20.491Z",
+  "lastUpdated": "2025-01-14T12:34:24.934Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jan/14/monterrey-mexico-steel-us-toxic-waste",
+      "headline": "Revealed: US hazardous waste is sent to Mexico – where a ‘toxic cocktail’ of pollution emerges",
+      "image": "https://i.guim.co.uk/img/media/56edb21bfada629c21f0e47674a8a47d61fbe628/16_8_1833_1101/master/1833.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=70959ce1cfcd1d4989cb9a411ba338fd",
+      "timestamp": "2025-01-14T12:00:27.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
