@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-13T15:40:03.756Z",
+  "lastUpdated": "2025-01-14T04:20:29.723Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/13/us/los-angeles-fires-cause.html",
+      "headline": "Many of California’s Most Destructive Fires Were Caused by Power Lines",
+      "image": "https://nytimes.com/images/2025/01/13/multimedia/2025-01-13-los-angeles-fires-power-lines-index/2025-01-13-los-angeles-fires-power-lines-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2025-01-14T04:13:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
