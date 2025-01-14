@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-14T04:20:29.723Z",
+  "lastUpdated": "2025-01-14T06:23:53.323Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/14/us/report-of-special-counsel-smith-volume-1-january-2025.html",
+      "headline": "Read the Special Counsel’s Report on the Trump Election Case",
+      "image": "https://nytimes.com/images/2025/01/14/doc-0794a9c3-11f9-4e78-b2a9-c-promo/doc-0794a9c3-11f9-4e78-b2a9-c-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-01-14T06:03:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
