@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-14T10:17:56.086Z",
+  "lastUpdated": "2025-01-14T17:15:23.187Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/books/thriller-books.html",
+      "headline": "Let Us Help You Find Your Next Thriller",
+      "image": "https://nytimes.com/images/2025/01/14/books/thrillers_cover/thrillers_cover-superJumbo.jpg",
+      "timestamp": "2025-01-14T17:07:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
