@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-15T10:18:11.097Z",
+  "lastUpdated": "2025-01-15T22:15:51.861Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/us/elections/2024-election-map-precinct-results.html",
+      "headline": "An Extremely Detailed Map of the 2024 Election",
+      "image": "https://nytimes.com/images/2025/01/14/multimedia/2024-precinct-maps-promo/2024-precinct-maps-promo-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-15T22:10:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
