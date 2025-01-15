@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-01-15T01:19:09.304Z",
+  "lastUpdated": "2025-01-15T10:18:11.097Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/15/climate/los-angeles-housing-fire-risk.html",
+      "headline": "More Americans Than Ever Are Living in Wildfire Areas. L.A. Is No Exception.",
+      "image": "https://nytimes.com/images/2025/01/14/multimedia/2025-01-10-la-fire-exposure-index/2025-01-10-la-fire-exposure-index-videoSixteenByNine3000-v4.jpg",
+      "timestamp": "2025-01-15T10:03:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/15/realestate/luxury/david-rasche-home-maplewood-nj.html",
+      "headline": "At Home With David Rasche",
+      "image": "https://nytimes.com/images/2025/01/14/realestate/athomewith-rasche-promo/athomewith-rasche-promo-mediumSquareAt3X.jpg",
+      "timestamp": "2025-01-15T10:03:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/15/upshot/college-enrollment-race.html",
+      "headline": "What Happened to Enrollment at Top Colleges After Affirmative Action Ended",
+      "image": "https://nytimes.com/images/2025/01/13/multimedia/2024-09-09-college-race-data-index/2024-09-09-college-race-data-index-videoSixteenByNine3000-v3.png",
+      "timestamp": "2025-01-15T10:01:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
