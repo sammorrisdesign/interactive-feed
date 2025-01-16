@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-09T16:22:53.331Z",
+  "lastUpdated": "2025-01-16T18:23:21.232Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/private-school-demographics",
+      "headline": "Private School Demographics",
+      "image": "https://projects.propublica.org/private-school-demographics/assets/og_image-596aa474.png",
+      "timestamp": "2025-01-16T17:40:00.000Z"
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
