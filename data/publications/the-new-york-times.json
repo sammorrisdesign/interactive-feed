@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-16T10:18:12.010Z",
+  "lastUpdated": "2025-01-16T20:18:19.321Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/16/climate/home-insurance-cancellations.html",
+      "headline": "More Americans, Risking Ruin, Drop Their Home Insurance",
+      "image": "https://nytimes.com/images/2025/01/16/multimedia/2025-01-14-new-insurance-data-index/2025-01-14-new-insurance-data-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2025-01-16T20:14:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
