@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-01-08T05:17:11.629Z",
+  "lastUpdated": "2025-01-16T05:16:39.479Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c229b603-3c6e-4a1c-bede-67df2d10d59f",
+      "headline": "First US congestion pricing scheme brings dramatic drop in NY traffic",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff6b376d4-d2b5-4eb1-b7af-e208849ee196.jpg?source=next-barrier-page",
+      "timestamp": "2025-01-16T05:01:17.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/be1460c6-7d10-4518-8cc3-82bda78ab179",
+      "headline": "The legacy of Scholz’s ill-fated coalition — in charts",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fde0afb66-fb75-444a-80f0-e143f3f89cf2.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2025-01-16T05:00:17.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
