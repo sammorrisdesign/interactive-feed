@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-15T22:15:51.861Z",
+  "lastUpdated": "2025-01-16T06:23:59.114Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/16/opinion/men-trump-voters-focus-group.html",
+      "headline": "‘Where’s Our Place in Society?’: 12 Men Who Backed Trump Grapple With America",
+      "image": "https://nytimes.com/images/2025/01/15/opinion/men-trump-voters-focus-group-1736977082437/men-trump-voters-focus-group-1736977082437-mobileMasterAt3x.png",
+      "timestamp": "2025-01-16T06:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
