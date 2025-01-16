@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-01-16T08:21:31.557Z",
+  "lastUpdated": "2025-01-16T10:18:12.010Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/16/realestate/nashville-home-sale.html",
+      "headline": "Outside Nashville, She Rebuilt Her Life With $200,000 and a Dream",
+      "image": "https://nytimes.com/images/2025/01/16/multimedia/16Hunt-Israel1-lzwj/16Hunt-Israel1-lzwj-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-16T10:03:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/16/us/politics/2024-election-washington-gop.html",
+      "headline": "Did Republicans Take Washington in a Landslide? Not So Much",
+      "image": "https://nytimes.com/images/2025/01/14/multimedia/2024-12-12-competitive-elections-index/2024-12-12-competitive-elections-index-videoSixteenByNine3000-v2.png",
+      "timestamp": "2025-01-16T10:02:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/16/travel/things-to-do-barbados.html",
+      "headline": "36 Hours in Barbados",
+      "image": "https://nytimes.com/images/2025/01/16/multimedia/16Hours-Barbados-lqkm/16Hours-Barbados-lqkm-horizontalMediumAt2X-v3.jpg",
+      "timestamp": "2025-01-16T10:00:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
