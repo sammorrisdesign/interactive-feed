@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-02T12:34:48.209Z",
+  "lastUpdated": "2025-01-17T04:42:11.891Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/china-baut-seine-praesenz-in-der-antarktis-weiter-aus-die-fortschritte-beim-bau-der-fuenften-forschungsstation-naehren-einen-alten-verdacht-ld.1866152",
+      "headline": "China baut seine Präsenz in der Antarktis weiter aus: Die Fortschritte beim Bau der fünften Forschungsstation nähren einen alten Verdacht",
+      "image": "https://img.nzz.ch/2025/01/16/fb71e2c6-9797-4705-80c8-6c63dcaa738d.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2025-01-17T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
