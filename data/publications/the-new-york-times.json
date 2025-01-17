@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-16T20:18:19.321Z",
+  "lastUpdated": "2025-01-17T02:31:27.859Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/16/arts/design/impressionism-quiz.html",
+      "headline": "Impressionism: Le Quiz!",
+      "image": "https://nytimes.com/images/2025/01/16/arts/impressionism-quiz-promo/impressionism-quiz-promo-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-17T01:51:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
