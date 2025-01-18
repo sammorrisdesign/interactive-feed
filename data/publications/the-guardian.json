@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-18T11:12:53.862Z",
+  "lastUpdated": "2025-01-18T12:30:56.665Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jan/18/biden-presidency-legacy-trump-election",
+      "headline": "An American tragedy: how Biden paved the way for Trump’s White House return",
+      "image": "https://i.guim.co.uk/img/media/c364ba044b9a47cab5afb3ebd7a3bfe6e4b94334/0_113_4000_2399/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ca422997a07ffa944a68ea96779809c",
+      "timestamp": "2025-01-18T12:00:25.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
