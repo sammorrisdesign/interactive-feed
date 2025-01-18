@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-17T15:17:43.507Z",
+  "lastUpdated": "2025-01-18T11:12:53.862Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jan/18/la-fires-started-conditions-drought",
+      "headline": "The perfect storm: why did LA’s wildfires explode out of control?",
+      "image": "https://i.guim.co.uk/img/media/dbc1b708d0e11fc89ddb2c4ab42850752ebce4f0/1_0_2998_1800/master/2998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f6daec29bad3ba7717f97d5649f7987",
+      "timestamp": "2025-01-18T11:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
