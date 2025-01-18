@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-18T02:54:36.560Z",
+  "lastUpdated": "2025-01-18T07:14:21.152Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/18/us/los-angeles-fires-palisades-eaton-timeline.html",
+      "headline": "The 24 Hours When L.A. Went Up in Flames",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-01-18T07:10:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
