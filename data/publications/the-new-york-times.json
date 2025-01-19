@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-01-18T07:14:21.152Z",
+  "lastUpdated": "2025-01-19T10:17:15.976Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/19/us/politics/trump-president-promises.html",
+      "headline": "Donald Trump’s Promises",
+      "image": "https://nytimes.com/images/2025/01/19/multimedia/00-trump-promises-promo-qvzl/00-trump-promises-promo-qvzl-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-19T10:01:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/19/upshot/biden-memories-poll.html",
+      "headline": "The One Thing Americans Remember About Biden",
+      "image": "https://nytimes.com/images/2025/01/17/multimedia/2025-01-16-biden-memories-index/2025-01-16-biden-memories-index-videoSixteenByNine3000-v2.png",
+      "timestamp": "2025-01-19T10:01:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
