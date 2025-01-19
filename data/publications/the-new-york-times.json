@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-19T10:17:15.976Z",
+  "lastUpdated": "2025-01-19T11:12:55.241Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/19/opinion/democrat-republican-post-election-vibes-mood.html",
+      "headline": "Checking In on America’s Vibes as Trump Takes the Stage",
+      "image": "https://nytimes.com/images/2025/01/17/multimedia/2024-12-17-postelection-vibes-index/2024-12-17-postelection-vibes-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-01-19T11:00:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
