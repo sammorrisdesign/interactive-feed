@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-20T20:37:04.671Z",
+  "lastUpdated": "2025-01-20T21:15:45.011Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/20/us/trump-inauguration-speech-annotated.html",
+      "headline": "Donald Trump’s Second Inaugural Speech, Annotated",
+      "image": "https://nytimes.com/images/2025/01/20/multimedia/trump-inauguration-speech-annotated-promo/trump-inauguration-speech-annotated-promo-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-01-20T20:46:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
