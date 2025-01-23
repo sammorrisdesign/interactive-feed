@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-01-23T05:16:55.951Z",
+  "lastUpdated": "2025-01-23T10:19:09.945Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/23/us/politics/republican-tax-spending-cuts-options.html",
+      "headline": "Read: Draft Options for G.O.P. Cost Cuts for Tax Bill",
+      "image": "https://nytimes.com/images/2025/01/23/doc-f5966c4d-6ccc-43d7-be09-9-promo/doc-f5966c4d-6ccc-43d7-be09-9-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-01-23T10:13:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/23/realestate/essex-county-new-jersey-home-sale.html",
+      "headline": "Two Houses, Alike in Dignity, in Fair Verona (Plus One in West Orange)",
+      "image": "https://nytimes.com/images/2025/01/23/multimedia/23Hunt-Kinney-01-qhbv/23Hunt-Kinney-01-qhbv-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-01-23T10:02:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/23/travel/things-to-do-quebec-city.html",
+      "headline": "36 Hours in Quebec City",
+      "image": "https://nytimes.com/images/2025/01/23/multimedia/23Hours-QuebecCity-01-wbqp/23Hours-QuebecCity-01-wbqp-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-01-23T10:00:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
