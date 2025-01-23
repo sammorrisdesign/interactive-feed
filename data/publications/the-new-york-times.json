@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-21T13:38:45.933Z",
+  "lastUpdated": "2025-01-23T05:16:55.951Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/22/world/22wea-quake-tracker-philippines-nytduwzp.html",
+      "headline": "Map: 5.7-Magnitude Earthquake Strikes the Philippines",
+      "image": "https://nytimes.com/images/2025/01/22/world/22wea-quake-tracker-philippines-nytduwzp-index/22wea-quake-tracker-philippines-nytduwzp-index-videoSixteenByNine3000-v9.jpg",
+      "timestamp": "2025-01-23T04:45:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

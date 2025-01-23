@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2025-01-21T20:37:54.863Z",
+  "lastUpdated": "2025-01-23T05:16:56.524Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/7071e5cb-b9ad-490e-8702-44e9434aab1f",
+      "headline": "Davos hits ‘peak pessimism’ on Europe as US exuberance rises ",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F68070e78-9e1c-4459-a566-6c1efc7c09d4.jpg?source=next-barrier-page",
+      "timestamp": "2025-01-23T05:01:00.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/uk-electric-vehicles",
+      "headline": "Petrol cars are on their way out. Are you ready to go electric?",
+      "timestamp": "2025-01-23T05:01:00.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
