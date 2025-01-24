@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-20T16:21:33.546Z",
+  "lastUpdated": "2025-01-24T04:40:42.886Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/raetselhafte-landebahn-nahe-jemen-entdeckt-wer-steckt-dahinter-ld.1867414",
+      "headline": "Nahe Jemens Küste taucht eine rätselhafte Landebahn auf – wer steckt dahinter?",
+      "image": "https://img.nzz.ch/2025/01/22/815b7c17-386d-452d-88a5-e9a2ed7f300e.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2700,1519,x0,y178&wmark=nzz",
+      "timestamp": "2025-01-24T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
