@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-25T01:15:00.703Z",
+  "lastUpdated": "2025-01-25T02:27:45.989Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/24/us/politics/hegseth-senate-confirmation-vote.html",
+      "headline": "Live Senate Tally: Pete Hegseth Confirmation Vote",
+      "image": "https://nytimes.com/images/2025/01/24/multimedia/promo-1737757355334/promo-1737757355334-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-01-25T01:40:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
