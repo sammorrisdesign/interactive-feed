@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-24T21:15:43.600Z",
+  "lastUpdated": "2025-01-25T01:15:00.703Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/24/us/la-fires-hydrants-water.html",
+      "headline": "Wildfires Are Revealing the Limits of Our Hydrant Systems",
+      "image": "https://nytimes.com/images/2025/01/23/multimedia/2025-01-22-la-hydrants-index/2025-01-22-la-hydrants-index-videoSixteenByNine3000.png",
+      "timestamp": "2025-01-25T00:30:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
