@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-25T05:15:48.590Z",
+  "lastUpdated": "2025-01-26T12:30:42.140Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d5bc13b8-409b-419e-81b5-46d6a3ff642d",
+      "headline": "Wild January weather assails the US",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffc6b13c0-d4d3-4d63-a6d3-4fe483b2089c.jpg?source=next-barrier-page",
+      "timestamp": "2025-01-26T11:28:34.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
