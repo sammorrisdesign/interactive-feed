@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-27T13:22:52.736Z",
+  "lastUpdated": "2025-01-27T22:38:43.634Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jan/18/california-fires-charity",
+      "headline": "The landlord and the LA fires: how my friend’s loss revealed a new hierarchy of who gets help",
+      "image": "https://i.guim.co.uk/img/media/6266cef91e30a224556369d026440b09817a09c3/0_439_7788_4676/master/7788.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3fe64b72eafe6a92d466342e4cb1154",
+      "timestamp": "2025-01-18T15:00:29.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
