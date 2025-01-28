@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-01-28T19:36:55.506Z",
+  "lastUpdated": "2025-01-28T20:18:29.051Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/28/us/elections/results-florida-special-congressional-primaries.html",
+      "headline": "Florida Special Congressional Primary Election Results",
+      "image": "https://nytimes.com/images/2025/01/28/multimedia/eln-PRE-2025-01-28-state-fl-96d2ec/eln-PRE-2025-01-28-state-fl-96d2ec-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-28T19:42:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/28/us/elections/results-florida-us-house-1-special-primary.html",
+      "headline": "Florida First Congressional District Special Primary Election Results",
+      "image": "https://nytimes.com/images/2025/01/28/multimedia/eln-PRE-2025-01-28-race-fl-us-h-1-sp-64cdb2/eln-PRE-2025-01-28-race-fl-us-h-1-sp-64cdb2-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-28T19:37:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/28/us/elections/results-florida-us-house-6-special-primary.html",
+      "headline": "Florida Sixth Congressional District Special Primary Election Results",
+      "image": "https://nytimes.com/images/2025/01/28/multimedia/eln-PRE-2025-01-28-race-fl-us-h-6-sp-e9bc24/eln-PRE-2025-01-28-race-fl-us-h-6-sp-e9bc24-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-28T19:37:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
