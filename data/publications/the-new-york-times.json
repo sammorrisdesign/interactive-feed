@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-27T16:22:34.507Z",
+  "lastUpdated": "2025-01-28T01:18:16.123Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/27/us/politics/bessent-senate-confirmation-vote.html",
+      "headline": "How Each Senator Voted on Confirming Scott Bessent as Treasury Secretary",
+      "image": "https://nytimes.com/images/2025/01/27/us/politics/bessent-senate-confirmation-vote-1738021967980/bessent-senate-confirmation-vote-1738021967980-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-01-28T00:55:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
