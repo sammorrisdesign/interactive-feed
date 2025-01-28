@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-28T01:18:16.123Z",
+  "lastUpdated": "2025-01-28T04:20:44.474Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/27/us/omb-memo.html",
+      "headline": "Read the Memo Pausing Federal Grants and Loans",
+      "image": "https://nytimes.com/images/2025/01/28/doc-6c0263cb-b891-46f6-8c75-1-promo/doc-6c0263cb-b891-46f6-8c75-1-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-01-28T04:18:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
