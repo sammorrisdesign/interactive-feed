@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-29T18:43:22.206Z",
+  "lastUpdated": "2025-01-29T22:16:41.246Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/29/arts/music/billie-eilish-grammys-hit-me-hard-and-soft.html",
+      "headline": "What Inspired Billie Eilish’s Grammy-Nominated Album? Let Her Show You.",
+      "image": "https://nytimes.com/images/2025/01/29/arts/billie-moodboard-promo-static/billie-moodboard-promo-static-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-01-29T21:58:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
