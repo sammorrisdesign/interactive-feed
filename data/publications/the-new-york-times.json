@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-29T04:20:32.827Z",
+  "lastUpdated": "2025-01-29T05:38:28.112Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/29/world/asia/china-delivery-driver.html",
+      "headline": "Racing for Pennies: A Day in the Life of a Chinese Food Delivery Worker",
+      "image": "https://nytimes.com/images/2025/01/24/multimedia/2024-11-11-china-delivery-workers-index/2024-11-11-china-delivery-workers-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-01-29T05:37:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
