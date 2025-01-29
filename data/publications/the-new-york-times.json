@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-28T20:18:29.051Z",
+  "lastUpdated": "2025-01-29T04:20:32.827Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/28/upshot/federal-programs-funding-trump-omb.html",
+      "headline": "Which Federal Programs Are Under Scrutiny? The Budget Office Named 2,600 of Them.",
+      "image": "https://nytimes.com/images/2025/01/28/multimedia/2025-01-28-list-of-grants-index/2025-01-28-list-of-grants-index-videoSixteenByNine3000-v5.jpg",
+      "timestamp": "2025-01-29T03:51:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
