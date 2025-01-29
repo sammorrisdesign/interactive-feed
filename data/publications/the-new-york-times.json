@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-01-29T05:38:28.112Z",
+  "lastUpdated": "2025-01-29T10:18:17.706Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/29/climate/santa-ana-winds-fire-risk.html",
+      "headline": "These Are the Winds That Turn Wildfires Deadly in L.A.",
+      "image": "https://nytimes.com/images/2025/01/28/multimedia/2025-01-16-cli-santa-ana-winds-index/2025-01-16-cli-santa-ana-winds-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-01-29T10:03:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/29/us/politics/trump-cabinet-confirmations-tracker.html",
+      "headline": "Tracking Trump’s Cabinet Confirmations",
+      "image": "https://nytimes.com/images/2025/01/28/multimedia/2025-01-23-cabinet-tracker-index/2025-01-23-cabinet-tracker-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2025-01-29T10:02:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

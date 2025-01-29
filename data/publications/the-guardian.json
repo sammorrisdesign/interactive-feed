@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-27T22:38:43.634Z",
+  "lastUpdated": "2025-01-29T10:18:18.187Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2025/jan/29/silicon-valley-rightwing-technofascism",
+      "headline": "‘Headed for technofascism’: the rightwing roots of Silicon Valley",
+      "image": "https://i.guim.co.uk/img/media/a2339875682ca8b70545e976de4a4c8451f35ff2/93_51_2821_1694/master/2821.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8273d21ff11719d3d30a0c38eefb172",
+      "timestamp": "2025-01-29T10:00:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
