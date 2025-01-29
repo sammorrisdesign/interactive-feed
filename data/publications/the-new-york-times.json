@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-29T10:18:17.706Z",
+  "lastUpdated": "2025-01-29T18:43:22.206Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/29/upshot/trump-omb-spreadsheet.html",
+      "headline": "Office of Management and Budget Spreadsheet of 2,600 Federal Programs Under Review",
+      "image": "https://nytimes.com/images/2025/01/29/doc-6bbacca8-5b9c-40ad-9e0c-f-promo/doc-6bbacca8-5b9c-40ad-9e0c-f-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-01-29T18:38:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
