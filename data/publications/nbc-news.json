@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-01-28T21:16:06.332Z",
+  "lastUpdated": "2025-01-30T21:15:53.412Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/data-graphics/dc-plane-crash-flight-path-altitude-black-hawk-helicopter-american-air-rcna190025",
+      "headline": "The deadly midair crash over D.C. in charts and maps",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-01/20250130-dca-crasj-2x1-jw-54834e.jpg",
+      "timestamp": "2025-01-30T20:57:24.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
