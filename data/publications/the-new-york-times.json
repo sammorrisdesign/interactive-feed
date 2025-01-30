@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-30T10:17:48.712Z",
+  "lastUpdated": "2025-01-30T14:16:22.935Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/30/us/washington-dc-plane-crash-helicopter-maps-photos.html",
+      "headline": "How the Plane and Helicopter Collided in Washington: Maps and Graphics",
+      "image": "https://nytimes.com/images/2025/01/30/multimedia/00crash-map/00crash-map-superJumbo-v2.jpg",
+      "timestamp": "2025-01-30T13:40:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
