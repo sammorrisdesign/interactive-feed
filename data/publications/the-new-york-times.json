@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-29T22:16:41.246Z",
+  "lastUpdated": "2025-01-30T01:17:32.497Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/29/business/energy-environment/eaton-fire-electrical-faults-southern-california-edison.html",
+      "headline": "New Data Shows Major Electrical Disruption Ahead of Eaton Fire",
+      "image": "https://nytimes.com/images/2025/01/29/multimedia/2025-01-28-eaton-electrical-faults-index/2025-01-28-eaton-electrical-faults-index-videoSixteenByNine3000-v5.jpg",
+      "timestamp": "2025-01-30T00:28:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
