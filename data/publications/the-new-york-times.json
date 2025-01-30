@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-30T14:16:22.935Z",
+  "lastUpdated": "2025-01-30T21:36:58.937Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/30/books/new-york-city-books.html",
+      "headline": "Read Your Way Through New York City",
+      "image": "https://nytimes.com/images/2025/01/27/books/review/00LITGUIDE-NYSANTE/00LITGUIDE-NYSANTE-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-01-30T21:20:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
