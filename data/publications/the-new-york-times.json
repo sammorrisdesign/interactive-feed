@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-01-30T23:17:41.607Z",
+  "lastUpdated": "2025-01-31T01:18:52.909Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/01/30/us/politics/burgum-senate-confirmation-vote.html",
+      "headline": "How Each Senator Voted to Confirm Doug Burgum as Interior Secretary",
+      "image": "https://nytimes.com/images/2025/01/29/us/politics/burgum-senate-confirmation-vote-1738191822423/burgum-senate-confirmation-vote-1738191822423-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-01-31T00:44:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
