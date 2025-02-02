@@ -472,6 +472,15 @@
           }
         }
       }]
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "twitterHandle": "TA_Interaktiv",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/interaktiv"
+      }]
     }
   ]
 }
