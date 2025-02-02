@@ -27,7 +27,7 @@ const getImageForArticleUrl = async(imageUrl, client) => {
       return null;
     }
   } catch (e) {
-    console.log('Error getting image for', url);
+    console.log('Error getting image for', imageUrl);
     console.log(e);
     return null;
   }
