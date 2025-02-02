@@ -178,7 +178,9 @@ const fetchers = {
 
   XML: async(feed) => {
     try {
-      const parser = new XMLParser();
+      const parser = new XMLParser({
+        ignoreAttributes: false
+      });
       const response = await fetch(feed.path);
       let data = parser.parse(await response.text());
       let articles;
@@ -196,7 +198,8 @@ const fetchers = {
           blueSkyHandle: feed.blueSkyHandle,
           url: article.link,
           headline: article.title,
-          timestamp: article.isoDate || article.pubDate
+          timestamp: article.isoDate || article.pubDate,
+          image: article?.enclosure?.["@_url"]
         }))
       } else if (feed.format == 'Atom') {
         data = data.feed.entry;
