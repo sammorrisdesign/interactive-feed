@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-24T04:40:42.886Z",
+  "lastUpdated": "2025-02-03T18:01:15.062Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/umfrage-migration-selbst-fuer-spd-waehler-wichtiger-als-rechtsruck-ld.1869190",
+      "headline": "Zehntausende protestieren nach einer Abstimmung im Bundestag gegen rechts, doch Umfragen zeigen: Migration ist die Hauptsorge der Deutschen",
+      "image": "https://img.nzz.ch/2025/02/02/85a1b39b-9ec9-48ff-b8bd-ed19cfea1a20.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3160,1778,x1893,y341&wmark=nzz",
+      "timestamp": "2025-02-03T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
