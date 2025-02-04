@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-04T03:17:06.687Z",
+  "lastUpdated": "2025-02-04T10:15:39.220Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/04/opinion/simpsons-hank-azaria-voice-acting-AI.html",
+      "headline": "A.I. Is Coming for Hank Azaria’s ‘Simpsons’ Voices",
+      "image": "https://nytimes.com/images/2025/02/04/opinion/04azaria-promo-still/04azaria-promo-still-superJumbo.jpg",
+      "timestamp": "2025-02-04T10:03:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
