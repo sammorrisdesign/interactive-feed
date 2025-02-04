@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-02T18:27:57.492Z",
+  "lastUpdated": "2025-02-04T03:17:06.687Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/03/us/dc-plane-crash-victims.html",
+      "headline": "The Lives Cut Short by the D.C. Plane Crash",
+      "image": "https://nytimes.com/images/2025/02/03/us/dc-crash-victims-promo/dc-crash-victims-promo-superJumbo.jpg",
+      "timestamp": "2025-02-04T02:35:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
