@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-02-04T13:26:13.046Z",
+  "lastUpdated": "2025-02-05T10:15:27.481Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/05/us/trump-agenda-defying-law.html",
+      "headline": "Trump’s Actions Are Defying Legal Limits",
+      "image": "https://nytimes.com/images/2025/02/04/multimedia/2025-02-04-trump-law-overreach-index/2025-02-04-trump-law-overreach-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-02-05T10:02:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/05/realestate/craig-melvin-today-show-home.html",
+      "headline": "New ‘Today’ Show Anchor Is Comfortable in His Shoes.",
+      "image": "https://nytimes.com/images/2025/02/05/realestate/05athomewith-craig-melvin-promo/05athomewith-craig-melvin-promo-mediumSquareAt3X.jpg",
+      "timestamp": "2025-02-05T10:01:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
