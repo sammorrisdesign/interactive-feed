@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-02-05T16:18:23.798Z",
+  "lastUpdated": "2025-02-05T20:16:30.023Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/books/romance-books.html",
+      "headline": "Let Us Help You Find Your Next Book: Romance",
+      "image": "https://nytimes.com/images/2025/02/05/books/romance_promo/romance_promo-superJumbo-v2.jpg",
+      "timestamp": "2025-02-05T19:46:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/05/books/romance-books-love.html",
+      "headline": "Classic Romance Novels: A Starter Pack",
+      "image": "https://nytimes.com/images/2025/01/22/books/romance-vintage-starterpack-promo/romance-vintage-starterpack-promo-superJumbo-v3.jpg",
+      "timestamp": "2025-02-05T19:40:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
