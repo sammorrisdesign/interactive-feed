@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-05T21:13:42.914Z",
+  "lastUpdated": "2025-02-05T21:37:06.486Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/05/business/media/60-minutes-kamala-harris-interview-transcript.html",
+      "headline": "Transcript of ‘60 Minutes’ Interview With Kamala Harris",
+      "image": "https://nytimes.com/images/2025/02/05/doc-ef172935-e7e3-4389-84a7-0-promo/doc-ef172935-e7e3-4389-84a7-0-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-05T21:32:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
