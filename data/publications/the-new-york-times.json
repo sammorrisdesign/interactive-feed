@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-05T10:15:27.481Z",
+  "lastUpdated": "2025-02-05T15:38:20.620Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/05/us/dc-crash-helicopter-black-hawk-pilots.html",
+      "headline": "What the Black Hawk Pilots Could See, Just Before the Crash",
+      "image": "https://nytimes.com/images/2025/02/04/multimedia/2025-02-02-reagan-crash-3d-analysis-index/2025-02-02-reagan-crash-3d-analysis-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-02-05T15:16:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
