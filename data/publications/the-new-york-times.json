@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-02-05T15:38:20.620Z",
+  "lastUpdated": "2025-02-05T16:18:23.798Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/05/opinion/coming-out-evangelical-pastor.html",
+      "headline": "My Father Was a Conservative Evangelical Pastor. Then I Came Out.",
+      "image": "https://nytimes.com/images/2025/01/24/opinion/00pastorsdiaries-promo-FB/00pastorsdiaries-promo-FB-superJumbo.jpg",
+      "timestamp": "2025-02-05T16:00:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/05/crosswords/answer-key-super-mega.html",
+      "headline": "Puzzle Mania Super Mega Crossword Answers",
+      "image": "https://nytimes.com/images/2025/01/23/doc-396e8016-fa30-44b3-872f-f-promo/doc-396e8016-fa30-44b3-872f-f-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-05T15:45:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
