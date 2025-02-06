@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-02-06T04:17:27.742Z",
+  "lastUpdated": "2025-02-06T10:15:19.176Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/06/climate/coal-plants-retirement.html",
+      "headline": "Where Coal Is Retiring, and Hanging On, in the U.S.",
+      "image": "https://nytimes.com/images/2025/02/05/multimedia/2025-01-22-us-coal-plants-index/2025-01-22-us-coal-plants-index-videoSixteenByNine3000.png",
+      "timestamp": "2025-02-06T10:03:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/06/realestate/manhattan-one-bedroom-apartment.html",
+      "headline": "Two First-Time Buyers Searched the West Side With a $700,000 Budget. Which One-Bedroom Was Right?",
+      "image": "https://nytimes.com/images/2025/02/06/multimedia/06Hunt-Gordon-01-tqgw/06Hunt-Gordon-01-tqgw-mobileMasterAt3x-v2.jpg",
+      "timestamp": "2025-02-06T10:03:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/06/travel/things-to-do-St-Pete-Florida.html",
+      "headline": "36 Hours in St. Petersburg, Fla.",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-02-06T10:00:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
