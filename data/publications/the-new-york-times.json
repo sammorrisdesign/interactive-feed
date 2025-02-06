@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-06T02:33:40.628Z",
+  "lastUpdated": "2025-02-06T04:17:27.742Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/us/trump-agenda-2025.html",
+      "headline": "All of the Trump Administration’s Major Moves in the First 100 Days",
+      "image": "https://nytimes.com/images/2025/02/05/multimedia/2025-01-28-trump-100-days-index/2025-01-28-trump-100-days-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-02-06T04:00:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
