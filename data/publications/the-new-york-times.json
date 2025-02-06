@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-06T22:38:11.996Z",
+  "lastUpdated": "2025-02-06T23:15:51.297Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/06/nyregion/nyc-memo-shelters.html",
+      "headline": "Read the Guidance Sent to New York City Shelters",
+      "image": "https://nytimes.com/images/2025/02/06/doc-3815ca27-cdb5-45a3-864f-f-promo/doc-3815ca27-cdb5-45a3-864f-f-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-06T23:12:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
