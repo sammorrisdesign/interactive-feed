@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-06T10:15:19.176Z",
+  "lastUpdated": "2025-02-06T17:13:01.470Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/06/us/politics/cabinet-confirmation-votes.html",
+      "headline": "How Each Senator Has Voted on Trump’s Nominees So Far",
+      "image": "https://nytimes.com/images/2025/02/06/multimedia/2025-01-27-cabinet-confirmation-votes-index/2025-01-27-cabinet-confirmation-votes-index-videoSixteenByNine3000.png",
+      "timestamp": "2025-02-06T16:56:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
