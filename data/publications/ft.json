@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-01-26T12:30:42.140Z",
+  "lastUpdated": "2025-02-06T05:16:12.510Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1902feb4-9c1c-4c90-ba6b-235e89fda784",
+      "headline": "Trump tracker: US trade",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fbfaa5047-861d-44b1-807e-9f93f982fff2.jpg?source=next-barrier-page",
+      "timestamp": "2025-02-06T05:00:40.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
