@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-06T23:15:51.297Z",
+  "lastUpdated": "2025-02-07T02:34:36.525Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/06/us/politics/vought-senate-confirmation-vote.html",
+      "headline": "How Each Senator Voted to Confirm Russell T. Vought as Budget Chief",
+      "image": "https://nytimes.com/images/2025/02/05/us/politics/vought-senate-confirmation-vote-1738870424870/vought-senate-confirmation-vote-1738870424870-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-02-07T02:01:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
