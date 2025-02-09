@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-09T11:10:40.143Z",
+  "lastUpdated": "2025-02-09T16:15:22.182Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/abstimmungen-vom-9-februar-so-hat-ihre-gemeinde-votiert-ld.1870074",
+      "headline": "So hat Ihre Gemeinde bei der Umweltverantwortungsinitiative abgestimmt",
+      "image": "https://img.nzz.ch/2025/02/09/e3772e27-048b-437b-9d3b-ad69f842afcd.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1991,1120,x164,y0&wmark=nzz",
+      "timestamp": "2025-02-09T15:39:35.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
