@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-04T04:38:54.222Z",
+  "lastUpdated": "2025-02-09T11:10:40.143Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/abstimmungen-schweiz-2025-alle-resultate-vom-9-februar-ld.1870056",
+      "headline": "Alle Resultate zu den Abstimmungen vom 9. Februar 2025 in der Schweiz",
+      "image": "https://img.nzz.ch/2025/02/09/5f2b82b0-8013-4b04-96e4-d2aafe8c8116.webp?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4000,2250,x0,y208&wmark=nzz",
+      "timestamp": "2025-02-09T10:40:03.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
