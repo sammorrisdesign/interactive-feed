@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-09T01:10:54.323Z",
+  "lastUpdated": "2025-02-09T02:36:00.909Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/08/world/08wea-quake-tracker-caribbean-sea-nyt93gtj.html",
+      "headline": "Map: 7.6-Magnitude Earthquake Strikes the Caribbean Sea",
+      "image": "https://nytimes.com/images/2025/02/08/world/08wea-quake-tracker-caribbean-sea-nyt93gtj-index/08wea-quake-tracker-caribbean-sea-nyt93gtj-index-videoSixteenByNine3000-v26.jpg",
+      "timestamp": "2025-02-09T01:31:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
