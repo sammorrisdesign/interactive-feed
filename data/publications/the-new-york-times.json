@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-09T15:14:15.225Z",
+  "lastUpdated": "2025-02-10T13:28:25.051Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/10/books/review/author-couples-quiz.html",
+      "headline": "Do You Know These Literary Power Couples and Their Work?",
+      "image": "https://nytimes.com/images/2025/02/10/books/review/10Quiz-AuthorCouples/10Quiz-AuthorCouples-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-10T13:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
