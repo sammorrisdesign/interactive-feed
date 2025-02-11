@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-11T14:14:29.705Z",
+  "lastUpdated": "2025-02-11T21:13:37.622Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/11/weather/zelia-map-path-tracker.html",
+      "headline": "Tracking Tropical Cyclone Zelia",
+      "image": "https://nytimes.com/images/2025/02/11/world/seventeen-map-path-tracker-index/seventeen-map-path-tracker-index-videoSixteenByNine3000-v7.jpg",
+      "timestamp": "2025-02-11T20:38:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
