@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-10T13:28:25.051Z",
+  "lastUpdated": "2025-02-11T01:07:19.933Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/10/nyregion/adams-case-dismiss-memo.html",
+      "headline": "Read the Justice Department Memo About Eric Adams’s Corruption Case",
+      "image": "https://nytimes.com/images/2025/02/11/doc-c66c54ec-dd0e-4f5a-bb6d-4-promo/doc-c66c54ec-dd0e-4f5a-bb6d-4-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-11T00:05:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
