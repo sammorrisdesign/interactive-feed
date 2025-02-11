@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-09T19:11:20.853Z",
+  "lastUpdated": "2025-02-11T11:12:37.943Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2025/feb/11/dei-meta-facebook",
+      "headline": "How Meta abandoned Silicon Valley’s most ambitious diversity goals",
+      "image": "https://i.guim.co.uk/img/media/94f47db11c9b01211d9e575d54c155964753ded5/0_748_2400_1440/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1bcfac8f1f4ec6d508ccb7931238f86d",
+      "timestamp": "2025-02-11T11:00:52.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
