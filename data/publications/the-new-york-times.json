@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-11T21:13:37.622Z",
+  "lastUpdated": "2025-02-12T02:33:39.891Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/11/us/politics/trump-musk-doge-federal-workers.html",
+      "headline": "Where Trump, Musk and DOGE Have Cut Federal Workers So Far",
+      "image": "https://nytimes.com/images/2025/02/11/multimedia/2025-02-06-federal-workforce-index/2025-02-06-federal-workforce-index-videoSixteenByNine3000-v6.png",
+      "timestamp": "2025-02-12T01:19:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
