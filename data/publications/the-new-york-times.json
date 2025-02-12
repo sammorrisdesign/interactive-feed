@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-12T15:38:26.571Z",
+  "lastUpdated": "2025-02-12T16:18:53.816Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/12/us/politics/gabbard-senate-confirmation-vote.html",
+      "headline": "Live Senate Tally: Tulsi Gabbard Confirmation Vote",
+      "image": "https://nytimes.com/images/2025/01/31/us/politics/gabbard-senate-confirmation-vote-1739310533243/gabbard-senate-confirmation-vote-1739310533243-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-02-12T15:47:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
