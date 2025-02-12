@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-12T02:33:39.891Z",
+  "lastUpdated": "2025-02-12T10:15:17.494Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/12/business/economy/who-pays-for-tariffs.html",
+      "headline": "Who Pays for Tariffs",
+      "image": "https://nytimes.com/images/2025/02/11/multimedia/2025-02-03-tariff-explainer-index/2025-02-03-tariff-explainer-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-02-12T10:04:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
