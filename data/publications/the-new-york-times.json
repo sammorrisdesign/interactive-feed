@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-13T15:36:54.879Z",
+  "lastUpdated": "2025-02-13T18:20:35.996Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/13/world/americas/gulf-mexico-trump.html",
+      "headline": "Who Controls the Gulf of Mexico?",
+      "image": "https://nytimes.com/images/2025/02/13/multimedia/2025-02-12-gulf-boundaries-index/2025-02-12-gulf-boundaries-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2025-02-13T17:42:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
