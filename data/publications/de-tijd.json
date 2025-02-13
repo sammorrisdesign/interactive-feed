@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-01-24T16:21:29.844Z",
+  "lastUpdated": "2025-02-13T14:14:05.934Z",
   "articles": [
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "url": "https://multimedia.tijd.be/mijngeld/laadpalen/",
+      "headline": "Groei van laadinfrastructuur in publieke ruimte gaat razendsnel",
+      "image": "https://multimedia.tijd.be/portfolio/images/laadpalenGroen.png",
+      "timestamp": "2025-02-10T01:00:00.000Z"
+    },
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "url": "https://www.tijd.be/politiek-economie/belgie/algemeen/over-vijf-jaar-telt-belgie-meer-67-plussers-dan-kinderen-en-tieners/10586982.html",
+      "headline": "Over vijf jaar telt België meer 67-plussers dan kinderen en tieners",
+      "image": "https://multimedia.tijd.be/portfolio/images/demografie.jpg",
+      "timestamp": "2025-02-11T01:00:00.000Z"
+    },
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "url": "https://www.tijd.be/verkiezingen/federaal/500-000-extra-mensen-aan-het-werk-dat-lijkt-mission-impossible/10585688.html",
+      "headline": "500.000 extra mensen aan het werk? Dat lijkt mission impossible",
+      "image": "https://multimedia.tijd.be/portfolio/images/premiers.jpg",
+      "timestamp": "2025-02-04T01:00:00.000Z"
+    },
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "url": "https://www.tijd.be/politiek-economie/belgie/algemeen/14-procent-meer-alcoholdoden-in-belgie-in-minder-dan-tien-jaar/10584432.html",
+      "headline": "14 procent meer alcoholdoden in België in minder dan tien jaar",
+      "image": "https://multimedia.tijd.be/portfolio/images/tap.jpg",
+      "timestamp": "2025-01-30T01:00:00.000Z"
+    },
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "url": "https://www.tijd.be/politiek-economie/belgie/vlaanderen/technisch-en-beroepssecundair-onderwijs-populairder-dan-ooit/10582556.html",
+      "headline": "Technisch en beroepssecundair onderwijs populairder dan ooit",
+      "image": "https://multimedia.tijd.be/portfolio/images/technischOnderwijs.jpg",
+      "timestamp": "2025-01-16T01:00:00.000Z"
+    },
     {
       "publication": "De Tijd",
       "twitterHandle": "TijdGraphics",
