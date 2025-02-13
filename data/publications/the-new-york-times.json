@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-02-12T21:35:38.745Z",
+  "lastUpdated": "2025-02-13T10:15:32.974Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/13/realestate/miami-home-sale-prices.html",
+      "headline": "In Miami, a Young Family Sought a House to Grow Into. Would $750,000 Be Enough?",
+      "image": "https://nytimes.com/images/2025/02/13/multimedia/13Hunt-Miami-01-hzfg/13Hunt-Miami-01-hzfg-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-13T10:04:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/13/travel/things-to-do-guadalajara.html",
+      "headline": "36 Hours in Guadalajara, Mexico",
+      "image": "https://nytimes.com/images/2025/02/13/multimedia/13Hours-Guadalajara-ghwc/13Hours-Guadalajara-ghwc-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-02-13T10:00:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
