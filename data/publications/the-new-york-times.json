@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-13T21:13:39.564Z",
+  "lastUpdated": "2025-02-13T21:35:56.534Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/13/us/letter-to-bondi.html",
+      "headline": "Read Danielle Sassoon’s Letter to Attorney General Pam Bondi",
+      "image": "https://nytimes.com/images/2025/02/13/doc-a24fe629-7069-446e-94f7-7-promo/doc-a24fe629-7069-446e-94f7-7-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-13T21:30:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
