@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-12T18:20:02.133Z",
+  "lastUpdated": "2025-02-13T11:12:37.482Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/baut-china-bei-peking-ein-geheimes-militaerzentrum-ld.1870500",
+      "headline": "Entsteht bei Peking ein geheimes Militärzentrum?",
+      "image": "https://img.nzz.ch/2025/02/13/d8347b96-3b22-40af-bf87-83a6afc3ccfa.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2025-02-13T10:58:48.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
