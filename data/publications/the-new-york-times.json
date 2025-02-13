@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-13T22:13:43.088Z",
+  "lastUpdated": "2025-02-13T23:14:54.388Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/13/us/doc-annotation-letter-to-bondi.html",
+      "headline": "Danielle Sassoon’s Letter to Attorney General Pam Bondi, Annotated",
+      "image": "https://nytimes.com/images/2025/02/13/multimedia/doc-annotation-letter-to-bondi-promo/doc-annotation-letter-to-bondi-promo-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-02-13T23:07:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
