@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-02-13T18:20:35.996Z",
+  "lastUpdated": "2025-02-13T21:13:39.564Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/13/magazine/murdoch-family-trust-succession-explainer.html",
+      "headline": "How the Murdoch Family Trust Works",
+      "image": "https://nytimes.com/images/2025/01/30/magazine/MURDOCHGFX-PROMO/MURDOCHGFX-PROMO-superJumbo.jpg",
+      "timestamp": "2025-02-13T20:50:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/13/nyregion/memo-from-bove-1.html",
+      "headline": "Read the letter from Emil Bove accepting Danielle Sassoon’s resignation",
+      "image": "https://nytimes.com/images/2025/02/13/doc-1c6b1651-eec4-403a-b1a2-8-promo/doc-1c6b1651-eec4-403a-b1a2-8-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-13T20:32:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
