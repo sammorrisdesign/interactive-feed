@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-14T23:13:51.567Z",
+  "lastUpdated": "2025-02-14T23:35:59.365Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/14/us/adams-dismissal.html",
+      "headline": "Read the motion to dismiss the corruption case against Mayor Eric Adams.",
+      "image": "https://nytimes.com/images/2025/02/14/doc-884f7fc2-9e28-4600-b68a-2-promo/doc-884f7fc2-9e28-4600-b68a-2-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-14T23:32:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
