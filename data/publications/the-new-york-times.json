@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-13T23:36:01.880Z",
+  "lastUpdated": "2025-02-14T02:34:01.601Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/13/upshot/nih-trump-funding-cuts.html",
+      "headline": "How Trump’s Medical Research Cuts Would Hit Colleges and Hospitals in Every State",
+      "image": "https://nytimes.com/images/2025/02/13/multimedia/2025-02-11-nih-funding-loss-index/2025-02-11-nih-funding-loss-index-videoSixteenByNine3000-v4.png",
+      "timestamp": "2025-02-14T02:28:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
