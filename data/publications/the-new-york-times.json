@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-14T05:14:28.034Z",
+  "lastUpdated": "2025-02-14T10:15:05.700Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/14/us/politics/project-2025-trump-actions.html",
+      "headline": "How Trump’s Directives Echo Project 2025",
+      "image": "https://nytimes.com/images/2025/02/13/multimedia/2025-02-07-project-2025-trump-admin-index/2025-02-07-project-2025-trump-admin-index-videoSixteenByNine3000.png",
+      "timestamp": "2025-02-14T10:04:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
