@@ -1,7 +1,87 @@
 {
-  "lastUpdated": "2024-11-01T18:25:41.289Z",
+  "lastUpdated": "2025-02-14T21:13:23.362Z",
   "articles": [
-
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2025/02/cape-verdean-war/part-one-origins/",
+      "headline": "Blood on the streets: Boston's Cape Verdian Gang Violence",
+      "image": "https://apps.bostonglobe.com/2025/02/cape-verdean-war/static/599ec5991e17d93f68d6cac1ea119c6b/47498/LGNIJ6RUM35HADDYGPVWUE5VTM.jpg",
+      "timestamp": "2025-02-02T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://www.bostonglobe.com/2024/12/31/sports/dustin-pedroia-baseball-hall-of-fame/",
+      "headline": "Evaluating Dustin Pedroia’s Hall of Fame case",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/CSHQOA3JHVH6VK2Y55Y74FCYRQ.jpg?auth=0928dd1365b6cff39876b9abd0a829ae608ea01495aaf7d68fede927f06ad339&width=1440",
+      "timestamp": "2024-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2024/12/interactive-comic-icu-calluses/",
+      "headline": "Interactive comic: The hardened calluses of an ICU nurse",
+      "image": "https://media.ceros.com/boston-globe-opinion/images/2024/12/22/a347729fc4d4d8bc029bb234db9a27e0/icu5-16-9.png",
+      "timestamp": "2024-12-09T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/magazine/2024/12/sandra-birchmore-part-1/",
+      "headline": "Sandra Birchmore put her trust in the police. They broke it.",
+      "image": "https://apps.bostonglobe.com/magazine/2024/12/sandra-birchmore-part-1/static/447a172f677c5909af28cdde82b36efc/497c6/H7A3J3T5HJBSTBHJYNCZNEPPAQ.png",
+      "timestamp": "2024-12-08T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://www.bostonglobe.com/2024/11/12/metro/boston-massachusetts-autism-dyslexia-students-private-school-special-education/",
+      "headline": "The hidden world of special education settlements in Mass.",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/v2/HZMW4SOKH33IIRAH6J23VBED4E.JPG?auth=a7de32e59a6a9839635702ec31d5afe780db4bd3ae3aa3ad211c32d986301c03&width=1440",
+      "timestamp": "2024-11-02T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2024/09/boston-archaeology-creepy-discoveries/",
+      "headline": "Boston archaeology: 10 unsolved, weird, and creepy discoveries",
+      "image": "https://media-s3-us-east-1.ceros.com/boston-globe-opinion/images/2024/08/13/09903af0e2c6b48c226a6499151a7645/oddities-share-169.jpg",
+      "timestamp": "2024-09-29T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/2024/09/mcas-scores-schools-districts/database/",
+      "headline": "How each school and district performed on the 2024 MCAS tests in math, English, and science",
+      "image": "https://apps.bostonglobe.com/metro/2024/09/mcas-scores-schools-districts/static/2f8637bc86ce2a0d7c1c72ea7f276576/47498/BHWEE3ZYSZHTBFWXWVROYXCR5Q.jpg",
+      "timestamp": "2024-09-24T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/ideas/graphics/2024/09/aging-wisdom/",
+      "headline": "The Wisdom Issue: Is how we age a choice?",
+      "image": "https://media-s3-us-east-1.ceros.com/boston-globe-opinion/images/2024/09/17/eaa6d0511ca44669eb32c258038247fa/wisdom-16-9.jpg",
+      "timestamp": "2024-09-19T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2024/09/sisters-hospice-icu-comic/",
+      "headline": "True stories from an ICU: Was it right to keep her alive?",
+      "image": "https://media-s3-us-east-1.ceros.com/boston-globe-opinion/images/2024/09/09/a39f9b91793cf080cbee4150202294f0/icu4-16-9.jpg",
+      "timestamp": "2024-09-15T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
