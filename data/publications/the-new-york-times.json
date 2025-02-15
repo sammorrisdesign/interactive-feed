@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-14T23:35:59.365Z",
+  "lastUpdated": "2025-02-15T15:35:57.353Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/15/us/earthquake-texas.html",
+      "headline": "Map: 5.0-Magnitude Earthquake Strikes Texas",
+      "image": "https://nytimes.com/images/2025/02/15/world/15wea-quake-tracker-texas-nyta491f-index/15wea-quake-tracker-texas-nyta491f-index-videoSixteenByNine3000-v88.jpg",
+      "timestamp": "2025-02-15T15:32:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
