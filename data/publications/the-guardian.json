@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-02-16T06:18:34.827Z",
+  "lastUpdated": "2025-02-16T12:28:16.046Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/feb/16/louisiana-cancer-alley-trump-pollution",
+      "headline": "‘It is going to be terrible’: a senior in Louisiana’s ‘Cancer Alley’ prepares for Trump’s dismantling of hard-won environmental progress",
+      "image": "https://i.guim.co.uk/img/media/7e1304c9ae8f77fd157e81eb2e5962cb35b6cab0/0_858_5860_3513/master/5860.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6cefa12480e03689df1e062043cbfd7",
+      "timestamp": "2025-02-16T12:00:10.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/feb/16/hurricane-helene-north-carolina-fema-rebuild",
+      "headline": "‘Everything we had floated away’: Hurricane Helene survivors help each other as disinformation swirls",
+      "image": "https://i.guim.co.uk/img/media/446be4568085ce30021adf7b4e61c051e8f7daa9/0_0_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee2e013e13d30deda7fd3544938eae51",
+      "timestamp": "2025-02-16T12:00:09.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
