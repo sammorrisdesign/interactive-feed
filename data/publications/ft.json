@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-13T16:43:36.513Z",
+  "lastUpdated": "2025-02-16T18:17:55.358Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/dc07d003-89de-4b5b-9538-8b3d51832026",
+      "headline": "Charting the course: the MBA in data",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F115135c5-4c18-4a8c-9418-78aeb649cfaa.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2025-02-16T18:00:22.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
