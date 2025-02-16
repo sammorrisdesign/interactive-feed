@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-15T16:15:44.563Z",
+  "lastUpdated": "2025-02-16T18:40:09.181Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/16/us/new-gun-owners.html",
+      "headline": "The Tipping Point",
+      "image": "https://nytimes.com/images/2025/02/14/multimedia/newgunculture-promo-zkwl/newgunculture-promo-zkwl-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-16T18:29:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
