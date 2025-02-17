@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-16T18:40:09.181Z",
+  "lastUpdated": "2025-02-17T20:36:05.389Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/17/nyregion/maria-torres-springer-resignation.html",
+      "headline": "Read Maria Torres-Springer’s resignation announcement to her staff.",
+      "image": "https://nytimes.com/images/2025/02/17/doc-f26c0115-a58a-4709-9ece-6-promo/doc-f26c0115-a58a-4709-9ece-6-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-17T20:29:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
