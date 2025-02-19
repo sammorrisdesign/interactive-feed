@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-16T18:17:55.358Z",
+  "lastUpdated": "2025-02-19T05:14:33.978Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d3b6e6b5-eddb-4230-b866-932d284cef9c",
+      "headline": "German trains are less punctual than Britain’s ‘broken’ railways",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2be9c5e6-cf6d-4926-b522-3b9d762ef5c5.png?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2025-02-19T05:00:40.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
