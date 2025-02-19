@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-18T22:38:17.710Z",
+  "lastUpdated": "2025-02-19T18:43:14.664Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/19/nyregion/congestion-pricing-termination-letter.html",
+      "headline": "Read the Letter From the Transportation Secretary About Congestion Pricing",
+      "image": "https://nytimes.com/images/2025/02/19/doc-bd085667-9849-4385-a50a-7-promo/doc-bd085667-9849-4385-a50a-7-promo-jumbo.png",
+      "timestamp": "2025-02-19T18:24:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
