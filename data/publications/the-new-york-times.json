@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-02-19T18:43:14.664Z",
+  "lastUpdated": "2025-02-19T19:12:01.377Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/19/us/adams-ho-order.html",
+      "headline": "Read the judge’s order scheduling a hearing on the request to drop Adams charges",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-02-19T19:11:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/19/us/adams-amicus.html",
+      "headline": "Read the brief filed by former U.S. attorneys arguing against dropping the Adams case",
+      "image": "https://nytimes.com/images/2025/02/19/doc-cdf6bea5-d36e-4820-8512-c-promo/doc-cdf6bea5-d36e-4820-8512-c-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-19T18:58:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/19/nyregion/mta-congestion-pricing-lawsuit.html",
+      "headline": "Read the M.T.A.’s Lawsuit Against Federal Officials Over Congestion Pricing",
+      "image": "https://nytimes.com/images/2025/02/19/doc-e7f354f2-733b-43d3-951a-6-promo/doc-e7f354f2-733b-43d3-951a-6-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-19T18:56:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
