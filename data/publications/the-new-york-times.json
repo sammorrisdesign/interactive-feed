@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-20T10:15:51.962Z",
+  "lastUpdated": "2025-02-20T21:12:39.733Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/20/us/politics/patel-senate-confirmation-vote.html",
+      "headline": "How Each Senator Voted to Confirm Kash Patel as F.B.I. Director",
+      "image": "https://nytimes.com/images/2025/02/20/us/politics/patel-senate-confirmation-vote-1740075440505/patel-senate-confirmation-vote-1740075440505-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-02-20T19:40:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
