@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-13T11:12:37.482Z",
+  "lastUpdated": "2025-02-20T11:12:50.932Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/russland-baut-die-luftwaffenbasis-maaten-al-sarra-in-libyen-aus-was-steckt-dahinter-ld.1871791",
+      "headline": "Russland baut die Luftwaffenbasis Maaten al-Sarra in Libyen aus. Was steckt dahinter?",
+      "image": "https://img.nzz.ch/2025/02/19/f2e16550-01d0-4cfd-b7c1-a4e5d3186f1b.gif?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2025-02-20T10:55:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
