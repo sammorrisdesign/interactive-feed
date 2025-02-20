@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-02-19T19:12:01.377Z",
+  "lastUpdated": "2025-02-20T10:15:51.962Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/20/realestate/hells-kitchen-upper-west-side-apartment-sale.html",
+      "headline": "Making Her Homebuying Debut in Manhattan With $475,000 to Spend",
+      "image": "https://nytimes.com/images/2025/02/20/multimedia/20Hunt-Jenness-04-plfj/20Hunt-Jenness-04-plfj-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-20T10:03:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/20/arts/metroidvania-games-metroid-castlevania.html",
+      "headline": "Metroidvanias: The Video Games You Can Get Lost In",
+      "image": "https://nytimes.com/images/2025/02/18/multimedia/2025-01-23-metroidvania-index/2025-01-23-metroidvania-index-videoSixteenByNine3000.png",
+      "timestamp": "2025-02-20T10:03:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/20/travel/things-to-do-banff.html",
+      "headline": "36 Hours in Banff",
+      "image": "https://nytimes.com/images/2025/02/17/multimedia/things-to-do-banff-qkzf/things-to-do-banff-qkzf-horizontalMediumAt2X-v6.jpg",
+      "timestamp": "2025-02-20T10:02:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
