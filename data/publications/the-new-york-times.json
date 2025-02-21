@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-20T21:12:39.733Z",
+  "lastUpdated": "2025-02-21T01:08:32.973Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/20/arts/television/snl-lorne-michaels-archives.html",
+      "headline": "A New Look at the History of ‘S.N.L.’",
+      "image": "https://nytimes.com/images/2025/02/20/arts/lorne-archives-static/lorne-archives-static-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-20T23:39:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
