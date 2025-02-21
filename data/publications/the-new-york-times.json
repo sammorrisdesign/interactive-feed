@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-02-21T02:35:43.588Z",
+  "lastUpdated": "2025-02-21T10:15:45.048Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/21/world/europe/germany-economy-election.html",
+      "headline": "Germany’s Economy Was Once the Envy of Europe. Not Anymore",
+      "image": "https://nytimes.com/images/2025/02/18/multimedia/2025-02-06-germany-better-worse-index/2025-02-06-germany-better-worse-index-videoSixteenByNine3000-v5.png",
+      "timestamp": "2025-02-21T10:10:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/21/upshot/house-gop-budget-blueprint.html",
+      "headline": "The House Wants to Pass Trump’s Agenda in One Big Bill. Here’s What’s in It.",
+      "image": "https://nytimes.com/images/2025/02/20/multimedia/2025-02-13-gop-house-budget-blueprint-index/2025-02-13-gop-house-budget-blueprint-index-videoSixteenByNine3000-v2.png",
+      "timestamp": "2025-02-21T10:03:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/21/books/gwendolyn-brooks-my-dreams-my-works-sonnet.html",
+      "headline": "I Would Follow This Poem to Hell and Back",
+      "image": "https://nytimes.com/images/2025/02/21/books/brooks-poem-art/brooks-poem-art-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-21T10:02:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
