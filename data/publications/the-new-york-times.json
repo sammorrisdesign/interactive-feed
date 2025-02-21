@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-21T10:15:45.048Z",
+  "lastUpdated": "2025-02-21T18:19:25.978Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/21/us/139-adams-order.html",
+      "headline": "Read Judge Ho’s Order in the Eric Adams Corruption Case",
+      "image": "https://nytimes.com/images/2025/02/21/doc-376eb46b-cfab-43a3-b0ec-7-promo/doc-376eb46b-cfab-43a3-b0ec-7-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-02-21T18:04:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
