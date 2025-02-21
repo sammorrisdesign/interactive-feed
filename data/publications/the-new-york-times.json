@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-21T01:08:32.973Z",
+  "lastUpdated": "2025-02-21T02:35:43.588Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/20/us/willis-letter-to-jordan.html",
+      "headline": "Read the Letter From Fani T. Willis to Representative Jim Jordan",
+      "image": "https://nytimes.com/images/2025/02/21/doc-8ee05681-efff-419e-babb-e-promo/doc-8ee05681-efff-419e-babb-e-promo-superJumbo.png",
+      "timestamp": "2025-02-21T01:51:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
