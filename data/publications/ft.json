@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-21T17:13:00.671Z",
+  "lastUpdated": "2025-02-23T16:15:56.842Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/b60db188-2b58-42eb-8bb2-5ca97ff5e0b6",
+      "headline": "German election live: Turnout high in early voting",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F507fc8a7-f74b-4f38-b1d1-6302cbc63fbc.jpg?source=next-barrier-page",
+      "timestamp": "2025-02-23T15:48:39.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
