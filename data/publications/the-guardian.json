@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-21T14:12:59.021Z",
+  "lastUpdated": "2025-02-23T16:39:15.258Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2025/feb/23/german-election-2025-results-in-full-live",
+      "headline": "German election 2025: results in full – live",
+      "image": "https://i.guim.co.uk/img/media/fd460da3a53670d5cec69ae72c1806eb72cc7ce7/0_0_5000_3000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7672e3abd9fb4863780871e810d4c99f",
+      "timestamp": "2025-02-23T16:33:12.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
