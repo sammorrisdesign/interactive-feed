@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-24T04:40:27.459Z",
+  "lastUpdated": "2025-02-24T06:22:19.674Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/24/opinion/tiktok-users-focus-group.html",
+      "headline": "How 12 Americans See Life After Watching a Lot of TikTok",
+      "image": "https://nytimes.com/images/2025/02/24/opinion/24tiktok-users-focusgroup-promo/24tiktok-users-focusgroup-promo-superJumbo.jpg",
+      "timestamp": "2025-02-24T06:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
