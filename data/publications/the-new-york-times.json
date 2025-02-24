@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-24T16:19:38.465Z",
+  "lastUpdated": "2025-02-24T20:17:04.627Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/24/world/australia/alfred-map-path-tracker.html",
+      "headline": "Tracking Tropical Cyclone Alfred",
+      "image": "https://nytimes.com/images/2025/02/22/world/eighteen-map-path-tracker-index/eighteen-map-path-tracker-index-videoSixteenByNine3000-v11.jpg",
+      "timestamp": "2025-02-24T20:15:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
