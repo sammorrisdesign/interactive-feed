@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-24T06:22:19.674Z",
+  "lastUpdated": "2025-02-24T16:19:38.465Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/24/books/review/books-screen-adaptations.html",
+      "headline": "Do You Know These Popular Books That Were Adapted for the Screen?",
+      "image": "https://nytimes.com/images/2025/02/24/books/review/24Quiz-ComicNovels/24Quiz-ComicNovels-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-24T16:00:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
