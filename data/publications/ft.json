@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2025-02-24T10:41:42.037Z",
+  "lastUpdated": "2025-02-25T05:14:52.078Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/fd2f5c67-9705-495a-8a30-622dc8f55143",
+      "headline": "The Russian over-50s fighting and dying in Ukraine",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F49038d64-012e-4c73-be4a-022c2ffce807.jpg?source=next-barrier-page",
+      "timestamp": "2025-02-25T05:00:24.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f84a740a-2cd2-4477-8586-f0a762d10b48",
+      "headline": "How we made it: Glaciers shrinking",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6005634a-de0e-47a1-be4d-37ce14561cad.jpg?source=next-barrier-page",
+      "timestamp": "2025-02-25T05:00:24.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/china-property-crisis/",
+      "headline": "How the state is propping up China’s housing market",
+      "timestamp": "2025-02-25T05:00:24.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
