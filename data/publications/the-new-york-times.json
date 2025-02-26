@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-24T20:17:04.627Z",
+  "lastUpdated": "2025-02-26T02:37:14.802Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/25/us/politics/house-budget-vote.html",
+      "headline": "How Each House Member Voted on the Budget Blueprint",
+      "image": "https://nytimes.com/images/2025/02/25/us/politics/house-budget-vote-1740535168556/house-budget-vote-1740535168556-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-02-26T02:00:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
