@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-02-26T10:17:12.874Z",
+  "lastUpdated": "2025-02-26T17:13:57.622Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/26/weather/honde-map-path-tracker.html",
+      "headline": "Tracking Tropical Cyclone Honde",
+      "image": "https://nytimes.com/images/2025/02/25/world/twentythree-map-path-tracker-index/twentythree-map-path-tracker-index-videoSixteenByNine3000-v5.jpg",
+      "timestamp": "2025-02-26T17:02:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/26/weather/garance-map-path-tracker.html",
+      "headline": "Tracking Tropical Cyclone Garance",
+      "image": "https://nytimes.com/images/2025/02/25/world/garance-map-path-tracker-index/garance-map-path-tracker-index-videoSixteenByNine3000-v9.jpg",
+      "timestamp": "2025-02-26T17:01:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
