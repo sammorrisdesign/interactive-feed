@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-26T17:13:57.622Z",
+  "lastUpdated": "2025-02-26T21:35:44.447Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/26/us/organ-transplants-waiting-list-skipped-patients.html",
+      "headline": "Organ Transplant System ‘in Chaos’ as Waiting Lists Are Ignored",
+      "image": "https://nytimes.com/images/2025/02/25/multimedia/transplants-promo/transplants-promo-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-26T21:28:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
