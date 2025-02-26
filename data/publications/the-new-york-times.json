@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-26T02:37:14.802Z",
+  "lastUpdated": "2025-02-26T10:17:12.874Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/26/books/historical-romance-books-queer-lgbtq.html",
+      "headline": "Queer Historical Romance Novels: A Starter Pack",
+      "image": "https://nytimes.com/images/2025/02/03/books/romance-queer-starterpack-promo/romance-queer-starterpack-promo-mediumSquareAt3X-v4.jpg",
+      "timestamp": "2025-02-26T10:02:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
