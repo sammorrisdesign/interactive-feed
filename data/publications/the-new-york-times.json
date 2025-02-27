@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-27T20:38:13.625Z",
+  "lastUpdated": "2025-02-27T21:14:20.745Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/27/movies/hackman-affidavit.html",
+      "headline": "Read the Search Warrant Affidavit in the Gene Hackman Death Inquiry",
+      "image": "https://nytimes.com/images/2025/02/27/doc-75218578-e541-465c-9bbd-3-promo/doc-75218578-e541-465c-9bbd-3-promo-superJumbo.png",
+      "timestamp": "2025-02-27T20:38:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
