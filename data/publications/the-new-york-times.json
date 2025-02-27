@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-27T10:16:18.078Z",
+  "lastUpdated": "2025-02-27T20:38:13.625Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/27/movies/2025-oscars-ballot-print.html",
+      "headline": "Oscars 2025: Print Your Ballot!",
+      "image": "https://nytimes.com/images/2025/03/20/arts/2025-oscars-ballot-print/2025-oscars-ballot-print-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-27T20:29:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
