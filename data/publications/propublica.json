@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-06T22:14:43.653Z",
+  "lastUpdated": "2025-02-27T10:16:18.699Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "http://projects.propublica.org/gun-owners-cambridge-analytica-data-psychological-profiles-privacy",
+      "headline": "How Cambridge Analytica Used Data to Exploit Gun Owners’ Private Lives",
+      "image": "https://assets-d.propublica.org/v5/images/2025-GunsDatabasePersona-Wong-FinalLead.jpg",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",

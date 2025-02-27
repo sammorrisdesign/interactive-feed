@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-02-26T21:35:44.447Z",
+  "lastUpdated": "2025-02-27T10:16:18.078Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/27/realestate/new-orleans-mardi-gras-home-sale.html",
+      "headline": "She Wanted a New Orleans Home Fit for a Parade",
+      "image": "https://nytimes.com/images/2025/02/27/realestate/27Hunt-lead2/27Hunt-lead2-jumbo-v2.jpg",
+      "timestamp": "2025-02-27T10:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/doge-staff-list.html",
+      "headline": "The People Carrying Out Musk’s Plans at DOGE",
+      "image": "https://nytimes.com/images/2025/02/26/multimedia/2025-02-18-musk-doge-dc-list-index/2025-02-18-musk-doge-dc-list-index-videoSixteenByNine3000-v8.png",
+      "timestamp": "2025-02-27T10:03:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/27/books/jaime-hernandez-cartoonist.html",
+      "headline": "Drawing the Same Woman for 40 Years: A Master Cartoonist Ages Alongside His Heroine",
+      "image": "https://nytimes.com/images/2025/02/25/books/25jaime-hernandez-promo/25jaime-hernandez-promo-mediumSquareAt3X.jpg",
+      "timestamp": "2025-02-27T10:00:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/27/travel/things-to-do-Kathmandu.html",
+      "headline": "36 Hours in Kathmandu",
+      "image": "https://nytimes.com/images/2025/02/27/multimedia/27Hours-Kathmandu-gtjf/27Hours-Kathmandu-gtjf-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-02-27T10:00:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
