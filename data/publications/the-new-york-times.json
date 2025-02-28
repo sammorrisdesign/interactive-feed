@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-28T19:13:24.031Z",
+  "lastUpdated": "2025-02-28T20:16:30.615Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/28/us/texas-earthquake.html",
+      "headline": "Map: 4.8-Magnitude Earthquake Strikes Texas",
+      "image": "https://nytimes.com/images/2025/02/28/world/28wea-quake-tracker-texas-nythcqgt-index/28wea-quake-tracker-texas-nythcqgt-index-videoSixteenByNine3000-v4.jpg",
+      "timestamp": "2025-02-28T20:15:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
