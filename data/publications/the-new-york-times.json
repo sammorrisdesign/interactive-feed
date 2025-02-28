@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-27T21:14:20.745Z",
+  "lastUpdated": "2025-02-28T01:09:58.420Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/27/movies/oscar-nominated-movies-quiz.html",
+      "headline": "A Movie Game: Can You Match the Oscar-Nominated Film to Our Headline?",
+      "image": "https://nytimes.com/images/2025/02/27/arts/oscar-nominated-movies-quiz-promo/movie-game-still-promo-superJumbo.png",
+      "timestamp": "2025-02-27T23:42:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
