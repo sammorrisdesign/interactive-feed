@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-02-28T01:09:58.420Z",
+  "lastUpdated": "2025-02-28T02:39:18.126Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/02/27/us/politics/medicaid-enrollment.html",
+      "headline": "More than 70 Million Americans Are on Medicaid. This Is Where They Live.",
+      "image": "https://nytimes.com/images/2025/02/27/multimedia/2025-02-25-medicaid-enrollment-index/2025-02-25-medicaid-enrollment-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2025-02-28T02:28:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
