@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-01T10:14:44.925Z",
+  "lastUpdated": "2025-03-01T12:27:00.577Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/01/opinion/trump-administration-first-month.html",
+      "headline": "10 Columnists and Writers Rate What Mattered in Trump’s First Full Month",
+      "image": "https://nytimes.com/images/2025/03/01/opinion/01trump-report-card/01trump-report-card-superJumbo-v3.jpg",
+      "timestamp": "2025-03-01T12:00:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
