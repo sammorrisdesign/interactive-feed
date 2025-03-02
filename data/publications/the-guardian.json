@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-27T12:30:21.701Z",
+  "lastUpdated": "2025-03-02T16:17:27.083Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/mar/02/civil-rights-movement-trump",
+      "headline": "‘There’s quite a similarity’: US civil rights pioneers warn of ‘surge backwards’ under Trump",
+      "image": "https://i.guim.co.uk/img/media/ea0aa9d1a6d75c7d24ad1de1d3c89711a04b0a66/0_498_1648_988/master/1648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7d1e17fba2c36b6689b0658e24f6dc23",
+      "timestamp": "2025-03-02T16:00:11.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
