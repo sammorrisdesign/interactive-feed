@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-02T16:17:27.083Z",
+  "lastUpdated": "2025-03-03T19:11:54.844Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2025/mar/03/australia-gender-pay-gap-2025-by-employer-rankings-data",
+      "headline": "Australia’s gender pay gap explorer 2025: where does your workplace rank?",
+      "image": "https://i.guim.co.uk/img/media/309c4fc56f6cab9eefe0d859540a96420066785d/0_0_2500_1500/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b864884dfc34d825839c5c0d950d1599",
+      "timestamp": "2025-03-03T19:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
