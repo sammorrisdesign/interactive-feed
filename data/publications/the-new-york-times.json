@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-03T13:41:18.189Z",
+  "lastUpdated": "2025-03-03T16:18:12.711Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/03/books/review/books-state-capitals.html",
+      "headline": "How Well Do You Know State Capitals? Or Books Set in Them?",
+      "image": "https://nytimes.com/images/2025/03/03/books/review/03Quiz-Capitals/03Quiz-Capitals-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-03T16:00:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
