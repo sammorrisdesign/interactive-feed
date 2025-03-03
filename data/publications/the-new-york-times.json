@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-03T10:16:51.095Z",
+  "lastUpdated": "2025-03-03T13:41:18.189Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/03/health/usaid-memo.html",
+      "headline": "Read the Memo",
+      "image": "https://nytimes.com/images/2025/03/03/doc-99c7a88b-2940-4c9d-9395-9-promo/doc-99c7a88b-2940-4c9d-9395-9-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-03-03T13:01:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
