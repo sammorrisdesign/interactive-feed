@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-04T21:14:20.334Z",
+  "lastUpdated": "2025-03-04T22:13:32.945Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/04/us/2025-03-04-sjc-bar-complaint-re-bove.html",
+      "headline": "Read the Senators’ Letter About Emil Bove",
+      "image": "https://nytimes.com/images/2025/03/04/doc-db1db36d-922f-4d44-b748-b-promo/doc-db1db36d-922f-4d44-b748-b-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-03-04T21:57:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
