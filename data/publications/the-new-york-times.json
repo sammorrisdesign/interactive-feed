@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-03-04T01:10:42.110Z",
+  "lastUpdated": "2025-03-04T10:16:38.364Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/04/business/economy/car-tariffs.html",
+      "headline": "The Problem With Car Tariffs: What’s an Import?",
+      "image": "https://nytimes.com/images/2025/03/03/multimedia/2025-02-28-car-import-tariff-index/2025-02-28-car-import-tariff-index-videoSixteenByNine3000-v4.jpg",
+      "timestamp": "2025-03-04T10:04:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/04/polls/tariffs-trump-poll.html",
+      "headline": "How Americans Feel About Tariffs",
+      "image": "https://nytimes.com/images/2025/03/03/multimedia/2025-02-24-tariff-polls-index/2025-02-24-tariff-polls-index-videoSixteenByNine3000-v3.png",
+      "timestamp": "2025-03-04T10:04:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/04/us/politics/trump-immigration-policies-deportations-data.html",
+      "headline": "What the Data Shows About Trump’s Immigration Enforcement So Far",
+      "image": "https://nytimes.com/images/2025/03/03/multimedia/2025-02-25-ice-numbers-index/2025-02-25-ice-numbers-index-videoSixteenByNine3000.png",
+      "timestamp": "2025-03-04T10:04:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/04/opinion/covid-impact-five-years-later.html",
+      "headline": "How Covid Remade America",
+      "image": "https://nytimes.com/images/2025/03/03/opinion/covid-anniversary-cinemagraph23-still/covid-anniversary-cinemagraph23-still-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-04T10:01:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
