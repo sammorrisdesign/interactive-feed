@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-04T10:16:38.364Z",
+  "lastUpdated": "2025-03-04T13:02:03.024Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/04/learning/04StudentNewsQuiz.html",
+      "headline": "Weekly Student New Quiz: Oval Office, Oscars, W.N.B.A.",
+      "image": "https://nytimes.com/images/2025/03/01/multimedia/01ukraine-fallout-01-LN/01ukraine-fallout-01-cklm-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-04T12:48:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
