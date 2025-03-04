@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-03T16:18:12.711Z",
+  "lastUpdated": "2025-03-04T01:10:42.110Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/03/us/politics/mcmahon-senate-confirmation-vote.html",
+      "headline": "How Each Senator Voted to Confirm Linda McMahon as Education Secretary",
+      "image": "https://nytimes.com/images/2025/03/03/us/politics/mcmahon-senate-confirmation-vote-1741026739572/mcmahon-senate-confirmation-vote-1741026739572-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-03-03T23:54:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
