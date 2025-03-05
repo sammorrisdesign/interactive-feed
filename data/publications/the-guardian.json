@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-05T09:16:44.652Z",
+  "lastUpdated": "2025-03-05T12:30:19.762Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global/ng-interactive/2025/mar/05/zizians-artificial-intelligence",
+      "headline": "They wanted to save us from a dark AI future. Then six people were killed",
+      "image": "https://i.guim.co.uk/img/media/3750c95e1c85628247f28f82543c1d383d634bae/305_2140_4478_2688/master/4478.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4373b48b85e2f225d1648bccfbab266d",
+      "timestamp": "2025-03-05T12:00:03.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
