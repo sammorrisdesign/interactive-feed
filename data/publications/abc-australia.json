@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-03-04T01:10:42.150Z",
+  "lastUpdated": "2025-03-05T01:11:01.402Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2025-03-05/cyclone-alfred-tracker-map/105010720",
+      "headline": "When will Tropical Cyclone Alfred hit New South Wales and Queensland?",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bc1b100b977190952deff32a540cb146?impolicy=wcms_crop_resize&cropH=480&cropW=640&xPos=0&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
