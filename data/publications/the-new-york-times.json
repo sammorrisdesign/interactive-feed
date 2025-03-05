@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-03-05T15:39:38.304Z",
+  "lastUpdated": "2025-03-05T22:14:28.617Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/05/books/winter-books-quiz.html",
+      "headline": "Answer 4 Questions. Leave With a Book That Will Get You to Spring.",
+      "image": "https://nytimes.com/images/2025/03/05/books/review/00-books-winter-promo/00-books-winter-promo-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-03-05T22:09:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/05/us/politics/usaid-trump-timeline.html",
+      "headline": "A Timeline of Cuts, Legal Orders and Chaos at U.S.A.I.D.",
+      "image": "https://nytimes.com/images/2025/03/05/multimedia/2025-03-05-usaid-timeline-index/2025-03-05-usaid-timeline-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2025-03-05T22:00:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
