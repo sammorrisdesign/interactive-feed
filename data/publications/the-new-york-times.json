@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-06T10:16:16.741Z",
+  "lastUpdated": "2025-03-06T18:20:45.316Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/us/politics/trump-federal-workers-fired-rehired.html",
+      "headline": "Fired, Then Rehired, by the Trump Administration",
+      "image": "https://nytimes.com/images/2025/03/06/multimedia/2025-02-25-boomerang-firings-index/2025-02-25-boomerang-firings-index-videoSixteenByNine3000-v7.png",
+      "timestamp": "2025-03-06T17:49:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
