@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-03-05T18:45:43.488Z",
+  "lastUpdated": "2025-03-06T19:12:26.534Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2025-03-07/cyclone-alfred-wind-speeds-and-rainfall/105020014",
+      "headline": "Track wind speeds and rainfall live as Cyclone Alfred approaches coast",
+      "image": "https://live-production.wcms.abc-cdn.net.au/331c31f5017f63dd09f95df730ccc474?impolicy=wcms_crop_resize&cropH=795&cropW=1060&xPos=123&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",

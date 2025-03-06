@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-06T18:20:45.316Z",
+  "lastUpdated": "2025-03-06T19:12:26.495Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/climate/us-butterfly-population.html",
+      "headline": "See How Butterflies Are Surviving, or Not, Near You",
+      "image": "https://nytimes.com/images/2025/03/05/climate/00cli-butterflies-promo-static/00cli-butterflies-promo-static-superJumbo.jpg",
+      "timestamp": "2025-03-06T19:04:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
