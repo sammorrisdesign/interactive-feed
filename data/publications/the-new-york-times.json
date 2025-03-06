@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2025-03-05T22:14:28.617Z",
+  "lastUpdated": "2025-03-06T10:16:16.741Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/realestate/upper-west-side-studio.html",
+      "headline": "Her Dream Came True on the Upper West Side",
+      "image": "https://nytimes.com/images/2025/03/06/multimedia/06Hunt-Waller-05-tvjq/06Hunt-Waller-05-tvjq-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:03:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/travel/things-to-do-Valencia.html",
+      "headline": "36 Hours in Valencia, Spain",
+      "image": "https://nytimes.com/images/2025/03/06/multimedia/36hours-valencia-02-cjtk/36hours-valencia-02-cjtk-mobileMasterAt3x-v2.jpg",
+      "timestamp": "2025-03-06T10:02:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/opinion/trump-doge-fires-inspectors-general-anecdotes.html",
+      "headline": "You exposed waste and fraud. Tell us about it.",
+      "image": "https://nytimes.com/images/2025/03/05/opinion/op-exit-interviews-igs/op-exit-interviews-igs-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:02:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/opinion/trump-doge-fires-inspectors-general-care.html",
+      "headline": "You got fired. Why should we care?",
+      "image": "https://nytimes.com/images/2025/03/05/opinion/op-exit-interviews-igs/op-exit-interviews-igs-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:02:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/opinion/trump-doge-fires-inspectors-general-corrupt.html",
+      "headline": "Is the government corrupt?",
+      "image": "https://nytimes.com/images/2025/03/05/opinion/op-exit-interviews-igs/op-exit-interviews-igs-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:02:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/opinion/trump-doge-fires-inspectors-general-money.html",
+      "headline": "How much money did you save American taxpayers?",
+      "image": "https://nytimes.com/images/2025/03/05/opinion/op-exit-interviews-igs/op-exit-interviews-igs-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:02:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/opinion/trump-doge-fires-inspectors-general-worry.html",
+      "headline": "What worries you about the future?",
+      "image": "https://nytimes.com/images/2025/03/05/opinion/op-exit-interviews-igs/op-exit-interviews-igs-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:02:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/opinion/trump-doge-fires-inspectors-general-doge.html",
+      "headline": "What’s one word you would use to describe DOGE?",
+      "image": "https://nytimes.com/images/2025/03/05/opinion/op-exit-interviews-igs/op-exit-interviews-igs-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:02:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/opinion/trump-doge-fires-inspectors-general-democracy.html",
+      "headline": "Is democracy in danger?",
+      "image": "https://nytimes.com/images/2025/03/05/opinion/op-exit-interviews-igs/op-exit-interviews-igs-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:02:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/06/opinion/trump-doge-fires-inspectors-general-role.html",
+      "headline": "What’s an inspector general?",
+      "image": "https://nytimes.com/images/2025/03/05/opinion/op-exit-interviews-igs/op-exit-interviews-igs-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-06T10:01:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
