@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-03-07T22:12:36.576Z",
+  "lastUpdated": "2025-03-07T22:35:01.255Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/07/opinion/la-fires-recovery.html",
+      "headline": "‘What We Really Lost Wasn’t So Much the Stuff’: What Remains From the L.A. Fires",
+      "image": "https://nytimes.com/images/2025/03/09/opinion/08YalkinPRINT-07/08YalkinPRINT-07-superJumbo.jpg",
+      "timestamp": "2025-03-07T22:28:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/07/us/clement-brief.html",
+      "headline": "Read the brief saying charges should be dropped in the Adams corruption case.",
+      "image": "https://nytimes.com/images/2025/03/07/doc-89225116-fb94-4438-91d9-7-promo/doc-89225116-fb94-4438-91d9-7-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-03-07T22:14:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
