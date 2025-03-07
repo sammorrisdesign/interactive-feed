@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-07T11:12:48.758Z",
+  "lastUpdated": "2025-03-07T14:14:10.547Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2025/mar/08/tropical-cyclone-alfred-tracking-rainfall-and-wind-speeds",
+      "headline": "Tropical Cyclone Alfred: tracking rainfall and wind speeds",
+      "image": "https://i.guim.co.uk/img/media/9b685daa8241727b5eeafb939da2c8f043b0a679/0_62_854_512/master/854.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9f77f4f9e1ccf7766e20c60fcff07d21",
+      "timestamp": "2025-03-07T14:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
