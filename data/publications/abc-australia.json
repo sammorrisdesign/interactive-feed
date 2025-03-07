@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-03-07T17:13:18.158Z",
+  "lastUpdated": "2025-03-07T17:37:25.750Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2025-03-08/cyclone-alfred-webcams-videos/105023954",
+      "headline": "Watch live: Cyclone Alfred webcam videos show wild weather",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f8adb0bc94d12ff885fbaeb51fb9cefc?impolicy=wcms_crop_resize&cropH=786&cropW=1048&xPos=428&yPos=255&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
