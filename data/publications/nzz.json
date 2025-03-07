@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-06T04:18:27.594Z",
+  "lastUpdated": "2025-03-07T04:41:36.723Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/satellitenbilder-enthuellen-neue-waffen-der-maechtigen-paramilitaerischen-miliz-im-sudan-ld.1874065",
+      "headline": "Satellitenbilder enthüllen neue Waffen der mächtigen paramilitärischen Miliz im Sudan",
+      "image": "https://img.nzz.ch/2025/03/05/e022a3f2-8492-4521-98f0-19cc272f46a8.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1500,844,x0,y194&wmark=nzz",
+      "timestamp": "2025-03-07T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
