@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-07T22:35:01.255Z",
+  "lastUpdated": "2025-03-08T00:56:42.179Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/07/us/doc-annotation-adams-clement-brief.html",
+      "headline": "Read The Brief That Recommends Dropping The Charges Against Eric Adams, Annotated",
+      "image": "https://nytimes.com/images/2025/03/07/us/doc-annotation-adams-clement-brief-promo/doc-annotation-adams-clement-brief-promo-superJumbo.png",
+      "timestamp": "2025-03-08T00:12:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
