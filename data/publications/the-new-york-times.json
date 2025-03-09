@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-09T15:13:06.453Z",
+  "lastUpdated": "2025-03-09T21:12:24.213Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/09/weather/malibu-quake-tracker.html",
+      "headline": "Map: 4.1-Magnitude Earthquake Strikes Near Malibu, California",
+      "image": "https://nytimes.com/images/2025/03/09/world/09wea-quake-tracker-southern-california-nythrxvo-index/09wea-quake-tracker-southern-california-nythrxvo-index-videoSixteenByNine3000-v9.jpg",
+      "timestamp": "2025-03-09T20:41:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
