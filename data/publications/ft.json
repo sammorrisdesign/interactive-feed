@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2025-03-03T06:22:16.772Z",
+  "lastUpdated": "2025-03-10T05:13:20.057Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e3b2ece6-0bf0-4615-8e5d-cc21143d159c",
+      "headline": "How we made it: behind the coming polar vortex and other extremes",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffb39c0dd-985a-4e31-b9dc-a510c40fd5dd.jpg?source=next-barrier-page",
+      "timestamp": "2025-03-10T05:00:32.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/baltic-sea",
+      "headline": "Inside Russia’s shadow war in the Baltics",
+      "timestamp": "2025-03-10T05:00:32.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
