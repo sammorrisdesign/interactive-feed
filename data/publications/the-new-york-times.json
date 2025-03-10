@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-10T04:15:09.730Z",
+  "lastUpdated": "2025-03-10T13:24:22.816Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/10/books/review/great-literary-feuds.html",
+      "headline": "Bookish Beefs: Do You Know the Great Author Feuds of Modern Literature?",
+      "image": "https://nytimes.com/images/2025/03/10/books/review/10Quiz-FIGHTS/10Quiz-FIGHTS-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-10T13:00:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
