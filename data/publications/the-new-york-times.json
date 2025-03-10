@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-10T02:46:50.553Z",
+  "lastUpdated": "2025-03-10T04:15:09.730Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/10/world/asia/south-korea-martial-law-president-yoon.html",
+      "headline": "How South Korea’s President Planned a Military Takeover, Then Blew It",
+      "image": "https://nytimes.com/images/2025/03/06/multimedia/2025-02-12-south-korea-martial-law-reconstruct-index/2025-02-12-south-korea-martial-law-reconstruct-index-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-03-10T04:02:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
