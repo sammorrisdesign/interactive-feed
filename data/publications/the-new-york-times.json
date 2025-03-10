@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-09T21:12:24.213Z",
+  "lastUpdated": "2025-03-10T02:46:50.553Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/09/upshot/covid-lockdown-five-year-charts.html",
+      "headline": "30 Charts That Show How Everything Changed in March 2020",
+      "image": "https://nytimes.com/images/2025/03/09/multimedia/2025-01-23-shutdown-anniversary-index/2025-01-23-shutdown-anniversary-index-videoSixteenByNine3000-v2.png",
+      "timestamp": "2025-03-10T02:38:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
