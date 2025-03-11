@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-11T02:41:04.820Z",
+  "lastUpdated": "2025-03-11T09:17:03.625Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/11/upshot/covid-lessons.html",
+      "headline": "15 Lessons Scientists Learned About Us When the World Stopped",
+      "image": "https://nytimes.com/images/2025/03/07/upshot/covid-lessons-1741367316871/covid-lessons-1741367316871-superJumbo.jpg",
+      "timestamp": "2025-03-11T09:05:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
