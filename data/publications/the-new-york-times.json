@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-10T13:24:22.816Z",
+  "lastUpdated": "2025-03-11T02:41:04.820Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/10/us/covid-19-changed-people.html",
+      "headline": "How Covid Changed the Lives of These 29 Americans",
+      "image": "https://nytimes.com/images/2025/03/07/us/covid-anniversary-promo/covid-anniversary-promo-superJumbo.jpg",
+      "timestamp": "2025-03-11T01:26:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
