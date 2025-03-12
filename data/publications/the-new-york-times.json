@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-12T04:18:09.746Z",
+  "lastUpdated": "2025-03-12T09:16:36.303Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/12/opinion/columnists/12collins-quiz-spring-twenty-five.html",
+      "headline": "Wait, What Happened? Your Trump 2025 Quiz Is Here.",
+      "image": "https://nytimes.com/images/2025/03/12/multimedia/12collins-quiz-zwjm/12collins-quiz-zwjm-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-12T09:03:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
