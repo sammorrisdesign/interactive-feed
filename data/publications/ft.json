@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-12T01:10:27.566Z",
+  "lastUpdated": "2025-03-12T05:15:24.289Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1168d5f1-2971-449d-8ab3-1606c84e776e",
+      "headline": "The Future of Aid",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d146165-c410-4c55-aed4-b851563da950.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2025-03-12T05:00:01.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
