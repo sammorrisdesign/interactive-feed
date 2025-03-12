@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-12T20:16:56.812Z",
+  "lastUpdated": "2025-03-12T21:14:02.919Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/12/magazine/russia-arctic-fossils-expedition.html",
+      "headline": "Diving With Siberian Bone Hunters",
+      "image": "https://nytimes.com/images/2025/03/16/magazine/16mag-arctic-16/16mag-arctic-16-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-12T20:45:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
