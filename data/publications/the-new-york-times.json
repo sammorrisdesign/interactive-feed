@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-11T20:39:20.290Z",
+  "lastUpdated": "2025-03-12T02:40:21.503Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/11/us/covid-grief-pandemic-anniversary.html",
+      "headline": "They Lost Someone to Covid. Here’s What They Learned About Grief.",
+      "image": "https://nytimes.com/images/2025/03/11/multimedia/covid-grief-static-promo-mljp/covid-grief-static-promo-mljp-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-12T02:05:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
