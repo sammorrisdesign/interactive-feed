@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-03-12T22:14:24.246Z",
+  "lastUpdated": "2025-03-13T09:16:42.149Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/13/business/corporate-america-dei-policy-shifts.html",
+      "headline": "How Corporate America Is Retreating From D.E.I.",
+      "image": "https://nytimes.com/images/2025/03/05/multimedia/2025-02-26-dei-analysis-index/2025-02-26-dei-analysis-index-videoSixteenByNine3000-v5.png",
+      "timestamp": "2025-03-13T09:04:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/13/realestate/san-francisco-oakland-bay-area-homes-sale.html",
+      "headline": "Hard Work, a Dream, and a Bay Area Apartment for Less Than $600,000",
+      "image": "https://nytimes.com/images/2025/03/13/multimedia/13Hunt-Ramos-qfjl/13Hunt-Ramos-qfjl-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-13T09:04:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/13/nyregion/nyc-covid-pandemic-changes.html",
+      "headline": "How Has New York Remade Itself Since the Pandemic Arrived?",
+      "image": "https://nytimes.com/images/2025/03/12/arts/00-nyc-covid-pandemic-changes-still/00-newyork-pandemic-5yr-still-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-13T09:04:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/13/travel/things-to-do-Singapore.html",
+      "headline": "36 Hours in Singapore",
+      "image": "https://nytimes.com/images/2025/03/11/multimedia/36-hours-Singapore-hgvw/36-hours-Singapore-hgvw-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-03-13T09:02:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
