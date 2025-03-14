@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-14T09:16:24.904Z",
+  "lastUpdated": "2025-03-14T10:16:21.462Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/14/realestate/amy-irving-home-album.html",
+      "headline": "Amy Irving on Living in a Barn After a Fire",
+      "image": "https://nytimes.com/images/2025/03/18/realestate/18athomewith-irving-promo/18athomewith-irving-promo-mediumSquareAt3X.jpg",
+      "timestamp": "2025-03-14T10:00:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
