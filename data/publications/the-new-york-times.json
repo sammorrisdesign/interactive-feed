@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-14T20:16:09.306Z",
+  "lastUpdated": "2025-03-14T21:37:39.307Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/14/us/politics/senate-government-funding-vote.html",
+      "headline": "How Each Senator Voted to Fund the Government Through September",
+      "image": "https://nytimes.com/images/2025/03/12/us/politics/senate-government-funding-vote-1741978761832/senate-government-funding-vote-1741978761832-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-03-14T21:28:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
