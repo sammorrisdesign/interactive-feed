@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-14T19:13:29.848Z",
+  "lastUpdated": "2025-03-14T20:16:09.306Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/14/magazine/agoraphobia-grocery-store.html",
+      "headline": "An Agoraphobe Goes to the Grocery Store",
+      "image": "https://nytimes.com/images/2025/03/15/magazine/15mag-agoraphobe-promostill/15mag-agoraphobe-promostill-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-14T20:10:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
