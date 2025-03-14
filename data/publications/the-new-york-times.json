@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-13T15:17:27.810Z",
+  "lastUpdated": "2025-03-14T09:16:24.904Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/14/opinion/pre-vaccine-america.html",
+      "headline": "We Need a Reminder of What the Pre-Vaccine Era Was Like",
+      "image": "https://nytimes.com/images/2025/03/13/opinion/conis-mumps/conis-mumps-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-14T09:02:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
