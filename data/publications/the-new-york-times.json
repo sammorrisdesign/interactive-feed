@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-15T11:11:41.214Z",
+  "lastUpdated": "2025-03-15T18:18:55.341Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/15/us/reid-letter-to-comey.html",
+      "headline": "Harry Reid’s Letter to James Comey",
+      "image": "https://nytimes.com/images/2025/03/15/doc-d0f67275-3d2f-4641-82e0-0-promo/doc-d0f67275-3d2f-4641-82e0-0-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-03-15T18:11:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
