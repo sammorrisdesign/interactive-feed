@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-15T09:14:15.101Z",
+  "lastUpdated": "2025-03-15T11:11:41.214Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/15/opinion/foreign-aid-cuts-impact.html",
+      "headline": "Musk Said No One Has Died Since Aid Was Cut. That Isn’t True.",
+      "image": "https://nytimes.com/images/2025/03/11/multimedia/00kristof-aid-18-jctm/00kristof-aid-18-jctm-mobileMasterAt3x-v2.jpg",
+      "timestamp": "2025-03-15T11:00:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
