@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-17T05:15:45.243Z",
+  "lastUpdated": "2025-03-17T09:18:13.163Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/bc7e2e85-76e2-440e-b34e-6979b1817d38",
+      "headline": "How we made it: is your city getting wetter or drier?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F19f591c9-e18f-42b0-9fe1-079899b56aef.jpg?source=next-barrier-page",
+      "timestamp": "2025-03-17T09:00:59.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
