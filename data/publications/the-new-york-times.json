@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-16T21:35:25.319Z",
+  "lastUpdated": "2025-03-17T02:44:31.038Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/16/technology/ai-data-centers.html",
+      "headline": "How A.I. Is Changing the Way the World Builds Computers",
+      "image": "https://nytimes.com/images/2025/03/05/multimedia/2024-12-03-ai-datacenters-index/2024-12-03-ai-datacenters-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-03-17T02:07:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
