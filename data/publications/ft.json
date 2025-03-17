@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-14T05:14:36.903Z",
+  "lastUpdated": "2025-03-17T05:15:45.243Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/cf1638c4-45ed-4671-8c42-3136e7bda7d5",
+      "headline": "The end of Europe’s ‘peace dividend’",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff442ed83-94d1-40d3-8734-77fcbb97972d.jpg?source=next-barrier-page",
+      "timestamp": "2025-03-17T05:00:59.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/44a7927b-66d7-4321-8425-08ed162a3994",
+      "headline": "Young Americans lose trust in the state",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F591a3e8f-d4e7-44ec-902d-320548ba4e33.jpg?source=next-barrier-page",
+      "timestamp": "2025-03-17T05:00:59.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
