@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-17T15:16:31.718Z",
+  "lastUpdated": "2025-03-17T20:38:47.288Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/donald-trump-approval-rating-polls.html",
+      "headline": "Latest Polls: Do Americans Approve of President Trump?",
+      "image": "https://nytimes.com/images/2025/03/17/multimedia/2025-polling-averages-index/2025-polling-averages-index-videoSixteenByNine3000-v2.png",
+      "timestamp": "2025-03-17T20:32:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
