@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-17T20:38:47.288Z",
+  "lastUpdated": "2025-03-18T03:28:05.233Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/17/us/quake-san-francisco-bay.html",
+      "headline": "Map: 3.9-Magnitude Earthquake Strikes the San Francisco Bay Area",
+      "image": "https://nytimes.com/images/2025/03/18/world/17wea-quake-tracker-san-francisco-bay-area-nyt2f5b0-index/17wea-quake-tracker-san-francisco-bay-area-nyt2f5b0-index-videoSixteenByNine3000-v7.jpg",
+      "timestamp": "2025-03-18T03:12:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
