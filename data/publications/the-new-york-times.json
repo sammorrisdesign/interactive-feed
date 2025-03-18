@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-18T03:28:05.233Z",
+  "lastUpdated": "2025-03-18T09:17:17.614Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/18/arts/design/mondrian-flowers.html",
+      "headline": "One Painting Got Me Through Winter",
+      "image": "https://nytimes.com/images/2025/03/18/arts/mondrian-promo/mondrian-promo-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-18T09:01:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
