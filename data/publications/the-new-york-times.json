@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-19T01:12:24.240Z",
+  "lastUpdated": "2025-03-19T09:17:26.487Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/19/opinion/19focus-government-purpose.html",
+      "headline": "‘What Is Government For’? 14 Hard-Hit Voters Debate a Big Question in the Era of Trump and Musk",
+      "image": "https://nytimes.com/images/2025/03/19/opinion/19focus-image/19focus-image-superJumbo.jpg",
+      "timestamp": "2025-03-19T09:02:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
