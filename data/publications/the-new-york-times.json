@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-18T09:17:17.614Z",
+  "lastUpdated": "2025-03-19T01:12:24.240Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/your-money/home-buying-climate-change.html",
+      "headline": "How to Shop for a Home That Won’t Be Upended by Climate Change",
+      "image": "https://nytimes.com/images/2025/02/25/business/00wheretolive-promo/00wheretolive-promo-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-19T01:08:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
