@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-19T09:17:26.487Z",
+  "lastUpdated": "2025-03-19T13:24:41.040Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/19/nyregion/mahmoud-khalil-nj-transfer-order.html",
+      "headline": "Read the Order Transferring Mahmoud Khalil’s Case to New Jersey",
+      "image": "https://nytimes.com/images/2025/03/19/doc-5acc9e7f-5b45-40a5-8021-d-promo/doc-5acc9e7f-5b45-40a5-8021-d-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-03-19T13:00:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
