@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-17T04:43:04.284Z",
+  "lastUpdated": "2025-03-20T04:41:44.421Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/mord-oder-fehlinformation-manchmal-truegt-der-schein-in-satellitenaufnahmen-ld.1875948",
+      "headline": "Mord oder Fehlinformation? Manchmal trügt der Schein in Satellitenaufnahmen",
+      "image": "https://img.nzz.ch/2025/03/18/2efacf61-c49d-4fb6-8765-dd6857bad78e.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2628,1478,x744,y0&wmark=nzz",
+      "timestamp": "2025-03-20T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
