@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-19T13:24:41.040Z",
+  "lastUpdated": "2025-03-20T02:41:57.234Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/19/arts/design/frick-museum-reopening-nyc.html",
+      "headline": "Step Inside the Gilded Age Splendor of the New Frick",
+      "image": "https://nytimes.com/images/2025/03/21/multimedia/cul-frick-cotter-promo-vjcm/cul-frick-cotter-promo-vjcm-mobileMasterAt3x.jpg",
+      "timestamp": "2025-03-20T02:02:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
