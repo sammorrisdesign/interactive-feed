@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-03-20T09:16:53.289Z",
+  "lastUpdated": "2025-03-21T09:16:31.057Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/21/books/private-eye-detective-books-mystery.html",
+      "headline": "Classic Private-Eye Detective Novels: A Starter Pack",
+      "image": "https://nytimes.com/images/2025/03/04/books/starterpack-classic-detective-promo/starterpack-classic-detective-promo-mediumSquareAt3X.jpg",
+      "timestamp": "2025-03-21T09:02:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/21/books/adrienne-rich-aunt-jennifers-tigers-poem.html",
+      "headline": "Life Isn’t Perfect. But This Poem Might Be.",
+      "image": "https://nytimes.com/images/2025/03/21/books/rich-illo/rich-illo-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-03-21T09:00:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
