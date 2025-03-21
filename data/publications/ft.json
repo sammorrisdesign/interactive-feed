@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-20T05:15:35.737Z",
+  "lastUpdated": "2025-03-21T05:15:16.211Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/7b63e375-4ecd-4d2b-aef4-ca5156f338e4",
+      "headline": "How restaurant hype happens: a tale told through booking data",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff800f644-c490-486a-a19b-f32c6077dc34.jpg?source=next-barrier-page",
+      "timestamp": "2025-03-21T05:00:25.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
