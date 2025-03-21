@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-21T13:49:32.852Z",
+  "lastUpdated": "2025-03-21T13:51:30.903Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2025/jfk-files-assassination-documents/",
+      "headline": "CIA secrets and exposed agents: See unredacted details from the JFK files",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DV7XXWUX3FEBFP5DMRN7BA2FXE.jpg&w=1200",
+      "timestamp": "2025-03-21T13:36:04.420Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2025/alex-ovechkin-goals-wayne-gretzky-nhl-record/",
+      "headline": "Alex Ovechkin goal tracker: 7 left to break Wayne Gretzky’s all-time record",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/P64ZGFC3U5HQFPGMLIGAABB7AI.jpg&w=1200",
+      "timestamp": "2025-03-21T00:00:55.781Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
