@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-21T20:16:34.006Z",
+  "lastUpdated": "2025-03-21T21:13:42.499Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/21/nyregion/new-jersey-governor-candidates-issues.html",
+      "headline": "Where do the Candidates for New Jersey Governor Stand on the Issues?",
+      "image": "https://nytimes.com/images/2025/03/21/nyregion/nj-governor-issues-promo/nj-governor-promo-mediumSquareAt3X.jpg",
+      "timestamp": "2025-03-21T21:08:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
