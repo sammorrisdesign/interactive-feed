@@ -131,29 +131,6 @@ const fetchers = {
     }
   },
 
-  FiveThirtyEight: async(feed) => {
-    try {
-      const response = await fetch('https://projects.fivethirtyeight.com/projects-page/projects.json');
-      let data = await response.json();
-      let articles = data.projects;
-      articles = articles.map(article => new Article({
-        publication: feed.publication,
-        twitterHandle: feed.twitterHandle,
-        blueSkyHandle: feed.blueSkyHandle,
-        url: article.url,
-        headline: article.title,
-        image: article.image,
-        timestamp: article.published
-      }));
-
-      articles = articles.filter(article => article.url !== 'https://data.fivethirtyeight.com/' && article.url !== "https://projects.fivethirtyeight.com/polls/" && article.url !== "https://projects.fivethirtyeight.com/");
-
-      return articles;
-    } catch {
-      console.log('Unable to fetch FiveThirtyEight projects feed');
-    }
-  },
-
   SouthChinaMorningPost: async(feed) => {
     try {
       const response = await fetch('https://interactive-static.scmp.com/sheet/graphics/arcade.json');

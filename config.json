@@ -109,18 +109,6 @@
       }]
     },
     {
-      "publication": "FiveThirtyEight",
-      "twitterHandle": "FiveThirtyEight",
-      "sources": [{
-        "type": "FiveThirtyEight"
-      },
-      {
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://fivethirtyeight.com/interactives/feed/"
-      }]
-    },
-    {
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",
       "blueSkyHandle": "inquirer.com",
@@ -454,7 +442,7 @@
       "blueSkyHandle": "natureportfolio.bsky.social",
       "sources": [{
         "type": "BlueSky",
-        "handle": "natureportfolio.bsky.social",
+        "handle": "natureportfolio.nature.com",
         "filters": {
           "in": {
             "url": "/immersive"
