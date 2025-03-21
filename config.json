@@ -32,21 +32,7 @@
       "twitterHandle": "washingtonpost",
       "blueSkyHandle": "washingtonpost.com",
       "sources": [{
-        "type": "BlueSky",
-        "handle": "washingtonpost.com",
-        "filters": {
-          "in": {
-            "url": "/interactive"
-          }
-        }
-      }, {
-        "type": "BlueSky",
-        "handle": "postgraphics.bsky.social",
-        "filters": {
-          "in": {
-            "url": "/interactive"
-          }
-        }
+        "type": "WashingtonPost"
       }]
     },
     {
