@@ -33,6 +33,22 @@
       "blueSkyHandle": "washingtonpost.com",
       "sources": [{
         "type": "WashingtonPost"
+      },{
+        "type": "BlueSky",
+        "handle": "washingtonpost.com",
+        "filters": {
+          "in": {
+            "url": "/interactive"
+          }
+        }
+      }, {
+        "type": "BlueSky",
+        "handle": "postgraphics.bsky.social",
+        "filters": {
+          "in": {
+            "url": "/interactive"
+          }
+        }
       }]
     },
     {
