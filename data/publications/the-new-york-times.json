@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-21T21:13:42.499Z",
+  "lastUpdated": "2025-03-22T09:15:28.732Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/22/us/trump-deportation-flights-maps.html",
+      "headline": "Deportations Haven’t Surged Under Trump. But Here’s How They’ve Changed.",
+      "image": "https://nytimes.com/images/2025/03/21/multimedia/2025-03-07-ice-air-flights-index/2025-03-07-ice-air-flights-index-videoSixteenByNine3000-v6.png",
+      "timestamp": "2025-03-22T09:02:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
