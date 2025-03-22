@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-22T09:15:29.067Z",
+  "lastUpdated": "2025-03-22T11:12:23.727Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/mar/22/trump-administration-authoritarianism",
+      "headline": "The Trump administration is descending into authoritarianism",
+      "image": "https://i.guim.co.uk/img/media/86ea5c370e4bce280da99f80b31067cdff3ea423/373_0_2342_1405/master/2342.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bb161b47cd5d90339b1ea4661b0474d",
+      "timestamp": "2025-03-22T11:00:49.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
