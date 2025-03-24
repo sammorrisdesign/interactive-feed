@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-24T08:21:18.132Z",
+  "lastUpdated": "2025-03-24T13:25:38.063Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/4d4f2770-3c95-4390-b4fc-896c92505672",
+      "headline": "Climate change drives surge in global energy demand",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F9f346736-e8b2-40b5-afae-00a947c3797f.jpg?source=next-barrier-page",
+      "timestamp": "2025-03-24T07:00:47.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
