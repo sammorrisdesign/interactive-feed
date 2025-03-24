@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-22T09:15:28.732Z",
+  "lastUpdated": "2025-03-24T06:22:21.737Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/24/science/max-park-rubiks-speedcube.html",
+      "headline": "‘Don’t Think, Just Solve’",
+      "image": "https://nytimes.com/images/2025/03/23/science/00SCI-rubiks-cube-promo/00SCI-rubiks-cube-promo-mobileMasterAt3x.jpg",
+      "timestamp": "2025-03-24T06:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
