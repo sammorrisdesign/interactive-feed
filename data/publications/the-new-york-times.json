@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-24T06:22:21.737Z",
+  "lastUpdated": "2025-03-24T15:17:01.912Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/24/books/review/animal-book-adaptations.html",
+      "headline": "Do You Know the Classic Works That Inspired These Popular Family Movies?",
+      "image": "https://nytimes.com/images/2025/03/24/books/review/24Quiz-Animals/24Quiz-Animals-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-24T15:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
