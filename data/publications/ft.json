@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-23T05:14:16.495Z",
+  "lastUpdated": "2025-03-24T05:16:07.363Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1a7c9b17-862d-4986-ac09-42de2dee44f2",
+      "headline": "From Berlin to Tokyo, the fears of a new nuclear arms race ",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb50541d1-64d1-423f-90f2-07b9e625fa49.jpg?source=next-barrier-page",
+      "timestamp": "2025-03-24T05:00:48.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c696580f-26e5-4360-937e-4b8375dc9ad6",
+      "headline": "Prices slide as India unwinds ban on rice exports",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F169b9ea4-617d-4019-9961-6ad6a2290fe9.jpg?source=next-barrier-page",
+      "timestamp": "2025-03-24T05:00:48.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
