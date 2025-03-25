@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-25T15:17:17.871Z",
+  "lastUpdated": "2025-03-25T19:12:59.119Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/25/us/elections/results-pennsylvania-special-elections.html",
+      "headline": "Pennsylvania State Legislature Special Election Results",
+      "image": "https://nytimes.com/images/2025/03/25/multimedia/eln-PRE-2025-03-25-state-pa-18e06e/eln-PRE-2025-03-25-state-pa-18e06e-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-25T19:08:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
