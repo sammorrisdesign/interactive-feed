@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-25T10:17:34.713Z",
+  "lastUpdated": "2025-03-25T11:13:26.320Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/mar/25/when-the-revolution-doesnt-come-documentary",
+      "headline": "When the revolution doesn’t come documentary",
+      "image": "https://i.guim.co.uk/img/media/7e8a68abc0f1b5cf825fe7539c5ce0d9c9ee9582/60_0_1800_1080/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cb9ae5cc8b23c10ec4536b1bc8d6b9a1",
+      "timestamp": "2025-03-25T10:59:26.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
