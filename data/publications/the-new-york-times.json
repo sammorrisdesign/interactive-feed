@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-24T21:14:19.727Z",
+  "lastUpdated": "2025-03-25T09:16:53.913Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/25/opinion/human-embryo-experiments-timeline.html",
+      "headline": "Should There Be Limits to Researching on Human Embryos?",
+      "image": "https://nytimes.com/images/2025/03/18/opinion/18embryos-thumbnail/18embryos-thumbnail-superJumbo-v3.jpg",
+      "timestamp": "2025-03-25T09:01:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
