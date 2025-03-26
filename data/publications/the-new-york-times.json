@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-26T01:12:51.579Z",
+  "lastUpdated": "2025-03-26T18:45:50.879Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/26/climate/greenpeace-verdict-form.html",
+      "headline": "Energy Transfer vs. Greenpeace Verdict",
+      "image": "https://nytimes.com/images/2025/03/26/doc-948b2fc2-0692-423d-a195-e-promo/doc-948b2fc2-0692-423d-a195-e-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-03-26T18:38:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
