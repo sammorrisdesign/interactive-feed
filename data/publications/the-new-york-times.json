@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-03-25T19:12:59.119Z",
+  "lastUpdated": "2025-03-26T01:12:51.579Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/25/us/signal-group-chat-text-annotations.html",
+      "headline": "The Leaked Signal Chat, Annotated",
+      "image": "https://nytimes.com/images/2025/03/25/multimedia/2025-03-25-atlantic-signal-leak-annotation-index/2025-03-25-atlantic-signal-leak-annotation-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-03-26T00:46:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/climate/50-states-fixes.html",
+      "headline": "50 States, 50 Fixes",
+      "image": "https://nytimes.com/images/2025/03/25/climate/00cli-50x50-promo/00cli-50x50-promo-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-26T00:21:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
