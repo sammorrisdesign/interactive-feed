@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-26T19:36:27.412Z",
+  "lastUpdated": "2025-03-26T22:39:32.771Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/26/business/ai-smarter-human-intelligence-puzzle.html",
+      "headline": "Are You Smarter Than A.I.?",
+      "image": "https://nytimes.com/images/2025/03/21/business/ai-smarter-human-intelligence-puzzle-1743004295210/ai-smarter-human-intelligence-puzzle-1743004295210-superJumbo.jpg",
+      "timestamp": "2025-03-26T22:31:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
