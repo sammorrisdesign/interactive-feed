@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-26T18:45:50.879Z",
+  "lastUpdated": "2025-03-26T19:36:27.412Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/26/us/pedophile-hunting-violence.html",
+      "headline": "Online ‘Pedophile Hunters’ Are Growing More Violent — and Going Viral",
+      "image": "https://nytimes.com/images/2025/03/24/autossell/vigilante-still-3_2/vigilante-still-3_2-superJumbo.jpg",
+      "timestamp": "2025-03-26T19:25:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
