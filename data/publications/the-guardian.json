@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-26T12:31:16.669Z",
+  "lastUpdated": "2025-03-27T11:13:21.297Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2025/mar/27/gaza-palestine-children-injuries",
+      "headline": "Gaza’s children: what can the future possibly hold for them?",
+      "image": "https://i.guim.co.uk/img/media/b79531f7ff14830bbe46ffd7244723067980c149/0_993_1996_1197/master/1996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43d115c71b319f5f1dd181e947e2b356",
+      "timestamp": "2025-03-27T11:00:20.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
