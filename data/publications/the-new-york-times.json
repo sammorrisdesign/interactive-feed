@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-03-26T22:39:32.771Z",
+  "lastUpdated": "2025-03-27T09:17:33.527Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/27/realestate/yacht-trawler-boat-sale.html",
+      "headline": "For a New Adventure, They Wanted a Home on the Sea. But How Much Does a Boat Cost?",
+      "image": "https://nytimes.com/images/2025/03/27/multimedia/27re-Hunt-BOAT1-jbpt/27re-Hunt-BOAT1-jbpt-mobileMasterAt3x-v2.jpg",
+      "timestamp": "2025-03-27T09:04:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/27/travel/things-to-do-Budapest.html",
+      "headline": "36 Hours in Budapest",
+      "image": "https://nytimes.com/images/2025/03/27/multimedia/TRAV-36-hours-budapest-kzgt/TRAV-36-hours-budapest-kzgt-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-03-27T09:02:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/27/magazine/hodgman-quiz-grooming.html",
+      "headline": "Can You Clip Your Nails While You’re on the Phone?",
+      "image": "https://nytimes.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-superJumbo.jpg",
+      "timestamp": "2025-03-27T09:02:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
