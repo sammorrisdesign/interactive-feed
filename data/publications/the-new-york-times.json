@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-27T22:39:29.878Z",
+  "lastUpdated": "2025-03-28T01:12:24.617Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/27/books/great-gatsby-100.html",
+      "headline": "It’s Gatsby’s World, We Just Live in It",
+      "image": "https://nytimes.com/images/2025/03/25/books/00-gatsby-promo/00-gatsby-promo-mobileMasterAt3x-v2.jpg",
+      "timestamp": "2025-03-27T23:44:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
