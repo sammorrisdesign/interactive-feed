@@ -1,6 +1,70 @@
 {
-  "lastUpdated": "2025-01-10T13:37:50.530Z",
+  "lastUpdated": "2025-03-28T12:30:24.918Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/culture/2025/03/20/what-is-in-a-name",
+      "headline": "What baby names reveal about American and British society",
+      "image": "https://www.economist.com/interactive/culture/2025/03/20/what-is-in-a-name/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/2025-canada-election",
+      "headline": "Canada’s Liberals are surging",
+      "image": "https://www.economist.com/interactive/2025-canada-election/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/trump-approval-tracker/",
+      "headline": "Tracking the presidency",
+      "image": "https://www.economist.com/interactive/trump-approval-tracker/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/international/2025/01/18/inside-the-houthis-moneymaking-machine",
+      "headline": "Inside the Houthis’ moneymaking machine",
+      "image": "https://www.economist.com/interactive/international/2025/01/18/inside-the-houthis-moneymaking-machine/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/2025-german-election-polls-prediction-forecast/results",
+      "headline": "The race for the Bundestag",
+      "image": "https://www.economist.com/interactive/2025-german-election-polls-prediction-forecast/results/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/the-world-ahead/2024/11/18/world-leaders-are-getting-older-except-in-democracies",
+      "headline": "World leaders are getting older—except in democracies",
+      "image": "https://www.economist.com/interactive/the-world-ahead/2024/11/18/world-leaders-are-getting-older-except-in-democracies/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/essay/2024/10/31/when-politics-is-about-hating-the-other-side-democracy-suffers",
+      "headline": "When politics is about hating the other side, democracy suffers",
+      "image": "https://www.economist.com/interactive/essay/2024/10/31/when-politics-is-about-hating-the-other-side-democracy-suffers/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/christmas-specials/2024/12/21/how-retired-aircraft-find-a-second-act",
+      "headline": "How retired aircraft find a second act",
+      "image": "https://www.economist.com/interactive/christmas-specials/2024/12/21/how-retired-aircraft-find-a-second-act/promo.jpg",
+      "timestamp": null
+    },
     {
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
