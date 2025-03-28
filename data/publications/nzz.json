@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-20T04:41:44.421Z",
+  "lastUpdated": "2025-03-28T04:42:42.691Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/hier-waechst-ein-hafen-fuer-die-russische-marine-ld.1877464",
+      "headline": "Hier wächst ein Hafen für die russische Marine",
+      "image": "https://img.nzz.ch/2025/03/27/2a6b33ad-28a4-4de8-ae2c-55d7e3588edf.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2025-03-28T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
