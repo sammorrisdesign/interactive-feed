@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-28T08:44:05.284Z",
+  "lastUpdated": "2025-03-28T09:16:59.466Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/28/world/europe/russia-influence-europe-putin.html",
+      "headline": "Russia’s Reach",
+      "image": "https://nytimes.com/images/2025/03/27/multimedia/2025-03-06-russian-european-influence-index/2025-03-06-russian-european-influence-index-videoSixteenByNine3000-v3.png",
+      "timestamp": "2025-03-28T09:03:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
