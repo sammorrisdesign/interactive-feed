@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-29T04:44:11.033Z",
+  "lastUpdated": "2025-03-29T10:14:33.527Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/weg-mit-der-zeitumstellung-und-dann-finden-sie-es-in-unserem-tool-heraus-ld.1877525",
+      "headline": "Weg mit der Zeitumstellung. Und dann? Finden Sie es in unserem Tool heraus",
+      "image": "https://img.nzz.ch/2025/03/27/1bae1677-e2dc-43ca-8aa7-11c6913eb4ba.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1200,675,x0,y113&wmark=nzz",
+      "timestamp": "2025-03-29T09:44:37.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
