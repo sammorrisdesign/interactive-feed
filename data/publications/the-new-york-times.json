@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-29T01:12:02.738Z",
+  "lastUpdated": "2025-03-29T09:15:27.658Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/29/us/signal-group-chat-locations.html",
+      "headline": "Where Was Each Member of the Signal Group Chat?",
+      "image": "https://nytimes.com/images/2025/03/29/multimedia/2025-03-25-atlantic-signal-leak-locations-index/2025-03-25-atlantic-signal-leak-locations-index-videoSixteenByNine3000-v3.jpg",
+      "timestamp": "2025-03-29T09:02:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
