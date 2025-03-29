@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-28T19:13:08.386Z",
+  "lastUpdated": "2025-03-29T01:12:02.738Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/28/us/politics/trump-doge-federal-job-cuts.html",
+      "headline": "What We Know About Cuts to the Federal Work Force",
+      "image": "https://nytimes.com/images/2025/03/28/multimedia/2025-03-20-federal-workforce-cuts-index/2025-03-20-federal-workforce-cuts-index-videoSixteenByNine3000-v5.png",
+      "timestamp": "2025-03-29T00:35:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
