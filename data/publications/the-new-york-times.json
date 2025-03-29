@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-03-29T09:15:27.658Z",
+  "lastUpdated": "2025-03-29T23:13:55.439Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/29/world/europe/us-ukraine-military-war-wiesbaden.html",
+      "headline": "The Secret History of the War in Ukraine",
+      "image": "https://nytimes.com/images/2025/03/18/multimedia/00wiesbaden-intro-bakhmut-flcz-promo/00wiesbaden-intro-bakhmut-flcz-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-03-29T23:09:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
