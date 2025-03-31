@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-03-30T13:25:59.008Z",
+  "lastUpdated": "2025-03-31T09:17:52.538Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/31/world/middleeast/undof-outposts.html",
+      "headline": "Israel Digs In Beyond Its Northern Border",
+      "image": "https://nytimes.com/images/2025/03/27/multimedia/2025-02-10-undof-outposts-index/2025-02-10-undof-outposts-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-03-31T09:04:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/03/31/well/move/burpee-exercise-technique.html",
+      "headline": "How to Master the Burpee",
+      "image": "https://nytimes.com/images/2025/03/29/well/burpee-goodform-promo/burpee-goodform-promo-superJumbo.jpg",
+      "timestamp": "2025-03-31T09:02:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
