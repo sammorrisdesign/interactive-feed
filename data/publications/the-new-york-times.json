@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-01T03:43:15.468Z",
+  "lastUpdated": "2025-04-01T09:17:47.074Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/01/opinion/ivf-gene-selection-fertility.html",
+      "headline": "Should Human Life Be Optimized?",
+      "image": "https://nytimes.com/images/2025/04/01/opinion/01embryos-thumbnail/01embryos-thumbnail-superJumbo-v2.jpg",
+      "timestamp": "2025-04-01T09:02:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
