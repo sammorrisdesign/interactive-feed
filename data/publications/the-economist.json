@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2025-03-31T10:44:04.042Z",
+  "lastUpdated": "2025-04-01T16:18:58.213Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/christmas-specials/2024/12/21/the-chart-of-everything",
+      "headline": "A chart that shows everything that has ever existed",
+      "image": "https://www.economist.com/interactive/christmas-specials/2024/12/21/the-chart-of-everything/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/china/2024/10/08/how-to-escape-from-china-to-america",
+      "headline": "How to escape from China to America",
+      "image": "https://www.economist.com/interactive/china/2024/10/08/how-to-escape-from-china-to-america/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/finance-and-economics/2025/03/06/donald-trumps-tariffs-are-a-throwback-to-the-1930s",
+      "headline": "Donald Trump’s tariffs are a throwback to the 1930s",
+      "image": "https://www.economist.com/interactive/finance-and-economics/2025/03/06/donald-trumps-tariffs-are-a-throwback-to-the-1930s/promo.jpg",
+      "timestamp": null
+    },
     {
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
