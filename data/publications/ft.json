@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-03-30T04:18:25.522Z",
+  "lastUpdated": "2025-04-01T04:19:24.100Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a9b2300e-151f-4291-8a37-13216425cdef",
+      "headline": "How we made it: global energy demand link to climate change",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ff672c849-ed68-4142-9183-40330296f50b.jpg?source=next-barrier-page",
+      "timestamp": "2025-04-01T04:02:04.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c21f29d6-f8c5-4596-8652-42c0be96a269",
+      "headline": "How a $1.4tn Trump trade war could unfold",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F90087253-dcf6-4436-b3dc-c82cdd909534.jpg?source=next-barrier-page",
+      "timestamp": "2025-04-01T04:00:48.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
