@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2025-04-01T17:15:29.605Z",
+  "lastUpdated": "2025-04-01T17:39:00.113Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/01/us/elections/results-florida-special.html",
+      "headline": "Florida Special Election Results",
+      "image": "https://nytimes.com/images/2025/04/01/multimedia/eln-PRE-2025-04-01-state-fl-fa4eb0/eln-PRE-2025-04-01-state-fl-fa4eb0-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-04-01T17:35:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/01/us/elections/results-wisconsin-superintendent-of-public-instruction.html",
+      "headline": "Wisconsin Superintendent of Public Instruction Election Results",
+      "image": "https://nytimes.com/images/2025/04/01/multimedia/eln-PRE-2025-04-01-state-wi-0d8891/eln-PRE-2025-04-01-state-wi-0d8891-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-04-01T17:30:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/01/us/elections/results-wisconsin-question.html",
+      "headline": "Wisconsin Question 1 Election Results",
+      "image": "https://nytimes.com/images/2025/04/01/multimedia/eln-PRE-2025-04-01-state-wi-ff950d/eln-PRE-2025-04-01-state-wi-ff950d-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-04-01T17:30:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/01/us/elections/results-florida-us-house-1-special.html",
+      "headline": "Florida First District Special Election Results",
+      "image": "https://nytimes.com/images/2025/04/01/multimedia/eln-PRE-2025-04-01-race-fl-us-h-1-sp-2fc6ea/eln-PRE-2025-04-01-race-fl-us-h-1-sp-2fc6ea-horizontalMediumAt2X-v2.jpg",
+      "timestamp": "2025-04-01T17:30:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/01/us/elections/results-florida-us-house-6-special.html",
+      "headline": "Florida Sixth District Special Election Results",
+      "image": "https://static01.nyt.com/images/2025/04/01/multimedia/eln-PRE-2025-04-01-race-fl-us-h-6-sp-843a14/eln-PRE-2025-04-01-race-fl-us-h-6-sp-843a14-facebookJumbo-v2.jpg",
+      "timestamp": "2025-04-01T17:24:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
