@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-01T17:39:00.113Z",
+  "lastUpdated": "2025-04-01T21:37:07.753Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents.html",
+      "headline": "See Which House Members Rejected Johnson’s Effort Against Proxy Voting",
+      "image": "https://nytimes.com/images/2025/04/01/us/politics/house-vote-johnson-proxy-vote-parents-1743542585108/house-vote-johnson-proxy-vote-parents-1743542585108-videoSixteenByNine3000.jpg",
+      "timestamp": "2025-04-01T21:33:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
