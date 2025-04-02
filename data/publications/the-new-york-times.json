@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-01T21:37:07.753Z",
+  "lastUpdated": "2025-04-02T04:18:26.896Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/02/well/social-life-quiz.html",
+      "headline": "How Healthy Is Your Social Biome? Take Our Quiz.",
+      "image": "https://nytimes.com/images/2025/04/02/well/02WELL-SOCIAL-BIOME-promo/02WELL-SOCIAL-BIOME-promo-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-04-02T04:04:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
