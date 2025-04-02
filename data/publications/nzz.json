@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-29T10:14:33.527Z",
+  "lastUpdated": "2025-04-02T03:31:47.894Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/eingestuerzte-tuerme-zerstoerte-bruecken-so-verheerend-war-das-erdbeben-in-myanmar-und-thailand-ld.1878167",
+      "headline": "Eingestürzte Türme, zerstörte Brücken: So verheerend war das Erdbeben in Myanmar und Thailand",
+      "image": "https://img.nzz.ch/2025/04/01/be9bfbce-16c4-45d9-b6d2-0ac82ddbb11f.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5280,2970,x0,y279&wmark=nzz",
+      "timestamp": "2025-04-02T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
