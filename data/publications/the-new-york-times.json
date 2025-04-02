@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-02T19:36:18.860Z",
+  "lastUpdated": "2025-04-02T21:37:01.978Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/books/fantasy-books.html",
+      "headline": "Let Us Help You Find Your Next Book: Fantasy",
+      "image": "https://nytimes.com/images/2025/04/02/books/fantasy/fantasy-superJumbo.jpg",
+      "timestamp": "2025-04-02T21:22:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
