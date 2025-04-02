@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-02T17:13:45.224Z",
+  "lastUpdated": "2025-04-02T19:36:18.860Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/02/world/europe/ukraine-russia-war-environment.html",
+      "headline": "The War on Nature in Ukraine",
+      "image": "https://nytimes.com/images/2025/04/02/world/xxukraine-ecocide-static-promo/xxukraine-ecocide-static-promo-mediumSquareAt3X.jpg",
+      "timestamp": "2025-04-02T19:22:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
