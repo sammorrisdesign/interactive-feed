@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-02T14:15:30.080Z",
+  "lastUpdated": "2025-04-02T16:20:27.042Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/02/us/paul-weiss-letter-32725-2.html",
+      "headline": "Read the Letter to the Chairman of Paul Weiss",
+      "image": "https://nytimes.com/images/2025/04/02/doc-39f662a5-2dc5-4164-90d1-6-promo/doc-39f662a5-2dc5-4164-90d1-6-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-04-02T16:03:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
