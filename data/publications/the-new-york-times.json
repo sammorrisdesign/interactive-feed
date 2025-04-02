@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-02T09:17:11.062Z",
+  "lastUpdated": "2025-04-02T14:15:30.080Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/02/nyregion/adams-charges-dismissed-ruling.html",
+      "headline": "Read the ruling dismissing corruption charges against Eric Adams",
+      "image": "https://nytimes.com/images/2025/04/02/doc-89c8ac75-502e-4708-8d67-b-promo/doc-89c8ac75-502e-4708-8d67-b-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-04-02T14:13:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
