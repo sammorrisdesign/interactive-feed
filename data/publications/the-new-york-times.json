@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-03T17:38:23.978Z",
+  "lastUpdated": "2025-04-03T22:14:36.467Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/03/science/bird-nest-litter.html",
+      "headline": "One Bird Nest, 30 Years of Human Trash",
+      "image": "https://nytimes.com/images/2025/04/02/science/bird-nest-litter-1743715033107/bird-nest-litter-1743715033107-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-04-03T21:47:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
