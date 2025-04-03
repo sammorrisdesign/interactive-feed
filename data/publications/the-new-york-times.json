@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-04-02T21:37:01.978Z",
+  "lastUpdated": "2025-04-03T09:17:15.076Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/03/realestate/brooklyn-home-sale.html",
+      "headline": "They Wanted Bigger Space in a Smaller Building in Brooklyn. Friendly Neighbors a Plus.",
+      "image": "https://nytimes.com/images/2025/04/03/multimedia/03re-Hunt-Nayyar-04-ptmq/03re-Hunt-Nayyar-04-ptmq-superJumbo.jpg",
+      "timestamp": "2025-04-03T09:03:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/03/travel/things-to-do-carmel.html",
+      "headline": "36 Hours in Carmel, Calif.",
+      "image": "https://nytimes.com/images/2025/04/03/multimedia/36-hours-Carmel-05-zpbj/36-hours-Carmel-05-zpbj-mobileMasterAt3x-v7.jpg",
+      "timestamp": "2025-04-03T09:00:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
