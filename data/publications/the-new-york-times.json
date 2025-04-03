@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-03T15:15:13.303Z",
+  "lastUpdated": "2025-04-03T17:38:23.978Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/03/business/economy/2025-04-01-tariff-revenue-analysis-index.html",
+      "headline": "How Much Will Trump’s Tariffs Cost U.S. Importers?",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-04-03T17:36:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
