@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-03T22:14:36.467Z",
+  "lastUpdated": "2025-04-04T09:17:19.296Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/04/magazine/hawaiian-pizza.html",
+      "headline": "Is Hawaiian Pizza a 'Classic'?",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-04-04T09:03:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
