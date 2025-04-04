@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-04T22:14:33.356Z",
+  "lastUpdated": "2025-04-04T23:36:30.256Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/04/us/250404-list-of-removed-books-from-nimitz-library.html",
+      "headline": "Read the Naval Academy’s list of removed books",
+      "image": "https://nytimes.com/images/2025/04/04/doc-b73b0e48-6315-43ab-ac67-d-promo/doc-b73b0e48-6315-43ab-ac67-d-promo-mediumSquareAt3X.png",
+      "timestamp": "2025-04-04T23:19:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
