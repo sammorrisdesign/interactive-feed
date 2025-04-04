@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-04T09:17:19.296Z",
+  "lastUpdated": "2025-04-04T15:40:40.397Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/04/magazine/los-angeles-fires-altadena.html",
+      "headline": "The Life and Death of a Block Destroyed By the L.A. Fires",
+      "image": "https://nytimes.com/images/2025/04/06/magazine/06mag-fire-promostill/06mag-fire-promostill-horizontalMediumAt2X.jpg",
+      "timestamp": "2025-04-04T15:34:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
