@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-04T19:13:31.822Z",
+  "lastUpdated": "2025-04-04T22:14:33.356Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/04/world/earthquake-papua-new-guinea.html",
+      "headline": "Map: Earthquake Near Papua New Guinea Prompts Tsunami Alert",
+      "image": "https://nytimes.com/images/2025/04/04/world/04wea-quake-tracker-solomon-sea-nyt8i2s1-index/04wea-quake-tracker-solomon-sea-nyt8i2s1-index-videoSixteenByNine3000-v8.jpg",
+      "timestamp": "2025-04-04T21:58:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
