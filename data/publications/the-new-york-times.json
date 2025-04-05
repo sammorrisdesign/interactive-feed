@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-05T03:28:23.707Z",
+  "lastUpdated": "2025-04-05T09:14:39.294Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/05/health/measles-children-symptoms.html",
+      "headline": "How Measles Attacks an Unvaccinated Child",
+      "image": "https://nytimes.com/images/2025/04/02/multimedia/2025-03-20-measles-emma-index/2025-03-20-measles-emma-index-videoSixteenByNine3000-v2.jpg",
+      "timestamp": "2025-04-05T09:02:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
