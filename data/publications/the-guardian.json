@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-05T21:14:14.266Z",
+  "lastUpdated": "2025-04-06T11:12:05.518Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/apr/06/diversity-equity-business-trump-history",
+      "headline": "American corporations didn’t want to diversify, anyway",
+      "image": "https://i.guim.co.uk/img/media/6d2f376dfbad40995f85159c05dfa61389446bbf/0_89_5100_3060/master/5100.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=40e1fefaaff74dd13bf27ed6109a3d12",
+      "timestamp": "2025-04-06T11:00:49.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
