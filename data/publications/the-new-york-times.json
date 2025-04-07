@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-07T14:43:03.226Z",
+  "lastUpdated": "2025-04-07T21:15:00.771Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/07/business/economy/trump-tariffs-reaction-china-eu-canada.html",
+      "headline": "No Big Stick: Many Tariff Targets Avoid Hitting Back",
+      "image": "https://nytimes.com/images/2025/04/07/multimedia/2025-04-07-tariff-country-negotiations-index/2025-04-07-tariff-country-negotiations-index-videoSixteenByNine3000-v6.png",
+      "timestamp": "2025-04-07T20:41:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
