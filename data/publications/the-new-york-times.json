@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-05T09:14:39.294Z",
+  "lastUpdated": "2025-04-07T02:49:35.798Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/06/upshot/ten-minute-challenge-seasons.html",
+      "headline": "10-Minute Challenge: ‘The Seasons’ by Lee Krasner",
+      "image": "https://nytimes.com/images/2025/03/31/us/ten-minute-challenge-seasons-1743449086475/ten-minute-challenge-seasons-1743449086475-mediumSquareAt3X.png",
+      "timestamp": "2025-04-07T02:12:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
