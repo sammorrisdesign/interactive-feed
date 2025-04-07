@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-01T04:19:24.100Z",
+  "lastUpdated": "2025-04-07T13:26:21.795Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c117fd39-b1ab-41b8-89d4-6e1130a39014",
+      "headline": "How we made it: ‘Bonkers’ weather trends in March",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc2f20be6-fb4b-4eed-aae0-0404b36651a7.jpg?source=next-barrier-page",
+      "timestamp": "2025-04-07T13:06:25.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
