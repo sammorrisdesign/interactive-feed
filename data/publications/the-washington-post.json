@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-06T10:39:59.959Z",
+  "lastUpdated": "2025-04-07T10:18:18.388Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2025/x-hack-deep-fake-twitter/",
+      "headline": "What I learned when my X account was hacked  ",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QEKZVKQOFVBUTMMNKTTK4KEFZM.jpg&w=1200",
+      "timestamp": "2025-04-07T09:45:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
