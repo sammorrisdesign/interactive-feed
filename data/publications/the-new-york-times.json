@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-07T21:15:00.771Z",
+  "lastUpdated": "2025-04-08T02:45:54.225Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/07/us/supreme-court-venezuelan-migrants.html",
+      "headline": "Read the Supreme Court’s Ruling on Venezuelan Migrants",
+      "image": "https://nytimes.com/images/2025/04/08/doc-d35efb66-5656-475d-898c-4-promo/doc-d35efb66-5656-475d-898c-4-promo-mobileMasterAt3x.png",
+      "timestamp": "2025-04-08T01:29:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
