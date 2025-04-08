@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-08T02:45:54.225Z",
+  "lastUpdated": "2025-04-08T09:17:24.490Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/08/opinion/embryos-court-custody-property.html",
+      "headline": "Are Embryos Property or People? Even the Courts Are Confused.",
+      "image": "https://nytimes.com/images/2025/04/08/opinion/08embryos-static-thumb/08embryos-static-thumb-superJumbo.png",
+      "timestamp": "2025-04-08T09:00:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
