@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-11T03:31:27.112Z",
+  "lastUpdated": "2025-04-11T10:16:45.267Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/bundestagswahl-die-neuesten-umfragen-im-wahltrend-ld.1605950",
+      "headline": "Union und SPD haben keine Mehrheit mehr – die neuesten Umfragen zur Bundestagswahl",
+      "image": "https://img.nzz.ch/2025/03/14/7f217083-4905-4ae5-8eac-95efd9f4b6c2.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y94&wmark=nzz",
+      "timestamp": "2025-04-11T09:51:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
