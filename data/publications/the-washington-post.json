@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-14T09:18:33.008Z",
+  "lastUpdated": "2025-04-14T10:18:04.736Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2025/housing-market-home-prices-zip-code/",
+      "headline": "Home prices are dropping in some cities. See what it’s like in your neighborhood.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/GJQ266ONDFCK5AUNDQS2CWAIT4.jpg&w=1200",
+      "timestamp": "2025-04-14T10:10:30.979Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/home-efficiency-emissions-cost/",
+      "headline": "Why it’s hard to save money making your house more energy efficient",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CRC6MA2GP5EDTBURV5ZFMQHGLY.jpg&w=1200",
+      "timestamp": "2025-04-14T10:00:39.878Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
