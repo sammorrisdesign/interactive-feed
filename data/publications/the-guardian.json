@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-18T09:16:49.735Z",
+  "lastUpdated": "2025-04-20T08:18:19.419Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/apr/20/american-dream-trump-canada",
+      "headline": "The America I loved is gone",
+      "image": "https://i.guim.co.uk/img/media/a67dbc8c2ac080c831c69e350b3cd34e933997d7/0_3_2154_1292/master/2154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13946aa11a63003d15bbff07ed90e91f",
+      "timestamp": "2025-04-20T08:00:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
