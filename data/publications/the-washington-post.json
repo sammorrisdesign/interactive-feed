@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-22T09:17:40.401Z",
+  "lastUpdated": "2025-04-23T10:18:28.100Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/tree-friendly-cities-urban-forests/",
+      "headline": "How tree-friendly is your city? Look it up.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/JEZNBWXFOVHSDONQKIUS4DGDZY.jpg&w=1200",
+      "timestamp": "2025-04-23T10:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2025/trump-oval-office-baroque-rococo/",
+      "headline": "The new Sun King",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A33IARYF2VBFBA4VLDM4JMX3VU.jpg&w=1200",
+      "timestamp": "2025-04-23T10:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
