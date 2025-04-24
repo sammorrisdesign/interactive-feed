@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-04-22T21:14:56.033Z",
+  "lastUpdated": "2025-04-24T08:21:21.707Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/middle-east/unexploded-bombs-gaza-2025-04-24/",
+      "headline": "The unexploded bombs of Gaza",
+      "image": "https://www.reuters.com/resizer/v2/SZUGXE2BBRFA3HHYREHMYBG7SI.png?auth=5bfdf0f2309a5674d12ebf2e9e9caa4739ed020f4ee8c3d1685d80d75a032e65&width=1200&quality=80",
+      "timestamp": "1970-01-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/israel-hamas/gazas-shattered-landmarks-2025-04-24/",
+      "headline": "Gaza's shattered landmarks",
+      "image": "https://www.reuters.com/resizer/v2/Y454IIJWR5AIFPADRYW3D2QARI.jpg?auth=46fc90c479b51e4b03a03e03159fc0070741ae345e5f6700c1bbe276253f25e1&width=1200&quality=80",
+      "timestamp": "1970-01-01T00:00:00.000Z"
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",

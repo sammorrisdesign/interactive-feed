@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-23T18:49:08.214Z",
+  "lastUpdated": "2025-04-24T08:21:21.679Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/apr/24/american-refugees-escape",
+      "headline": "Meet the new American refugees fleeing across state lines for safety",
+      "image": "https://i.guim.co.uk/img/media/6db8a16a8fd1c9ec9b1a5d0a04d013e653ed6cf8/0_0_7008_4205/master/7008.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1fb235a1e85397c5d2cfbcdf3160418a",
+      "timestamp": "2025-04-24T08:00:01.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
