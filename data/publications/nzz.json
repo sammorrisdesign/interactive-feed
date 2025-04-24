@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-19T03:47:44.684Z",
+  "lastUpdated": "2025-04-24T03:35:49.954Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/verkohlte-tanklaster-oelflecken-im-meer-die-verheerenden-folgen-eines-us-angriffs-auf-den-hafen-der-huthi-ld.1881100",
+      "headline": "Verkohlte Tanklaster, Ölflecken im Meer: Die verheerenden Folgen eines US-Angriffs auf den Hafen der Huthi",
+      "image": "https://img.nzz.ch/2025/04/23/bdf47542-b8b6-4730-a5f7-fa3c1f9ca8ae.png?width=675&height=380&fit=bounds&quality=75&auto=webp&crop=675,380,x0,y61",
+      "timestamp": "2025-04-24T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
