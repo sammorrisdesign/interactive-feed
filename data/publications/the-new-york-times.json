@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2025-04-08T09:17:24.490Z",
+  "lastUpdated": "2025-04-25T21:10:27.611Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/25/us/elections/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: April 2025 Times/Siena Poll of Registered Voters Nationwide",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-04-25T19:20:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/25/us/elections/times-siena-poll-toplines.html",
+      "headline": "Toplines: April 2025 Times/Siena Poll of Registered Voters Nationwide",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-04-25T19:20:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/25/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, April 26, 2025",
+      "image": "https://static01.nyt.com/images/2025/04/25/multimedia/flashback-promo-2025-04-26/flashback-promo-2025-04-26-articleLarge.jpg",
+      "timestamp": "2025-04-25T18:49:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/25/us/judgedugancomplaint.html",
+      "headline": "Read the F.B.I.’s Charging Document",
+      "image": "https://static01.nyt.com/images/2025/04/25/doc-c5b86865-c524-4c16-8804-5-promo/doc-c5b86865-c524-4c16-8804-5-promo-articleLarge.png",
+      "timestamp": "2025-04-25T17:11:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/25/world/americas/ecuador-quake-tracker.html",
+      "headline": "Map: 6.3-Magnitude Earthquake Strikes Near Ecuador",
+      "image": "https://static01.nyt.com/images/2025/04/25/world/25wea-quake-tracker-north-pacific-ocean-nyt1d0mh-index/25wea-quake-tracker-north-pacific-ocean-nyt1d0mh-index-articleLarge-v27.jpg",
+      "timestamp": "2025-04-25T13:56:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/25/well/eat/protein-meal-guide.html",
+      "headline": "Are You Getting Enough Protein? Let’s Find Out.",
+      "image": "https://static01.nyt.com/images/2025/04/24/well/well-protein-guide3/well-protein-guide3-articleLarge.png",
+      "timestamp": "2025-04-25T04:24:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/24/arts/pope-francis-caravaggio.html",
+      "headline": "Piercing the Shadows of the Pope’s Favorite Painting",
+      "image": "https://static01.nyt.com/images/2025/04/25/arts/caravaggio-promo/caravaggio-promo-articleLarge.jpg",
+      "timestamp": "2025-04-25T01:10:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

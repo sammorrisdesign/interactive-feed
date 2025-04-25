@@ -10,21 +10,22 @@ const fetchers = {
     const secrets = await utils.getSecrets();
 
     if (secrets) {
-      const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=document_type:("multimedia")&fl=web_url,headline,pub_date,body,type_of_material,multimedia&sort=newest&api-key=${secrets.nyt.key}`);
+      const response = await fetch(`https://api.nytimes.com/svc/search/v2/articlesearch.json?fq=type%3AInteractive&fl=web_url,headline,pub_date,body,type_of_material,multimedia&sort=newest&api-key=${secrets.nyt.key}`);
       const data = await response.json();
 
       let articles = data.response.docs;
+
+      console.log(articles);
+
       articles = articles.filter(article => article.web_url.includes('interactive'));
 
       articles = articles.map(article => {
-        const image = article?.multimedia.sort((a, b) => b.height - a.height)?.[0]?.url;
-
         return new Article({
           publication: feed.publication,
           twitterHandle: feed.twitterHandle,
           blueSkyHandle: feed.blueSkyHandle,
           url: article.web_url,
-          image: image ? "https://nytimes.com/" + image : null,
+          image: article.multimedia.default.url,
           headline: article.headline.main,
           timestamp: article.pub_date
         });
