@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-25T21:13:25.731Z",
+  "lastUpdated": "2025-04-25T21:37:37.389Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/25/magazine/hodgeman-quiz.html",
+      "headline": "What Constitutes Cheating at Wordle?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-04-25T21:15:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
