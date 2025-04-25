@@ -1,6 +1,496 @@
 {
-  "lastUpdated": "2025-04-25T21:10:27.611Z",
+  "lastUpdated": "2025-04-25T21:13:25.731Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/10/travel/things-to-do-hudson-valley.html",
+      "headline": "36 Hours in the Hudson Valley, N.Y.",
+      "image": "https://static01.nyt.com/images/2025/04/19/travel/things-to-do-hudson-valley-10-zhwf/things-to-do-hudson-valley-10-zhwf-articleLarge-v5.jpg",
+      "timestamp": "2025-04-10T09:02:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/09/us/politics/house-budget-blueprint-vote.html",
+      "headline": "How Each House Member Voted on the Republican Budget",
+      "image": "https://static01.nyt.com/images/2025/04/07/us/politics/house-budget-vote-1744236782249/house-budget-vote-1744236782249-articleLarge.jpg",
+      "timestamp": "2025-04-09T22:13:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/09/upshot/senate-vs-house-budget.html",
+      "headline": "House Republicans Passed a New Budget. Here’s What’s in It.",
+      "image": "https://static01.nyt.com/images/2025/04/09/multimedia/2025-04-09-senate-vs-house-budget-index/2025-04-09-senate-vs-house-budget-index-articleLarge-v4.png",
+      "timestamp": "2025-04-09T20:35:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/09/us/immigrant-rights-deportation.html",
+      "headline": "What Rights Do Immigrants Have?",
+      "image": "https://static01.nyt.com/images/2025/04/03/multimedia/2025-03-25-immigrants-legal-rights-index/2025-03-25-immigrants-legal-rights-index-articleLarge-v10.png",
+      "timestamp": "2025-04-09T09:01:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/12/upshot/measles-herd-immunity-explainer.html",
+      "headline": "Can You Stop an Outbreak of a Contagious Disease?",
+      "image": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-12-measles-herd-immunity-sim-index/2025-03-12-measles-herd-immunity-sim-index-articleLarge-v8.jpg",
+      "timestamp": "2025-04-12T21:18:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/12/business/economy/china-tariff-product-costs.html",
+      "headline": "How Much Are Tariffs on Chinese Goods? It’s Trickier Than You Think.",
+      "image": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-10-china-tariff-stacking-new-index/2025-04-10-china-tariff-stacking-new-index-articleLarge-v6.jpg",
+      "timestamp": "2025-04-12T09:03:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/11/world/americas/nightclub-dominican-republic-collapse.html",
+      "headline": "See the Moments Leading Up to the Nightclub Roof Collapse in Santo Domingo",
+      "image": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-jetset-dr-collapse-index/2025-04-11-jetset-dr-collapse-index-articleLarge-v4.jpg",
+      "timestamp": "2025-04-11T21:16:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/11/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, April 12, 2025",
+      "image": "https://static01.nyt.com/images/2025/04/11/multimedia/flashback-promo-2025-04-12/flashback-promo-2025-04-12-articleLarge.jpg",
+      "timestamp": "2025-04-11T19:30:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/11/arts/television/zombie-quiz-last-of-us-walking-dead.html",
+      "headline": "From ‘The Last of Us’ to ‘The Walking Dead,’ How Well Do You Know Your TV Zombies?",
+      "image": "https://static01.nyt.com/images/2025/04/11/arts/zombie-quiz/zombie-quiz-articleLarge.jpg",
+      "timestamp": "2025-04-11T19:23:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/11/weather/avalanche-science.html",
+      "headline": "How Snow Becomes Deadly",
+      "image": "https://static01.nyt.com/images/2025/04/10/multimedia/2025-04-02-weather-avalanches-index/2025-04-02-weather-avalanches-index-articleLarge-v3.jpg",
+      "timestamp": "2025-04-11T18:39:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/11/magazine/pizza-night-star-wars.html",
+      "headline": "Can You Force Your Children to Watch ‘Star Wars’ Stuff?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-04-11T09:02:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/10/magazine/bunkers-prepping.html",
+      "headline": "Secret Tunnels, Bunkers and Arsenals: The ‘Panic Industry’ Is Booming",
+      "image": "https://static01.nyt.com/images/2025/04/13/magazine/13mag-panic-18/13mag-panic-18-articleLarge-v2.jpg",
+      "timestamp": "2025-04-10T17:43:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/10/realestate/new-york-vermont-maine-home-sale.html",
+      "headline": "They Scoured the Northeast for a Space They Could Live and Work In",
+      "image": "https://static01.nyt.com/images/2025/04/10/multimedia/10Hunt-Harhouri-wkfq/10Hunt-Harhouri-wkfq-articleLarge.jpg",
+      "timestamp": "2025-04-10T09:04:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/15/realestate/roxane-gay-debbie-millman-home.html",
+      "headline": "Debbie Millman and Roxane Gay on Pink Elephants and Gardening",
+      "image": "https://static01.nyt.com/images/2025/04/15/realestate/15re-athomewith-millmangay-promo/15re-athomewith-millmangay-promo-articleLarge.jpg",
+      "timestamp": "2025-04-15T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/14/us/trump-harvard-demands.html",
+      "headline": "Read the Trump Administration’s Letter to Harvard",
+      "image": "https://static01.nyt.com/images/2025/04/14/doc-01572f5d-6a5e-48aa-a641-e-promo/doc-01572f5d-6a5e-48aa-a641-e-promo-articleLarge.png",
+      "timestamp": "2025-04-14T21:16:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/14/us/harvard-letter.html",
+      "headline": "Read Harvard’s Response to the Trump Administration",
+      "image": "https://static01.nyt.com/images/2025/04/14/doc-56858638-9a00-4485-b8be-8-promo/doc-56858638-9a00-4485-b8be-8-promo-articleLarge.png",
+      "timestamp": "2025-04-14T21:16:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/14/books/review/hidden-title-books.html",
+      "headline": "Can You Uncover the Hidden Titles of a Dozen Recent Best Sellers?",
+      "image": "https://static01.nyt.com/images/2025/04/14/books/review/14Quiz-BestSellers/14Quiz-BestSellers-articleLarge.jpg",
+      "timestamp": "2025-04-14T13:00:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/13/us/1.html",
+      "headline": "Read the Report on President Trump’s Annual Physical Exam",
+      "image": "https://static01.nyt.com/images/2025/04/13/doc-08a6b573-f6a0-4ab0-8125-5-promo/doc-08a6b573-f6a0-4ab0-8125-5-promo-articleLarge.png",
+      "timestamp": "2025-04-13T14:44:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/13/upshot/musk-doge-1-trillion-goal.html",
+      "headline": "Why Elon Musk Hasn’t Come Close to Finding $1 Trillion in Cuts",
+      "image": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-04-11-musk-cuts-index/2025-04-11-musk-cuts-index-articleLarge-v2.jpg",
+      "timestamp": "2025-04-13T09:01:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/15/weather/errol-map-path-tracker.html",
+      "headline": "Tracking Tropical Cyclone Errol",
+      "image": "https://static01.nyt.com/images/2025/04/11/world/twentynine-map-path-tracker-index/twentynine-map-path-tracker-index-articleLarge-v30.jpg",
+      "timestamp": "2025-04-15T15:41:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/18/opinion/trump-approval-focus-group.html",
+      "headline": "How 13 Independent Voters Who Backed Trump Think He Is Doing So Far",
+      "image": "https://static01.nyt.com/images/2025/04/18/opinion/trump-approval-focus-group-1744905552573/trump-approval-focus-group-1744905552573-articleLarge-v2.jpg",
+      "timestamp": "2025-04-18T09:02:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/17/us/fourth-circuit-kilmar-abrego-garcia-annotation.html",
+      "headline": "‘This Should Be Shocking:’ Read a Federal Appeals Panel’s Sharp Rebuke of the Trump Administration",
+      "image": "https://static01.nyt.com/images/2025/04/17/multimedia/fourth-circuit-kilmar-abrego-garcia-annotation-promo/fourth-circuit-kilmar-abrego-garcia-annotation-promo-articleLarge.jpg",
+      "timestamp": "2025-04-17T23:28:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/17/us/harvard-letter-signed.html",
+      "headline": "Read the Letter From Kristi Noem to Harvard",
+      "image": "https://static01.nyt.com/images/2025/04/17/doc-924d29fd-f2a9-4f96-bcb7-e-promo/doc-924d29fd-f2a9-4f96-bcb7-e-promo-articleLarge.png",
+      "timestamp": "2025-04-17T16:58:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/17/realestate/hudson-valley-kingston-saugerties-homes.html",
+      "headline": "Seeking a Hudson Valley Homestead That Could House Three Generations",
+      "image": "https://static01.nyt.com/images/2025/04/27/multimedia/17RE-HUNT-CASEY-02-bqkw/17RE-HUNT-CASEY-02-bqkw-articleLarge-v3.jpg",
+      "timestamp": "2025-04-17T09:06:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/17/travel/things-to-do-Orlando.html",
+      "headline": "36 Hours in Orlando, Fla.",
+      "image": "https://static01.nyt.com/images/2025/04/17/multimedia/36-hours-Orlando-02-mpcw/36-hours-Orlando-02-mpcw-articleLarge.jpg",
+      "timestamp": "2025-04-17T09:05:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data.html",
+      "headline": "To Understand Global Migration, You Have to See It First",
+      "image": "https://static01.nyt.com/images/2025/04/17/opinion/17migrations-still/17migrations-still-articleLarge-v2.jpg",
+      "timestamp": "2025-04-17T09:02:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/17/opinion/global-migration-facebook-data-interactive-tool.html",
+      "headline": "A New Picture of Global Migration",
+      "image": "https://static01.nyt.com/images/2025/04/17/opinion/17toolmigrationspromo/17toolmigrationspromo-articleLarge.jpg",
+      "timestamp": "2025-04-17T09:02:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/16/us/boasberg-ruling-document.html",
+      "headline": "Read Judge Boasberg’s Ruling",
+      "image": "https://static01.nyt.com/images/2025/04/16/doc-e5f50768-be50-4a35-8d2d-d-promo/doc-e5f50768-be50-4a35-8d2d-d-promo-articleLarge.png",
+      "timestamp": "2025-04-16T18:18:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/15/us/trump-white-house-briefing-room-new-media.html",
+      "headline": "Inside the Changing White House Briefing Room",
+      "image": "https://static01.nyt.com/images/2025/04/15/multimedia/2025-03-17-leavitt-press-briefings-index/2025-03-17-leavitt-press-briefings-index-articleLarge-v4.jpg",
+      "timestamp": "2025-04-15T22:09:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/21/us/politics/white-house-west-wing-offices-trump.html",
+      "headline": "Who Sits Where in Trump’s West Wing",
+      "image": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-19-wh-west-wing-trump-index/2025-03-19-wh-west-wing-trump-index-articleLarge-v7.jpg",
+      "timestamp": "2025-04-21T09:01:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/21/nyregion/nyc-mayor-democratic-candidates-issues.html",
+      "headline": "Where Do the Democrats Running for Mayor of New York City Stand on the Issues?",
+      "image": "https://static01.nyt.com/images/2025/04/18/nyregion/nyc-mayor-democratic-candidates-issues-1745008860761/nyc-mayor-democratic-candidates-issues-1745008860761-articleLarge.png",
+      "timestamp": "2025-04-21T07:00:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/20/us/politics/24a1007-dissent.html",
+      "headline": "Read Justice Alito’s Dissent",
+      "image": "https://static01.nyt.com/images/2025/04/20/doc-2c5cd1c6-a96d-4a6a-bbe5-6-promo/doc-2c5cd1c6-a96d-4a6a-bbe5-6-promo-articleLarge.png",
+      "timestamp": "2025-04-20T13:35:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/20/us/politics/federal-workers-america-map.html",
+      "headline": "These Maps Show Federal Employees Work in Every Corner of America",
+      "image": "https://static01.nyt.com/images/2025/04/11/multimedia/2025-03-01-mapping-federal-workforce-index/2025-03-01-mapping-federal-workforce-index-articleLarge-v6.jpg",
+      "timestamp": "2025-04-20T09:00:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/20/nyregion/nyc-subway-signals.html",
+      "headline": "An Inside Look at the Subway’s Archaic Signal System",
+      "image": "https://static01.nyt.com/images/2025/04/20/nyregion/20-nyc-subway-signals-still/20-nyc-subway-signals-still-articleLarge-v2.jpg",
+      "timestamp": "2025-04-20T07:00:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/18/style/religion-faith-belief.html",
+      "headline": "The Moments That Shape Our Beliefs",
+      "image": "https://static01.nyt.com/images/2025/04/17/style/religion-faith-belief-1745003982440/religion-faith-belief-1745003982440-articleLarge.jpg",
+      "timestamp": "2025-04-18T21:13:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/18/magazine/magazine-email/20mag-hodgmanquiz.html",
+      "headline": "How Gross Can Guys Get in the Kitchen?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-04-18T20:06:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/18/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, April 19, 2025",
+      "image": "https://static01.nyt.com/images/2025/04/18/multimedia/flashback-promo-2025-04-19-v2/flashback-promo-2025-04-19-v2-articleLarge.jpg",
+      "timestamp": "2025-04-18T19:43:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/22/world/australia/quake-tracker-australia.html",
+      "headline": "Map: 5.1-Magnitude Earthquake Strikes Australia",
+      "image": "https://static01.nyt.com/images/2025/04/22/world/22wea-quake-tracker-australia-nyt158tk-index/22wea-quake-tracker-australia-nyt158tk-index-articleLarge-v84.jpg",
+      "timestamp": "2025-04-22T17:48:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/21/books/review/disaster-book-movies.html",
+      "headline": "Do You Know These Books That Became Disaster Movies?",
+      "image": "https://static01.nyt.com/images/2025/04/21/books/review/21TBR-Games-Disaster/21TBR-Games-Disaster-articleLarge.jpg",
+      "timestamp": "2025-04-21T15:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/24/books/book-review-poetry-challenge-sign-up.html",
+      "headline": "Sign Up for the Book Review’s First-Ever Challenge",
+      "image": "https://static01.nyt.com/images/2025/04/24/books/IlloNewsletterBooksPoetry/IlloNewsletterBooksPoetry-articleLarge.png",
+      "timestamp": "2025-04-24T18:21:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/24/us/nyag-james-letter-to-ag-bondi.html",
+      "headline": "Read Abbe Lowell’s Letter to the Justice Department",
+      "image": "https://static01.nyt.com/images/2025/04/24/doc-8749bd3c-b73c-437a-b47a-9-promo/doc-8749bd3c-b73c-437a-b47a-9-promo-articleLarge.png",
+      "timestamp": "2025-04-24T15:22:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/24/us/states-tariffs-lawsuit-complaint.html",
+      "headline": "Read the Lawsuit From 12 States Over Trump Tariffs",
+      "image": "https://static01.nyt.com/images/2025/04/24/doc-1fa846c1-e764-4e59-a843-3-promo/doc-1fa846c1-e764-4e59-a843-3-promo-articleLarge.png",
+      "timestamp": "2025-04-24T15:20:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/24/us/sb-2307-veto-message-signed.html",
+      "headline": "Read the North Dakota Governor’s Veto Message",
+      "image": "https://static01.nyt.com/images/2025/04/24/doc-0f96e640-0896-42a4-99e2-9-promo/doc-0f96e640-0896-42a4-99e2-9-promo-articleLarge.png",
+      "timestamp": "2025-04-24T14:02:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/24/realestate/los-angeles-san-fernando-valley-homes.html",
+      "headline": "In L.A., a Young Family Wanted a House to Grow Into. Would $800,000 Be Enough? ",
+      "image": "https://static01.nyt.com/images/2025/04/24/multimedia/24re-Hunt-Barnes1-bfzw/24re-Hunt-Barnes1-bfzw-articleLarge-v4.jpg",
+      "timestamp": "2025-04-24T09:02:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/24/travel/things-to-do-Marfa.html",
+      "headline": "36 Hours in Marfa, Texas",
+      "image": "https://static01.nyt.com/images/2025/04/24/multimedia/24things-to-do-marfa-whbz/24things-to-do-marfa-whbz-articleLarge-v2.jpg",
+      "timestamp": "2025-04-24T09:01:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/23/arts/music/jason-moran-duke-ellington.html",
+      "headline": "Jason Moran Unpacks Duke Ellington’s Greatness in a Single Song",
+      "image": "https://static01.nyt.com/images/2025/04/23/arts/moran-static/moran-static-articleLarge.jpg",
+      "timestamp": "2025-04-23T23:03:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/23/world/europe/turkey-earthquake.html",
+      "headline": "Map: 6.2-Magnitude Earthquake Strikes Near Istanbul",
+      "image": "https://static01.nyt.com/images/2025/04/23/world/23wea-quake-tracker-sea-of-marmara-nytf368q-index/23wea-quake-tracker-sea-of-marmara-nytf368q-index-articleLarge-v180.jpg",
+      "timestamp": "2025-04-23T11:14:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/23/business/elon-musk-x-suppression-laura-loomer.html",
+      "headline": "They Criticized Musk on X. Then Their Reach Collapsed.",
+      "image": "https://static01.nyt.com/images/2025/04/18/multimedia/2025-03-27-disinfo-elon-suppression-index/2025-03-27-disinfo-elon-suppression-index-articleLarge-v2.png",
+      "timestamp": "2025-04-23T09:02:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/22/nyregion/prosecutor-letter.html",
+      "headline": "Read the Prosecutors’ Letter",
+      "image": "https://static01.nyt.com/images/2025/04/22/doc-99f8eab4-bb1d-4265-b7e8-6-promo/doc-99f8eab4-bb1d-4265-b7e8-6-promo-articleLarge.png",
+      "timestamp": "2025-04-22T19:18:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
