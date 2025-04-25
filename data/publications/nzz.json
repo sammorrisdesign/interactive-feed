@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-24T03:35:49.954Z",
+  "lastUpdated": "2025-04-25T14:41:16.431Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-letzte-weg-des-papstes-ld.1881464",
+      "headline": "Der letzte Weg des Papstes",
+      "image": "https://img.nzz.ch/2025/04/25/f382bb17-11f9-464f-9368-a235d37d3e12.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3840,2160,x0,y0&wmark=nzz",
+      "timestamp": "2025-04-25T14:40:04.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
