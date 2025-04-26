@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-25T21:37:37.389Z",
+  "lastUpdated": "2025-04-26T09:15:10.918Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/26/well/move/squat-technique.html",
+      "headline": "How to Do a Perfect Squat",
+      "image": "https://static01.nyt.com/images/2025/04/25/well/SQUAT-GOODFORM_TOPPER/SQUAT-GOODFORM_TOPPER-articleLarge-v3.jpg",
+      "timestamp": "2025-04-26T09:01:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
