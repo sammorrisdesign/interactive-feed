@@ -68,6 +68,7 @@ const fetchers = {
       twitterHandle: feed.twitterHandle,
       blueSkyHandle: feed.blueSkyHandle,
       url: article.canonical_url,
+      image: article.promo_items.basic.url,
       headline: article.headlines.basic,
       timestamp: article.display_date
     }));
