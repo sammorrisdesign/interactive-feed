@@ -1,12 +1,1 @@
-[
-  {
-    "timestamp": "2025-04-26T21:22:41.098Z",
-    "publication": "De Tijd",
-    "error": "TypeError: Cannot read properties of undefined (reading 'channel')\n    at Object.XML (/Users/morriss/Repos/interactive-feed/src/fetchers.js:166:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/Users/morriss/Repos/interactive-feed/src/fetchers.js:338:32)\n    at async pullRecentFeeds (/Users/morriss/Repos/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/Users/morriss/Repos/interactive-feed/src/feeds.js:99:18)\n    at async /Users/morriss/Repos/interactive-feed/app.js:6:3"
-  },
-  {
-    "timestamp": "2025-04-26T21:22:41.101Z",
-    "publication": "De Tijd",
-    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/Users/morriss/Repos/interactive-feed/src/fetchers.js:339:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/Users/morriss/Repos/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/Users/morriss/Repos/interactive-feed/src/feeds.js:99:18)\n    at async /Users/morriss/Repos/interactive-feed/app.js:6:3"
-  }
-]
+[]
