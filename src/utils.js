@@ -1,3 +1,4 @@
+const fs = require('fs-extra');
 const url = require('url');
 const ogs = require('open-graph-scraper');
 const dayjs = require('dayjs');
@@ -56,5 +57,17 @@ module.exports = {
     } catch (e) {
       console.log(`Can't get Image URL via OpenGraph for ${articleUrl}`);
     }
+  },
+
+  logError: async(publication, error) => {
+    const logs = fs.readJSONSync('./data/log.json');
+
+    logs.push({
+      "timestamp": new Date(),
+      publication: publication,
+      error: error.stack
+    });
+
+    fs.writeFileSync('./data/log.json', JSON.stringify(logs, null, 2));
   }
 }

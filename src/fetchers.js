@@ -148,6 +148,7 @@ const fetchers = {
 
       return articles;
     } catch (e) {
+      utils.logError(feed.publication, e);
       console.log(e);
     }
   },
@@ -218,7 +219,8 @@ const fetchers = {
       }
 
       return articles;
-    } catch(e) {
+    } catch (e) {
+      utils.logError(feed.publication, e);
       console.log(e);
     }
   },
@@ -262,6 +264,7 @@ const fetchers = {
 
       return articles;
     } catch (e) {
+      utils.logError(feed.publication, e);
       console.log(e);
     }
   },
@@ -316,7 +319,8 @@ const fetchers = {
       }
 
       return articles;
-    } catch(e) {
+    } catch (e) {
+      utils.logError(feed.publication, e);
       console.log(e);
     }
   }
@@ -338,6 +342,7 @@ module.exports = {
 
       return articles;
     } catch (e) {
+      utils.logError(feed.publication, e);
       console.log(`Error fetching ${feed.publication}`);
       console.log(e);
     }

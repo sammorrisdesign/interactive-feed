@@ -7,6 +7,7 @@
     "start": "node app.js $npm_config_publish",
     "test": "node src/test.js $npm_config_publication",
     "audit": "node src/audit.js",
+    "alert": "node src/alert.js",
     "encrypt-secrets": "openssl aes-256-cbc -e -md sha256 -in ./secrets.json -out ./encrypted-secrets -k $KEY",
     "decrypt-secrets": "openssl aes-256-cbc -d -md sha256 -in ./encrypted-secrets -out ./secrets.json -k $KEY"
   },
@@ -27,7 +28,8 @@
     "fast-xml-parser": "^4.0.8",
     "fs-extra": "^10.1.0",
     "node-cron": "^3.0.0",
-    "open-graph-scraper": "^6.3.2",
+    "nodemailer": "^6.10.1",
+    "open-graph-scraper": "^6.10.0",
     "rss-parser": "^3.12.0",
     "sharp": "^0.33.5",
     "twitter-api-v2": "^1.12.3"

@@ -1,0 +1,25 @@
+name: Health Check
+on:
+  schedule:
+    - cron: '0 10 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+      with:
+        token: ${{ secrets.PAT }}
+    - name: Use Node.js 22.x
+      uses: actions/setup-node@v3
+      with:
+        node-version: 22.x
+        cache: 'npm'
+    - run: npm ci
+    - name: Create secrets file
+      run: export KEY=${{ secrets.KEY }} && npm run decrypt-secrets
+    - run: npm run alert
+    - uses: stefanzweifel/git-auto-commit-action@v4
+      with:
+        commit_message: Clearing the error logs
