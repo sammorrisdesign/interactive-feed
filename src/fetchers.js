@@ -15,8 +15,6 @@ const fetchers = {
 
       let articles = data.response.docs;
 
-      console.log(articles);
-
       articles = articles.filter(article => article.web_url.includes('interactive'));
 
       articles = articles.map(article => {
