@@ -278,10 +278,15 @@
     {
       "publication": "De Tijd",
       "twitterHandle": "TijdGraphics",
+      "blueSkyHandle": "tijd.be",
       "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://multimedia.tijd.be/portfolio/rss.xml"
+        "type": "BlueSky",
+        "handle": "tijd.be",
+        "filters": {
+          "in": {
+            "url": "multimedia.tijd"
+          }
+        }
       }]
     },
     {

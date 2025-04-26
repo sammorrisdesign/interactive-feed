@@ -288,7 +288,7 @@ const fetchers = {
       const { data } = await client.getAuthorFeed({
         actor: idData.did,
         filter: 'posts_and_author_threads',
-        limit: 30,
+        limit: 100,
       });
 
       let articles = data.feed.filter(entry => entry.post?.embed?.external);
