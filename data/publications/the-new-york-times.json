@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-26T15:37:18.666Z",
+  "lastUpdated": "2025-04-27T09:15:28.210Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/27/world/asia/china-products-us-tariffs-trump.html",
+      "headline": "Your Home Without China",
+      "image": "https://static01.nyt.com/images/2025/04/23/multimedia/2025-04-14-china-us-tariffs-household-goods-index/2025-04-14-china-us-tariffs-household-goods-index-articleLarge-v13.jpg",
+      "timestamp": "2025-04-27T08:55:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
