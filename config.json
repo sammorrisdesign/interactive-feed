@@ -476,6 +476,32 @@
         "format": "RSS",
         "path": "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/interaktiv"
       }]
+    },
+    {
+      "publication": "Politico",
+      "blueSkyHandle": "politico.com",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "politico.com",
+        "filters": {
+          "in": {
+            "url": "politico.com/interactives"
+          }
+        }
+      }]
+    },
+    {
+      "publication": "National Geographic",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.nationalgeographic.com/sitemaps/items.1.xml",
+        "filters": {
+          "in": {
+            "url": "/graphics"
+          }
+        }
+      }]
     }
   ]
 }
