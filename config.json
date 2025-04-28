@@ -511,6 +511,21 @@
           }
         }
       }]
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "sources": [{
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://www.usatoday.com/news-sitemap.xml",
+        "filters": {
+          "in": {
+            "url": "/story/graphics"
+          }
+        }
+      }]
     }
   ]
 }
