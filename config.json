@@ -414,10 +414,10 @@
     }, {
       "publication": "San Francisco Chronicle",
       "twitterHandle": "sfchronicle",
-      "blueSkyHandle": "sfchronicle.bsky.social",
+      "blueSkyHandle": "sfchronicle.com",
       "sources": [{
         "type": "BlueSky",
-        "handle": "sfchronicle.bsky.social",
+        "handle": "sfchronicle.com",
         "filters": {
           "in": {
             "url": "projects"
