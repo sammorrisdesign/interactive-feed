@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-28T19:36:31.219Z",
+  "lastUpdated": "2025-04-28T21:13:04.367Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/28/magazine/how-to-be-happy.html",
+      "headline": "The Best Advice I’ve Ever Heard for How to Be Happy",
+      "image": "https://static01.nyt.com/images/2025/05/04/magazine/04mag-tips-promo/04mag-tips-promo-articleLarge.jpg",
+      "timestamp": "2025-04-28T20:54:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
