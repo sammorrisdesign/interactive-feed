@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-27T09:15:28.210Z",
+  "lastUpdated": "2025-04-28T01:17:33.978Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/books/edna-st-vincent-millay-recuerdo-poem-challenge.html",
+      "headline": "The Poetry Challenge Day 1: Learn a poem with us this week. Keep it for a lifetime.",
+      "image": "https://static01.nyt.com/images/2025/04/25/books/poetrychallenge-day1-beige/00-poetryweek-day1-beige-articleLarge.jpg",
+      "timestamp": "2025-04-28T00:35:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
