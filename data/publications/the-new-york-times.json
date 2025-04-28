@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-28T01:17:33.978Z",
+  "lastUpdated": "2025-04-28T15:17:36.084Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/28/books/book-titles-cities.html",
+      "headline": "Fill in the Blank: Which U.S. Cities Are in These Book Titles?",
+      "image": "https://static01.nyt.com/images/2025/04/28/books/review/28TBR-Quiz-Places/28TBR-Quiz-Places-articleLarge.jpg",
+      "timestamp": "2025-04-28T15:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
