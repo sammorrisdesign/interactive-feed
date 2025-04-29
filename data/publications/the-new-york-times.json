@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-04-29T02:51:35.451Z",
+  "lastUpdated": "2025-04-29T09:17:54.711Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/29/opinion/focusgroup-100-days-trump.html",
+      "headline": "These 12 Voters Swung to Trump For the First Time in 2024. Here’s How They See Him Now.",
+      "image": "https://static01.nyt.com/images/2025/04/29/opinion/29focusgroup-promo/29focusgroup-promo-articleLarge.jpg",
+      "timestamp": "2025-04-29T09:03:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/29/opinion/trump-100-day-columnists.html",
+      "headline": "What Defined Trump’s First 100 Days? 15 Columnists Weigh In.",
+      "image": "https://static01.nyt.com/images/2025/04/29/opinion/29columnists-100-topart/29columnists-100-topart-articleLarge.jpg",
+      "timestamp": "2025-04-29T09:01:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
