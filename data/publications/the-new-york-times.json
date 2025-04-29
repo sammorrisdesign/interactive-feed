@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-28T21:13:04.367Z",
+  "lastUpdated": "2025-04-29T01:15:40.896Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/28/us/trump-100-days-actions.html",
+      "headline": "How Trump’s Second Term Is Changing Power, Institutions and More",
+      "image": "https://static01.nyt.com/images/2025/04/28/multimedia/trump-100days-promostill-zhwb/trump-100days-promostill-zhwb-articleLarge.jpg",
+      "timestamp": "2025-04-29T01:08:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
