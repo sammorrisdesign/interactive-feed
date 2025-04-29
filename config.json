@@ -526,6 +526,19 @@
           }
         }
       }]
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "houstonchronicle.com",
+        "filters": {
+          "in": {
+            "url": "/projects"
+          }
+        }
+      }]
     }
   ]
 }

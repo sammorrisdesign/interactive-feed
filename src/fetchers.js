@@ -235,8 +235,6 @@ const fetchers = {
         xmlMode: true
       });
 
-      console.log(html);
-
       let data = $(feed.selector);
 
       let articles = data.map((i, article) => {
