@@ -539,6 +539,28 @@
           }
         }
       }]
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "sources": [{
+        "type": "BlueSky",
+        "handle": "npr.org",
+        "filters": {
+          "in": {
+            "url": "apps."
+          }
+        }
+      }, {
+        "type": "XML",
+        "format": "Sitemap",
+        "path": "https://googlecrawl.npr.org/news/sitemap_news.xml",
+        "filters": {
+          "in": {
+            "url": "apps."
+          }
+        }
+      }]
     }
   ]
 }
