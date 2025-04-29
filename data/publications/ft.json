@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-29T04:18:35.407Z",
+  "lastUpdated": "2025-04-29T16:46:03.334Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d99ce893-cb18-4f2a-bb0c-d701e89f72ce",
+      "headline": "How we made it: sudden flips in temperature",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb77ed0ab-2bfd-4240-ad57-f44642abcada.jpg?source=next-barrier-page",
+      "timestamp": "2025-04-29T16:13:05.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
