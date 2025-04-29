@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-29T01:15:41.342Z",
+  "lastUpdated": "2025-04-29T08:22:32.207Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/apr/29/trump-100-days-president",
+      "headline": "Trump 100 days: Trump’s whirlwind start to his second presidency",
+      "image": "https://i.guim.co.uk/img/media/a82d1ab0cd48cee5f9fece288251c85ec1ac501f/0_625_6250_3750/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dc9342d2f7a70a6741f94f2d0bceb63f",
+      "timestamp": "2025-04-29T08:00:18.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
