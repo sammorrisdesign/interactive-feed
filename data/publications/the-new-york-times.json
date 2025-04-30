@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-30T18:47:17.476Z",
+  "lastUpdated": "2025-04-30T21:14:42.822Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/30/climate/white-house-earth-day-page-annotated.html",
+      "headline": "Fact-Checking the ‘President Who Follows Science’",
+      "image": "https://static01.nyt.com/images/2025/04/30/multimedia/doc-annotation-wh-earth-day-promo/doc-annotation-wh-earth-day-promo-articleLarge.jpg",
+      "timestamp": "2025-04-30T20:57:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
