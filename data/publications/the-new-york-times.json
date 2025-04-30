@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-30T14:16:10.163Z",
+  "lastUpdated": "2025-04-30T14:42:15.393Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/30/us/university-funding-research.html",
+      "headline": "Where Federal Dollars Flow to Universities Around the Country",
+      "image": "https://static01.nyt.com/images/2025/04/28/multimedia/2025-04-23-university-funding-index/2025-04-23-university-funding-index-articleLarge-v8.png",
+      "timestamp": "2025-04-30T14:30:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
