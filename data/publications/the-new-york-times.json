@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-30T21:14:42.822Z",
+  "lastUpdated": "2025-04-30T22:15:06.850Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/30/magazine/04mag-hodgmanquiz.html",
+      "headline": "Can You Skip Chores to Post Online?",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-04-30T22:12:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
