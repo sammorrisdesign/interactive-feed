@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-04-30T18:22:14.808Z",
+  "lastUpdated": "2025-04-30T18:47:17.476Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/30/magazine/what-makes-me-happy-quiz.html",
+      "headline": "Quiz: Which Kind of Happiness Do You Rely On Most?",
+      "image": "https://static01.nyt.com/images/2025/05/04/magazine/04mag-quiz-promo/04mag-quiz-promo-articleLarge.jpg",
+      "timestamp": "2025-04-30T18:32:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
