@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-04-30T02:50:47.474Z",
+  "lastUpdated": "2025-04-30T09:17:27.700Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/30/opinion/trump-cabinet-members.html",
+      "headline": "No Ordinary Cabinet. No Ordinary Time.",
+      "image": "https://static01.nyt.com/images/2025/04/30/opinion/30french-promo/30french-promo-articleLarge.jpg",
+      "timestamp": "2025-04-30T09:03:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/30/world/us-travel-decline.html",
+      "headline": "Has International Travel to the U.S. Really Collapsed?",
+      "image": "https://static01.nyt.com/images/2025/04/28/multimedia/2025-04-09-us-travel-decline-index/2025-04-09-us-travel-decline-index-articleLarge-v3.png",
+      "timestamp": "2025-04-30T09:00:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
