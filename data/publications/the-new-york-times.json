@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-04-29T09:17:54.711Z",
+  "lastUpdated": "2025-04-30T02:50:47.474Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/04/29/upshot/trump-100-days-charts.html",
+      "headline": "Eight Charts That Sum Up Trump’s First 100 Days",
+      "image": "https://static01.nyt.com/images/2025/04/29/multimedia/2025-04-14-trump-100-charts-index/2025-04-14-trump-100-charts-index-articleLarge-v2.png",
+      "timestamp": "2025-04-30T02:35:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/books/edna-st-vincent-millay-nyc.html",
+      "headline": "The Poetry Challenge Day 3: This is a New York poem. Once you learn it, you can take it anywhere.",
+      "image": "https://static01.nyt.com/images/2025/04/25/books/poetrychallenge-day3-beige/poetrychallenge-day3-beige-articleLarge.jpg",
+      "timestamp": "2025-04-30T02:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
