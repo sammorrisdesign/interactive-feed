@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-04-30T04:19:27.727Z",
+  "lastUpdated": "2025-05-01T03:57:51.083Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/schwarzer-rauch-ueber-shahid-rajaee-ld.1882152",
+      "headline": "Schwarzer Rauch über Shahid Rajaee",
+      "image": "https://img.nzz.ch/2025/04/30/8fcf7bad-f7d4-44c0-b863-f1c50e45c023.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2880,1620,x0,y0&wmark=nzz",
+      "timestamp": "2025-05-01T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
