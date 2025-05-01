@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-01T13:25:04.184Z",
+  "lastUpdated": "2025-05-01T21:15:34.417Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2025/may/01/local-elections-2025-full-mayoral-and-council-results-for-england",
+      "headline": "Local elections 2025: full mayoral and council results for England",
+      "image": "https://i.guim.co.uk/img/media/ea16e5b855755ea5539c01981d71bd89b7e02525/1_0_4998_3000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78d254c2308e5add936d64c05ecd5e1e",
+      "timestamp": "2025-05-01T21:01:00.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
