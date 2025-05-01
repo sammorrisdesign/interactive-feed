@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2025-04-01T16:18:58.213Z",
+  "lastUpdated": "2025-05-01T16:20:27.566Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/inflation-tracker",
+      "headline": "A pause in American inflation is probably temporary",
+      "image": "https://www.economist.com/interactive/inflation-tracker/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/2025-british-politics",
+      "headline": "How popular is Britain’s Labour government?",
+      "image": "https://www.economist.com/interactive/2025-british-politics/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/asia/2025/04/25/with-american-credibility-in-doubt-minds-go-back-to-saigon-in-1975",
+      "headline": "With American credibility in doubt, minds go back to Saigon in 1975",
+      "image": "https://www.economist.com/interactive/asia/2025/04/25/with-american-credibility-in-doubt-minds-go-back-to-saigon-in-1975/promo.jpg",
+      "timestamp": null
+    },
     {
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
