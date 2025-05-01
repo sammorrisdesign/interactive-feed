@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-05-01T03:03:35.103Z",
+  "lastUpdated": "2025-05-01T09:17:17.509Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/01/realestate/midtown-manhattan-one-bedroom-sale.html",
+      "headline": "They Left Queens for Manhattan With $600,000 and a Short Wishlist",
+      "image": "https://static01.nyt.com/images/2025/05/01/multimedia/01re-Hunt-Ferrier-01-qzjw/01re-Hunt-Ferrier-01-qzjw-articleLarge.jpg",
+      "timestamp": "2025-05-01T09:04:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/01/travel/things-to-do-Berlin.html",
+      "headline": "36 Hours in Berlin",
+      "image": "https://static01.nyt.com/images/2025/05/01/multimedia/01thing-to-do-berlin-top-bmwg/01thing-to-do-berlin-top-bmwg-articleLarge.jpg",
+      "timestamp": "2025-05-01T09:02:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
