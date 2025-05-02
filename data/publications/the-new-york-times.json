@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-02T02:52:47.838Z",
+  "lastUpdated": "2025-05-02T04:43:52.131Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/02/world/asia/tariffs-orders-packages-china-us.html",
+      "headline": "What a Disappearing Tariff Loophole Could Mean for Your Next Online Order",
+      "image": "https://static01.nyt.com/images/2025/05/01/multimedia/2025-04-25-de-minimis-index/2025-04-25-de-minimis-index-articleLarge-v5.png",
+      "timestamp": "2025-05-02T04:30:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
