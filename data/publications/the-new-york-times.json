@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-01T09:17:17.509Z",
+  "lastUpdated": "2025-05-02T02:52:47.838Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/books/edna-st-vincent-millay-poetry.html",
+      "headline": "The Poetry Challenge Day 5: We’ve learned a poem this week. Now it’s yours.",
+      "image": "https://static01.nyt.com/images/2025/04/25/books/poetrychallenge-day5-beige/poetrychallenge-day5-beige-articleLarge-v3.jpg",
+      "timestamp": "2025-05-02T02:00:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
