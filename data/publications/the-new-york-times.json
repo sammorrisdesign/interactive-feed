@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-02T04:43:52.131Z",
+  "lastUpdated": "2025-05-02T14:15:31.644Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/02/world/americas/tsunami-earthquake-chile.html",
+      "headline": "Map: 7.4-Magnitude Earthquake Near Chile Prompts Tsunami Alert",
+      "image": "https://static01.nyt.com/images/2025/05/02/world/02wea-quake-tracker-south-atlantic-ocean-nytb2ueg-index/02wea-quake-tracker-south-atlantic-ocean-nytb2ueg-index-articleLarge-v16.jpg",
+      "timestamp": "2025-05-02T14:14:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
