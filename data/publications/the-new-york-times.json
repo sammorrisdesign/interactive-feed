@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-02T15:16:52.082Z",
+  "lastUpdated": "2025-05-02T16:19:48.173Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/02/arts/asian-american-comedians.html",
+      "headline": "Four Asian American Comics on the Joke That Changed Their Life",
+      "image": "https://static01.nyt.com/images/2025/04/22/multimedia/00ASIAN-COMEDIANS-BOWEN-01-tqgz/00ASIAN-COMEDIANS-BOWEN-01-tqgz-articleLarge.jpg",
+      "timestamp": "2025-05-02T16:04:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
