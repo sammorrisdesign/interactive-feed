@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-05-02T18:21:56.484Z",
+  "lastUpdated": "2025-05-02T20:18:17.209Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/02/us/wisconsin-state-guidance.html",
+      "headline": "Read the Memo to Wisconsin State Workers",
+      "image": "https://static01.nyt.com/images/2025/05/02/doc-f825e5bf-9e68-4a0b-a799-7-promo/doc-f825e5bf-9e68-4a0b-a799-7-promo-articleLarge.png",
+      "timestamp": "2025-05-02T19:57:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/02/style/tailoring-black-style.html",
+      "headline": "Black Style, Made to Measure",
+      "image": "https://static01.nyt.com/images/2025/05/02/fashion/02BLACK-TAILORS-COMBO/02BLACK-TAILORS-COMBO-articleLarge.jpg",
+      "timestamp": "2025-05-02T19:44:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
