@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-05-02T21:36:51.213Z",
+  "lastUpdated": "2025-05-03T10:15:16.674Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2025/trump-first-100-days-foreign-policy/",
+      "headline": "How Trump has reshaped U.S. foreign policy in his first 100 days",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/D4WIPJUPPVBIZAM7GDPG47SZKU.jpg",
+      "timestamp": "2025-05-03T10:00:38.100Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/sports/interactive/2025/stable-recovery-racehorses-addiction/",
+      "headline": "At a Kentucky farm, star racehorses help people fight a monster: Addiction",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/SL6ST5YP5STCEHVQBDJWB27LKU.JPG",
+      "timestamp": "2025-05-03T10:00:29.899Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2025/outdoors-has-particular-smell-why-is-that/",
+      "headline": "The outdoors has a particular smell, but why is that?",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/K3QAV5KI3ZCHNKPDGZXLP3Q2JM.png",
+      "timestamp": "2025-05-03T10:00:10.662Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
