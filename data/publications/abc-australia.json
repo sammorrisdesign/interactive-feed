@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-05-01T19:12:59.517Z",
+  "lastUpdated": "2025-05-03T11:36:15.708Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2025-05-03/election-results-arrow-swing-maps/105208946",
+      "headline": "Maps show collapse in Coalition vote",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ae30eac01188232d560cf33cb97bae2b?impolicy=wcms_crop_resize&cropH=916&cropW=1221&xPos=205&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
