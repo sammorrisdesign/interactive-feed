@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-03T06:21:00.371Z",
+  "lastUpdated": "2025-05-03T08:19:18.511Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2025/may/03/election-results-2025-live-tracker-australian-federal-poll-who-won-is-winning-votes-count-seats-latest",
+      "headline": "Australian election 2025 live results: votes tracker and federal seat counts",
+      "image": "https://i.guim.co.uk/img/media/8ecafca62a004e63fd135dbd8490d8b7f3ee52f1/404_0_3332_2000/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a49eca9b0b295bd4900093880511609d",
+      "timestamp": "2025-05-03T08:13:01.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/may/03/what-will-labour-do-next-local-elections-reform-uk-left-right",
+      "headline": "‘We can’t just talk to the right’: what will Labour do now? ",
+      "image": "https://i.guim.co.uk/img/media/17e492a80fc5be4f8f470713ce07a865ef292e12/0_172_4000_2400/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b011bcc05c6176f57967f185d0197816",
+      "timestamp": "2025-05-03T08:00:31.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
