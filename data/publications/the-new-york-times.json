@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-02T20:18:17.209Z",
+  "lastUpdated": "2025-05-04T09:15:26.900Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/04/us/trump-american-dream-voters.html",
+      "headline": "What Has Happened to the American Dream?",
+      "image": "https://static01.nyt.com/images/2025/05/02/multimedia/nat-american-dream-01-bhmt/nat-american-dream-01-bhmt-articleLarge.jpg",
+      "timestamp": "2025-05-04T08:57:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
