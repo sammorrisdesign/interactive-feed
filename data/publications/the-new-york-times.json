@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-05T20:18:09.406Z",
+  "lastUpdated": "2025-05-05T21:14:55.555Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/05/style/met-gala-2025-red-carpet-looks.html",
+      "headline": "2025 Met Gala: Red Carpet Roundup",
+      "image": "https://static01.nyt.com/images/2025/05/05/multimedia/05METGALA-REDCARPET-Taylor-plqk/05METGALA-REDCARPET-Taylor-plqk-articleLarge-v2.jpg",
+      "timestamp": "2025-05-05T20:56:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
