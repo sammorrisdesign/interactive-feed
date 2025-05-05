@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-05T14:44:12.237Z",
+  "lastUpdated": "2025-05-05T18:45:04.207Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/05/books/american-poetry.html",
+      "headline": "Modern American Poetry: A Starter Pack",
+      "image": "https://static01.nyt.com/images/2025/04/17/books/starterpacks-poetry-promo-still/starterpacks-poetry-promo-still-articleLarge.png",
+      "timestamp": "2025-05-05T18:19:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
