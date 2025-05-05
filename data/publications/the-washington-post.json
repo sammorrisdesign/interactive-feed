@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-03T10:15:16.674Z",
+  "lastUpdated": "2025-05-05T10:18:03.162Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/weather/interactive/2025/what-makes-auroras-glow-this-comic-is-your-guide/",
+      "headline": "What makes auroras glow? This comic is your guide.",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/N6YUXAQ27BCKBBBKKMMGAQLMFA.jpg",
+      "timestamp": "2025-05-05T10:00:01.005Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
