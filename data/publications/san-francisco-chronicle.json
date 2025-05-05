@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-04-30T16:19:59.828Z",
+  "lastUpdated": "2025-05-05T20:18:09.448Z",
   "articles": [
+    {
+      "publication": "San Francisco Chronicle",
+      "twitterHandle": "sfchronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2024/police-clean-record-agreements/",
+      "headline": "This is the secret system that covers up police misconduct — and ensures problem officers can get hired again",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:niws4datih6dforyd7y22km4/bafkreifccd6qo3s33fjkz4vs6hneice3s3mxwgqwtq62xh6fharbchvgda@jpeg",
+      "timestamp": "2025-05-05T20:08:31.493Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "twitterHandle": "sfchronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2024/police-chases/",
+      "headline": "‘Like firing a 4,000-pound bullet’: Police chases are killing more and more Americans",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:niws4datih6dforyd7y22km4/bafkreiat42pytdw7fg664f7i3oysdlzbp4upcarniztmovgqicymzrdnwq@jpeg",
+      "timestamp": "2025-05-05T20:08:31.492Z"
+    },
     {
       "publication": "San Francisco Chronicle",
       "twitterHandle": "sfchronicle",
