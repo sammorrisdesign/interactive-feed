@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-05T09:18:00.281Z",
+  "lastUpdated": "2025-05-05T14:44:12.237Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/05/books/review/mark-twain-quiz.html",
+      "headline": "How Well Do You Know the Life and Works of Mark Twain?",
+      "image": "https://static01.nyt.com/images/2025/05/05/books/review/TBR-Quiz-MarkTwain/TBR-Quiz-MarkTwain-articleLarge.png",
+      "timestamp": "2025-05-05T14:30:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
