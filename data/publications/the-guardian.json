@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-05T05:17:09.660Z",
+  "lastUpdated": "2025-05-05T23:15:20.170Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2025/may/06/results-2025-federal-election-live",
+      "headline": "Live federal election 2025 results: latest seat count, electorate map, Australian Senate, swing seats, tracker",
+      "image": "https://i.guim.co.uk/img/media/8ecafca62a004e63fd135dbd8490d8b7f3ee52f1/404_0_3332_2000/master/3332.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a49eca9b0b295bd4900093880511609d",
+      "timestamp": "2025-05-05T22:47:42.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
