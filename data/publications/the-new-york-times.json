@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-05-06T10:17:41.097Z",
+  "lastUpdated": "2025-05-06T16:46:03.505Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/06/us/elections/results-cincinnati-mayoral-primary.html",
+      "headline": "Cincinnati Mayoral Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/05/06/multimedia/eln-PRE-2025-05-06-state-oh-3b7e63/eln-PRE-2025-05-06-state-oh-3b7e63-articleLarge.jpg",
+      "timestamp": "2025-05-06T16:38:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/06/us/elections/results-ohio-issue-2.html",
+      "headline": "Ohio Election Results: Local Public Infrastructure Bonds Issue",
+      "image": "https://static01.nyt.com/images/2025/05/06/multimedia/eln-PRE-2025-05-06-state-oh-d0ac5d/eln-PRE-2025-05-06-state-oh-d0ac5d-articleLarge.jpg",
+      "timestamp": "2025-05-06T16:33:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
