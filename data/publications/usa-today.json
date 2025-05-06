@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-06T10:17:41.142Z",
+  "lastUpdated": "2025-05-06T18:46:44.370Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/05/06/global-birth-rates-drop-cdc/83392638007/",
+      "headline": "Birth rates are close to a historic low: See charts",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/05/05/USAT/83461449007-birthratetopper.png",
+      "timestamp": "2025-05-06T18:39:28.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/05/06/interest-rates-homes-mortgages-credit-cards/83461087007/",
+      "headline": "Interest rates for loans, mortgages aren’t falling yet. See when they might",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/05/06/USAT/83474331007-high-interest-rates.png",
+      "timestamp": "2025-05-06T18:36:14.000Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
