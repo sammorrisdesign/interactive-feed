@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-05-05T21:14:55.555Z",
+  "lastUpdated": "2025-05-06T09:18:06.665Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/06/nyregion/nyc-mayor-funding-neighborhood-donations.html",
+      "headline": "See Who Your Neighborhood Is Funding in New York City’s Mayoral Race",
+      "image": "https://static01.nyt.com/images/2025/05/05/multimedia/2025-03-18-nyc-mayor-donations-index/2025-03-18-nyc-mayor-donations-index-articleLarge-v4.png",
+      "timestamp": "2025-05-06T09:03:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/06/realestate/antoni-porowski-apartment-queer-eye-taylor-swift.html",
+      "headline": "Antoni Porowski on His Big Green Sofa, Real Plants and Taylor Swift",
+      "image": "https://static01.nyt.com/images/2025/05/06/realestate/06athomewith-porowski/06athomewith-porowski-articleLarge.jpg",
+      "timestamp": "2025-05-06T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/06/world/europe/cardinals-conclave-2025.html",
+      "headline": "The Church Is More Global Than Ever. What Does That Mean for the Next Pope?",
+      "image": "https://static01.nyt.com/images/2025/05/02/multimedia/2025-02-26-cardinals-index/2025-02-26-cardinals-index-articleLarge.png",
+      "timestamp": "2025-05-06T09:01:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
