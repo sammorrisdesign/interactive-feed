@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-05-06T09:18:06.665Z",
+  "lastUpdated": "2025-05-06T10:17:41.097Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/06/crosswords/06wordle-golf-how-to-score.html",
+      "headline": "How to Score Wordle Golf",
+      "image": "https://static01.nyt.com/images/2025/05/01/doc-6144af9b-497a-4ed8-9813-0-promo/doc-6144af9b-497a-4ed8-9813-0-promo-articleLarge.png",
+      "timestamp": "2025-05-06T10:00:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/06/crosswords/06wordlegolf-scorecard.html",
+      "headline": "Wordle Golf Scorecard",
+      "image": "https://static01.nyt.com/images/2025/05/01/doc-4d9ad593-9523-43e9-95e2-7-promo/doc-4d9ad593-9523-43e9-95e2-7-promo-articleLarge.png",
+      "timestamp": "2025-05-06T10:00:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
