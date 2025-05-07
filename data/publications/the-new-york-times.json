@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-06T22:41:00.707Z",
+  "lastUpdated": "2025-05-07T02:55:14.399Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/06/dining/25-years-nyc-restaurants.html",
+      "headline": "25 Years of N.Y.C. Dining",
+      "image": "https://static01.nyt.com/images/2025/05/06/multimedia/2025-03-03-food-25-anniversary-nyc-index/2025-03-03-food-25-anniversary-nyc-index-articleLarge-v6.jpg",
+      "timestamp": "2025-05-07T01:28:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
