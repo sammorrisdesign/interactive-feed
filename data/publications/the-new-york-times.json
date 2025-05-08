@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-05-07T05:16:38.361Z",
+  "lastUpdated": "2025-05-08T09:17:36.206Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/08/climate/sinking-cities-us-causes-groundwater.html",
+      "headline": "Across America, Big Cities Are Sinking. Why?",
+      "image": "https://static01.nyt.com/images/2025/05/07/multimedia/2025-05-06-sinking-cities-index/2025-05-06-sinking-cities-index-articleLarge-v4.png",
+      "timestamp": "2025-05-08T09:04:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/08/realestate/hudson-valley-woodstock-high-falls-accord-homes.html",
+      "headline": "After Years Overseas, They Came Home for a Quiet Life in Upstate New York",
+      "image": "https://static01.nyt.com/images/2025/05/08/realestate/08Hunt-Volk-portrait/08Hunt-Volk-portrait-articleLarge-v3.jpg",
+      "timestamp": "2025-05-08T09:04:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/08/travel/things-to-do-Santa-Fe.html",
+      "headline": "36 Hours in Santa Fe",
+      "image": "https://static01.nyt.com/images/2025/05/08/multimedia/36-hours-Santa-Fe-11-pzhq/36-hours-Santa-Fe-11-pzhq-articleLarge-v6.jpg",
+      "timestamp": "2025-05-08T09:02:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
