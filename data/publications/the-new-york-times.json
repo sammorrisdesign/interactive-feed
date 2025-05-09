@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-08T09:17:36.206Z",
+  "lastUpdated": "2025-05-09T02:55:02.059Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/08/nyregion/newark-airport-delays.html",
+      "headline": "See How a Communications Outage Affected Flights at Newark Airport",
+      "image": "https://static01.nyt.com/images/2025/05/08/multimedia/2025-05-07-newark-outage-delays-index/2025-05-07-newark-outage-delays-index-articleLarge-v3.jpg",
+      "timestamp": "2025-05-09T02:30:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
