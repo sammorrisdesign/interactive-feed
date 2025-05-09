@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-09T15:40:24.142Z",
+  "lastUpdated": "2025-05-09T18:47:07.381Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/09/us/2025-050925-press-release-statements-from-the-supreme-court-regarding-the-death-of-retired-associate-justice-david-souter-1.html",
+      "headline": "Justices Reflect on Souter’s Legacy",
+      "image": "https://static01.nyt.com/images/2025/05/09/doc-0b7977b9-8011-4f6e-971d-7-promo/doc-0b7977b9-8011-4f6e-971d-7-promo-articleLarge.png",
+      "timestamp": "2025-05-09T18:39:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
