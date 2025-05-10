@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-10T13:40:15.707Z",
+  "lastUpdated": "2025-05-10T14:38:57.593Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/10/business/HaemanthusPatent.html",
+      "headline": "Haemanthus’s Patent for ‘Raman Spectroscopy System’",
+      "image": "https://static01.nyt.com/images/2025/05/10/doc-ff6e7798-3885-4769-98eb-a-promo/doc-ff6e7798-3885-4769-98eb-a-promo-articleLarge.png",
+      "timestamp": "2025-05-10T14:27:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
