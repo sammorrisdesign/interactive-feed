@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-08T20:18:34.582Z",
+  "lastUpdated": "2025-05-10T05:39:17.490Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/may/10/are-we-heading-for-another-world-war-or-has-it-already-started",
+      "headline": "Are we heading for another world war – or has it already started?",
+      "image": "https://i.guim.co.uk/img/media/8c7e55864222c13834306b94d1eb1d07d6203f8a/359_0_2037_1630/master/2037.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64c09f934cf3e69e393e6dfbbb4db0f8",
+      "timestamp": "2025-05-10T05:00:48.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
