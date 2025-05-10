@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-09T19:13:13.137Z",
+  "lastUpdated": "2025-05-10T13:40:15.707Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/10/us/earthquake-tracker-tennessee.html",
+      "headline": "Map: 4.1-Magnitude Earthquake Strikes Tennessee",
+      "image": "https://static01.nyt.com/images/2025/05/10/world/10wea-quake-tracker-tennessee-nytfeqbz-index/10wea-quake-tracker-tennessee-nytfeqbz-index-articleLarge-v3.jpg",
+      "timestamp": "2025-05-10T13:33:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
