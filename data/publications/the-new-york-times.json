@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-12T01:20:05.593Z",
+  "lastUpdated": "2025-05-12T15:19:32.370Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/12/books/review/book-quotations-quiz.html",
+      "headline": "Can You Match These Famous Quotes to Their Novels?",
+      "image": "https://static01.nyt.com/images/2025/05/12/books/review/12TBR-Quiz-Quotes/12TBR-Quiz-Quotes-articleLarge.jpg",
+      "timestamp": "2025-05-12T15:00:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
