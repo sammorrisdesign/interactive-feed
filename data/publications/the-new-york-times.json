@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-10T14:38:57.593Z",
+  "lastUpdated": "2025-05-12T01:20:05.593Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/11/upshot/congestion-pricing.html",
+      "headline": "Just About Everything That’s Changed Since Congestion Pricing Took Effect",
+      "image": "https://static01.nyt.com/images/2025/05/09/multimedia/2025-04-23-congestion-pricing-index/2025-04-23-congestion-pricing-index-articleLarge-v9.png",
+      "timestamp": "2025-05-12T01:15:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
