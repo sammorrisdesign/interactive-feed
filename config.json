@@ -212,15 +212,6 @@
             "url": "/multimedia/graphics"
           }
         }
-      }, {
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://www.straitstimes.com/news/multimedia/rss.xml",
-        "filters": {
-          "in": {
-            "url": "/multimedia/graphics"
-          }
-        }
       }]
     },
     {
