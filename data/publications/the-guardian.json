@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-13T16:21:07.230Z",
+  "lastUpdated": "2025-05-13T19:36:15.424Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/may/11/trump-choice-freedom-restrictions",
+      "headline": "The insidious doublespeak of Trump’s freedom of ‘choice’",
+      "image": "https://i.guim.co.uk/img/media/fe5580588e0d5b58b4f6178d8f819a73a19077d9/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dba84a3416a54d7a1d8c8b35fef0a220",
+      "timestamp": "2025-05-11T13:00:25.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
