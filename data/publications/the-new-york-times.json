@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-12T15:19:32.370Z",
+  "lastUpdated": "2025-05-13T09:17:53.874Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/13/well/move/pushup-form-technique.html",
+      "headline": "How to Make Your Push-Ups Count",
+      "image": "https://static01.nyt.com/images/2025/05/12/well/PUSHUP-FORM_ART/PUSHUP-FORM_ART-articleLarge.jpg",
+      "timestamp": "2025-05-13T09:01:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
