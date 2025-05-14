@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-14T10:17:53.544Z",
+  "lastUpdated": "2025-05-14T11:13:56.952Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/may/14/tesla-cybertruck-durability-elon-musk",
+      "headline": "The Cybertruck was supposed to be apocalypse-proof. Can it even survive a trip to the grocery store?",
+      "image": "https://i.guim.co.uk/img/media/20908a49afeefed29b9aa9f33647bfd8169e6b10/115_632_2186_1749/master/2186.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=55cd824165c6200c8c1715258b4c6c50",
+      "timestamp": "2025-05-14T11:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
