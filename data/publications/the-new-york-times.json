@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-05-14T01:17:10.757Z",
+  "lastUpdated": "2025-05-14T09:17:54.786Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/14/business/economy/trump-china-tariffs-import-goods.html",
+      "headline": "185% Tariffs: How the Trade War Hit One Shipment of T-Shirts",
+      "image": "https://static01.nyt.com/images/2025/05/13/multimedia/2025-05-09-entry-form-tariff-index/2025-05-09-entry-form-tariff-index-articleLarge-v2.jpg",
+      "timestamp": "2025-05-14T09:02:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/14/world/asia/india-pakistan-attack-damage-satellite-images.html",
+      "headline": "India and Pakistan Talked Big, But Satellite Imagery Shows Limited Damage",
+      "image": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-13-india-pakistan-damage-index/2025-05-13-india-pakistan-damage-index-articleLarge-v3.jpg",
+      "timestamp": "2025-05-14T08:58:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
