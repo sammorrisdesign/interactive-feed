@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-13T09:17:53.874Z",
+  "lastUpdated": "2025-05-14T01:17:10.757Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/13/world/earthquake-greece-crete.html",
+      "headline": "Map: 6.0-Magnitude Earthquake Strikes Near Crete, Prompting a Tsunami Alert",
+      "image": "https://static01.nyt.com/images/2025/05/13/world/13wea-quake-tracker-mediterranean-sea-nytgbws9-index/13wea-quake-tracker-mediterranean-sea-nytgbws9-index-articleLarge-v2.jpg",
+      "timestamp": "2025-05-13T23:57:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
