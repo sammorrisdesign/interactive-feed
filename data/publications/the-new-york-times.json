@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-15T14:42:59.243Z",
+  "lastUpdated": "2025-05-15T17:14:41.145Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/15/business/economy/us-economy-recession-consumer-spending.html",
+      "headline": "Consumers Prop Up the Economy. They’re Showing Signs of Strain.",
+      "image": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-12-consumer-behavior-index/2025-05-12-consumer-behavior-index-articleLarge-v3.png",
+      "timestamp": "2025-05-15T16:50:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
