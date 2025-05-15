@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-15T09:17:54.573Z",
+  "lastUpdated": "2025-05-15T14:42:59.243Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/15/us/supreme-court-major-cases-2025.html",
+      "headline": "The Major Supreme Court Decisions in 2025",
+      "image": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-07-scotus-key-cases-2025-index/2025-05-07-scotus-key-cases-2025-index-articleLarge.jpg",
+      "timestamp": "2025-05-15T14:37:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
