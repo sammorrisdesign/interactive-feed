@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-15T01:15:29.695Z",
+  "lastUpdated": "2025-05-15T10:18:23.107Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/05/15/stroke-symptoms-warning-signs/83586379007/",
+      "headline": "Stroke awareness is key to preventing long-term risks",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/05/13/USAT/83597851007-usatgraphicsstroketopper.png",
+      "timestamp": "2025-05-15T10:03:51.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/05/15/beef-prices-may-throw-smoke-on-summer-grilling/83599039007/",
+      "headline": "Rising beef prices may chill your grill on cookouts from Memorial Day to end of summer",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/05/14/USAT/83627501007-grillingtopper.jpg",
+      "timestamp": "2025-05-15T10:03:08.000Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
