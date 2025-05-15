@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2025-05-14T09:17:54.786Z",
+  "lastUpdated": "2025-05-15T09:17:54.573Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/15/realestate/sarasota-florida-gulf-coast-homes-sale.html",
+      "headline": "On Florida’s Gulf Coast, They Sought Their Starter Home for $500,000",
+      "image": "https://static01.nyt.com/images/2025/05/15/multimedia/15Hunt-Touchet-04-bhql/15Hunt-Touchet-04-bhql-articleLarge.jpg",
+      "timestamp": "2025-05-15T09:05:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/15/us/politics/trump-budget-reconciliation-process.html",
+      "headline": "How Republicans Can Pass Trump’s Fiscal Agenda With No Democratic Support",
+      "image": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-05-12-budget-reconciliation-index/2025-05-12-budget-reconciliation-index-articleLarge-v4.png",
+      "timestamp": "2025-05-15T09:05:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/15/business/elon-musk-x-twitter-feed-following-followers.html",
+      "headline": "Inside Elon Musk’s X Feed: Trumpism, Falsehoods and Lots of Love for Elon Musk",
+      "image": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-03-05-disinfo-elon-feed-index/2025-03-05-disinfo-elon-feed-index-articleLarge-v3.jpg",
+      "timestamp": "2025-05-15T09:02:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/15/opinion/focus-group-democratic-voters.html",
+      "headline": "What Worries 11 Democratic Voters Most About Trump — and What They Want From Democrats",
+      "image": "https://static01.nyt.com/images/2025/05/15/opinion/15focusgroup/15focusgroup-articleLarge.jpg",
+      "timestamp": "2025-05-15T09:01:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/15/world/middleeast/rafah-gaza-israel-damage.html",
+      "headline": "Gazans Once Escaped To Rafah. Now Israel Is Razing It.",
+      "image": "https://static01.nyt.com/images/2025/05/14/multimedia/2025-04-28-gaza-damage-index/2025-04-28-gaza-damage-index-articleLarge.jpg",
+      "timestamp": "2025-05-15T09:01:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
