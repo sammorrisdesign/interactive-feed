@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-15T17:14:41.145Z",
+  "lastUpdated": "2025-05-16T09:17:33.726Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/16/us/air-traffic-control-staffing-newark.html",
+      "headline": "Newark’s Air Traffic Control Staffing Crisis Is Dire. It’s Also Not Unique.",
+      "image": "https://static01.nyt.com/images/2025/05/15/multimedia/2025-05-12-newark-atc-staffing-shortages-index/2025-05-12-newark-atc-staffing-shortages-index-articleLarge-v5.png",
+      "timestamp": "2025-05-16T09:05:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
