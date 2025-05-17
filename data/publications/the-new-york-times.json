@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-16T19:13:28.981Z",
+  "lastUpdated": "2025-05-17T01:16:39.643Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/16/nyregion/newark-airport-outages-audio.html",
+      "headline": "Audio Data Shows Newark Outage Problems Persisted Longer Than Officials Said",
+      "image": "https://static01.nyt.com/images/2025/05/16/multimedia/2025-05-12-newark-outage-index/2025-05-12-newark-outage-index-articleLarge-v7.png",
+      "timestamp": "2025-05-16T23:50:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
