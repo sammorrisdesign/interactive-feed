@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-05-17T01:16:39.643Z",
+  "lastUpdated": "2025-05-18T09:15:29.615Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/18/polls/trump-job-approval-news-attention.html",
+      "headline": "One Thing Helping Trump’s Approval Rating: Some People Are Not Paying Attention",
+      "image": "https://static01.nyt.com/images/2025/05/15/multimedia/2025-05-15-poll-attention-index/2025-05-15-poll-attention-index-articleLarge-v13.png",
+      "timestamp": "2025-05-18T09:01:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/18/headway/george-floyd-square-minneapolis.html",
+      "headline": "What Is the Future of George Floyd Square?",
+      "image": "https://static01.nyt.com/images/2025/05/18/multimedia/00HW-GEORGE-FLOYD-SQUARE-04-pjzg/00HW-GEORGE-FLOYD-SQUARE-04-pjzg-articleLarge.jpg",
+      "timestamp": "2025-05-18T09:01:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
