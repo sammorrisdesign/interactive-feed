@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-19T15:18:17.229Z",
+  "lastUpdated": "2025-05-19T18:23:00.825Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/19/us/politics/19dc-scotus-immig.html",
+      "headline": "The Supreme Court Order",
+      "image": "https://static01.nyt.com/images/2025/05/19/doc-a4129d80-761d-44c8-96ff-6-promo/doc-a4129d80-761d-44c8-96ff-6-promo-articleLarge.png",
+      "timestamp": "2025-05-19T18:13:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
