@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-18T09:15:29.615Z",
+  "lastUpdated": "2025-05-19T15:18:17.229Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/19/books/review/england-novels-quiz.html",
+      "headline": "Do You Know These Novels and Their Screen Adaptations?",
+      "image": "https://static01.nyt.com/images/2025/05/19/books/review/19TBR-Quiz-18thCentury/19TBR-Quiz-18thCentury-articleLarge.jpg",
+      "timestamp": "2025-05-19T15:00:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
