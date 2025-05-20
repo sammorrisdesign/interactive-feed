@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-16T16:19:51.399Z",
+  "lastUpdated": "2025-05-20T03:42:16.553Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-beliebt-ist-donald-trump-ld.1883243",
+      "headline": "Wie beliebt ist Donald Trump?",
+      "image": "https://img.nzz.ch/2025/05/14/154a166c-8b2d-43cc-a217-b54eff571553.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y235&wmark=nzz",
+      "timestamp": "2025-05-20T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
