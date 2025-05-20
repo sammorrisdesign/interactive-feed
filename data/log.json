@@ -8,5 +8,10 @@
     "timestamp": "2025-05-20T15:42:10.829Z",
     "publication": "The New York Times",
     "error": "SyntaxError: Unexpected token '<', \"\n<html><hea\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5738:19)\n    at successSteps (node:internal/deps/undici/undici:5719:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4609:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async consumeBody (node:internal/deps/undici/undici:5728:7)\n    at async Object.NewYorkTimesAPI (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:14:20)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)"
+  },
+  {
+    "timestamp": "2025-05-20T20:41:08.158Z",
+    "publication": "The New York Times",
+    "error": "TypeError: Cannot read properties of null (reading 'filter')\n    at Object.NewYorkTimesAPI (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:18:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
   }
 ]
