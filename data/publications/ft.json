@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-16T04:20:52.341Z",
+  "lastUpdated": "2025-05-20T04:20:25.235Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e1a232c7-52a0-44dd-a13b-c4af54e74282",
+      "headline": "How we made it: will China be the first electrostate?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F7d3151e6-b2a8-47ec-a2b5-1b5d4fe2d0ef.jpg?source=next-barrier-page",
+      "timestamp": "2025-05-20T04:00:56.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/63a99def-87ae-4c66-bf21-b80029677612",
+      "headline": "Patient data could power the NHS. Much of it is still stuck on paper",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F68d2b939-78af-4d8e-870f-0b56d50b5970.jpg?source=next-barrier-page",
+      "timestamp": "2025-05-20T04:00:56.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
