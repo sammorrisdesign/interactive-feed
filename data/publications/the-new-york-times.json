@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-05-20T16:20:48.705Z",
+  "lastUpdated": "2025-05-20T17:40:51.436Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/20/us/elections/results-pennsylvania-district-attorney-philadelphia-primary.html",
+      "headline": "Philadelphia District Attorney Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/05/20/multimedia/eln-PRE-2025-05-20-state-pa-921bc7/eln-PRE-2025-05-20-state-pa-921bc7-articleLarge.jpg",
+      "timestamp": "2025-05-20T17:35:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/20/us/elections/results-pennsylvania-mayor-pittsburgh-primary.html",
+      "headline": "Pittsburgh Mayor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/05/20/multimedia/eln-PRE-2025-05-20-race-pa-mayor-pittsburgh-b8a162/eln-PRE-2025-05-20-race-pa-mayor-pittsburgh-b8a162-articleLarge.jpg",
+      "timestamp": "2025-05-20T17:34:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
