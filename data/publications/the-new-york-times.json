@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-19T23:15:27.335Z",
+  "lastUpdated": "2025-05-20T16:20:48.705Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/20/magazine/11mag-hodgmanquiz.html",
+      "headline": "Are Bicycle Bells Passive-Aggressive?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-05-20T15:17:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
