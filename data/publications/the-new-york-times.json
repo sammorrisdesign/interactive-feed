@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-05-20T17:40:51.436Z",
+  "lastUpdated": "2025-05-21T09:18:38.647Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/21/magazine/18mag-hodgmanquiz.html",
+      "headline": "Can You Shield Your Child From Modern Video Games?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-05-21T09:01:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/21/us/trump-immigration-policy.html",
+      "headline": "How Trump Has Targeted New Groups for Deportation",
+      "image": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-01-expanding-deportable-index/2025-05-01-expanding-deportable-index-articleLarge-v6.png",
+      "timestamp": "2025-05-21T09:01:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/21/books/junji-ito-manga-monsters.html",
+      "headline": "How a Manga Megastar Makes Such Terrifying Work",
+      "image": "https://static01.nyt.com/images/2025/05/21/books/21junji-ito-promo/21junji-ito-promo-articleLarge.jpg",
+      "timestamp": "2025-05-21T09:01:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
