@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-20T03:42:16.553Z",
+  "lastUpdated": "2025-05-21T16:21:03.134Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-gefahr-von-blatten-ein-bergsturz-auf-raten-ld.1885290",
+      "headline": "Die Gefahr von Blatten: ein Bergsturz auf Raten",
+      "image": "https://img.nzz.ch/2025/05/21/83787572-5a3b-43b9-a7c0-d47eba9cf5f7.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2025-05-21T15:46:39.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
