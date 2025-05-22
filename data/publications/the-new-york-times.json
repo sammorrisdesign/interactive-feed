@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-22T21:37:45.314Z",
+  "lastUpdated": "2025-05-22T22:15:53.708Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/22/us/politics/trump-firings-supreme-court.html",
+      "headline": "In Firing Watchdogs, Trump Sidesteps Laws and Moves to Expand Power",
+      "image": "https://static01.nyt.com/images/2025/04/22/multimedia/2025-03-19-independent-agencies-executive-power-index/2025-03-19-independent-agencies-executive-power-index-articleLarge-v29.png",
+      "timestamp": "2025-05-22T21:40:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
