@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-05-21T19:36:20.849Z",
+  "lastUpdated": "2025-05-22T09:18:02.397Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/22/realestate/queens-jackson-heights-apartment-sale.html",
+      "headline": "She Traded Brooklyn for Jackson Heights With $300,000 to Spend. Was It Enough for a One-Bedroom?",
+      "image": "https://static01.nyt.com/images/2025/05/22/multimedia/22re-Hunt-Pollard-01-glmt/22re-Hunt-Pollard-01-glmt-articleLarge-v2.jpg",
+      "timestamp": "2025-05-22T09:03:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/22/travel/things-to-do-Annapolis.html",
+      "headline": "36 Hours in Annapolis, Md.",
+      "image": "https://static01.nyt.com/images/2025/05/22/multimedia/22Hours-Annapolis-wfhl/22Hours-Annapolis-wfhl-articleLarge.jpg",
+      "timestamp": "2025-05-22T09:02:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/22/upshot/nsf-grants-trump-cuts.html",
+      "headline": "Trump Has Cut Science Funding to Its Lowest Level in Decades",
+      "image": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-05-02-nsf-grants-index/2025-05-02-nsf-grants-index-articleLarge-v10.jpg",
+      "timestamp": "2025-05-22T09:01:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
