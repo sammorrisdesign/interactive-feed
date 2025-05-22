@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-22T21:15:28.793Z",
+  "lastUpdated": "2025-05-22T21:37:45.314Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/23/arts/design/auction-quiz.html",
+      "headline": "Are You Smarter Than a Billionaire?",
+      "image": "https://static01.nyt.com/images/2025/05/23/multimedia/23auction-quiz-promo-bgjw/23auction-quiz-promo-bgjw-articleLarge.jpg",
+      "timestamp": "2025-05-22T21:28:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
