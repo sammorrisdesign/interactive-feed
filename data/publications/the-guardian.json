@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-22T10:17:56.748Z",
+  "lastUpdated": "2025-05-23T01:18:01.888Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/may/23/nsw-floods-maps-flood-map-flooding-areas-zone-rainfall-interactive",
+      "headline": "NSW floods 2025 map: these flood maps show the full extent of record-breaking rainfall",
+      "image": "https://i.guim.co.uk/img/media/170acff1a8476a62e3f74efb16d525fa3e9642fb/109_0_1045_836/master/1045.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=02777f73dd3aca52d1cc6bd5b8c1d744",
+      "timestamp": "2025-05-23T01:10:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
