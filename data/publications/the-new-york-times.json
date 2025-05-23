@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-05-22T22:15:53.708Z",
+  "lastUpdated": "2025-05-23T09:17:52.364Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/23/upshot/budget-table.html",
+      "headline": "A Complete List of Everything in the Republican Bill, and How Much It Would Cost or Save",
+      "image": "https://static01.nyt.com/images/2025/05/22/multimedia/2025-05-21-bbb-tables-index/2025-05-21-bbb-tables-index-articleLarge.png",
+      "timestamp": "2025-05-23T09:03:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/23/magazine/home-office-pants-hodgman-quiz.html",
+      "headline": "Can You Enter Your Spouse’s Office Pantsless?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-05-23T09:02:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
