@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-23T20:40:30.922Z",
+  "lastUpdated": "2025-05-23T22:15:45.722Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/23/us/harvard-trump-lawsuit.html",
+      "headline": "Read Harvard’s Lawsuit Against Trump",
+      "image": "https://static01.nyt.com/images/2025/05/23/doc-00599f76-82d9-47c3-8e41-f-promo/doc-00599f76-82d9-47c3-8e41-f-promo-articleLarge.png",
+      "timestamp": "2025-05-23T22:07:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
