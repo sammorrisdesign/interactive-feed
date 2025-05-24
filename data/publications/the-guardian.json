@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-24T06:20:54.931Z",
+  "lastUpdated": "2025-05-24T11:36:23.035Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/may/24/defund-police-movement-austin-seattle",
+      "headline": "Critics say the movement to defund the police failed. But Austin and Seattle are seeing progress",
+      "image": "https://i.guim.co.uk/img/media/6f35c51958267c0f9a089e0c78d8a706c9a915ec/0_127_2500_1999/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e84bb7f8372b962f2148e826274e5d49",
+      "timestamp": "2025-05-24T11:00:58.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
