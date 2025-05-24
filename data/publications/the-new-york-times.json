@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-23T22:15:45.722Z",
+  "lastUpdated": "2025-05-24T07:14:33.796Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/24/upshot/china-imports.html",
+      "headline": "Plastic Spoons, Umbrellas, Violins: A Guide to What Americans Buy From China",
+      "image": "https://static01.nyt.com/images/2025/05/23/business/00china-products-3x2/00china-products-3x2-articleLarge.jpg",
+      "timestamp": "2025-05-24T06:57:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
