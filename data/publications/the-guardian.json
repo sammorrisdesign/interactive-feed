@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-24T11:36:23.035Z",
+  "lastUpdated": "2025-05-25T05:15:38.091Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/may/25/gaza-city-israeli-offensive-despair-hunger",
+      "headline": "‘The world does not care if we all die’: hunger and despair in the ruins of Gaza City",
+      "image": "https://i.guim.co.uk/img/media/a1094e754047e34102bfe6eb12f524d28def9cd5/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1c6444e782e2f873b55fb328db2b88f",
+      "timestamp": "2025-05-25T05:00:20.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
