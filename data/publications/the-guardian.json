@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-25T05:15:38.091Z",
+  "lastUpdated": "2025-05-25T11:12:26.914Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/may/25/george-floyd-murder-site",
+      "headline": "George Floyd’s family fights for sacred ground where he took his last breath: ‘That’s my blood’",
+      "image": "https://i.guim.co.uk/img/media/a4b2d2dadafe3a5db140e630f527f7c513efca77/0_364_1536_1228/master/1536.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c09a019d339ea4e07da6f131d43b6325",
+      "timestamp": "2025-05-25T11:00:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/may/25/george-floyd-black-lives-matter-protests-anniversary",
+      "headline": "They were shot by police at the 2020 Black Lives Matter protests. ‘I came home a different person’",
+      "image": "https://i.guim.co.uk/img/media/dbde40911f0d882a5ec7056e5f831b131613c08f/0_686_5464_4371/master/5464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=420703a804eefc4f6ba1362d65ea0d7c",
+      "timestamp": "2025-05-25T11:00:26.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
