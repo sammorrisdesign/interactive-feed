@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-24T07:14:33.796Z",
+  "lastUpdated": "2025-05-25T09:15:28.833Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/25/us/politics/trump-politics-democrats.html",
+      "headline": "How Donald Trump Has Remade America’s Political Landscape",
+      "image": "https://static01.nyt.com/images/2025/05/20/multimedia/2025-02-20-triple-shifts-index/2025-02-20-triple-shifts-index-articleLarge-v2.png",
+      "timestamp": "2025-05-25T09:01:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
