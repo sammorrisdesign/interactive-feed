@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-27T12:34:34.578Z",
+  "lastUpdated": "2025-05-27T16:21:02.106Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/may/27/exactech-tpg-medical-devices-bankruptcy",
+      "headline": "They sued after their medical devices failed. But billionaire bankruptcy moves could mean they get nothing",
+      "image": "https://i.guim.co.uk/img/media/0e2f94114fd49059be1a5e8a8f9c808215b96028/625_1108_3732_2986/master/3732.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=653801b0defb2cb188f636e9f765c97d",
+      "timestamp": "2025-05-27T16:00:13.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
