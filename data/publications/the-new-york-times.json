@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-27T09:17:25.529Z",
+  "lastUpdated": "2025-05-27T12:34:34.142Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/27/us/harvard-contractsletterfinaldocx.html",
+      "headline": "Read the Trump Administration Letter About Harvard Contracts",
+      "image": "https://static01.nyt.com/images/2025/05/27/doc-6f8aa648-bef7-41ba-b5f9-3-promo/doc-6f8aa648-bef7-41ba-b5f9-3-promo-articleLarge.png",
+      "timestamp": "2025-05-27T11:41:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

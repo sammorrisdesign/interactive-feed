@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-27T08:47:12.227Z",
+  "lastUpdated": "2025-05-27T12:34:34.578Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/may/27/texas-republicans-trump-wind-power-turbines",
+      "headline": "Trump hates wind power. But these Texas Republicans are embracing it",
+      "image": "https://i.guim.co.uk/img/media/a02aeb10ccf91b310b2dccd9e8bf389cb36e9cbd/120_185_3085_2469/master/3085.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aaad5fef849cc81709a52e75ce9387d8",
+      "timestamp": "2025-05-27T12:00:46.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
