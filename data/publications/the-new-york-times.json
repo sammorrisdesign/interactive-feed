@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-27T14:43:53.908Z",
+  "lastUpdated": "2025-05-27T18:21:55.053Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/27/us/scripps-spelling-bee-quiz.html",
+      "headline": "Test Your Spelling Skills",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-05-27T17:52:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
