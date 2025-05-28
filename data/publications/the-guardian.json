@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-27T16:21:02.106Z",
+  "lastUpdated": "2025-05-28T10:18:48.756Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2025/may/28/womens-transfer-window-summer-2025-nwsl-wsl-liga-f-frauen-bundesliga-premiere-ligue-serie-a-femminile",
+      "headline": "Women’s transfer window summer 2025: all deals from world’s top six leagues",
+      "image": "https://i.guim.co.uk/img/media/411aa81ba2749bc540508dfcb55ac5fa0cc10f3d/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9addb1c0cb8530643ce70d43650e30d",
+      "timestamp": "2025-05-28T10:00:10.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2025/may/28/mens-transfer-window-summer-2025-premier-league-la-liga-bundesliga-serie-a-ligue-1",
+      "headline": "Men’s transfer window summer 2025: all deals from Europe’s top five leagues",
+      "image": "https://i.guim.co.uk/img/media/7076a1a74d41760768700be7091477b2be30b9bd/0_0_5283_4227/master/5283.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2c659c5d02d2b65987d56663a348d111",
+      "timestamp": "2025-05-28T10:00:10.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
