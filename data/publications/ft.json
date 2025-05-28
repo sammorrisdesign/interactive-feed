@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-23T15:17:13.762Z",
+  "lastUpdated": "2025-05-28T04:21:15.159Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5d5bbc4f-d30c-4849-b141-bb3e5101b918",
+      "headline": "How we made it: climate hit to US home lending",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F0471be93-c8d1-4aef-b000-71ec911eae2f.jpg?source=next-barrier-page",
+      "timestamp": "2025-05-28T04:00:45.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1bf97b4f-786a-4277-8901-df84a6971488",
+      "headline": "Global temperature rise to reach near 2C in next five years, WMO says",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fdd51ad55-2139-4e1f-ae33-0aee8519df07.jpg?source=next-barrier-page",
+      "timestamp": "2025-05-28T04:00:45.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
