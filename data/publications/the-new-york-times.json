@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-29T09:17:57.462Z",
+  "lastUpdated": "2025-05-29T15:41:24.833Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/05/29/weather/alvin-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Alvin",
+      "image": "https://static01.nyt.com/images/2025/05/28/world/one-e-map-path-tracker-index/one-e-map-path-tracker-index-articleLarge-v14.jpg",
+      "timestamp": "2025-05-29T15:24:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
