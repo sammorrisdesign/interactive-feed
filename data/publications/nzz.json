@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-05-21T16:21:03.134Z",
+  "lastUpdated": "2025-05-29T03:45:26.854Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-viele-internationale-studierende-gibt-es-in-den-usa-und-woher-kommen-sie-ld.1886618",
+      "headline": "Wie viele internationale Studierende gibt es an US-Universitäten – und woher kommen Sie? Ein Überblick in 6 Grafiken",
+      "image": "https://img.nzz.ch/2025/05/28/7c7e9865-6203-4755-ab29-21527b9e0ad6.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3160,1778,x513,y504&wmark=nzz",
+      "timestamp": "2025-05-29T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/so-kenterte-nordkoreas-kriegsschiff-vor-den-augen-von-kim-jong-un-ld.1886442",
+      "headline": "So kenterte Nordkoreas Kriegsschiff vor den Augen von Kim Jong Un",
+      "image": "https://img.nzz.ch/2025/05/28/2bff57d1-f53a-4386-b267-66292b62aaad.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2700,1519,x0,y264&wmark=nzz",
+      "timestamp": "2025-05-29T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
