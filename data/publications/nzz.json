@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-05-29T03:45:26.854Z",
+  "lastUpdated": "2025-05-30T03:41:59.991Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/die-beruechtigtste-hackergruppe-attackiert-die-schweiz-und-erbeutet-millionen-ein-leak-zeigt-jetzt-wie-sie-arbeiten-ld.1886348",
+      "headline": "Die berüchtigtste Hackergruppe attackiert die Schweiz und erbeutet Millionen. Ein Leak zeigt jetzt, wie sie arbeiten",
+      "image": "https://img.nzz.ch/2025/05/29/52843aef-0b16-46c4-8545-0e3345dbfc56.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y94&wmark=nzz",
+      "timestamp": "2025-05-30T03:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
