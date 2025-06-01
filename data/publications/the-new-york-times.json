@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-05-30T20:18:09.460Z",
+  "lastUpdated": "2025-06-01T09:16:02.871Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/01/world/americas/mexico-judicial-election-ballots.html",
+      "headline": "Dozens of Candidates and Rainbow Colors: Mexico’s Sprawling Judicial Ballots",
+      "image": "https://static01.nyt.com/images/2025/05/30/multimedia/2025-05-22-mexico-vote-ballot-index/2025-05-22-mexico-vote-ballot-index-articleLarge-v3.jpg",
+      "timestamp": "2025-06-01T09:03:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
