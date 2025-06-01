@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-01T13:24:30.245Z",
+  "lastUpdated": "2025-06-01T20:17:34.125Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/jun/02/what-went-wrong-for-the-greens-in-the-australian-election",
+      "headline": "What went wrong for the Greens in the Australian election?",
+      "image": "https://i.guim.co.uk/img/media/c9a04e7e20937f3475efb86449854103d1702a4f/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20191637e9d69c548619c7d3b508ce3f",
+      "timestamp": "2025-06-01T20:00:21.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
