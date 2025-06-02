@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-02T09:18:44.424Z",
+  "lastUpdated": "2025-06-02T15:18:43.577Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/02/books/review/authors-early-jobs.html",
+      "headline": "Before They Were Famous: Do You Know the Early Jobs of These Authors?",
+      "image": "https://static01.nyt.com/images/2025/06/02/books/review/02TBR-Quiz-EarlyJobs/02TBR-Quiz-EarlyJobs-articleLarge.jpg",
+      "timestamp": "2025-06-02T15:00:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
