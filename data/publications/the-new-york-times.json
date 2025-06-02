@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-01T09:16:02.871Z",
+  "lastUpdated": "2025-06-02T01:22:03.709Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/well/creativity-drawing-art.html",
+      "headline": "Welcome to the 5-Day Creativity Challenge",
+      "image": "https://static01.nyt.com/images/2025/06/02/well/02WELL-CREATIVITY-Day1-static-horizontal/02WELL-CREATIVITY-Day1-static-horizontal-articleLarge.jpg",
+      "timestamp": "2025-06-02T00:40:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/01/upshot/2025-05-22-ten-minute-challenge-abercrombie.html",
+      "headline": "10-Minute Challenge: A Surrealist Scene by Gertrude Abercrombie",
+      "image": "https://static01.nyt.com/images/2025/06/02/upshot/up-gertrude-full/up-gertrude-full-articleLarge.jpg",
+      "timestamp": "2025-06-01T23:52:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
