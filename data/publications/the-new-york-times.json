@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-03T03:02:08.801Z",
+  "lastUpdated": "2025-06-03T09:18:37.366Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/03/nyregion/nyc-mayor-ads-candidates.html",
+      "headline": "What Are N.Y.C.’s Mayoral Candidates Saying in TV Ads?",
+      "image": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-05-16-nyc-mayor-messaging-index/2025-05-16-nyc-mayor-messaging-index-articleLarge.png",
+      "timestamp": "2025-06-03T09:02:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
