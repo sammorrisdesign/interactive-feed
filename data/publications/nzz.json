@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-02T16:21:38.538Z",
+  "lastUpdated": "2025-06-03T03:58:53.506Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/operation-spinnennetz-so-verlief-der-ukrainische-angriff-aus-dem-drohnen-container-ld.1887155",
+      "headline": "Operation «Spinnennetz»: So verlief der ukrainische Angriff aus dem Drohnen-Container",
+      "image": "https://img.nzz.ch/2025/06/02/5866a975-22f2-4ee6-a873-4ba3afcc6ba2.gif?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2025-06-03T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
