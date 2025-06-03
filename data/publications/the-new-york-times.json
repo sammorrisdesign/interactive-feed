@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-02T15:18:43.577Z",
+  "lastUpdated": "2025-06-03T01:20:25.379Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/02/world/europe/ukraine-russia-drone-attacks.html",
+      "headline": "Ukraine Hid Attack Drones in Russia. These Videos Show What Happened Next.",
+      "image": "https://static01.nyt.com/images/2025/06/02/multimedia/2025-06-02-ukr-rus-drone-attacks-index/2025-06-02-ukr-rus-drone-attacks-index-articleLarge.jpg",
+      "timestamp": "2025-06-03T01:05:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/well/creativity-poetry-writing-prompt.html",
+      "headline": "Day 2: How Rules Can Spark the Imagination",
+      "image": "https://static01.nyt.com/images/2025/06/03/well/03WELL-CREATIVITY-Day2-static-horizontal/03WELL-CREATIVITY-Day2-static-horizontal-articleLarge.jpg",
+      "timestamp": "2025-06-03T01:04:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
