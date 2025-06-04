@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-04T05:17:05.271Z",
+  "lastUpdated": "2025-06-04T09:18:03.592Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/04/upshot/no-tax-on-tips.html",
+      "headline": "An Illustrated Guide to Who Really Benefits From ‘No Tax on Tips’",
+      "image": "https://static01.nyt.com/images/2025/05/29/multimedia/2025-05-16-no-tax-on-tips-index/2025-05-16-no-tax-on-tips-index-articleLarge.jpg",
+      "timestamp": "2025-06-04T09:04:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/04/us/tony-nominations-buena-vista-peck-delgado.html",
+      "headline": "Inside Justin Peck and Patricia Delgado’s ‘Shoes-Off’ Apartment",
+      "image": "https://static01.nyt.com/images/2025/06/03/realestate/athomewith-peck-delgado-promo/athomewith-peck-delgado-promo-articleLarge.jpg",
+      "timestamp": "2025-06-04T09:02:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
