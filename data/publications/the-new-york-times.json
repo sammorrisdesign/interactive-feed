@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-03T15:19:19.388Z",
+  "lastUpdated": "2025-06-04T03:02:41.826Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/well/creativity-daydreaming-intentional-thinking.html",
+      "headline": "Day 3: Master the Art of Daydreaming",
+      "image": "https://static01.nyt.com/images/2025/06/04/well/04WELL-CREATIVITY-Day3-static-horizontal/04WELL-CREATIVITY-Day3-static-horizontal-articleLarge-v5.jpg",
+      "timestamp": "2025-06-04T02:33:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
