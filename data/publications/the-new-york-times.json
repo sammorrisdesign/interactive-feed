@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-04T03:02:41.826Z",
+  "lastUpdated": "2025-06-04T05:17:05.271Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/04/health/trump-cuts-nih-grants-research.html",
+      "headline": "The Gutting of America’s Medical Research: Here Is Every Canceled or Delayed N.I.H. Grant",
+      "image": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-03-21-canceled-science-grants-index/2025-03-21-canceled-science-grants-index-articleLarge.png",
+      "timestamp": "2025-06-04T04:33:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
