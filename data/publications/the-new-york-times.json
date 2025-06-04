@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-04T17:15:42.068Z",
+  "lastUpdated": "2025-06-04T20:15:01.527Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/04/science/craters-bumps-moon-quiz.html",
+      "headline": "Do You See Craters or Bumps on the Moon’s Surface?",
+      "image": "https://static01.nyt.com/images/2025/06/03/science/00HS-sci-craters-or-bumps-down/00HS-sci-craters-or-bumps-down-articleLarge-v2.jpg",
+      "timestamp": "2025-06-04T20:11:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
