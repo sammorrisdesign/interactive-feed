@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-04T09:18:03.592Z",
+  "lastUpdated": "2025-06-04T17:15:42.068Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/04/business/economy/trump-tariffs-trade-deals-timeline.html",
+      "headline": "The White House Wants 90 Trade Deals in 90 Days. 60 Days In, It May Have 1.",
+      "image": "https://static01.nyt.com/images/2025/06/03/business/2025-05-29-deals-days-index/2025-05-29-deals-days-index-articleLarge-v13.png",
+      "timestamp": "2025-06-04T17:04:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
