@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-06-05T03:01:34.150Z",
+  "lastUpdated": "2025-06-05T09:18:19.800Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/05/realestate/connecticut-litchfield-county-home-sales.html",
+      "headline": "For a City Escape, They Skipped the Hudson Valley and Settled on Connecticut",
+      "image": "https://static01.nyt.com/images/2025/06/05/realestate/05re-Hunt-portrait/05re-Hunt-portrait-articleLarge-v2.jpg",
+      "timestamp": "2025-06-05T09:05:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/05/us/politics/congress-age.html",
+      "headline": "The Age Issue: More of Congress Is 70-Plus Than Ever Before",
+      "image": "https://static01.nyt.com/images/2025/06/03/multimedia/2025-05-28-age-of-congress-index/2025-05-28-age-of-congress-index-articleLarge-v5.png",
+      "timestamp": "2025-06-05T09:05:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/05/travel/things-to-do-Detroit.html",
+      "headline": "36 Hours in Detroit",
+      "image": "https://static01.nyt.com/images/2025/06/05/multimedia/05Hours-Detroit-tpfg/05Hours-Detroit-tpfg-articleLarge.jpg",
+      "timestamp": "2025-06-05T09:04:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
