@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-03T03:58:53.506Z",
+  "lastUpdated": "2025-06-05T15:18:08.399Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aus-dem-orbit/die-essensverteilung-in-gaza-eskalation-einer-humanitaeren-katastrophe-ld.1887597",
+      "headline": "Die Essensverteilung in Gaza: Eskalation einer humanitären Katastrophe",
+      "image": "https://img.nzz.ch/2025/06/05/a10f8314-183d-4c4e-85b5-0724f569efcc.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y0&wmark=nzz",
+      "timestamp": "2025-06-05T15:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
