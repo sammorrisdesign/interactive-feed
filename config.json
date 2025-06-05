@@ -552,6 +552,15 @@
           }
         }
       }]
-    }
+    },
+    {
+      "publication": "Schweizer Radio und Fernsehen (SRF)",
+      "twitterHandle": "srfnews",
+      "sources": [{
+        "type": "XML",
+        "format": "RSS",
+        "path": "https://www.srf.ch/news/bnf/rss/20210660"
+      }]
+    },
   ]
 }
