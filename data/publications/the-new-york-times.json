@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-04T23:39:00.095Z",
+  "lastUpdated": "2025-06-05T03:01:34.150Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/04/us/politics/trump-travel-ban-map.html",
+      "headline": "See the Countries Under Trump’s New Travel Ban",
+      "image": "https://static01.nyt.com/images/2025/06/04/multimedia/2025-03-17-travel-ban-visas-index/2025-03-17-travel-ban-visas-index-articleLarge.png",
+      "timestamp": "2025-06-05T01:40:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/well/creativity-work-ideas.html",
+      "headline": "Day 4: A Simple Trick for Better Ideas",
+      "image": "https://static01.nyt.com/images/2025/06/05/well/05WELL-CREATIVITY-Day4-static-horizontal/05WELL-CREATIVITY-Day4-static-horizontal-articleLarge-v4.jpg",
+      "timestamp": "2025-06-05T01:31:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
