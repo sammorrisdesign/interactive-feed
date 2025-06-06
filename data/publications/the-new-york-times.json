@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-06T19:36:18.726Z",
+  "lastUpdated": "2025-06-06T20:41:36.305Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/06/us/Abrego-Garcia-Indictment.html",
+      "headline": "Read the Abrego Garcia Indictment",
+      "image": "https://static01.nyt.com/images/2025/06/06/doc-4767a3df-5c6d-492e-970c-a-promo/doc-4767a3df-5c6d-492e-970c-a-promo-articleLarge.png",
+      "timestamp": "2025-06-06T20:27:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
