@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-06T03:00:25.530Z",
+  "lastUpdated": "2025-06-06T07:16:09.312Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/06/nyregion/andrew-cuomo-sexual-harassment-claims.html",
+      "headline": "Revisiting the Sexual Harassment Complaints Against Cuomo",
+      "image": "https://static01.nyt.com/images/2025/06/05/multimedia/00-cuomo-harassment-still/00-cuomo-harassment-still-articleLarge-v5.jpg",
+      "timestamp": "2025-06-06T07:00:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
