@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-06T19:13:30.798Z",
+  "lastUpdated": "2025-06-06T19:36:18.726Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/06/business/us-china-xi-tariffs-trade-war.html",
+      "headline": "Trade Brought Them Together. What Happens Now?",
+      "image": "https://static01.nyt.com/images/2025/06/07/multimedia/2025-03-20-china-tariffs-index/2025-03-20-china-tariffs-index-articleLarge.jpg",
+      "timestamp": "2025-06-06T19:31:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
