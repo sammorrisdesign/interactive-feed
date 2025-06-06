@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-06T14:41:38.202Z",
+  "lastUpdated": "2025-06-06T17:15:28.121Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/06/us/politics/trump-elon-musk-relationship.html",
+      "headline": "First, Snubs. Then Flattery. Now Trump and Musk Are at War.",
+      "image": "https://static01.nyt.com/images/2025/06/06/multimedia/2025-06-05-posts-musk-trump-index/2025-06-05-posts-musk-trump-index-articleLarge-v7.jpg",
+      "timestamp": "2025-06-06T17:02:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
