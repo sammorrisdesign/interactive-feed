@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-06T01:19:31.487Z",
+  "lastUpdated": "2025-06-06T03:00:25.530Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/05/us/politics/elon-musk-trump-feud-timeline-posts.html",
+      "headline": "Read the Insults Hurled Between Trump and Musk",
+      "image": "https://static01.nyt.com/images/2025/06/05/multimedia/2025-06-05-trump-musk-feud-index/2025-06-05-trump-musk-feud-index-articleLarge-v2.jpg",
+      "timestamp": "2025-06-06T02:56:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
