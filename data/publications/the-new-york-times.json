@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-06T20:41:36.305Z",
+  "lastUpdated": "2025-06-07T09:16:00.471Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/07/theater/tony-awards-broadway-quiz.html",
+      "headline": "Test Your Broadway Knowledge, Celebrity Edition",
+      "image": "https://static01.nyt.com/images/2025/06/06/multimedia/06tonys-quiz-promo-george/06tonys-quiz-01-lmpq-articleLarge-v2.jpg",
+      "timestamp": "2025-06-07T09:00:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
