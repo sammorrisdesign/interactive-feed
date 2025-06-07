@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-05T15:18:08.399Z",
+  "lastUpdated": "2025-06-07T03:43:12.477Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wegen-trump-bleiben-schweizer-und-deutsche-den-usa-fern-neue-zahlen-zeigen-ein-anderes-bild-ld.1887243",
+      "headline": "Wegen Trump bleiben Schweizer und Deutsche den USA fern? Neue Zahlen zeigen ein anderes Bild",
+      "image": "https://img.nzz.ch/2025/06/06/13cfe90f-5f67-459d-9f18-6f94365f8c5a.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3484,1960,x460,y559&wmark=nzz",
+      "timestamp": "2025-06-07T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
