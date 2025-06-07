@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-07T03:43:12.477Z",
+  "lastUpdated": "2025-06-07T10:17:00.595Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/ein-dorf-verschwindet-der-bergsturz-von-blatten-in-3-d-ld.1888058",
+      "headline": "Ein Dorf verschwindet: Der Bergsturz von Blatten in 3-D",
+      "image": "https://img.nzz.ch/2025/06/06/83f8c55c-bd23-422e-8d5c-68a8753828bb.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2025-06-07T09:45:28.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
