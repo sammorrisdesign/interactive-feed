@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-08T18:20:56.569Z",
+  "lastUpdated": "2025-06-08T21:14:17.231Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/08/weather/cosme-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Cosme",
+      "image": "https://static01.nyt.com/images/2025/06/08/world/three-e-map-path-tracker-index/three-e-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2025-06-08T21:05:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
