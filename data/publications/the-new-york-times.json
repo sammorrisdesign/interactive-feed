@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-08T21:14:17.231Z",
+  "lastUpdated": "2025-06-08T23:15:10.620Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/08/us/office-of-the-governor.html",
+      "headline": "Read Gov. Gavin Newsom’s Letter to Defense Secretary Pete Hegseth",
+      "image": "https://static01.nyt.com/images/2025/06/08/doc-ea1442e6-b384-4e64-9ebd-5-promo/doc-ea1442e6-b384-4e64-9ebd-5-promo-articleLarge.png",
+      "timestamp": "2025-06-08T23:04:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
