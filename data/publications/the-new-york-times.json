@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-08T14:14:01.714Z",
+  "lastUpdated": "2025-06-08T18:20:56.569Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/08/us/la-immigration-protests-photos-map.html",
+      "headline": "See a Visual Timeline of the L.A. Immigration Protests and Federal Response",
+      "image": "https://static01.nyt.com/images/2025/06/08/multimedia/2025-06-08-la-immigration-protests-index/2025-06-08-la-immigration-protests-index-articleLarge.jpg",
+      "timestamp": "2025-06-08T17:49:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
