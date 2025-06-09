@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-09T15:18:26.135Z",
+  "lastUpdated": "2025-06-09T17:15:12.390Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/world/asia/earthquake-philippines.html",
+      "headline": "Map: 5.1-Magnitude Earthquake Strikes Near the Philippines",
+      "image": "https://static01.nyt.com/images/2025/06/09/world/09wea-quake-tracker-south-china-sea-nyt2505m-index/09wea-quake-tracker-south-china-sea-nyt2505m-index-articleLarge-v2.jpg",
+      "timestamp": "2025-06-09T17:10:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
