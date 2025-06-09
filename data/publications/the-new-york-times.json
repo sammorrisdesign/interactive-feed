@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-09T09:19:02.141Z",
+  "lastUpdated": "2025-06-09T15:18:26.135Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/books/review/books-quotes-quiz.html",
+      "headline": "Can You Match These Literary Quotes to Their Sources?",
+      "image": "https://static01.nyt.com/images/2025/06/09/books/review/09TBR-Quiz-Quotes/09TBR-Quiz-Quotes-articleLarge.jpg",
+      "timestamp": "2025-06-09T15:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
