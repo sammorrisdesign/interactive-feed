@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-06-07T12:30:47.953Z",
+  "lastUpdated": "2025-06-09T09:19:02.167Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2025/dc-youth-violence-safety-concerns-video/",
+      "headline": "Do kids feel safe in D.C.? We asked them.",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6ZPGJ7SEMBDGJMBXQGJE7UVDCY.png",
+      "timestamp": "2025-06-09T09:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2025/dc-dyrs-youth-crime-rehabilitation/",
+      "headline": "D.C. teens in need of rehabilitation wait months in a detention center",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/T5RSFYO2KZFPBNLWO75F7WEKZY.jpg",
+      "timestamp": "2025-06-09T09:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2025/dc-schools-truancy-youth-crime/",
+      "headline": "How D.C.'s failure to curb truancy fueled a surge in youth crime",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/6PLZFDPPGFBPLHOWNRL6XNTNO4.jpg",
+      "timestamp": "2025-06-09T09:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2025/dc-juvenile-court-gps-monitors-crime/",
+      "headline": "D.C. juvenile court’s reliance on ankle monitors had deadly outcomes",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/5ARF2K77IRFXHBML5N6PX7YCGE.jpg",
+      "timestamp": "2025-06-09T09:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",

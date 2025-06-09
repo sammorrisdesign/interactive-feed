@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2025-06-08T23:15:10.620Z",
+  "lastUpdated": "2025-06-09T09:19:02.141Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/t-magazine/derrick-adams.html",
+      "headline": "Derrick Adams Wants His Art to Be Fun",
+      "image": "https://static01.nyt.com/images/2025/06/09/t-magazine/art/09tmag-adams-slide-12TV-copy-copy/09tmag-adams-slide-12TV-copy-copy-articleLarge-v2.jpg",
+      "timestamp": "2025-06-09T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/t-magazine/william-kentridge.html",
+      "headline": "William Kentridge Reflects on What It Means to Be a South African Artist",
+      "image": "https://static01.nyt.com/images/2025/06/09/t-magazine/art/09tmag-kentridge-slide-MKXN-copy-copy/09tmag-kentridge-slide-MKXN-copy-copy-articleLarge.jpg",
+      "timestamp": "2025-06-09T09:01:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/t-magazine/howardena-pindell.html",
+      "headline": "Howardena Pindell Is Still Breaking Down Barriers for Black Artists",
+      "image": "https://static01.nyt.com/images/2025/06/09/t-magazine/art/09tmag-pindell-slide-LXEF-copy-copy/09tmag-pindell-slide-LXEF-copy-copy-articleLarge.jpg",
+      "timestamp": "2025-06-09T09:01:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/t-magazine/lisa-yuskavage.html",
+      "headline": "For Lisa Yuskavage, Painting Was ‘Pulling a Pin Out of a Grenade’",
+      "image": "https://static01.nyt.com/images/2025/06/09/t-magazine/art/09tmag-yuskavage-slide-BGWK-copy-copy/09tmag-yuskavage-slide-BGWK-copy-copy-articleLarge.jpg",
+      "timestamp": "2025-06-09T09:01:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/science/math-strogatz-taxi-geometry.html",
+      "headline": "Where Pi Equals 4 and Circles Aren’t Round",
+      "image": "https://static01.nyt.com/images/2025/06/03/multimedia/taxicab-geometry-promo/taxicab-geometry-promo-articleLarge.jpg",
+      "timestamp": "2025-06-09T09:01:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/t-magazine/art-issue-introduction.html",
+      "headline": "How to Be an Artist",
+      "image": "https://static01.nyt.com/images/2025/06/09/t-magazine/art/09-tmag-ed-letter-slide-25QT-copy/09-tmag-ed-letter-slide-25QT-copy-articleLarge.jpg",
+      "timestamp": "2025-06-09T09:01:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
