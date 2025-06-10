@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-09T14:17:38.145Z",
+  "lastUpdated": "2025-06-10T06:24:42.804Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2025/jun/10/the-bone-hunter-unearthing-the-horror-of-war-in-okinawa-documentary",
+      "headline": "The Bone Hunter: unearthing the horror of war in Okinawa - documentary",
+      "image": "https://i.guim.co.uk/img/media/71dc6568aff449489250d6357fd9c406f1d5057e/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f1962865b624832d97f57de655085b6",
+      "timestamp": "2025-06-10T06:00:45.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2025/jun/10/okinawa-was-the-bloodiest-battle-of-the-pacific-war-80-years-on-are-the-dead-being-betrayed",
+      "headline": "Okinawa was the bloodiest battle of the Pacific war. 80 years on, are the dead being betrayed?",
+      "image": "https://i.guim.co.uk/img/media/6a67ded29fe83b6b0e877f31f81f0dcade864969/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b255d9d55e56c4e4bd7d97a83eb8084e",
+      "timestamp": "2025-06-10T06:00:44.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
