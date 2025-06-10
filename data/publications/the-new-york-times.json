@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-10T20:41:37.309Z",
+  "lastUpdated": "2025-06-10T21:39:09.757Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/nyc-mayoral-primary-election-polls-2025.html",
+      "headline": "New York City Mayoral Primary 2025: Latest Polls",
+      "image": "https://static01.nyt.com/images/2025/06/09/multimedia/2025-polling-averages-nyc-mayoral-primary-election-polls-2025/2025-polling-averages-nyc-mayoral-primary-election-polls-2025-articleLarge-v2.jpg",
+      "timestamp": "2025-06-10T21:19:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
