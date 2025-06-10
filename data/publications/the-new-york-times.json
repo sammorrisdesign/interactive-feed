@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-09T20:42:17.098Z",
+  "lastUpdated": "2025-06-10T01:20:45.000Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/09/us/ecf-1-complaint-ng.html",
+      "headline": "Read California’s Lawsuit Challenging Trump’s Mobilization of the National Guard",
+      "image": "https://static01.nyt.com/images/2025/06/09/doc-f98c3c82-2314-47f5-9e8b-1-promo/doc-f98c3c82-2314-47f5-9e8b-1-promo-articleLarge.png",
+      "timestamp": "2025-06-10T00:00:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
