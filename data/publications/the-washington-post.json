@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-09T23:15:53.483Z",
+  "lastUpdated": "2025-06-11T09:18:30.078Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2025/national-debt-36-trillion/",
+      "headline": "See how the national debt grew to more than $36 trillion",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PA24IYCR3NFLPLDATX6HPSQARI.gif",
+      "timestamp": "2025-06-11T09:00:44.885Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2025/public-schools-political-pressure/",
+      "headline": "How Washington is stressing out American schools",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/FBXEKSVU5RCELFNGYJMID7N7D4.jpg",
+      "timestamp": "2025-06-11T09:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",

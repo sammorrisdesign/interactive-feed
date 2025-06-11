@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-11T01:20:39.246Z",
+  "lastUpdated": "2025-06-11T09:18:30.048Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/11/travel/europe-affordable-hotels.html",
+      "headline": "30 Delightful Hotels in Europe Under $300 a Night",
+      "image": "https://static01.nyt.com/images/2025/06/11/realestate/11hotels-list-promo/11hotels-list-promo-articleLarge.jpg",
+      "timestamp": "2025-06-11T09:03:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/11/opinion/ocean-vuong-family-brother.html",
+      "headline": "Ocean Vuong on Becoming a Father to His Brother",
+      "image": "https://static01.nyt.com/images/2025/06/05/opinion/ocean-vuong-family-brother-1749144563599/ocean-vuong-family-brother-1749144563599-articleLarge.jpg",
+      "timestamp": "2025-06-11T09:01:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
