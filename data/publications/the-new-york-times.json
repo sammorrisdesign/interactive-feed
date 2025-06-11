@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-11T14:15:33.023Z",
+  "lastUpdated": "2025-06-11T20:41:47.024Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/11/magazine/pope-leo-xiv-ancestry-family-tree.html",
+      "headline": "We Traced Pope Leo XIV’s Ancestry Back 500 Years. Here’s What We Found.",
+      "image": "https://static01.nyt.com/images/2025/06/15/magazine/15mag-pope-promostill2/15mag-pope-promostill2-articleLarge-v2.png",
+      "timestamp": "2025-06-11T20:26:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
