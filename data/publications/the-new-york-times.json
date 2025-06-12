@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2025-06-11T20:41:47.024Z",
+  "lastUpdated": "2025-06-12T09:18:18.721Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/opinion/issues-nyc-mayor-election.html",
+      "headline": "The Biggest Issues Facing New York City Right Now",
+      "image": "https://static01.nyt.com/images/2025/06/12/opinion/12mayoral-issues/12mayoral-issues-articleLarge.jpg",
+      "timestamp": "2025-06-12T09:04:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/opinion/nyc-mayor-election-candidates.html",
+      "headline": "Who Should Lead New York?",
+      "image": "https://static01.nyt.com/images/2025/06/12/multimedia/12endorsePromo-fvjt/12endorsePromo-fvjt-articleLarge.jpg",
+      "timestamp": "2025-06-12T09:03:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/magazine/pope-leo-xiv-family-tree.html",
+      "headline": "The Family Tree of Robert Francis Prevost, Pope Leo XIV",
+      "image": "https://static01.nyt.com/images/2025/06/12/doc-e433a0af-5d93-4071-9315-1-promo/doc-e433a0af-5d93-4071-9315-1-promo-articleLarge.png",
+      "timestamp": "2025-06-12T09:02:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/travel/things-to-do-east-london.html",
+      "headline": "36 Hours in East London",
+      "image": "https://static01.nyt.com/images/2025/06/12/multimedia/36-hours-East-London-hgkq/36-hours-East-London-hgkq-articleLarge.jpg",
+      "timestamp": "2025-06-12T09:02:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/world/military-parades.html",
+      "headline": "How to Read a Military Parade",
+      "image": "https://static01.nyt.com/images/2025/05/28/multimedia/2025-05-12-military-parades-index/2025-05-12-military-parades-index-articleLarge-v2.jpg",
+      "timestamp": "2025-06-12T09:01:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
