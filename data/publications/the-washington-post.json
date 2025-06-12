@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-06-12T09:18:18.908Z",
+  "lastUpdated": "2025-06-12T10:18:52.146Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/opinions/interactive/2025/russia-losing-casualties-ukraine-war/",
+      "headline": "Russia says it’s winning. The data says otherwise. ",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/DVX5CPIVYRGNFF45H7RDADS6NM.jpg",
+      "timestamp": "2025-06-12T10:15:08.814Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2025/tanner-shay-martin-baby-colon-cancer-end-of-life-planning/",
+      "headline": "Love, cancer and pregnancy",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/2DTOIUNDRBCCZFO2KCDUH3NJVE.jpg",
+      "timestamp": "2025-06-12T10:00:13.074Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2025/trump-military-parade-dc-army-birthday-national-mall/",
+      "headline": "What to know about the Army parade in D.C. on Saturday, Trump’s birthday",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/O2YK7CHJQNFXHIAVDO57EBSKS4.jpg",
+      "timestamp": "2025-06-12T10:00:07.683Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
