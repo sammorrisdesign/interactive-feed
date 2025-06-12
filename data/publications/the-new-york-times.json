@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-12T13:30:46.116Z",
+  "lastUpdated": "2025-06-12T14:44:37.961Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/world/asia/india-plane-crash-map.html",
+      "headline": "How the Air India Plane Crashed: Maps and Photos",
+      "image": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-12-india-crash-index/2025-06-12-india-crash-index-articleLarge.jpg",
+      "timestamp": "2025-06-12T14:27:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
