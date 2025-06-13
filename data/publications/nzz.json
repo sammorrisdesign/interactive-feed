@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-07T10:17:00.595Z",
+  "lastUpdated": "2025-06-13T04:00:00.645Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/israels-offensive-laesst-den-menschen-im-gazastreifen-immer-weniger-platz-satellitenbilder-eines-kuestenabschnitts-zeigen-die-humanitaere-notlage-ld.1888492",
+      "headline": "Israels Offensive lässt den Menschen im Gazastreifen immer weniger Platz. Satellitenbilder eines Küstenabschnitts zeigen die humanitäre Notlage",
+      "image": "https://img.nzz.ch/2025/06/12/8c99b342-7bdc-434f-8102-8bcf43f65bad.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3928,2209,x0,y1116&wmark=nzz",
+      "timestamp": "2025-06-13T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
