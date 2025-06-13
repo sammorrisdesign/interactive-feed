@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-13T19:36:20.771Z",
+  "lastUpdated": "2025-06-13T23:39:56.477Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/13/business/india-plane-crash-investigation.html",
+      "headline": "India Plane Crash: What Investigators Might Examine",
+      "image": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-air-india-crash-index/2025-06-13-air-india-crash-index-articleLarge-v6.jpg",
+      "timestamp": "2025-06-13T23:37:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
