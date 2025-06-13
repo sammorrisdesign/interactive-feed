@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-13T01:20:22.861Z",
+  "lastUpdated": "2025-06-13T05:43:05.375Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/world/middleeast/iran-israel-maps.html",
+      "headline": "Israel’s Strikes on Iran’s Nuclear Program: Maps and Photos",
+      "image": "https://static01.nyt.com/images/2025/06/13/multimedia/2025-06-13-israel-iran-index/2025-06-13-israel-iran-index-articleLarge-v7.jpg",
+      "timestamp": "2025-06-13T05:23:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
