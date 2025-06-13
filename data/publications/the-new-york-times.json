@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-12T21:16:10.721Z",
+  "lastUpdated": "2025-06-13T01:20:22.861Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/books/kay-ryan-turtle-poem.html",
+      "headline": "Slow and Steady, This Poem Will Win Your Heart",
+      "image": "https://static01.nyt.com/images/2025/06/11/books/turtle-poem-illo/turtle-poem-illo-articleLarge.jpg",
+      "timestamp": "2025-06-13T00:49:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/12/upshot/gop-megabill-distribution-poor-rich.html",
+      "headline": "Trump’s Big Bill Would Be More Regressive Than Any Major Law in Decades",
+      "image": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-09-bill-distributions-index/2025-06-09-bill-distributions-index-articleLarge.png",
+      "timestamp": "2025-06-13T00:08:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
