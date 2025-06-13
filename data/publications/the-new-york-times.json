@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-06-13T05:43:05.375Z",
+  "lastUpdated": "2025-06-13T09:18:24.519Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/13/us/la-protests-immigration-law-enforcement.html",
+      "headline": "Which Law Enforcement Agencies Are at the Los Angeles Protests?",
+      "image": "https://static01.nyt.com/images/2025/06/12/multimedia/2025-06-09-immigration-protests-agencies-index/2025-06-09-immigration-protests-agencies-index-articleLarge-v3.jpg",
+      "timestamp": "2025-06-13T09:02:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/13/opinion/college-grads-focus-group.html",
+      "headline": "13 Young Gen Z-ers on Whether America’s Best Days Are Behind It",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-06-13T09:02:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/13/magazine/paella-hodgman-quiz.html",
+      "headline": "Is There a Wrong Way to Make Paella?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-06-13T09:02:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
