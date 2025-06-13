@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-13T18:23:19.590Z",
+  "lastUpdated": "2025-06-13T19:36:20.771Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/13/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, June 14, 2025",
+      "image": "https://static01.nyt.com/images/2025/06/13/multimedia/flashback-promo-2025-06-14-4/flashback-promo-2025-06-14-4-articleLarge.jpg",
+      "timestamp": "2025-06-13T19:32:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/13/magazine/ai-avatar-life-death.html",
+      "headline": "He Has Terminal Cancer. His Son Is Using A.I. to Keep His Memory Alive.",
+      "image": "https://static01.nyt.com/images/2025/06/22/magazine/22mag-grief/22mag-grief-articleLarge.jpg",
+      "timestamp": "2025-06-13T19:27:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
