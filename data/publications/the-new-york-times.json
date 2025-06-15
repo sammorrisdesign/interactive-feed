@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-13T23:39:56.477Z",
+  "lastUpdated": "2025-06-15T18:21:10.249Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/15/world/lima-peru-quake-tracker.html",
+      "headline": "Map: 5.6-Magnitude Earthquake Strikes Near Lima, Peru",
+      "image": "https://static01.nyt.com/images/2025/06/15/world/15wea-quake-tracker-south-pacific-ocean-nyth96k7-index/15wea-quake-tracker-south-pacific-ocean-nyth96k7-index-articleLarge-v14.jpg",
+      "timestamp": "2025-06-15T18:08:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
