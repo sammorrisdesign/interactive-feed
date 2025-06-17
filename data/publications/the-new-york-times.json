@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-17T19:41:44.333Z",
+  "lastUpdated": "2025-06-17T20:18:26.681Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/17/magazine/ai-human-analysis-face-diseases.html",
+      "headline": "A.I. Can Already See You in Ways You Can’t See Yourself",
+      "image": "https://static01.nyt.com/images/2025/06/22/magazine/22mag-haisu-static/22mag-haisu-static-articleLarge.jpg",
+      "timestamp": "2025-06-17T20:13:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
