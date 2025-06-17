@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-16T18:24:02.758Z",
+  "lastUpdated": "2025-06-17T09:19:19.978Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/17/realestate/mara-brock-akil-condo-nyc.html",
+      "headline": "Inside Mara Brock Akil’s Writing Retreat on the Lower East Side",
+      "image": "https://static01.nyt.com/images/2025/06/17/realestate/17athomewith-akil-promo/17athomewith-akil-promo-articleLarge.jpg",
+      "timestamp": "2025-06-17T09:01:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
