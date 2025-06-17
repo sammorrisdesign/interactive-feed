@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-13T13:29:01.827Z",
+  "lastUpdated": "2025-06-17T04:00:28.483Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/preiskampf-bei-aldi-und-lidl-warum-verbraucher-kaum-profitieren-ld.1888665",
+      "headline": "Viel Lärm um wenig Rabatt: der Preiskampf zwischen Aldi und Lidl im Datencheck",
+      "image": "https://img.nzz.ch/2025/06/16/e725b172-1be7-4b00-a3d6-82cc03d55d88.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1601,900,x110,y283&wmark=nzz",
+      "timestamp": "2025-06-17T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
