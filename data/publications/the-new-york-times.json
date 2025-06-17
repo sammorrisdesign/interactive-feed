@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-06-17T12:35:29.300Z",
+  "lastUpdated": "2025-06-17T19:41:44.333Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/17/us/elections/results-virginia-house-of-delegates-primary.html",
+      "headline": "Virginia House of Delegates Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/17/multimedia/eln-PRE-2025-06-17-office-va-h-of-delegates-2615d5/eln-PRE-2025-06-17-office-va-h-of-delegates-2615d5-articleLarge.jpg",
+      "timestamp": "2025-06-17T19:24:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/17/us/elections/results-virginia-lieutenant-governor-primary.html",
+      "headline": "Virginia Lieutenant Governor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/17/multimedia/eln-PRE-2025-06-17-state-va-c1a685/eln-PRE-2025-06-17-state-va-c1a685-articleLarge.jpg",
+      "timestamp": "2025-06-17T19:20:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/17/us/elections/results-virginia-attorney-general-primary.html",
+      "headline": "Virginia Attorney General Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/17/multimedia/eln-PRE-2025-06-17-state-va-3c1cc2/eln-PRE-2025-06-17-state-va-3c1cc2-articleLarge.jpg",
+      "timestamp": "2025-06-17T19:20:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
