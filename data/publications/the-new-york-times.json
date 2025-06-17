@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-17T09:19:19.978Z",
+  "lastUpdated": "2025-06-17T12:35:29.300Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/17/weather/erick-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Erick",
+      "image": "https://static01.nyt.com/images/2025/06/16/world/five-e-map-path-tracker-index/five-e-map-path-tracker-index-articleLarge-v16.jpg",
+      "timestamp": "2025-06-17T12:06:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
