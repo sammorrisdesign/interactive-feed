@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-18T14:45:05.045Z",
+  "lastUpdated": "2025-06-18T17:44:41.426Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/18/us/doc-annotation-transgender-scotus-case.html",
+      "headline": "The Supreme Court’s Decision on Transgender Care for Minors, Annotated",
+      "image": "https://static01.nyt.com/images/2025/06/18/multimedia/doc-annotation-transgender-scotus-case-promo/doc-annotation-transgender-scotus-case-promo-articleLarge.jpg",
+      "timestamp": "2025-06-18T17:31:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
