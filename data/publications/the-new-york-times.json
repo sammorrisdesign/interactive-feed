@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-17T20:18:26.681Z",
+  "lastUpdated": "2025-06-18T09:19:09.250Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/18/realestate/18re-Guess-the-hidden-costs-of-homeownership.html",
+      "headline": "Can You Guess the Hidden Costs of Homeownership?",
+      "image": "https://static01.nyt.com/images/2025/06/18/realestate/18re-home-costs-quiz-Top/18re-home-costs-quiz-Top-articleLarge-v2.jpg",
+      "timestamp": "2025-06-18T09:03:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/18/world/middleeast/israel-iran-strikes-facilities-map.html",
+      "headline": "See What Strategic Infrastructure Israel Has Damaged in Iran",
+      "image": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-16-israel-iran-strikes-nuclear-index/2025-06-16-israel-iran-strikes-nuclear-index-articleLarge-v2.jpg",
+      "timestamp": "2025-06-18T09:03:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
