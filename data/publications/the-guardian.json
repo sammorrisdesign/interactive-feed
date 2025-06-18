@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-17T05:17:07.181Z",
+  "lastUpdated": "2025-06-18T20:19:53.144Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/jun/19/north-west-shelf-project-greenhouse-gas-emissions-burrup-peninsula-western-australia",
+      "headline": "Revealed: the astonishing greenhouse gas emissions that will result from the North West Shelf project",
+      "image": "https://i.guim.co.uk/img/media/71995fe59ddf444b76c361f29fa9be19503ea770/0_0_1999_1600/master/1999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db8a28fd6047459c0d3cabe9bc7d6388",
+      "timestamp": "2025-06-18T20:00:37.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
