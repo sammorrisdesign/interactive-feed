@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-18T17:44:41.426Z",
+  "lastUpdated": "2025-06-18T22:42:20.911Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/18/upshot/jaws-at-50.html",
+      "headline": "How ‘Jaws’ Made a Template for the Modern Blockbuster",
+      "image": "https://static01.nyt.com/images/2025/06/18/multimedia/jaws-template-top-lthq/jaws-template-top-lthq-articleLarge-v2.jpg",
+      "timestamp": "2025-06-18T22:20:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
