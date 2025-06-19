@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-19T09:18:22.657Z",
+  "lastUpdated": "2025-06-19T15:17:38.398Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/19/science/rubin-observatory-camera.html",
+      "headline": "Earth’s Largest Camera Takes 3 Billion-Pixel Images of the Night Sky",
+      "image": "https://static01.nyt.com/images/2025/06/17/multimedia/2025-06-19-rubin-observatory-index/2025-06-19-rubin-observatory-index-articleLarge.jpg",
+      "timestamp": "2025-06-19T14:54:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
