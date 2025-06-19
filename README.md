@@ -15,14 +15,12 @@ If you know the secret key you can run `export KEY=<SECRET-KEY>` and then `npm r
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-ABC News Australia, Berliner Morgenpost, Boston Globe, Bloomberg, CNN, de Volkskrand, De Tijd, El Confidencial, ESPN, FiveThirtyEight, FT, Houston Chronicle, Kontinentalist, LA Times, Le Monde, Nature, NBC News, National Geographic, NZZ, ProPublica, Politico, Publico, Reuters, San Francisco Chronicle, South China Morning Post, Seattle Times, Sydney Morning Herald, Tagesspiegel, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadlephia Inquirer, The Pudding, The Straits Times, The Washington Post, The Verge, USA Today, and WSJ
+List of featured publications: ABC Australia, Berliner Morgenpost, Bloomberg, Boston Globe, CNN, De Tijd, de Volkskrant, ESPN, FT, Houston Chronicle, Kontinentalist, LA Times, Le Monde, National Geographic, Nature, NBC News, NPR, NZZ, Politico, ProPublica, Publico, Reuters, San Francisco Chronicle, Seattle Times, South China Morning Post, Sydney Morning Herald, Tages-Anzeiger, Tagesspiegel, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadelphia Inquirer, The Pudding, The Straits Times, The Verge, The Washington Post, USA Today, and WSJ.
 
 ## Missing Publications
 Not all publications have specific feeds or repeatable url structures to get the types of stories we're looking to share. While this isn't a complete list of what's missing, here's some major newsrooms that we don't have hooked up...
 
-Al Jazeera, Atlanta Journal Constitution, Associated Press, Bayerischer Rundfunk, BBC News, CBC, Chicago Tribune, El Diario, Helsingin Sanomat, Le Nacion, Insider, Marshall Project, Minnepolis Star Tribune, Miami Herald, Radio Canada, Rest of World, SB Nation, SRF, Süddeutsche Zeitung, Tampa Bay Times, The Atlantic, The Globe and Mail, The New Yorker, The Times of London, Time Magazine, Toronto Star, Vox, Zeit
-
-There are some publications that used to be featured but changes to the Twitter API, along with a lack of an alternative source, means they're not longer included. They are: Axios, Commonwealth Magazine, El País, La Vanguardia, Les Échos, and NPR.
+List of missing publications: Al Jazeera, Associated Press, Atlanta Journal Constitution, Axios, Bayerischer Rundfunk, BBC News, CBC, Chicago Tribune, Commonwealth Magazine, El Confidencial, El Diario, El País, Helsingin Sanomat, Insider, La Vanguardia, Le Nacion, Les Échos, Marshall Project, Miami Herald, Minnepolis Star Tribune, Radio Canada, Rest of World, SB Nation, SRF, Süddeutsche Zeitung, Tampa Bay Times, The Atlantic, The Globe and Mail, The New Yorker, The Times of London, Time Magazine, Toronto Star, Vox, and Zeit.
 
 Know of how any of these newsrooms can be added? Make a PR!
 Know of any newsrooms we should add? Tweet me [@SamMorrisDesign](https://twitter.com/SamMorrisDesign) or add a GitHub Issue
@@ -80,4 +78,4 @@ Sources set to `"type": "Website"` get articles featured on a specific website. 
 ### Testing
 Once you've added a publication to the config you can run `npm run test --publication="The New York Times"` to test it (only with the name of your publication instead). This will check the feeds but not actually tweet/toot anything. If you're happy with it, make a PR!
 
-You can also use `npm run audit` to check the "health" of each publication. This will tell you whether a publication is still present in the config, whether articles have been picked up for them, and if possible, when the last article was published.
+You can also use `npm run audit` to check the "health" of each publication. This will tell you whether a publication is still present in the config, whether articles have been picked up for them, and if possible, when the last article was published. This will also sort the config alphabetically and update the list of publications on this page.
