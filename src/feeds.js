@@ -50,7 +50,7 @@ const findNewArticles = async(data) => {
       let isOld = articlesToCheckThrough.some(oldArticle => oldArticle.url === article.url) || article.headline && savedData.articles.some(oldArticle => oldArticle.headline === article.headline);
 
       if (!isOld) {
-        console.log("Found new article");
+        console.log(`Found new article: ${article.url} `);
 
         // last minute check for image url
         if (!article.image) {

@@ -488,6 +488,17 @@
       "publication": "SB Nation"
     },
     {
+      "publication": "SRF",
+      "twitterHandle": "srfnews",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.srf.ch/news/bnf/rss/20210660"
+        }
+      ]
+    },
+    {
       "publication": "Seattle Times",
       "twitterHandle": "seattletimes",
       "sources": [
@@ -754,16 +765,6 @@
           "selector": "article a",
           "headline": "span"
         }
-      }]
-    },
-    {
-      "publication": "Schweizer Radio und Fernsehen (SRF)",
-      "twitterHandle": "srfnews",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://www.srf.ch/news/bnf/rss/20210660"
-      }]
       ]
     },
     {
