@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-18T22:42:20.911Z",
+  "lastUpdated": "2025-06-19T09:18:22.657Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/19/realestate/upper-manhattan-condo-homes-sale.html",
+      "headline": "A Couple Figured They Couldn’t Afford Upper Manhattan. They Just Had to Look in the Right Places.",
+      "image": "https://static01.nyt.com/images/2025/06/19/multimedia/19re-Hunt-Lombardo-04-ltjb/19re-Hunt-Lombardo-04-ltjb-articleLarge.jpg",
+      "timestamp": "2025-06-19T09:03:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/19/travel/things-to-do-Outer-Banks.html",
+      "headline": "36 Hours on the Outer Banks, N.C.",
+      "image": "https://static01.nyt.com/images/2025/06/19/multimedia/36-hours-Outer-Banks-ckgl/36-hours-Outer-Banks-ckgl-articleLarge-v5.jpg",
+      "timestamp": "2025-06-19T09:02:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
