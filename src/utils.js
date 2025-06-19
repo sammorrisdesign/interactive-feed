@@ -59,6 +59,11 @@ module.exports = {
     }
   },
 
+  getOxfordCommaFormattedListFromArray: (array) => {
+    const listFormatter = new Intl.ListFormat('en', { style: 'long' });
+    return listFormatter.format(array);
+  },
+
   logError: async(publication, error) => {
     const logs = fs.readJSONSync('./data/log.json');
 

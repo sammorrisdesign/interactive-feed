@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2025-06-03T03:58:53.506Z",
+  "lastUpdated": "2025-06-17T18:50:02.370Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/rabatte-bei-aldi-lidl-was-die-preissenkungen-wirklich-bringen-ld.1888665",
+      "headline": "Rabatte bei Aldi und Lidl im Faktencheck: Das steckt hinter der «grössten Preissenkung der Geschichte»",
+      "image": "https://img.nzz.ch/2025/06/16/e725b172-1be7-4b00-a3d6-82cc03d55d88.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1601,900,x110,y283&wmark=nzz",
+      "timestamp": "2025-06-17T18:41:22.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/nahostkonflikt-die-wichtigsten-akteure-im-interaktiven-ueberblick-ld.1859399",
+      "headline": "Iran steht fast allein da – ein interaktiver Überblick über die wichtigsten Akteure im Nahen Osten",
+      "image": "https://img.nzz.ch/2024/11/26/c8fb8c8c-3dd9-4367-8a1a-d1337bf1b29e.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2190,1232,x0,y155&wmark=nzz",
+      "timestamp": "2025-06-17T16:25:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/preiskampf-bei-aldi-und-lidl-warum-verbraucher-kaum-profitieren-ld.1888665",
+      "headline": "Viel Lärm um wenig Rabatt: der Preiskampf zwischen Aldi und Lidl im Datencheck",
+      "image": "https://img.nzz.ch/2025/06/16/e725b172-1be7-4b00-a3d6-82cc03d55d88.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1601,900,x110,y283&wmark=nzz",
+      "timestamp": "2025-06-17T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/das-sind-die-wichtigsten-standorte-des-iranischen-atomprogramms-ld.1888868",
+      "headline": "Das sind die wichtigsten Standorte des iranischen Atomprogramms",
+      "image": "https://img.nzz.ch/2025/06/13/af618c54-aecf-4c89-b080-3ed8622c0ced.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=8207,4616,x0,y461&wmark=nzz",
+      "timestamp": "2025-06-13T13:06:07.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/israels-offensive-laesst-den-menschen-im-gazastreifen-immer-weniger-platz-satellitenbilder-eines-kuestenabschnitts-zeigen-die-humanitaere-notlage-ld.1888492",
+      "headline": "Israels Offensive lässt den Menschen im Gazastreifen immer weniger Platz. Satellitenbilder eines Küstenabschnitts zeigen die humanitäre Notlage",
+      "image": "https://img.nzz.ch/2025/06/12/8c99b342-7bdc-434f-8102-8bcf43f65bad.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3928,2209,x0,y1116&wmark=nzz",
+      "timestamp": "2025-06-13T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/ein-dorf-verschwindet-der-bergsturz-von-blatten-in-3-d-ld.1888058",
+      "headline": "Ein Dorf verschwindet: Der Bergsturz von Blatten in 3-D",
+      "image": "https://img.nzz.ch/2025/06/06/83f8c55c-bd23-422e-8d5c-68a8753828bb.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2025-06-07T09:45:28.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wegen-trump-bleiben-schweizer-und-deutsche-den-usa-fern-neue-zahlen-zeigen-ein-anderes-bild-ld.1887243",
+      "headline": "Wegen Trump bleiben Schweizer und Deutsche den USA fern? Neue Zahlen zeigen ein anderes Bild",
+      "image": "https://img.nzz.ch/2025/06/06/13cfe90f-5f67-459d-9f18-6f94365f8c5a.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3484,1960,x460,y559&wmark=nzz",
+      "timestamp": "2025-06-07T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aus-dem-orbit/die-essensverteilung-in-gaza-eskalation-einer-humanitaeren-katastrophe-ld.1887597",
+      "headline": "Die Essensverteilung in Gaza: Eskalation einer humanitären Katastrophe",
+      "image": "https://img.nzz.ch/2025/06/05/a10f8314-183d-4c4e-85b5-0724f569efcc.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y0&wmark=nzz",
+      "timestamp": "2025-06-05T15:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",

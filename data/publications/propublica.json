@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-02-27T10:16:18.699Z",
+  "lastUpdated": "2025-06-12T11:38:26.125Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/nih-cuts-research-lost-trump/",
+      "headline": "Shattered Science: The Research Lost as Trump Targets NIH Funding",
+      "image": "https://assets-d.propublica.org/v5/images/nih-cancelled-grants-og.jpg",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",

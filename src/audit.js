@@ -1,5 +1,3 @@
-// This is a quick audit of all publications and when they last published.
-// The idea is to give a developer a quick way to check the health of all feeds 
 const fs = require('fs-extra');
 const config = require('../config.json');
 const utils = require('./utils');
@@ -7,13 +5,15 @@ const dayjs = require('dayjs');
 const relativeTime = require('dayjs/plugin/relativeTime');
 dayjs.extend(relativeTime);
 
-(async() => {
-  // Get a complete list of publications from config and saved data
+// This function acts as a quick audit of all publications and when they last published.
+// The idea is to give a developer a quick way to check the "health" of all feeds 
+const getPublicationHealth = () => {
+  // get all possible publications from config and data
   const publicationsFromConfig = config.feeds.map(feed => utils.handlise(feed.publication));
   const publicationsFromData = fs.readdirSync('./data/publications').map(fileName => fileName.replace('.json', ''));
   const uniquePublications = Array.from(new Set([...publicationsFromConfig, ...publicationsFromData])).sort();
 
-  // Check each publication
+  // loop through each publication and log if it has config, data, and when it was last updated
   for (let publication of uniquePublications) {
     console.log(`Checking status of ${publication}`);
 
@@ -53,4 +53,36 @@ dayjs.extend(relativeTime);
 
     console.log('\r')
   }
+}
+
+// this function cleans the config and formats it alphabetically
+const cleanConfig = () => {
+  // sort feeds alphabetically
+  config.feeds = config.feeds.sort((a,b) => a.publication.localeCompare(b.publication));
+
+  // save config
+  fs.writeFileSync("./config.json", JSON.stringify(config, null, 2));
+}
+
+// this function updates both featured and missing of publications in the readme
+const updateReadme = () => {
+  // get the readme
+  let readme = fs.readFileSync("./README.md", 'utf-8');
+
+  // add publications with sources
+  publicationsWithSources = config.feeds.filter(feed => feed.sources).map(feed => feed.publication);
+  readme = readme.replace(/^.*List of featured publications:.*$/gm, `List of featured publications: ${utils.getOxfordCommaFormattedListFromArray(publicationsWithSources)}.`);
+
+  // add publications without sources
+  publicationsWithoutSources = config.feeds.filter(feed => !feed.sources).map(feed => feed.publication);
+  readme = readme.replace(/^.*List of missing publications:.*$/gm, `List of missing publications: ${utils.getOxfordCommaFormattedListFromArray(publicationsWithoutSources)}.`);
+
+  // save the modified readme
+  fs.writeFileSync("./README.md", readme);
+}
+
+(async() => {
+  getPublicationHealth();
+  cleanConfig();
+  updateReadme();
 })();

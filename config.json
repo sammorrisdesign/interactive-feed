@@ -1,555 +1,758 @@
 {
   "feeds": [
     {
-      "publication": "The New York Times",
-      "twitterHandle": "nytimes",
-      "blueSkyHandle": "nytimes.com",
-      "sources": [{
-        "type": "NewYorkTimesAPI"
-      }]
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.abc.net.au/news/interactives",
+          "baseUrl": "https://www.abc.net.au",
+          "selector": "ul li > article",
+          "headline": "h3",
+          "url": "a[data-component='Link']",
+          "timestamp": "time",
+          "timestampAttribute": "datetime",
+          "image": "img[data-component='Image']"
+        }
+      ]
     },
     {
-      "publication": "The Pudding",
-      "twitterHandle": "puddingviz",
-      "blueSkyHandle": "puddingviz.bsky.social",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://pudding.cool/rss.xml",
-        "domain": "pudding.cool"
-      }]
+      "publication": "Al Jazeera"
     },
     {
-      "publication": "The Guardian",
-      "twitterHandle": "GuardianVisuals",
-      "blueSkyHandle": "theguardian.com",
-      "sources": [{
-        "type": "TheGuardianAPI"
-      }]
+      "publication": "Associated Press"
     },
     {
-      "publication": "The Washington Post",
-      "twitterHandle": "washingtonpost",
-      "blueSkyHandle": "washingtonpost.com",
-      "sources": [{
-        "type": "WashingtonPost"
-      },{
-        "type": "BlueSky",
-        "handle": "washingtonpost.com",
-        "filters": {
-          "in": {
-            "url": "/interactive"
-          }
-        }
-      }, {
-        "type": "BlueSky",
-        "handle": "postgraphics.bsky.social",
-        "filters": {
-          "in": {
-            "url": "/interactive"
-          }
-        }
-      }]
+      "publication": "Atlanta Journal Constitution"
     },
     {
-      "publication": "CNN",
-      "twitterHandle": "CNN",
-      "blueSkyHandle": "cnn.com",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "cnn.com",
-        "filters": {
-          "in": {
-            "url": "/interactive"
-          }
-        }
-      }, {
-        "type": "XML",
-        "format": "RSS",
-        "path": "http://rss.cnn.com/rss/cnn_topstories.rss",
-        "filters": {
-          "in": {
-            "url": "/interactive"
-          }
-        }
-      }, {
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.cnn.com/sitemap/news.xml",
-        "filters": {
-          "in": {
-            "url": "/interactive"
-          }
-        }
-      }]
+      "publication": "Axios"
     },
     {
-      "publication": "FT",
-      "twitterHandle": "ftdata",
-      "blueSkyHandle": "data.ft.com",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://www.ft.com/visual-and-data-journalism?format=rss"
-      }]
+      "publication": "Bayerischer Rundfunk"
+    },
+    {
+      "publication": "BBC News"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "twitterHandle": "morgenpost",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.morgenpost.de/interaktiv/rss"
+        }
+      ]
     },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",
       "blueSkyHandle": "bloombergnews.bsky.social",
-      "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml",
-        "filters": {
-          "in": {
-            "url": "/graphics"
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.bloomberg.com/feeds/curated/feeds/graphics_news.xml",
+          "filters": {
+            "in": {
+              "url": "/graphics"
+            }
           }
         }
-      }]
-    },
-    {
-      "publication": "The Philadelphia Inquirer",
-      "twitterHandle": "PhillyInquirer",
-      "blueSkyHandle": "inquirer.com",
-      "sources": [{
-        "type": "PhiladelphiaInquirerAPI"
-      }]
-    },
-    {
-      "publication": "South China Morning Post",
-      "twitterHandle": "SCMPgraphics",
-      "sources": [{
-        "type": "SouthChinaMorningPost"
-      }]
-    },
-    {
-      "publication": "NBC News",
-      "twitterHandle": "NBCNewsGraphics",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://feeds.nbcnews.com/nbcnews/public/news",
-        "filters": {
-          "in": {
-            "url": "/data-graphics"
-          }
-        }
-      }]
-    },
-    {
-      "publication": "LA Times",
-      "twitterHandle": "datagraphics",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://www.latimes.com/index.rss",
-        "domain": "latimes.com/projects"
-      }, {
-        "type": "Website",
-        "path": "https://www.latimes.com/archives/projects",
-        "domain": "latimes.com/projects",
-        "selector": ".promo-wrapper",
-        "headline": ".promo-title",
-        "url": ".promo-title .link",
-        "timestamp": ".promo-timestamp",
-        "timestampFormat": ["MMM. D, YYYY", "MMM D, YYYY", "MMMM D, YYYY"]
-      }]
-    },
-    {
-      "publication": "Reuters",
-      "twitterHandle": "ReutersGraphics",
-      "sources": [{
-        "type": "Website",
-        "path": "https://www.reuters.com/graphics/",
-        "selector": "main > section > ul > li",
-        "headline": "span[data-testid='TitleHeading']",
-        "url": "a[data-testid='MediaImageLink']",
-        "baseUrl": "https://www.reuters.com",
-        "timestamp": "time",
-        "timestampFormat": ["MMM. D, YYYY", "MMM D, YYYY", "MMMM D, YYYY"],
-        "image": "img"
-      }]
-    },
-    {
-      "publication": "Kontinentalist",
-      "twitterHandle": "konti_sg",
-      "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://kontinentalist.com/sitemap-stories.xml",
-        "filters": {
-          "in": {
-            "url": "/stories"
-          }
-        }
-      }]
-    },
-    {
-      "publication": "Le Monde",
-      "twitterHandle": "lemondefr",
-      "blueSkyHandle": "lemonde.fr",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://www.lemonde.fr/data-visualisation/rss_full.xml",
-        "filters": {
-          "in": {
-            "url": "/les-decodeurs"
-          }
-        }
-      }]
-    },
-    {
-      "publication": "The Straits Times",
-      "twitterHandle": "straits_times",
-      "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.straitstimes.com/googlenews.xml",
-        "filters": {
-          "in": {
-            "url": "/multimedia/graphics"
-          }
-        }
-      }]
-    },
-    {
-      "publication": "ESPN",
-      "twitterHandle": "ESPN",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://www.espn.com/espn/rss/news",
-        "filters": {
-          "in": {
-            "url": "espn/feature/"
-          }
-        }
-      }, {
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.espn.com/googlenewssitemap",
-        "filters": {
-          "in": {
-            "url": "espn/feature/"
-          }
-        }
-      }]
-    },
-    {
-      "publication": "The Economist",
-      "twitterHandle": "ECONdailycharts",
-      "sources": [{
-        "type": "Website",
-        "path": "https://www.economist.com/interactive",
-        "selector": "#content section > div > div > div > div > div",
-        "domain": "/interactive/",
-        "url": "a",
-        "baseUrl": "https://www.economist.com",
-        "headline": "h3"
-      }]
-    },
-    {
-      "publication": "NZZ",
-      "twitterHandle": "nzzvisuals",
-      "blueSkyHandle": "nzz.ch",
-      "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.nzz.ch/sitemap/news0.xml",
-        "filters": {
-          "in": {
-            "url": "/visuals"
-          }
-        }
-      }]
-    },
-    {
-      "publication": "Texas Tribune",
-      "twitterHandle": "TexasTribune",
-      "blueSkyHandle": "texastribune.bsky.social",
-      "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.texastribune.org/sitemap-data-apps.xml"
-      }]
-    },
-    {
-      "publication": "De Tijd",
-      "twitterHandle": "TijdGraphics",
-      "blueSkyHandle": "tijd.be",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "tijd.be",
-        "filters": {
-          "in": {
-            "url": "multimedia.tijd"
-          }
-        }
-      }]
-    },
-    {
-      "publication": "ProPublica",
-      "twitterHandle": "propublica",
-      "blueSkyHandle": "propublica.bsky.social",
-      "sources": [{
-        "type": "Website",
-        "path": "https://www.propublica.org/newsapps/",
-        "selector": ".story-entry",
-        "domain": "projects.propublica.org",
-        "url": ".hed a",
-        "headline": ".hed",
-        "timestamp": "time",
-        "timestampAttribute": "datetime"
-      }]
-    },
-    {
-      "publication": "Berliner Morgenpost",
-      "twitterHandle": "morgenpost",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://www.morgenpost.de/interaktiv/rss"
-      }]
-    },
-    {
-      "publication": "The Verge",
-      "twitterHandle": "verge",
-      "blueSkyHandle": "theverge.com",
-      "sources": [{
-        "type": "XML",
-        "format": "Atom",
-        "path": "https://www.theverge.com/rss/index.xml",
-        "domain": "theverge.com/c/"
-      }]
+      ]
     },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
       "blueSkyHandle": "bostonglobe.bsky.social",
-      "sources": [{
-        "type": "Website",
-        "path": "https://apps.bostonglobe.com/",
-        "selector": ".project",
-        "headline": ".miller-n6",
-        "timestamp": "p:nth-of-type(1)",
-        "timestampFormat": ["MMMM D, YYYY", "MMM. D, YYYY", "MMM D, YYYY"]
-      }]
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://apps.bostonglobe.com/",
+          "selector": ".project",
+          "headline": ".miller-n6",
+          "timestamp": "p:nth-of-type(1)",
+          "timestampFormat": [
+            "MMMM D, YYYY",
+            "MMM. D, YYYY",
+            "MMM D, YYYY"
+          ]
+        }
+      ]
+    },
+    {
+      "publication": "CBC"
+    },
+    {
+      "publication": "Chicago Tribune"
+    },
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "blueSkyHandle": "cnn.com",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "cnn.com",
+          "filters": {
+            "in": {
+              "url": "/interactive"
+            }
+          }
+        },
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "http://rss.cnn.com/rss/cnn_topstories.rss",
+          "filters": {
+            "in": {
+              "url": "/interactive"
+            }
+          }
+        },
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.cnn.com/sitemap/news.xml",
+          "filters": {
+            "in": {
+              "url": "/interactive"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "Commonwealth Magazine"
+    },
+    {
+      "publication": "De Tijd",
+      "twitterHandle": "TijdGraphics",
+      "blueSkyHandle": "tijd.be",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "tijd.be",
+          "filters": {
+            "in": {
+              "url": "multimedia.tijd"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "de Volkskrant",
+      "twitterHandle": "volkskrant",
+      "blueSkyHandle": "volkskrant.bsky.social",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "volkskrant.bsky.social",
+          "filters": {
+            "in": {
+              "url": "kijkverder"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "El Confidencial"
+    },
+    {
+      "publication": "El Diario"
+    },
+    {
+      "publication": "El País"
+    },
+    {
+      "publication": "ESPN",
+      "twitterHandle": "ESPN",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.espn.com/espn/rss/news",
+          "filters": {
+            "in": {
+              "url": "espn/feature/"
+            }
+          }
+        },
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.espn.com/googlenewssitemap",
+          "filters": {
+            "in": {
+              "url": "espn/feature/"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.ft.com/visual-and-data-journalism?format=rss"
+        }
+      ]
+    },
+    {
+      "publication": "Helsingin Sanomat"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "houstonchronicle.com",
+          "filters": {
+            "in": {
+              "url": "/projects"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "Insider"
+    },
+    {
+      "publication": "Kontinentalist",
+      "twitterHandle": "konti_sg",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://kontinentalist.com/sitemap-stories.xml",
+          "filters": {
+            "in": {
+              "url": "/stories"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "LA Times",
+      "twitterHandle": "datagraphics",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.latimes.com/index.rss",
+          "domain": "latimes.com/projects"
+        },
+        {
+          "type": "Website",
+          "path": "https://www.latimes.com/archives/projects",
+          "domain": "latimes.com/projects",
+          "selector": ".promo-wrapper",
+          "headline": ".promo-title",
+          "url": ".promo-title .link",
+          "timestamp": ".promo-timestamp",
+          "timestampFormat": [
+            "MMM. D, YYYY",
+            "MMM D, YYYY",
+            "MMMM D, YYYY"
+          ]
+        }
+      ]
+    },
+    {
+      "publication": "La Vanguardia"
+    },
+    {
+      "publication": "Le Monde",
+      "twitterHandle": "lemondefr",
+      "blueSkyHandle": "lemonde.fr",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.lemonde.fr/data-visualisation/rss_full.xml",
+          "filters": {
+            "in": {
+              "url": "/les-decodeurs"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "Le Nacion"
+    },
+    {
+      "publication": "Les Échos"
+    },
+    {
+      "publication": "Marshall Project"
+    },
+    {
+      "publication": "Miami Herald"
+    },
+    {
+      "publication": "Minnepolis Star Tribune"
+    },
+    {
+      "publication": "National Geographic",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.nationalgeographic.com/sitemaps/items.1.xml",
+          "filters": {
+            "in": {
+              "url": "/graphics"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "Nature",
+      "twitterHandle": "Nature",
+      "blueSkyHandle": "natureportfolio.bsky.social",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "natureportfolio.nature.com",
+          "filters": {
+            "in": {
+              "url": "/immersive"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://feeds.nbcnews.com/nbcnews/public/news",
+          "filters": {
+            "in": {
+              "url": "/data-graphics"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "npr.org",
+          "filters": {
+            "in": {
+              "url": "apps."
+            }
+          }
+        },
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://googlecrawl.npr.org/news/sitemap_news.xml",
+          "filters": {
+            "in": {
+              "url": "apps."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.nzz.ch/sitemap/news0.xml",
+          "filters": {
+            "in": {
+              "url": "/visuals"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "Politico",
+      "blueSkyHandle": "politico.com",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "politico.com",
+          "filters": {
+            "in": {
+              "url": "politico.com/interactives"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.propublica.org/newsapps/",
+          "selector": ".story-entry",
+          "domain": "projects.propublica.org",
+          "url": ".hed a",
+          "headline": ".hed",
+          "timestamp": "time",
+          "timestampAttribute": "datetime"
+        }
+      ]
+    },
+    {
+      "publication": "Publico",
+      "twitterHandle": "publico_es",
+      "blueSkyHandle": "publico.bsky.social",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "publico.bsky.social",
+          "filters": {
+            "in": {
+              "url": "interactivos"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "Radio Canada"
+    },
+    {
+      "publication": "Rest of World"
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.reuters.com/graphics/",
+          "selector": "main > section > ul > li",
+          "headline": "span[data-testid='TitleHeading']",
+          "url": "a[data-testid='MediaImageLink']",
+          "baseUrl": "https://www.reuters.com",
+          "timestamp": "time",
+          "timestampFormat": [
+            "MMM. D, YYYY",
+            "MMM D, YYYY",
+            "MMMM D, YYYY"
+          ],
+          "image": "img"
+        }
+      ]
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "twitterHandle": "sfchronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "sfchronicle.com",
+          "filters": {
+            "in": {
+              "url": "projects"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "SB Nation"
+    },
+    {
+      "publication": "Seattle Times",
+      "twitterHandle": "seattletimes",
+      "sources": [
+        {
+          "type": "BlueSky",
+          "handle": "seattletimes-rss.bsky.social",
+          "filters": {
+            "in": {
+              "url": "projects."
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "South China Morning Post",
+      "twitterHandle": "SCMPgraphics",
+      "sources": [
+        {
+          "type": "SouthChinaMorningPost"
+        }
+      ]
+    },
+    {
+      "publication": "SRF"
+    },
+    {
+      "publication": "Süddeutsche Zeitung"
+    },
+    {
+      "publication": "Sydney Morning Herald",
+      "twitterHandle": "smh",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.smh.com.au/by/the-visual-stories-team-p53776",
+          "baseUrl": "https://www.smh.com.au",
+          "selector": "[data-pb-type='st']",
+          "headline": "h3[data-pb-type='hl']",
+          "url": "a[data-testid='article-link']",
+          "timestamp": "time",
+          "timestampAttribute": "datetime",
+          "image": "picture img"
+        }
+      ]
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "twitterHandle": "TA_Interaktiv",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/interaktiv"
+        }
+      ]
     },
     {
       "publication": "Tagesspiegel",
       "twitterHandle": "BerlinDigital",
       "blueSkyHandle": "tagesspiegel.de",
-      "sources": [{
-        "type": "Website",
-        "path": "https://interaktiv.tagesspiegel.de",
-        "baseUrl": "https://interaktiv.tagesspiegel.de",
-        "selector": ".tslr-startpage-article a",
-        "headline": ".tslr-startpage-teaser__kicker"
-      }]
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://interaktiv.tagesspiegel.de",
+          "baseUrl": "https://interaktiv.tagesspiegel.de",
+          "selector": ".tslr-startpage-article a",
+          "headline": ".tslr-startpage-teaser__kicker"
+        }
+      ]
     },
     {
-      "publication": "WSJ",
-      "twitterHandle": "WSJGraphics",
-      "blueSkyHandle": "wsj.com",
-      "sources": [{
-        "type": "Website",
-        "path": "https://www.wsj.com/search?query=gfx-standalone",
-        "selector": "article a",
-        "headline": "span"
-      }]
+      "publication": "Tampa Bay Times"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.texastribune.org/sitemap-data-apps.xml"
+        }
+      ]
+    },
+    {
+      "publication": "The Atlantic"
     },
     {
       "publication": "The City",
       "twitterHandle": "thecityny",
       "blueSkyHandle": "thecity.bsky.social",
-      "sources": [{
-        "type": "Website",
-        "path": "https://www.thecity.nyc/category/interactive/",
-        "selector": ".type-post.category-interactive",
-        "headline": ".entry-title a",
-        "url": ".entry-title a",
-        "timestamp": ".entry-date",
-        "timestampAttribute": "datetime"
-      }]
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.thecity.nyc/category/interactive/",
+          "selector": ".type-post.category-interactive",
+          "headline": ".entry-title a",
+          "url": ".entry-title a",
+          "timestamp": ".entry-date",
+          "timestampAttribute": "datetime"
+        }
+      ]
     },
     {
-      "publication": "ABC Australia",
-      "twitterHandle": "abcnews",
-      "sources": [{
-        "type": "Website",
-        "path": "https://www.abc.net.au/news/interactives",
-        "baseUrl": "https://www.abc.net.au",
-        "selector": "ul li > article",
-        "headline": "h3",
-        "url": "a[data-component='Link']",
-        "timestamp": "time",
-        "timestampAttribute": "datetime",
-        "image": "img[data-component='Image']"
-      }]
-    }, {
-      "publication": "Sydney Morning Herald",
-      "twitterHandle": "smh",
-      "sources": [{
-        "type": "Website",
-        "path": "https://www.smh.com.au/by/the-visual-stories-team-p53776",
-        "baseUrl": "https://www.smh.com.au",
-        "selector": "[data-pb-type='st']",
-        "headline": "h3[data-pb-type='hl']",
-        "url": "a[data-testid='article-link']",
-        "timestamp": "time",
-        "timestampAttribute": "datetime",
-        "image": "picture img"
-      }]
-    }, {
-      "publication": "San Francisco Chronicle",
-      "twitterHandle": "sfchronicle",
-      "blueSkyHandle": "sfchronicle.com",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "sfchronicle.com",
-        "filters": {
-          "in": {
-            "url": "projects"
-          }
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.economist.com/interactive",
+          "selector": "#content section > div > div > div > div > div",
+          "domain": "/interactive/",
+          "url": "a",
+          "baseUrl": "https://www.economist.com",
+          "headline": "h3"
         }
-      }]
-    }, {
-      "publication": "Publico",
-      "twitterHandle": "publico_es",
-      "blueSkyHandle": "publico.bsky.social",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "publico.bsky.social",
-        "filters": {
-          "in": {
-            "url": "interactivos"
-          }
-        }
-      }]
-    }, {
-      "publication": "de Volkskrant",
-      "twitterHandle": "volkskrant",
-      "blueSkyHandle": "volkskrant.bsky.social",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "volkskrant.bsky.social",
-        "filters": {
-          "in": {
-            "url": "kijkverder"
-          }
-        }
-      }]
-    }, {
-      "publication": "Nature",
-      "twitterHandle": "Nature",
-      "blueSkyHandle": "natureportfolio.bsky.social",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "natureportfolio.nature.com",
-        "filters": {
-          "in": {
-            "url": "/immersive"
-          }
-        }
-      }]
+      ]
     },
     {
-      "publication": "Seattle Times",
-      "twitterHandle": "seattletimes",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "seattletimes-rss.bsky.social",
-        "filters": {
-          "in": {
-            "url": "projects."
-          }
-        }
-      }]
+      "publication": "The Globe and Mail"
     },
     {
-      "publication": "Tages-Anzeiger",
-      "twitterHandle": "TA_Interaktiv",
-      "sources": [{
-        "type": "XML",
-        "format": "RSS",
-        "path": "https://partner-feeds.publishing.tamedia.ch/rss/tagesanzeiger/interaktiv"
-      }]
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "sources": [
+        {
+          "type": "TheGuardianAPI"
+        }
+      ]
     },
     {
-      "publication": "Politico",
-      "blueSkyHandle": "politico.com",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "politico.com",
-        "filters": {
-          "in": {
-            "url": "politico.com/interactives"
-          }
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "sources": [
+        {
+          "type": "NewYorkTimesAPI"
         }
-      }]
+      ]
     },
     {
-      "publication": "National Geographic",
-      "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.nationalgeographic.com/sitemaps/items.1.xml",
-        "filters": {
-          "in": {
-            "url": "/graphics"
+      "publication": "The New Yorker"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "blueSkyHandle": "inquirer.com",
+      "sources": [
+        {
+          "type": "PhiladelphiaInquirerAPI"
+        }
+      ]
+    },
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://pudding.cool/rss.xml",
+          "domain": "pudding.cool"
+        }
+      ]
+    },
+    {
+      "publication": "The Straits Times",
+      "twitterHandle": "straits_times",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.straitstimes.com/googlenews.xml",
+          "filters": {
+            "in": {
+              "url": "/multimedia/graphics"
+            }
           }
         }
-      }]
+      ]
+    },
+    {
+      "publication": "The Times of London"
+    },
+    {
+      "publication": "The Verge",
+      "twitterHandle": "verge",
+      "blueSkyHandle": "theverge.com",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Atom",
+          "path": "https://www.theverge.com/rss/index.xml",
+          "domain": "theverge.com/c/"
+        }
+      ]
+    },
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "sources": [
+        {
+          "type": "WashingtonPost"
+        },
+        {
+          "type": "BlueSky",
+          "handle": "washingtonpost.com",
+          "filters": {
+            "in": {
+              "url": "/interactive"
+            }
+          }
+        },
+        {
+          "type": "BlueSky",
+          "handle": "postgraphics.bsky.social",
+          "filters": {
+            "in": {
+              "url": "/interactive"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "publication": "Time Magazine"
+    },
+    {
+      "publication": "Toronto Star"
     },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
       "blueSkyHandle": "usatoday.com",
-      "sources": [{
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://www.usatoday.com/news-sitemap.xml",
-        "filters": {
-          "in": {
-            "url": "/story/graphics"
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.usatoday.com/news-sitemap.xml",
+          "filters": {
+            "in": {
+              "url": "/story/graphics"
+            }
           }
         }
-      }]
+      ]
     },
     {
-      "publication": "Houston Chronicle",
-      "blueSkyHandle": "houstonchronicle.com",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "houstonchronicle.com",
-        "filters": {
-          "in": {
-            "url": "/projects"
-          }
-        }
-      }]
+      "publication": "Vox"
     },
     {
-      "publication": "NPR",
-      "blueSkyHandle": "npr.org",
-      "sources": [{
-        "type": "BlueSky",
-        "handle": "npr.org",
-        "filters": {
-          "in": {
-            "url": "apps."
-          }
-        }
-      }, {
-        "type": "XML",
-        "format": "Sitemap",
-        "path": "https://googlecrawl.npr.org/news/sitemap_news.xml",
-        "filters": {
-          "in": {
-            "url": "apps."
-          }
+      "publication": "WSJ",
+      "twitterHandle": "WSJGraphics",
+      "blueSkyHandle": "wsj.com",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.wsj.com/search?query=gfx-standalone",
+          "selector": "article a",
+          "headline": "span"
         }
       }]
     },
@@ -561,6 +764,10 @@
         "format": "RSS",
         "path": "https://www.srf.ch/news/bnf/rss/20210660"
       }]
+      ]
+    },
+    {
+      "publication": "Zeit"
     }
   ]
 }

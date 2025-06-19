@@ -1,6 +1,213 @@
 {
-  "lastUpdated": "2025-06-04T16:18:38.972Z",
+  "lastUpdated": "2025-06-18T17:16:56.840Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/18/how-does-a-bunker-buster-bomb-work-b2-spirit-stealth-bomber-gbu-57-fordow-nuclear-site/84257217007/",
+      "headline": "How does a bunker-buster bomb work? A closer look at the GBU-57",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/18/USAT/84261545007-usatgraphicsbombbuster-topper.png",
+      "timestamp": "2025-06-18T17:07:24.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/18/jaws-50th-anniversary-bruce-the-shark-facts/84223785007/",
+      "headline": "‘Jaws’ scared swimmers out of the ocean 50 years ago. Real locations of Amity's terror",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/17/USAT/84243168007-shark-artboard-1.png",
+      "timestamp": "2025-06-18T10:02:57.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/17/israel-iran-timeline-maps-graphics/84240285007/",
+      "headline": "Israel-Iran timeline: How Israeli attack and Iranian retaliation unfolded",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/17/USAT/84250949007-irantopper.jpg",
+      "timestamp": "2025-06-17T23:55:34.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/17/fed-interest-rates-predictions/84244079007/",
+      "headline": "Will the Fed cut rates Wednesday? Not likely, but here's when they might.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/17/USAT/84248078007-fedrate.png",
+      "timestamp": "2025-06-17T20:41:54.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/17/map-shows-where-police-law-enforcement-can-partner-with-ice-raids/84185758007/",
+      "headline": "More than 600 local police agencies are partnering with ICE: See if yours is one of them",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/13/USAT/84192527007-topper-ic-estates.jpg",
+      "timestamp": "2025-06-17T11:06:12.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/16/israel-iran-nuclear-sites-map-before-after/84226882007/",
+      "headline": "Iran's nuclear sites before and after Israeli attacks: See updated maps, satellite images.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/16/USAT/84229739007-usatgraphics-israel-irantopper.png",
+      "timestamp": "2025-06-16T22:53:02.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/16/how-much-does-insurance-cost-2025-family-of-four/84149201007/",
+      "headline": "How much does insurance cost for a family in 2025? Charts show rising expenses",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/12/USAT/84166421007-usatgraphics-healthcarecoststopper.png",
+      "timestamp": "2025-06-16T13:39:30.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/16/wildfire-home-protection-go-bag/84133179007/",
+      "headline": "It's wildfire season: Tips to protect your home and family",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/10/USAT/84137132007-usatgraphics-homefireprotectiontopper.png",
+      "timestamp": "2025-06-16T10:01:40.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/14/mexico-flag-protests-what-does-it-symbolize/84192200007/",
+      "headline": "Mexico's flag features prominently in protests. What does it symbolize?",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/10/USAT/84139223007-mexican-flag-promo.jpg",
+      "timestamp": "2025-06-14T11:01:50.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/13/ice-deportations-immigration-raids-poll/84186426007/",
+      "headline": "Who should America deport, and where do Americans stand on ICE? New poll shows divisions",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/13/USAT/84188954007-fingerpointing.png",
+      "timestamp": "2025-06-13T19:52:23.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/13/friday-13th-only-one-in-2025/84183675007/",
+      "headline": "What luck! Today is only Friday 13th this year. What to know about this 'unlucky' day",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/13/USAT/84184106007-uastgraphics-friday-13-thtopper.png",
+      "timestamp": "2025-06-13T14:15:35.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/13/flag-day-2025-celebration-history-tips/84129117007/",
+      "headline": "Flag Day 2025: Here's the right way to celebrate the American flag",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/10/USAT/84131621007-usatgraphics-flag-daytopper.png",
+      "timestamp": "2025-06-13T10:01:42.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/13/israel-attacks-iran-tehran-where-map-video-sattelite-images-of-the-strike-nuclear-sites/84179253007/",
+      "headline": "Israel attacks Iran: See strike map, videos, satellite images.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/13/USAT/84179843007-iran-topper.png",
+      "timestamp": "2025-06-13T04:26:01.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/12/2025-scooter-cannonball-rally-honda-vespa-yamaha/83651012007/",
+      "headline": "Who's crazy enough to enter the Scooter Cannonball? These riders may surprise you",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/09/USAT/84121040007-cannonball-2025.jpg",
+      "timestamp": "2025-06-12T10:01:42.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/12/2025-fathers-day-record-spending/84115778007/",
+      "headline": "Splurging on Dad: See what's hot and how much we'll spend for 2025 Father's Day",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/11/USAT/84143002007-fathers-day-topper-artboard-1.png",
+      "timestamp": "2025-06-12T10:01:26.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/11/keep-wildfire-smoke-out-home-air-quality/84131199007/",
+      "headline": "Canadian wildfire smoke is back: Tips to keep it out of your home",
+      "image": "https://www.gannett-cdn.com/presto/2023/06/12/USAT/817ef92e-7419-4e51-bb3d-3d2a6ed0401e-promo-art.png",
+      "timestamp": "2025-06-11T10:03:50.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/10/worker-outlook-falls-may-report/84117317007/",
+      "headline": "New data reveals a distressing number of Americans are worried about their jobs",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/10/USAT/84129645007-unhappyworkers.png",
+      "timestamp": "2025-06-10T15:02:52.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/09/less-lethal-munitions-la-riots-los-angeles-protests-trump-deploys-national-guard-marines/84114996007/",
+      "headline": "Less lethal weapons: How law enforcement is using force in the LA protests",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/09/USAT/84116642007-l-aproteststopper.jpg",
+      "timestamp": "2025-06-10T01:05:34.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/08/strawberry-moon-2025-june-full-moon-viewing-times/84010231007/",
+      "headline": "These are the best times to view June's strawberry moon",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/04/USAT/84025724007-usatgraphicsstrawberrymoontopper.png",
+      "timestamp": "2025-06-08T10:02:17.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/05/car-depreciation-model-comparison/83905885007/",
+      "headline": "Tesla resale prices tumbling. These popular cars hold their value better",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/04/USAT/84029094007-usedautotopper.jpg",
+      "timestamp": "2025-06-05T19:07:10.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/05/travel-ban-trump-countries-list-2025/84046760007/",
+      "headline": "Trump's travel ban is his fourth attempt. See how list compares to 2017",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/05/USAT/84047899007-usatgraphics-travelbantopper.png",
+      "timestamp": "2025-06-05T17:16:39.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/05/tickets-trump-birthday-army-parade-dc-scotty-hasting/84026203007/",
+      "headline": "Country singers and parade celebrate Army – and (unofficially) Trump's birthday",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/05/22/USAT/83797062007-usatgraphics-d-cparadetopper.png",
+      "timestamp": "2025-06-05T10:02:39.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/05/2025-hurricane-season-noaa-tropical-activity/83898371007/",
+      "headline": "Key weather factors that could influence the 2025 hurricane season",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/04/USAT/84023090007-storms-topper.png",
+      "timestamp": "2025-06-05T10:02:29.000Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
