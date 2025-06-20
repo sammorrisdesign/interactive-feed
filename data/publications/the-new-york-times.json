@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-20T17:40:32.412Z",
+  "lastUpdated": "2025-06-20T19:36:47.860Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/20/world/middleeast/earthquake-iran-tracker.html",
+      "headline": "Map: 5.1-Magnitude Earthquake Strikes Iran",
+      "image": "https://static01.nyt.com/images/2025/06/20/world/20wea-quake-tracker-iran-nyt536t9-index/20wea-quake-tracker-iran-nyt536t9-index-articleLarge-v3.jpg",
+      "timestamp": "2025-06-20T19:21:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
