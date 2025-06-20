@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-20T19:36:47.860Z",
+  "lastUpdated": "2025-06-20T20:41:33.820Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/20/espanol/terremoto-iran.html",
+      "headline": "Mapa: un terremoto de magnitud 5,1 sacude Irán",
+      "image": "https://static01.nyt.com/images/2025/06/20/world/20wea-quake-tracker-iran-nyt536t9-index/20wea-quake-tracker-iran-nyt536t9-index-articleLarge-v4.jpg",
+      "timestamp": "2025-06-20T20:22:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
