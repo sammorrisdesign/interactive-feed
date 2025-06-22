@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-21T10:16:23.080Z",
+  "lastUpdated": "2025-06-22T05:42:09.891Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/22/world/middleeast/us-iran-nuclear-sites.html",
+      "headline": "Here Are the Three Iranian Nuclear Sites the U.S. Attacked",
+      "image": "https://static01.nyt.com/images/2025/06/22/multimedia/2025-06-22-us-iran-nuclear-strikes-index/2025-06-22-us-iran-nuclear-strikes-index-articleLarge-v4.jpg",
+      "timestamp": "2025-06-22T05:36:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
