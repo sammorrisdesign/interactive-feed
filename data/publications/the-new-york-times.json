@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-23T01:25:06.972Z",
+  "lastUpdated": "2025-06-23T04:08:01.404Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/22/upshot/harvard-funding-cuts.html",
+      "headline": "Here Is All the Science at Risk in Trump’s Clash With Harvard",
+      "image": "https://static01.nyt.com/images/2025/06/22/multimedia/harvard-funding-cuts-qfcz/harvard-funding-cuts-qfcz-articleLarge.jpg",
+      "timestamp": "2025-06-23T03:23:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

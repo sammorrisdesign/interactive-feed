@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-17T18:50:02.370Z",
+  "lastUpdated": "2025-06-23T04:08:01.354Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/operation-midnight-hammer-so-zerstoererisch-waren-die-us-angriffe-auf-iran-ld.1890117",
+      "headline": "Operation «Midnight Hammer»: Wie zerstörerisch waren die amerikanischen Angriffe auf iranische Atomanlagen?",
+      "image": "https://img.nzz.ch/2025/06/22/7d1b4325-cfcc-4b44-948f-60f6a317114e.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4154,2337,x0,y216&wmark=nzz",
+      "timestamp": "2025-06-23T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
