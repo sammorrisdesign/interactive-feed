@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-06-22T09:16:36.182Z",
+  "lastUpdated": "2025-06-23T01:25:06.972Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/movies/reader-ballot-movies-21st-century.html",
+      "headline": "The Best Movies of the 21st Century: You Decide",
+      "image": "https://static01.nyt.com/images/2025/07/10/arts/reader-ballot-movies-21st-century-static/reader-ballot-movies-21st-century-static-articleLarge.jpg",
+      "timestamp": "2025-06-23T00:27:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/movies/votes-movies-21st-century.html",
+      "headline": "The Best Movies of the 21st Century: How Actors, Directors and Other Film Lovers Voted",
+      "image": "https://static01.nyt.com/images/2025/07/10/arts/votes-movies-21st-century-static/votes-movies-21st-century-static-articleLarge-v2.jpg",
+      "timestamp": "2025-06-23T00:27:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/movies/best-movies-21st-century.html",
+      "headline": "The 100 Best Movies of the 21st Century",
+      "image": "https://static01.nyt.com/images/2025/07/10/arts/100films-static-day-1/100films-static-articleLarge.jpg",
+      "timestamp": "2025-06-23T00:25:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
