@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-23T11:15:32.452Z",
+  "lastUpdated": "2025-06-23T17:42:40.237Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/science/interactive/2025/vera-rubin-telescope-images/",
+      "headline": "See images from the Rubin telescope and world’s largest digital camera",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/V4B6YYYYQ5D25HLKZKGMLY43MM.jpg",
+      "timestamp": "2025-06-23T17:26:39.470Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
