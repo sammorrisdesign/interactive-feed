@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-23T04:08:01.404Z",
+  "lastUpdated": "2025-06-23T09:20:25.198Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/23/technology/ai-computing-global-divide.html",
+      "headline": "The A.I. Race Is Splitting the World Into Haves and Have-Nots",
+      "image": "https://static01.nyt.com/images/2025/06/20/multimedia/2025-05-06-ai-compute-regions-index/2025-05-06-ai-compute-regions-index-articleLarge-v9.png",
+      "timestamp": "2025-06-23T09:01:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/23/science/math-strogatz-spheres-packing.html",
+      "headline": "How Bees, Beer Cans and Data Solve the Same Packing Problem",
+      "image": "https://static01.nyt.com/images/2025/06/05/sphere-packing-50727-cover/sphere-packing-50727-cover-articleLarge.jpg",
+      "timestamp": "2025-06-23T09:00:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
