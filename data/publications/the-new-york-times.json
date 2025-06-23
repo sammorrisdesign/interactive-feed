@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-23T20:43:13.927Z",
+  "lastUpdated": "2025-06-23T21:16:06.311Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/23/magazine/ai-art-artists-illustrator.html",
+      "headline": "Sketched Out: An Illustrator Confronts His Fears About A.I. Art",
+      "image": "https://static01.nyt.com/images/2025/06/24/magazine/24mag-ai-illo-hp/24mag-ai-illo-articleLarge.jpg",
+      "timestamp": "2025-06-23T21:09:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
