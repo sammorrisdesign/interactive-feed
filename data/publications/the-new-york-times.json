@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-06-23T09:20:25.198Z",
+  "lastUpdated": "2025-06-23T14:18:21.717Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/23/weather/sepat-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Sepat",
+      "image": "https://static01.nyt.com/images/2025/06/22/world/two-map-path-tracker-index/two-map-path-tracker-index-articleLarge-v8.jpg",
+      "timestamp": "2025-06-23T14:16:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/movies/watchlist.html",
+      "headline": "Your Watch List",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-06-23T14:01:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/23/books/review/world-book-titles.html",
+      "headline": "Fill In the Blank: Which World Cities Are in These Book Titles?",
+      "image": "https://static01.nyt.com/images/2025/06/23/books/review/23TBR-Quiz-CITIES/23TBR-Quiz-CITIES-articleLarge.jpg",
+      "timestamp": "2025-06-23T14:01:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
