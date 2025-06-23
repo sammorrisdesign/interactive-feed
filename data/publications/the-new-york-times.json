@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-23T14:18:21.717Z",
+  "lastUpdated": "2025-06-23T16:49:56.384Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/23/world/middleeast/syria-photos-war-bashar-al-assad.html",
+      "headline": "A Journey Across the New Syria",
+      "image": "https://static01.nyt.com/images/2025/04/30/multimedia/00syria-roadtrip-top-vpmt/00syria-roadtrip-top-vpmt-articleLarge-v2.jpg",
+      "timestamp": "2025-06-23T16:49:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
