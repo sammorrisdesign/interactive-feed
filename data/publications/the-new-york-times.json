@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-23T16:49:56.384Z",
+  "lastUpdated": "2025-06-23T20:43:13.927Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/23/world/middleeast/us-qatar-iran-israel-missile-defense.html",
+      "headline": "How Missile Defense Works (and Why It’s Hard)",
+      "image": "https://static01.nyt.com/images/2025/06/23/multimedia/2025-06-23-missile-defense-index/2025-06-23-missile-defense-index-articleLarge.png",
+      "timestamp": "2025-06-23T20:34:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
