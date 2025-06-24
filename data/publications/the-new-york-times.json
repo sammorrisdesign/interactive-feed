@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-24T05:44:48.717Z",
+  "lastUpdated": "2025-06-24T14:44:22.436Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/weather/andrea-map-path-tracker.html",
+      "headline": "Tropical Storm Andrea Forms in the Atlantic",
+      "image": "https://static01.nyt.com/images/2025/06/24/world/andrea-map-path-tracker-index/andrea-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2025-06-24T14:32:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

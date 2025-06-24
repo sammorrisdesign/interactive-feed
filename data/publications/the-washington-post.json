@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-24T11:15:16.760Z",
+  "lastUpdated": "2025-06-24T14:44:22.461Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/heat-waves-map-us-tracker/",
+      "headline": "Where extreme heat will pose the biggest threat: Look up your city",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/CDSF3TA27RESFDBODUPGRK5JHY.jpg",
+      "timestamp": "2025-06-24T14:31:22.002Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
