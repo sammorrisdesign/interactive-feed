@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2025-06-24T14:44:22.436Z",
+  "lastUpdated": "2025-06-24T18:23:33.568Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/results-new-york-city-mayor-primary.html",
+      "headline": "New York City Mayoral Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/eln-PRE-2025-06-24-state-ny-8bd857/eln-PRE-2025-06-24-state-ny-8bd857-articleLarge.jpg",
+      "timestamp": "2025-06-24T18:18:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/results-new-york-queens-borough-president-primary.html",
+      "headline": "Queens Borough President Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/eln-PRE-2025-06-24-state-ny-d7ca2d/eln-PRE-2025-06-24-state-ny-d7ca2d-articleLarge.jpg",
+      "timestamp": "2025-06-24T18:14:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/results-new-york-staten-island-borough-president-primary.html",
+      "headline": "Staten Island Borough President Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/eln-PRE-2025-06-24-state-ny-217b13/eln-PRE-2025-06-24-state-ny-217b13-articleLarge.jpg",
+      "timestamp": "2025-06-24T18:14:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/results-new-york-city-public-advocate-primary.html",
+      "headline": "New York City Public Advocate Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/eln-PRE-2025-06-24-state-ny-8bd857/eln-PRE-2025-06-24-state-ny-8bd857-articleLarge.jpg",
+      "timestamp": "2025-06-24T18:14:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/results-new-york-city-comptroller-primary.html",
+      "headline": "New York City Comptroller Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/eln-PRE-2025-06-24-state-ny-a72086/eln-PRE-2025-06-24-state-ny-a72086-articleLarge.jpg",
+      "timestamp": "2025-06-24T18:14:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/results-new-york-manhattan-district-attorney-primary.html",
+      "headline": "Manhattan District Attorney Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/eln-PRE-2025-06-24-state-ny-668c61/eln-PRE-2025-06-24-state-ny-668c61-articleLarge.jpg",
+      "timestamp": "2025-06-24T18:14:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/results-new-york-brooklyn-district-attorney-primary.html",
+      "headline": "Brooklyn District Attorney Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/eln-PRE-2025-06-24-state-ny-9523d9/eln-PRE-2025-06-24-state-ny-9523d9-articleLarge.jpg",
+      "timestamp": "2025-06-24T18:14:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/results-new-york-manhattan-borough-president-primary.html",
+      "headline": "Manhattan Borough President Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/eln-PRE-2025-06-24-state-ny-e54e45/eln-PRE-2025-06-24-state-ny-e54e45-articleLarge.jpg",
+      "timestamp": "2025-06-24T18:14:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
