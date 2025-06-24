@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-23T21:16:06.311Z",
+  "lastUpdated": "2025-06-24T05:44:48.717Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/realestate/los-angeles-fires-toxic-homes.html",
+      "headline": "‘Unsafe to Inhabit’: </br>The Toxic Homes of L.A.",
+      "image": "https://static01.nyt.com/images/2025/06/16/multimedia/2025-02-13-la-fires-testing-index/2025-02-13-la-fires-testing-index-articleLarge-v8.jpg",
+      "timestamp": "2025-06-24T05:26:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
