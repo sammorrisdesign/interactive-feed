@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-03-29T23:13:55.459Z",
+  "lastUpdated": "2025-06-24T17:17:20.672Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "blueSkyHandle": "cnn.com",
+      "url": "https://www.cnn.com/interactive/2025/06/politics/ranked-choice-voting-explained-dg/",
+      "headline": "Get the scoop on how ranked-choice voting works",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreibhr36b2tcw2tfivyz7i3bsree7isxczziina7qvpmg7inrmvvpo4@jpeg",
+      "timestamp": "2025-06-24T17:02:40.038Z"
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
