@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-24T19:37:10.289Z",
+  "lastUpdated": "2025-06-25T03:07:19.540Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/24/us/elections/nyc-mayor-primary-results-precinct-map.html",
+      "headline": "The Most Detailed Map of the N.Y.C. Mayoral Primary",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-05-09-nyc-mayoral-primary-index/2025-05-09-nyc-mayoral-primary-index-articleLarge-v2.png",
+      "timestamp": "2025-06-25T01:24:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
