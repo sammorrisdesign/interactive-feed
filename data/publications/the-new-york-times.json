@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-25T16:22:00.473Z",
+  "lastUpdated": "2025-06-25T20:43:17.995Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/25/nyregion/nyc-mayor-election-results-map-mamdani-cuomo.html",
+      "headline": "See Which Neighborhoods and Groups Drove Mamdani’s Success in the N.Y.C. Primary",
+      "image": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-06-04-mayor-primary-analysis-index/2025-06-04-mayor-primary-analysis-index-articleLarge-v2.png",
+      "timestamp": "2025-06-25T20:19:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
