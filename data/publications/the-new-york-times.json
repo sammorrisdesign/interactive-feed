@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-25T20:43:17.995Z",
+  "lastUpdated": "2025-06-25T22:15:55.277Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/25/opinion/mamdani-cuomo-new-york-mayor-election.html",
+      "headline": "The Anatomy of Mamdani’s Political Earthquake",
+      "image": "https://static01.nyt.com/images/2025/06/25/multimedia/2025-06-24-op-nyc-democratic-mayoral-primary-index/2025-06-24-op-nyc-democratic-mayoral-primary-index-articleLarge-v15.png",
+      "timestamp": "2025-06-25T21:51:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
