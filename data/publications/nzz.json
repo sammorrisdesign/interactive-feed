@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-24T11:39:04.601Z",
+  "lastUpdated": "2025-06-25T14:45:31.858Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/nawalnys-tod-einblicke-ins-russische-straflager-polarwolf-ld.1819627",
+      "headline": "In diesem Straflager ist Nawalny gestorben",
+      "image": "https://img.nzz.ch/2024/02/27/f97b5350-1c15-4d59-abd1-bd812dff44fa.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=7625,4289,x0,y597&wmark=nzz",
+      "timestamp": "2025-06-25T14:38:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
