@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-25T09:19:53.297Z",
+  "lastUpdated": "2025-06-25T16:22:00.473Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/25/climate/west-virginia-pollution-cleanup-coal-mine.html",
+      "headline": "Streams Were Dying in West Virginia. Here’s How They’re Coming Back.",
+      "image": "https://static01.nyt.com/images/2025/06/24/multimedia/2025-03-20-wv-amd-index/2025-03-20-wv-amd-index-articleLarge-v3.jpg",
+      "timestamp": "2025-06-25T16:04:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
