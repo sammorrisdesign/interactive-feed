@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-06-13T20:42:03.350Z",
+  "lastUpdated": "2025-06-25T09:19:53.262Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/data-graphics/democratic-voter-registrations-decline-independents-surging-rcna213772",
+      "headline": "Major-party voter registration slips as independents and third-parties surge",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-06/20250623-voterreg-covercover-2x1-96b764.png",
+      "timestamp": "2025-06-25T09:00:41.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
