@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-25T11:15:23.637Z",
+  "lastUpdated": "2025-06-26T11:14:48.157Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2025/jun/26/womens-euro-2025-top-goalscorers-golden-boot-switzerland",
+      "headline": "Women’s Euro 2025: top goalscorers, game by game",
+      "image": "https://i.guim.co.uk/img/media/d2d6ffbb1d1ef9137245e3f098eb7eebd386cb8a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=950d1140dc972f1f5fcd800a7fae3500",
+      "timestamp": "2025-06-26T11:02:17.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2025/jun/26/tippping-points-amazon-rainforest-climate-scientist-carlos-nobre",
+      "headline": "‘We are perilously close to the point of no return’: climate scientist on Amazon rainforest’s future",
+      "image": "https://i.guim.co.uk/img/media/69893307b7d18651cf63c914c31a1e3b36bb748e/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=de84f34f2ac5003310b28a152627a42d",
+      "timestamp": "2025-06-26T11:00:28.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
