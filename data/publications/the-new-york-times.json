@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-25T22:15:55.277Z",
+  "lastUpdated": "2025-06-26T09:18:58.798Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/26/realestate/taos-new-mexico-homes-for-sale.html",
+      "headline": "In Taos, N.M., They Searched for Adobe Style and High-Desert Views",
+      "image": "https://static01.nyt.com/images/2025/06/26/multimedia/26re-Hunt-Taos-02-tmvg/26re-Hunt-Taos-02-tmvg-articleLarge.jpg",
+      "timestamp": "2025-06-26T09:05:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/26/travel/things-to-do-istanbul.html",
+      "headline": "36 Hours in Istanbul",
+      "image": "https://static01.nyt.com/images/2025/06/26/multimedia/26Hours-Istanbul-qcpl/26Hours-Istanbul-qcpl-articleLarge-v5.jpg",
+      "timestamp": "2025-06-26T09:02:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
