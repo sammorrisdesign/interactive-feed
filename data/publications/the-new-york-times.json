@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-27T17:14:52.004Z",
+  "lastUpdated": "2025-06-27T18:49:24.221Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/27/us/ice-arrests-trump.html",
+      "headline": "Immigration Arrests Are Up Sharply in Every State. Here Are the Numbers.",
+      "image": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-23-ice-arrests-index/2025-06-23-ice-arrests-index-articleLarge-v4.png",
+      "timestamp": "2025-06-27T18:39:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
