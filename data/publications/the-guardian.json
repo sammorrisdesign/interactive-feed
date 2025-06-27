@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-27T11:37:55.227Z",
+  "lastUpdated": "2025-06-27T14:43:32.443Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2025/jun/27/tony-cox-epidemiology-risk-assessment-chatgpt-ai",
+      "headline": "Inside a plan to use AI to amplify doubts about the dangers of pollutants",
+      "image": "https://i.guim.co.uk/img/media/ceeca6c0243324dd170aa6a0081b1470eef0d142/0_0_1500_1200/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc45272d87d6cd2fdb8328b3d5c9259b",
+      "timestamp": "2025-06-27T14:00:58.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
