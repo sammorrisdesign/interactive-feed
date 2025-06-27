@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-27T19:13:08.117Z",
+  "lastUpdated": "2025-06-27T21:14:33.488Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/27/us/mount-rushmore-trump.html",
+      "headline": "Room for One More on Mount Rushmore? (The President Wants to Know)",
+      "image": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-04-08-mt-rushmore-index/2025-04-08-mt-rushmore-index-articleLarge-v7.jpg",
+      "timestamp": "2025-06-27T21:09:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/27/world/middleeast/iran-us-nuclear-weapons.html",
+      "headline": "12 Days of Attacks Later, Could Iran Make an Atomic Bomb?",
+      "image": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-24-iran-nuclear-bomb-index/2025-06-24-iran-nuclear-bomb-index-articleLarge-v6.jpg",
+      "timestamp": "2025-06-27T20:40:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
