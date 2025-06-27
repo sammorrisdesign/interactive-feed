@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-26T17:15:25.297Z",
+  "lastUpdated": "2025-06-27T03:06:28.720Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/movies/21st-century-movie-watch-next.html",
+      "headline": "The Best Movies of the 21st Century: What to Watch",
+      "image": "https://static01.nyt.com/images/2025/06/26/arts/help-me-pick-movies/help-me-pick-movies-articleLarge.jpg",
+      "timestamp": "2025-06-27T02:17:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/movies/21st-century-movie-game.html",
+      "headline": "The Best of the Rest: Help Us Rank Your Favorite 21st-Century Superhero Movies, Rom-Coms, Horror Films and More",
+      "image": "https://static01.nyt.com/images/2025/07/10/arts/100movies-h2h-promo/100movies-h2h-promo-articleLarge.jpg",
+      "timestamp": "2025-06-27T01:48:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
