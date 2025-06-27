@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-26T17:41:53.175Z",
+  "lastUpdated": "2025-06-27T10:18:46.205Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/27/child-hot-car-deaths-data/84355294007/",
+      "headline": "Where do hot car deaths happen the most? Data reveals where (and when) it's most common.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/25/USAT/84357023007-usatgraphicshotcardeathstopper.png",
+      "timestamp": "2025-06-27T10:02:21.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/06/27/schedule-18-weeks-nfl-season-2025/84323426007/",
+      "headline": "See all 18 weeks of the 2025 NFL schedule and TV times",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/06/24/USAT/84337151007-nf-lweeklyscheduletopper.jpg",
+      "timestamp": "2025-06-27T10:01:20.000Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
