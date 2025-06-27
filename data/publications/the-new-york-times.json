@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-27T03:06:28.720Z",
+  "lastUpdated": "2025-06-27T14:16:41.832Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/27/us/politics/supreme-court-ruling-birthright-citizenship.html",
+      "headline": "Read the Supreme Court Decision in the Birthright Citizenship Case",
+      "image": "https://static01.nyt.com/images/2025/06/27/doc-6b223718-9dd1-4797-b2f9-8-promo/doc-6b223718-9dd1-4797-b2f9-8-promo-articleLarge.png",
+      "timestamp": "2025-06-27T14:10:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
