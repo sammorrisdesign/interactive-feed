@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-28T01:18:21.063Z",
+  "lastUpdated": "2025-06-28T04:20:56.323Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/27/world/asia/air-india-crash-cause.html",
+      "headline": "What Visual and Audio Evidence Reveals About the Air India Crash",
+      "image": "https://static01.nyt.com/images/2025/06/27/multimedia/2025-06-20-india-crash-clues-index/2025-06-20-india-crash-clues-index-articleLarge-v2.jpg",
+      "timestamp": "2025-06-28T03:52:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
