@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-28T04:20:56.323Z",
+  "lastUpdated": "2025-06-28T09:17:17.564Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/28/well/move/lunge-exercise-form.html",
+      "headline": "How to Do a Perfect Lunge",
+      "image": "https://static01.nyt.com/images/2025/06/27/well/LUNGE-FORM-art/LUNGE-FORM-art-articleLarge-v4.jpg",
+      "timestamp": "2025-06-28T09:03:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
