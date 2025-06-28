@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-27T22:17:49.023Z",
+  "lastUpdated": "2025-06-28T01:18:21.063Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/27/us/senate-war-powers-vote.html",
+      "headline": "How Every Senator Voted on the Iran War Powers Resolution",
+      "image": "https://static01.nyt.com/images/2025/06/23/us/senate-war-powers-vote-1751054242699/senate-war-powers-vote-1751054242699-articleLarge.jpg",
+      "timestamp": "2025-06-28T00:04:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
