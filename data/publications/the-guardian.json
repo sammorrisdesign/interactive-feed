@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-29T05:20:08.843Z",
+  "lastUpdated": "2025-06-29T13:45:09.052Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jun/29/gen-z-sexual-revolution",
+      "headline": "A generation of ‘virgins’ is leading America’s next sexual revolution",
+      "image": "https://i.guim.co.uk/img/media/93c86570595ac70d5c9c6267ca5152ac4e961489/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=862610cc929e7e950646312653cc8e3a",
+      "timestamp": "2025-06-29T13:00:54.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
