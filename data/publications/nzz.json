@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-27T04:01:39.010Z",
+  "lastUpdated": "2025-06-29T03:18:13.678Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/russland-startet-in-der-ukraine-eine-sommeroffensive-eine-analyse-ld.1890784",
+      "headline": "Angriff an drei Fronten: Wie Russland eine neue Grossoffensive startet",
+      "image": "https://img.nzz.ch/2025/06/26/e12cdb90-dee0-4858-903f-61a30d773851.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3307,1860,x0,y173&wmark=nzz",
+      "timestamp": "2025-06-29T03:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
