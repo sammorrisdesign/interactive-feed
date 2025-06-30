@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-30T13:31:04.033Z",
+  "lastUpdated": "2025-06-30T14:16:55.340Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/30/books/review/early-american-quiz.html",
+      "headline": "How Much Do You Know About Early American Literature?",
+      "image": "https://static01.nyt.com/images/2025/06/30/books/review/00TBR-Quiz-AmericanLit/00TBR-Quiz-AmericanLit-articleLarge.png",
+      "timestamp": "2025-06-30T14:16:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
