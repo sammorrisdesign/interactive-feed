@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-06-29T16:45:41.673Z",
+  "lastUpdated": "2025-06-30T04:53:15.332Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/30/upshot/senate-republican-megabill.html",
+      "headline": "A List of Nearly Everything in the Senate G.O.P. Bill, and How Much It Would Cost or Save",
+      "image": "https://static01.nyt.com/images/2025/06/30/multimedia/2025-06-29-bbb-list-senate-index/2025-06-29-bbb-list-senate-index-articleLarge.png",
+      "timestamp": "2025-06-30T04:13:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
