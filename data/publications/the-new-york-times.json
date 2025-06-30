@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-06-30T04:53:15.332Z",
+  "lastUpdated": "2025-06-30T09:20:29.942Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/30/climate/china-clean-energy-power.html",
+      "headline": "There’s a Race to Power the Future. China Is Pulling Away.",
+      "image": "https://static01.nyt.com/images/2025/06/29/climate/00cli-ch-us-static/00cli-ch-us-static-articleLarge.jpg",
+      "timestamp": "2025-06-30T09:02:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/30/opinion/hhs-cuts-harming-american-health.html",
+      "headline": "How to Wreck the Nation’s Health, by the Numbers",
+      "image": "https://static01.nyt.com/images/2025/06/30/opinion/30woolf-image/30woolf-image-articleLarge.jpg",
+      "timestamp": "2025-06-30T09:02:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/30/science/math-strogatz-calculus-bowling.html",
+      "headline": "How a Puzzle About Fractions Got Brain Scans Rolling",
+      "image": "https://static01.nyt.com/images/2025/07/01/multimedia/triangular-numbers-01-wlch/triangular-numbers-01-wlch-articleLarge.jpg",
+      "timestamp": "2025-06-30T09:00:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
