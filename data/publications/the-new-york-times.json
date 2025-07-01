@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-01T03:27:51.719Z",
+  "lastUpdated": "2025-07-01T15:42:39.370Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/01/us/senate-megabill-vote.html",
+      "headline": "Live Count: The Senate Votes on the G.O.P. Megabill",
+      "image": "https://static01.nyt.com/images/2025/06/23/us/senate-megabill-vote-1751226857670/senate-megabill-vote-1751226857670-articleLarge.jpg",
+      "timestamp": "2025-07-01T15:40:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
