@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-01T15:42:39.370Z",
+  "lastUpdated": "2025-07-01T18:23:28.114Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/01/arts/television/stand-up-comedy-cliche-tv-movies.html",
+      "headline": "Anatomy of a Comedy Cliché",
+      "image": "https://static01.nyt.com/images/2025/06/30/arts/comedy-cliche-static/comedy-cliche-static-articleLarge.jpg",
+      "timestamp": "2025-07-01T17:49:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
