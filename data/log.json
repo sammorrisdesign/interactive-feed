@@ -43,5 +43,15 @@
     "timestamp": "2025-07-01T04:55:09.488Z",
     "publication": "Kontinentalist",
     "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-07-01T07:18:01.546Z",
+    "publication": "de Volkskrant",
+    "error": "Error: Upstream service unreachable\n    at BskyAgent.call (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/xrpc-client.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:291:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-07-01T07:18:01.547Z",
+    "publication": "de Volkskrant",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
   }
 ]
