@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-01T18:49:14.069Z",
+  "lastUpdated": "2025-07-01T23:16:15.224Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/jul/02/nsw-weather-flood-map-rain-sydney-north-south-coast-storms",
+      "headline": "NSW weather map: which parts of state are being hit by flood and rain – and what areas are at flooding risk?",
+      "image": "https://i.guim.co.uk/img/media/503fa1d347983b0ddaae9cfee3d432d3ce65c9f6/6_0_845_676/master/845.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8cbac98115e87caf22d2af831c357aa8",
+      "timestamp": "2025-07-01T23:12:14.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
