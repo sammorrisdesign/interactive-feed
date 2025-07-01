@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-06-30T16:48:54.619Z",
+  "lastUpdated": "2025-07-01T03:27:51.719Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/30/us/quake-northern-california-tracker.html",
+      "headline": "Map: 3.6-Magnitude Earthquake Strikes Northern California",
+      "image": "https://static01.nyt.com/images/2025/07/01/world/30wea-quake-tracker-northern-california-nyt66vwu-index/30wea-quake-tracker-northern-california-nyt66vwu-index-articleLarge-v16.jpg",
+      "timestamp": "2025-07-01T01:51:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/06/30/arts/cezanne-bibemus-quarry.html",
+      "headline": "Finding the Key to Cézanne, the First Painter I Ever Loved",
+      "image": "https://static01.nyt.com/images/2025/07/01/arts/cezanne-promo/cezanne-promo-articleLarge-v3.jpg",
+      "timestamp": "2025-07-01T01:41:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
