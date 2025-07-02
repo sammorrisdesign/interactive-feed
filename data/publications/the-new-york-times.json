@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-02T09:20:11.623Z",
+  "lastUpdated": "2025-07-02T18:50:13.242Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/movies/readers-movies-21st-century.html",
+      "headline": "The Best Movies of the 21st Century: Readers Choose Their Top Movies",
+      "image": "https://static01.nyt.com/images/2025/06/30/arts/readers-top-100/readers-top-100-articleLarge.jpg",
+      "timestamp": "2025-07-02T18:27:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
