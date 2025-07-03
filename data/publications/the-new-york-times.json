@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-07-03T03:07:05.881Z",
+  "lastUpdated": "2025-07-03T09:19:14.656Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/03/travel/things-to-do-east-end.html",
+      "headline": "36 Hours on Long Island’s East End",
+      "image": "https://static01.nyt.com/images/2025/07/03/multimedia/03trav-things-to-do-cglw/03trav-things-to-do-cglw-articleLarge-v3.jpg",
+      "timestamp": "2025-07-03T09:01:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/03/realestate/westchester-scarsdale-hastings-hawthorne-homes.html",
+      "headline": "From City Renters to Westchester Buyers, A Young Family Looked for Space to Grow",
+      "image": "https://static01.nyt.com/images/2025/07/03/multimedia/03re-Hunt-Sokol-04-mwlh/03re-Hunt-Sokol-04-mwlh-articleLarge-v2.jpg",
+      "timestamp": "2025-07-03T09:01:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
