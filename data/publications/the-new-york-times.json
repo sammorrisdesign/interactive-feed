@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-02T18:50:13.242Z",
+  "lastUpdated": "2025-07-03T03:07:05.881Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/02/us/politics/abrego-garcia-prison-filing.html",
+      "headline": "Read Abrego Garcia’s Court Filing",
+      "image": "https://static01.nyt.com/images/2025/07/03/doc-9fe7c600-ee91-475f-9618-0-promo/doc-9fe7c600-ee91-475f-9618-0-promo-articleLarge.png",
+      "timestamp": "2025-07-03T02:19:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
