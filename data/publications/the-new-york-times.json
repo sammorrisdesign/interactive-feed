@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-03T19:13:28.499Z",
+  "lastUpdated": "2025-07-03T19:37:14.129Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/03/us/mayors-trump-housing-immigration-republican-democrat.html",
+      "headline": "What’s It Like to Run a U.S. City Now? Watch What 16 Mayors Said.",
+      "image": "https://static01.nyt.com/images/2025/07/01/us/mayors-grid-promo/mayors-grid-promo-articleLarge-v2.jpg",
+      "timestamp": "2025-07-03T19:23:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
