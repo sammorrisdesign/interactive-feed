@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-03T09:19:14.656Z",
+  "lastUpdated": "2025-07-03T09:44:03.024Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/03/business/economy/healthcare-jobs.html",
+      "headline": "How Health Care Remade the U.S. Economy",
+      "image": "https://static01.nyt.com/images/2025/07/02/multimedia/2025-06-25-healthcare-index/2025-06-25-healthcare-index-articleLarge-v2.png",
+      "timestamp": "2025-07-03T09:26:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
