@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-03T15:42:19.646Z",
+  "lastUpdated": "2025-07-03T17:42:32.823Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/03/us/house-megabill-vote.html",
+      "headline": "Live Count: The House Votes on the President’s Policy Bill",
+      "image": "https://static01.nyt.com/images/2025/07/01/us/house-megabill-vote-1751471536517/house-megabill-vote-1751471536517-articleLarge-v3.jpg",
+      "timestamp": "2025-07-03T17:38:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
