@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-03T15:18:07.455Z",
+  "lastUpdated": "2025-07-03T15:42:19.646Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/03/world/middleeast/syria-mass-grave-assad-regime.html",
+      "headline": "How Syria’s Dictator Buried His Victims",
+      "image": "https://static01.nyt.com/images/2025/07/03/multimedia/2025-04-10-syria-mass-graves-index/2025-04-10-syria-mass-graves-index-articleLarge.jpg",
+      "timestamp": "2025-07-03T15:39:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
