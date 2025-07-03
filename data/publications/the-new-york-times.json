@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-07-03T17:42:32.823Z",
+  "lastUpdated": "2025-07-03T19:13:28.499Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/business/trump-tax-bill-personal-finances.html",
+      "headline": "How Will Trump’s Big Bill Affect Your Wallet?",
+      "image": "https://static01.nyt.com/images/2025/07/02/multimedia/2025-06-06-bbb-questions-index/2025-06-06-bbb-questions-index-articleLarge-v2.jpg",
+      "timestamp": "2025-07-03T19:02:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/03/opinion/domestic-policy-bill-in-charts.html",
+      "headline": "How Bad Is This Bill? The Answer in 10 Charts",
+      "image": "https://static01.nyt.com/images/2025/07/03/opinion/03rattner-image/03rattner-image-articleLarge.jpg",
+      "timestamp": "2025-07-03T18:52:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
