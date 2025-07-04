@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-30T04:07:00.788Z",
+  "lastUpdated": "2025-07-04T04:02:01.218Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aus-dem-orbit/der-flugzeugfriedhof-von-teheran-hier-verfallen-irans-alte-maschinen-ld.1891607",
+      "headline": "Der Flugzeugfriedhof von Teheran: Hier verfallen Irans alte Maschinen",
+      "image": "https://img.nzz.ch/2025/07/03/82479d5e-ee9e-4588-9a67-82d9d08ad6ea.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2000,1125,x0,y199&wmark=nzz",
+      "timestamp": "2025-07-04T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
