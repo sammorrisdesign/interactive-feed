@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-03T21:15:22.865Z",
+  "lastUpdated": "2025-07-04T09:18:39.876Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/04/magazine/dog-bed-eating-hodgman-quiz.html",
+      "headline": "Should Your Dog Eat in Your Bed?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-07-04T09:02:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
