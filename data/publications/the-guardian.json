@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-01T23:16:15.224Z",
+  "lastUpdated": "2025-07-05T05:16:37.446Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jul/05/trump-attack-us-media",
+      "headline": "Trump is waging war against the media - and winning",
+      "image": "https://i.guim.co.uk/img/media/61cfb5291708ce6ccb65f5468d9c4dddbe073849/0_0_5000_3999/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b96420b3e6442991b12738e237fe0667",
+      "timestamp": "2025-07-05T05:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
