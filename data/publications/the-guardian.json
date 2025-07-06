@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-06T05:16:56.884Z",
+  "lastUpdated": "2025-07-06T13:25:50.270Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jul/06/destruction-of-palestine-is-breaking-the-world",
+      "headline": "The destruction of Palestine is breaking the world",
+      "image": "https://i.guim.co.uk/img/media/46f41a23fd6940b0df7faeb507f634921fe2615d/1_0_1528_1223/master/1528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c522a4d484ec29b7ffe43b2a06e012fb",
+      "timestamp": "2025-07-06T13:00:39.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
