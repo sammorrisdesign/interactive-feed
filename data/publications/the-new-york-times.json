@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-06T13:44:01.349Z",
+  "lastUpdated": "2025-07-06T21:38:31.885Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/06/upshot/ten-minute-challenge-archer.html",
+      "headline": "10-Minute Challenge: An Archery Contest in Ancient India",
+      "image": "https://static01.nyt.com/images/2025/07/07/upshot/up-arjuna-full/up-arjuna-full-articleLarge.jpg",
+      "timestamp": "2025-07-06T21:17:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
