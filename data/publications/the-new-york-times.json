@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-07T09:20:37.689Z",
+  "lastUpdated": "2025-07-07T15:18:00.867Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/07/books/review/snarky-book-quotes.html",
+      "headline": "Can You Match These Snarky Lines to Their Books?",
+      "image": "https://static01.nyt.com/images/2025/07/03/books/review/00TBR-Quiz-SnarkyQuotes/00TBR-Quiz-SnarkyQuotes-articleLarge.png",
+      "timestamp": "2025-07-07T15:11:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
