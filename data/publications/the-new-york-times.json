@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-07T15:18:00.867Z",
+  "lastUpdated": "2025-07-07T18:24:21.363Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/07/us/texas-flooding-map-guadalupe-river.html",
+      "headline": "See How Fast the Floodwaters Rose Along the Guadalupe River",
+      "image": "https://static01.nyt.com/images/2025/07/07/multimedia/2025-07-07-texas-flood-animation-index/2025-07-07-texas-flood-animation-index-articleLarge-v2.jpg",
+      "timestamp": "2025-07-07T18:04:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
