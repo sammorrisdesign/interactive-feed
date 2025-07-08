@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-07T11:15:04.475Z",
+  "lastUpdated": "2025-07-08T13:32:19.500Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2025/jul/02/best-paperbacks-july-2025",
+      "headline": "This month’s best paperbacks: Deborah Levy, David Nicholls and more",
+      "image": "https://i.guim.co.uk/img/media/96009c004ab140326060ae91c65ee4d524eb564a/625_0_3749_3000/master/3749.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a090fa6eef99e8c6699f580d7526e486",
+      "timestamp": "2025-07-02T16:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
