@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-04T04:02:01.218Z",
+  "lastUpdated": "2025-07-08T04:03:08.653Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/sturzflut-in-texas-chronologie-einer-flutkatastrophe-ld.1892460",
+      "headline": "Sturzflut in Texas: Chronologie einer Flutkatastrophe",
+      "image": "https://img.nzz.ch/2025/07/07/b2498870-adde-46e2-bd65-544de7b607e9.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3279,1844,x0,y171&wmark=nzz",
+      "timestamp": "2025-07-08T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
