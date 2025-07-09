@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-08T22:43:07.860Z",
+  "lastUpdated": "2025-07-09T16:20:30.612Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/09/us/texas-floods-victims.html",
+      "headline": "The Lives Lost to the Texas Floods",
+      "image": "https://static01.nyt.com/images/2025/07/09/us/texas-flood-victim-promo/texas-flood-victim-promo-articleLarge.jpg",
+      "timestamp": "2025-07-09T15:52:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
