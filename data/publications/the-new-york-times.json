@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-07-10T03:08:58.806Z",
+  "lastUpdated": "2025-07-10T09:20:13.968Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/10/realestate/northern-virginia-washington-dc-homes.html",
+      "headline": "After Years in the D.C. Suburbs, She Wanted ‘Total Privacy’ in the Virginia Mountains",
+      "image": "https://static01.nyt.com/images/2025/07/10/multimedia/10re-HUNT-LARKIN-vhgf/10re-HUNT-LARKIN-vhgf-articleLarge-v4.jpg",
+      "timestamp": "2025-07-10T09:02:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/10/travel/things-to-do-brussels.html",
+      "headline": "36 Hours in Brussels",
+      "image": "https://static01.nyt.com/images/2025/07/10/multimedia/10TRAV-hours-brussels-zbgc/10TRAV-hours-brussels-zbgc-articleLarge-v2.jpg",
+      "timestamp": "2025-07-10T09:00:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
