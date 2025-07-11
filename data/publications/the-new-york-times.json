@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-11T18:24:07.208Z",
+  "lastUpdated": "2025-07-11T21:39:27.882Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/10/opinion/car-driving-desert-hot.html",
+      "headline": "Finding Beauty in My Sun-Baked Car",
+      "image": "https://static01.nyt.com/images/2025/07/10/opinion/13beauty-jillette-promo-square-image/13beauty-jillette-promo-square-image-articleLarge.jpg",
+      "timestamp": "2025-07-11T21:18:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
