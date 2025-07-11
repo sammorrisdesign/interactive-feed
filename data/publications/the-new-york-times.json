@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-11T21:39:27.882Z",
+  "lastUpdated": "2025-07-11T23:16:57.865Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/11/us/air-india-crash-report.html",
+      "headline": "Read the Air India Crash Report",
+      "image": "https://static01.nyt.com/images/2025/07/11/doc-919ff800-0cb7-4da8-baaf-e-promo/doc-919ff800-0cb7-4da8-baaf-e-promo-articleLarge.png",
+      "timestamp": "2025-07-11T22:52:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
