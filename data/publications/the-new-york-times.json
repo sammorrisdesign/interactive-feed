@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-07-11T17:42:41.129Z",
+  "lastUpdated": "2025-07-11T18:24:07.208Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/11/us/politics/trump-administration-multiple-jobs.html",
+      "headline": "A Half Dozen Trump Officials Hold More Than One Big Job",
+      "image": "https://static01.nyt.com/images/2025/07/11/multimedia/2025-07-10-trump-admin-multiple-jobs-index/2025-07-10-trump-admin-multiple-jobs-index-articleLarge-v3.jpg",
+      "timestamp": "2025-07-11T18:17:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/11/books/what-to-read-hilderbrand-summer-books-quiz.html",
+      "headline": "Answer 4 Questions. Leave With Your Next Elin Hilderbrand Beach Read.",
+      "image": "https://static01.nyt.com/images/2025/07/11/books/hilderbrand-bookmatch-promo/hilderbrand-bookmatch-promo-articleLarge.jpg",
+      "timestamp": "2025-07-11T17:58:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
