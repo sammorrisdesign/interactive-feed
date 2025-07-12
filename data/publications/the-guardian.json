@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-10T16:21:50.937Z",
+  "lastUpdated": "2025-07-12T05:17:44.607Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/jul/12/is-the-british-left-making-a-comeback-uk-politics",
+      "headline": "Signs of new life: is the British left making a comeback?",
+      "image": "https://i.guim.co.uk/img/media/f1580e73a25ea747e719fd78881d0c201790e97d/0_0_4000_3199/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f6067c784b0d1e48fae38670dc3b4507",
+      "timestamp": "2025-07-12T05:00:01.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
