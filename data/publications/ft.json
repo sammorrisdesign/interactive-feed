@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-09T16:20:30.574Z",
+  "lastUpdated": "2025-07-13T23:17:17.466Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/77573339-f8bf-4082-ada2-7eb10180840e",
+      "headline": "UK sea level rising faster than global average, study finds",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Ffdd03203-ca24-4c3d-8ff1-f7fb72ae2b3a.jpg?source=next-barrier-page",
+      "timestamp": "2025-07-13T23:01:02.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
