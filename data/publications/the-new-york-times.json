@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-12T11:14:36.552Z",
+  "lastUpdated": "2025-07-13T09:18:23.802Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/13/us/2025-06-06-int-science-reaction-index.html",
+      "headline": "How Trump’s crackdown on universities is affecting the world",
+      "image": "https://static01.nyt.com/images/2025/06/30/multimedia/2025-06-06-int-science-reaction-index/2025-06-06-int-science-reaction-index-articleLarge-v3.jpg",
+      "timestamp": "2025-07-13T09:01:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
