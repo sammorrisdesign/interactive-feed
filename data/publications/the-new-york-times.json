@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-13T09:18:23.802Z",
+  "lastUpdated": "2025-07-13T19:37:00.259Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/13/weather/nari-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Nari",
+      "image": "https://static01.nyt.com/images/2025/07/11/weather/six-map-path-tracker-index/six-map-path-tracker-index-articleLarge-v16.jpg",
+      "timestamp": "2025-07-13T19:32:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
