@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-14T09:25:46.259Z",
+  "lastUpdated": "2025-07-14T14:46:42.180Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/14/books/review/french-book-movies.html",
+      "headline": "Do You Know These French Books Adapted for Stage and Screen?",
+      "image": "https://static01.nyt.com/images/2025/07/14/books/review/14TBRQuiz-FRANCE/14TBRQuiz-FRANCE-articleLarge.jpg",
+      "timestamp": "2025-07-14T14:30:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
