@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-14T14:46:42.180Z",
+  "lastUpdated": "2025-07-14T16:22:33.673Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/14/style/vogue-quiz-90s.html",
+      "headline": "Could You Have Landed a Job at Vogue in the ’90s?",
+      "image": "https://static01.nyt.com/images/2025/07/14/fashion/anna-still/anna-still-articleLarge.jpg",
+      "timestamp": "2025-07-14T16:22:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
