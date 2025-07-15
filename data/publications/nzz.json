@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-11T04:10:48.792Z",
+  "lastUpdated": "2025-07-15T06:55:13.820Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/china-baut-taipehs-regierungsviertel-in-wueste-nach-ld.1825558",
+      "headline": "Chinas Nachbau von Taipeh bleibt bestehen – aber verlassen",
+      "image": "https://img.nzz.ch/2024/04/09/d8e5b02f-c316-4540-b4d7-b0de328a3f00.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5120,2880,x0,y615&wmark=nzz",
+      "timestamp": "2025-07-15T06:45:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
