@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-07-14T16:22:33.673Z",
+  "lastUpdated": "2025-07-15T20:20:08.301Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/15/us/elections/results-washington-dc-city-council-ward-8-special.html",
+      "headline": "Washington, D.C. City Council Ward 8 Special Election Results",
+      "image": "https://static01.nyt.com/images/2025/07/15/multimedia/eln-PRE-2025-07-15-state-dc-37d00d/eln-PRE-2025-07-15-state-dc-37d00d-articleLarge.jpg",
+      "timestamp": "2025-07-15T20:05:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/15/us/elections/results-arizona-us-house-7-special.html",
+      "headline": "Arizona Seventh Congressional District Special Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/07/15/multimedia/eln-PRE-2025-07-15-race-az-us-h-7-sp-04fa9f/eln-PRE-2025-07-15-race-az-us-h-7-sp-04fa9f-articleLarge.jpg",
+      "timestamp": "2025-07-15T20:05:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
