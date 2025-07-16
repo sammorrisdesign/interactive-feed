@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-16T18:25:23.551Z",
+  "lastUpdated": "2025-07-16T21:17:10.332Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/16/weather/alaska-earthquake-tsunami.html",
+      "headline": "Tsunami Warning Issued for Parts of Alaska Coast",
+      "image": "https://static01.nyt.com/images/2025/07/16/world/tsunami-tracker-nytsmeizs-index/tsunami-tracker-nytsmeizs-index-articleLarge.png",
+      "timestamp": "2025-07-16T21:08:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
