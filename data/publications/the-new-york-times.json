@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-16T14:45:53.758Z",
+  "lastUpdated": "2025-07-16T18:25:23.551Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/16/weather/flash-floods.html",
+      "headline": "There’s a Flash Flood Season, and This Is It",
+      "image": "https://static01.nyt.com/images/2025/07/13/multimedia/2025-07-09-total-rainfall-story/2025-07-09-total-rainfall-story-articleLarge-v4.jpg",
+      "timestamp": "2025-07-16T17:49:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
