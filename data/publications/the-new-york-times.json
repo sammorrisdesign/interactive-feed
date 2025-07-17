@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-17T09:21:37.223Z",
+  "lastUpdated": "2025-07-17T20:19:46.344Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/17/us/trump-doctor-letter.html",
+      "headline": "Read the Letter From President Trump’s Doctor",
+      "image": "https://static01.nyt.com/images/2025/07/17/doc-0a2261e2-fa92-4cf1-8d90-f-promo/doc-0a2261e2-fa92-4cf1-8d90-f-promo-articleLarge.png",
+      "timestamp": "2025-07-17T20:13:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
