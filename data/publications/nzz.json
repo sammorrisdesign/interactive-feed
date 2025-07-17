@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-15T06:55:13.820Z",
+  "lastUpdated": "2025-07-17T04:11:00.298Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aus-dem-orbit/rauchschwaden-ueber-syrien-wer-steckt-hinter-den-waldbraenden-im-norden-ld.1893876",
+      "headline": "Rauchschwaden über Syrien: Wer steckt hinter den Waldbränden im Norden?",
+      "image": "https://img.nzz.ch/2025/07/16/04960940-aec0-43a9-89de-172abe67f164.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1709,961,x0,y182&wmark=nzz",
+      "timestamp": "2025-07-17T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
