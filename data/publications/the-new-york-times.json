@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-16T21:17:10.332Z",
+  "lastUpdated": "2025-07-17T07:19:37.988Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/17/us/senate-rescissions-vote.html",
+      "headline": "How Every Senator Voted on Bid to Cancel Foreign Aid and Public Media Funding",
+      "image": "https://static01.nyt.com/images/2025/07/14/us/politics/senate-rescissions-vote-1752712127673/senate-rescissions-vote-1752712127673-articleLarge.jpg",
+      "timestamp": "2025-07-17T07:15:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
