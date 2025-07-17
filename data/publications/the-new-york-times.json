@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-07-17T07:19:37.988Z",
+  "lastUpdated": "2025-07-17T09:21:37.223Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/17/us/politics/trump-epstein-files-maga.html",
+      "headline": "What Are Trump and His Supporters Saying About the Epstein Case?",
+      "image": "https://static01.nyt.com/images/2025/07/16/multimedia/2025-07-16-epstein-reactions-index/2025-07-16-epstein-reactions-index-articleLarge-v5.jpg",
+      "timestamp": "2025-07-17T09:03:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/17/realestate/connecticut-home-sale-prices.html",
+      "headline": "Finding a Gem in the Woods of Central Connecticut",
+      "image": "https://static01.nyt.com/images/2025/07/17/multimedia/17re-Hunt-Barua-01-bztm/17re-Hunt-Barua-01-bztm-articleLarge.jpg",
+      "timestamp": "2025-07-17T09:03:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/17/travel/things-to-do-key-west.html",
+      "headline": "36 Hours in Key West",
+      "image": "https://static01.nyt.com/images/2025/07/17/multimedia/17hours-key-west-ckjz/17hours-key-west-ckjz-articleLarge-v2.jpg",
+      "timestamp": "2025-07-17T09:02:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/well/death-dying-burials-planning-end-of-life-care.html",
+      "headline": "Questions About Death? Get Answers Here.",
+      "image": "https://static01.nyt.com/images/2025/06/30/multimedia/00death-faq-promo/00death-faq-04-articleLarge.jpg",
+      "timestamp": "2025-07-17T09:00:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
