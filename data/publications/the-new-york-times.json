@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-18T19:38:25.107Z",
+  "lastUpdated": "2025-07-18T21:17:00.797Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/18/opinion/walmart-shopping-beauty.html",
+      "headline": "Finding Beauty in Maximum Discount",
+      "image": "https://static01.nyt.com/images/2025/07/20/opinion/00beauty-walmart-gursky/00beauty-walmart-gursky-articleLarge.jpg",
+      "timestamp": "2025-07-18T21:05:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
