@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-18T21:40:28.259Z",
+  "lastUpdated": "2025-07-20T06:24:21.644Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/20/world/wipha-map-path-tracker.html",
+      "headline": "Tracking Typhoon Wipha",
+      "image": "https://static01.nyt.com/images/2025/07/18/world/wipha-map-path-tracker-index/wipha-map-path-tracker-index-articleLarge-v8.jpg",
+      "timestamp": "2025-07-20T06:18:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
