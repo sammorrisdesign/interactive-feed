@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-20T05:22:51.223Z",
+  "lastUpdated": "2025-07-20T13:28:22.214Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jul/20/oklahoma-united-states",
+      "headline": "If you don’t understand Oklahoma, you can’t understand America",
+      "image": "https://i.guim.co.uk/img/media/a5e4d3d96e9886116cf176fd3004ab8ea29dbdc5/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4937580fca3a1f5b5f90dc558a65d813",
+      "timestamp": "2025-07-20T13:00:52.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
