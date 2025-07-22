@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-21T15:19:14.344Z",
+  "lastUpdated": "2025-07-22T09:22:43.403Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/22/travel/wildlife-quiz-travel.html",
+      "headline": "How Fast Can a 2,000-Pound Bison Chase You? Take This Wildlife Quiz.",
+      "image": "https://static01.nyt.com/images/2025/07/17/multimedia/trav-wildlife-quiz-fvqp/trav-wildlife-quiz-fvqp-articleLarge.jpg",
+      "timestamp": "2025-07-22T09:02:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
