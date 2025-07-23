@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-22T09:22:43.403Z",
+  "lastUpdated": "2025-07-23T09:23:57.108Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/23/science/23xp-bugquiz.html",
+      "headline": "What’s That Splatter on Your Windshield?",
+      "image": "https://static01.nyt.com/images/2025/07/21/multimedia/00xp-bugs-01/00xp-bugs-01-articleLarge.jpg",
+      "timestamp": "2025-07-23T09:01:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
