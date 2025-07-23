@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-20T13:28:22.214Z",
+  "lastUpdated": "2025-07-23T11:16:04.735Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/jul/23/trump-ice-data-deportations-detention",
+      "headline": "Revealed: Trump has supercharged the US’s immigration crackdown",
+      "image": "https://i.guim.co.uk/img/media/fa8a22654cbec0db5072e14d9247a184059ef5f5/240_0_2366_1892/master/2366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=731313fb25717afb1bbe7917bf2aaa4e",
+      "timestamp": "2025-07-23T11:00:50.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
