@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-16T04:11:15.343Z",
+  "lastUpdated": "2025-07-23T05:32:38.086Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1deb6fad-b762-4f6b-8cd1-e0eb1522916e",
+      "headline": "How we made it: UK river flows record lows",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc94f4317-d651-4bec-9e9a-b7ba5224867d.jpg?source=next-barrier-page",
+      "timestamp": "2025-07-23T05:00:00.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
