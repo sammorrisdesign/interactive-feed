@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-23T14:19:38.295Z",
+  "lastUpdated": "2025-07-23T18:26:01.718Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/23/books/jane-kenyon-the-pond-at-dusk-poem.html",
+      "headline": "I Want This Poem Read Aloud at My Funeral",
+      "image": "https://static01.nyt.com/images/2025/07/21/books/pondatdusk_final_illo/pondatdusk_final_illo-articleLarge.jpg",
+      "timestamp": "2025-07-23T18:20:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
