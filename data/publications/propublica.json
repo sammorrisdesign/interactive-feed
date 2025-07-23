@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-06-12T11:38:26.125Z",
+  "lastUpdated": "2025-07-23T17:46:19.009Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/venezuelan-immigrants-trump-deported-cecot/es/",
+      "headline": "Los hombres que Trump deportó a una cárcel salvadoreña",
+      "image": "https://static.propublica.org/projects/238-assets/238-DB_OG_Image.png",
+      "timestamp": null
+    },
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/venezuelan-immigrants-trump-deported-cecot/",
+      "headline": "The Men Trump Deported to a Salvadoran Prison",
+      "image": "https://static.propublica.org/projects/238-assets/238-DB_OG_Image.png",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
