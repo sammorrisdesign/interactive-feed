@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-23T18:26:01.718Z",
+  "lastUpdated": "2025-07-23T20:19:57.816Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/23/world/europe/23int-macron-defemation-suit.html",
+      "headline": "Read the French President’s Lawsuit",
+      "image": "https://static01.nyt.com/images/2025/07/23/doc-complaint89-promo/doc-complaint89-promo-articleLarge-v2.png",
+      "timestamp": "2025-07-23T19:51:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
