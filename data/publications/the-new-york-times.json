@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-23T20:19:57.816Z",
+  "lastUpdated": "2025-07-24T03:15:27.181Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/23/world/asia/starlink-spacex-musk-china-satellites.html",
+      "headline": "This Was Supposed to Be the Year China Started Catching Up With SpaceX",
+      "image": "https://static01.nyt.com/images/2025/07/21/multimedia/2025-07-15-china-space-index/2025-07-15-china-space-index-articleLarge-v5.jpg",
+      "timestamp": "2025-07-24T02:25:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
