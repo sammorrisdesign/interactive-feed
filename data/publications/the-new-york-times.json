@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-24T14:19:45.050Z",
+  "lastUpdated": "2025-07-24T16:20:33.513Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/24/nyregion/columbia-trump-deal.html",
+      "headline": "Read the Agreement Between Columbia and the Trump Administration",
+      "image": "https://static01.nyt.com/images/2025/07/24/doc-columbia-university-resol-promo/doc-columbia-university-resol-promo-articleLarge.png",
+      "timestamp": "2025-07-24T15:47:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
