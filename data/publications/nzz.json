@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-17T04:11:00.298Z",
+  "lastUpdated": "2025-07-24T04:12:47.209Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/kim-jong-ale-wie-eine-englische-brauerei-unter-einem-roten-stern-wiedergeboren-wurde-ld.1860456",
+      "headline": "Kim-Jong-Ale: Wie eine englische Brauerei unter einem roten Stern wiedergeboren wurde",
+      "image": "https://img.nzz.ch/2025/06/16/c41273de-dcc4-4bf0-ace6-3367a6b3ced3.jpeg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2011,1131,x273,y270&wmark=nzz",
+      "timestamp": "2025-07-24T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
