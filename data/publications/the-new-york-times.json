@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-07-24T03:15:27.181Z",
+  "lastUpdated": "2025-07-24T09:22:27.060Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/24/realestate/normandy-france-homes-for-sale.html",
+      "headline": "Two Americans Made Their Dreams Come True in Normandy, France",
+      "image": "https://static01.nyt.com/images/2025/07/24/realestate/24-Hunt-Normandy-PORTRAIT/24-Hunt-Normandy-PORTRAIT-articleLarge.jpg",
+      "timestamp": "2025-07-24T09:02:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/24/opinion/minority-voters-trump-right.html",
+      "headline": "Obama Won Record Numbers of Nonwhite Voters. This Is How the Democrats Lost Them.",
+      "image": "https://static01.nyt.com/images/2025/07/24/opinion/24multiracial/24multiracial-articleLarge-v3.jpg",
+      "timestamp": "2025-07-24T09:01:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/24/travel/things-to-do-reykjavik.html",
+      "headline": "36 Hours in Reykjavik",
+      "image": "https://static01.nyt.com/images/2025/07/24/multimedia/36-hours-reykjavik-kbjg/36-hours-reykjavik-kbjg-articleLarge-v6.jpg",
+      "timestamp": "2025-07-24T09:01:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
