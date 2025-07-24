@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-24T16:20:33.513Z",
+  "lastUpdated": "2025-07-24T18:53:52.251Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/24/business/economy/trump-powell-fed-timeline.html",
+      "headline": "How Trump’s Attacks on the Fed Chair Have Intensified",
+      "image": "https://static01.nyt.com/images/2025/07/24/multimedia/2025-07-16-trump-powell-timeline-index/2025-07-16-trump-powell-timeline-index-articleLarge-v7.png",
+      "timestamp": "2025-07-24T18:47:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
