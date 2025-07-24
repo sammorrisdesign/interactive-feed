@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-24T20:18:34.035Z",
+  "lastUpdated": "2025-07-24T21:17:41.243Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/24/nyregion/govuscourtsnyed53420710.html",
+      "headline": "Read the Trump Administration’s Suit Against New York",
+      "image": "https://static01.nyt.com/images/2025/07/24/doc-govuscourtsnyed53420710-promo/doc-govuscourtsnyed53420710-promo-articleLarge.png",
+      "timestamp": "2025-07-24T21:07:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
