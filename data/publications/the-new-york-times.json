@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-24T11:16:09.196Z",
+  "lastUpdated": "2025-07-24T14:19:45.050Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/24/world/asia/earthquake-indonesia.html",
+      "headline": "Map: 5.6-Magnitude Earthquake Strikes Indonesia",
+      "image": "https://static01.nyt.com/images/2025/07/24/world/24wea-quake-tracker-indonesia-nyt1mcfg-index/24wea-quake-tracker-indonesia-nyt1mcfg-index-articleLarge-v3.jpg",
+      "timestamp": "2025-07-24T14:17:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
