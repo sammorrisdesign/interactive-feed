@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-28T15:20:03.194Z",
+  "lastUpdated": "2025-07-28T21:16:53.553Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/28/weather/keli-storm-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Keli",
+      "image": "https://static01.nyt.com/images/2025/07/28/weather/two-c-map-path-tracker-index/two-c-map-path-tracker-index-articleLarge-v7.jpg",
+      "timestamp": "2025-07-28T21:05:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
