@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-28T09:25:50.228Z",
+  "lastUpdated": "2025-07-28T13:37:29.986Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/28/weather/iona-storm-tracker.html",
+      "headline": "Tracking Tropical Storm Iona",
+      "image": "https://static01.nyt.com/images/2025/07/27/weather/one-c-map-path-tracker-index/one-c-map-path-tracker-index-articleLarge-v20.jpg",
+      "timestamp": "2025-07-28T13:22:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
