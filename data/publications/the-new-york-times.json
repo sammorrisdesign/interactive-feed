@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-28T14:48:55.274Z",
+  "lastUpdated": "2025-07-28T15:20:03.194Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/28/books/review/visionary-tech-books.html",
+      "headline": "Do You Know These Books That Predicted Current Technology?",
+      "image": "https://static01.nyt.com/images/2025/07/28/books/review/28TBR-Quiz-TECH/28TBR-Quiz-TECH-articleLarge.jpg",
+      "timestamp": "2025-07-28T15:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
