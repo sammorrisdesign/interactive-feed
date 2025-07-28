@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-26T09:17:30.376Z",
+  "lastUpdated": "2025-07-28T06:59:17.184Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html",
+      "headline": "What’s Going On With Trump’s Tariffs?",
+      "image": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index/2025-07-14-recip-tariff-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2025-07-28T06:57:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
