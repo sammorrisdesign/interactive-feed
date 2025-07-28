@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-24T04:12:47.209Z",
+  "lastUpdated": "2025-07-28T08:27:03.510Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/warum-strom-in-deutschland-schmutzig-und-teuer-ist-alle-zahlen-ld.1683901",
+      "headline": "Fossiler Anteil an der Stromerzeugung im Juli so hoch wie seit 2022 nicht mehr – Zahlen zur Energieversorgung, täglich aktualisiert",
+      "image": "https://img.nzz.ch/2022/05/20/738b59d8-eb99-43b5-9c0f-62a0f0283be5.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1797,1011,x4,y0&wmark=nzz",
+      "timestamp": "2025-07-28T08:22:06.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
