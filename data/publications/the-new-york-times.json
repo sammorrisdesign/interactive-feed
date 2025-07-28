@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-28T06:59:17.184Z",
+  "lastUpdated": "2025-07-28T09:25:50.228Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/28/opinion/focus-group-latino-trump-voters.html",
+      "headline": "The Economy Still Isn’t What These 11 Latino Trump Voters Had in Mind",
+      "image": "https://static01.nyt.com/images/2025/07/24/opinion/focus-group-latino-trump-voters-1753392399896/focus-group-latino-trump-voters-1753392399896-articleLarge.jpg",
+      "timestamp": "2025-07-28T09:01:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
