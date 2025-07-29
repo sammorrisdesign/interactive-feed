@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-29T09:23:05.201Z",
+  "lastUpdated": "2025-07-29T13:38:55.716Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/29/nyregion/interborough-express-tour-brooklyn-queens.html",
+      "headline": "Take a Ride on New York City’s Future Train Line",
+      "image": "https://static01.nyt.com/images/2025/07/28/multimedia/met-ibx-promo-still/met-ibx-promo-still-articleLarge-v2.jpg",
+      "timestamp": "2025-07-29T01:07:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
