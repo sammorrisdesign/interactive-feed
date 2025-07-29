@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-29T01:45:11.161Z",
+  "lastUpdated": "2025-07-29T09:23:05.201Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/29/well/move/plank-exercise-technique.html",
+      "headline": "How to Do a Perfect Plank",
+      "image": "https://static01.nyt.com/images/2025/07/28/well/PLANK-FORM-ART/PLANK-FORM-ART-articleLarge.jpg",
+      "timestamp": "2025-07-29T09:01:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
