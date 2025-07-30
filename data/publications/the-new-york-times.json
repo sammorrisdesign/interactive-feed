@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-29T18:27:45.995Z",
+  "lastUpdated": "2025-07-30T01:27:06.983Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/29/world/asia/tsunami-tracker-alaska-russia.html",
+      "headline": "Powerful 8.7-Magnitude Earthquake Off Russia’s Coast Prompts Tsunami Alerts",
+      "image": "https://static01.nyt.com/images/2025/07/29/pageoneplus/29wea-tsunami-promo2/29wea-tsunami-promo2-articleLarge.png",
+      "timestamp": "2025-07-29T23:54:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
