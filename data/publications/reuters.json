@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-07-28T01:40:23.312Z",
+  "lastUpdated": "2025-07-30T10:19:56.162Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/us/scorching-cells-2025-07-30/",
+      "headline": "Scorching cells",
+      "image": "https://www.reuters.com/resizer/v2/TF2XOYZ5BNHGVFSIULAK3MYMAQ.jpg?auth=acda74bc7a7ca32c251da423f1c071ee236ac620021ddc984d0d62ec5b8baa59&width=1200&quality=80",
+      "timestamp": "1970-01-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/us/how-reuters-collected-analyzed-prison-temperature-data-2025-07-30/",
+      "headline": "How Reuters collected and analyzed prison temperature data",
+      "image": "https://www.reuters.com/resizer/v2/2LB3T42PHZHKZEEACPHF7DR4WM.jpg?auth=886a2f3eb1576b57fc60f3c920f14397e6d855fa27708f99d0c1f9ac3f2a2d4f&width=1200&quality=80",
+      "timestamp": "1970-01-01T00:00:00.000Z"
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",
