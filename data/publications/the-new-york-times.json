@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-30T01:27:06.983Z",
+  "lastUpdated": "2025-07-30T22:45:33.851Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/30/us/politics/texas-gerrymandering-map-redistricting.html",
+      "headline": "How Texas Republicans Want to Flip These Democratic Urban Districts",
+      "image": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-17-texas-redistricting-index/2025-07-17-texas-redistricting-index-articleLarge-v9.png",
+      "timestamp": "2025-07-30T22:38:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
