@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-31T09:24:16.769Z",
+  "lastUpdated": "2025-07-31T16:22:37.014Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/31/weather/gil-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Gil",
+      "image": "https://static01.nyt.com/images/2025/07/31/weather/gil-map-path-tracker-index/gil-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2025-07-31T15:50:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
