@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-07-30T22:45:33.851Z",
+  "lastUpdated": "2025-07-31T09:24:16.769Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/31/realestate/manhattan-east-side-apartments-sale.html",
+      "headline": "A First-Time Buyer Explored Manhattan’s East Side With $700,000",
+      "image": "https://static01.nyt.com/images/2025/07/31/multimedia/31re-Hunt-Vaseer-zqvl/31re-Hunt-Vaseer-zqvl-articleLarge-v3.jpg",
+      "timestamp": "2025-07-31T09:02:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/31/travel/things-to-do-nantucket.html",
+      "headline": "36 Hours in Nantucket",
+      "image": "https://static01.nyt.com/images/2025/07/31/multimedia/31trav-hours-nantucket-promo-fmlg/31trav-hours-nantucket-promo-fmlg-articleLarge.jpg",
+      "timestamp": "2025-07-31T09:01:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/31/us/ice-deportation-hub-alexandria-louisiana.html",
+      "headline": "How Louisiana Built Trump’s Busiest Deportation Hub",
+      "image": "https://static01.nyt.com/images/2025/07/28/multimedia/2025-06-10-louisiana-ice-flights-index/2025-06-10-louisiana-ice-flights-index-articleLarge-v3.jpg",
+      "timestamp": "2025-07-31T09:00:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
