@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-07-31T16:22:37.014Z",
+  "lastUpdated": "2025-07-31T17:18:46.835Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/31/espanol/sur-de-california-terremoto-la-muscoy.html",
+      "headline": "Mapa: un terremoto de magnitud 4,3 sacude el sur de California",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-07-31T17:16:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/07/31/world/southern-california-earthquake-LA-muscoy.html",
+      "headline": "Map: 4.3-Magnitude Earthquake Strikes Southern California",
+      "image": "https://static01.nyt.com/images/2025/07/31/world/31wea-quake-tracker-southern-california-nytaqixk-index/31wea-quake-tracker-southern-california-nytaqixk-index-articleLarge-v10.jpg",
+      "timestamp": "2025-07-31T17:02:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
