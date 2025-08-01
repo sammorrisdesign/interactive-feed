@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-07-31T17:18:46.835Z",
+  "lastUpdated": "2025-08-01T09:47:57.511Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/01/world/middleeast/gaza-hunger-aid-sites-deaths-israel.html",
+      "headline": "How Did Hunger Get So Much Worse in Gaza?",
+      "image": "https://static01.nyt.com/images/2025/07/31/multimedia/2025-07-22-gaza-aid-sites-deaths-index/2025-07-22-gaza-aid-sites-deaths-index-articleLarge-v6.png",
+      "timestamp": "2025-08-01T09:45:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
