@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-30T12:38:22.524Z",
+  "lastUpdated": "2025-08-01T13:35:58.096Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/aug/01/texas-republicans-congressional-redistricting-trump",
+      "headline": "Texas’s redistricting is a Republican power grab at the hands of Trump",
+      "image": "https://i.guim.co.uk/img/media/e9c324dfe28b1612719957941fbb26651886b692/388_123_3733_2986/master/3733.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b8bbf3f2489fa18d492bd5e1164e38b",
+      "timestamp": "2025-08-01T13:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
