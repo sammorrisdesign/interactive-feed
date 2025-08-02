@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-01T18:53:35.795Z",
+  "lastUpdated": "2025-08-02T12:34:08.123Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2025/gaza-war-destruction-aerial-airdrop/",
+      "headline": "Rare aerial imagery shows displacement and destruction in Gaza",
+      "image": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/OUPRLHMGV2GMI7MAN33CXJ7CIA.JPG",
+      "timestamp": "2025-08-02T11:40:34.309Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
