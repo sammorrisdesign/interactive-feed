@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-01T19:37:47.556Z",
+  "lastUpdated": "2025-08-02T19:13:39.327Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/02/world/americas/mexico-earthquake.html",
+      "headline": "Map: 5.8-Magnitude Earthquake Strikes Mexico",
+      "image": "https://static01.nyt.com/images/2025/08/02/world/02wea-quake-tracker-mexico-nytaz1vu-index/02wea-quake-tracker-mexico-nytaz1vu-index-articleLarge-v9.jpg",
+      "timestamp": "2025-08-02T18:54:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
