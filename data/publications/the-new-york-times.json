@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-03T09:17:23.961Z",
+  "lastUpdated": "2025-08-03T23:41:54.352Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/03/upshot/garden-of-earthly-delights.html",
+      "headline": "10-Minute Challenge: Bosch’s ‘Garden of Earthly Delights’",
+      "image": "https://static01.nyt.com/images/2025/08/04/upshot/up-bosch-full/up-bosch-full-articleLarge.jpg",
+      "timestamp": "2025-08-03T23:30:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
