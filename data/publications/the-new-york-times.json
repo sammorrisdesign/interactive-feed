@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-03T03:48:49.168Z",
+  "lastUpdated": "2025-08-03T09:17:23.961Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/03/arts/hiroshima-anniversary.html",
+      "headline": "Hiroshima and the End We Refuse to Imagine",
+      "image": "https://static01.nyt.com/images/2025/07/30/multimedia/00cul-hiroshima-jwvt/00cul-hiroshima-jwvt-articleLarge.jpg",
+      "timestamp": "2025-08-03T09:00:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
