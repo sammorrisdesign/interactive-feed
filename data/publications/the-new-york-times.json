@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-04T16:24:58.493Z",
+  "lastUpdated": "2025-08-04T21:42:43.029Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/04/well/phone-screen-time-scrolling.html",
+      "headline": "15 Ways to Break Free of Your Phone",
+      "image": "https://static01.nyt.com/images/2025/08/04/well/04WELL-PHONE-BREAKUP-lede/04WELL-PHONE-BREAKUP-lede-articleLarge-v17.jpg",
+      "timestamp": "2025-08-04T20:55:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
