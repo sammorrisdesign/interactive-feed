@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-25T20:43:51.176Z",
+  "lastUpdated": "2025-08-04T16:24:58.455Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/2022/02/recent-snowfall-accumulation-across-new-england",
+      "headline": "Here's a look at snowfall totals across New England",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3XON373UECQG7DPIG4DWFSVYTE.jpg",
+      "timestamp": "2022-03-11T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",

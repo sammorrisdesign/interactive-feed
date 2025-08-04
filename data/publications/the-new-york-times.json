@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-04T15:20:21.635Z",
+  "lastUpdated": "2025-08-04T16:24:58.493Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/04/climate/alligator-alcatraz-hurricanes-storms.html",
+      "headline": "At ‘Alligator Alcatraz,’ the Biggest Risk Isn’t Alligators.",
+      "image": "https://static01.nyt.com/images/2025/08/01/multimedia/2025-07-18-ice-detention-aa-index/2025-07-18-ice-detention-aa-index-articleLarge-v7.jpg",
+      "timestamp": "2025-08-04T16:22:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
