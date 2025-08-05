@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-05T16:45:50.953Z",
+  "lastUpdated": "2025-08-05T17:16:57.554Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/05/us/elections/results-michigan-mayor-detroit-primary.html",
+      "headline": "Detroit Mayoral Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/08/05/multimedia/eln-PRE-2025-08-05-race-mi-mayor-detroit-4c553a/eln-PRE-2025-08-05-race-mi-mayor-detroit-4c553a-articleLarge.jpg",
+      "timestamp": "2025-08-05T17:07:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
