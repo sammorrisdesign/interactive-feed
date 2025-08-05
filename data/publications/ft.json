@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-01T05:29:24.146Z",
+  "lastUpdated": "2025-08-05T05:26:33.975Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/60c9bcfd-8336-4ca7-a310-ed70509b4588",
+      "headline": "How we made it: the costly solution to water shortages",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F4fb17ebd-5ab7-40a2-a393-cc2f9c94bcb5.jpg?source=next-barrier-page",
+      "timestamp": "2025-08-05T05:00:08.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
