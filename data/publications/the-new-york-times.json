@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-05T03:26:35.970Z",
+  "lastUpdated": "2025-08-05T16:45:50.953Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/05/nyregion/new-jersey-quake-tracker.html",
+      "headline": "Map: 2.7-Magnitude Earthquake Strikes New Jersey",
+      "image": "https://static01.nyt.com/images/2025/08/05/world/05wea-quake-tracker-new-jersey-nyt7zh17-index/05wea-quake-tracker-new-jersey-nyt7zh17-index-articleLarge-v8.jpg",
+      "timestamp": "2025-08-05T16:34:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
