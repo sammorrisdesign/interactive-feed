@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-04T21:42:43.029Z",
+  "lastUpdated": "2025-08-05T03:26:35.970Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/04/nyregion/nyc-mayoral-primary-mamdani-ballots.html",
+      "headline": "Ranked-Choice Voting Helped Mamdani Score a Decisive Primary Win",
+      "image": "https://static01.nyt.com/images/2025/08/04/multimedia/2025-06-16-nyc-mayor-ranked-choice-results-index/2025-06-16-nyc-mayor-ranked-choice-results-index-articleLarge-v7.jpg",
+      "timestamp": "2025-08-05T02:09:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
