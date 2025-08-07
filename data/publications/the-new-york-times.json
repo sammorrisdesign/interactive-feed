@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-08-06T23:42:12.390Z",
+  "lastUpdated": "2025-08-07T09:24:18.051Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/07/realestate/north-carolina-asheville-homes-sale.html",
+      "headline": "When It Was ‘Time to Get Out of Florida,’ She Went for an Appalachian Vibe in North Carolina",
+      "image": "https://static01.nyt.com/images/2025/08/07/multimedia/07re-Hunt-Petersen-02-ltfb/07re-Hunt-Petersen-02-ltfb-articleLarge.jpg",
+      "timestamp": "2025-08-07T09:05:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/07/travel/things-to-do-kefalonia.html",
+      "headline": "36 Hours on Kefalonia",
+      "image": "https://static01.nyt.com/images/2025/08/07/multimedia/36-hours-kefalonia-pfhw/36-hours-kefalonia-pfhw-articleLarge-v3.jpg",
+      "timestamp": "2025-08-07T09:01:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
