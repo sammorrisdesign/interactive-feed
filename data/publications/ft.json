@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-05T05:26:33.975Z",
+  "lastUpdated": "2025-08-07T04:29:06.583Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/0f6111a8-0249-4a28-aef4-1854fc8b46f1",
+      "headline": "Inside the AI race: can data centres ever truly be green?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F51e18ef6-8d6f-4b63-aec5-34442ad1acd4.jpg?source=next-barrier-page",
+      "timestamp": "2025-08-07T04:00:09.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
