@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-08T20:43:45.435Z",
+  "lastUpdated": "2025-08-08T22:16:43.255Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/08/opinion/paris-metro-beauty.html",
+      "headline": "Finding Beauty Underneath Paris",
+      "image": "https://static01.nyt.com/images/2025/08/06/opinion/00beauty-paris-promo-still/00beauty-paris-promo-still-articleLarge.jpg",
+      "timestamp": "2025-08-08T22:06:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
