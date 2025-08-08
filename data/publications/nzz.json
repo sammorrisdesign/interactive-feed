@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-02T04:56:14.228Z",
+  "lastUpdated": "2025-08-08T03:22:00.904Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/gaza-satellitenbilder-zeigen-massive-zerstoerungen-ld.1896621",
+      "headline": "Satellitenbilder dokumentieren die weiträumige Zerstörung der Städte im südlichen Gazastreifen",
+      "image": "https://img.nzz.ch/2025/08/07/b05d8449-3561-43d4-939c-a0a7188cf0fa.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3601,2026,x0,y387&wmark=nzz",
+      "timestamp": "2025-08-08T01:36:23.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
