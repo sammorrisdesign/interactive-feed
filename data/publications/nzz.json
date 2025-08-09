@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-08T03:22:00.904Z",
+  "lastUpdated": "2025-08-09T04:02:33.588Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/schwitzen-trotz-ventilator-dieses-tool-zeigt-wo-sie-den-ventilator-hinstellen-sollten-ld.1892888",
+      "headline": "Schwitzen trotz Ventilator? Dieses Tool zeigt, wo Sie den Ventilator hinstellen sollten",
+      "image": "https://img.nzz.ch/2025/07/11/0fd2e3e6-0812-4f58-9658-fc4b7d7e913b.gif?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y124&wmark=nzz",
+      "timestamp": "2025-08-09T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",

@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-08T22:16:43.255Z",
+  "lastUpdated": "2025-08-09T04:02:33.635Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/09/world/asia/kim-jong-un-daughter-kim-ju-ae-north-korea.html",
+      "headline": "How North Korea Promotes Kim’s ‘Dear Daughter’ as a Worthy Heir",
+      "image": "https://static01.nyt.com/images/2025/07/30/multimedia/2025-07-02-north-korea-daughter-index/2025-07-02-north-korea-daughter-index-articleLarge-v3.jpg",
+      "timestamp": "2025-08-09T04:01:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
