@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-09T04:02:33.635Z",
+  "lastUpdated": "2025-08-10T19:13:11.139Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/10/world/europe/earthquake-turkey-maps.html",
+      "headline": "Map: 6.1-Magnitude Earthquake Strikes Turkey",
+      "image": "https://static01.nyt.com/images/2025/08/10/world/10wea-quake-tracker-turkey-nyt9pp6x-index/10wea-quake-tracker-turkey-nyt9pp6x-index-articleLarge-v23.jpg",
+      "timestamp": "2025-08-10T19:06:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
