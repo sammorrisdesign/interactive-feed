@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2025-06-30T15:19:03.674Z",
+  "lastUpdated": "2025-08-10T20:41:40.571Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/trump-tariff-costs-tracker",
+      "headline": "A tracker of the cost of Donald Trump’s tariffs",
+      "image": "https://www.economist.com/interactive/trump-tariff-costs-tracker/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "The Economist",
+      "twitterHandle": "ECONdailycharts",
+      "url": "https://www.economist.com/interactive/trump-approval-tracker/economy/",
+      "headline": "How the American economy is faring under Donald Trump",
+      "image": "https://www.economist.com/interactive/trump-approval-tracker/economy/promo.jpg",
+      "timestamp": null
+    },
     {
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
