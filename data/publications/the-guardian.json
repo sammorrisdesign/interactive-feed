@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-09T15:16:33.110Z",
+  "lastUpdated": "2025-08-10T05:21:01.889Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/aug/10/artificial-intellligence-avatar-death-grief-digital-resurrection-fascination-deathbot",
+      "headline": "Digital resurrection: fascination and fear over the rise of the deathbot",
+      "image": "https://i.guim.co.uk/img/media/72212fd07a343c8f593dc6c2fe71866b594ae1a1/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0509009f45473aa8c21590a349f12d98",
+      "timestamp": "2025-08-10T05:00:15.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
