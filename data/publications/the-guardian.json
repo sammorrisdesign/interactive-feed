@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-10T05:21:01.889Z",
+  "lastUpdated": "2025-08-10T12:34:07.260Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2025/aug/10/gaza-israel-palestine-outrage",
+      "headline": "My years reporting on Gaza broke me down. Why did it take so long for the world to become outraged? | Phoebe Greenwood",
+      "image": "https://i.guim.co.uk/img/media/ea8d44ef81a88be6f3ec94d88a21c8a54e97e982/0_463_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=99ab759f39df37945e132540ace65892",
+      "timestamp": "2025-08-10T12:00:23.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
