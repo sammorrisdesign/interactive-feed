@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-11T09:23:35.353Z",
+  "lastUpdated": "2025-08-11T13:35:57.626Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/11/weather/tropical-storm-podul-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Podul",
+      "image": "https://static01.nyt.com/images/2025/08/07/weather/sixteen-map-path-tracker-index/sixteen-map-path-tracker-index-articleLarge-v36.jpg",
+      "timestamp": "2025-08-11T13:31:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
