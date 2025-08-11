@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-11T03:21:55.388Z",
+  "lastUpdated": "2025-08-11T09:23:35.353Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/11/upshot/ai-jobs.html",
+      "headline": "21 Ways People Are Using A.I. at Work",
+      "image": "https://static01.nyt.com/images/2025/08/08/multimedia/2025-06-26-ai-jobs-index/2025-06-26-ai-jobs-index-articleLarge-v2.png",
+      "timestamp": "2025-08-11T09:02:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
