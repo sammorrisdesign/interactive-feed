@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-10T19:13:11.139Z",
+  "lastUpdated": "2025-08-11T03:21:55.388Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/06/weather/tropical-storm-ivo-hurricane-mexico.html",
+      "headline": "Tracking Tropical Depression Ivo",
+      "image": "https://static01.nyt.com/images/2025/08/06/weather/ivo-map-path-tracker-index/ivo-map-path-tracker-index-articleLarge-v63.jpg",
+      "timestamp": "2025-08-06T21:15:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
