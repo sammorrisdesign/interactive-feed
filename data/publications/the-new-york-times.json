@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-11T15:19:14.291Z",
+  "lastUpdated": "2025-08-11T22:16:34.020Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/11/us/trump-letter-dc-police-letter.html",
+      "headline": "Read Trump’s Letter to Congress About D.C. Police Department",
+      "image": "https://static01.nyt.com/images/2025/08/11/doc-signal-2025-08-11-145855-promo/doc-signal-2025-08-11-145855-promo-articleLarge.png",
+      "timestamp": "2025-08-11T21:50:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
