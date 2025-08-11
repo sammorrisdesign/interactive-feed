@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-08-11T14:47:49.685Z",
+  "lastUpdated": "2025-08-11T15:19:14.291Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/11/weather/tropical-storm-erin-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Erin",
+      "image": "https://static01.nyt.com/images/2025/08/11/weather/erin-map-path-tracker-index/erin-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2025-08-11T15:01:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/11/books/review/nonfiction-book-adaptations.html",
+      "headline": "Do You Know These Books and Their Television Adaptations?",
+      "image": "https://static01.nyt.com/images/2025/08/11/books/review/TBR-Quiz-TechNovels/TBR-Quiz-TechNovels-articleLarge.png",
+      "timestamp": "2025-08-11T15:00:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
