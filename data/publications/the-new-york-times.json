@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-11T13:35:57.626Z",
+  "lastUpdated": "2025-08-11T14:47:49.685Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/11/magazine/haircut-hodgman-quiz.html",
+      "headline": "Should You Mock Your Partner While He Gives You a Haircut?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-08-11T14:16:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
