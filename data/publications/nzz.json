@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-09T04:02:33.588Z",
+  "lastUpdated": "2025-08-11T12:37:50.830Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/warum-strom-in-deutschland-teuer-und-schmutzig-ist-alle-zahlen-ld.1683901",
+      "headline": "Mehr als 10 Prozent der deutschen Gasimporte sind inzwischen LNG-Direktimporte – Zahlen zur Energieversorgung, täglich aktualisiert",
+      "image": "https://img.nzz.ch/2022/05/20/738b59d8-eb99-43b5-9c0f-62a0f0283be5.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1797,1011,x4,y0&wmark=nzz",
+      "timestamp": "2025-08-11T11:41:44.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
