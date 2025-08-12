@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-07-24T15:17:55.306Z",
+  "lastUpdated": "2025-08-12T15:18:54.646Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/2025/08/onions",
+      "headline": "Dicing an Onion, the Mathematically Optimal Way",
+      "image": "https://pudding.cool/2025/08/onions/assets/social.jpg",
+      "timestamp": "2025-08-12T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
