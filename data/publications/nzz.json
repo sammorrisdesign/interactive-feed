@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-12T10:19:17.681Z",
+  "lastUpdated": "2025-08-14T04:03:36.570Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/atlantis-liegt-in-hessen-auf-den-spuren-versunkener-doerfer-ld.1897548",
+      "headline": "Atlantis liegt in Hessen: Auf den Spuren versunkener Dörfer",
+      "image": "https://img.nzz.ch/2025/08/13/2b39f90d-5c2d-4342-9685-6254840d9f1e.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1565,880,x0,y104&wmark=nzz",
+      "timestamp": "2025-08-14T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
