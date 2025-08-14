@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-08-12T07:17:56.467Z",
+  "lastUpdated": "2025-08-14T09:20:34.988Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/14/realestate/upper-east-side-carnegie-hill-apartments.html",
+      "headline": "A Maple Syrup Farmer Lands on the Upper East Side for His Next Chapter",
+      "image": "https://static01.nyt.com/images/2025/08/14/multimedia/14re-Hunt-Gregg-04-pzck-HP/14re-Hunt-Gregg-04-pzck-HP-articleLarge-v7.jpg",
+      "timestamp": "2025-08-14T09:03:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/14/climate/china-clean-energy-patents.html",
+      "headline": "How China Went From Clean Energy Copycat to Global Innovator",
+      "image": "https://static01.nyt.com/images/2025/08/12/multimedia/2025-06-26-china-patents-index/2025-06-26-china-patents-index-articleLarge-v4.png",
+      "timestamp": "2025-08-14T09:03:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/14/travel/things-to-do-jackson-hole.html",
+      "headline": "36 Hours in Jackson Hole",
+      "image": "https://static01.nyt.com/images/2025/08/14/multimedia/36-hours-jackson-hole-gcvm/36-hours-jackson-hole-gcvm-articleLarge-v2.jpg",
+      "timestamp": "2025-08-14T09:00:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
