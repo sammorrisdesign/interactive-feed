@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-14T09:20:34.988Z",
+  "lastUpdated": "2025-08-14T09:44:16.954Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/14/world/europe/putin-russia-ukraine-war-resurgence.html",
+      "headline": "Why Putin Thinks Russia Has the Upper Hand",
+      "image": "https://static01.nyt.com/images/2025/08/13/multimedia/2025-05-09-russia-resurgence-index/2025-05-09-russia-resurgence-index-articleLarge.jpg",
+      "timestamp": "2025-08-14T09:29:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
