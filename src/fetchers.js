@@ -57,7 +57,7 @@ const fetchers = {
 
   WashingtonPost: async(feed) => {
     const response = await fetch(`https://www.washingtonpost.com/prism/api/prism-query?_website=washpost&query=%7B%22query%22%3A%22prism%3A%2F%2Fprism.query%2Fsubtype%2Cinteractive%26limit%3D30%22%7D&filter=%7Bitems%7B_id%20canonical_url%20display_date%20promo_items%20headlines%20publish_date%20taxonomy%7Btags%7D%7D%7D`, {
-      signal: AbortSignal.timeout(5000)
+      signal: AbortSignal.timeout(10000)
     });
 
     const data = await response.json();
