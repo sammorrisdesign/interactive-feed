@@ -209,7 +209,7 @@ const fetchers = {
 
       if (feed?.filters?.in) {
         for (const key of Object.keys(feed.filters.in)) {
-          articles = articles.filter(article => article[key].includes(feed.filters.in[key]));
+          articles = articles.filter(article => article[key] && article[key].includes(feed.filters.in[key]));
         }
       }
 
