@@ -48,5 +48,15 @@
     "timestamp": "2025-08-15T12:34:17.299Z",
     "publication": "The Washington Post",
     "error": "TimeoutError: The operation was aborted due to timeout\n    at node:internal/deps/undici/undici:13510:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.WashingtonPost (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:59:22)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-08-15T13:28:33.209Z",
+    "publication": "NZZ",
+    "error": "TypeError: Cannot read properties of undefined (reading 'includes')\n    at /home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:212:62\n    at Array.filter (<anonymous>)\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:212:31)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-08-15T13:28:33.210Z",
+    "publication": "NZZ",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
   }
 ]
