@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-14T04:03:36.570Z",
+  "lastUpdated": "2025-08-15T14:43:32.792Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/warum-ist-strom-in-deutschland-so-teuer-alle-zahlen-ld.1683901",
+      "headline": "10 Prozent der deutschen Gasimporte entfallen inzwischen auf LNG-Direktlieferungen – Zahlen zur Energieversorgung, täglich aktualisiert",
+      "image": "https://img.nzz.ch/2022/05/20/738b59d8-eb99-43b5-9c0f-62a0f0283be5.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1797,1011,x4,y0&wmark=nzz",
+      "timestamp": "2025-08-15T07:12:33.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
