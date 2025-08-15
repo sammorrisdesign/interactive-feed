@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-15T15:17:42.445Z",
+  "lastUpdated": "2025-08-15T16:47:47.263Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/15/opinion/soup-beauty.html",
+      "headline": "Finding Beauty in a Bowl of Soup",
+      "image": "https://static01.nyt.com/images/2025/08/15/multimedia/soup-promo-image/soup-promo-image-articleLarge.jpg",
+      "timestamp": "2025-08-15T16:29:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
