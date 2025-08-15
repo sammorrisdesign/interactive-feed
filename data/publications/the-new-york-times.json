@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-14T13:33:39.592Z",
+  "lastUpdated": "2025-08-15T09:18:42.993Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/15/us/politics/california-texas-gerrymandering-redistricting.html",
+      "headline": "Is California Really More Gerrymandered Than Texas? It’s Complicated.",
+      "image": "https://static01.nyt.com/images/2025/08/13/multimedia/2025-08-06-states-gerrymandering-index/2025-08-06-states-gerrymandering-index-articleLarge-v8.png",
+      "timestamp": "2025-08-15T09:02:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
