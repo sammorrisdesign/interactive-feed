@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-15T19:37:14.348Z",
+  "lastUpdated": "2025-08-16T09:16:52.049Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/16/us/politics/texas-california-redistricting-republicans-democrats.html",
+      "headline": "In a Wider Redistricting War, Republicans Have an Advantage",
+      "image": "https://static01.nyt.com/images/2025/08/15/multimedia/2025-08-12-redistricting-states-index/2025-08-12-redistricting-states-index-articleLarge-v5.png",
+      "timestamp": "2025-08-16T09:01:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
