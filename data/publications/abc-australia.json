@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-07-22T18:54:12.686Z",
+  "lastUpdated": "2025-08-16T20:17:01.694Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2025-08-17/dreame-smartphone-app-vulnerable-to-hacking/105640808",
+      "headline": "Robot vacuum maker Dreame's smartphone app vulnerable to hacking",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1126d2f128b538584c2272e215ed4de1?impolicy=wcms_crop_resize&cropH=750&cropW=1000&xPos=0&yPos=622&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
