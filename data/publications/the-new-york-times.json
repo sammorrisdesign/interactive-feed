@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-16T09:16:52.049Z",
+  "lastUpdated": "2025-08-18T15:18:59.942Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/18/us/eaton-fire-aveson-charter-school.html",
+      "headline": "The Eaton Fire Destroyed Their School. They Created a New Wonderland Onstage.",
+      "image": "https://static01.nyt.com/images/2025/06/30/multimedia/eaton-wonderland-gcbp/eaton-wonderland-gcbp-articleLarge.jpg",
+      "timestamp": "2025-08-18T14:55:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
