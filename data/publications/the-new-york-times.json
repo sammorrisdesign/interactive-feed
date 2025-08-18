@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-18T15:18:59.942Z",
+  "lastUpdated": "2025-08-18T15:43:56.917Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/18/books/review/vacation-setting-novels.html",
+      "headline": "Vacation Vibes: Match These Novels to Their Settings",
+      "image": "https://static01.nyt.com/images/2025/08/18/books/review/18TBR-Quiz-VacationVibes/18TBR-Quiz-VacationVibes-articleLarge.jpg",
+      "timestamp": "2025-08-18T15:30:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
