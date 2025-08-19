@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-19T19:13:21.720Z",
+  "lastUpdated": "2025-08-19T19:36:56.103Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/19/world/europe/ukraine-russia-frontline-maps.html",
+      "headline": "Maps: How Ukraine’s Frontline Has Moved",
+      "image": "https://static01.nyt.com/images/2025/08/19/multimedia/2025-08-18-ukraine-war-frontlines-index/2025-08-18-ukraine-war-frontlines-index-articleLarge-v2.jpg",
+      "timestamp": "2025-08-19T19:35:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
