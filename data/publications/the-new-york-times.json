@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-08-18T15:43:56.917Z",
+  "lastUpdated": "2025-08-19T09:17:50.432Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/19/opinion/focus-group-teachers.html",
+      "headline": "‘They’re Just Waiting to Just Get Back on Their Phone’: 12 Teachers on What’s Changed in Schools",
+      "image": "https://static01.nyt.com/images/2025/08/19/opinion/19focusgroup/19focusgroup-articleLarge.jpg",
+      "timestamp": "2025-08-19T09:02:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/19/opinion/vaccines-autism-evidence.html",
+      "headline": "The Playbook Used to ‘Prove’ Vaccines Cause Autism",
+      "image": "https://static01.nyt.com/images/2025/08/19/opinion/19steier-image/19steier-image-articleLarge.jpg",
+      "timestamp": "2025-08-19T09:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
