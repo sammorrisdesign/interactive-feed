@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-20T18:49:58.059Z",
+  "lastUpdated": "2025-08-20T19:13:33.110Z",
   "articles": [
+    {
+      "publication": "San Francisco Chronicle",
+      "twitterHandle": "sfchronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/weather/california-heat-wave-map/",
+      "headline": "Heat in California: How local weather compares to record highs",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:niws4datih6dforyd7y22km4/bafkreib5gilit7jvir2q6ajgn623xn5aedfmiksgelozhyxmsjqv36wfrm@jpeg",
+      "timestamp": "2025-08-20T18:49:48.220Z"
+    },
     {
       "publication": "San Francisco Chronicle",
       "twitterHandle": "sfchronicle",
