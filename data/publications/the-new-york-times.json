@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-21T14:17:39.045Z",
+  "lastUpdated": "2025-08-21T16:20:14.700Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/21/upshot/up-massachusetts-redistricting.html",
+      "headline": "Trump Says Massachusetts’ All-Blue Map Is Unfair. Is He Right?",
+      "image": "https://static01.nyt.com/images/2025/08/21/multimedia/2025-08-11-simulated-districts-index/2025-08-11-simulated-districts-index-articleLarge-v2.png",
+      "timestamp": "2025-08-21T16:00:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
