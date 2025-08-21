@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-17T05:17:06.279Z",
+  "lastUpdated": "2025-08-21T12:34:01.256Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/aug/21/justice-john-roberts-supreme-court",
+      "headline": "The umpire who picked a side: John Roberts and the death of rule of law in America",
+      "image": "https://i.guim.co.uk/img/media/0e6c07b9bd08dbd630b1d6d9fbe6dd7f1250032a/1_0_3259_2608/master/3259.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04cfe3f675b76677447bdda883c3355d",
+      "timestamp": "2025-08-21T12:00:03.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
