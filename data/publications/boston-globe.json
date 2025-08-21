@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-04T16:24:58.455Z",
+  "lastUpdated": "2025-08-21T15:18:17.245Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2025/08/magazine/miles-of-music-camp-winnipesaukee/",
+      "headline": "Folk Music and Songwriting Camp in New Hampshire",
+      "image": "https://apps.bostonglobe.com/2025/08/magazine/miles-of-music-camp-winnipesaukee/static/a739f4a2d6ab7974689e128a506de733/47498/QWH254QPWC2MRB27YHH7OBHEOM.jpg",
+      "timestamp": "2025-08-07T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2025/05/metro/politics/how-14-new-englanders-feel-about-trumps-second-term/",
+      "headline": "14 New Englanders assess the Trump administration",
+      "image": "https://apps.bostonglobe.com/2025/05/metro/politics/how-14-new-englanders-feel-about-trumps-second-term/static/7fa3e24fad5a69a397eed16c2ee59742/f3583/RPWBUX6UFZC5NHEP3S2Z6ZJMTM.png",
+      "timestamp": "2025-05-21T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
