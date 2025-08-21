@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-08-20T22:14:51.651Z",
+  "lastUpdated": "2025-08-21T09:17:51.480Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/21/realestate/oakland-california-homes-for-sale.html",
+      "headline": "Making the Most of Their Second Chance in the Bay Area",
+      "image": "https://static01.nyt.com/images/2025/08/21/multimedia/21re-Hunt-Brodkey-HP-04-fpwk/21re-Hunt-Brodkey-HP-04-fpwk-articleLarge-v2.jpg",
+      "timestamp": "2025-08-21T09:03:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/21/us/trump-deportations-summer-data-immigration-arrests.html",
+      "headline": "Deportations Reach New High After Summer Surge in Immigration Arrests",
+      "image": "https://static01.nyt.com/images/2025/08/20/multimedia/2025-08-14-ice-data-update-index/2025-08-14-ice-data-update-index-articleLarge-v7.png",
+      "timestamp": "2025-08-21T09:03:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/21/travel/things-to-do-normandy.html",
+      "headline": "36 Hours in Normandy, France",
+      "image": "https://static01.nyt.com/images/2025/08/21/multimedia/36-hours-normandy-pqbl/36-hours-normandy-pqbl-articleLarge-v3.jpg",
+      "timestamp": "2025-08-21T09:02:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
