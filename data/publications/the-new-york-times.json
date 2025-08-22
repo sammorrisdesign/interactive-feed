@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-21T21:15:20.856Z",
+  "lastUpdated": "2025-08-22T04:19:04.059Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/21/world/americas/earthquake-drake-passage.html",
+      "headline": "Map: 7.5-Magnitude Earthquake Strikes the South Atlantic Ocean",
+      "image": "https://static01.nyt.com/images/2025/08/22/world/21wea-quake-tracker-south-atlantic-ocean-nytg8qt-index/21wea-quake-tracker-south-atlantic-ocean-nytg8qt-index-articleLarge-v18.jpg",
+      "timestamp": "2025-08-22T03:38:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
