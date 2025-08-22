@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-22T13:26:38.873Z",
+  "lastUpdated": "2025-08-22T17:14:56.456Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/22/nyregion/nyc-trees.html",
+      "headline": "Take a Closer Look at These ‘Great’ New York City Trees",
+      "image": "https://static01.nyt.com/images/2025/08/19/nyregion/GREAT-TREES-PROMO/GREAT-TREES-PROMO-articleLarge.png",
+      "timestamp": "2025-08-22T16:50:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
