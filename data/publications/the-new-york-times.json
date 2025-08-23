@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-22T23:15:11.356Z",
+  "lastUpdated": "2025-08-23T22:14:39.930Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/23/weather/fernand-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Fernand",
+      "image": "https://static01.nyt.com/images/2025/08/23/weather/fernand-map-path-tracker-index/fernand-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2025-08-23T21:57:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
