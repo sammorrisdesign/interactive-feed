@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-20T04:20:21.781Z",
+  "lastUpdated": "2025-08-23T04:19:10.618Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/football-game",
+      "headline": "Can you run a Premier League football club?",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fig.ft.com%2Fimages%2F8244490901-axr4j.png?source=ig&width=1000",
+      "timestamp": "2025-08-23T04:00:00.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
