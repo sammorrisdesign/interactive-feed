@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-23T22:14:39.930Z",
+  "lastUpdated": "2025-08-24T13:23:22.500Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/kajiki-map-path-tracker.html",
+      "headline": "Tracking Typhoon Kajiki",
+      "image": "https://static01.nyt.com/images/2025/08/22/weather/nineteen-map-path-tracker-index/nineteen-map-path-tracker-index-articleLarge-v13.jpg",
+      "timestamp": "2025-08-24T13:09:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
