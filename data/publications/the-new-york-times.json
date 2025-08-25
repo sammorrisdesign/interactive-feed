@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-24T13:23:22.500Z",
+  "lastUpdated": "2025-08-25T09:19:32.313Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/25/us/politics/electoral-college-seats-republicans-democrats-redistricting.html",
+      "headline": "How the Electoral College Could Tilt Further From Democrats",
+      "image": "https://static01.nyt.com/images/2025/08/23/multimedia/2025-07-04-dem-apportionment-index/2025-07-04-dem-apportionment-index-articleLarge-v2.png",
+      "timestamp": "2025-08-25T09:01:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
