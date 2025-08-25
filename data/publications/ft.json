@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-23T04:19:10.618Z",
+  "lastUpdated": "2025-08-25T04:24:20.662Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a8f68db8-c083-491d-aa07-9273c4afd177",
+      "headline": "Global famine deaths rise as leaders use food as a weapon",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Feec36dc2-55b3-4f23-861e-efbaad3e19aa.jpg?source=next-barrier-page",
+      "timestamp": "2025-08-25T04:00:06.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
