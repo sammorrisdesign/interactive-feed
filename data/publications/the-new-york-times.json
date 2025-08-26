@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-25T15:42:00.800Z",
+  "lastUpdated": "2025-08-26T01:17:21.361Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/25/us/trump-lisa-cook-fed-firing.html",
+      "headline": "Read Trump’s Directive Firing Lisa Cook",
+      "image": "https://static01.nyt.com/images/2025/08/26/doc-trump-lisa-cook-fed-firin-promo/doc-trump-lisa-cook-fed-firin-promo-articleLarge.png",
+      "timestamp": "2025-08-26T01:00:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
