@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-27T21:15:23.511Z",
+  "lastUpdated": "2025-08-27T22:15:02.976Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/27/weather/lake-tahoe-storm.html",
+      "headline": "How a Beautiful Summer Day on Lake Tahoe Suddenly Turned Deadly",
+      "image": "https://static01.nyt.com/images/2025/08/26/multimedia/2025-07-03-lake-tahoe-weather-index/2025-07-03-lake-tahoe-weather-index-articleLarge.jpg",
+      "timestamp": "2025-08-27T21:45:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
