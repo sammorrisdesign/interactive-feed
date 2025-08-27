@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-27T09:17:52.007Z",
+  "lastUpdated": "2025-08-27T21:15:23.511Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/27/books/robert-frost-for-once-then-something-poem.html",
+      "headline": "I Can’t Look Away From This Poem About Looking",
+      "image": "https://static01.nyt.com/images/2025/08/21/books/frostpoemwell/frostpoemwell-articleLarge.jpg",
+      "timestamp": "2025-08-27T20:53:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
