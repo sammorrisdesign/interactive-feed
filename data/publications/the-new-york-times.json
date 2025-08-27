@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-27T04:20:08.997Z",
+  "lastUpdated": "2025-08-27T09:17:52.007Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/27/upshot/ev-vs-gas-calculator.html",
+      "headline": "Electric vs. Gas Car: Try Our Calculator (Because the Math Is About to Change)",
+      "image": "https://static01.nyt.com/images/2025/08/26/multimedia/2025-08-06-ev-calculator-index/2025-08-06-ev-calculator-index-articleLarge-v3.jpg",
+      "timestamp": "2025-08-27T09:03:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
