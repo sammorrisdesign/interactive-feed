@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-27T02:47:17.091Z",
+  "lastUpdated": "2025-08-27T04:20:08.997Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/27/business/india-tariffs-trump-russia-diamonds.html",
+      "headline": "How Russian Oil Could Make Americans’ Diamonds More Expensive",
+      "image": "https://static01.nyt.com/images/2025/08/26/multimedia/2025-08-08-india-trade-index/2025-08-08-india-trade-index-articleLarge.png",
+      "timestamp": "2025-08-27T04:04:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
