@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-26T21:14:38.174Z",
+  "lastUpdated": "2025-08-27T02:47:17.091Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/26/us/politics/trump-fed-appointees.html",
+      "headline": "Trump’s Appointees Could Rule the Fed for Decades",
+      "image": "https://static01.nyt.com/images/2025/08/26/multimedia/2025-08-26-graphics-federal-reserve-index/2025-08-26-graphics-federal-reserve-index-articleLarge-v2.png",
+      "timestamp": "2025-08-27T02:24:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
