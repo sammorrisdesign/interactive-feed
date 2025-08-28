@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-08-27T22:15:02.976Z",
+  "lastUpdated": "2025-08-28T09:17:19.983Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/28/realestate/brooklyn-flatbush-midwood-co-op-apartments.html",
+      "headline": "She Returned to Brooklyn With $300,000 and a Dream",
+      "image": "https://static01.nyt.com/images/2025/08/28/multimedia/28re-Hunt-Pennick1/28re-Hunt-Pennick-HP-qlbv-articleLarge-v3.jpg",
+      "timestamp": "2025-08-28T09:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/28/travel/things-to-do-portland-oregon.html",
+      "headline": "36 Hours in Portland, Ore.",
+      "image": "https://static01.nyt.com/images/2025/08/27/multimedia/36-hours-portland-oregon-promo/36-hours-portland-oregon-01-hwvg-articleLarge.jpg",
+      "timestamp": "2025-08-28T09:03:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
