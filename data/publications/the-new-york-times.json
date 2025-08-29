@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-29T16:19:53.659Z",
+  "lastUpdated": "2025-08-29T17:38:36.411Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/29/opinion/trees-nature-prison-beauty.html",
+      "headline": "Finding Beauty in a Prison Yard",
+      "image": "https://static01.nyt.com/images/2025/08/27/opinion/29beauty-trees-2-3-promo-image/29beauty-trees-2-3-promo-image-articleLarge.jpg",
+      "timestamp": "2025-08-29T17:30:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
