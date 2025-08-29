@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-27T04:20:08.954Z",
+  "lastUpdated": "2025-08-29T04:20:06.238Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aus-dem-orbit/ende-fuer-alligator-alcatraz-gericht-ordnet-rueckbau-von-us-abschiebegefaengnis-an-ld.1899559",
+      "headline": "Ende für «Alligator Alcatraz»? Gericht ordnet Rückbau von US-Abschiebegefängnis an",
+      "image": "https://img.nzz.ch/2025/08/28/d64bdebb-855a-4a59-9417-60db87291388.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3714,2089,x0,y120&wmark=nzz",
+      "timestamp": "2025-08-29T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
