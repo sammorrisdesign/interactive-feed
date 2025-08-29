@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-29T13:24:41.251Z",
+  "lastUpdated": "2025-08-29T16:19:53.659Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/29/world/middleeast/syria-sednaya-prison-assad.html",
+      "headline": "Inside Syria’s Most Fearsome Prison",
+      "image": "https://static01.nyt.com/images/2025/08/22/multimedia/2025-01-02-sednaya-prison-3d-index/2025-01-02-sednaya-prison-3d-index-articleLarge-v4.jpg",
+      "timestamp": "2025-08-29T15:53:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
