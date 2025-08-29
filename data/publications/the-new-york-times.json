@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-29T18:21:50.055Z",
+  "lastUpdated": "2025-08-29T23:14:43.231Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/29/us/orderandissuance.html",
+      "headline": "Read the appeals court ruling on Trump’s tariffs.",
+      "image": "https://static01.nyt.com/images/2025/08/29/doc-orderandissuance-promo/doc-orderandissuance-promo-articleLarge.png",
+      "timestamp": "2025-08-29T23:09:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
