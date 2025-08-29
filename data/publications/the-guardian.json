@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-29T10:41:31.342Z",
+  "lastUpdated": "2025-08-29T13:24:41.231Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/aug/29/trump-immigration-ice-cbp-data",
+      "headline": "By the numbers: the latest Ice and CBP data on arrests, detentions and deportations in the US",
+      "image": "https://i.guim.co.uk/img/media/9e0063d257d74ead7af1c3a6aadb9523e7f4f28f/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fca398efe30d3b204d45b92952eb33a5",
+      "timestamp": "2025-08-29T13:00:32.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
