@@ -706,9 +706,6 @@
       "blueSkyHandle": "washingtonpost.com",
       "sources": [
         {
-          "type": "WashingtonPost"
-        },
-        {
           "type": "BlueSky",
           "handle": "washingtonpost.com",
           "filters": {
