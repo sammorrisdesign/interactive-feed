@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-08-29T23:14:43.231Z",
+  "lastUpdated": "2025-08-31T15:14:13.718Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/31/weather/kiko-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Kiko",
+      "image": "https://static01.nyt.com/images/2025/08/31/weather/eleven-e-map-path-tracker-index/eleven-e-map-path-tracker-index-articleLarge-v9.jpg",
+      "timestamp": "2025-08-31T14:57:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
