@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-01T04:03:37.773Z",
+  "lastUpdated": "2025-09-01T09:19:44.835Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/29/style/nicola-bulgari-american-car-collection-allentown-pa.html",
+      "headline": "The European Heir Restoring Forgotten American Cars to Glory",
+      "image": "https://static01.nyt.com/images/2025/08/28/bulgari-promo-47468-cover/bulgari-promo-47468-cover-articleLarge.jpg",
+      "timestamp": "2025-09-01T09:03:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
