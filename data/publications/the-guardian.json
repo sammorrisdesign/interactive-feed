@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-01T04:03:37.760Z",
+  "lastUpdated": "2025-09-01T10:18:38.754Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/sep/01/trump-dictator-authoritarianism-politics",
+      "headline": "Donald Trump says he is not a dictator. Isn’t he?",
+      "image": "https://i.guim.co.uk/img/media/0647fa158269e9fc993b587ded28403bb0a1e1ec/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=48ea9fedb55f64ba05086e978fff1228",
+      "timestamp": "2025-09-01T10:00:34.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
