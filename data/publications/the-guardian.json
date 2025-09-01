@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-31T13:01:13.313Z",
+  "lastUpdated": "2025-09-01T04:03:37.760Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2025/sep/01/israel-gaza-war-media-palestinian-journalists-killed-cpj",
+      "headline": "The deadly toll on journalists in the Gaza war ",
+      "image": "https://i.guim.co.uk/img/media/517819ca43429820fb38fbd4b9868a4bf9e431ce/863_97_6404_5125/master/6404.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=67d0b43d5666075952cbe719b6928e7b",
+      "timestamp": "2025-09-01T04:00:49.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
