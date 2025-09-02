@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-01T09:19:44.835Z",
+  "lastUpdated": "2025-09-02T01:15:07.284Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/01/upshot/pickleball.html",
+      "headline": "How Pickleball Took Over Thousands of Tennis Courts, as Seen From the Sky",
+      "image": "https://static01.nyt.com/images/2025/08/28/multimedia/2025-07-23-pickleball-takeover-index/2025-07-23-pickleball-takeover-index-articleLarge-v3.jpg",
+      "timestamp": "2025-09-02T00:02:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
