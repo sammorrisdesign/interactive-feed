@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-02T16:20:21.016Z",
+  "lastUpdated": "2025-09-02T17:13:58.685Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/02/us/breyer-ruling-newsom-trump.html",
+      "headline": "Read Judge’s Ruling on Trump’s Use of Troops in California",
+      "image": "https://static01.nyt.com/images/2025/09/02/doc-newsom-v-trump-176-pca-or-promo/doc-newsom-v-trump-176-pca-or-promo-articleLarge.png",
+      "timestamp": "2025-09-02T17:03:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
