@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-02T01:15:07.284Z",
+  "lastUpdated": "2025-09-02T12:33:57.040Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/02/books/review/novels-quotes-quiz.html",
+      "headline": "Can You Name These Novels From Their First Lines?",
+      "image": "https://static01.nyt.com/images/2025/09/01/books/review/01Quiz-MidCentury/01Quiz-MidCentury-articleLarge.jpg",
+      "timestamp": "2025-09-02T12:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
