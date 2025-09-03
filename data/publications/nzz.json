@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-29T04:20:06.238Z",
+  "lastUpdated": "2025-09-03T03:43:52.254Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/boomer-kritik-im-datencheck-leben-alte-auf-kosten-der-jungen-ld.1899561",
+      "headline": "Wie die Boomer den Wohlstand erarbeitet haben, von dem die Jungen heute profitieren",
+      "image": "https://img.nzz.ch/2025/08/28/43b383d2-d2e1-4166-aa56-c207645674d7.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2808,1580,x350,y97&wmark=nzz",
+      "timestamp": "2025-09-03T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
