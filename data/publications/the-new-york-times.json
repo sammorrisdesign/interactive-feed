@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-02T17:13:58.685Z",
+  "lastUpdated": "2025-09-03T01:11:09.473Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/02/us/politics/slaughtertrumpcadcord090225.html",
+      "headline": "Read the Appeals Court’s Decision",
+      "image": "https://static01.nyt.com/images/2025/09/02/doc-slaughtertrumpcadcord0902-promo/doc-slaughtertrumpcadcord0902-promo-articleLarge.png",
+      "timestamp": "2025-09-02T23:39:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
