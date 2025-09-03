@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-03T06:45:51.218Z",
+  "lastUpdated": "2025-09-03T09:16:43.609Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/03/business/media/summer-box-office-movie-tickets-2025.html",
+      "headline": "Behind the Numbers: How Hollywood Missed Its Mark This Summer",
+      "image": "https://static01.nyt.com/images/2025/09/02/multimedia/2025-08-27-summer-box-office-index/2025-08-27-summer-box-office-index-articleLarge-v4.png",
+      "timestamp": "2025-09-03T09:03:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
