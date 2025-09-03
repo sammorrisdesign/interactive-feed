@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-03T01:11:09.473Z",
+  "lastUpdated": "2025-09-03T06:45:51.218Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/03/us/politics/court-ruling-venezuelan-migrants.html",
+      "headline": "Read the Court Ruling on Trump’s Use of the Alien Enemies Act",
+      "image": "https://static01.nyt.com/images/2025/09/03/doc-govuscourtsca522413450767-promo/doc-govuscourtsca522413450767-promo-articleLarge.png",
+      "timestamp": "2025-09-03T06:25:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
