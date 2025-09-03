@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-03T18:22:02.491Z",
+  "lastUpdated": "2025-09-03T20:17:06.898Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/03/magazine/anime-manga-pokemon-demon-slayer-dragon-ball-z.html",
+      "headline": "How Anime Took Over America",
+      "image": "https://static01.nyt.com/images/2025/09/07/arts/HP-vc/HP-vc-articleLarge.png",
+      "timestamp": "2025-09-03T20:16:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
