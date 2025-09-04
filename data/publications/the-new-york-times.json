@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-03T20:17:06.898Z",
+  "lastUpdated": "2025-09-04T09:16:50.586Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/04/realestate/pennsylvania-lancaster-county-homes-sale.html",
+      "headline": "A Family of 7 Looked for a Wreck to Restore in Pennsylvania Dutch Country",
+      "image": "https://static01.nyt.com/images/2025/09/04/multimedia/04Hunt-Beiler-add-01-hzlj/04Hunt-Beiler-add-01-hzlj-articleLarge-v2.jpg",
+      "timestamp": "2025-09-04T09:04:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/04/travel/things-to-do-costa-brava.html",
+      "headline": "36 Hours in the Costa Brava, Spain",
+      "image": "https://static01.nyt.com/images/2025/09/04/multimedia/04Hours-CostaBrava-tjgk/04Hours-CostaBrava-tjgk-articleLarge.jpg",
+      "timestamp": "2025-09-04T09:04:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
