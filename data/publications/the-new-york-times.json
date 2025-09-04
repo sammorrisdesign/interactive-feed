@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-04T16:20:29.709Z",
+  "lastUpdated": "2025-09-04T18:21:42.316Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/04/climate/ocean-water-temperatures-sea-levels.html",
+      "headline": "Humans Are Altering the Seas. Here’s What the Future Ocean Might Look Like.",
+      "image": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-04-21-ocean-impacts-index/2025-04-21-ocean-impacts-index-articleLarge-v2.jpg",
+      "timestamp": "2025-09-04T18:01:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
