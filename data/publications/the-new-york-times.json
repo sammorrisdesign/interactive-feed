@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-05T09:16:27.808Z",
+  "lastUpdated": "2025-09-05T18:44:37.381Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/05/books/thriller-book-quiz.html",
+      "headline": "Answer 4 Questions. Leave With a Thriller You’ll Love.",
+      "image": "https://static01.nyt.com/images/2025/09/02/books/promo-bookmatch-thriller/promo-bookmatch-thriller-articleLarge.jpg",
+      "timestamp": "2025-09-05T18:35:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
