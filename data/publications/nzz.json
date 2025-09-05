@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-05T03:48:18.080Z",
+  "lastUpdated": "2025-09-05T09:16:27.765Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/problemfall-lausanne-so-steht-die-stadt-im-schweiz-vergleich-da-ld.1900609",
+      "headline": "Problemfall Lausanne? So steht die Stadt im Schweiz-Vergleich da",
+      "image": "https://img.nzz.ch/2025/09/04/57e1bbee-daef-488f-8b19-71e64f45d973.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y225&wmark=nzz",
+      "timestamp": "2025-09-05T09:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",

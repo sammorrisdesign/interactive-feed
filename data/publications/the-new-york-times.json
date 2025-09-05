@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-04T20:38:13.750Z",
+  "lastUpdated": "2025-09-05T09:16:27.808Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/05/nyregion/nyc-mayoral-race-mamdani-cuomo-donations.html",
+      "headline": "Mamdani’s Donations Surged After the Primary While Cuomo’s Funding Lagged",
+      "image": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-08-28-mayor-campfin-index/2025-08-28-mayor-campfin-index-articleLarge-v3.jpg",
+      "timestamp": "2025-09-05T09:02:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/05/magazine/halloween-candy-hodgman-quiz.html",
+      "headline": "Can I Give Out Full-Size Candy Bars to Children on Halloween?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-09-05T09:02:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
