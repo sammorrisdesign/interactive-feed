@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-03T03:43:52.254Z",
+  "lastUpdated": "2025-09-05T03:48:18.080Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-geisterfassade-von-london-wo-nichts-dahinter-steckt-ld.1899394",
+      "headline": "Die Geisterfassade von London, wo nichts dahintersteckt",
+      "image": "https://img.nzz.ch/2025/08/25/4ed1e800-949f-4be3-a7e9-0a92d099d6d1.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1387,780,x0,y37&wmark=nzz",
+      "timestamp": "2025-09-05T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
