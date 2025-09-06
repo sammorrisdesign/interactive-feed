@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-05T19:12:54.742Z",
+  "lastUpdated": "2025-09-06T09:14:17.153Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/06/us/trump-deals-law-firms-universities-concessions.html",
+      "headline": "What Has the Trump Administration Gotten From Law Firms and Universities?",
+      "image": "https://static01.nyt.com/images/2025/09/05/multimedia/2025-08-12-trump-deals-index/2025-08-12-trump-deals-index-articleLarge-v3.png",
+      "timestamp": "2025-09-06T09:00:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
