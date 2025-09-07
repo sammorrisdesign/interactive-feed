@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-06T09:14:17.153Z",
+  "lastUpdated": "2025-09-07T14:13:02.517Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/tapah-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Tapah",
+      "image": "https://static01.nyt.com/images/2025/09/06/weather/twentytwo-map-path-tracker-index/twentytwo-map-path-tracker-index-articleLarge-v7.jpg",
+      "timestamp": "2025-09-07T14:08:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
