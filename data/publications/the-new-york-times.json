@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-09T09:17:51.325Z",
+  "lastUpdated": "2025-09-09T17:13:39.413Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/09/us/elections/results-virginia-us-house-11-special.html",
+      "headline": "Virginia 11th Congressional District Special Election Results",
+      "image": "https://static01.nyt.com/images/2025/09/09/multimedia/eln-PRE-2025-09-09-race-va-us-h-11-sp-43af10/eln-PRE-2025-09-09-race-va-us-h-11-sp-43af10-articleLarge.jpg",
+      "timestamp": "2025-09-09T16:44:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/09/us/elections/results-boston-mayor-primary.html",
+      "headline": "Boston Mayoral Primary Election Results",
+      "image": "https://static01.nyt.com/images/2025/09/09/multimedia/eln-PRE-2025-09-09-race-ma-mayor-boston-131310/eln-PRE-2025-09-09-race-ma-mayor-boston-131310-articleLarge.jpg",
+      "timestamp": "2025-09-09T16:44:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
