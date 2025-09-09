@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-08T20:17:47.057Z",
+  "lastUpdated": "2025-09-09T01:13:34.138Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/dining/best-restaurants-america.html",
+      "headline": "The Restaurant List 2025",
+      "image": "https://static01.nyt.com/images/2025/09/20/multimedia/2025-restolist-cover-cvgf/2025-restolist-cover-cvgf-articleLarge.jpg",
+      "timestamp": "2025-09-09T00:00:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
