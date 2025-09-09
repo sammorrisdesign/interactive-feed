@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-09T02:45:27.321Z",
+  "lastUpdated": "2025-09-09T07:37:23.419Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/9a99c07c-e0a7-470e-9f61-72423f020b06",
+      "headline": "Bad news: there’s more of it about",
+      "image": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F25294756-fd92-4cc7-9356-c11281540ae6.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2025-09-09T07:26:24.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
