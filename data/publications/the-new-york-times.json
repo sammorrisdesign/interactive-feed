@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-09-09T01:13:34.138Z",
+  "lastUpdated": "2025-09-09T09:17:51.325Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/09/us/brain-bank-cte-diagnosis.html",
+      "headline": "A Gunman Claimed to Have C.T.E. Here Is How Doctors Search for It.",
+      "image": "https://static01.nyt.com/images/2025/09/04/multimedia/2025-09-05-brain-bank-cte-index/2025-09-05-brain-bank-cte-index-articleLarge.jpg",
+      "timestamp": "2025-09-09T09:02:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/09/polls/nyc-mayor-poll-toplines.html",
+      "headline": "Toplines: September 2025 Times/Siena Poll of Registered Voters in New York City",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-09-09T09:00:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/09/polls/nyc-mayor-poll-likely-voters.html",
+      "headline": "Cross-Tabs: September 2025 Times/Siena Poll of the New York City Mayoral Election",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-09-09T09:00:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/09/polls/nyc-mayor-poll-registered-voters.html",
+      "headline": "Cross-Tabs: September 2025 Times/Siena Poll of Registered Voters in New York City",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-09-09T08:59:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
