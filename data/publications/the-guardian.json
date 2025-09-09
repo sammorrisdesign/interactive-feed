@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-08T12:34:49.656Z",
+  "lastUpdated": "2025-09-09T09:40:11.555Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global/ng-interactive/2025/sep/09/between-moon-tides-citizen-scientists-saving-the-saltmarsh-sparrow-documentary",
+      "headline": "Between Moon Tides: citizen scientists saving the saltmarsh sparrow documentary",
+      "image": "https://i.guim.co.uk/img/media/10719a1aec58660b11174f3c9ed2e5ab9ecfb2b4/576_0_1701_1361/master/1701.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d0636b8cd4fbf1d17e7aec9fa3032b13",
+      "timestamp": "2025-09-09T09:30:56.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
