@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-09T18:44:33.416Z",
+  "lastUpdated": "2025-09-10T09:17:07.308Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/10/opinion/columnists/10collins-quiz-interactive.html",
+      "headline": "Eight Months of Trump. One Quiz.",
+      "image": "https://static01.nyt.com/images/2025/09/10/multimedia/10collins-quiz-lpkm/10collins-quiz-lpkm-articleLarge.jpg",
+      "timestamp": "2025-09-10T09:04:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/10/opinion/clouds-climate-change.html",
+      "headline": "We Take Clouds for Granted",
+      "image": "https://static01.nyt.com/images/2025/09/10/opinion/10pretor-pinney-clouds/10pretor-pinney-clouds-articleLarge.jpg",
+      "timestamp": "2025-09-10T09:04:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
