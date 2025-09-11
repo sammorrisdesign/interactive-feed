@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-09-10T22:14:20.683Z",
+  "lastUpdated": "2025-09-11T09:16:57.965Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/11/realestate/long-island-port-jefferson-condos.html",
+      "headline": "A Couple Looked to Downsize Into a Condo on Long Island’s North Shore",
+      "image": "https://static01.nyt.com/images/2025/09/11/multimedia/11Hunt-Toth-01-tzlb/11Hunt-Toth-01-tzlb-articleLarge.jpg",
+      "timestamp": "2025-09-11T09:04:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/11/travel/things-to-do-sedona.html",
+      "headline": "36 Hours in Sedona, Ariz.",
+      "image": "https://static01.nyt.com/images/2025/09/11/multimedia/trav-hours-sedona-hcvg/trav-hours-sedona-hcvg-articleLarge-v5.jpg",
+      "timestamp": "2025-09-11T09:04:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/11/opinion/wildfire-september-11-palisades.html",
+      "headline": "What 9/11, Cancer and the Palisades Fire Taught Me",
+      "image": "https://static01.nyt.com/images/2025/09/11/opinion/11ash-hp-promo-illo-still/11ash-hp-promo-illo-still-articleLarge.jpg",
+      "timestamp": "2025-09-11T09:02:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
