@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-05T09:16:27.765Z",
+  "lastUpdated": "2025-09-11T03:50:02.052Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-politische-lebenserwartung-eines-franzoesischen-premierministers-ist-gesunken-ld.1901610",
+      "headline": "Die politische Lebenserwartung eines französischen Premierministers ist gesunken",
+      "image": "https://img.nzz.ch/2025/09/10/93efb593-d783-4335-b5f3-46680e6e4ba0.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y169&wmark=nzz",
+      "timestamp": "2025-09-11T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
