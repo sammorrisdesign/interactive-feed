@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-12T18:18:49.302Z",
+  "lastUpdated": "2025-09-12T19:12:25.759Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/12/magazine/word-shortening-hodgman-quiz.html",
+      "headline": "Is It Cutesy or Abominable to Make Up Random Words?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-09-12T18:51:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
