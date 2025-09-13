@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-11T03:50:02.052Z",
+  "lastUpdated": "2025-09-13T03:39:15.154Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/dieser-erdwall-deutet-darauf-hin-dass-im-sudan-krieg-ein-weiterer-massenmord-bevorsteht-ld.1901706",
+      "headline": "Dieser Erdwall deutet darauf hin, dass im Sudan-Krieg ein weiterer Massenmord bevorsteht",
+      "image": "https://img.nzz.ch/2025/09/12/e1fbac94-59a5-4f37-9008-f4f578adb783.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1895,1066,x0,y103&wmark=nzz",
+      "timestamp": "2025-09-13T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",

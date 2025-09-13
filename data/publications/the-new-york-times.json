@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-12T19:12:25.759Z",
+  "lastUpdated": "2025-09-13T03:39:15.202Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/12/us/tyler-robinson-manhunt-timeline-kirk-suspect-caught.html",
+      "headline": "How the Gunman Who Killed Charlie Kirk Got on Campus and Escaped",
+      "image": "https://static01.nyt.com/images/2025/09/12/multimedia/2025-09-10-kirk-shooting-spatial-index/2025-09-10-kirk-shooting-spatial-index-articleLarge.jpg",
+      "timestamp": "2025-09-13T03:18:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
