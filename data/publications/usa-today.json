@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-11T18:43:38.845Z",
+  "lastUpdated": "2025-09-13T10:14:40.312Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/09/13/charlie-kirk-shooting-political-violence-data/86110587007/",
+      "headline": "In wake of Charlie Kirk shooting, see how political violence has increased in past year",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/09/12/USAT/86120569007-fractured-states-illo.png",
+      "timestamp": "2025-09-13T10:03:57.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/09/13/ev-tax-credit-used-vehicles-savings/86058229007/",
+      "headline": "Used EV tax credit expires this month, these cars give you the biggest savings",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/09/11/USAT/86102464007-used-e-vstopper.png",
+      "timestamp": "2025-09-13T10:02:00.000Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
