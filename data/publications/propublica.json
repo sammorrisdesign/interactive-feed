@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-21T09:41:14.401Z",
+  "lastUpdated": "2025-09-13T09:35:58.850Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/h2a-visa-farmworkers-operation-blooming-onion/",
+      "headline": "The H-2A Visa Trap",
+      "image": "https://assets-d.propublica.org/v5/images/H2A-Dadu-Shin-social_1200x630px.jpg",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
