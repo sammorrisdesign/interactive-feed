@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-15T16:44:37.528Z",
+  "lastUpdated": "2025-09-15T22:38:03.882Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/15/us/san-francisco-bay-area-quake-tracker.html",
+      "headline": "Map: 3.5-Magnitude Earthquake Strikes the San Francisco Bay Area",
+      "image": "https://static01.nyt.com/images/2025/09/15/world/15wea-quake-tracker-san-francisco-bay-area-nyt6nd6e-index/15wea-quake-tracker-san-francisco-bay-area-nyt6nd6e-index-articleLarge-v6.jpg",
+      "timestamp": "2025-09-15T22:22:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
