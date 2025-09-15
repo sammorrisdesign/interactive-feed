@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-15T09:18:56.450Z",
+  "lastUpdated": "2025-09-15T13:25:04.357Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/15/books/review/old-west-quiz.html",
+      "headline": "Do You Know Where in the Country These Novels Are Set?",
+      "image": "https://static01.nyt.com/images/2025/09/15/books/review/15TBR-Quiz-West/15TBR-Quiz-West-articleLarge.jpg",
+      "timestamp": "2025-09-15T13:00:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
