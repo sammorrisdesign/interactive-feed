@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-16T09:17:44.736Z",
+  "lastUpdated": "2025-09-16T18:22:52.195Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/16/us/elections/results-minnesota-state-house-district-34b.html",
+      "headline": "Minnesota State House District 34B Special Election Results",
+      "image": "https://static01.nyt.com/images/2025/09/16/multimedia/eln-PRE-2025-09-16-state-mn-39ab7d/eln-PRE-2025-09-16-state-mn-39ab7d-articleLarge.jpg",
+      "timestamp": "2025-09-16T18:17:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
