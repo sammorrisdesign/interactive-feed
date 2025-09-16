@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-16T18:46:29.774Z",
+  "lastUpdated": "2025-09-16T21:14:06.410Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/16/arts/music/david-bowie-archive.html",
+      "headline": "What Was Behind David Bowie’s Genius? His Archive Holds the Answers.",
+      "image": "https://static01.nyt.com/images/2025/09/17/arts/cul-david-bowie-archive/cul-david-bowie-archive-articleLarge.jpg",
+      "timestamp": "2025-09-16T21:06:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
