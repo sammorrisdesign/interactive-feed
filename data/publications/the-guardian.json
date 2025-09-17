@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-16T16:19:58.998Z",
+  "lastUpdated": "2025-09-17T05:15:23.473Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2025/sep/17/the-guardian-climate-pledge-2025",
+      "headline": "The Guardian climate pledge 2025",
+      "image": "https://i.guim.co.uk/img/media/b3c988d45807e6eb8b93f26c4761ad99b5055b87/463_258_2824_2259/master/2824.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6b871ee5f69f09968738d9406792bd7c",
+      "timestamp": "2025-09-17T05:00:26.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
