@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-16T21:14:06.410Z",
+  "lastUpdated": "2025-09-17T09:17:23.831Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/17/world/europe/uk-state-visit-etiquette-quiz.html",
+      "headline": "Are You Ready to Meet the King? Try Our Quiz on U.K. State Visit Etiquette.",
+      "image": "https://static01.nyt.com/images/2025/09/17/multimedia/17uk-quiz-lmcz/17uk-quiz-lmcz-articleLarge.jpg",
+      "timestamp": "2025-09-17T09:09:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
