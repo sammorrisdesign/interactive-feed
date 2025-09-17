@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-17T15:17:04.641Z",
+  "lastUpdated": "2025-09-17T16:44:23.389Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/17/well/move/hiit-workout-exercises.html",
+      "headline": "Build Your Own HIIT Workout",
+      "image": "https://static01.nyt.com/images/2025/09/17/well/17Well-HIIT-Static-Promo/17Well-HIIT-Static-Promo-articleLarge.jpg",
+      "timestamp": "2025-09-17T16:37:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
