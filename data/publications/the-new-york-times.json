@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-17T20:38:17.595Z",
+  "lastUpdated": "2025-09-18T09:17:19.316Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/18/realestate/rhode-island-massachusetts-multifamily-homes.html",
+      "headline": "Three’s Company for Two Generations in One New England House",
+      "image": "https://static01.nyt.com/images/2025/09/18/multimedia/18re-Hunt-Kelley-01-tjzl/18re-Hunt-Kelley-01-tjzl-articleLarge.jpg",
+      "timestamp": "2025-09-18T09:05:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/18/travel/things-to-do-zadar.html",
+      "headline": "36 Hours in Zadar, Croatia",
+      "image": "https://static01.nyt.com/images/2025/09/18/multimedia/18Hours-Zadar-wgzk/18Hours-Zadar-wgzk-articleLarge-v5.jpg",
+      "timestamp": "2025-09-18T09:03:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
