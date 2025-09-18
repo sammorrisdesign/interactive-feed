@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-18T16:19:49.112Z",
+  "lastUpdated": "2025-09-18T19:36:30.645Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/18/world/russia-earthquake-tsunami.html",
+      "headline": "7.8-Magnitude Earthquake off Russia Prompts Tsunami Advisory in Alaska",
+      "image": "https://static01.nyt.com/images/2025/09/18/world/18wea-quake-tracker-north-pacific-ocean-nytfu7cl-index/18wea-quake-tracker-north-pacific-ocean-nytfu7cl-index-articleLarge-v7.jpg",
+      "timestamp": "2025-09-18T19:33:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
