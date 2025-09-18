@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-09-17T22:35:59.428Z",
+  "lastUpdated": "2025-09-18T22:13:00.340Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/09/18/earthquake-7-8-russia-pacific-tsunami-warning-how-tsunamis-work/86226889007/",
+      "headline": "7.8 magnitude earthquake in Russia briefly triggers tsunami warning. See how the powerful waves work.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/09/18/USAT/86227794007-topper-4-x.png",
+      "timestamp": "2025-09-18T22:00:33.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/09/18/white-house-ballroom-bigger-construction-plan/86166221007/",
+      "headline": "Construction begins on White House's ballroom, its largest renovation since the 1940s.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/09/17/USAT/86203807007-usatgraphicsballroom-topper.png",
+      "timestamp": "2025-09-18T21:49:16.000Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
