@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-18T09:17:19.316Z",
+  "lastUpdated": "2025-09-18T15:16:34.135Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/mitag-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Mitag",
+      "image": "https://static01.nyt.com/images/2025/09/16/weather/twentythree-map-path-tracker-index/twentythree-map-path-tracker-index-articleLarge-v10.jpg",
+      "timestamp": "2025-09-18T14:57:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
