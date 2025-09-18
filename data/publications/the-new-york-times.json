@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-09-18T15:16:34.135Z",
+  "lastUpdated": "2025-09-18T16:19:49.112Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-jersey-governor-election-polls-2025.html",
+      "headline": "New Jersey Governor Election 2025: Latest Polls",
+      "image": "https://static01.nyt.com/images/2025/09/17/multimedia/2025-polling-averages-new-jersey-governor-election-polls-2025/2025-polling-averages-new-jersey-governor-election-polls-2025-articleLarge-v5.jpg",
+      "timestamp": "2025-09-18T16:05:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/virginia-governor-election-polls-2025.html",
+      "headline": "Virginia Governor Election 2025: Latest Polls",
+      "image": "https://static01.nyt.com/images/2025/09/17/multimedia/2025-polling-averages-virginia-governor-election-polls-2025/2025-polling-averages-virginia-governor-election-polls-2025-articleLarge-v4.jpg",
+      "timestamp": "2025-09-18T15:58:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/neoguri-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Neoguri",
+      "image": "https://static01.nyt.com/images/2025/09/18/weather/neoguri-map-path-tracker-index/neoguri-map-path-tracker-index-articleLarge-v2.jpg",
+      "timestamp": "2025-09-18T15:54:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/ragasa-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Ragasa",
+      "image": "https://static01.nyt.com/images/2025/09/18/weather/ragasa-map-path-tracker-index/ragasa-map-path-tracker-index-articleLarge-v2.jpg",
+      "timestamp": "2025-09-18T15:54:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
