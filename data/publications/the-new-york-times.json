@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-18T19:36:30.645Z",
+  "lastUpdated": "2025-09-19T09:17:48.995Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/magazine/vacuum-show-hodgman-quiz.html",
+      "headline": "Should I Watch a TV Show Recommended by My Robot Vacuum?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-09-19T09:04:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/nyregion/election-mamdani-cuomo.html",
+      "headline": "These New Yorkers Know the Candidate They’ll ‘Never’ Vote For",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-09-19T09:04:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
