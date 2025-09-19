@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-19T09:17:48.995Z",
+  "lastUpdated": "2025-09-19T18:21:53.297Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/business/media/abc-nexstar-kimmel.html",
+      "headline": "How a TV Merger Raised the Pressure on ABC to Suspend Kimmel",
+      "image": "https://static01.nyt.com/images/2025/09/19/multimedia/2025-09-18-abc-kimmel-index/2025-09-18-abc-kimmel-index-articleLarge.png",
+      "timestamp": "2025-09-19T18:12:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
