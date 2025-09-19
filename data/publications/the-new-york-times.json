@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2025-09-19T19:12:39.839Z",
+  "lastUpdated": "2025-09-19T19:36:34.407Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/magazine/petteri-orpo-finland-climate-interview.html",
+      "headline": "Finnish Prime Minister Petteri Orpo on Winning the Debate on Climate Change",
+      "image": "https://static01.nyt.com/images/2025/09/21/magazine/21mag-climate-Leaders-07/21mag-climate-Leaders-07-articleLarge.jpg",
+      "timestamp": "2025-09-19T19:32:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/magazine/irfaan-ali-guyana-climate-interview.html",
+      "headline": "Irfaan Ali, President of Guyana, on Putting Oil Profits Into Clean Energy",
+      "image": "https://static01.nyt.com/images/2025/09/21/magazine/21mag-climate-Leaders-HP-FADER-03/21mag-climate-Leaders-HP-FADER-03-articleLarge.jpg",
+      "timestamp": "2025-09-19T19:32:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/magazine/anthony-albanese-australia-climate-interview.html",
+      "headline": "Anthony Albanese, Prime Minister of Australia, on Getting Past Climate Partisanship",
+      "image": "https://static01.nyt.com/images/2025/09/21/magazine/21mag-climate-Leaders-04/21mag-climate-Leaders-04-articleLarge.jpg",
+      "timestamp": "2025-09-19T19:31:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/magazine/hilda-heine-marshall-islands-climate-interview.html",
+      "headline": "Hilda Heine, President of the Marshall Islands, on Leading a Sinking Country",
+      "image": "https://static01.nyt.com/images/2025/09/21/magazine/21mag-climate-Leaders-08/21mag-climate-Leaders-08-articleLarge.jpg",
+      "timestamp": "2025-09-19T19:31:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/magazine/william-ruto-kenya-climate-interview.html",
+      "headline": "President William Ruto of Kenya on Pushing Clean Energy Amid Domestic Unrest",
+      "image": "https://static01.nyt.com/images/2025/09/21/magazine/21mag-climate-Leaders-10/21mag-climate-Leaders-10-articleLarge.jpg",
+      "timestamp": "2025-09-19T19:28:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/magazine/muhammad-yunus-bangladesh-climate-interview.html",
+      "headline": "Muhammad Yunus, Chief Adviser of Bangladesh, on Getting Squeezed by Rising Tides",
+      "image": "https://static01.nyt.com/images/2025/09/21/magazine/21mag-climate-Leaders-03/21mag-climate-Leaders-03-articleLarge.jpg",
+      "timestamp": "2025-09-19T19:27:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/19/magazine/climate-change-world-leaders-interviews.html",
+      "headline": "Six World Leaders on Navigating Climate Change, Without the U.S.",
+      "image": "https://static01.nyt.com/images/2025/09/21/magazine/21mag-climate-Leaders-11/21mag-climate-Leaders-11-articleLarge.jpg",
+      "timestamp": "2025-09-19T19:23:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
