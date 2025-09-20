@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-15T03:37:55.921Z",
+  "lastUpdated": "2025-09-20T03:43:43.082Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-insel-die-es-nicht-geben-duerfte-ld.1903235",
+      "headline": "Die Insel, die es nicht geben dürfte",
+      "image": "https://img.nzz.ch/2025/09/19/3a7a6dd0-5f31-449b-ac7c-567fdfa22915.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=9930,5586,x0,y859&wmark=nzz",
+      "timestamp": "2025-09-20T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
