@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-13T19:10:47.248Z",
+  "lastUpdated": "2025-09-20T02:37:42.631Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2025/openai-training-data-sora/",
+      "headline": "OpenAI won’t say whose content trained its video tool. We found some clues.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreigtmlf3dvtwjm4ra4hh7rb4zgz6dbhkoojtbcb2fgr7hub7mhfjri@jpeg",
+      "timestamp": "2025-09-20T02:00:08.401Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
