@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-19T19:36:34.407Z",
+  "lastUpdated": "2025-09-20T05:14:51.236Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/20/us/pentagon-press-restrictions.html",
+      "headline": "Read the Pentagon’s New Restrictions on Reporters",
+      "image": "https://static01.nyt.com/images/2025/09/20/doc-pentagon-press-restrictio-promo/doc-pentagon-press-restrictio-promo-articleLarge.png",
+      "timestamp": "2025-09-20T05:08:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
