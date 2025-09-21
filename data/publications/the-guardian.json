@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-20T18:19:44.595Z",
+  "lastUpdated": "2025-09-21T05:15:02.978Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/sep/21/us-right-free-speech-charlie-kirk",
+      "headline": "The US right claimed free speech was sacred – until the Charlie Kirk killing",
+      "image": "https://i.guim.co.uk/img/media/12ab94836ef35c89548982434a577e9fbcd20666/982_884_3022_2418/master/3022.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f62410df5eb46f99d6c89f555325e1e9",
+      "timestamp": "2025-09-21T05:00:34.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
