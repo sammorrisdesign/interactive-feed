@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-22T11:14:01.569Z",
+  "lastUpdated": "2025-09-22T13:44:53.840Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/narda-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Narda",
+      "image": "https://static01.nyt.com/images/2025/09/21/weather/narda-map-path-tracker-index/narda-map-path-tracker-index-articleLarge-v11.jpg",
+      "timestamp": "2025-09-22T13:32:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
