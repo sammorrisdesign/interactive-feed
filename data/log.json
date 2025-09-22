@@ -23,5 +23,15 @@
     "timestamp": "2025-09-22T10:43:28.339Z",
     "publication": "The New York Times",
     "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:13510:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.NewYorkTimesAPI (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:45:33)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-09-22T17:13:28.069Z",
+    "publication": "Kontinentalist",
+    "error": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:198:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-09-22T17:13:28.069Z",
+    "publication": "Kontinentalist",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
   }
 ]
