@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-23T19:36:21.262Z",
+  "lastUpdated": "2025-09-23T20:39:20.713Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/bualoi-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Bualoi",
+      "image": "https://static01.nyt.com/images/2025/09/23/weather/twentysix-map-path-tracker-index/twentysix-map-path-tracker-index-articleLarge-v4.jpg",
+      "timestamp": "2025-09-23T20:26:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
