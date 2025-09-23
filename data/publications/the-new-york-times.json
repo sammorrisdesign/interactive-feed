@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-23T09:17:20.453Z",
+  "lastUpdated": "2025-09-23T19:36:21.262Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/23/us/elections/results-arizona-us-house-7-special.html",
+      "headline": "Arizona Seventh Congressional District Special Election Results",
+      "image": "https://static01.nyt.com/images/2025/09/22/multimedia/eln-PRE-2025-09-23-race-az-us-h-7-sp-df2b15/eln-PRE-2025-09-23-race-az-us-h-7-sp-df2b15-articleLarge-v2.jpg",
+      "timestamp": "2025-09-23T19:08:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
