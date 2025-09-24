@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-23T20:39:20.713Z",
+  "lastUpdated": "2025-09-24T15:40:01.895Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/24/us/warrenslotkinletterrequestingoiginvestigationintouaechipscorruption.html",
+      "headline": "Read the Letter to the Inspectors General",
+      "image": "https://static01.nyt.com/images/2025/09/23/doc-warrenslotkinletterreques-promo/doc-warrenslotkinletterreques-promo-articleLarge.png",
+      "timestamp": "2025-09-24T15:38:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
