@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-25T17:38:29.636Z",
+  "lastUpdated": "2025-09-25T18:23:52.191Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/us/hurricane-helene-north-carolina-art.html",
+      "headline": "Turning to Art After the Storm",
+      "image": "https://static01.nyt.com/images/2025/09/25/us/helene-artists-promo/helene-artists-promo-articleLarge.jpg",
+      "timestamp": "2025-09-25T18:13:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/nyregion/settlement-agreement-super-pac-zeldin-campaign.html",
+      "headline": "Settlement Agreement in Zeldin Super PAC Coordination Case",
+      "image": "https://static01.nyt.com/images/2025/09/25/doc-executive-summary-of-sett-promo/doc-executive-summary-of-sett-promo-articleLarge.png",
+      "timestamp": "2025-09-25T17:47:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
