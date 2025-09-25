@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-24T21:14:16.511Z",
+  "lastUpdated": "2025-09-25T04:19:46.887Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/us/politics/trump-data-facts.html",
+      "headline": "For Trump, Data Is Often ‘Phony,’ Unless It Supports His Views",
+      "image": "https://static01.nyt.com/images/2025/09/18/us/politics/dc-trump-data-1758228624163/dc-trump-data-1758228624163-articleLarge.jpg",
+      "timestamp": "2025-09-25T04:05:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
