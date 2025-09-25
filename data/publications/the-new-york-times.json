@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2025-09-25T04:42:04.970Z",
+  "lastUpdated": "2025-09-25T09:17:09.752Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/business/economy/h1b-visa-fee.html",
+      "headline": "$100,000 Per Employee: How the H-1B Visa Fee Could Reshape Work Forces",
+      "image": "https://static01.nyt.com/images/2025/09/24/multimedia/2025-09-22-h1b-data-index/2025-09-22-h1b-data-index-articleLarge-v9.png",
+      "timestamp": "2025-09-25T09:06:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/realestate/cleveland-historic-victorian-homes-sale.html",
+      "headline": "Exploring Cleveland’s Historic Homes With $500,000 and an Eye for Character",
+      "image": "https://static01.nyt.com/images/2025/09/25/multimedia/25reHunt-Riddle-01-hfjz/25reHunt-Riddle-01-hfjz-articleLarge-v3.jpg",
+      "timestamp": "2025-09-25T09:06:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/travel/things-to-do-litchfield-connecticut.html",
+      "headline": "36 Hours in Litchfield County, Connecticut",
+      "image": "https://static01.nyt.com/images/2025/09/25/multimedia/36-hours-litchfield-bvgw/36-hours-litchfield-bvgw-articleLarge-v5.jpg",
+      "timestamp": "2025-09-25T09:05:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/opinion/focus-group-disapproving-trump-voters.html",
+      "headline": "Trump’s Youth Support Has Faded. These 11 Young Trump Voters Explain Why.",
+      "image": "https://static01.nyt.com/images/2025/09/25/opinion/25focusgroup-promo/25focusgroup-promo-articleLarge.jpg",
+      "timestamp": "2025-09-25T09:04:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/world/europe/cities-heat-solutions-climate-crisis.html",
+      "headline": "How Cities Are Beating the Heat",
+      "image": "https://static01.nyt.com/images/2025/09/12/12visualUploader-23673-cover/12visualUploader-23673-cover-articleLarge.jpg",
+      "timestamp": "2025-09-25T09:04:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
