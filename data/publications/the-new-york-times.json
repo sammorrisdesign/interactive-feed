@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-25T04:19:46.887Z",
+  "lastUpdated": "2025-09-25T04:42:04.970Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/world/americas/earthquake-venezuela-tracker.html",
+      "headline": "Map: 6.3-Magnitude Earthquake Strikes Venezuela",
+      "image": "https://static01.nyt.com/images/2025/09/25/world/25wea-quake-tracker-venezuela-nytazgf8-index/25wea-quake-tracker-venezuela-nytazgf8-index-articleLarge-v10.jpg",
+      "timestamp": "2025-09-25T04:31:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
