@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-25T09:17:09.752Z",
+  "lastUpdated": "2025-09-25T17:38:29.636Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/nyregion/rebuttal-super-pac-zeldin-campaign.html",
+      "headline": "Rebuttal on Possible Super PAC Coordination With Zeldin Campaign",
+      "image": "https://static01.nyt.com/images/2025/09/25/doc-250402-stny-sos-response--promo/doc-250402-stny-sos-response--promo-articleLarge.png",
+      "timestamp": "2025-09-25T17:35:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/25/nyregion/report-super-pac-zeldin-campaign.html",
+      "headline": "Report on Possible Super PAC Coordination With Zeldin Campaign",
+      "image": "https://static01.nyt.com/images/2025/09/25/doc-h2024-009pleadings1-marke-promo/doc-h2024-009pleadings1-marke-promo-articleLarge.png",
+      "timestamp": "2025-09-25T17:34:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
