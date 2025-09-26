@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-26T01:12:59.325Z",
+  "lastUpdated": "2025-09-26T09:17:56.060Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/26/world/middleeast/israel-gaza-city-destruction-war.html",
+      "headline": "Israel Is Flattening Parts of Gaza City",
+      "image": "https://static01.nyt.com/images/2025/09/25/multimedia/2025-09-18-gaza-city-destruction-index/2025-09-18-gaza-city-destruction-index-articleLarge-v2.jpg",
+      "timestamp": "2025-09-26T09:05:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
