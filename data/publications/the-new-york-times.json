@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-09-26T18:45:05.961Z",
+  "lastUpdated": "2025-09-26T20:17:29.425Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/26/us/08212011-panda-answers.html",
+      "headline": "Answers to Puns and Anagrams (Aug. 21, 2011)",
+      "image": "https://static01.nyt.com/images/2025/09/26/doc-08212011-panda-answers-promo/doc-08212011-panda-answers-promo-articleLarge.png",
+      "timestamp": "2025-09-26T19:59:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/26/us/01052003-panda-answers.html",
+      "headline": "Answers to Puns and Anagrams (Jan. 5, 2003)",
+      "image": "https://static01.nyt.com/images/2025/09/26/doc-01052003-panda-answers-promo/doc-01052003-panda-answers-promo-articleLarge.png",
+      "timestamp": "2025-09-26T19:55:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/26/us/04122015-panda-answersjpg.html",
+      "headline": "Answers to Puns and Anagrams (April 12, 2015)",
+      "image": "https://static01.nyt.com/images/2025/09/26/doc-04122015-panda-answersjpg-promo/doc-04122015-panda-answersjpg-promo-articleLarge.png",
+      "timestamp": "2025-09-26T19:51:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
