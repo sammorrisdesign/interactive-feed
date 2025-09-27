@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-09-26T20:17:29.425Z",
+  "lastUpdated": "2025-09-27T09:14:37.929Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/27/us/politics/charlie-kirk-debate.html",
+      "headline": "The Debate Style That Propelled Charlie Kirk’s Movement",
+      "image": "https://static01.nyt.com/images/2025/09/26/multimedia/2025-09-16-kirk-debates-index/2025-09-16-kirk-debates-index-articleLarge.jpg",
+      "timestamp": "2025-09-27T09:02:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/27/magazine/hand-drying-hodgman-quiz.html",
+      "headline": "Can You Use Your Spouse as a Hand Towel?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-09-27T09:02:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/27/us/federal-workers-trump-layoffs.html",
+      "headline": "Who Left the Federal Workforce",
+      "image": "https://static01.nyt.com/images/2025/09/19/us/politics/federal-workers-promo-still/federal-workers-promo-still-articleLarge.jpg",
+      "timestamp": "2025-09-27T09:02:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
