@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-26T03:48:21.203Z",
+  "lastUpdated": "2025-09-28T09:14:43.690Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/alle-resultate-zu-den-abstimmungen-vom-28-september-2025-in-der-schweiz-und-in-zuerich-ld.1903448",
+      "headline": "Alle Resultate zu den Abstimmungen vom 28. September 2025 in der Schweiz und in Zürich",
+      "image": "https://img.nzz.ch/2024/09/03/ab2e6796-2ca5-4755-ab0d-3bb6f195412f.jpeg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4000,2250,x0,y208&wmark=nzz",
+      "timestamp": "2025-09-28T09:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
