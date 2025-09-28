@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-27T09:14:37.929Z",
+  "lastUpdated": "2025-09-28T01:20:02.257Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/27/business/energy-environment/rooftop-solar-panels.html",
+      "headline": "Is This L.A. Home the Solution to America’s Growing Energy Crisis?",
+      "image": "https://static01.nyt.com/images/2025/09/12/multimedia/2025-07-22-rooftop-solar-index/2025-07-22-rooftop-solar-index-articleLarge-v4.jpg",
+      "timestamp": "2025-09-28T00:50:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
