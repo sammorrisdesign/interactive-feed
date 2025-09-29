@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-29T16:16:38.390Z",
+  "lastUpdated": "2025-09-29T19:36:37.195Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/29/polls/times-siena-poll-registered-voter-crosstabs.html",
+      "headline": "Cross-Tabs: September 2025 Times/Siena National Poll of Registered Voters",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-09-29T19:31:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/29/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: September 2025 Times/Siena National Poll of Registered Voters",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-09-29T19:30:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
