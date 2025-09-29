@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-28T19:11:59.907Z",
+  "lastUpdated": "2025-09-29T09:19:15.164Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/29/world/asia/china-missiles.html",
+      "headline": "The Missiles Threatening Taiwan",
+      "image": "https://static01.nyt.com/images/2025/09/24/multimedia/2025-08-01-china-missiles-base-61-index/2025-08-01-china-missiles-base-61-index-articleLarge-v6.jpg",
+      "timestamp": "2025-09-29T08:50:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
