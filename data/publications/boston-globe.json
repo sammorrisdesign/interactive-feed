@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-08-28T15:17:07.198Z",
+  "lastUpdated": "2025-09-29T18:23:54.714Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/education/2025/09/mcas-scores-schools-districts/database/",
+      "headline": "Database: How each school and district performed on the 2025 MCAS tests in math, English, and science",
+      "image": "https://apps.bostonglobe.com/metro/education/2025/09/mcas-scores-schools-districts/static/6b54fbdf922fb4c8c233ed3ef71325d4/47498/BPJYEZFBKZDMPACOLQTOYPXDRA.jpg",
+      "timestamp": "2025-09-29T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/magazine/2025/07/best-of-the-best-restaurants-things-to-do/",
+      "headline": "Best of the best",
+      "image": "https://bostonglobe-prod.cdn.arcpublishing.com/resizer/7M1JN0eiGE9fOqjSRZd81iT2wC8=/2048x0/cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/3H3YK4NOS5DBXD4PG3HXN5WQPE.jpg",
+      "timestamp": "2025-07-09T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
