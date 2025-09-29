@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-29T14:16:43.036Z",
+  "lastUpdated": "2025-09-29T16:16:38.390Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/29/us/national-archives-constitution.html",
+      "headline": "A Timely Look at the Constitution in the Trump Era",
+      "image": "https://static01.nyt.com/images/2025/09/22/multimedia/00-Constitution-wczg/00-Constitution-wczg-articleLarge.jpg",
+      "timestamp": "2025-09-29T16:05:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
