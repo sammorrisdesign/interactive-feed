@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-29T09:19:15.164Z",
+  "lastUpdated": "2025-09-29T14:16:43.036Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/29/books/review/lyrics-poem-quiz.html",
+      "headline": "Do You Recognize the Authors of These Lyrical, Literary Lines?",
+      "image": "https://static01.nyt.com/images/2025/09/29/books/review/29BKS-QUIZ-lyrics/29BKS-QUIZ-lyrics-articleLarge.png",
+      "timestamp": "2025-09-29T14:00:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
