@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-09-30T14:41:06.007Z",
+  "lastUpdated": "2025-09-30T16:20:23.514Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/30/us/politics/government-shutdown-furloughs.html",
+      "headline": "How Many Federal Workers Could Be Furloughed in a Government Shutdown?",
+      "image": "https://static01.nyt.com/images/2025/09/29/multimedia/2025-09-26-shutdown-employees-index/2025-09-26-shutdown-employees-index-articleLarge-v8.jpg",
+      "timestamp": "2025-09-30T16:17:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/30/weather/octave-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Octave",
+      "image": "https://static01.nyt.com/images/2025/09/30/weather/fifteen-e-map-path-tracker-index/fifteen-e-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2025-09-30T16:15:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
