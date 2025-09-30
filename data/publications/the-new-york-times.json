@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-30T09:17:41.267Z",
+  "lastUpdated": "2025-09-30T14:41:06.007Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/30/world/asia/earthquake-philippines.html",
+      "headline": "Map: 6.9-Magnitude Earthquake Strikes Near the Philippines",
+      "image": "https://static01.nyt.com/images/2025/09/30/world/30wea-quake-tracker-visayan-sea-nytezfxs-index/30wea-quake-tracker-visayan-sea-nytezfxs-index-articleLarge-v14.jpg",
+      "timestamp": "2025-09-30T14:27:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
