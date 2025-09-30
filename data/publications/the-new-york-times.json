@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-30T17:14:28.696Z",
+  "lastUpdated": "2025-09-30T23:36:06.316Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/30/us/senate-shutdown-vote.html",
+      "headline": "How Every Senator Voted to Avoid a Government Shutdown",
+      "image": "https://static01.nyt.com/images/2025/09/29/us/senate-shutdown-vote-1759275060801/senate-shutdown-vote-1759275060801-articleLarge.jpg",
+      "timestamp": "2025-09-30T23:28:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
