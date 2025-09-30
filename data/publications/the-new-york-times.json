@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-29T20:37:00.967Z",
+  "lastUpdated": "2025-09-30T09:17:41.267Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/09/30/us/government-shutdown-funding.html",
+      "headline": "From Crisis to Crisis: How Congress Struggles to Fund the Government",
+      "image": "https://static01.nyt.com/images/2025/09/29/multimedia/2025-09-19-continuing-resolutions-index/2025-09-19-continuing-resolutions-index-articleLarge-v6.jpg",
+      "timestamp": "2025-09-30T09:05:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
