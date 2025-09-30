@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-28T09:14:43.690Z",
+  "lastUpdated": "2025-09-30T04:19:38.434Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/made-in-russia-gebaut-mit-mikrochips-aus-der-schweiz-der-weg-von-drohne-13084-ld.1903772",
+      "headline": "Made in Russia, gebaut mit Mikrochips aus der Schweiz: der Weg der Drohne 13084",
+      "image": "https://img.nzz.ch/2025/09/26/f682f1f2-d5ac-408e-ade3-f2745690a149.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1620,911,x0,y84&wmark=nzz",
+      "timestamp": "2025-09-30T04:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
