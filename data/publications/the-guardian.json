@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-29T21:14:07.567Z",
+  "lastUpdated": "2025-10-01T01:21:02.613Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/sep/30/us-senate-government-funding-votes",
+      "headline": "Tracker: how each US senator voted on the Republican plan to avert shutdown",
+      "image": "https://i.guim.co.uk/img/media/80dfb0eac79407f73e1fdaa4502e6b8982b48ed4/0_0_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3f911c93a3d35bc21ff804ecfc5718fa",
+      "timestamp": "2025-10-01T00:23:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
