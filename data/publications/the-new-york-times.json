@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-09-30T23:36:06.316Z",
+  "lastUpdated": "2025-10-01T17:38:56.556Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/01/us/trump-government-shutdown-federal-cuts.html",
+      "headline": "How Much Smaller Is the Federal Work Force? Shutdown Plans Offer a Clue.",
+      "image": "https://static01.nyt.com/images/2025/09/30/multimedia/2025-09-29-shutdown-agency-cuts-index/2025-09-29-shutdown-agency-cuts-index-articleLarge-v3.jpg",
+      "timestamp": "2025-10-01T17:23:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
