@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-10-01T17:38:56.556Z",
+  "lastUpdated": "2025-10-02T09:16:58.797Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/02/upshot/shutdown-obamacare-subsidies.html",
+      "headline": "At Stake in the Shutdown Fight: Obamacare Prices That Could Rise by Thousands of Dollars",
+      "image": "https://static01.nyt.com/images/2025/10/01/multimedia/2025-10-01-obamacare-subsidy-expiration-index/2025-10-01-obamacare-subsidy-expiration-index-articleLarge-v4.png",
+      "timestamp": "2025-10-02T09:04:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/02/realestate/queens-elmhurst-apartment-sale.html",
+      "headline": "He Wanted to Stay Close to Family in Queens. But How Close Was Too Close?",
+      "image": "https://static01.nyt.com/images/2025/10/02/multimedia/02re-Hunt-Burgos-01-qbmg/02re-Hunt-Burgos-01-qbmg-articleLarge-v4.jpg",
+      "timestamp": "2025-10-02T09:04:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/02/travel/things-to-do-busan.html",
+      "headline": "36 Hours in Busan, South Korea",
+      "image": "https://static01.nyt.com/images/2025/10/02/multimedia/TRAV-36HOURS-BUSAN-01-bpft/TRAV-36HOURS-BUSAN-01-bpft-articleLarge-v2.jpg",
+      "timestamp": "2025-10-02T09:03:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
