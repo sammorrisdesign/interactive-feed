@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-01T16:20:12.867Z",
+  "lastUpdated": "2025-10-02T11:12:49.249Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/oct/02/trump-immigration-family-separations-deportations",
+      "headline": "Trump revives family separations amid drive to deport millions: ‘A tactic to punish’",
+      "image": "https://i.guim.co.uk/img/media/1c8a8c18e2edc029a28730662f56f829c11e608b/0_432_1920_1536/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5926ebef78f50e71a6bdecd4fa57073a",
+      "timestamp": "2025-10-02T11:00:47.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2025/oct/02/ai-children-parenting-creativity",
+      "headline": "‘My son genuinely believed it was real’: Parents are letting little kids play with AI. Are they wrong?",
+      "image": "https://i.guim.co.uk/img/media/768d206146ff6b9801c01b99329e7bcc37a02a04/0_446_2240_1792/master/2240.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=455678fea2704e368df15451ee4d22cd",
+      "timestamp": "2025-10-02T11:00:46.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
