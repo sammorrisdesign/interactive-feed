@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-02T09:16:58.797Z",
+  "lastUpdated": "2025-10-02T15:16:24.846Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/matmo-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Matmo",
+      "image": "https://static01.nyt.com/images/2025/10/02/weather/twentyseven-map-path-tracker-index/twentyseven-map-path-tracker-index-articleLarge-v2.jpg",
+      "timestamp": "2025-10-02T15:05:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
