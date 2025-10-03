@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-03T17:37:20.502Z",
+  "lastUpdated": "2025-10-03T21:36:04.446Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/03/books/emil-ferris-monsters-horror-comics.html",
+      "headline": "The Comics Artist Who Sees Monsters in Museums, and in the Mirror",
+      "image": "https://static01.nyt.com/images/2025/10/03/realestate/03emil-ferris-promo/03emil-ferris-promo-articleLarge-v4.jpg",
+      "timestamp": "2025-10-03T21:29:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
