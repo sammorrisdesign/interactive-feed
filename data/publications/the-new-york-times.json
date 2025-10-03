@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-02T22:14:46.282Z",
+  "lastUpdated": "2025-10-03T09:16:21.108Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/03/magazine/knuckle-cracking-hodgman-quiz.html",
+      "headline": "Can Your Spouse Put Limits on Knuckle-Cracking?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-10-03T09:03:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/03/opinion/wnba-pay.html",
+      "headline": "The W.N.B.A. Is Making More Money Than Ever. Why Aren’t the Players?",
+      "image": "https://static01.nyt.com/images/2025/10/03/opinion/03berri/03berri-articleLarge-v2.png",
+      "timestamp": "2025-10-03T09:03:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
