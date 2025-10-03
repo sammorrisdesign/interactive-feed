@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-18T09:17:19.280Z",
+  "lastUpdated": "2025-10-03T10:16:28.236Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/trump-food-cuts/",
+      "headline": "Trump Canceled 94 Million Pounds of Food Aid. Here’s What Never Arrived.",
+      "image": "https://assets-d.propublica.org/v5/images/federal-food-cuts-promo.jpg",
+      "timestamp": null
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
