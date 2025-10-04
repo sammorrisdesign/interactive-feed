@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-09-30T04:19:38.434Z",
+  "lastUpdated": "2025-10-04T03:41:03.513Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-preis-des-goldes-wie-illegales-schuerfen-den-menschen-und-die-natur-ausbeutet-ld.1905209",
+      "headline": "Der Preis des Goldes: Wie illegales Schürfen den Menschen und die Natur ausbeutet",
+      "image": "https://img.nzz.ch/2025/10/03/0bdb1cf1-12ec-41b5-a8cb-5cb8c907f973.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2631,1480,x124,y0&wmark=nzz",
+      "timestamp": "2025-10-04T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
