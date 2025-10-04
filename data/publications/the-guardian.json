@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-04T05:14:18.955Z",
+  "lastUpdated": "2025-10-04T13:23:28.300Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/oct/04/justice-ketanji-brown-jackson-supreme-court",
+      "headline": "Justice Ketanji Brown Jackson is trying to warn us about something. Are we listening?",
+      "image": "https://i.guim.co.uk/img/media/f25b4b72648975bdf9ff1c79fd177b392dff0847/0_0_3375_2700/master/3375.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8c006e63a525bec498e6eee7ba3af89",
+      "timestamp": "2025-10-04T13:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
