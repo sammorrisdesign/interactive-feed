@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-04T10:14:43.635Z",
+  "lastUpdated": "2025-10-05T10:15:11.152Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/10/05/banned-book-data-shows-alarming-increase/86352358007/",
+      "headline": "Banned Books Week spotlights attempts to restrict books in libraries and schools",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/09/28/USAT/86403281007-books-topper.png",
+      "timestamp": "2025-10-05T10:02:34.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/10/05/supermoon-harvest-moon-2025-lunar-phases/86416576007/",
+      "headline": "Supermoon rising: How October's harvest moon will light up the sky",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/09/29/USAT/86424146007-usatgraphics-supermoon-topper.png",
+      "timestamp": "2025-10-05T10:01:21.000Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
