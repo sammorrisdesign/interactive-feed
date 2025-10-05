@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-05T12:59:22.121Z",
+  "lastUpdated": "2025-10-05T23:12:53.563Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/05/upshot/ten-minute-challenge-marshall.html",
+      "headline": "10-Minute Challenge: A Modern Master Takes Us Inside an Artist’s Studio",
+      "image": "https://static01.nyt.com/images/2025/10/06/upshot/up-marshall-promo/up-marshall-promo-articleLarge.jpg",
+      "timestamp": "2025-10-05T23:08:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
