@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-06T09:19:50.173Z",
+  "lastUpdated": "2025-10-06T14:16:19.523Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/06/books/review/horror-book-quiz.html",
+      "headline": "Oh, the Horror! Do You Know the Books That Inspired These Movies and TV Shows?",
+      "image": "https://static01.nyt.com/images/2025/10/06/books/review/06TBR-Quiz-HORROR/06TBR-Quiz-HORROR-articleLarge.jpg",
+      "timestamp": "2025-10-06T14:00:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
