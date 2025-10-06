@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-06T15:16:33.903Z",
+  "lastUpdated": "2025-10-06T22:38:05.350Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/06/dining/how-to-open-restaurant-nyc.html",
+      "headline": "Opening a Restaurant in New York Is No Picnic. Here’s What It Takes.",
+      "image": "https://static01.nyt.com/images/2025/10/06/multimedia/REST-CHEENI-COVER1-wzfl/REST-CHEENI-COVER1-wzfl-articleLarge.jpg",
+      "timestamp": "2025-10-06T22:18:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
