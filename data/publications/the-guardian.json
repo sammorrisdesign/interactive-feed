@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-07T05:15:30.310Z",
+  "lastUpdated": "2025-10-07T10:41:38.255Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2025/oct/07/the-ruin-of-gaza-how-israel-two-year-assault-has-devastated-the-territory",
+      "headline": "The ruin of Gaza: how Israel’s two-year assault has devastated the territory",
+      "image": "https://i.guim.co.uk/img/media/d67878349a0b323d72c399dfbf857cc0db3f9bd5/0_714_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e8beeadfd5a9a74893bad32529ea6b45",
+      "timestamp": "2025-10-07T10:35:30.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
