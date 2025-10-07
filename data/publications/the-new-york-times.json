@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-07T13:26:52.324Z",
+  "lastUpdated": "2025-10-07T15:17:50.644Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/jerry-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Jerry",
+      "image": "https://static01.nyt.com/images/2025/10/07/weather/jerry-map-path-tracker-index/jerry-map-path-tracker-index-articleLarge-v4.jpg",
+      "timestamp": "2025-10-07T14:56:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
