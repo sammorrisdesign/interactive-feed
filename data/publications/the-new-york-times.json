@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-06T22:38:05.350Z",
+  "lastUpdated": "2025-10-07T01:12:34.853Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/06/world/middleeast/gaza-loss.html",
+      "headline": "We Tried to Reach Gazans We Interviewed Over Two Years of War. Here’s What Happened to Them.",
+      "image": "https://static01.nyt.com/images/2025/10/06/world/gaza-voices-promo/gaza-voices-promo-articleLarge.jpg",
+      "timestamp": "2025-10-06T23:43:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
