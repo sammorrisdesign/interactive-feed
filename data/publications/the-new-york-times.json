@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-07T22:14:56.327Z",
+  "lastUpdated": "2025-10-08T05:15:46.739Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/08/opinion/gaza-strip-before-after.html",
+      "headline": "The Gaza I Once Knew Is Gone",
+      "image": "https://static01.nyt.com/images/2025/10/08/opinion/08abdulfattah-promo03/08abdulfattah-03-articleLarge.jpg",
+      "timestamp": "2025-10-08T05:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
