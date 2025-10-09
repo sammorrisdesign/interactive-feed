@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-10-08T20:18:05.349Z",
+  "lastUpdated": "2025-10-09T09:17:13.671Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/09/realestate/california-berkeley-homes-sale.html",
+      "headline": "After a Crisis, ‘a Miracle’ Gave Them a Second Chance in Berkeley",
+      "image": "https://static01.nyt.com/images/2025/10/09/multimedia/09re-Hunt-Francis-02-zkfj/09re-Hunt-Francis-02-zkfj-articleLarge-v2.jpg",
+      "timestamp": "2025-10-09T09:04:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/09/travel/things-to-do-madison.html",
+      "headline": "36 Hours in Madison, Wis.",
+      "image": "https://static01.nyt.com/images/2025/10/09/multimedia/09Hours-Madison-wtlh/09Hours-Madison-wtlh-articleLarge-v2.jpg",
+      "timestamp": "2025-10-09T09:04:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/09/world/americas/drug-trafficking-venezuela.html",
+      "headline": "Why Blowing Up Venezuelan Boats Won’t Stop the Flow of Drugs",
+      "image": "https://static01.nyt.com/images/2025/10/06/multimedia/2025-09-29-drug-trafficking-venezuela-index/2025-09-29-drug-trafficking-venezuela-index-articleLarge-v3.png",
+      "timestamp": "2025-10-09T09:02:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
