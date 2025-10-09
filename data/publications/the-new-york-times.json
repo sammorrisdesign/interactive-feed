@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-09T09:17:13.671Z",
+  "lastUpdated": "2025-10-09T18:23:15.679Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/raymond-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Raymond",
+      "image": "https://static01.nyt.com/images/2025/10/09/weather/seventeen-e-map-path-tracker-index/seventeen-e-map-path-tracker-index-articleLarge-v4.jpg",
+      "timestamp": "2025-10-09T18:14:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
