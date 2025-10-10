@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-09T22:14:53.650Z",
+  "lastUpdated": "2025-10-10T02:44:45.037Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/09/world/asia/quake-tracker-philippine-sea.html",
+      "headline": "Map: 7.4-Magnitude Earthquake Strikes the Philippine Sea",
+      "image": "https://static01.nyt.com/images/2025/10/10/world/09wea-quake-tracker-philippine-sea-nytj4nts-index/09wea-quake-tracker-philippine-sea-nytj4nts-index-articleLarge-v12.jpg",
+      "timestamp": "2025-10-10T02:07:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
