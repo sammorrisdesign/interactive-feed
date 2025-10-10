@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-10T07:37:01.266Z",
+  "lastUpdated": "2025-10-10T09:18:10.162Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/10/magazine/mustache-veto-hodgman-quiz.html",
+      "headline": "Do Spouses Have Mustache Veto Power?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-10-10T09:03:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
