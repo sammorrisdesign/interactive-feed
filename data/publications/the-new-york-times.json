@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-10T18:23:24.051Z",
+  "lastUpdated": "2025-10-10T19:36:14.847Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/10/well/move/kettlebell-swing-technique.html",
+      "headline": "How to Do a Perfect Kettlebell Swing",
+      "image": "https://static01.nyt.com/images/2025/10/09/well/WELL-FORM-KETTLEBELL_ART/WELL-FORM-KETTLEBELL_ART-articleLarge.jpg",
+      "timestamp": "2025-10-10T19:33:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
