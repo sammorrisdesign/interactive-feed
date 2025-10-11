@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-04T03:41:03.513Z",
+  "lastUpdated": "2025-10-11T04:39:58.492Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/zwei-unscheinbare-hallen-bei-memphis-unter-diesem-dach-wachsen-elon-musks-ki-ambitionen-ld.1906416",
+      "headline": "Zwei unscheinbare Hallen bei Memphis: Unter diesem Dach wachsen Elon Musks KI-Ambitionen",
+      "image": "https://img.nzz.ch/2025/10/10/56e5b7af-dcf3-4620-99bf-087ef6d33bf2.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y556&wmark=nzz",
+      "timestamp": "2025-10-11T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/drohnen-abwehr-wenn-in-der-dunkelheit-die-unbekannten-drohnen-kommen-wie-schuetzt-man-einen-flughafen-vor-angriffen-ld.1904914",
+      "headline": "Wenn in der Dunkelheit die unbekannten Drohnen kommen: Wie schützt man einen Flughafen vor Angriffen?",
+      "image": "https://img.nzz.ch/2025/10/10/05e180c4-abd2-43c9-b920-6b54783d26b7.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2025-10-11T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
