@@ -118,5 +118,15 @@
     "timestamp": "2025-10-13T17:14:20.891Z",
     "publication": "The Washington Post",
     "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-10-13T17:38:12.253Z",
+    "publication": "The Washington Post",
+    "error": "Error: Rate Limit Exceeded\n    at XrpcClient.call (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/xrpc-client.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async CredentialSession.login (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/api/dist/atp-agent.js:257:25)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:286:7)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-10-13T17:38:12.260Z",
+    "publication": "The Washington Post",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
   }
 ]
