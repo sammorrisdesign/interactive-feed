@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-12T05:14:32.347Z",
+  "lastUpdated": "2025-10-13T04:42:49.464Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/oct/13/electricity-from-renewables-overtakes-coal-in-australia-for-the-first-time",
+      "headline": "Electricity from renewables overtakes coal in Australia for the first time",
+      "image": "https://i.guim.co.uk/img/media/b8c6ac5b97038dd5cc22d6e75b0dafce8ae572d1/11_0_1058_846/master/1058.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e20865383054f403f19be0c26f9f5f2",
+      "timestamp": "2025-10-12T14:00:56.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
