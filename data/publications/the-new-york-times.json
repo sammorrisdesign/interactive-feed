@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-13T10:19:59.103Z",
+  "lastUpdated": "2025-10-13T23:14:28.827Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/13/us/sue-goldie-parkinsons.html",
+      "headline": "Sue Goldie Has Parkinson’s Disease",
+      "image": "https://static01.nyt.com/images/2025/10/14/multimedia/14sue-goldie-promo-fqcz/14sue-goldie-promo-fqcz-articleLarge.jpg",
+      "timestamp": "2025-10-13T22:59:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
