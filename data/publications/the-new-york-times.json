@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-15T19:36:24.091Z",
+  "lastUpdated": "2025-10-15T20:18:58.991Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/15/nyregion/new-york-climate-flooding-solutions.html",
+      "headline": "New York Is Going to Flood. Here’s What the City Can Do to Survive.",
+      "image": "https://static01.nyt.com/images/2025/10/15/multimedia/2025-09-03-future-wet-nyc-index/2025-09-03-future-wet-nyc-index-articleLarge-v4.jpg",
+      "timestamp": "2025-10-15T20:05:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
