@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-14T21:14:13.358Z",
+  "lastUpdated": "2025-10-15T09:18:10.723Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/15/nyregion/nyc-mayor-issues-mamdani-cuomo-sliwa.html",
+      "headline": "They Want to Run New York City. How Would They Do It?",
+      "image": "https://static01.nyt.com/images/2025/10/08/multimedia/2025-09-29-nyc-mayor-survey-index/2025-09-29-nyc-mayor-survey-index-articleLarge.jpg",
+      "timestamp": "2025-10-15T09:02:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/15/opinion/new-jersey-governor-candidates.html",
+      "headline": "Who Should Be Governor of New Jersey? 11 Leaders Rated the Candidates.",
+      "image": "https://static01.nyt.com/images/2025/10/15/opinion/15thechoice-jersey/15thechoice-jersey-articleLarge.jpg",
+      "timestamp": "2025-10-15T09:01:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
