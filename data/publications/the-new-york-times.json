@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-15T09:18:10.723Z",
+  "lastUpdated": "2025-10-15T19:36:24.091Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/15/world/middleeast/president-assad-syria-officials.html",
+      "headline": "The Missing Enforcers of the Assad Regime",
+      "image": "https://static01.nyt.com/images/2025/05/16/multimedia/2025-04-09-assad-accomplices-index/2025-04-09-assad-accomplices-index-articleLarge-v2.jpg",
+      "timestamp": "2025-10-15T19:27:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
