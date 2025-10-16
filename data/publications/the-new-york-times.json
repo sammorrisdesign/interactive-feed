@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-15T20:18:58.991Z",
+  "lastUpdated": "2025-10-16T01:14:19.116Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/15/business/media/pentatgon-press-rules.html",
+      "headline": "How the Pentagon Is Blocking Out News Organizations",
+      "image": "https://static01.nyt.com/images/2025/10/15/multimedia/pentatgon-press-rules-promo/pentatgon-press-rules-promo-articleLarge.jpg",
+      "timestamp": "2025-10-16T00:14:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
