@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-16T09:18:24.605Z",
+  "lastUpdated": "2025-10-16T17:14:49.203Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/16/us/san-francisco-berkeley-earthquake-shakeout-day.html",
+      "headline": "Minor Quake Strikes San Francisco Bay Area an Hour Before Annual Earthquake Drill",
+      "image": "https://static01.nyt.com/images/2025/10/16/world/16wea-quake-tracker-san-francisco-bay-area-nytg3ghx-index/16wea-quake-tracker-san-francisco-bay-area-nytg3ghx-index-articleLarge-v7.jpg",
+      "timestamp": "2025-10-16T16:35:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
