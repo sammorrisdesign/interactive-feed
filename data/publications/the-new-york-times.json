@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-16T20:40:12.333Z",
+  "lastUpdated": "2025-10-16T21:36:39.735Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/16/us/politics/Bolton-indictment.html",
+      "headline": "Read the Indictment of John R. Bolton",
+      "image": "https://static01.nyt.com/images/2025/10/16/doc-govuscourtsmdd592874101-promo/doc-govuscourtsmdd592874101-promo-articleLarge.png",
+      "timestamp": "2025-10-16T21:14:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
