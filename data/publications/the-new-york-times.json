@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-16T17:14:49.203Z",
+  "lastUpdated": "2025-10-16T18:48:31.333Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/16/books/slow-horses-clown-town-mick-herron.html",
+      "headline": "What’s So Great About ‘Slow Horses’? This Scene Says It All.",
+      "image": "https://static01.nyt.com/images/2025/10/16/multimedia/16SlowHorsesStill-cbqf/16SlowHorsesStill-cbqf-articleLarge.jpg",
+      "timestamp": "2025-10-16T18:48:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
