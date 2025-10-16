@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-16T04:19:24.432Z",
+  "lastUpdated": "2025-10-16T09:18:24.605Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/16/realestate/brooklyn-queens-homes-sale.html",
+      "headline": "Exploring the Borders of Brooklyn and Queens With About $700,000 to Spend",
+      "image": "https://static01.nyt.com/images/2025/10/16/multimedia/16Hunt-Ebunola-jlkb/16Hunt-Ebunola-jlkb-articleLarge.jpg",
+      "timestamp": "2025-10-16T09:04:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/16/travel/things-to-do-majorca.html",
+      "headline": "36 Hours on Majorca, Spain",
+      "image": "https://static01.nyt.com/images/2025/10/13/multimedia/things-to-do-majorca-03-lzpt/things-to-do-majorca-03-lzpt-articleLarge.jpg",
+      "timestamp": "2025-10-16T09:02:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
