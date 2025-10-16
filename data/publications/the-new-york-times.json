@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-16T01:14:19.116Z",
+  "lastUpdated": "2025-10-16T04:19:24.432Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/16/well/eat/ultraprocessed-food-junk-history.html",
+      "headline": "How America Got Hooked on Ultraprocessed Food",
+      "image": "https://static01.nyt.com/images/2025/10/08/well/WELL-UPF-HISTORY-static-promo/WELL-UPF-HISTORY5-articleLarge-v3.jpg",
+      "timestamp": "2025-10-16T04:01:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
