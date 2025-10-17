@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-16T08:23:09.407Z",
+  "lastUpdated": "2025-10-17T11:13:53.628Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/oct/17/overdose-deaths-data-analysis",
+      "headline": "Overdose in America: analysis reveals deaths rising in some regions even as US sees national decline",
+      "image": "https://i.guim.co.uk/img/media/23885cc9de541a4e17d02d2e95601522f4488232/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f72e4f31ff08a65b553c7d86eeeb8ea",
+      "timestamp": "2025-10-17T11:00:57.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
