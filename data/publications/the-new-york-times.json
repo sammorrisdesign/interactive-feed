@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-17T18:21:27.046Z",
+  "lastUpdated": "2025-10-17T19:36:27.478Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/17/arts/design/halloween-met-museum.html",
+      "headline": "The Met’s 20 Scariest Artworks: Can You Find Them?",
+      "image": "https://static01.nyt.com/images/2025/10/18/multimedia/18cul-halloween-met-museum-promo/18cul-spooky-met-hunt-ugolino-02-hbpc-articleLarge-v2.jpg",
+      "timestamp": "2025-10-17T19:26:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
