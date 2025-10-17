@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-11T04:39:58.492Z",
+  "lastUpdated": "2025-10-17T04:19:50.787Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/in-dieser-geisterstadt-uebt-die-bundeswehr-den-ernstfall-ld.1907129",
+      "headline": "In dieser Geisterstadt übt die Bundeswehr den Ernstfall",
+      "image": "https://img.nzz.ch/2025/10/16/62c29616-28af-43ba-bbe1-115fa1333e75.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3840,2160,x0,y82&wmark=nzz",
+      "timestamp": "2025-10-17T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
