@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-17T11:13:53.628Z",
+  "lastUpdated": "2025-10-18T05:15:06.044Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/oct/18/driverless-cars-uk-autonomy-waymo-london",
+      "headline": "Driverless cars are coming to the UK – but the road to autonomy has bumps ahead",
+      "image": "https://i.guim.co.uk/img/media/c3579bb78285d9cfc9d82cae9adc9b4e1ba0addf/0_454_4000_3201/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c44a1ecb61abc7f5be09f4e99c1becd8",
+      "timestamp": "2025-10-18T05:00:37.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
