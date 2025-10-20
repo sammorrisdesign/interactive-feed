@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-17T19:36:27.478Z",
+  "lastUpdated": "2025-10-20T15:17:11.132Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/20/books/review/novels-culture-quiz.html",
+      "headline": "Do You Recognize These Literary References in Modern Pop Culture?",
+      "image": "https://static01.nyt.com/images/2025/10/20/books/review/20TBR-Quiz-PopCulture/20TBR-Quiz-PopCulture-articleLarge.jpg",
+      "timestamp": "2025-10-20T14:30:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
