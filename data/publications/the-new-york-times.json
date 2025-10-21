@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-21T20:41:45.811Z",
+  "lastUpdated": "2025-10-21T22:14:35.639Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/21/style/kilian-jornet-72-mountain-peaks.html",
+      "headline": "Rewriting What’s Possible in the Mountains",
+      "image": "https://static01.nyt.com/images/2025/10/20/multimedia/2025-09-08-kilian-jornet-index/2025-09-08-kilian-jornet-index-articleLarge-v2.jpg",
+      "timestamp": "2025-10-21T22:12:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
