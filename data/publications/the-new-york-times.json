@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-21T16:21:51.916Z",
+  "lastUpdated": "2025-10-21T20:41:45.811Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/21/world/asia/china-work-force.html",
+      "headline": "Portraits of China’s Changing Work force",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-10-21T20:33:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
