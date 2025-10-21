@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-20T20:19:11.475Z",
+  "lastUpdated": "2025-10-21T09:18:20.497Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/21/business/media/trump-ai-truth-social-no-kings.html",
+      "headline": "How Trump Is Using Fake Imagery to Attack Enemies and Rouse Supporters",
+      "image": "https://static01.nyt.com/images/2025/10/20/multimedia/2025-10-08-influence-trump-truth-ai-index/2025-10-08-influence-trump-truth-ai-index-articleLarge-v2.jpg",
+      "timestamp": "2025-10-21T09:03:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/21/opinion/immigration-family-separation.html",
+      "headline": "Separation: A Family Navigates the Risks of Being Undocumented",
+      "image": "https://static01.nyt.com/images/2025/10/15/opinion/immigration-family-separation-1760558765626/immigration-family-separation-1760558765626-articleLarge.jpg",
+      "timestamp": "2025-10-21T09:02:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
