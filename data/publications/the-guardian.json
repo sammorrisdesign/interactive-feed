@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-21T11:14:08.457Z",
+  "lastUpdated": "2025-10-21T13:31:39.702Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/oct/21/donald-trump-25th-amendment",
+      "headline": "Scrutiny grows over Trump competence – but can an unfit president be removed?",
+      "image": "https://i.guim.co.uk/img/media/6b931c789a41236d1fcecc70b446587abc06f315/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d4ad842305a0c53535ecb18a324a3b5",
+      "timestamp": "2025-10-21T13:00:35.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",

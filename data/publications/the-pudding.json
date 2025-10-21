@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-08-12T15:18:54.646Z",
+  "lastUpdated": "2025-10-21T13:31:39.917Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "twitterHandle": "puddingviz",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/2025/10/walk",
+      "headline": "What it’s like to walk across Massachusetts",
+      "image": "https://pudding.cool/2025/10/walk/assets/og.png",
+      "timestamp": "2025-10-20T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "twitterHandle": "puddingviz",
