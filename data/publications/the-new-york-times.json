@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-21T15:39:33.037Z",
+  "lastUpdated": "2025-10-21T16:21:51.916Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/21/business/media/paramount-warner-bros-merger.html",
+      "headline": "Batman, Captain Kirk, CBS and CNN All Under One Roof?",
+      "image": "https://static01.nyt.com/images/2025/10/21/multimedia/2025-09-15-paramount-skydance-index/2025-09-15-paramount-skydance-index-articleLarge-v3.jpg",
+      "timestamp": "2025-10-21T16:17:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/21/arts/television/basketball-quiz-nba-season-start.html",
+      "headline": "Quiz: Do You Know Ball?",
+      "image": "https://static01.nyt.com/images/2025/10/21/arts/nba-quiz-static/nba-quiz-static-articleLarge.jpg",
+      "timestamp": "2025-10-21T15:51:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
