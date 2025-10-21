@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-21T09:18:20.497Z",
+  "lastUpdated": "2025-10-21T15:17:26.814Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/21/us/luigi-mangione-diary.html",
+      "headline": "Read pages from Luigi Mangione’s Journal",
+      "image": "https://static01.nyt.com/images/2025/10/15/doc-mangione-diary-entries-promo/doc-mangione-diary-entries-promo-articleLarge.png",
+      "timestamp": "2025-10-21T15:06:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
