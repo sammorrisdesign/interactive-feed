@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-22T09:19:27.016Z",
+  "lastUpdated": "2025-10-22T14:46:26.484Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/22/nyregion/future-of-new-york.html",
+      "headline": "The Future of New York",
+      "image": "https://static01.nyt.com/images/2025/10/06/multimedia/FutureNYC-QUIZ-top-sub-04-bftw/FutureNYC-QUIZ-top-sub-04-bftw-articleLarge.jpg",
+      "timestamp": "2025-10-22T14:36:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
