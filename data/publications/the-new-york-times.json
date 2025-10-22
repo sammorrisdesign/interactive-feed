@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-21T23:37:04.686Z",
+  "lastUpdated": "2025-10-22T09:19:27.016Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/22/travel/motels-history-100-years.html",
+      "headline": "100 Years of the Motel",
+      "image": "https://static01.nyt.com/images/2025/10/22/travel/22motels-promo/22motels-promo-articleLarge.jpg",
+      "timestamp": "2025-10-22T09:03:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/22/opinion/focus-group-wellness-mom-voters.html",
+      "headline": "14 Wellness Voters Talk Parenting, MAHA and Social Media",
+      "image": "https://static01.nyt.com/images/2025/10/15/opinion/focus-group-wellness-mom-voters-1761072965262/focus-group-wellness-mom-voters-1761072965262-articleLarge.jpg",
+      "timestamp": "2025-10-22T09:01:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
