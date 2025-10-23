@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-23T09:18:27.942Z",
+  "lastUpdated": "2025-10-23T15:39:33.773Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/23/nyregion/nba-illegal-poker-games-indictment.html",
+      "headline": "Indictment Alleging Participation in Rigged Illegal Poker Games",
+      "image": "https://static01.nyt.com/images/2025/10/23/doc-zhen-diagram-true-bill-promo/doc-zhen-diagram-true-bill-promo-articleLarge.png",
+      "timestamp": "2025-10-23T15:35:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/23/nyregion/nba-betting-scheme-indictment.html",
+      "headline": "Indictment Alleging Participation in Sports Betting Scheme",
+      "image": "https://static01.nyt.com/images/2025/10/23/doc-nothing-but-bet-indictmen-promo/doc-nothing-but-bet-indictmen-promo-articleLarge.png",
+      "timestamp": "2025-10-23T15:34:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
