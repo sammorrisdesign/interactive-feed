@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-22T04:19:30.729Z",
+  "lastUpdated": "2025-10-24T04:19:38.687Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/was-schweizer-beim-deutschland-einkauf-sparen-ld.1904763",
+      "headline": "So viel sparen Sie, wenn Sie in Deutschland statt in der Schweiz einkaufen",
+      "image": "https://img.nzz.ch/2025/10/22/a200f219-08c4-45df-809c-a7b23fe1291e.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2300,1294,x0,y216&wmark=nzz",
+      "timestamp": "2025-10-24T03:31:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
