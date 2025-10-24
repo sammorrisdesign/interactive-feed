@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-24T03:31:36.234Z",
+  "lastUpdated": "2025-10-24T09:18:30.755Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/24/us/us-federal-agents-national-guard-ice-fbi.html",
+      "headline": "How to Make Sense of the Federal Forces on the Streets",
+      "image": "https://static01.nyt.com/images/2025/10/23/multimedia/2025-10-01-law-enforcement-immigration-guidelines-index/2025-10-01-law-enforcement-immigration-guidelines-index-articleLarge-v8.jpg",
+      "timestamp": "2025-10-24T09:04:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/24/opinion/virginia-governor-candidates.html",
+      "headline": "Who Should Be Governor of Virginia? Nine Leaders Rate the Candidates.",
+      "image": "https://static01.nyt.com/images/2025/10/24/opinion/24thechoice-virginia/15thechoice-jersey-articleLarge.jpg",
+      "timestamp": "2025-10-24T09:00:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
