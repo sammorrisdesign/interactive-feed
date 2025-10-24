@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-24T17:39:05.344Z",
+  "lastUpdated": "2025-10-24T19:13:36.265Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/24/arts/moon-photos-apollo-nasa.html",
+      "headline": "How Lunar Photography Brought the Heavens Down to Earth",
+      "image": "https://static01.nyt.com/images/2025/11/09/multimedia/close-read-moon-promo-wvjq/close-read-moon-promo-wvjq-articleLarge.jpg",
+      "timestamp": "2025-10-24T19:01:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
