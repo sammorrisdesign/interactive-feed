@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-24T04:19:38.687Z",
+  "lastUpdated": "2025-10-25T20:17:13.476Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/kof-studie-welchen-einfluss-hat-chatgpt-auf-jobs-in-der-schweiz-ld.1905520",
+      "headline": "«Das ging überraschend schnell»: Eine KOF-Studie zeigt erstmals, wie Chat-GPT den Schweizer Arbeitsmarkt umkrempelt",
+      "image": "https://img.nzz.ch/2025/10/15/f7aa8a44-659c-401b-bba7-cf6c04a92116.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2134,1201,x171,y332&wmark=nzz",
+      "timestamp": "2025-10-25T19:45:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
