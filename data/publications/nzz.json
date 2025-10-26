@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-25T20:17:13.476Z",
+  "lastUpdated": "2025-10-26T04:41:14.462Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/taifune-tauwetter-und-gletscherfluten-warum-die-kueste-alaskas-immer-lebensfeindlicher-wird-ld.1908608",
+      "headline": "Taifune, Tauwetter und Gletscherfluten: Warum die Küste Alaskas immer lebensfeindlicher wird",
+      "image": "https://img.nzz.ch/2025/10/24/8408d0d7-5810-48c2-aabe-a738271fb057.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2019,1136,x0,y778&wmark=nzz",
+      "timestamp": "2025-10-26T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
