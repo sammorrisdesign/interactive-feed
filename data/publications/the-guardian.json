@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-25T08:19:13.517Z",
+  "lastUpdated": "2025-10-26T06:22:50.419Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/oct/26/do-populists-always-crash-the-economy",
+      "headline": "Do populists always crash the economy?",
+      "image": "https://i.guim.co.uk/img/media/03918110e9782a03619a10f604b81c216ad33a47/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7acbb1076802d06ad9cb1907da7882a",
+      "timestamp": "2025-10-26T06:00:56.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
