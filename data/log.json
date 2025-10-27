@@ -68,5 +68,15 @@
     "timestamp": "2025-10-27T14:17:24.793Z",
     "publication": "Texas Tribune",
     "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-10-27T14:30:01.267Z",
+    "publication": "Texas Tribune",
+    "error": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Object.XML (/Users/morriss/Repos/interactive-feed/src/fetchers.js:198:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/Users/morriss/Repos/interactive-feed/src/fetchers.js:341:32)\n    at async /Users/morriss/Repos/interactive-feed/src/test.js:14:31"
+  },
+  {
+    "timestamp": "2025-10-27T14:30:01.269Z",
+    "publication": "Texas Tribune",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/Users/morriss/Repos/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async /Users/morriss/Repos/interactive-feed/src/test.js:14:31"
   }
 ]

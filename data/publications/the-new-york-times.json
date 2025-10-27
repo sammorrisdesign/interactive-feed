@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-27T13:30:00.485Z",
+  "lastUpdated": "2025-10-27T14:38:32.806Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/27/magazine/26mag-hodgmanquiz.html",
+      "headline": "Can You Force Your Children to Bury You in Some Weird Way?",
+      "image": "https://static01.nyt.com/images/2017/01/01/magazine/01hodgman/01mag-01hodgman-t_CA0-articleLarge.jpg",
+      "timestamp": "2025-10-27T14:36:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

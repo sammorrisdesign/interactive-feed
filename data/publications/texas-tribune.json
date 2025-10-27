@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2024-12-19T09:40:07.296Z",
+  "lastUpdated": "2025-10-27T14:38:32.791Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/09/11/texas-water-supply-crisis/",
+      "headline": "Running Out: Texas’ water crisis — and the path forward",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/09/030520El20Paso20Water20JH2092-scaled.jpg?fit=2560%2C1706&quality=89&ssl=1",
+      "timestamp": "2025-09-11T16:15:35.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/09/04/2025-texas-redistricting-maps/",
+      "headline": "Lawmakers redrew Texas’ congressional districts. See how yours changed.",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/09/lede-art-redistricting-lookup-scaled.jpg?fit=2560%2C1707&quality=89&ssl=1",
+      "timestamp": "2025-09-04T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/08/16/texas-staar-scores-lookup/",
+      "headline": "Texas students’ STAAR scores for this year are out. Here’s how your school or district did.",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/08/072320Dobie20Middle20School20ILP2057-2-scaled.jpg?fit=2560%2C1708&quality=89&ssl=1",
+      "timestamp": "2025-08-16T20:58:11.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/07/18/salaries-texastribune-org-25/",
+      "headline": "See what each Texas state employee is paid: Search our updated database.",
+      "image": "https://salaries.texastribune.org/static/images/share-art.56d0aa82b573.png",
+      "timestamp": "2025-07-18T14:32:21.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/07/09/hill-country-texas-flooding-2025-graphics/",
+      "headline": "These graphics show the scope of Texas’ Hill Country floods",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/07/kerr-flood-area-chart-photo-2X-1.jpg?fit=1700%2C1118&quality=89&ssl=1",
+      "timestamp": "2025-07-09T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/04/22/texas-measles-outbreak-update/",
+      "headline": "Texas measles cases remain steady at 750. Track the spread here.",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/04/measles-tracker_lede-1.png?fit=850%2C570&quality=80&ssl=1",
+      "timestamp": "2025-04-22T16:36:43.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/06/30/texas-state-budget-revenues/",
+      "headline": "Texas lawmakers have gotten used to state budget surpluses. That era may be ending.",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/06/0420Foggy20Capitol20EW20TT-1-scaled.jpg?fit=2560%2C1707&quality=89&ssl=1",
+      "timestamp": "2025-06-30T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/06/26/census-aging-population-texas/",
+      "headline": "Texas is getting older and its child population is growing",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/06/Kaminski20Gingerbread20AM20TT2014-1-scaled.jpg?fit=2560%2C1707&quality=89&ssl=1",
+      "timestamp": "2025-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/05/20/track-texas-state-bills/",
+      "headline": "The 2025 Texas Legislature is over. See how far some of the most consequential bills made it.",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2023/05/session-summary-promo-img.jpeg?fit=1800%2C1200&quality=89&ssl=1",
+      "timestamp": "2025-05-20T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/06/18/texas-senate-conservative-liberal-ranking-legislature/",
+      "headline": "Analysis: The 2025 Texas Senate, from right to left",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/06/052620House20Floor20EG20TT2048-1-scaled.jpg?fit=2560%2C1707&quality=89&ssl=1",
+      "timestamp": "2025-06-18T10:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",

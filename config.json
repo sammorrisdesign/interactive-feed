@@ -579,9 +579,13 @@
       "blueSkyHandle": "texastribune.bsky.social",
       "sources": [
         {
-          "type": "XML",
-          "format": "Sitemap",
-          "path": "https://www.texastribune.org/sitemap-data-apps.xml"
+          "type": "Website",
+          "path": "https://www.texastribune.org/series/news-apps-graphics-databases/",
+          "selector": "article.type-post",
+          "url": ".entry-title a",
+          "headline": ".entry-title a",
+          "timestamp": ".entry-date",
+          "timestampAttribute": "datetime"
         }
       ]
     },
