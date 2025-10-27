@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-27T14:38:32.806Z",
+  "lastUpdated": "2025-10-27T16:48:27.512Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/27/us/us-national-guard-deployments.html",
+      "headline": "How and Where the National Guard Has Deployed to U.S. Cities",
+      "image": "https://static01.nyt.com/images/2025/10/24/multimedia/2025-10-15-natl-guard-deployments-index/2025-10-15-natl-guard-deployments-index-articleLarge-v5.png",
+      "timestamp": "2025-10-27T16:39:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
