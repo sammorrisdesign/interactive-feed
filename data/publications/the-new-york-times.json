@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-30T15:43:02.981Z",
+  "lastUpdated": "2025-10-30T17:40:35.639Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/30/books/stephen-king-books-quiz.html",
+      "headline": "Answer 4 Questions. Leave With Your Next Stephen King Book.",
+      "image": "https://static01.nyt.com/images/2025/10/29/books/king-promo/king-promo-articleLarge.jpg",
+      "timestamp": "2025-10-30T17:26:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
