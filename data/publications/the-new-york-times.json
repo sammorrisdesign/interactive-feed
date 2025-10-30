@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-10-30T01:18:58.950Z",
+  "lastUpdated": "2025-10-30T09:18:26.623Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/30/realestate/portland-seattle-home-listings-sale.html",
+      "headline": "Portland or Seattle? A Senior Couple Wanted an Urban Getaway for About $725,000.",
+      "image": "https://static01.nyt.com/images/2025/10/30/multimedia/30re-hunt-strelecky-03-ctgw/30re-hunt-strelecky-03-ctgw-articleLarge.jpg",
+      "timestamp": "2025-10-30T09:04:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/30/realestate/chef-andrew-zimmern-house-tour.html",
+      "headline": "Inside the Home, and Custom Kitchen, of Chef Andrew Zimmern",
+      "image": "https://static01.nyt.com/images/2025/10/30/realestate/ahw-zimmern-promo/ahw-zimmern-promo-articleLarge.jpg",
+      "timestamp": "2025-10-30T09:03:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/30/travel/things-to-do-chiang-mai.html",
+      "headline": "36 Hours in Chiang Mai, Thailand",
+      "image": "https://static01.nyt.com/images/2025/10/30/multimedia/36-hours-chiang-mai-tgfm/36-hours-chiang-mai-tgfm-articleLarge.jpg",
+      "timestamp": "2025-10-30T09:03:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
