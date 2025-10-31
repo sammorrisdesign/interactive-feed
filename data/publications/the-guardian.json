@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-30T12:35:05.629Z",
+  "lastUpdated": "2025-10-31T11:14:02.001Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/oct/31/conservative-centers-universities",
+      "headline": "Move over, gender studies: the conservative tide coming for US universities",
+      "image": "https://i.guim.co.uk/img/media/3e0c3b56fb2a8c46c0556130662412833c30698c/0_681_3866_3091/master/3866.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c00e4cd81faa8177822eacf4902c258c",
+      "timestamp": "2025-10-31T11:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
