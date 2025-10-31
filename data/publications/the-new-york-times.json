@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-10-31T17:15:31.179Z",
+  "lastUpdated": "2025-10-31T17:39:45.688Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/us/holiday-gift-guide.html",
+      "headline": "2025 Holiday Gift Guide",
+      "image": "https://static01.nyt.com/images/2025/10/31/us/holiday-gift-guide-1761931780243/holiday-gift-guide-1761931780243-articleLarge.jpg",
+      "timestamp": "2025-10-31T17:30:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/31/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Nov. 1, 2025",
+      "image": "https://static01.nyt.com/images/2025/10/31/multimedia/flashback-promo-2025-11-01-5/flashback-promo-2025-11-01-5-articleLarge.jpg",
+      "timestamp": "2025-10-31T17:16:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
