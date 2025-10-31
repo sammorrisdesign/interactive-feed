@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-30T17:40:35.639Z",
+  "lastUpdated": "2025-10-31T07:15:57.881Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/31/nyregion/31met-nycm-celebrity-quiz.html",
+      "headline": "The N.Y.C. Marathon Celebrity Quiz: Can You Guess the Fast and Famous?",
+      "image": "https://static01.nyt.com/images/2025/10/22/multimedia/00marathon-celebrities-top-qwtk/00marathon-celebrities-top-qwtk-articleLarge.jpg",
+      "timestamp": "2025-10-31T07:00:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
