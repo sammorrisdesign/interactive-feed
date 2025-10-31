@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-10-31T07:15:57.881Z",
+  "lastUpdated": "2025-10-31T09:18:23.861Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/31/technology/openai-fundraising-deals.html",
+      "headline": "How OpenAI Uses Complex and Circular Deals to Fuel Its Multibillion-Dollar Rise",
+      "image": "https://static01.nyt.com/images/2025/10/30/technology/2025-10-07-openai-funding-index/2025-10-07-openai-funding-index-articleLarge-v6.png",
+      "timestamp": "2025-10-31T09:03:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/31/opinion/trump-autocracy-democracy-report.html",
+      "headline": "Are We Losing Our Democracy?",
+      "image": "https://static01.nyt.com/images/2025/10/31/multimedia/31bright-lines-PROMO-ljmw/31bright-lines-PROMO-ljmw-articleLarge.jpg",
+      "timestamp": "2025-10-31T09:02:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/10/31/magazine/jaws-godfather-hodgman-quiz.html",
+      "headline": "What’s More Famous: ‘Jaws’ or ‘The Godfather’?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-10-31T09:02:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
