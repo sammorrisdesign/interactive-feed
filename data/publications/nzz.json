@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-10-30T16:48:00.249Z",
+  "lastUpdated": "2025-10-31T04:44:38.785Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-unsichtbare-seite-des-salats-europas-abhaengigkeit-von-almeria-ld.1908561",
+      "headline": "Die unsichtbare Seite des Salats: Europas Abhängigkeit von Almería",
+      "image": "https://img.nzz.ch/2025/10/29/48faf69e-574f-4fa6-9ced-c3fc1e0c8f3d.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5973,3359,x613,y1121&wmark=nzz",
+      "timestamp": "2025-10-31T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
