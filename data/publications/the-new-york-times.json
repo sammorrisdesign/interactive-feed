@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-10-31T17:39:45.688Z",
+  "lastUpdated": "2025-11-02T14:13:39.685Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/02/weather/kalmaegi-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Kalmaegi",
+      "image": "https://static01.nyt.com/images/2025/11/01/weather/thirtyone-map-path-tracker-index/thirtyone-map-path-tracker-index-articleLarge-v8.jpg",
+      "timestamp": "2025-11-02T13:50:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
