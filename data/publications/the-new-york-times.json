@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-02T14:13:39.685Z",
+  "lastUpdated": "2025-11-02T22:14:36.651Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/02/world/afghanistan-quake-tracker.html",
+      "headline": "Map: 6.3-Magnitude Earthquake Strikes Afghanistan",
+      "image": "https://static01.nyt.com/images/2025/11/02/world/02wea-quake-tracker-afghanistan-nyta5ywx-index/02wea-quake-tracker-afghanistan-nyta5ywx-index-articleLarge-v13.jpg",
+      "timestamp": "2025-11-02T21:51:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
