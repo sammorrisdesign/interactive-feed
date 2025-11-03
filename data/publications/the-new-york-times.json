@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-03T13:28:24.008Z",
+  "lastUpdated": "2025-11-03T21:15:27.949Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/03/us/gun-ranges-brain-injuries.html",
+      "headline": "Target Shooting Could Be Causing Brain Injuries. We Measured the Danger.",
+      "image": "https://static01.nyt.com/images/2025/10/29/multimedia/2025-08-04-gun-blast-index/2025-08-04-gun-blast-index-articleLarge.jpg",
+      "timestamp": "2025-11-03T20:41:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
