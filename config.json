@@ -590,6 +590,23 @@
       ]
     },
     {
+      "publication": "Texas Monthly",
+      "twitterHandle": "TexasMonthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "Sitemap",
+          "path": "https://www.texasmonthly.com/interactive-sitemap.xml",
+          "filters": {
+            "in": {
+              "url": "/interactive"
+            }
+          }
+        }
+      ]
+    },
+    {
       "publication": "The Atlantic"
     },
     {
