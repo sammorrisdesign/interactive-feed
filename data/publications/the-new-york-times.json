@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-03T10:19:52.193Z",
+  "lastUpdated": "2025-11-03T13:28:24.008Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/03/books/review/family-sagas-quiz.html",
+      "headline": "Do You Know These Family Sagas of Page and Screen?",
+      "image": "https://static01.nyt.com/images/2025/11/03/books/review/03TBR-Quiz-FamilySagas/03TBR-Quiz-FamilySagas-articleLarge.jpg",
+      "timestamp": "2025-11-03T13:00:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
