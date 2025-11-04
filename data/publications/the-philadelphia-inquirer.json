@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-30T09:18:26.635Z",
+  "lastUpdated": "2025-11-04T10:20:03.843Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/new-jersey-election-results-2025-governor-20251104.html",
+      "headline": "New Jersey Governor election results",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/JS76J4KLJZCHDACDUAYGOX7PSU.jpg",
+      "timestamp": "2025-11-04T10:00:00.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/philadelphia-district-attorney-election-results-live-pennsylvania-supreme-court-retention-20251104.html",
+      "headline": "Philadelphia 2025 general election results",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/CP6T73XXGJBFXDCIOM3X7HMTVA.jpg",
+      "timestamp": "2025-11-04T10:00:00.000Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",
