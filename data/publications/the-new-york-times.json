@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-03T21:15:27.949Z",
+  "lastUpdated": "2025-11-04T04:19:36.915Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/03/world/asia/china-exports-trump-tariffs.html",
+      "headline": "What Trade War? China’s Export Juggernaut Marches On",
+      "image": "https://static01.nyt.com/images/2025/10/30/multimedia/2025-10-07-china-export-flood-index/2025-10-07-china-export-flood-index-articleLarge-v3.png",
+      "timestamp": "2025-11-04T04:03:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
