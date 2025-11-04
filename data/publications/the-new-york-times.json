@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-11-04T04:19:36.915Z",
+  "lastUpdated": "2025-11-04T20:19:38.545Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/04/us/elections/results-minneapolis-mayor.html",
+      "headline": "Minneapolis Mayoral Election Results",
+      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/eln-PRE-2025-11-04-race-mn-mayor-minneapolis-a77b56/eln-PRE-2025-11-04-race-mn-mayor-minneapolis-a77b56-articleLarge.jpg",
+      "timestamp": "2025-11-04T19:04:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/04/us/elections/results-new-york-city-council.html",
+      "headline": "New York City Council Election Results",
+      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/eln-PRE-2025-11-04-office-ny-city-council-49529b/eln-PRE-2025-11-04-office-ny-city-council-49529b-articleLarge.jpg",
+      "timestamp": "2025-11-04T18:47:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/04/us/elections/results-maine.html",
+      "headline": "Maine Election Results",
+      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/eln-PRE-2025-11-04-state-me-584ec1/eln-PRE-2025-11-04-state-me-584ec1-articleLarge.jpg",
+      "timestamp": "2025-11-04T18:47:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/04/us/elections/results-minnesota.html",
+      "headline": "Minnesota Election Results",
+      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/eln-PRE-2025-11-04-state-mn-ee8299/eln-PRE-2025-11-04-state-mn-ee8299-articleLarge.jpg",
+      "timestamp": "2025-11-04T18:47:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
