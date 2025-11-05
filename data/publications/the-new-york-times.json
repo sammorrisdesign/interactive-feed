@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-05T03:42:27.790Z",
+  "lastUpdated": "2025-11-05T10:19:16.118Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/05/business/economy/trump-tariffs-us-imports.html",
+      "headline": "Almost Half of U.S. Imports Now Have Steep Tariffs",
+      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/2025-10-30-tariffs-legality-index/2025-10-30-tariffs-legality-index-articleLarge-v6.png",
+      "timestamp": "2025-11-05T10:03:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
