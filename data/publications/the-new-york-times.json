@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-05T02:54:35.851Z",
+  "lastUpdated": "2025-11-05T03:42:27.790Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/04/nyregion/zohran-mamdani-wins-nyc-mayor-election-timeline.html",
+      "headline": "How Mamdani Built a Winning Campaign in One Short Year",
+      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/mamdani-timeline-still-promo-thmw/mamdani-timeline-still-promo-thmw-articleLarge.jpg",
+      "timestamp": "2025-11-05T03:11:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
