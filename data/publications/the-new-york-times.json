@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-04T20:19:38.545Z",
+  "lastUpdated": "2025-11-05T02:54:35.851Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/04/us/elections/nyc-mayor-results-precinct-map.html",
+      "headline": "The Most Detailed Map of the N.Y.C. Mayoral Election",
+      "image": "https://static01.nyt.com/images/2025/11/04/multimedia/2025-10-06-nyc-mayoral-election-index/2025-10-06-nyc-mayoral-election-index-articleLarge-v9.jpg",
+      "timestamp": "2025-11-05T01:37:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
