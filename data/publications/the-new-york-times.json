@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-06T20:41:38.199Z",
+  "lastUpdated": "2025-11-06T22:16:01.475Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/06/arts/frankenstein-adaptations.html",
+      "headline": "The Endlessly Adaptable Frankenstein",
+      "image": "https://static01.nyt.com/images/2025/11/06/arts/frankenstein-adaptations-promo/frankenstein-adaptations-promo-articleLarge.jpg",
+      "timestamp": "2025-11-06T22:05:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
