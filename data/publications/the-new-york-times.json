@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-06T15:18:44.384Z",
+  "lastUpdated": "2025-11-06T20:41:38.199Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/06/books/robert-hayden-poem-monets-waterlilies.html",
+      "headline": "When I’m Sick of Doomscrolling, I Turn to This Poem",
+      "image": "https://static01.nyt.com/images/2025/10/16/books/00MonetPoemCloseRead-02/00MonetPoemCloseRead-02-articleLarge.jpg",
+      "timestamp": "2025-11-06T20:22:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
