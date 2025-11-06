@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-11-06T01:18:24.365Z",
+  "lastUpdated": "2025-11-06T10:19:53.605Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/06/movies/09cul-toystory-quiz.html",
+      "headline": "‘Toy Story’: The Ultimate 30th Anniversary Quiz",
+      "image": "https://static01.nyt.com/images/2025/11/09/multimedia/02toy-story-quiz-wzhv/02toy-story-quiz-wzhv-articleLarge.jpg",
+      "timestamp": "2025-11-06T10:04:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/06/realestate/brooklyn-manhattan-apartments-hdfc-coop.html",
+      "headline": "With Perseverance and a Down Payment Grant, a First-Time Buyer Found Her New York City Spot",
+      "image": "https://static01.nyt.com/images/2025/11/06/multimedia/06re-hunt-llewellyn-01-lftq/06re-hunt-llewellyn-01-lftq-articleLarge.jpg",
+      "timestamp": "2025-11-06T10:04:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/06/travel/things-to-do-kauai.html",
+      "headline": "36 Hours on Kauai",
+      "image": "https://static01.nyt.com/images/2025/11/06/multimedia/06trav-hours-kauai-pvjf/06trav-hours-kauai-pvjf-articleLarge-v3.jpg",
+      "timestamp": "2025-11-06T10:03:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
