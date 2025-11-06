@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-06T14:44:01.125Z",
+  "lastUpdated": "2025-11-06T15:18:44.384Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/weather/fung-wong-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Fung-wong",
+      "image": "https://static01.nyt.com/images/2025/11/04/weather/thirtytwo-map-path-tracker-index/thirtytwo-map-path-tracker-index-articleLarge-v18.jpg",
+      "timestamp": "2025-11-06T14:47:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
