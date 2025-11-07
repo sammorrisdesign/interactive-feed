@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-07T17:39:00.405Z",
+  "lastUpdated": "2025-11-07T22:15:17.697Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/07/arts/music/patti-smith-horses-anniversary.html",
+      "headline": "50 Years of Patti Smith’s ‘Horses’",
+      "image": "https://static01.nyt.com/images/2025/11/16/multimedia/16CUL-PATTI-50-SWAPS-02-hzmt/16CUL-PATTI-50-SWAPS-02-hzmt-articleLarge.jpg",
+      "timestamp": "2025-11-07T21:47:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
