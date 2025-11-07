@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-11-06T22:16:01.475Z",
+  "lastUpdated": "2025-11-07T10:19:01.280Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/07/us/politics/government-shutdown-impact-timeline.html",
+      "headline": "Missed Meals and Paychecks: The Shutdown’s Impact, Day by Day",
+      "image": "https://static01.nyt.com/images/2025/11/06/us/shutdown-timeline-promos-shutdown-timeline/shutdown-timeline-promos-shutdown-timeline-articleLarge.jpg",
+      "timestamp": "2025-11-07T10:03:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/07/magazine/half-sandwiches-hodgman-quiz.html",
+      "headline": "Is a Really Big Half-Sandwich Technically a Whole Sandwich?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-11-07T10:02:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/07/climate/paris-agreement-climate.html",
+      "headline": "10 Years After a Breakthrough Climate Pact, Here’s Where We Are",
+      "image": "https://static01.nyt.com/images/2025/11/06/multimedia/2025-10-09-cli-paris-10-index/2025-10-09-cli-paris-10-index-articleLarge-v8.png",
+      "timestamp": "2025-11-07T10:02:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
