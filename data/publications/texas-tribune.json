@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2025-11-07T17:15:27.497Z",
+  "lastUpdated": "2025-11-07T18:23:47.963Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/11/04/texas-constitution-amendments-propositions/",
+      "headline": "All 17 Texas Constitutional amendments pass",
+      "image": "https://www.texastribune.org/wp-content/uploads/2025/11/20250630-Texas-Capitol-RB-25-scaled.jpg",
+      "timestamp": "2025-11-05T03:40:08.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/11/03/texas-trump-immigration-crackdown-ice-arrests-deportation/",
+      "headline": "New data shows 1 in 4 ICE arrests happened in Texas under Trump’s immigration crackdown",
+      "image": "https://www.texastribune.org/wp-content/uploads/2025/10/20251030-Mohammed-Marouf-DR-21-scaled.jpg",
+      "timestamp": "2025-11-03T11:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/10/16/texas-floods-fema-aid-kerr-county-nonprofits/",
+      "headline": "FEMA has denied or not advanced most Kerr County aid applications after deadly July 4 flood",
+      "image": "https://www.texastribune.org/wp-content/uploads/2025/10/0711-Vigil-Kerrville-Flood-EH-05-scaled.jpg",
+      "timestamp": "2025-10-16T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/09/30/texas-houston-immigrants-family-deportation-belize-ice/",
+      "headline": "A Houston mother held by ICE must choose: indefinite detention or be deported without her family",
+      "image": "https://www.texastribune.org/wp-content/uploads/2025/09/20250601_AVILA20FOLO_LP_196-1-scaled.jpg",
+      "timestamp": "2025-09-30T20:38:16.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",
