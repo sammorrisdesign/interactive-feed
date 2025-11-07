@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-07T22:15:17.697Z",
+  "lastUpdated": "2025-11-07T22:39:04.872Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/07/theater/black-broadway-shuffle-hamilton.html",
+      "headline": "Black Musical Theater, 200 Years and Running",
+      "image": "https://static01.nyt.com/images/2025/11/05/arts/00-black-broadway-promo/00-black-broadway-promo-articleLarge.jpg",
+      "timestamp": "2025-11-07T22:17:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
