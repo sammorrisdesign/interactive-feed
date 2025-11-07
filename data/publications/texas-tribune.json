@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2025-10-29T10:18:38.585Z",
+  "lastUpdated": "2025-11-07T17:15:27.497Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/10/31/texas-aca-premiums-health-insurance/",
+      "headline": "Texas ACA insurers hike monthly premiums by 35% on average",
+      "image": "https://www.texastribune.org/wp-content/uploads/2025/10/ACA-Navigators-JW009-redo-scaled.jpg",
+      "timestamp": "2025-10-31T22:40:36.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/10/30/texas-snap-food-assistance-greg-abbott/",
+      "headline": "Gov. Greg Abbott under pressure to use emergency funds for looming SNAP crisis",
+      "image": "https://www.texastribune.org/wp-content/uploads/2025/10/20250423-Abbott-DOGE-KCG-06-scaled.jpg",
+      "timestamp": "2025-10-30T18:23:53.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/10/13/texas-schools-vaccines-measles-delinquencies/",
+      "headline": "More Texas kindergarteners coming to school without measles vaccination proof or exemptions",
+      "image": "https://www.texastribune.org/wp-content/uploads/2025/10/2025-08-13_Vaccines_ABACA-PRESS.jpg",
+      "timestamp": "2025-10-13T10:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",
