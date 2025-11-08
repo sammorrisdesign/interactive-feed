@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-07T22:39:04.872Z",
+  "lastUpdated": "2025-11-08T02:45:28.790Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/07/us/flight-cancellations-airports.html",
+      "headline": "See Where Flights Have Been Canceled Across the U.S.",
+      "image": "https://static01.nyt.com/images/2025/11/07/multimedia/2025-11-06-flight-cuts-shutdown-index/2025-11-06-flight-cuts-shutdown-index-articleLarge-v4.jpg",
+      "timestamp": "2025-11-08T02:35:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/07/well/move/dumbbell-press-technique.html",
+      "headline": "How to Do a Perfect Dumbbell Bench Press",
+      "image": "https://static01.nyt.com/images/2025/11/07/well/DUMBBELL-PRESS-FORM_PROMO/DUMBBELL-PRESS-FORM_PROMO-articleLarge.jpg",
+      "timestamp": "2025-11-08T01:54:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
