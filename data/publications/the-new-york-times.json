@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-09T18:21:29.142Z",
+  "lastUpdated": "2025-11-09T23:14:49.018Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/09/nyregion/zohran-mamdani-nyc-mayoral-speech.html",
+      "headline": "Unpacking Mamdani’s Viral Victory Speech",
+      "image": "https://static01.nyt.com/images/2025/11/09/multimedia/2025-11-06-zohran-speech-index/2025-11-06-zohran-speech-index-articleLarge-v3.jpg",
+      "timestamp": "2025-11-09T23:08:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
