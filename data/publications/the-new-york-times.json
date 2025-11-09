@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-08T02:45:28.790Z",
+  "lastUpdated": "2025-11-09T18:21:29.142Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/09/us/san-ramon-california-earthquake.html",
+      "headline": "Small Earthquakes Strike San Francisco Bay Area",
+      "image": "https://static01.nyt.com/images/2025/11/09/world/09wea-quake-tracker-san-francisco-bay-area-nyt99pmm-index/09wea-quake-tracker-san-francisco-bay-area-nyt99pmm-index-articleLarge-v4.jpg",
+      "timestamp": "2025-11-09T18:12:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
