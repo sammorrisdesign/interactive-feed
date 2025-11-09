@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-09T06:23:05.979Z",
+  "lastUpdated": "2025-11-09T14:13:17.416Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2025/nov/10/australia-specialist-doctors-fees-skyrocketing-medicare-rebates-not-solution",
+      "headline": "$1,000 for a one-hour appointment: why are fees for Australia’s specialist doctors skyrocketing?",
+      "image": "https://i.guim.co.uk/img/media/d819f5446389fa496ad484155673913f88403d29/0_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79b5ff52cb566165f3b2395c95854928",
+      "timestamp": "2025-11-09T14:00:34.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2025/nov/10/specialist-doctor-medical-referral-fees-rights-medicare-rebates-information",
+      "headline": "What are my rights when I need to see a specialist doctor – and what if I can’t afford the fee?",
+      "image": "https://i.guim.co.uk/img/media/dd464266f478be499852771350ca01c437142478/0_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c203f05b5dab7aea05b24ccfc7bed12c",
+      "timestamp": "2025-11-09T14:00:33.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
