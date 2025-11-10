@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-10T14:43:17.297Z",
+  "lastUpdated": "2025-11-10T16:49:32.138Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/nov/10/government-shutdown-senate-vote",
+      "headline": "How each senator voted on legislation to end US government shutdown",
+      "image": "https://i.guim.co.uk/img/media/1537e8c3470cf03627fb864fc06a654fe7578063/0_0_3749_3000/master/3749.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b59f298567cb98a006238a47a8e51821",
+      "timestamp": "2025-11-10T16:30:39.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
