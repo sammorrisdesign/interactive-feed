@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-10T15:19:01.930Z",
+  "lastUpdated": "2025-11-10T17:38:28.185Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/10/us/10cul-suda-lawsuit-doc.html",
+      "headline": "Fired Director of Philadelphia Art Museum’s Complaint Against the Institution",
+      "image": "https://static01.nyt.com/images/2025/11/10/doc-l94ck5o8j-promo/doc-l94ck5o8j-promo-articleLarge.png",
+      "timestamp": "2025-11-10T17:36:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
