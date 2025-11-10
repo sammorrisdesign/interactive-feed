@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-07T03:42:12.241Z",
+  "lastUpdated": "2025-11-10T11:37:51.220Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/872bd709-ade6-41f7-88c6-afab043b2016",
+      "headline": "In charts: ten years since the Paris climate accord",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb8a6fc7d-6898-4b88-a4fb-175ba7e2acef.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2025-11-10T11:29:48.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
