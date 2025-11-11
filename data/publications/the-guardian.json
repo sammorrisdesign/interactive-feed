@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-11T10:45:35.620Z",
+  "lastUpdated": "2025-11-11T12:35:46.124Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2025/nov/11/water-coming-into-the-house-this-is-climate-breakdown",
+      "headline": "‘She rang me to say there was water coming into the house’ – This is climate breakdown",
+      "image": "https://i.guim.co.uk/img/media/1e5cc86e474c520a3e48770243fa571f381ef654/707_0_4640_3712/master/4640.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=936f2a8474da03188274884f72f3b47e",
+      "timestamp": "2025-11-11T12:00:54.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2025/nov/10/morgan-freeman-interview-nelson-mandela-six-decades-on-screen",
+      "headline": "‘I enter a room and people say: “God just walked in”’: Morgan Freeman on voicing the divine, meeting Mandela – and his six decades on screen",
+      "image": "https://i.guim.co.uk/img/media/8bbf5460a91179f2194f4d9346d8820bf258c95f/0_573_3704_2964/master/3704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8c7d8ea0bd24ae0821fbeb08f508b88c",
+      "timestamp": "2025-11-10T05:00:53.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
