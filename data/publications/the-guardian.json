@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-11T12:35:46.124Z",
+  "lastUpdated": "2025-11-11T14:17:04.496Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2025/nov/11/australia-private-doctors-public-healthcare-access",
+      "headline": "Struggling to afford specialist doctors’ fees? See if your GP can refer you to one of Australia’s free public hospital clinics",
+      "image": "https://i.guim.co.uk/img/media/b04501d01d98e95d79f62dd119544080f5a084d4/0_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=879968a43179ae30fc2f4da9c1f1a709",
+      "timestamp": "2025-11-11T14:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
