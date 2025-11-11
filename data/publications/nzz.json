@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-09T04:41:35.753Z",
+  "lastUpdated": "2025-11-11T04:44:35.043Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/in-diesen-schweizer-touristenorten-wimmelt-es-im-sommer-von-amerikanern-ld.1904470",
+      "headline": "In diesen Schweizer Touristenorten wimmelt es im Sommer von Amerikanern",
+      "image": "https://img.nzz.ch/2025/11/05/6ab8e5de-62d0-468f-86c2-49c42740428c.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3001,1688,x0,y296&wmark=nzz",
+      "timestamp": "2025-11-11T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
