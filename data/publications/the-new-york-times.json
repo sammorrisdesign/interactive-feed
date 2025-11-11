@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-10T17:38:28.185Z",
+  "lastUpdated": "2025-11-11T02:56:09.555Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/10/us/senate-shutdown-funding-vote.html",
+      "headline": "How Every Senator Voted on Passing the Bill to End the Shutdown",
+      "image": "https://static01.nyt.com/images/2025/11/10/us/senate-shutdown-passage-vote-1762826992673/senate-shutdown-passage-vote-1762826992673-articleLarge.jpg",
+      "timestamp": "2025-11-11T02:53:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
