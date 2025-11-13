@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-13T02:57:49.789Z",
+  "lastUpdated": "2025-11-13T10:19:35.933Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/13/realestate/florida-boca-raton-condos.html",
+      "headline": "For Their Retirement Home, a South Florida Couple Tried to Upsize Rather Than Downsize ",
+      "image": "https://static01.nyt.com/images/2025/11/13/multimedia/13re-Hunt-Boca-02-qpbh/13re-Hunt-Boca-02-qpbh-articleLarge-v2.jpg",
+      "timestamp": "2025-11-13T10:03:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/13/travel/things-to-do-cozumel.html",
+      "headline": "36 Hours on Cozumel, Mexico",
+      "image": "https://static01.nyt.com/images/2025/11/14/multimedia/14trav-hours-cozumel-02-kmhc/14trav-hours-cozumel-02-kmhc-articleLarge.jpg",
+      "timestamp": "2025-11-13T10:00:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
