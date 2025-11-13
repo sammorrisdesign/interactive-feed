@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-11T04:44:35.043Z",
+  "lastUpdated": "2025-11-13T04:45:08.856Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/schneller-als-geplant-was-der-bau-einer-bruecke-zwischen-nordkorea-und-russland-ueber-die-neue-allianz-verraet-ld.1911495",
+      "headline": "Schneller als geplant: Was der Bau einer Brücke zwischen Nordkorea und Russland über die neue Allianz verrät",
+      "image": "https://img.nzz.ch/2025/11/12/00181a86-0ee5-45a9-a275-4b0a4375d4f7.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3840,2160,x0,y0&wmark=nzz",
+      "timestamp": "2025-11-13T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
