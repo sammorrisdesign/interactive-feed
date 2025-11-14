@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-13T21:16:42.146Z",
+  "lastUpdated": "2025-11-14T10:19:24.755Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/14/climate/glacier-melt-himalayas.html",
+      "headline": "A Dead Glacier Is a Loss. A Dying One Is a Threat.",
+      "image": "https://static01.nyt.com/images/2025/11/14/multimedia/14cli-himalayas-stillpromo-03-fwvh/14cli-himalayas-stillpromo-03-fwvh-articleLarge.jpg",
+      "timestamp": "2025-11-14T10:06:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/14/magazine/kitchen-towels-hodgman-quiz.html",
+      "headline": "Can You Use Holiday Tea Towels for Normal Towel Stuff?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-11-14T10:04:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
