@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-11T18:48:47.658Z",
+  "lastUpdated": "2025-11-14T01:18:22.879Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2025/how-detect-chatgpt-em-dash/",
+      "headline": "What are the clues that ChatGPT wrote something? We analyzed its style.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreiggsychrwhzhav5y75xsaxz4ppvdqmld2cmcu3cxnohbubzbne4j4@jpeg",
+      "timestamp": "2025-11-14T01:00:13.858Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
