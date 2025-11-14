@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-13T04:45:08.856Z",
+  "lastUpdated": "2025-11-14T12:35:22.603Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/nach-flughafen-chaos-im-september-hacker-veroeffentlichen-daten-von-15-millionen-reisenden-ld.1911689",
+      "headline": "Nach Flughafen-Chaos im September: Hacker veröffentlichen Daten von 1,5 Millionen Reisenden",
+      "image": "https://img.nzz.ch/2025/11/13/0089bca2-9eff-48b5-9be0-fc4cf7d3239f.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3000,1687,x0,y356&wmark=nzz",
+      "timestamp": "2025-11-14T11:50:57.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
