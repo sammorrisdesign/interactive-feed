@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-14T18:49:04.753Z",
+  "lastUpdated": "2025-11-16T03:01:24.981Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/15/us/camp-mystic-flooding-deaths-video-map.html",
+      "headline": "Swept Away",
+      "image": "https://static01.nyt.com/images/2025/11/15/multimedia/2025-08-20-texas-flood-index/2025-08-20-texas-flood-index-articleLarge-v3.jpg",
+      "timestamp": "2025-11-16T01:29:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
