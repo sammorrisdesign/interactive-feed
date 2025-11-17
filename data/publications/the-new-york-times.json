@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-17T02:57:58.844Z",
+  "lastUpdated": "2025-11-17T16:49:53.994Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/17/books/book-awards-quiz.html",
+      "headline": "Do You Know These Award-Winning Books?",
+      "image": "https://static01.nyt.com/images/2025/11/17/books/review/17TBR-Quiz-Winners/17TBR-Quiz-Winners-articleLarge.jpg",
+      "timestamp": "2025-11-17T16:45:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
