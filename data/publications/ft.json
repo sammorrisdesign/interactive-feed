@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-10T11:37:51.220Z",
+  "lastUpdated": "2025-11-17T05:17:49.890Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/booksoftheyear2025",
+      "headline": "The best books of the year 2025",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F13d8da4b-8bc0-420c-82d8-4e89941fb7de.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2025-11-17T05:00:17.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
