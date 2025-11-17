@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-16T03:01:24.981Z",
+  "lastUpdated": "2025-11-17T02:57:58.844Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/16/magazine/trump-justice-department-staff-attorneys.html",
+      "headline": "‘It’s a Culture Now of Fear: A Year of Chaos Inside the Justice Department’",
+      "image": "https://static01.nyt.com/images/2025/11/14/magazine/DOJ-promostill/DOJ-promostill-articleLarge.jpg",
+      "timestamp": "2025-11-17T02:21:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
