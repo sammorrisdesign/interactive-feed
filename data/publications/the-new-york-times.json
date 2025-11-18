@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-17T16:49:53.994Z",
+  "lastUpdated": "2025-11-18T09:42:20.431Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/18/world/africa/lead-poisoning-car-battery.html",
+      "headline": "Recycling Lead for U.S. Car Batteries Is Poisoning People",
+      "image": "https://static01.nyt.com/images/2025/11/17/multimedia/2025-09-01-nigeria-lead-index/2025-09-01-nigeria-lead-index-articleLarge-v2.jpg",
+      "timestamp": "2025-11-18T09:24:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
