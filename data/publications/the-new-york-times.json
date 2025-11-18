@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-18T10:20:08.396Z",
+  "lastUpdated": "2025-11-18T18:26:05.159Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/18/us/quake-tracker-southern-california.html",
+      "headline": "Map: 4.1-Magnitude Earthquake Shakes Southern California",
+      "image": "https://static01.nyt.com/images/2025/11/18/world/18wea-quake-tracker-southern-california-nyt3drh1-index/18wea-quake-tracker-southern-california-nyt3drh1-index-articleLarge-v11.jpg",
+      "timestamp": "2025-11-18T18:15:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
