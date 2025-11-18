@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-18T18:26:05.159Z",
+  "lastUpdated": "2025-11-18T18:51:49.326Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/18/us/quake-tracker-central-california.html",
+      "headline": "Map: 4.1-Magnitude Earthquake Shakes Central California",
+      "image": "https://static01.nyt.com/images/2025/11/18/world/18wea-quake-tracker-southern-california-nyt3drh1-index/18wea-quake-tracker-southern-california-nyt3drh1-index-articleLarge-v21.jpg",
+      "timestamp": "2025-11-18T18:15:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
