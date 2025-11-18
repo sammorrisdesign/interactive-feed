@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-18T09:42:20.431Z",
+  "lastUpdated": "2025-11-18T10:20:08.396Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/18/realestate/2025-11-17-f-murray-abraham.html",
+      "headline": "How F. Murray Abraham Brought His House Back to Life",
+      "image": "https://static01.nyt.com/images/2025/11/17/realestate/2025-11-17-f-murray-abraham-1763425622726/2025-11-17-f-murray-abraham-1763425622726-articleLarge.jpg",
+      "timestamp": "2025-11-18T10:04:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
