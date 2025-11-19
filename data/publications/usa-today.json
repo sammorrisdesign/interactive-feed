@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-19T01:18:02.842Z",
+  "lastUpdated": "2025-11-19T21:36:14.180Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/11/19/nasa-images-interstellar-comet-3i-atlas/87352975007/",
+      "headline": "NASA's interstellar comet 3I/ATLAS in stunning new imagery",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/11/19/USAT/87358833007-uastgraphicscomet-atla-stopper.png",
+      "timestamp": "2025-11-19T21:15:10.519Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2025/11/19/thanksgiving-turkey-price-cost-dinner-2025/87350425007/",
+      "headline": "Here's how much cheaper your Thanksgiving dinner might be this year",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/11/19/USAT/87350639007-thanksgiving-price-topper.png",
+      "timestamp": "2025-11-19T21:21:00.134Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
