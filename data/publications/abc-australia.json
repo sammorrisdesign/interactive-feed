@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-11-10T19:13:52.466Z",
+  "lastUpdated": "2025-11-19T05:17:24.713Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2025-11-19/cycone-fina-tracker-map/106027654",
+      "headline": "When will Tropical Cyclone Fina hit the Australian coastline?",
+      "image": "https://live-production.wcms.abc-cdn.net.au/2e4b4a777e35c441b3860fd3a0e8d362?impolicy=wcms_crop_resize&cropH=800&cropW=1067&xPos=35&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",

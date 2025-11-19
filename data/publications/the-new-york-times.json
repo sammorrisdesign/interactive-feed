@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-18T19:36:01.797Z",
+  "lastUpdated": "2025-11-19T05:17:24.754Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/19/climate/home-insurance-premiums-costs-usa.html",
+      "headline": "America’s Home Insurance Affordability Crunch: See What’s Happening Near You.",
+      "image": "https://static01.nyt.com/images/2025/11/18/multimedia/2025-09-18-insurance-burden-explore-index/2025-09-18-insurance-burden-explore-index-articleLarge-v2.png",
+      "timestamp": "2025-11-19T05:02:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/19/climate/home-insurance-costs-real-estate-market.html",
+      "headline": "A Climate ‘Shock’ Is Eroding Some Home Values. New Data Shows How Much.",
+      "image": "https://static01.nyt.com/images/2025/11/18/multimedia/2025-10-28-insurance-premiums-story-index/2025-10-28-insurance-premiums-story-index-articleLarge-v2.jpg",
+      "timestamp": "2025-11-19T05:00:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
