@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-20T12:35:31.176Z",
+  "lastUpdated": "2025-11-20T13:28:20.847Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/nov/20/nick-fuentes-tucker-carlson",
+      "headline": "White nationalist Nick Fuentes is exposing a civil war among US Republicans: ‘We look like clowns’",
+      "image": "https://i.guim.co.uk/img/media/44a7f5913191819d5502ba16c523e258e4ba0b39/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc43bd3e38fc90b60295203872356e1c",
+      "timestamp": "2025-11-20T13:00:09.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2025/nov/20/addiction-withdrawal-mother-baby-maddies-place",
+      "headline": "She was pregnant and addicted to fentanyl. Getting to keep her baby saved them both",
+      "image": "https://i.guim.co.uk/img/media/0dbcbd3b4ce93f0d0356dcf7f101c7529d726f7f/0_0_1280_1024/master/1280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=102de8a5ee1a7145496e13cba4034ebc",
+      "timestamp": "2025-11-20T12:56:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
