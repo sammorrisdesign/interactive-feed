@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-19T12:36:26.449Z",
+  "lastUpdated": "2025-11-20T12:35:31.176Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2025/nov/20/valencia-storms-iberian-peninsula-this-is-climate-breakdown",
+      "headline": "‘My husband and daughter went down to the garage in case it flooded. Then I heard a strange noise’ – This is climate breakdown",
+      "image": "https://i.guim.co.uk/img/media/1e8ee63149a60aa6b02f49330f384d6519c22bc8/0_1347_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c0926de48a5a9f00ead7debf41eebb45",
+      "timestamp": "2025-11-20T12:00:11.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2025/nov/20/you-be-the-chancellor-play-our-interactive-budget-game",
+      "headline": "Could you do better than Reeves as chancellor? Play our interactive budget game",
+      "image": "https://i.guim.co.uk/img/media/777f861735c30d476f14dfffc6954ed9821eb198/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=944803d47d578401fa8efa2a69e95542",
+      "timestamp": "2025-11-20T11:51:19.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
