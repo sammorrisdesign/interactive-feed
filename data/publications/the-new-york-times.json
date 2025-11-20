@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-20T17:14:10.912Z",
+  "lastUpdated": "2025-11-20T20:19:32.021Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/arts/read-watch-next-list.html",
+      "headline": "On Your List",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-11-20T19:49:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
