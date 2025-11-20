@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-20T16:22:14.745Z",
+  "lastUpdated": "2025-11-20T17:14:10.912Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/20/us/nat-NTSB-preliminary-report-louisville-UPS-crash.html",
+      "headline": "Read the NTSB’s preliminary report on the UPS crash",
+      "image": "https://static01.nyt.com/images/2025/11/20/doc-prelimiary-report-louisvi-promo/doc-prelimiary-report-louisvi-promo-articleLarge.png",
+      "timestamp": "2025-11-20T17:07:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
