@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-20T10:18:49.074Z",
+  "lastUpdated": "2025-11-20T14:17:30.253Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/20/dining/thanksgiving-hot-takes.html",
+      "headline": "61 Hot Takes to Fight About at Thanksgiving",
+      "image": "https://static01.nyt.com/images/2025/11/18/arts/00tg-hot-takes-hp-illo/00tg-hot-takes-hp-illo-articleLarge.jpg",
+      "timestamp": "2025-11-20T14:11:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
