@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-11-19T20:37:47.783Z",
+  "lastUpdated": "2025-11-20T10:18:49.074Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/20/realestate/portland-oregon-home-sale.html",
+      "headline": "They Scoured Portland, Ore., for a Hundred-Year-Old House With a Story to Tell",
+      "image": "https://static01.nyt.com/images/2025/11/20/multimedia/20re-Hunt-Portland-01-lkjw/20re-Hunt-Portland-01-lkjw-articleLarge.jpg",
+      "timestamp": "2025-11-20T10:04:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/20/us/typewriter-repair-seattle-bremerton.html",
+      "headline": "How to Fix a Typewriter and Your Life",
+      "image": "https://static01.nyt.com/images/2025/11/19/multimedia/00nat-typewriter-promo-cwtb/00nat-typewriter-promo-cwtb-articleLarge.jpg",
+      "timestamp": "2025-11-20T10:04:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/20/opinion/separation-family-story-immigration.html",
+      "headline": "Mateo’s Choice: Is Applying for Asylum Worth the Risk of Deportation?",
+      "image": "https://static01.nyt.com/images/2025/11/18/opinion/separation-family-story-immigration-1763496511620/separation-family-story-immigration-1763496511620-articleLarge-v2.jpg",
+      "timestamp": "2025-11-20T10:01:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/20/travel/things-to-do-memphis.html",
+      "headline": "36 Hours in Memphis",
+      "image": "https://static01.nyt.com/images/2025/11/20/multimedia/20Hours-Memphis-jgmb/20Hours-Memphis-jgmb-articleLarge.jpg",
+      "timestamp": "2025-11-20T10:00:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
