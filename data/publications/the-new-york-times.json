@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-21T20:40:59.451Z",
+  "lastUpdated": "2025-11-21T22:40:26.359Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/21/realestate/kitchen-design-trends-history.html",
+      "headline": "Why Your Kitchen Looks Like That",
+      "image": "https://static01.nyt.com/images/2025/11/21/realestate/kitchen-timeline-promo/kitchen-timeline-promo-articleLarge.jpg",
+      "timestamp": "2025-11-21T22:20:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
