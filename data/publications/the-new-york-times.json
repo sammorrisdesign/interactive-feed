@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-20T20:19:32.021Z",
+  "lastUpdated": "2025-11-21T10:18:08.306Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/21/magazine/wet-laundry-hodgman-quiz.html",
+      "headline": "Should You Dry Someone Else’s Abandoned Laundry?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-11-21T10:01:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
