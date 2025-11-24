@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-24T15:43:49.253Z",
+  "lastUpdated": "2025-11-24T16:19:47.939Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/24/books/review/classic-sf-quotes.html",
+      "headline": "Do You Recognize These Quotes From Classic Books?",
+      "image": "https://static01.nyt.com/images/2025/11/24/books/review/24TBR-Quiz-SciFi/24TBR-Quiz-SciFi-articleLarge.jpg",
+      "timestamp": "2025-11-24T16:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
