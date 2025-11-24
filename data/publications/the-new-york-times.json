@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-24T17:42:07.960Z",
+  "lastUpdated": "2025-11-24T19:12:16.348Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/24/us/comeydismissal.html",
+      "headline": "Read the Ruling Dismissing the Charges Against James Comey",
+      "image": "https://static01.nyt.com/images/2025/11/24/doc-comeydismissal-promo/doc-comeydismissal-promo-articleLarge.png",
+      "timestamp": "2025-11-24T19:10:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/24/us/letitiajamesdismissal.html",
+      "headline": "Read the Ruling Dismissing the Charges Against Letitia James",
+      "image": "https://static01.nyt.com/images/2025/11/24/doc-letitiajamesdismissal-promo/doc-letitiajamesdismissal-promo-articleLarge.png",
+      "timestamp": "2025-11-24T19:08:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
