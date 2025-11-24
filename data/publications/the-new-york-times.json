@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-23T10:16:42.532Z",
+  "lastUpdated": "2025-11-24T15:43:49.253Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/24/us/earthquake-northern-california.html",
+      "headline": "Small Earthquake Shakes Northern California",
+      "image": "https://static01.nyt.com/images/2025/11/24/world/24wea-quake-tracker-san-francisco-bay-area-nytb1z4t-index/24wea-quake-tracker-san-francisco-bay-area-nytb1z4t-index-articleLarge-v8.jpg",
+      "timestamp": "2025-11-24T15:32:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
