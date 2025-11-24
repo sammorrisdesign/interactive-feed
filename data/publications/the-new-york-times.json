@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-24T19:12:16.348Z",
+  "lastUpdated": "2025-11-24T20:20:10.102Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/congressional-vote-2026.html",
+      "headline": "Control of Congress 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2025/11/20/us/congressional-polls-promo-demrep-polls/congressional-polls-promo-demrep-polls-articleLarge.jpg",
+      "timestamp": "2025-11-24T19:41:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
