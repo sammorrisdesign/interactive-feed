@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-24T16:19:47.939Z",
+  "lastUpdated": "2025-11-24T17:42:07.960Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/24/t-magazine/jodie-foster-mel-brooks-questionnaire.html",
+      "headline": "Jodie Foster Takes the Mel Brooks Questionnaire",
+      "image": "https://static01.nyt.com/images/2025/11/24/t-magazine/24tmag-foster-1764005146155/24tmag-foster-1764005146155-articleLarge.jpg",
+      "timestamp": "2025-11-24T17:30:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
