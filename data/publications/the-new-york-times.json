@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-25T20:42:47.569Z",
+  "lastUpdated": "2025-11-25T21:16:08.122Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/world/europe/europe-cold-map-tracker.html",
+      "headline": "Tracking Freezing Temperatures Across Europe",
+      "image": "https://static01.nyt.com/images/2025/11/25/multimedia/2023-07-17-world-heat-cra-map-index_europe_c_cold/2023-07-17-world-heat-cra-map-index_europe_c_cold-articleLarge-v2.jpg",
+      "timestamp": "2025-11-25T20:44:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/world/canada/canada-cold-map-tracker.html",
+      "headline": "Tracking Freezing Temperatures Across Canada",
+      "image": "https://static01.nyt.com/images/2025/11/25/multimedia/2023-07-17-world-heat-cra-map-index_canada_cold/2023-07-17-world-heat-cra-map-index_canada_cold-articleLarge-v2.jpg",
+      "timestamp": "2025-11-25T20:43:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
