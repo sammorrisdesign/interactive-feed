@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-25T03:49:20.685Z",
+  "lastUpdated": "2025-11-25T18:26:40.463Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/25/opinion/elements-periodic-table.html",
+      "headline": "These Are the Elements That Define Us",
+      "image": "https://static01.nyt.com/images/2025/11/26/arts/main-hp-cine-0-00-00-00/main-hp-cine-0-00-00-00--articleLarge-v2.png",
+      "timestamp": "2025-11-25T18:10:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
