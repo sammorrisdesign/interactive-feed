@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-24T20:20:10.102Z",
+  "lastUpdated": "2025-11-25T03:49:20.685Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/24/books/book-recommendations-notables.html",
+      "headline": "100 Notable Books Are a Lot! Help Me Find One I’ll Love.",
+      "image": "https://static01.nyt.com/images/2025/11/25/books/25TBR-NOTABLES-promohelper/25TBR-NOTABLES-promohelper-articleLarge.png",
+      "timestamp": "2025-11-25T03:07:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
