@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-25T18:26:40.463Z",
+  "lastUpdated": "2025-11-25T19:15:07.176Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/25/nyregion/nyc-storm-hurricane-flooding.html",
+      "headline": "The Disaster to Come: New York’s Next Superstorm",
+      "image": "https://static01.nyt.com/images/2025/11/19/multimedia/2025-10-02-nyc-monster-storm-index/2025-10-02-nyc-monster-storm-index-articleLarge-v8.jpg",
+      "timestamp": "2025-11-25T18:57:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
