@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-25T19:15:07.176Z",
+  "lastUpdated": "2025-11-25T20:42:47.569Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/world/global-cold-map-tracker.html",
+      "headline": "Tracking Freezing Temperatures Across the World",
+      "image": "https://static01.nyt.com/images/2025/11/25/multimedia/2023-07-17-world-heat-cra-map-index_cold/2023-07-17-world-heat-cra-map-index_cold-articleLarge-v2.jpg",
+      "timestamp": "2025-11-25T20:42:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
