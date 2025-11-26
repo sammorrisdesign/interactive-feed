@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-25T21:16:08.122Z",
+  "lastUpdated": "2025-11-26T10:20:27.438Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/26/arts/television/how-stranger-things-defined-the-era-of-the-algorithm.html",
+      "headline": "How ‘Stranger Things’ Defined the Era of the Algorithm",
+      "image": "https://static01.nyt.com/images/2025/11/24/arts/television/how-stranger-things-defined-the-era-of-the-algorithm-1764074331422/how-stranger-things-defined-the-era-of-the-algorithm-1764074331422-articleLarge.jpg",
+      "timestamp": "2025-11-26T10:03:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
