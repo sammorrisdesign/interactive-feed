@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-26T14:44:52.559Z",
+  "lastUpdated": "2025-11-26T15:16:55.313Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/26/us/earthquake-northern-california-gilroy.html",
+      "headline": "Map: Small Quakes Shake Northern California",
+      "image": "https://static01.nyt.com/images/2025/11/26/world/26wea-quake-tracker-san-francisco-bay-area-nytdbnch-index/26wea-quake-tracker-san-francisco-bay-area-nytdbnch-index-articleLarge-v7.jpg",
+      "timestamp": "2025-11-26T14:32:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
