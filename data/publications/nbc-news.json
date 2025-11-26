@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2025-11-17T10:45:44.255Z",
+  "lastUpdated": "2025-11-26T10:46:21.392Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/data-graphics/turkey-prices-hold-steady-thanksgiving-shoppers-surge-bird-flu-rcna244663",
+      "headline": "Turkey prices hold steady for Thanksgiving, despite bird flu",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-11/251119-turkey-cost-thanksgiving-gk-3081b9.jpg",
+      "timestamp": "2025-11-26T10:00:00.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
