@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-26T15:16:55.313Z",
+  "lastUpdated": "2025-11-26T21:37:30.638Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/tennessee-us-house-7-special-election-polls-2025.html",
+      "headline": "Tennessee Seventh District Special Election 2025: Latest Polls",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-11-26T21:32:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
