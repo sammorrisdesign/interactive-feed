@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-27T17:14:46.334Z",
+  "lastUpdated": "2025-11-27T17:39:13.218Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/27/us/earthquake-alaska-anchorage.html",
+      "headline": "Map: 6.0-Magnitude Earthquake Shakes Alaska Near Anchorage",
+      "image": "https://static01.nyt.com/images/2025/11/27/world/27wea-quake-tracker-alaska-nyt9ks8v-index/27wea-quake-tracker-alaska-nyt9ks8v-index-articleLarge-v7.jpg",
+      "timestamp": "2025-11-27T17:24:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
