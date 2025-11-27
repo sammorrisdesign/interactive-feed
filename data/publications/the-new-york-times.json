@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-27T10:19:56.174Z",
+  "lastUpdated": "2025-11-27T17:14:46.334Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/27/us/earthquake-northern-california-tracker.html",
+      "headline": "Map: Small Quakes Shake Northern California on Thanksgiving Morning",
+      "image": "https://static01.nyt.com/images/2025/11/27/world/27wea-quake-tracker-san-francisco-bay-area-nytds8xx-index/27wea-quake-tracker-san-francisco-bay-area-nytds8xx-index-articleLarge-v18.jpg",
+      "timestamp": "2025-11-27T17:14:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
