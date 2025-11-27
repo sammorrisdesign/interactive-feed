@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-27T01:17:20.749Z",
+  "lastUpdated": "2025-11-27T10:19:56.174Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/27/realestate/brooklyn-houses-sale.html",
+      "headline": "They Upsized to a Single-Family House in Brooklyn for Less Than $900,000. But Where?",
+      "image": "https://static01.nyt.com/images/2025/11/27/multimedia/27re-Hunt-Spivey-qwth/27re-Hunt-Spivey-qwth-articleLarge-v2.jpg",
+      "timestamp": "2025-11-27T10:04:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/27/travel/things-to-do-san-antonio.html",
+      "headline": "36 Hours in San Antonio",
+      "image": "https://static01.nyt.com/images/2025/11/27/multimedia/27trav-hours-san-antonio-tvjf/27trav-hours-san-antonio-tvjf-articleLarge.jpg",
+      "timestamp": "2025-11-27T10:03:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
