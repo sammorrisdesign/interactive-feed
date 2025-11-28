@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-27T17:39:13.218Z",
+  "lastUpdated": "2025-11-28T10:19:41.584Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/28/magazine/exciting-snacks-hodgman-quiz.html",
+      "headline": "Can You Compel Your Children to Sing for Their Snacks?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-11-28T10:02:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/28/business/black-friday-shopping-quiz.html",
+      "headline": "What Do You Know About Black Friday?",
+      "image": "https://static01.nyt.com/images/2025/11/25/business/00-black-friday-promo/00-black-friday-promo-articleLarge.jpg",
+      "timestamp": "2025-11-28T10:01:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
