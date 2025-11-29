@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-28T04:44:50.005Z",
+  "lastUpdated": "2025-11-29T04:43:50.788Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/english/visuals-videos/derby-fcz-gegen-gc-wer-ist-am-samstag-die-nummer-1-in-zuerich-ld.1910225",
+      "headline": "Eine Stadt, zwei Klubs, eine Krise: Wer ist am Samstag die Nummer 1 in Zürich – der FCZ oder GC?",
+      "image": "https://img.nzz.ch/2025/11/27/ac73866f-fbe3-473e-8f6b-b9d2048f4bc0.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8446,4751,x344,y0&wmark=nzz",
+      "timestamp": "2025-11-29T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
