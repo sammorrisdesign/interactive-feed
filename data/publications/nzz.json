@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-30T04:52:14.714Z",
+  "lastUpdated": "2025-11-30T10:16:30.935Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/alle-resultate-zu-den-abstimmungen-vom-30-november-2025-in-der-schweiz-und-in-zuerich-ld.1914273",
+      "headline": "Alle Resultate zu den Abstimmungen vom 30. November 2025 in der Schweiz und in Zürich",
+      "image": "https://img.nzz.ch/2025/11/30/6a4505ac-e4a4-4617-8dfc-0936f5373487.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4928,2772,x0,y254&wmark=nzz",
+      "timestamp": "2025-11-30T10:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",

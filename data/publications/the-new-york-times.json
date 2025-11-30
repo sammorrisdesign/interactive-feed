@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-28T20:40:10.831Z",
+  "lastUpdated": "2025-11-30T10:16:31.310Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/30/weather/koto-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Koto",
+      "image": "https://static01.nyt.com/images/2025/11/24/weather/thirtythree-map-path-tracker-index/thirtythree-map-path-tracker-index-articleLarge-v25.jpg",
+      "timestamp": "2025-11-30T10:14:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
