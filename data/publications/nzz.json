@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-11-29T04:43:50.788Z",
+  "lastUpdated": "2025-11-30T04:52:14.714Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aus-dem-orbit/buerokratie-vom-feinsten-air-india-entdeckt-einen-verlorenen-jet-erst-nach-13-jahren-wieder-ld.1913628",
+      "headline": "Bürokratie vom Feinsten: Air India entdeckt einen verlorenen Jet erst nach 13 Jahren wieder",
+      "image": "https://img.nzz.ch/2025/11/27/df3b4958-14bf-4e1b-bee2-f79503120e9b.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y91&wmark=nzz",
+      "timestamp": "2025-11-30T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
