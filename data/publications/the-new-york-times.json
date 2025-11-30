@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-30T10:16:31.310Z",
+  "lastUpdated": "2025-11-30T15:16:00.860Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/08/21/us/20240331-david-sacks-ethics-filing-and-conflicts-waiver.html",
+      "headline": "One of David Sacks’s Waivers",
+      "image": "https://static01.nyt.com/images/2025/08/21/doc-20240331-david-sacks-ethi-promo/doc-20240331-david-sacks-ethi-promo-articleLarge.png",
+      "timestamp": "2025-11-30T15:12:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
