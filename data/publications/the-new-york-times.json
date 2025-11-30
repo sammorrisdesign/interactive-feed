@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-11-30T15:16:00.860Z",
+  "lastUpdated": "2025-11-30T20:40:55.926Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/30/style/favorite-stores-clothes-shopping-us.html",
+      "headline": "Tastemakers on Where They Love to Shop",
+      "image": "https://static01.nyt.com/images/2025/12/01/arts/their-list-horiztontal-promo/their-list-horiztontal-promo-articleLarge.jpg",
+      "timestamp": "2025-11-30T20:40:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/11/30/style/best-clothes-stores-us.html",
+      "headline": "The 50 Best Clothing Stores in America",
+      "image": "https://static01.nyt.com/images/2025/12/01/fashion/01ST-BESTSTORES-OURLIST-PROMO/01ST-BESTSTORES-OURLIST-PROMO-articleLarge-v3.png",
+      "timestamp": "2025-11-30T20:21:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
