@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-01T16:52:02.851Z",
+  "lastUpdated": "2025-12-01T19:23:04.663Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2025/dec/01/voting-in-victoria-is-broken-heres-how-it-could-be-fixed-and-who-would-benefit",
+      "headline": "Voting in Victoria is broken. Here’s how it could be fixed and who would benefit",
+      "image": "https://i.guim.co.uk/img/media/9fd55f17ca29d377727ee8e9bba7f1121e3f8c11/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=63e54308305303e9a73bd243c1a31097",
+      "timestamp": "2025-12-01T19:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
