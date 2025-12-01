@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-11-30T23:15:37.758Z",
+  "lastUpdated": "2025-12-01T15:43:37.741Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/01/books/review/book-author-cameos.html",
+      "headline": "Do You Know These Authors Who Appeared in the Filmed Versions of Their Books?",
+      "image": "https://static01.nyt.com/images/2025/12/01/books/review/01TBR-Quiz-Cameos/01TBR-Quiz-Cameos-articleLarge.jpg",
+      "timestamp": "2025-12-01T15:30:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
