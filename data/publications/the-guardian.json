@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-01T05:25:25.275Z",
+  "lastUpdated": "2025-12-01T10:20:29.139Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/01/its-going-much-too-fast-the-inside-story-of-the-race-to-create-the-ultimate-ai",
+      "headline": "‘It’s going much too fast’: the inside story of the race to create the ultimate AI",
+      "image": "https://i.guim.co.uk/img/media/3a0b9b3f8dd7ac48f7a548037c63002bc5661c22/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dd918b07d627fc9aa7296acc6d16da0d",
+      "timestamp": "2025-12-01T10:00:31.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
