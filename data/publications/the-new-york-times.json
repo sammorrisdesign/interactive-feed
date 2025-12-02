@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-12-01T15:43:37.741Z",
+  "lastUpdated": "2025-12-02T10:20:06.529Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/02/upshot/trump-science-funding-cuts.html",
+      "headline": "The U.S. Is Funding Fewer Grants in Every Area of Science and Medicine",
+      "image": "https://static01.nyt.com/images/2025/11/26/multimedia/2025-10-09-fiscal-year-grants-index/2025-10-09-fiscal-year-grants-index-articleLarge-v3.png",
+      "timestamp": "2025-12-02T10:05:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/02/world/europe/ukraine-russia-war-recruitment-campaign.html",
+      "headline": "From Snarling Zombies to Frolicking Dogs: Recruiting Ads Trace a War’s Evolution",
+      "image": "https://static01.nyt.com/images/2025/11/13/multimedia/2025-11-06-ukraine-recruitment-themes-index/2025-11-06-ukraine-recruitment-themes-index-articleLarge-v15.jpg",
+      "timestamp": "2025-12-02T10:00:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/02/books/loneliness-sonia-sunny-kiran-desai-10-best-books.html",
+      "headline": "This Book Is One of Our 10 Best of 2025. Let Us Show You Why.",
+      "image": "https://static01.nyt.com/images/2025/12/02/multimedia/00books-gondola-tgzf/00books-gondola-tgzf-articleLarge-v2.jpg",
+      "timestamp": "2025-12-02T09:59:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
