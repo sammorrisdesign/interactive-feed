@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-12-02T14:47:56.818Z",
+  "lastUpdated": "2025-12-02T18:28:01.979Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/02/us/elections/results-tennessee-us-house-7-special.html",
+      "headline": "Tennessee Seventh District Special Election Results",
+      "image": "https://static01.nyt.com/images/2025/12/02/multimedia/eln-PRE-2025-12-02-race-tn-us-h-7-sp-3bfb09/eln-PRE-2025-12-02-race-tn-us-h-7-sp-3bfb09-articleLarge.jpg",
+      "timestamp": "2025-12-02T18:17:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/02/us/elections/results-jersey-city-mayor-runoff.html",
+      "headline": "Jersey City Mayoral Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2025/12/02/multimedia/eln-PRE-2025-12-02-race-nj-mayor-jersey-city-ff6c9e/eln-PRE-2025-12-02-race-nj-mayor-jersey-city-ff6c9e-articleLarge-v2.jpg",
+      "timestamp": "2025-12-02T18:11:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
