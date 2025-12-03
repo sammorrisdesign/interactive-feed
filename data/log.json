@@ -1,1 +1,57 @@
-[]
+[
+  {
+    "timestamp": "2025-12-03T05:42:10.334Z",
+    "publication": "Berliner Morgenpost",
+    "error": "TypeError: Cannot read properties of undefined (reading 'channel')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:167:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:10.334Z",
+    "publication": "Berliner Morgenpost",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:18.491Z",
+    "publication": "LA Times",
+    "error": "TypeError: Cannot read properties of undefined (reading 'channel')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:167:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:18.492Z",
+    "publication": "LA Times",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:18.977Z",
+    "publication": "National Geographic",
+    "error": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:198:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:18.978Z",
+    "publication": "National Geographic",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:24.449Z",
+    "publication": "Tages-Anzeiger",
+    "error": "TypeError: Cannot read properties of undefined (reading 'channel')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:167:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:24.450Z",
+    "publication": "Tages-Anzeiger",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:28.812Z",
+    "publication": "The Philadelphia Inquirer",
+    "error": "SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5852:19)\n    at successSteps (node:internal/deps/undici/undici:5833:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4725:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async consumeBody (node:internal/deps/undici/undici:5842:7)\n    at async Object.PhiladelphiaInquirerAPI (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:113:20)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:29.523Z",
+    "publication": "The Straits Times",
+    "error": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:198:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2025-12-03T05:42:29.523Z",
+    "publication": "The Straits Times",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  }
+]
