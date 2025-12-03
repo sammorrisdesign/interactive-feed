@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-03T05:17:43.183Z",
+  "lastUpdated": "2025-12-03T10:20:45.530Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/travel/paris-france-guide.html",
+      "headline": "Your Guide to Paris",
+      "image": "https://static01.nyt.com/images/2025/12/01/multimedia/00-paris-promo/00-paris-promo-articleLarge-v2.jpg",
+      "timestamp": "2025-12-03T10:01:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
