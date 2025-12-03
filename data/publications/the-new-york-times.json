@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-03T02:59:12.823Z",
+  "lastUpdated": "2025-12-03T05:17:43.183Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/03/world/asia/south-korea-coffee-shops.html",
+      "headline": "South Korea Has a Coffee Shop Problem",
+      "image": "https://static01.nyt.com/images/2025/11/14/multimedia/2025-05-26-sk-coffee-shops-index/2025-05-26-sk-coffee-shops-index-articleLarge-v3.jpg",
+      "timestamp": "2025-12-03T05:01:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
