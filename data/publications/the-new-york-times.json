@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-04T10:21:05.790Z",
+  "lastUpdated": "2025-12-04T16:24:25.254Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/2026-election-calendar.html",
+      "headline": "2026 Midterm Primary Election Calendar",
+      "image": "https://static01.nyt.com/images/2025/12/04/multimedia/2026-election-calendar-index/2026-election-calendar-index-articleLarge.png",
+      "timestamp": "2025-12-04T15:52:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
