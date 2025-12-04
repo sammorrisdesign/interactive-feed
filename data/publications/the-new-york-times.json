@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-12-03T10:20:45.530Z",
+  "lastUpdated": "2025-12-04T10:21:05.790Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/04/realestate/palm-springs-rancho-mirage-california-homes.html",
+      "headline": "They Left Texas for a New Home in the Desert Outside Palm Springs",
+      "image": "https://static01.nyt.com/images/2025/12/04/multimedia/04re-hunt-rancho-mirage-cwhj/04re-hunt-rancho-mirage-cwhj-articleLarge-v3.jpg",
+      "timestamp": "2025-12-04T10:05:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/04/travel/things-to-do-dresden.html",
+      "headline": "36 Hours in Dresden, Germany",
+      "image": "https://static01.nyt.com/images/2025/12/04/multimedia/04Hours-Dresden-pjqt/04Hours-Dresden-pjqt-articleLarge.jpg",
+      "timestamp": "2025-12-04T10:02:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
