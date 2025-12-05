@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-12-04T20:44:53.653Z",
+  "lastUpdated": "2025-12-05T10:19:09.340Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/05/magazine/table-squatting-hodgman-quiz.html",
+      "headline": "Can You Grab Seats Before Ordering Your Food?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-12-05T10:03:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/05/world/asia/hong-kong-fire-photos-videos.html",
+      "headline": "How the Fire in Hong Kong Became So Deadly",
+      "image": "https://static01.nyt.com/images/2025/12/05/multimedia/2025-12-01-hk-fire-graphic-index/2025-12-01-hk-fire-graphic-index-articleLarge-v2.jpg",
+      "timestamp": "2025-12-05T09:49:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
