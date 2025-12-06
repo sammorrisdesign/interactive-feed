@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-05T01:20:48.348Z",
+  "lastUpdated": "2025-12-06T18:22:42.274Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2025/apache-oak-flat-copper-mine/",
+      "headline": "A land fight pits a sacred Apache tradition against a copper mine",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreidmqum7c653qhafbgjqqz6rmmojpc6xgid2fumjf7os772inkxj5q@jpeg",
+      "timestamp": "2025-12-06T18:00:18.822Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
