@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-06T15:15:30.557Z",
+  "lastUpdated": "2025-12-06T22:15:47.756Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/06/us/quake-tracker-alaska.html",
+      "headline": "Map: 7.0-Magnitude Earthquake Shakes Alaska",
+      "image": "https://static01.nyt.com/images/2025/12/06/world/06wea-quake-tracker-alaska-nytb759j-index/06wea-quake-tracker-alaska-nytb759j-index-articleLarge-v7.jpg",
+      "timestamp": "2025-12-06T21:42:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
