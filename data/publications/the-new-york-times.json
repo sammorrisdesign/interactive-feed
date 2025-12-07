@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-07T10:16:23.996Z",
+  "lastUpdated": "2025-12-07T22:39:39.980Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/07/nyregion/subway-deaths-train-operators-ptsd.html",
+      "headline": "They Witness Deaths on the Tracks and Then Struggle to Get Help",
+      "image": "https://static01.nyt.com/images/2025/12/07/multimedia/MTA-MENTAL-HEALTH-PROMO-01-hvzj/MTA-MENTAL-HEALTH-PROMO-01-hvzj-articleLarge.jpg",
+      "timestamp": "2025-12-07T22:38:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
