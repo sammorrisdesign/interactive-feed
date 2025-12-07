@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-06T22:15:47.756Z",
+  "lastUpdated": "2025-12-07T10:16:23.996Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/07/business/what-are-stablecoins.html",
+      "headline": "Your Money Could Soon Be Tied Up in This $300 Billion Crypto Market",
+      "image": "https://static01.nyt.com/images/2025/11/25/business/00-stablecoin-promo/00-stablecoin-promo-articleLarge.jpg",
+      "timestamp": "2025-12-07T10:01:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
