@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-08T16:24:13.857Z",
+  "lastUpdated": "2025-12-08T17:42:54.761Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/08/us/san-francisco-bay-area-earthquake-tracker.html",
+      "headline": "Map: 3.7-Magnitude Earthquake Shakes the San Francisco Bay Area",
+      "image": "https://static01.nyt.com/images/2025/12/08/world/08wea-quake-tracker-san-francisco-bay-area-nytcy99j-index/08wea-quake-tracker-san-francisco-bay-area-nytcy99j-index-articleLarge-v4.jpg",
+      "timestamp": "2025-12-08T17:30:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
