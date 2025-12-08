@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-08T10:20:29.644Z",
+  "lastUpdated": "2025-12-08T14:46:30.705Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/08/world/earthquake-japan-tsunami.html",
+      "headline": "Map: 7.6-Magnitude Earthquake Strikes off the Coast of Japan",
+      "image": "https://static01.nyt.com/images/2025/12/08/world/08wea-quake-tracker-north-pacific-ocean-nytbgcyf-index/08wea-quake-tracker-north-pacific-ocean-nytbgcyf-index-articleLarge-v3.jpg",
+      "timestamp": "2025-12-08T14:45:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
