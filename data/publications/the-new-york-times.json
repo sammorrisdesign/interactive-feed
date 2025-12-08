@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-08T14:46:30.705Z",
+  "lastUpdated": "2025-12-08T16:24:13.857Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/08/books/review/winter-novels-quiz.html",
+      "headline": "Do You Know Where in the World These Winter Scenes Are Set?",
+      "image": "https://static01.nyt.com/images/2025/12/08/books/review/08TBR-Quiz-WinterScenes/08TBR-Quiz-WinterScenes-articleLarge.jpg",
+      "timestamp": "2025-12-08T16:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
