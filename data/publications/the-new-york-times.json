@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-09T20:18:31.304Z",
+  "lastUpdated": "2025-12-09T22:40:37.946Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/09/us/crypto-casinos-gambling-streamers.html",
+      "headline": "Inside the Dark and Predatory World of Crypto Casinos",
+      "image": "https://static01.nyt.com/images/2025/12/09/video/cryptocasinos-promo/cryptocasinos-promo-articleLarge.png",
+      "timestamp": "2025-12-09T22:21:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
