@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-12-08T17:42:54.761Z",
+  "lastUpdated": "2025-12-09T10:20:55.507Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/09/opinion/editorials/us-china-military-ai-tech.html",
+      "headline": "This Is the 21st-Century Arms Race. Can America Keep Up?",
+      "image": "https://static01.nyt.com/images/2025/12/04/opinion/fow-tech/fow-tech-articleLarge.jpg",
+      "timestamp": "2025-12-09T10:02:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/09/science/medically-assisted-dying-laws.html",
+      "headline": "Should You Be Able to Ask a Doctor to Help You Die?",
+      "image": "https://static01.nyt.com/images/2025/11/14/science/medically-assisted-dying-laws-1765237725451/medically-assisted-dying-laws-1765237725451-articleLarge.jpg",
+      "timestamp": "2025-12-09T10:02:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
