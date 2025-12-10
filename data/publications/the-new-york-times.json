@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-10T09:21:22.678Z",
+  "lastUpdated": "2025-12-10T10:21:13.096Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/10/opinion/editorials/us-military-budget-waste.html",
+      "headline": "America Pours Billions Into the Military. We Don’t Know Where It All Goes.",
+      "image": "https://static01.nyt.com/images/2025/12/10/opinion/fow-bureaucracy-hp-desktop-still/fow-bureaucracy-hp-desktop-still-articleLarge.jpg",
+      "timestamp": "2025-12-10T10:02:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
