@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-10T10:21:13.096Z",
+  "lastUpdated": "2025-12-10T21:19:15.189Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/10/magazine/best-acting-performances-wesley-morris.html",
+      "headline": "And the Winners of Our Extremely Specific Acting Awards Are...",
+      "image": "https://static01.nyt.com/images/2025/12/11/magazine/11mag-GPaward-still/11mag-GPaward-still-articleLarge.jpg",
+      "timestamp": "2025-12-10T20:47:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
