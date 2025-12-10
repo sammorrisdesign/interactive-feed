@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-09T22:40:37.946Z",
+  "lastUpdated": "2025-12-10T09:21:22.678Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/10/world/americas/quake-tracker-colombia.html",
+      "headline": "Map: 5.5-Magnitude Earthquake Shakes Colombia",
+      "image": "https://static01.nyt.com/images/2025/12/10/world/10wea-quake-tracker-colombia-nyt6o1wt-index/10wea-quake-tracker-colombia-nyt6o1wt-index-articleLarge-v7.jpg",
+      "timestamp": "2025-12-10T08:58:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
