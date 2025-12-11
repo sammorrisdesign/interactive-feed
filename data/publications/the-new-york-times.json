@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-11T19:40:23.634Z",
+  "lastUpdated": "2025-12-11T21:19:13.720Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/11/books/louise-gluck-poem-early-december-croton-hudson.html",
+      "headline": "I Think This Poem Is Kind of Into You",
+      "image": "https://static01.nyt.com/images/2025/12/05/books/gluck_poem_top_art-02/gluck_poem_top_art-02-articleLarge.jpg",
+      "timestamp": "2025-12-11T20:52:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
