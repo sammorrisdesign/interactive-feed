@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-12-10T21:19:15.189Z",
+  "lastUpdated": "2025-12-11T10:20:37.161Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/11/realestate/brooklyn-bronx-apartment-sale.html",
+      "headline": "Searching Brooklyn and the Bronx With a $600,000 Ceiling. Here’s What They Found.",
+      "image": "https://static01.nyt.com/images/2025/12/11/multimedia/11Hunt-Campbell-01-mjfq/11Hunt-Campbell-01-mjfq-articleLarge.jpg",
+      "timestamp": "2025-12-11T10:02:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/11/travel/things-to-do-toulouse.html",
+      "headline": "36 Hours in Toulouse, France",
+      "image": "https://static01.nyt.com/images/2025/12/11/multimedia/11trav-hours-toulouse-hjzp/11trav-hours-toulouse-hjzp-articleLarge.jpg",
+      "timestamp": "2025-12-11T10:02:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/11/opinion/editorials/us-military-industry-waste.html",
+      "headline": "America Can’t Make What the Military Needs",
+      "image": "https://static01.nyt.com/images/2025/12/10/opinion/fow-industry-still/fow-industry-still-articleLarge.jpg",
+      "timestamp": "2025-12-11T10:01:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
