@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-11T10:20:37.161Z",
+  "lastUpdated": "2025-12-11T19:40:23.634Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/11/us/earthquake-fillmore-los-angeles.html",
+      "headline": "Small Earthquake Shakes Area Near Los Angeles",
+      "image": "https://static01.nyt.com/images/2025/12/11/world/earthquake-fillmore-los-angeles-index/earthquake-fillmore-los-angeles-index-articleLarge-v4.jpg",
+      "timestamp": "2025-12-11T19:26:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
