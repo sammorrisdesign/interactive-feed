@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-12-12T04:08:13.442Z",
+  "lastUpdated": "2025-12-12T10:19:35.869Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/12/magazine/christmas-gift-hodgman-quiz.html",
+      "headline": "Should Parents Overrule a Strange Christmas Gift Request?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-12-12T10:02:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/12/opinion/editorials/us-military-recruitment-culture.html",
+      "headline": "America’s Military Needs a Culture Shift",
+      "image": "https://static01.nyt.com/images/2025/12/08/opinion/fow-culture-hp-grid/fow-culture-hp-grid-articleLarge-v4.jpg",
+      "timestamp": "2025-12-12T10:01:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/12/opinion/focus-group-gen-z-voters-military.html",
+      "headline": "‘We’ve Been Let Down’: 11 Gen Z-ers on the Military, America’s Place in the World and Their Generation",
+      "image": "https://static01.nyt.com/images/2025/12/08/opinion/08focusgroupspromo/08focusgroupspromo-articleLarge.jpg",
+      "timestamp": "2025-12-12T10:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
