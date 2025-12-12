@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-11T21:19:13.720Z",
+  "lastUpdated": "2025-12-12T04:08:13.442Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/11/world/quake-tracker-north-pacific-ocean-japan.html",
+      "headline": "Map: 6.7-Magnitude Earthquake Shakes Off Japan",
+      "image": "https://static01.nyt.com/images/2025/12/12/world/11wea-quake-tracker-north-pacific-ocean-nytbvqwl-index/11wea-quake-tracker-north-pacific-ocean-nytbvqwl-index-articleLarge-v6.jpg",
+      "timestamp": "2025-12-12T03:26:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
