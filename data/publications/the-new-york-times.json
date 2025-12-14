@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-14T10:17:21.187Z",
+  "lastUpdated": "2025-12-14T18:24:16.788Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/14/world/australia/sydney-bondi-beach-shooting-maps.html",
+      "headline": "How the Sydney Shooting Unfolded: Maps and Videos",
+      "image": "https://static01.nyt.com/images/2025/12/14/multimedia/2025-12-14-bondi-shooting-details-index/2025-12-14-bondi-shooting-details-index-articleLarge-v2.jpg",
+      "timestamp": "2025-12-14T17:39:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
