@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-14T04:52:58.563Z",
+  "lastUpdated": "2025-12-15T04:57:27.749Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/mehrheit-der-deutschen-aeussert-politische-meinungen-nur-noch-mit-vorsicht-ld.1916157",
+      "headline": "Mehrheit der Deutschen äussert politische Meinungen nur noch mit Vorsicht",
+      "image": "https://img.nzz.ch/2025/12/12/2c9b6901-9b71-4262-9113-258c3c60bb79.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2800,1575,x0,y263&wmark=nzz",
+      "timestamp": "2025-12-15T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
