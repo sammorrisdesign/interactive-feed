@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2025-12-16T10:21:32.922Z",
+  "lastUpdated": "2025-12-16T20:44:47.967Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/norma-swenson-our-bodies-our-selves.html",
+      "headline": "The Activist Who Became Radicalized by Working on ‘Our Bodies, Our Selves’",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28mag-TLTL-Swenson/28mag-TLTL-Swenson-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:44:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/angie-stone-music.html",
+      "headline": "The Hip-Hop Trailblazer Who Demanded Recognition — and Pay — for Her Work",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28mag-TLTL-Stone/28mag-TLTL-Marcus-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:43:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/mabel-landry-staton-olympics.html",
+      "headline": "The Track and Field Star Who Casually Shattered Race and Gender Barriers",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28mag-TLTL-Staton-image/28mag-TLTL-Staton-image-articleLarge-v2.jpg",
+      "timestamp": "2025-12-16T20:42:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/terence-stamp-actor.html",
+      "headline": "When Terence Stamp, Bad Boy of ‘60s Cinema, Left Acting for an Ashram",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28Mag-TLTL-Stamp/28Mag-TLTL-Stamp-articleLarge-v3.jpg",
+      "timestamp": "2025-12-16T20:41:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/jill-sobule-music.html",
+      "headline": "Jill Sobule’s Fans Always Made Sure She Had a Place to Perform — and to Stay",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28mag-sobule/28mag-sobule-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:40:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/assata-shakur-activist.html",
+      "headline": "Assata Shakur’s Freedom Came With Shattering Costs for Her and Her Family",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28mag-TLTL-shakur/28mag-TLTL-shakur-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:39:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/anna-ornstein-psychoanalyst-holocaust.html",
+      "headline": "The Psychoanalyst Who Believed Holocaust Survivors Were More Than Just Victims",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28mag-ornstein/28mag-ornstein-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:38:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/marcia-marcus-artist-painter.html",
+      "headline": "Her Art Was Ignored for Decades. She Kept Painting Anyway.",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28mag-TLTL-Marcus/28mag-TLTL-Marcus-articleLarge-v4.jpg",
+      "timestamp": "2025-12-16T20:38:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/david-lynch-director.html",
+      "headline": "David Lynch Seduced Audiences by Exploring Their Secret Desires",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/2828mag-tltl-lynch/2828mag-tltl-lynch-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:37:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/robert-jay-lifton-hiroshima.html",
+      "headline": "Talking to the Survivors of Hiroshima Changed Robert Jay Lifton Forever",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28Mag-TLTL-Lifton/28Mag-TLTL-Lifton-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:36:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
