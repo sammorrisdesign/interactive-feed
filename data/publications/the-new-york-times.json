@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-12-14T18:24:16.788Z",
+  "lastUpdated": "2025-12-16T10:21:32.922Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/jeffrey-epstein-girlfriend-diary-women-investigation.html",
+      "headline": "The Diary of a Jeffrey Epstein Girlfriend Shows How He Used Women",
+      "image": "https://static01.nyt.com/images/2026/01/04/magazine/04mag-epsteindiary-promostill/04mag-epsteindiary-promostill-articleLarge-v2.jpg",
+      "timestamp": "2025-12-16T10:03:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/books/review/16TBR-AUSTEN-QUIZ.html",
+      "headline": "Can You Ace This Jane Austen 250th Birthday Trivia Quiz?",
+      "image": "https://static01.nyt.com/images/2025/12/16/books/review/16TBR-Quiz-AUSTEN/16TBR-Quiz-AUSTEN-articleLarge.jpg",
+      "timestamp": "2025-12-16T10:01:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/books/jane-austen-250th-birthday.html",
+      "headline": "250 Years of Jane Austen, in 25 Things",
+      "image": "https://static01.nyt.com/images/2025/12/16/multimedia/16austen-25-objects-kbzq/16austen-25-objects-kbzq-articleLarge.jpg",
+      "timestamp": "2025-12-16T10:00:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
