@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-16T16:25:10.506Z",
+  "lastUpdated": "2025-12-16T17:21:12.576Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2025/dec/16/breast-cancer-mother-daughter",
+      "headline": "First she got breast cancer. Then her daughter did, too",
+      "image": "https://i.guim.co.uk/img/media/d9084d7c592a438f2aea5036dcdd7799fa97af2a/0_462_3600_2879/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9600de3493660f2240e8e09a74a5771d",
+      "timestamp": "2025-12-16T17:00:10.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
