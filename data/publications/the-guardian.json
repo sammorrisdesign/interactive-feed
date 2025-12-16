@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-16T15:21:06.425Z",
+  "lastUpdated": "2025-12-16T16:25:10.506Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2025/dec/08/the-50-best-films-of-2025-in-the-uk",
+      "headline": "The 50 best films of 2025 in the UK",
+      "image": "https://i.guim.co.uk/img/media/8370090ce670cd35341ea560315fc13a05ca63ef/0_395_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0da1a3dcfc21633703e3002fe6afe12c",
+      "timestamp": "2025-12-16T07:58:30.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
