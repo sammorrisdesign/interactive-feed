@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-12-16T20:44:47.967Z",
+  "lastUpdated": "2025-12-16T21:18:23.232Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/movies/vote-best-movies-2025.html",
+      "headline": "The Best Movies of 2025: You Decide",
+      "image": "https://static01.nyt.com/images/2025/04/17/multimedia/17cul-sinners-review-gbml-copy/17cul-sinners-review-gbml-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:47:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/dwayne-wiggins-music.html",
+      "headline": "D’Wayne Wiggins’s Songs Were Embraced by Everyone From Church Ladies to Biggie",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28Mag-TLTL-Wiggins/28Mag-TLTL-Wiggins-articleLarge-v2.jpg",
+      "timestamp": "2025-12-16T20:45:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/16/magazine/michelle-trachtenberg-actor.html",
+      "headline": "There Was No Villain Michelle Trachtenberg Couldn’t Play",
+      "image": "https://static01.nyt.com/images/2025/12/28/magazine/28mag-tltl-trachtenberg/28mag-tltl-trachtenberg-articleLarge.jpg",
+      "timestamp": "2025-12-16T20:45:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
