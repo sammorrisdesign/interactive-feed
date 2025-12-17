@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-16T21:18:23.232Z",
+  "lastUpdated": "2025-12-17T23:17:14.074Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/17/theater/wicked-movies-broadway-earnings.html",
+      "headline": "How the ‘Wicked’ Movies Turbocharged a Broadway Juggernaut",
+      "image": "https://static01.nyt.com/images/2025/12/18/arts/18cul-wicked-timeline-promo/18cul-wicked-timeline-promo-articleLarge.jpg",
+      "timestamp": "2025-12-17T23:05:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
