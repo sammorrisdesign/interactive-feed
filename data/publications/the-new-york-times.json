@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-17T23:17:14.074Z",
+  "lastUpdated": "2025-12-17T23:40:23.740Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/17/climate/china-hefei-clean-energy-drones-evs-robots.html",
+      "headline": "Flying Taxis? China Has Them. And Drone Lunch Deliveries, Too.",
+      "image": "https://static01.nyt.com/images/2025/12/17/climate/00cli-hefei-promo/00cli-hefei-promo-articleLarge.jpg",
+      "timestamp": "2025-12-17T23:20:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
