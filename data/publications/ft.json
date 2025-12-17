@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-10T05:18:57.682Z",
+  "lastUpdated": "2025-12-17T05:20:15.025Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/76031069-24cd-4f04-ba6e-e32d296236de",
+      "headline": "‘World’s refrigerator’ runs hot and Arctic melt turns rivers orange",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F6bb4393a-3404-471d-8d31-51f6220951e2.png?source=next-barrier-page",
+      "timestamp": "2025-12-17T05:00:42.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
