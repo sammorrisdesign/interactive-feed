@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-17T12:39:04.443Z",
+  "lastUpdated": "2025-12-17T18:28:33.680Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/17/unitedhealth-nursing-homes",
+      "headline": "UnitedHealth reduced hospitalizations for nursing home seniors. Now it faces wrongful death claims",
+      "image": "https://i.guim.co.uk/img/media/d76ddc5d88c2cf92957ebda39494c0eb60da6644/251_468_2061_1649/master/2061.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7fd75e5721809e3a22b1d4b2f407c061",
+      "timestamp": "2025-12-17T17:50:15.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
