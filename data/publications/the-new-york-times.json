@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-12-18T01:19:27.980Z",
+  "lastUpdated": "2025-12-18T10:20:23.979Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/18/opinion/focus-group-former-glp1.html",
+      "headline": "‘Miraculous,’ ‘Amazing,’ ‘Disappointing’: 14 Voters on Their Experiences with GLP-1 Drugs and Health in America",
+      "image": "https://static01.nyt.com/images/2025/12/17/opinion/focus-group-former-glp1-image/focus-group-former-glp1-image-articleLarge.jpg",
+      "timestamp": "2025-12-18T10:06:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/18/realestate/dallas-fort-worth-texas-homes-sale.html",
+      "headline": "Outside Dallas, a Young Family Just Wanted Some Space. Here’s Where They Found It.",
+      "image": "https://static01.nyt.com/images/2025/12/18/multimedia/18Hunt-Dallas-02-mqlg-promo/18Hunt-Dallas-02-mqlg-promo-articleLarge-v2.jpg",
+      "timestamp": "2025-12-18T10:03:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/18/travel/things-to-do-san-luis-obispo.html",
+      "headline": "36 Hours in San Luis Obispo County",
+      "image": "https://static01.nyt.com/images/2025/12/18/multimedia/18trav-things-to-do-san-luis-obispo-03-hqwp/18trav-things-to-do-san-luis-obispo-03-hqwp-articleLarge.jpg",
+      "timestamp": "2025-12-18T10:02:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
