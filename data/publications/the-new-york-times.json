@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-17T23:40:23.740Z",
+  "lastUpdated": "2025-12-18T01:19:27.980Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/world/year-in-pictures.html",
+      "headline": "The Year in Pictures 2025",
+      "image": "https://static01.nyt.com/images/2025/12/20/multimedia/2025yip-topper-01-mzpc/2025yip-topper-01-mzpc-articleLarge.jpg",
+      "timestamp": "2025-12-18T00:25:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
