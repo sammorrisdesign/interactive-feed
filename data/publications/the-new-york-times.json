@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2025-12-18T22:17:29.379Z",
+  "lastUpdated": "2025-12-18T22:43:01.997Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/briefing/2025-faces-quiz.html",
+      "headline": "2025 Faces Quiz",
+      "image": "https://static01.nyt.com/images/2025/12/18/multimedia/2025-11-21-faces-quiz-2025-index/2025-11-21-faces-quiz-2025-index-articleLarge.jpg",
+      "timestamp": "2025-12-18T22:34:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/briefing/2025-faces-quiz-sports.html",
+      "headline": "2025 Faces Quiz: Sports",
+      "image": "https://static01.nyt.com/images/2025/12/18/multimedia/2025-11-21-faces-quiz-2025-extra-10-sports/2025-11-21-faces-quiz-2025-extra-10-sports-articleLarge.jpg",
+      "timestamp": "2025-12-18T22:34:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/briefing/2025-faces-quiz-politics.html",
+      "headline": "2025 Faces Quiz: Politics",
+      "image": "https://static01.nyt.com/images/2025/12/18/multimedia/2025-11-21-faces-quiz-2025-extra-10-news/2025-11-21-faces-quiz-2025-extra-10-news-articleLarge.jpg",
+      "timestamp": "2025-12-18T22:34:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/briefing/2025-faces-quiz-culture.html",
+      "headline": "2025 Faces Quiz: Culture",
+      "image": "https://static01.nyt.com/images/2025/12/18/multimedia/2025-11-21-faces-quiz-2025-extra-10-culture/2025-11-21-faces-quiz-2025-extra-10-culture-articleLarge.jpg",
+      "timestamp": "2025-12-18T22:34:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
