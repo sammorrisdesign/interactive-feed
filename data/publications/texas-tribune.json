@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-11-07T19:14:12.842Z",
+  "lastUpdated": "2025-12-18T18:27:23.060Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/12/18/texas-college-completion-income-gap/",
+      "headline": "More Texas students complete journey through college, but low-income students still left behind",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/12/cover-art-cohorts-1-02-scaled.png?fit=2560%2C1706&quality=80&ssl=1",
+      "timestamp": "2025-12-18T18:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2025/12/18/texas-school-district-higher-education-outcomes-lookup-data/",
+      "headline": "Texas tracks the long-term outcomes of public school students. See how your school district compares here.",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/12/cover-art-cohorts-1-06-scaled.png?fit=2560%2C1706&quality=80&ssl=1",
+      "timestamp": "2025-12-18T18:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",
