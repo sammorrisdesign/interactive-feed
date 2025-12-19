@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-12-19T19:36:48.524Z",
+  "lastUpdated": "2025-12-19T20:19:43.111Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/19/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Dec. 20, 2025",
+      "image": "https://static01.nyt.com/images/2025/12/19/multimedia/flashback-promo-2025-12-20-6/flashback-promo-2025-12-20-6-articleLarge.jpg",
+      "timestamp": "2025-12-19T20:09:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/19/us/brown-mit-shooting-arrest-affidavit.html",
+      "headline": "Read the Arrest Affidavit",
+      "image": "https://static01.nyt.com/images/2025/12/19/doc-brownaffidavitredacted-promo/doc-brownaffidavitredacted-promo-articleLarge.png",
+      "timestamp": "2025-12-19T19:42:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
