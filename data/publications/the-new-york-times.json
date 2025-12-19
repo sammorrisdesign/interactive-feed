@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-12-18T22:43:01.997Z",
+  "lastUpdated": "2025-12-19T10:19:47.857Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/19/magazine/off-leash-dogs-hodgman-quiz.html",
+      "headline": "Can You Let Your Dog Run Off-Leash Wherever You Want?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2025-12-19T10:03:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/19/us/elections/2025-election-takeaways.html",
+      "headline": "An Election ‘Off Year,’ but Not a Year Off",
+      "image": "https://static01.nyt.com/images/2025/12/16/multimedia/2025-election-takeaways-index/2025-election-takeaways-index-articleLarge-v5.png",
+      "timestamp": "2025-12-19T10:03:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/19/world/europe/ukraine-war-drone-attacks.html",
+      "headline": "Drone Den",
+      "image": "https://static01.nyt.com/images/2025/12/17/multimedia/2025-11-17-ukraine-drones-index/2025-11-17-ukraine-drones-index-articleLarge-v3.jpg",
+      "timestamp": "2025-12-19T10:00:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
