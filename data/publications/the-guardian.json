@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-19T10:19:47.834Z",
+  "lastUpdated": "2025-12-19T12:36:19.734Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2025/dec/19/healthcare-cuts-clinics-buffalo",
+      "headline": "Trump’s health cuts leave ‘huge void’ in Buffalo, New York – and patients fearing lack of care",
+      "image": "https://i.guim.co.uk/img/media/d8c30ba0a8d67cc7894b6de3f1217b288b55fb5a/0_613_4757_3806/master/4757.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3aefa609abd8d5116c7b1dc7ce3eece2",
+      "timestamp": "2025-12-19T12:00:03.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
