@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-19T10:19:47.857Z",
+  "lastUpdated": "2025-12-19T17:16:47.725Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/19/style/2025-review-culture-vibe-scooch.html",
+      "headline": "The 2025 Vibe Scooch",
+      "image": "https://static01.nyt.com/images/2025/12/19/fashion/vibe-scooch-promo/vibe-scooch-promo-articleLarge.png",
+      "timestamp": "2025-12-19T17:02:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
