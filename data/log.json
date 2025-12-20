@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "timestamp": "2025-12-20T23:38:17.031Z",
+    "publication": "South China Morning Post",
+    "error": "SyntaxError: Unexpected end of JSON input\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5852:19)\n    at successSteps (node:internal/deps/undici/undici:5833:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4725:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async consumeBody (node:internal/deps/undici/undici:5842:7)\n    at async Object.SouthChinaMorningPost (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:137:18)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)"
+  },
+  {
+    "timestamp": "2025-12-20T23:38:17.039Z",
+    "publication": "South China Morning Post",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  }
+]
