@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-19T20:19:43.111Z",
+  "lastUpdated": "2025-12-20T20:40:02.101Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/20/world/middleeast/west-bank-settlements.html",
+      "headline": "Land Grab: Israel’s Escalating Campaign for Control of the West Bank",
+      "image": "https://static01.nyt.com/images/2025/12/17/multimedia/2025-09-17-westbank-settlements-index/2025-09-17-westbank-settlements-index-articleLarge-v2.jpg",
+      "timestamp": "2025-12-20T20:35:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
