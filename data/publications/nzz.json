@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-15T04:57:27.749Z",
+  "lastUpdated": "2025-12-20T04:23:38.637Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/krieg-im-sudan-so-funktioniert-die-flucht-aus-dem-land-ld.1910864",
+      "headline": "13 Millionen Menschen auf der Flucht – wie es ist, dem Krieg im Sudan zu entkommen",
+      "image": "https://img.nzz.ch/2025/12/19/390fdbdf-dd9a-45fb-b181-1c81097d95ef.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2072,1165,x0,y90&wmark=nzz",
+      "timestamp": "2025-12-20T04:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
