@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-20T20:40:02.101Z",
+  "lastUpdated": "2025-12-21T03:15:54.887Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/20/business/media/trump-media-year-in-review-2025.html",
+      "headline": "329 Days of Trump, Trump, Trump",
+      "image": "https://static01.nyt.com/images/2025/12/20/multimedia/2025-11-19-disinfo-trump-everywhere-index/2025-11-19-disinfo-trump-everywhere-index-articleLarge.jpg",
+      "timestamp": "2025-12-21T01:51:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
