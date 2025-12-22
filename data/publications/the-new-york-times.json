@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-22T18:27:11.274Z",
+  "lastUpdated": "2025-12-22T20:19:36.656Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/22/us/trump-immigration-deportation-network-ice-arrests.html",
+      "headline": "Inside the Deportation Machine",
+      "image": "https://static01.nyt.com/images/2025/12/19/multimedia/2025-08-05-ice-ddp-flow-analysis-index/2025-08-05-ice-ddp-flow-analysis-index-articleLarge-v3.jpg",
+      "timestamp": "2025-12-22T19:44:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
