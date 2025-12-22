@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2025-12-21T03:15:54.887Z",
+  "lastUpdated": "2025-12-22T10:19:26.698Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/22/us/politics/trump-donors-fundraising-benefits.html",
+      "headline": "Hundreds of Big Post-Election Donors Have Benefited From Trump’s Return to Office",
+      "image": "https://static01.nyt.com/images/2025/12/19/multimedia/2025-11-18-trump-donors-index/2025-11-18-trump-donors-index-articleLarge-v2.jpg",
+      "timestamp": "2025-12-22T10:04:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/22/opinion/west-virginia-appalachia-opioids-children.html",
+      "headline": "The Opioid Crisis Never Ended. It Was Inherited by the Children.",
+      "image": "https://static01.nyt.com/images/2025/12/18/opinion/00-op-opioids-fader-desktop-image/00-op-opioids-fader-desktop-image-articleLarge.jpg",
+      "timestamp": "2025-12-22T10:02:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/22/upshot/trump-presidential-history-survey.html",
+      "headline": "Are Trump’s Actions Unprecedented? We Asked Historians (Again).",
+      "image": "https://static01.nyt.com/images/2025/12/16/multimedia/2025-11-18-presidential-history-survey-2-index/2025-11-18-presidential-history-survey-2-index-articleLarge.jpg",
+      "timestamp": "2025-12-22T10:01:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
