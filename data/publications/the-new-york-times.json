@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-22T20:19:36.656Z",
+  "lastUpdated": "2025-12-22T21:39:04.221Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/22/style/23ST-QUIZ-DO-YOU-SPEAK-2025-ADVENTURE.html",
+      "headline": "Do You Speak 2025?",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2025-12-22T21:36:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
