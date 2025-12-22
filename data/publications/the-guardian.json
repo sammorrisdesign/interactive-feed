@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-21T06:26:25.798Z",
+  "lastUpdated": "2025-12-22T14:18:37.169Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2025/dec/23/the-16-best-australian-albums-of-2025",
+      "headline": "The 16 best Australian albums of 2025",
+      "image": "https://i.guim.co.uk/img/media/896835925e4aa2a52088246c708033ea5521e9e0/1_0_2499_2000/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=962837932b3d619171e75eb62a677238",
+      "timestamp": "2025-12-22T14:00:28.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
