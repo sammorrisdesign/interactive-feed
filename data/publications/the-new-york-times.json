@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-22T21:39:04.221Z",
+  "lastUpdated": "2025-12-23T18:27:01.861Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/23/us/nat-okla-prof-paper.html",
+      "headline": "Read the Essay on Gender by a University of Oklahoma Student",
+      "image": "https://static01.nyt.com/images/2025/12/23/doc-lesson-33-reaction-paper--promo/doc-lesson-33-reaction-paper--promo-articleLarge.png",
+      "timestamp": "2025-12-23T18:06:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
