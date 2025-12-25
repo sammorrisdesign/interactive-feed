@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-23T20:19:38.452Z",
+  "lastUpdated": "2025-12-25T10:19:24.380Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/25/travel/things-to-do-park-city.html",
+      "headline": "36 Hours in Park City, Utah",
+      "image": "https://static01.nyt.com/images/2025/12/18/multimedia/18trav-things-to-do-san-luis-obispo-pfcl/18trav-things-to-do-san-luis-obispo-pfcl-articleLarge-v2.jpg",
+      "timestamp": "2025-12-25T10:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
