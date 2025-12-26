@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-26T10:19:23.534Z",
+  "lastUpdated": "2025-12-26T17:40:29.065Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/26/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Dec. 27, 2025",
+      "image": "https://static01.nyt.com/images/2025/12/26/multimedia/flashback-promo-2025-12-27-6/flashback-promo-2025-12-27-6-articleLarge.jpg",
+      "timestamp": "2025-12-26T17:38:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
