@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-21T04:53:25.512Z",
+  "lastUpdated": "2025-12-26T04:53:42.788Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/jahresrueckblick-von-oben-2025-erzaehlt-anhand-von-satellitenbildern-ld.1915901",
+      "headline": "Jahresrückblick von oben: 2025, erzählt anhand von Satellitenbildern",
+      "image": "https://img.nzz.ch/2025/12/25/95170b28-1a29-48b4-8404-d71760da17e1.jpg?width=1092&height=614&fit=bounds&quality=75&auto=webp&crop=1092,614,x53,y83&wmark=nzz",
+      "timestamp": "2025-12-26T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
