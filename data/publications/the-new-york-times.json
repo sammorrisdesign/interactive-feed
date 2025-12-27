@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-26T17:40:29.065Z",
+  "lastUpdated": "2025-12-27T12:34:33.453Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/27/opinion/year-in-charts-2025.html",
+      "headline": "Trump’s First Year Back, in 10 Charts",
+      "image": "https://static01.nyt.com/images/2025/12/27/opinion/27rattner-still/27rattner-still-articleLarge.png",
+      "timestamp": "2025-12-27T12:00:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
