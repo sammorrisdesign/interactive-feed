@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-27T12:34:33.453Z",
+  "lastUpdated": "2025-12-27T17:15:26.530Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/27/world/asia/quake-tracker-philippine-sea-taiwan.html",
+      "headline": "Map: 6.6-Magnitude Earthquake Strikes Near Taiwan",
+      "image": "https://static01.nyt.com/images/2025/12/27/world/27wea-quake-tracker-philippine-sea-nytb0bib-index/27wea-quake-tracker-philippine-sea-nytb0bib-index-articleLarge-v18.jpg",
+      "timestamp": "2025-12-27T16:59:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
