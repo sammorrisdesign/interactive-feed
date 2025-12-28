@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-26T04:53:42.788Z",
+  "lastUpdated": "2025-12-28T04:42:05.158Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/trump-migration-und-ukraine-das-bewegte-europa-in-diesem-jahr-ld.1915937",
+      "headline": "Trump, Migration und Ukraine: Das bewegte Europa in diesem Jahr",
+      "image": "https://img.nzz.ch/2025/12/22/e4ba4643-7610-45cb-af56-edd2135ccf09.gif?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1400,787,x0,y56&wmark=nzz",
+      "timestamp": "2025-12-28T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
