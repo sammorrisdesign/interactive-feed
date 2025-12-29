@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-29T03:25:54.220Z",
+  "lastUpdated": "2025-12-29T08:27:46.592Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/29/us/insurers-smoke-damaged-homes-toxins.html",
+      "headline": "How Did This Family End Up Back in a Toxic House?",
+      "image": "https://static01.nyt.com/images/2025/12/16/multimedia/2025-10-27-fire-exposure-index/2025-10-27-fire-exposure-index-articleLarge-v7.jpg",
+      "timestamp": "2025-12-29T08:13:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
