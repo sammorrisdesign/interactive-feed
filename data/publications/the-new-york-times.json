@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-30T10:20:04.377Z",
+  "lastUpdated": "2025-12-30T18:54:11.572Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/30/us/elections/results-iowa-state-senate-district-16-unexpired-term-special.html",
+      "headline": "Iowa State Senate District 16 Special Election Results",
+      "image": "https://static01.nyt.com/images/2025/12/30/multimedia/eln-PRE-2025-12-30-state-ia-5f109a/eln-PRE-2025-12-30-state-ia-5f109a-articleLarge.jpg",
+      "timestamp": "2025-12-30T18:32:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
