@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-30T18:54:11.572Z",
+  "lastUpdated": "2025-12-30T21:17:02.597Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/30/world/europe/ukraine-war-us-russia.html",
+      "headline": "The Separation: Inside the Unraveling U.S.-Ukraine Partnership",
+      "image": "https://static01.nyt.com/images/2025/12/22/multimedia/00inv-partnership-trump-zelensky3-lfqv/00inv-partnership-trump-zelensky3-lfqv-articleLarge.jpg",
+      "timestamp": "2025-12-30T20:46:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
