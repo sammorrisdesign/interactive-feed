@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-29T13:35:22.940Z",
+  "lastUpdated": "2025-12-30T17:17:57.506Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2025/dec/30/the-office-block-where-ai-doomers-gather-to-predict-the-apocalypse",
+      "headline": "The office block where AI ‘doomers’ gather to predict the apocalypse",
+      "image": "https://i.guim.co.uk/img/media/de7763f6b9024aec9ee688691676a7e3f4ae4c7e/0_484_4000_3199/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e491290202a7cd0b32af74634ffc8c7",
+      "timestamp": "2025-12-30T17:00:47.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
