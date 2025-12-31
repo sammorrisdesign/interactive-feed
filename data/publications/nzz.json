@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-31T04:55:40.801Z",
+  "lastUpdated": "2025-12-31T23:16:55.712Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/ein-neujahrsflug-um-die-erde-ld.1917924",
+      "headline": "Ein Neujahrsflug um die Erde",
+      "image": "https://img.nzz.ch/2025/12/31/87fe6c19-5e21-489d-b385-788bd25ae0d7.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2000,1125,x0,y104&wmark=nzz",
+      "timestamp": "2025-12-31T23:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
