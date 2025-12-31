@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2025-12-30T21:17:02.597Z",
+  "lastUpdated": "2025-12-31T10:19:02.762Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2025/12/31/world/europe/russia-military-abuse-soldiers.html",
+      "headline": "How Russia’s War Machine Brutalizes and Exploits Its Own Soldiers",
+      "image": "https://static01.nyt.com/images/2025/12/22/multimedia/22Russia-soldiers-01-pcmj/22Russia-soldiers-01-pcmj-articleLarge.jpg",
+      "timestamp": "2025-12-31T10:01:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
