@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2025-12-31T19:36:33.155Z",
+  "lastUpdated": "2026-01-01T10:20:05.480Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/01/realestate/brooklyn-condos-park-slope-boerum-hill.html",
+      "headline": "Life Led Them to Brooklyn, but to Which Two-Bedroom Condo?",
+      "image": "https://static01.nyt.com/images/2025/01/01/multimedia/01re-Hunt-Silverman-01-ktqv/01re-Hunt-Silverman-01-ktqv-articleLarge.jpg",
+      "timestamp": "2026-01-01T10:02:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/01/travel/things-to-do-cortina.html",
+      "headline": "36 Hours in Cortina d’Ampezzo, Italy",
+      "image": "https://static01.nyt.com/images/2026/01/01/multimedia/36-hours-cortina-khmt/36-hours-cortina-khmt-articleLarge.jpg",
+      "timestamp": "2026-01-01T10:01:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
