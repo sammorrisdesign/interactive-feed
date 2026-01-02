@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-12-31T23:16:55.712Z",
+  "lastUpdated": "2026-01-02T14:18:17.485Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/mehr-brandtote-in-einer-nacht-als-sonst-im-ganzen-jahr-ld.1918533",
+      "headline": "Mehr Brandtote in einer Nacht als sonst im ganzen Jahr",
+      "image": "https://img.nzz.ch/2026/01/02/640726bf-474e-47cc-b044-640a78b5d3dd.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y233&wmark=nzz",
+      "timestamp": "2026-01-02T14:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
