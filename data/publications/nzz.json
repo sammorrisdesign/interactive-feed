@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-02T14:18:17.485Z",
+  "lastUpdated": "2026-01-02T22:17:54.120Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/visuelle-rekonstruktion-so-kam-es-zum-brand-in-crans-montana-ld.1918551",
+      "headline": "Visuelle Rekonstruktion: So kam es zum Brand in Crans-Montana",
+      "image": "https://img.nzz.ch/2026/01/02/de5f381c-73ae-4787-adc1-082142fc14a0.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y131&wmark=nzz",
+      "timestamp": "2026-01-02T22:05:44.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
