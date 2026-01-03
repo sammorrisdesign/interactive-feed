@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-03T16:46:34.638Z",
+  "lastUpdated": "2026-01-03T19:13:32.454Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/03/world/americas/maduro-capture-venezuela-strikes-maps.html",
+      "headline": "Maps, Video and Photos: How Maduro’s Capture Unfolded",
+      "image": "https://static01.nyt.com/images/2026/01/03/multimedia/2026-01-03-venezuela-strikes-index/2026-01-03-venezuela-strikes-index-articleLarge.jpg",
+      "timestamp": "2026-01-03T19:01:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
