@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-02T19:12:42.030Z",
+  "lastUpdated": "2026-01-03T16:46:34.638Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/03/nyregion/venezuela-maduro-indictment.html",
+      "headline": "Read the Indictment Against Nicolás Maduro",
+      "image": "https://static01.nyt.com/images/2026/01/03/doc-maduroindictment2026-promo/doc-maduroindictment2026-promo-articleLarge.png",
+      "timestamp": "2026-01-03T16:35:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
