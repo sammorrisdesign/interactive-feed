@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-04T06:27:56.591Z",
+  "lastUpdated": "2026-01-04T16:21:00.087Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jan/04/ice-2025-deaths-timeline",
+      "headline": "2025 was ICE’s deadliest year in two decades. Here are the 31 people who died in custody",
+      "image": "https://i.guim.co.uk/img/media/483cd1d5d1031a1f2f884250465bd83403ad66c9/1_0_2499_2000/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bb315f8b88121a3ad4ea8fc4f1d05f30",
+      "timestamp": "2026-01-04T16:00:12.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
