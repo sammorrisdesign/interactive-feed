@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-05T03:52:40.572Z",
+  "lastUpdated": "2026-01-05T10:22:05.887Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/05/upshot/congestion-pricing-one-year.html",
+      "headline": "27 Million Fewer Car Trips: Life After a Year of Congestion Pricing",
+      "image": "https://static01.nyt.com/images/2025/12/31/multimedia/2025-12-03-congestion-pricing-one-year-index/2025-12-03-congestion-pricing-one-year-index-articleLarge-v2.png",
+      "timestamp": "2026-01-05T10:01:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
