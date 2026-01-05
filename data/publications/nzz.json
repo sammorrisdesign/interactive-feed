@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-04T19:36:29.216Z",
+  "lastUpdated": "2026-01-05T12:40:25.432Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/operation-absolute-resolve-wie-die-usa-venezuelas-praesidenten-stuerzten-ld.1918702",
+      "headline": "Operation «Absolute Resolve»: wie die USA Venezuelas Präsidenten stürzten",
+      "image": "https://img.nzz.ch/2026/01/04/b3c8fe37-cdc0-45c9-b0f8-d0fbfbb51a7e.gif?width=800&height=450&fit=bounds&quality=75&auto=webp&crop=800,450,x0,y0",
+      "timestamp": "2026-01-05T11:59:16.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
