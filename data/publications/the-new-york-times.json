@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-04T22:17:03.787Z",
+  "lastUpdated": "2026-01-05T01:41:53.800Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/04/upshot/ten-minute-challenge-greenland.html",
+      "headline": "10-Minute Challenge: An Artist in Greenland",
+      "image": "https://static01.nyt.com/images/2025/01/05/upshot/up-rockwell-kent/up-rockwell-kent-articleLarge.jpg",
+      "timestamp": "2026-01-05T01:02:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
