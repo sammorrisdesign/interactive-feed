@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-01-06T03:14:12.506Z",
+  "lastUpdated": "2026-01-06T20:20:26.377Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/06/us/elections/results-arkansas-special-primary.html",
+      "headline": "Arkansas Special Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/06/multimedia/eln-PRE-2026-01-06-state-ar-8c2e4a/eln-PRE-2026-01-06-state-ar-8c2e4a-articleLarge.jpg",
+      "timestamp": "2026-01-06T19:55:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/06/us/elections/results-connecticut-state-house-district-25-special.html",
+      "headline": "Connecticut State House District 25 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/06/multimedia/eln-PRE-2026-01-06-state-ct-d6b9e7/eln-PRE-2026-01-06-state-ct-d6b9e7-articleLarge.jpg",
+      "timestamp": "2026-01-06T19:50:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/06/us/elections/results-georgia-state-house-district-23-special.html",
+      "headline": "Georgia State House District 23 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/06/multimedia/eln-PRE-2026-01-06-state-ga-e93ca1/eln-PRE-2026-01-06-state-ga-e93ca1-articleLarge.jpg",
+      "timestamp": "2026-01-06T19:50:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/06/us/elections/results-south-carolina-state-house-district-98-special.html",
+      "headline": "South Carolina State House District 98 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/06/multimedia/eln-PRE-2026-01-06-state-sc-d4ecea/eln-PRE-2026-01-06-state-sc-d4ecea-articleLarge.jpg",
+      "timestamp": "2026-01-06T19:50:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
