@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-06T20:20:26.377Z",
+  "lastUpdated": "2026-01-07T01:24:43.615Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/well/brain-health-exercise-workout.html",
+      "headline": "Day 3: Try a Brain-Boosting Workout",
+      "image": "https://static01.nyt.com/images/2026/01/07/well/07WELL-CHALLENGE-DAY-3-lede/07WELL-CHALLENGE-DAY-3-lede-articleLarge-v4.jpg",
+      "timestamp": "2026-01-07T01:07:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
