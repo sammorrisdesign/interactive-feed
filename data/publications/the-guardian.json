@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-06T07:33:58.129Z",
+  "lastUpdated": "2026-01-07T11:18:12.230Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jan/07/la-wildfire-victims-toxic-homes",
+      "headline": "The LA wildfire victims still living in toxic homes: ‘We have nowhere else to go’",
+      "image": "https://i.guim.co.uk/img/media/ffe2e42f4d55a2dbe2a617bcf6aeb1c164bbe9fd/0_330_1500_1198/master/1500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d50cb17083800637b30f0884aa7bcb80",
+      "timestamp": "2026-01-07T11:00:13.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
