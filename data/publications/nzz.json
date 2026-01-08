@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-05T12:40:25.432Z",
+  "lastUpdated": "2026-01-08T04:57:00.297Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/schmale-fluchtwege-und-die-suche-nach-dem-zweiten-ausgang-ld.1919126",
+      "headline": "Schmale Fluchtwege und die Suche nach dem zweiten Ausgang",
+      "image": "https://img.nzz.ch/2026/01/07/ab93bc87-cc69-45cd-b924-98afacae93d3.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-01-08T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
