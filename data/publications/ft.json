@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-07T12:39:36.531Z",
+  "lastUpdated": "2026-01-08T11:23:53.818Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/83c87fd6-ca46-497e-a55b-d60de0692348",
+      "headline": "Which smartwatch works for you?",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fb73a76d3-b6eb-4b9d-bb9b-edf396db01ea.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2026-01-08T11:00:07.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
