@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-09T18:55:47.682Z",
+  "lastUpdated": "2026-01-09T21:41:06.432Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/09/upshot/trump-workforce-cuts-table.html",
+      "headline": "220,000 Fewer Workers: How Trump’s Cuts Affected Every Federal Agency",
+      "image": "https://static01.nyt.com/images/2026/01/09/multimedia/2026-01-09-federal-workforce-changes-index/2026-01-09-federal-workforce-changes-index-articleLarge-v4.png",
+      "timestamp": "2026-01-09T21:27:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
