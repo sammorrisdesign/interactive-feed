@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-08T10:21:04.802Z",
+  "lastUpdated": "2026-01-09T01:25:29.673Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/well/brain-health-doctor-appointments.html",
+      "headline": "Day 5: Make These 5 Appointments to Protect Your Brain",
+      "image": "https://static01.nyt.com/images/2026/01/08/well/08WELL-CHALLENGE-DAY-5-lede/08WELL-CHALLENGE-DAY-5-lede-articleLarge-v4.jpg",
+      "timestamp": "2026-01-09T01:01:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

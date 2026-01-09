@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-01-08T04:13:45.333Z",
+  "lastUpdated": "2026-01-09T01:25:29.629Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-01-09/heat-tracker/106213390",
+      "headline": "Track temperatures live as southern states bake in heatwave",
+      "image": "https://live-production.wcms.abc-cdn.net.au/cb8ad0819e4a836b350c19ea88d8ea96?impolicy=wcms_crop_resize&cropH=1200&cropW=1600&xPos=160&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
