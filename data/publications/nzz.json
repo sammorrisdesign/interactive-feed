@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-09T12:38:57.118Z",
+  "lastUpdated": "2026-01-10T11:14:58.487Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/ein-europaeisches-gerichtsurteil-treibt-die-asylfolgeantraege-in-die-hoehe-allerdings-nur-in-deutschland-ld.1919362",
+      "headline": "Ein europäisches Gerichtsurteil treibt die Zahl der Asylfolgeanträge in die Höhe – allerdings nur in Deutschland",
+      "image": "https://img.nzz.ch/2026/01/09/1064278d-82d5-460e-8f40-5b8621d6701d.jpg?width=600&height=337&fit=bounds&quality=75&auto=webp&crop=600,337,x0,y56",
+      "timestamp": "2026-01-10T11:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
