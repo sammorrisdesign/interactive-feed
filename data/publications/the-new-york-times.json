@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-11T06:27:55.039Z",
+  "lastUpdated": "2026-01-12T10:50:20.746Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/12/world/middleeast/israel-cease-fire-gaza-demolition.html",
+      "headline": "Israel Is Still Demolishing Gaza, Building by Building",
+      "image": "https://static01.nyt.com/images/2025/12/18/multimedia/2025-11-18-gaza-demolitions-index/2025-11-18-gaza-demolitions-index-articleLarge-v5.png",
+      "timestamp": "2026-01-12T10:36:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
