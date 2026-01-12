@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "timestamp": "2026-01-12T15:22:13.477Z",
+    "publication": "The New York Times",
+    "error": "TypeError: Cannot read properties of null (reading 'filter')\n    at Object.NewYorkTimesAPI (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:18:27)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  }
+]
