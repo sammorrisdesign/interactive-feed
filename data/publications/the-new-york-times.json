@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-01-13T15:21:39.051Z",
+  "lastUpdated": "2026-01-13T20:46:43.304Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/13/us/elections/results-virginia-special-election.html",
+      "headline": "Virginia Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/13/multimedia/eln-PRE-2026-01-13-state-va-a84e01/eln-PRE-2026-01-13-state-va-a84e01-articleLarge.jpg",
+      "timestamp": "2026-01-13T20:46:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/13/us/elections/results-alabama-state-house-district-63-special.html",
+      "headline": "Alabama State House District 63 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/13/multimedia/eln-PRE-2026-01-13-state-al-467cf9/eln-PRE-2026-01-13-state-al-467cf9-articleLarge.jpg",
+      "timestamp": "2026-01-13T20:41:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/13/us/elections/results-oklahoma-state-house-district-35.html",
+      "headline": "Oklahoma State House District 35 Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/13/multimedia/eln-PRE-2026-01-13-state-ok-b4e383/eln-PRE-2026-01-13-state-ok-b4e383-articleLarge.jpg",
+      "timestamp": "2026-01-13T20:41:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/13/us/elections/results-florida-state-house-district-87-special.html",
+      "headline": "Florida State House District 87 Special Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/13/multimedia/eln-PRE-2026-01-13-state-fl-c14316/eln-PRE-2026-01-13-state-fl-c14316-articleLarge.jpg",
+      "timestamp": "2026-01-13T20:41:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/13/us/elections/results-connecticut-state-house-district-139-special.html",
+      "headline": "Connecticut State House District 139 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/01/13/multimedia/eln-PRE-2026-01-13-state-ct-9ce04e/eln-PRE-2026-01-13-state-ct-9ce04e-articleLarge.jpg",
+      "timestamp": "2026-01-13T20:41:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
