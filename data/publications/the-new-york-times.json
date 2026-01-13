@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-13T14:52:16.046Z",
+  "lastUpdated": "2026-01-13T15:21:39.051Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/13/us/clinton-letter.html",
+      "headline": "Read the Clintons’ Personal Letter to Comer",
+      "image": "https://static01.nyt.com/images/2026/01/13/doc-clintonsfinalletter-promo/doc-clintonsfinalletter-promo-articleLarge.png",
+      "timestamp": "2026-01-13T15:18:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
