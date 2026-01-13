@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-11T06:27:55.025Z",
+  "lastUpdated": "2026-01-13T13:39:00.762Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jan/13/mapped-how-the-world-is-losing-its-forests-to-wildfires",
+      "headline": "Mapped: how the world is losing its forests to wildfires",
+      "image": "https://i.guim.co.uk/img/media/958554799a50c15e1f650701cd7e08381219045d/125_0_1099_879/master/1099.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f6a21fe3f678f9ae17f413b8b4845c2",
+      "timestamp": "2026-01-13T13:00:02.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/jan/13/murder-prison-officer-i-saw-how-the-system-perpetuates-violence",
+      "headline": "Death on the inside: as a prison officer, I saw how the system perpetuates violence",
+      "image": "https://i.guim.co.uk/img/media/4509c9f543d80c20966bc67b2bfd54b34e91f6ee/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=22886131b17a209814302439de4b871a",
+      "timestamp": "2026-01-13T05:00:28.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
