@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-13T20:46:43.304Z",
+  "lastUpdated": "2026-01-14T03:23:26.475Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/13/climate/2025-global-temperatures-climate-change.html",
+      "headline": "How Hot Was Your Town Last Year? Look Up Where You Live.",
+      "image": "https://static01.nyt.com/images/2026/01/13/multimedia/2025-12-17-temperature-lookup-index/2025-12-17-temperature-lookup-index-articleLarge.jpg",
+      "timestamp": "2026-01-14T03:01:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
