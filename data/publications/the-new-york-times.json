@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-15T10:20:54.083Z",
+  "lastUpdated": "2026-01-15T16:31:45.249Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/15/us/earthquake-san-francisco-bay-area.html",
+      "headline": "Maps: 3.1-Magnitude Earthquake Shakes the San Francisco Bay Area",
+      "image": "https://static01.nyt.com/images/2026/01/15/world/15wea-quake-tracker-san-francisco-bay-area-nyt1pjxi-index/15wea-quake-tracker-san-francisco-bay-area-nyt1pjxi-index-articleLarge-v11.jpg",
+      "timestamp": "2026-01-15T15:58:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
