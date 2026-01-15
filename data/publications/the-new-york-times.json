@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-01-14T10:21:46.270Z",
+  "lastUpdated": "2026-01-15T10:20:54.083Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/15/realestate/montana-helena-homes-sale.html",
+      "headline": "They Left Their Empty Nest for a Fresh Start in Helena, Montana",
+      "image": "https://static01.nyt.com/images/2026/01/15/multimedia/15re-hunt-montana-02-ltjb/15re-hunt-montana-02-ltjb-articleLarge.jpg",
+      "timestamp": "2026-01-15T10:04:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/15/travel/things-to-do-sapporo.html",
+      "headline": "36 Hours in Sapporo, Japan",
+      "image": "https://static01.nyt.com/images/2026/01/15/multimedia/trav-36-hours-sapporo-01-lvjt/trav-36-hours-sapporo-01-lvjt-articleLarge-v2.jpg",
+      "timestamp": "2026-01-15T10:00:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
