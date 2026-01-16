@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-10T11:14:58.487Z",
+  "lastUpdated": "2026-01-16T04:56:36.023Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/trump-und-die-schweiz-den-handelsbilanzueberschuss-interaktiv-senken-ld.1916084",
+      "headline": "Machen Sie Trump glücklich – und reduzieren Sie den Handelsbilanzüberschuss der Schweiz",
+      "image": "https://img.nzz.ch/2026/01/14/ad6265ee-cb7e-40ae-9994-1daa76df1b3c.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1222,687,x0,y83&wmark=nzz",
+      "timestamp": "2026-01-16T04:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-weltraumbasis-im-eis-was-die-us-basis-in-groenland-so-besonders-macht-ld.1920162",
+      "headline": "Die Weltraumbasis im Eis: Was die US-Basis in Grönland so besonders macht",
+      "image": "https://img.nzz.ch/2026/01/15/3f03efe7-003b-4995-a14e-ece5fdcc3978.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3413,1920,x213,y120&wmark=nzz",
+      "timestamp": "2026-01-16T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
