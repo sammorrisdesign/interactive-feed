@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2026-01-16T21:18:35.675Z",
+  "lastUpdated": "2026-01-16T22:18:33.355Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/alabama-governor-election-polls-2026.html",
+      "headline": "Alabama Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:17:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-governor-election-polls-2026.html",
+      "headline": "Colorado Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:10:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/louisiana-us-senate-election-polls-2026.html",
+      "headline": "Louisiana U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:07:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/texas-governor-election-polls-2026.html",
+      "headline": "Texas Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:07:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/rhode-island-governor-election-polls-2026.html",
+      "headline": "Rhode Island Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:07:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/illinois-governor-election-polls-2026.html",
+      "headline": "Illinois Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:07:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/maine-governor-election-polls-2026.html",
+      "headline": "Maine Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:07:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-governor-election-polls-2026.html",
+      "headline": "Florida Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:07:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/virginia-us-senate-election-polls-2026.html",
+      "headline": "Virginia U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:06:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/texas-us-senate-election-polls-2026.html",
+      "headline": "Texas U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/12/multimedia/12-polls-promo/12-polls-promo-articleLarge.png",
+      "timestamp": "2026-01-16T22:06:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
