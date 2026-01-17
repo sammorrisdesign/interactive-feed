@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-17T03:07:03.508Z",
+  "lastUpdated": "2026-01-17T10:17:33.750Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/17/us/politics/house-republicans-majority-productivity.html",
+      "headline": "How the House Slumped to Historic Lows of Productivity in 2025",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/2026-01-09-congress-dysfunction-index/2026-01-09-congress-dysfunction-index-articleLarge-v4.png",
+      "timestamp": "2026-01-17T10:02:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
