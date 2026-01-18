@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-01-17T10:17:33.750Z",
+  "lastUpdated": "2026-01-18T10:18:48.551Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/18/us/trump-deportation-numbers-immigration-crackdown.html",
+      "headline": "How Many People Has Trump Deported So Far?",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/2025-10-22-deportations-explainer-index/2025-10-22-deportations-explainer-index-articleLarge-v5.png",
+      "timestamp": "2026-01-18T10:01:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/18/world/americas/venezuela-governing-challenges.html",
+      "headline": "Why It’s Hard to Run Venezuela",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/2026-01-08-venezuela-factions-index/2026-01-08-venezuela-factions-index-articleLarge-v2.jpg",
+      "timestamp": "2026-01-18T10:01:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/18/us/hunter-s-thompson-suicide-colorado.html",
+      "headline": "Did Hunter S. Thompson Really Kill Himself?",
+      "image": "https://static01.nyt.com/images/2026/01/15/us/00-nat-hunter-investigation/00-nat-hunter-investigation-articleLarge.jpg",
+      "timestamp": "2026-01-18T10:01:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
