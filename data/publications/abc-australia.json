@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-01-09T01:25:29.629Z",
+  "lastUpdated": "2026-01-19T01:39:50.420Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-01-10/tropical-cyclone-koji-tracker-north-queensland/106213640",
+      "headline": "Track ex-Tropical Cyclone Koji live as it crosses Australia's coastline",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e0cb4dcf104a33cc8648a2b11a5948ee?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=240&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
