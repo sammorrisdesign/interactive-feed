@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-01-18T10:18:48.551Z",
+  "lastUpdated": "2026-01-19T10:25:02.351Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/19/business/economy/trump-economy.html",
+      "headline": "Trump Said He’d Unleash the Economy in Year 1. Here’s How He Did.",
+      "image": "https://static01.nyt.com/images/2026/01/16/business/2026-01-08-econ-year-index/2026-01-08-econ-year-index-articleLarge-v6.jpg",
+      "timestamp": "2026-01-19T10:02:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/19/us/trump-presidential-power-iran-venezuela-maduro.html",
+      "headline": "How Trump Is Testing the Limits of the Presidency",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/2025-09-22-trump-exec-power-index/2025-09-22-trump-exec-power-index-articleLarge-v2.png",
+      "timestamp": "2026-01-19T10:02:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/19/us/politics/midterm-elections-house-maps.html",
+      "headline": "Who Will Win the House? Three Maps Tell a Tale of the 2026 Midterms.",
+      "image": "https://static01.nyt.com/images/2026/01/15/multimedia/2025-12-02-house-midterms-index/2025-12-02-house-midterms-index-articleLarge-v7.png",
+      "timestamp": "2026-01-19T10:00:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
