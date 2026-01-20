@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-12-26T15:18:11.583Z",
+  "lastUpdated": "2026-01-20T15:34:23.555Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/01/sports/analyzing-drake-maye-vs-tom-brady/",
+      "headline": "How does Drake Maye compare with Tom Brady in their second seasons as starters with the Patriots",
+      "image": "https://apps.bostonglobe.com/2026/01/sports/analyzing-drake-maye-vs-tom-brady/static/bc46d696cc77bfa7391510e66b27c01d/2244e/E54MX6ACBVGODBUPH7KMRRQKME.jpg",
+      "timestamp": "2026-01-04T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2025/12/multimedia/brown-university/shooting-manhunt/",
+      "headline": "Inside a frantic 125-hour manhunt: From Brown University to a New Hampshire storage unit",
+      "image": "https://apps.bostonglobe.com/2025/12/multimedia/brown-university/static/4e7c814ec996518b6a86d0ce68a024e6/f3583/NLJ44R4Y4NHV5IZP7PJBCXVTVI.png",
+      "timestamp": "2025-12-09T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
