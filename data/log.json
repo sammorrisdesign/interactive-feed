@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "timestamp": "2026-01-20T23:19:22.946Z",
+    "publication": "Tagesspiegel",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:14900:13\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async Object.Website (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:231:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:341:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-01-20T23:19:22.949Z",
+    "publication": "Tagesspiegel",
+    "error": "TypeError: Cannot read properties of undefined (reading 'length')\n    at Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:342:97)\n    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:14:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:99:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  }
+]
