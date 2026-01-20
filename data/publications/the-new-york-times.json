@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-01-19T10:25:02.351Z",
+  "lastUpdated": "2026-01-20T03:18:08.089Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/19/us/quake-tracker-southern-california.html",
+      "headline": "Map: 4.9-Magnitude Earthquake Shakes Southern California",
+      "image": "https://static01.nyt.com/images/2026/01/20/world/19wea-quake-tracker-southern-california-nyt4yrls-index/19wea-quake-tracker-southern-california-nyt4yrls-index-articleLarge-v24.jpg",
+      "timestamp": "2026-01-20T02:13:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/19/us/trump-impact-on-states.html",
+      "headline": "How Trump Is Remaking America, State by State",
+      "image": "https://static01.nyt.com/images/2026/01/19/multimedia/50states-alabama-sub-cfmz/50states-alabama-sub-cfmz-articleLarge-v2.jpg",
+      "timestamp": "2026-01-20T01:34:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
