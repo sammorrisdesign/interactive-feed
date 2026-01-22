@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-01-21T10:25:06.255Z",
+  "lastUpdated": "2026-01-22T10:24:17.021Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/22/magazine/trump-kash-patel-fbi-agents.html",
+      "headline": "'Vendetta Is the Best Word for What They’re Doing': Inside Kash Patel's F.B.I.",
+      "image": "https://static01.nyt.com/images/2026/01/02/magazine/01MAG-FBI-image-copy/01MAG-FBI-image-articleLarge.jpg",
+      "timestamp": "2026-01-22T10:18:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/22/realestate/california-homes-claremont-rancho-cucamonga-upland.html",
+      "headline": "They Tested Their $800,000 Budget on the Edges of Los Angeles County",
+      "image": "https://static01.nyt.com/images/2026/01/22/multimedia/22re-Hunt-Upland-HP/22re-Hunt-Upland-HP-articleLarge-v2.jpg",
+      "timestamp": "2026-01-22T10:04:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/22/polls/times-siena-national-poll-crosstabs.html",
+      "headline": "Cross-Tabs: January 2026 Times/Siena National Poll of Registered Voters",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-01-22T10:04:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/22/polls/times-siena-national-poll-toplines.html",
+      "headline": "Toplines: January 2026 Times/Siena National Poll of Registered Voters",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-01-22T09:59:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
