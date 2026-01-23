@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-23T14:22:31.006Z",
+  "lastUpdated": "2026-01-23T14:51:25.011Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/23/us/politics/raskin-garcia-letter-doj-inspector-general.html",
+      "headline": "Read Democrats’ Letter to the Justice Department’s Inspector General",
+      "image": "https://static01.nyt.com/images/2026/01/23/doc-2026-01-22-raskin-rgarcia-promo/doc-2026-01-22-raskin-rgarcia-promo-articleLarge.png",
+      "timestamp": "2026-01-23T14:28:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
