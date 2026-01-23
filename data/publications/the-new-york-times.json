@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-22T15:30:07.312Z",
+  "lastUpdated": "2026-01-23T03:17:26.877Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/22/arts/jacques-louis-david-painter-french-revolution.html",
+      "headline": "Face to Face With History’s Most Dangerous Painter",
+      "image": "https://static01.nyt.com/images/2026/01/22/us/cr-david-promo/cr-david-promo-articleLarge.jpg",
+      "timestamp": "2026-01-23T01:54:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
