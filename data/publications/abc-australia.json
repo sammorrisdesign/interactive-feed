@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-01-23T04:28:06.418Z",
+  "lastUpdated": "2026-01-23T20:22:11.728Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-01-24/cyclone-luana-tracker-map-kimberley/106263550",
+      "headline": "Track Cyclone Luana live as it crosses WA coast",
+      "image": "https://live-production.wcms.abc-cdn.net.au/49c2f30f6cf51e2ad7efc2a6c60a19b7?impolicy=wcms_crop_resize&cropH=3332&cropW=4443&xPos=557&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
