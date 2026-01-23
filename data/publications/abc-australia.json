@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-01-19T01:39:50.420Z",
+  "lastUpdated": "2026-01-23T04:28:06.418Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-01-23/temperatures-heatwave-tracker-australia-day/106261904",
+      "headline": "Track temperatures live as heatwave sweeps continent",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b649120b4018146865f210e5c41fb529?impolicy=wcms_crop_resize&cropH=1078&cropW=1437&xPos=241&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
