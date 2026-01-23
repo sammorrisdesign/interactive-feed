@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-20T05:03:33.000Z",
+  "lastUpdated": "2026-01-23T06:30:14.522Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/70-statt-10-minuten-so-lange-koennte-die-fahrt-zur-naechsten-geburtsklinik-dauern-ld.1920360",
+      "headline": "70 statt 10 Minuten: So lange könnte die Fahrt zur nächsten Geburtsklinik dauern",
+      "image": "https://img.nzz.ch/2026/01/22/351e0c1b-a881-4d3a-90c4-9fb97ff014b2.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2800,1575,x0,y263&wmark=nzz",
+      "timestamp": "2026-01-23T06:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
