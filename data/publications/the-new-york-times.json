@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-23T03:17:26.877Z",
+  "lastUpdated": "2026-01-23T10:21:33.302Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/23/magazine/voice-notes-hodgman-quiz.html",
+      "headline": "Is It OK to Communicate at Work Using Voice Memos?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2026-01-23T10:04:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
