@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-23T14:22:31.031Z",
+  "lastUpdated": "2026-01-23T21:42:10.766Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/01/23/how-to-build-a-snowman/88324418007/",
+      "headline": "How to build a snowman",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/01/11/USAT/77633602007-snowmantopper.jpg",
+      "timestamp": "2026-01-23T21:31:14.802Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/01/23/snow-science-how-a-snowflake-forms/88315792007/",
+      "headline": "Snow science 101: See how a snowflake forms and why each one is unique",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2025/02/14/USAT/78627231007-usatgraphic-iceforms-topper.png",
+      "timestamp": "2026-01-23T21:26:12.401Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
