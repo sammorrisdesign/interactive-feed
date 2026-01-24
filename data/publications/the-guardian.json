@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-24T06:27:55.672Z",
+  "lastUpdated": "2026-01-24T17:15:19.485Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jan/24/saint-paul-mayor-kaohly-her-ice-raids",
+      "headline": "‘St Paul has been under siege’: mayor confronts ICE as federal raids roil Twin Cities",
+      "image": "https://i.guim.co.uk/img/media/f2335f58bb886585cd47d5285d2e86395ed76506/0_207_2143_1713/master/2143.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39b29e702a81b6de1d6c664e7ea50971",
+      "timestamp": "2026-01-24T17:00:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jan/24/how-the-confident-authority-of-google-ai-overviews-is-putting-public-health-at-risk",
+      "headline": "How the ‘confident authority’ of Google AI Overviews is putting public health at risk",
+      "image": "https://i.guim.co.uk/img/media/0fd9215aeefc347883d2e12f7e2ac337bc58c231/0_147_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0037ea636e0877a7aa0c8778c26c2d7b",
+      "timestamp": "2026-01-24T17:00:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
