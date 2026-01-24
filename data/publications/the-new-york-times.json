@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-24T05:43:46.725Z",
+  "lastUpdated": "2026-01-24T08:23:21.837Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/24/nyregion/nyc-budgeting-affordability-family-140k.html",
+      "headline": "How a Family of 5 Lives on $140,000 a Year in Morningside Heights",
+      "image": "https://static01.nyt.com/images/2026/01/19/multimedia/afford-toppers--02-whbg/afford-toppers--02-whbg-articleLarge.jpg",
+      "timestamp": "2026-01-24T08:00:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
