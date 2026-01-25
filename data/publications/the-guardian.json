@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-25T06:27:46.014Z",
+  "lastUpdated": "2026-01-25T13:30:18.184Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jan/25/sam-altman-openai",
+      "headline": "Sam Altman’s make-or-break year: can the OpenAI CEO cash in his bet on the future?",
+      "image": "https://i.guim.co.uk/img/media/df9cf011f60103b8ee0f836b6a228587331363f7/0_902_4992_3994/master/4992.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=872fdb7623cf44b715cbb27e47a18ae1",
+      "timestamp": "2026-01-25T13:00:08.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
