@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-01-25T03:51:30.059Z",
+  "lastUpdated": "2026-01-25T08:24:07.511Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/25/us/pretti-witness-statement-from-doctor.html",
+      "headline": "Read a Witness Statement on the Pretti Shooting",
+      "image": "https://static01.nyt.com/images/2026/01/25/doc-govuscourtsmnd2297581090-promo/doc-govuscourtsmnd2297581090-promo-articleLarge.png",
+      "timestamp": "2026-01-25T07:55:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/25/us/govuscourtsmnd22975810701.html",
+      "headline": "Read a Witness Statement on the Pretti Shooting",
+      "image": "https://static01.nyt.com/images/2026/01/25/doc-govuscourtsmnd22975810701-promo/doc-govuscourtsmnd22975810701-promo-articleLarge.png",
+      "timestamp": "2026-01-25T07:46:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
