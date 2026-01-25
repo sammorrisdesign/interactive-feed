@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-01-24T18:26:21.540Z",
+  "lastUpdated": "2026-01-25T03:51:30.059Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/24/us/minneapolis-shooting-alex-pretti-timeline.html",
+      "headline": "Timeline: How the Shooting of Alex Jeffrey Pretti Unfolded",
+      "image": "https://static01.nyt.com/images/2026/01/24/us/minneapolis-shooting-alex-pretti-timeline-promo-minn-shooting-sat-jan-24/minneapolis-shooting-alex-pretti-timeline-promo-minn-shooting-sat-jan-24-articleLarge.png",
+      "timestamp": "2026-01-25T02:36:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/24/us/pam-bondi-walz-doc.html",
+      "headline": "Read Bondi’s Letter to Minnesota’s Governor",
+      "image": "https://static01.nyt.com/images/2026/01/25/doc-combined-promo/doc-combined-promo-articleLarge.png",
+      "timestamp": "2026-01-25T02:18:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
