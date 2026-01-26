@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-26T13:42:00.510Z",
+  "lastUpdated": "2026-01-26T19:43:32.171Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/26/travel/mexico-vacation-quiz-game.html",
+      "headline": "Answer 4 Questions. Find Your Dream Mexico Vacation.",
+      "image": "https://static01.nyt.com/images/2026/01/26/travel/00-mexico-travel-promo/00-mexico-travel-promo-articleLarge.jpg",
+      "timestamp": "2026-01-26T19:38:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
