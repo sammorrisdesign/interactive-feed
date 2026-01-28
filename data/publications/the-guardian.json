@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-25T14:16:43.630Z",
+  "lastUpdated": "2026-01-28T10:25:04.042Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/jan/28/newton-aycliffe-county-durham-high-street-decline",
+      "headline": "‘You’d be ashamed to bring someone here’: The struggling billionaire-owned high street that shows Reform’s road to No 10",
+      "image": "https://i.guim.co.uk/img/media/359539f78249c9ce5f37a563feaf0cbf3f41d8dc/1_0_4998_4000/master/4998.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5986be870a1ba2bddf260536e9aaaa0",
+      "timestamp": "2026-01-28T10:02:33.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/jan/28/how-has-your-local-high-street-changed-since-2019-check-your-postcode",
+      "headline": "How has your local high street changed since 2019? Check your postcode",
+      "image": "https://i.guim.co.uk/img/media/bb4b97826d903a5a28f8b9c652465e6249ab090d/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=24519b8e5837eaf8fc3b4509d37a8225",
+      "timestamp": "2026-01-28T10:01:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
