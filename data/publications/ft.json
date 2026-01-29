@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-25T14:16:43.165Z",
+  "lastUpdated": "2026-01-29T05:27:13.306Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c1218f3a-0e56-43d3-bd8e-c5ab911394db",
+      "headline": "Trump’s ‘beautiful armada’ underlines US threat to Iran",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F1ef3db59-f7b9-44ba-b293-0937a60d45cd.jpg?source=next-article&fit=scale-down&quality=highest&width=700&dpr=1",
+      "timestamp": "2026-01-29T05:00:15.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
