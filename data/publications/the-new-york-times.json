@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-29T10:33:35.880Z",
+  "lastUpdated": "2026-01-29T17:34:43.746Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/29/us/anthony-kazmierczak-criminal-complaint.html",
+      "headline": "Read the Criminal Complaint Against Anthony Kazmierczak, the Man Who Attacked Rep. Ilhan Omar",
+      "image": "https://static01.nyt.com/images/2026/01/29/doc-anthonyjamescharge-promo/doc-anthonyjamescharge-promo-articleLarge.png",
+      "timestamp": "2026-01-29T17:00:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
