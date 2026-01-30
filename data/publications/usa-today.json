@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-29T19:28:09.366Z",
+  "lastUpdated": "2026-01-30T09:35:41.345Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/01/30/groundhog-day-2026-what-time-prediction-history/88379686007/",
+      "headline": "How accurate is Punxsutawney Phil? See his prediction history.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/01/27/USAT/88381846007-uastgraphics-groundhog-day-26-topper.png",
+      "timestamp": "2026-01-30T09:02:59.350Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/01/30/how-to-clear-snow-off-car/88415713007/",
+      "headline": "Is your car buried in snow? How to clean it without scratching it.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/01/29/USAT/88415938007-xxx-snowcar.JPG",
+      "timestamp": "2026-01-30T09:03:50.995Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
