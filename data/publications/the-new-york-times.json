@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-30T19:54:38.862Z",
+  "lastUpdated": "2026-01-30T21:25:27.482Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/30/us/earthquake-new-jersey.html",
+      "headline": "Map: 2.4-Magnitude Earthquake Reported in New Jersey",
+      "image": "https://static01.nyt.com/images/2026/01/30/world/30wea-quake-tracker-new-jersey-nytim28l-index/30wea-quake-tracker-new-jersey-nytim28l-index-articleLarge-v5.jpg",
+      "timestamp": "2026-01-30T21:16:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
