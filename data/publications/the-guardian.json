@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-30T12:49:03.968Z",
+  "lastUpdated": "2026-01-31T06:48:48.287Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jan/31/climate-crisis-flood-risk-britain",
+      "headline": "‘Homes may have to be abandoned’: how climate crisis has reshaped Britain’s flood risk",
+      "image": "https://i.guim.co.uk/img/media/980390e08bafc67e9f4b74136cb3d10d82b91dd5/0_665_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c65a46e59e0873865378647514a04afb",
+      "timestamp": "2026-01-31T06:00:51.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
