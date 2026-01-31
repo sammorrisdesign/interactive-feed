@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-30T21:25:27.482Z",
+  "lastUpdated": "2026-01-31T08:26:58.957Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/01/31/nyregion/nyc-budgeting-affordability-24k.html",
+      "headline": "How a House Cleaner Lives on $24,000 a Year in Rockaway, Queens",
+      "image": "https://static01.nyt.com/images/2026/02/26/multimedia/26MET-AFFORDING-NYC-WATTS--01-lptz/26MET-AFFORDING-NYC-WATTS--01-lptz-articleLarge.jpg",
+      "timestamp": "2026-01-31T08:00:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
