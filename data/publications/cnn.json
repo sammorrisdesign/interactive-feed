@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2025-06-24T17:17:20.672Z",
+  "lastUpdated": "2026-01-31T07:26:02.864Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "blueSkyHandle": "cnn.com",
+      "url": "https://www.cnn.com/interactive/2026/business/tracking-trump-tariff-impact-us/",
+      "headline": "Tracking the impact of Trump’s tariff policy",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreiggvqtel7rlacc4serwac7lipb64sk2uru7kjwtbggib6qvz5wtsm@jpeg",
+      "timestamp": "2026-01-31T07:01:02.131Z"
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
