@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-01-27T07:25:24.805Z",
+  "lastUpdated": "2026-02-01T23:21:22.179Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-02-02/will-the-rba-lift-interest-rates/106286450",
+      "headline": "What are the chances the RBA will raise interest rates?",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bfdb9d84a3ed19b5aa15c6e2ba43fea3?impolicy=wcms_crop_resize&cropH=400&cropW=533&xPos=33&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
