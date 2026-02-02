@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-02T05:46:30.503Z",
+  "lastUpdated": "2026-02-02T10:40:48.421Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/02/opinion/ai-future-leading-thinkers-survey.html",
+      "headline": "Where Is A.I. Taking Us? Eight Leading Thinkers Share Their Visions.",
+      "image": "https://static01.nyt.com/images/2026/02/02/opinion/02aisurvery-still/02aisurvery-still-articleLarge-v2.jpg",
+      "timestamp": "2026-02-02T10:00:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
