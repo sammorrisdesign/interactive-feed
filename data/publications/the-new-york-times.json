@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-01-31T21:44:03.513Z",
+  "lastUpdated": "2026-02-02T01:56:04.228Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/01/upshot/10-minute-challenge-biernoff.html",
+      "headline": "10-Minute Challenge: A Painting of Time",
+      "image": "https://static01.nyt.com/images/2026/02/02/upshot/up-10min-elisheva/up-10min-elisheva-articleLarge.jpg",
+      "timestamp": "2026-02-02T01:11:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
