@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-01T14:23:21.368Z",
+  "lastUpdated": "2026-02-03T12:53:45.338Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/03/muslim-new-york-city",
+      "headline": "This is Muslim New York: artists, thinkers and politicos on defining a new era for the city",
+      "image": "https://i.guim.co.uk/img/media/92bbd93c60d293ab035b27fcdfe9473af558a337/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7c7758d57da46a84580a4e1cfa48f00",
+      "timestamp": "2026-02-03T12:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
