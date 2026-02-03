@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-03T14:03:07.140Z",
+  "lastUpdated": "2026-02-03T21:31:18.348Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/03/magazine/letterboxd-film-discussion-site-streaming-movies.html",
+      "headline": "Why the Future of the Movies Lives on Letterboxd",
+      "image": "https://static01.nyt.com/images/2026/02/02/magazine/4mag-Letterboxd-still-promo/4mag-Letterboxd-still-promo-articleLarge-v2.png",
+      "timestamp": "2026-02-03T21:16:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
