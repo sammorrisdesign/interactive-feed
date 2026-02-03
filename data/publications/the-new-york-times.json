@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-02T23:25:40.121Z",
+  "lastUpdated": "2026-02-03T01:55:02.380Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/02/us/haitians-tps-ruling.html",
+      "headline": "Read the Decision",
+      "image": "https://static01.nyt.com/images/2026/02/03/doc-haitians-tps-promo/doc-haitians-tps-promo-articleLarge.png",
+      "timestamp": "2026-02-03T01:53:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
