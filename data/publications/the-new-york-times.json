@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-03T21:31:18.348Z",
+  "lastUpdated": "2026-02-04T19:56:27.143Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/04/us/jeffrey-epstein-woody-allen-soon-yi-bard-emails.html",
+      "headline": "Read the Emails Between Jeffrey Epstein and Soon-Yi",
+      "image": "https://static01.nyt.com/images/2026/02/04/doc-epstein-previnbardemails-promo/doc-epstein-previnbardemails-promo-articleLarge.png",
+      "timestamp": "2026-02-04T19:15:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
