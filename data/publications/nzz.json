@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-01-31T20:21:58.226Z",
+  "lastUpdated": "2026-02-04T05:30:01.802Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/epstein-files-empoerung-ueber-fehlerhafte-schwaerzungen-der-akten-ld.1923307",
+      "headline": "Namen der Opfer, Kontaktdaten, Nacktbilder: Das US-Justizministerium hat die neuen Epstein-Akten schlampig geschwärzt",
+      "image": "https://img.nzz.ch/2026/02/03/5a55d8e0-a407-4a06-a3d0-57394dd8fc09.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2000,1125,x0,y77&wmark=nzz",
+      "timestamp": "2026-02-04T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
