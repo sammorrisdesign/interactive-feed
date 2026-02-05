@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-05T20:30:37.751Z",
+  "lastUpdated": "2026-02-05T21:01:16.550Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/02/05/us-job-losses-worst-since-2009/88526844007/",
+      "headline": "Job cuts are highest for any January since 2009. See why.",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/02/05/USAT/88533088007-job-cuts.png",
+      "timestamp": "2026-02-05T20:55:10.438Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
