@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-02-05T04:12:12.548Z",
+  "lastUpdated": "2026-02-05T10:37:22.770Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/05/realestate/upper-west-side-one-bedrooms-sale.html",
+      "headline": "A Father’s Wish Becomes a Daughter’s Fulfillment on the Upper West Side",
+      "image": "https://static01.nyt.com/images/2026/02/05/multimedia/05re-HUNT-LALLI-01-qhmk/05re-HUNT-LALLI-01-qhmk-articleLarge.jpg",
+      "timestamp": "2026-02-05T10:04:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/05/opinion/ice-family-separation-birthday-chapter4.html",
+      "headline": "When You’re Undocumented, Turning 18 Is Different",
+      "image": "https://static01.nyt.com/images/2026/02/05/opinion/05separations-ch4-promo/05separations-ch4-promo-articleLarge.jpg",
+      "timestamp": "2026-02-05T10:04:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/05/travel/things-to-do-lagos.html",
+      "headline": "36 Hours in Lagos, Nigeria",
+      "image": "https://static01.nyt.com/images/2026/02/05/multimedia/05trav-Hours-Lagos-bptk/05trav-Hours-Lagos-bptk-articleLarge.jpg",
+      "timestamp": "2026-02-05T10:00:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
