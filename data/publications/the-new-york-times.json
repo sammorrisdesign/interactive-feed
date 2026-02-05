@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-04T21:29:55.196Z",
+  "lastUpdated": "2026-02-05T04:12:12.548Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/04/us/self-deport-immigration-california.html",
+      "headline": "The Long Goodbye: A California Couple Self-Deports to Mexico",
+      "image": "https://static01.nyt.com/images/2026/02/02/multimedia/nat-selfdeport-wgml/nat-selfdeport-wgml-articleLarge.jpg",
+      "timestamp": "2026-02-05T02:13:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
