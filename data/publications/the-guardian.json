@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-04T17:13:25.381Z",
+  "lastUpdated": "2026-02-06T06:50:46.486Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/feb/06/rasht-massacre-protests-iran-timeline",
+      "headline": "‘I saw kids being shot, women, old people’: how a massacre unfolded in one Iranian city",
+      "image": "https://i.guim.co.uk/img/media/8c7b167c9319fc8c1d81e156268277b143949f11/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=590685f35455938b74359e089ac61730",
+      "timestamp": "2026-02-06T06:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/feb/06/the-russian-economy-is-finally-stagnating-what-does-it-mean-for-the-war-and-for-putin",
+      "headline": "The Russian economy is finally stagnating. What does it mean for the war – and for Putin?",
+      "image": "https://i.guim.co.uk/img/media/f990f0d39a7448b04a2d8fe03ea939011eeebcf9/0_0_5000_4000/master/5000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4c5a3c3e734b54d53eb2394830005783",
+      "timestamp": "2026-02-06T06:00:03.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
