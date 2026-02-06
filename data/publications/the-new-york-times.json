@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-05T19:55:58.544Z",
+  "lastUpdated": "2026-02-06T10:36:08.115Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/06/opinion/ice-minnesota-democracy-america.html",
+      "headline": "Trump’s Stifling of Dissent Reaches a New Level",
+      "image": "https://static01.nyt.com/images/2026/02/06/multimedia/06democracy-index-static-share-vjqm/06democracy-index-static-share-vjqm-articleLarge.jpg",
+      "timestamp": "2026-02-06T10:04:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
