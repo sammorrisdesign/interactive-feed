@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-06T19:36:04.740Z",
+  "lastUpdated": "2026-02-06T20:29:56.735Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/06/magazine/08mag-hodgmanquiz.html",
+      "headline": "Can You Use the Ocean as a Bathroom?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2026-02-06T20:22:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
