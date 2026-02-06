@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-04T05:30:01.802Z",
+  "lastUpdated": "2026-02-06T05:34:40.778Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/tanker-kampfflugzeuge-und-flugabwehr-auf-den-us-basen-rund-um-iran-herrscht-alarmbereitschaft-ld.1923473",
+      "headline": "Tanker, Kampfflugzeuge und Flugabwehr: Auf den US-Basen rund um Iran herrscht Alarmbereitschaft",
+      "image": "https://img.nzz.ch/2026/02/05/1435bd96-4344-42f5-a630-f73ec83333ea.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y201&wmark=nzz",
+      "timestamp": "2026-02-06T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
