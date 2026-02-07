@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-02-01T23:21:22.179Z",
+  "lastUpdated": "2026-02-07T01:47:19.907Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-02-07/cyclone-mitchell-map-tracker-pilbara-wa/106317220",
+      "headline": "Track Cyclone Mitchell live as it approaches WA coast",
+      "image": "https://live-production.wcms.abc-cdn.net.au/49c2f30f6cf51e2ad7efc2a6c60a19b7?impolicy=wcms_crop_resize&cropH=3332&cropW=4443&xPos=557&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
