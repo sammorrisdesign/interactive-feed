@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-07T07:07:17.107Z",
+  "lastUpdated": "2026-02-08T06:57:31.199Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/feb/08/washington-post-layoffs-democracy-trump",
+      "headline": "As goes the Washington Post: US democracy takes another hit under Trump",
+      "image": "https://i.guim.co.uk/img/media/bf3dbf2c9c961903dbd875bc8cecbdfda6ac0d3c/0_204_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d50d1b2cca1316f0f450985598b067a",
+      "timestamp": "2026-02-08T06:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
