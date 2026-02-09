@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-09T17:49:13.570Z",
+  "lastUpdated": "2026-02-09T21:04:13.161Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/09/upshot/olympics-medal-table-milan-cortina.html",
+      "headline": "Milan-Cortina Olympics: Who Leads the Medal Count?",
+      "image": "https://static01.nyt.com/images/2024/06/18/upshot/which-country-leads-olympic-medal-count-1721915112359/which-country-leads-olympic-medal-count-1721915112359-articleLarge.png",
+      "timestamp": "2026-02-09T20:37:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
