@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-07T08:57:34.439Z",
+  "lastUpdated": "2026-02-10T10:02:53.750Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e3b8c6fd-e55c-49d5-b727-59d7e4104174",
+      "headline": "Record Arctic January sea temperatures heighten security risks",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F32f9d1c3-ed47-4780-bed9-508310665198.jpg?source=next-barrier-page",
+      "timestamp": "2026-02-10T09:00:08.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
