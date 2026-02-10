@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-10T17:58:12.867Z",
+  "lastUpdated": "2026-02-10T23:07:24.146Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/10/us/politics/fulton-county-search-warrant-affidavit.html",
+      "headline": "Read the Fulton County search warrant affidavit",
+      "image": "https://static01.nyt.com/images/2026/02/10/doc-georgiawarrant2-promo/doc-georgiawarrant2-promo-articleLarge.png",
+      "timestamp": "2026-02-10T22:32:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
