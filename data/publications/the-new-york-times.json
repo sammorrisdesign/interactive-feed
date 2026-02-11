@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-10T23:07:24.146Z",
+  "lastUpdated": "2026-02-11T03:31:49.401Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/10/sports/ilia-malinin-ice-skating-jumps-olympics.html",
+      "headline": "Ilia Malinin’s Jumps Put Him on Top After the Short Program",
+      "image": "https://static01.nyt.com/images/2026/02/10/multimedia/2026-02-10-figure-skating-mens-short-stack-index/2026-02-10-figure-skating-mens-short-stack-index-articleLarge-v2.jpg",
+      "timestamp": "2026-02-11T00:53:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
