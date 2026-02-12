@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-12T21:30:39.526Z",
+  "lastUpdated": "2026-02-12T22:40:31.817Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/12/well/romantic-gestures-valentines-day.html",
+      "headline": "A Love Letter to the Grand Romantic Gesture",
+      "image": "https://static01.nyt.com/images/2026/02/13/arts/Vday-Grand-Gestures-StaticPromo/animation_lede_one-loop_2800px-articleLarge.jpg",
+      "timestamp": "2026-02-12T22:18:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
