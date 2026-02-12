@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-12T10:41:40.108Z",
+  "lastUpdated": "2026-02-12T21:30:39.526Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/12/books/romance-book-tropes-themes-glossary.html",
+      "headline": "Your A–Z Guide to All Things Romance",
+      "image": "https://static01.nyt.com/images/2026/02/12/books/review/2026-02-12-romance-glossary-promo/2026-02-12-romance-glossary-promo-articleLarge-v4.png",
+      "timestamp": "2026-02-12T20:34:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
