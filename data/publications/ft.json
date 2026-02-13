@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-13T05:43:14.339Z",
+  "lastUpdated": "2026-02-13T12:52:53.811Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ec11dcb6-4f53-4215-a1a1-0b72b4bc7e29",
+      "headline": "UK elections poll tracker",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fce59a8ad-8152-4284-b7ef-cb72de629a7e.jpg?source=next-barrier-page",
+      "timestamp": "2026-02-13T12:33:32.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",

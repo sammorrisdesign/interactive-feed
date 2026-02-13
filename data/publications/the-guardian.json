@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-13T07:49:11.343Z",
+  "lastUpdated": "2026-02-13T12:52:54.321Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/feb/13/openai-chatbot-gpt4o-valentines-day",
+      "headline": "OpenAI retired its most seductive chatbot – leaving users angry and grieving: ‘I can’t live like this’",
+      "image": "https://i.guim.co.uk/img/media/69ef2fdc8b6ae7c60aeecd79f9c89e5255c72617/575_121_1737_1388/master/1737.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=967fd47caf99a00bb0d8270a89e3e239",
+      "timestamp": "2026-02-13T12:30:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",

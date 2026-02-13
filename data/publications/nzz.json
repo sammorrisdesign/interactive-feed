@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-06T05:34:40.778Z",
+  "lastUpdated": "2026-02-13T12:52:54.001Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/bilder-der-bar-nach-der-brandnacht-in-crans-montana-ld.1924789",
+      "headline": "Bilder der Bar nach der Brandnacht in Crans-Montana",
+      "image": "https://img.nzz.ch/2026/02/13/47a45b4d-0fa5-4b7d-8fd8-d4eeda099aab.jpg?width=910&height=512&fit=bounds&quality=75&auto=webp&crop=910,512,x54,y141",
+      "timestamp": "2026-02-13T12:35:35.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
