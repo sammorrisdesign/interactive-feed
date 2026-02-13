@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-10T10:02:53.750Z",
+  "lastUpdated": "2026-02-13T05:43:14.339Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/d9936aff-98e8-436e-ad68-50d883513509",
+      "headline": "Venezuelans optimistic after US intervention, poll finds",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fd7e16d09-8c31-4f06-ac9d-61603cd27e02.jpg?source=next-barrier-page",
+      "timestamp": "2026-02-13T05:00:20.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
