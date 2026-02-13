@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-02-13T18:43:03.450Z",
+  "lastUpdated": "2026-02-13T21:31:47.412Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/13/style/slopulism-trump-conservative-social-media.html",
+      "headline": "When Posting Becomes Its Own Style of Politics",
+      "image": "https://static01.nyt.com/images/2026/02/12/fashion/ST-slopulism-share/ST-slopulism-share-articleLarge.png",
+      "timestamp": "2026-02-13T21:09:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/13/style/valentines-day-cards-history.html",
+      "headline": "From a Whiff of Mystique to Witty Love: Over 200 Years of Valentine’s Cards",
+      "image": "https://static01.nyt.com/images/2026/02/13/fashion/13valentines-day-cards-history-promo/13valentines-day-cards-history-promo-articleLarge.jpg",
+      "timestamp": "2026-02-13T21:09:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
