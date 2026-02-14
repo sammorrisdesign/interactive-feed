@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-13T12:52:53.811Z",
+  "lastUpdated": "2026-02-14T05:28:23.758Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/acf2aaac-a0f8-4053-9f65-f2471d3298e6",
+      "headline": "How to map a fractured world",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc6a5e491-fca4-4723-b881-e01744b26501.gif?source=next-barrier-page",
+      "timestamp": "2026-02-14T05:00:18.000Z"
+    },
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/957f6d87-acba-41d5-b0a7-312998dedf94",
+      "headline": "5 maps that will change the way you see the world",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Faac7e98f-bca8-4b1d-b33a-5793ec8c846d.jpg?source=next-barrier-page",
+      "timestamp": "2026-02-14T05:00:18.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
