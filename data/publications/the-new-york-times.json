@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-14T01:49:58.056Z",
+  "lastUpdated": "2026-02-14T04:07:56.558Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/13/nyregion/nyc-winter-snow-storm-cold-deaths.html",
+      "headline": "18 Days, 20 Lives: New Yorkers Who Didn’t Survive the Cold",
+      "image": "https://static01.nyt.com/images/2026/02/13/multimedia/PROMO-WINTER-DEATHS-01-gzfl/PROMO-WINTER-DEATHS-01-gzfl-articleLarge.jpg",
+      "timestamp": "2026-02-14T02:33:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
