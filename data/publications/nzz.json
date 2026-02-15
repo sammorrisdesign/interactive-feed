@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-13T18:43:03.411Z",
+  "lastUpdated": "2026-02-15T05:39:00.433Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/eskalation-in-reichweite-wie-die-usa-den-druck-auf-iran-erhoehen-ld.1924307",
+      "headline": "Eskalation in Reichweite: Wie sich die amerikanischen Streitkräfte um den Iran formieren",
+      "image": "https://img.nzz.ch/2026/02/14/693bc952-9948-4b40-a299-d432917ec60d.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3840,2160,x0,y0&wmark=nzz",
+      "timestamp": "2026-02-15T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
