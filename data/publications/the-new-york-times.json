@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-15T05:39:00.481Z",
+  "lastUpdated": "2026-02-16T16:03:58.849Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/16/books/review/revolutionary-reads-quiz.html",
+      "headline": "Revolutionary Reads: Do You Know America’s Original Literary Influences?",
+      "image": "https://static01.nyt.com/images/2026/02/16/books/review/16tbr-book-quiz-washington/16tbr-book-quiz-washington-articleLarge.png",
+      "timestamp": "2026-02-16T16:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
