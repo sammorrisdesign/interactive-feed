@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-02-15T21:21:38.546Z",
+  "lastUpdated": "2026-02-17T11:36:59.399Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/17/people-fired-punished-posting-charlie-kirk-death",
+      "headline": "More than 600 people were fired or punished for posting about Charlie Kirk’s death. They want justice",
+      "image": "https://i.guim.co.uk/img/media/c396178d532d2cbe24bd30e9f7ab71cb3e31bf16/0_241_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b7da28fb7fdd7d9b697dd218062ed681",
+      "timestamp": "2026-02-17T11:00:49.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/17/trump-wall-street-plan-mom-and-pop-investors-risks",
+      "headline": "‘I feel like I’m in a financial prison’: Trump Wall Street plan puts ‘mom and pop’ investors at risk, advocates say",
+      "image": "https://i.guim.co.uk/img/media/0e0f0a2b85ed690a1297d6bccc6fbe030f450840/526_0_3154_2523/master/3154.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=66342e16f76474d4d53f2e89675fdc66",
+      "timestamp": "2026-02-17T11:00:48.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
