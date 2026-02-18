@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-17T14:06:55.745Z",
+  "lastUpdated": "2026-02-18T14:08:13.871Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/18/ai-four-day-workweek",
+      "headline": "The bogus four-day workweek that AI supposedly ‘frees up’",
+      "image": "https://i.guim.co.uk/img/media/9d93dbec02b630b7b49d106d73df33c22b2a62d2/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6889fb927777c977f0e22afde3abbaf6",
+      "timestamp": "2026-02-18T13:00:34.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
