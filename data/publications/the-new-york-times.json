@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-18T21:32:20.227Z",
+  "lastUpdated": "2026-02-18T22:29:08.640Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/18/technology/bell-labs-history.html",
+      "headline": "Inside the Birthplace of Your Favorite Technology",
+      "image": "https://static01.nyt.com/images/2026/02/18/business/00-bell-labs-promo/00-bell-labs-promo-articleLarge.jpg",
+      "timestamp": "2026-02-18T22:05:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
