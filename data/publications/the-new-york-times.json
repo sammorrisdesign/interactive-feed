@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-19T10:39:46.009Z",
+  "lastUpdated": "2026-02-19T17:28:15.732Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/epstein-files-names-fired-resigned-fallout.html",
+      "headline": "See Who Has Faced Fallout From the Epstein Files",
+      "image": "https://static01.nyt.com/images/2026/02/17/multimedia/2026-02-13-epstein-fallout-tracker-index/2026-02-13-epstein-fallout-tracker-index-articleLarge.jpg",
+      "timestamp": "2026-02-17T21:35:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
