@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-18T14:08:13.871Z",
+  "lastUpdated": "2026-02-19T14:11:07.986Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/19/ai-work-future",
+      "headline": "The rise of AI is making the future of work look bleak – but it could be an opportunity",
+      "image": "https://i.guim.co.uk/img/media/e4182b4a4822120bf8fbe8a4541c240fddc9c670/0_900_2204_1762/master/2204.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c360a1093aefb03d0ea06d39596c24c9",
+      "timestamp": "2026-02-19T13:00:12.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
