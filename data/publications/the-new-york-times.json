@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-18T22:29:08.640Z",
+  "lastUpdated": "2026-02-19T10:39:46.009Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/19/realestate/berkshire-mountains-massachusetts-homes.html",
+      "headline": "She Wanted a Quiet House in the Berkshires for About $800,000",
+      "image": "https://static01.nyt.com/images/2026/02/26/multimedia/26re-Hunt-BERKSHIRES-01-khtw/26re-Hunt-BERKSHIRES-01-khtw-articleLarge.jpg",
+      "timestamp": "2026-02-19T10:04:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
