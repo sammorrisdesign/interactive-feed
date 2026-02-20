@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-19T19:22:51.880Z",
+  "lastUpdated": "2026-02-20T10:33:55.045Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/feb/20/a-war-foretold-cia-mi6-putin-ukraine-plans-russia",
+      "headline": "A war foretold: how the CIA and MI6 got hold of Putin’s Ukraine plans and why nobody believed them",
+      "image": "https://i.guim.co.uk/img/media/0f96c59eda1ecde8478b34b2a58c8d4c6771bf90/0_0_1920_1536/master/1920.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76b5fbc3339185326bfd25055f302d2a",
+      "timestamp": "2026-02-20T10:00:35.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
