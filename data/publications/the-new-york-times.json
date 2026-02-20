@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-20T19:34:56.368Z",
+  "lastUpdated": "2026-02-20T20:27:11.132Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/20/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Feb. 21, 2026",
+      "image": "https://static01.nyt.com/images/2026/02/20/multimedia/flashback-promo-2026-02-21-6/flashback-promo-2026-02-21-6-articleLarge.jpg",
+      "timestamp": "2026-02-20T20:18:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
