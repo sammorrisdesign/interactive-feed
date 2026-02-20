@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-20T10:33:55.045Z",
+  "lastUpdated": "2026-02-20T14:45:48.980Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/feb/20/ai-future-work-technology-white-collar",
+      "headline": "Nascent tech, real fear: how AI anxiety is upending career ambitions",
+      "image": "https://i.guim.co.uk/img/media/701714c0c6d696c052b98a75d66b06980042e0d7/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae8e246f4894a53c9bdf49e207d56428",
+      "timestamp": "2026-02-20T14:00:17.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
