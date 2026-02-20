@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-02-20T10:33:55.073Z",
+  "lastUpdated": "2026-02-20T16:35:00.339Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/20/us/politics/supreme-court-tariffs-decision.html",
+      "headline": "Read the Supreme Court’s Decision on Trump’s Sweeping Tariffs",
+      "image": "https://static01.nyt.com/images/2026/02/20/doc-24-12874gcj-promo/doc-24-12874gcj-promo-articleLarge.png",
+      "timestamp": "2026-02-20T15:46:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/20/us/supreme-court-major-cases-2026.html",
+      "headline": "The Major Supreme Court Decisions in 2026",
+      "image": "https://static01.nyt.com/images/2026/02/19/multimedia/2026-02-18-scotus-key-cases-index/2026-02-18-scotus-key-cases-index-articleLarge.jpg",
+      "timestamp": "2026-02-20T15:36:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
