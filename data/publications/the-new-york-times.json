@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-02-19T17:28:15.732Z",
+  "lastUpdated": "2026-02-20T04:13:25.357Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/19/sports/alysa-liu-olympics-gold-figure-skating.html",
+      "headline": "How Alysa Liu Won Gold in Women’s Figure Skating",
+      "image": "https://static01.nyt.com/images/2026/02/19/multimedia/2026-02-17-figure-skating-womens-final-index/2026-02-17-figure-skating-womens-final-index-articleLarge.jpg",
+      "timestamp": "2026-02-20T02:52:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/19/sports/olympics-figure-skating-jumps-milan-cortina.html",
+      "headline": "Relive the Biggest Olympic Skating Jumps, in Miniature",
+      "image": "https://static01.nyt.com/images/2026/02/19/multimedia/lil-skaters-womens-static/lil-skaters-womens-static-articleLarge.png",
+      "timestamp": "2026-02-20T02:23:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
