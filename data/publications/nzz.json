@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-18T05:43:21.395Z",
+  "lastUpdated": "2026-02-22T05:34:04.496Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/putin-will-nicht-dass-seine-bevoelkerung-bilder-dieses-friedhofs-sieht-ld.1925323",
+      "headline": "Putin will nicht, dass seine Bevölkerung Bilder dieses Friedhofs sieht",
+      "image": "https://img.nzz.ch/2026/02/18/3123ad80-e2f6-4dd9-9559-5f7382ed4cdd.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1358,764,x587,y431&wmark=nzz",
+      "timestamp": "2026-02-22T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
