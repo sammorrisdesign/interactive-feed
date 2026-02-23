@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-01-27T21:41:37.180Z",
+  "lastUpdated": "2026-02-23T22:37:59.827Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/02/metro/us-citizen-family-guatemala/",
+      "headline": "An American mother forced to choose between country and family",
+      "image": "https://apps.bostonglobe.com/2026/02/metro/us-citizen-family-guatemala/static/0f5ccf3d28abed225f615e43ae9506e5/47498/J3IKMIRNR4LX5UXHRZHHEYF3PQ.jpg",
+      "timestamp": "2026-02-03T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/01/sports/baseball-hall-of-fame-2026-ballot/",
+      "headline": "How Globe writers voted on the 2026 Baseball Hall of Fame ballot",
+      "image": "https://apps.bostonglobe.com/2026/01/sports/baseball-hall-of-fame-2026-ballot/static/7685a43c946e49afa1ce19ab0b76519d/47498/4XRLE5AKCJBENBQKCAO3TRBQSI.jpg",
+      "timestamp": "2026-01-07T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
