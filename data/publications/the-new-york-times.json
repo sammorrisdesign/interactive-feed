@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-02-23T17:36:26.362Z",
+  "lastUpdated": "2026-02-24T18:57:55.886Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-pennsylvania-state-house-special.html",
+      "headline": "Pennsylvania State House Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/02/24/multimedia/eln-PRE-2026-02-24-state-pa-29c3e7/eln-PRE-2026-02-24-state-pa-29c3e7-articleLarge.jpg",
+      "timestamp": "2026-02-24T18:54:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-maine-state-house-district-94-special.html",
+      "headline": "Maine State House District 94 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/02/24/multimedia/eln-PRE-2026-02-24-state-me-809b47/eln-PRE-2026-02-24-state-me-809b47-articleLarge.jpg",
+      "timestamp": "2026-02-24T18:49:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
