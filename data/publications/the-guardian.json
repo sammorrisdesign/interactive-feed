@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-24T15:29:54.476Z",
+  "lastUpdated": "2026-02-24T20:31:28.150Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/feb/22/world-order-trump",
+      "headline": "The world order we’re leaving behind may be replaced by no order at all | Eduardo Porter",
+      "image": "https://i.guim.co.uk/img/media/946a8f1bf16583fc5925bbaca92b78fe0e5dd5d2/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=af9f4b73fa801aaa4bc46e8e16362a3f",
+      "timestamp": "2026-02-22T14:00:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
