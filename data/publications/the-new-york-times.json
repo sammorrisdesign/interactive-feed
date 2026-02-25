@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-24T23:02:32.274Z",
+  "lastUpdated": "2026-02-25T10:47:49.504Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/25/opinion/iran-protests-doctors.html",
+      "headline": "40 Iranian Doctors and Nurses Describe a Massacre",
+      "image": "https://static01.nyt.com/images/2026/02/24/opinion/iranpromo/iranpromo-articleLarge-v3.jpg",
+      "timestamp": "2026-02-25T10:02:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
