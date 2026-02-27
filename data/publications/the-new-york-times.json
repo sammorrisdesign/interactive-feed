@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-27T19:31:09.779Z",
+  "lastUpdated": "2026-02-27T21:26:57.433Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/27/us/doj-church-indictment.html",
+      "headline": "Read the Indictment",
+      "image": "https://static01.nyt.com/images/2026/02/27/doc-newindictment-promo/doc-newindictment-promo-articleLarge.png",
+      "timestamp": "2026-02-27T21:18:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
