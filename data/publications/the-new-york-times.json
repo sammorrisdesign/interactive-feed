@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-28T08:25:12.064Z",
+  "lastUpdated": "2026-02-28T09:23:05.902Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/28/us/tahoe-avalanche-survivors.html",
+      "headline": "‘Avalanche!’: Survivors Recount the Tragedy at Perry’s Peak",
+      "image": "https://static01.nyt.com/images/2026/02/26/multimedia/2026-02-23-lake-tahoe-avalanche-reconstruct-index/2026-02-23-lake-tahoe-avalanche-reconstruct-index-articleLarge-v7.jpg",
+      "timestamp": "2026-02-28T09:06:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
