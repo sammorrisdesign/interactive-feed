@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-02-27T21:26:57.433Z",
+  "lastUpdated": "2026-02-28T08:25:12.064Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/02/28/nyregion/nyc-budgeting-affordability-robinson.html",
+      "headline": "How a Parks Worker Lives on $37,500 in Tompkinsville, Staten Island",
+      "image": "https://static01.nyt.com/images/2026/02/28/multimedia/28met-affording-nyc-robinson-tvbf/28met-affording-nyc-robinson-tvbf-articleLarge.jpg",
+      "timestamp": "2026-02-28T08:00:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
