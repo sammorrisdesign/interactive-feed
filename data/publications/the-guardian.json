@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-28T06:34:21.594Z",
+  "lastUpdated": "2026-03-01T06:41:29.399Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/01/an-ugly-year-for-the-louvre-where-does-the-worlds-biggest-museum-go-from-here",
+      "headline": "An ugly year for the Louvre: where does the world’s biggest museum go from here?",
+      "image": "https://i.guim.co.uk/img/media/b409106bb73265e07358d8d527c87340957b3b1a/0_0_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06b8151d2e62edee50dcf460a690ce52",
+      "timestamp": "2026-03-01T06:00:32.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
