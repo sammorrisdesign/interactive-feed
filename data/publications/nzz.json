@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-28T04:53:06.481Z",
+  "lastUpdated": "2026-03-01T05:49:50.271Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/3000-meter-ueber-dem-meeresspiegel-baut-china-den-groessten-solarpark-der-welt-ld.1926864",
+      "headline": "3000 Meter über dem Meeresspiegel baut China den grössten Solarpark der Welt",
+      "image": "https://img.nzz.ch/2026/02/26/b5f3ffef-ec55-4812-907a-ad524dc74065.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2048,1152,x0,y244&wmark=nzz",
+      "timestamp": "2026-03-01T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
