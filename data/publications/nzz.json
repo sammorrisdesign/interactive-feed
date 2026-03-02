@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-01T17:19:50.279Z",
+  "lastUpdated": "2026-03-02T09:44:18.472Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/gruene-im-aufwind-die-neuesten-umfragen-zur-landtagswahl-in-baden-wuerttemberg-ld.1926979",
+      "headline": "Grüne im Aufwind – die neuesten Umfragen zur Landtagswahl in Baden-Württemberg",
+      "image": "https://img.nzz.ch/2026/02/27/9ea15fe5-02ad-4185-babb-33d1562a4c68.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y225&wmark=nzz",
+      "timestamp": "2026-03-02T09:06:22.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
