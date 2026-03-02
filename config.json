@@ -469,11 +469,7 @@
           "url": "a[data-testid='MediaImageLink']",
           "baseUrl": "https://www.reuters.com",
           "timestamp": "time",
-          "timestampFormat": [
-            "MMM. D, YYYY",
-            "MMM D, YYYY",
-            "MMMM D, YYYY"
-          ],
+          "timestampAttribute": "dateTime",
           "image": "img"
         }
       ]
