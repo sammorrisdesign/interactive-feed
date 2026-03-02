@@ -15,7 +15,7 @@ If you know the secret key you can run `export KEY=<SECRET-KEY>` and then `npm r
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-List of featured publications: ABC Australia, Berliner Morgenpost, Bloomberg, Boston Globe, CNN, De Tijd, de Volkskrant, ESPN, FT, Houston Chronicle, Kontinentalist, LA Times, Le Monde, National Geographic, Nature, NBC News, NPR, NZZ, Politico, ProPublica, Publico, Reuters, San Francisco Chronicle, Schweizer Radio und Fernsehen (SRF), Seattle Times, South China Morning Post, Sydney Morning Herald, Tages-Anzeiger, Tagesspiegel, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadelphia Inquirer, The Pudding, The Straits Times, The Verge, The Washington Post, USA Today, and WSJ.
+List of featured publications: ABC Australia, Berliner Morgenpost, Bloomberg, Boston Globe, CNN, De Tijd, de Volkskrant, ESPN, FT, Houston Chronicle, Kontinentalist, LA Times, Le Monde, National Geographic, Nature, NBC News, NPR, NZZ, Politico, ProPublica, Publico, Reuters, San Francisco Chronicle, Seattle Times, South China Morning Post, SRF, Sydney Morning Herald, Tages-Anzeiger, Tagesspiegel, Texas Monthly, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadelphia Inquirer, The Pudding, The Straits Times, The Verge, The Washington Post, USA Today, and WSJ.
 
 ## Missing Publications
 Not all publications have specific feeds or repeatable url structures to get the types of stories we're looking to share. While this isn't a complete list of what's missing, here's some major newsrooms that we don't have hooked up...
@@ -45,8 +45,8 @@ Sources set to `"type": "BlueSky"` get articles from an BlueSky account.
 | Name          | Type     | Description                                                                                                                                           |
 | ------------- | -------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `handle`      | `String` | The handle of the account you wish to scrape                                                                                                          |
-| `filters.in`  | `Object` | For Sitemaps only. Filter to keep articles by property/value pairs. For example: url must contain '/visuals' – the rest will be discarded             |
-| `filters.out` | `Object` | For Sitemaps only. Filter to exclude articles by property/value pairs. For example: headline should not contain "Week in"                             |
+| `filters.in`  | `Object` | Filter to keep articles by property/value pairs. For example: url must contain '/visuals' – the rest will be discarded             |
+| `filters.out` | `Object` | Filter to exclude articles by property/value pairs. For example: headline should not contain "Week in"                             |
 
 
 ### Source level options for `XML`.
@@ -74,6 +74,7 @@ Sources set to `"type": "Website"` get articles featured on a specific website. 
 | `timestamp`          | `String` | Optional child element within `selector` that contains the timestamp. The `textContent` for this element will be used.                                            |
 | `timestampAttribute` | `String` | Optional. If `timestamp` element has an attribute that you'd rather scrape instead of the `textContent`, provide it here                                          |
 | `timestampFormat`    | `Array`  | Optional. If `timestamp` is in a nonstandard format, you can use an array of [dayjs formats](https://day.js.org/docs/en/parse/string-format) to parse             |
+| `image`              | `String`  | Optional. A child element within `selector` that contains the featured image for the story. The `src` from this element will be used.               |
 
 ### Testing
 Once you've added a publication to the config you can run `npm run test --publication="The New York Times"` to test it (only with the name of your publication instead). This will check the feeds but not actually tweet/toot anything. If you're happy with it, make a PR!

@@ -1,6 +1,3022 @@
 {
-  "lastUpdated": "2023-02-10T15:16:34.683Z",
+  "lastUpdated": "2026-03-02T22:34:40.421Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/jan-6-archive/",
+      "headline": "Jan. 6, 2021: A visual archive of the Capitol attack",
+      "image": "https://apps.npr.org/jan-6-archive/assets/synced/images/resized/j6_promo-min.png",
+      "timestamp": "2026-01-04T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/2025-election-results/",
+      "headline": "2025 election results",
+      "image": "https://apps.npr.org/2025-election-results/assets/synced/2025-results.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/gaza-building-israel-strike-casualties/",
+      "headline": "One family. One attack. 132 names.",
+      "image": "https://apps.npr.org/gaza-building-israel-strike-casualties/assets/synced/images/resized/0R9A8165.jpg",
+      "timestamp": "2025-03-04T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/11/08/nx-s1-5183070/trump-swing-states-democratic-counties-red-shift-2024",
+      "headline": "These charts show how Trump's strategy to lose by less won back several swing states",
+      "image": "https://blog.apps.npr.org/img/swings-2024.png",
+      "timestamp": "2024-11-09T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/2024-election-results/",
+      "headline": "Live: Election Results 2024",
+      "image": "https://blog.apps.npr.org/img/election-2024.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/aral-sea-shrinking-map/",
+      "headline": "Central Asia’s Ticking Time Bomb: Water",
+      "image": "https://apps.npr.org/aral-sea-shrinking-map/assets/synced/images/AralSea-Toned_DSC9138.jpg",
+      "timestamp": "2024-10-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/10/21/nx-s1-5134924/trump-election-2024-kamala-harris-elizabeth-cheney-threat-civil-liberties",
+      "headline": "Trump has made more than 100 threats to prosecute or punish perceived enemies",
+      "image": "https://blog.apps.npr.org/img/trump-targets.jpg",
+      "timestamp": "2024-10-22T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/10/16/g-s1-27725/comic-science-backed-mood-boosters-to-almost-instantly-snap-you-out-of-a-funk",
+      "headline": "COMIC: Science-backed mood boosters to (almost instantly) snap you out of a funk",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4800x2700+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3c%2F31%2F839b27c64b7eb3edc124d8b34336%2Fpromo-min.PNG",
+      "timestamp": "2024-10-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/10/10/g-s1-26426/wildlife-services-usda-wild-animals-killed-livestock",
+      "headline": "'That’s a bloodbath': How a federal program kills wildlife for private interests",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6633x3731+0+244/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F54%2F63%2F25882cad4272870e7c8c52396e05%2Fcoyote.png",
+      "timestamp": "2024-10-10T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/10/09/g-s1-27175/israel-hamas-war-gaza-map",
+      "headline": "These maps and images show what's left of Gaza, 1 year into the Israel-Hamas war",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1067x600+13+0/resize/1400/quality/100/format/gif/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2F33%2F7dd2313b43889bc48897ab3245bf%2Fpromo.gif",
+      "timestamp": "2024-10-10T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/10/02/nx-s1-5129659/abortion-election-michigan-arizona-minnesota",
+      "headline": "Tired of presidential politics? Here's where power could shift in state capitols, too",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3258x1833+0+287/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbb%2Faf%2F95a850d3402b97a44034f450ea46%2Fgroup-9-1.png",
+      "timestamp": "2024-10-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/10/01/nx-s1-5133530/hurricane-helene-rain-flooding-climate-change",
+      "headline": "Hurricanes are dangerous far from the coast. Communities are struggling to prepare",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1994x1122+0+112/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1f%2F4d%2F7c88d5e346e08beaead1e0699dad%2Fscreenshot-2024-10-01-at-10-19-46-pm.png",
+      "timestamp": "2024-10-02T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/voter-registration-2024-mail/",
+      "headline": "How to register to vote",
+      "image": "https://apps.npr.org/voter-registration-2024-mail/assets/synced/voter-registration-social.jpg",
+      "timestamp": "2024-09-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/09/16/g-s1-22212/election-harris-trump-swing-states",
+      "headline": "These states will decide the election. We went to all of them to talk to voters",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1668x938+258+265/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F3d%2F47%2F228c864049faaaf233aa7ebfc71d%2Fswing-state.png",
+      "timestamp": "2024-09-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/09/05/nx-s1-5010760/kamala-harris-donald-trump-pennsylvania-swing-states",
+      "headline": "Hello, Pennsylvania! Why Harris and Trump can't get enough of the Keystone State",
+      "image": "https://blog.apps.npr.org/img/candidate-travel-2024.jpg",
+      "timestamp": "2024-09-13T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/planet-money/2024/09/04/g-s1-20299/planet-money-debate-bingo",
+      "headline": "Economic Lingo Bingo: Finally, a way to make a confusing election… fun!",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/834x469+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2a%2F92%2F2e399296468d88b0c7621e8482e6%2Fplanet-money-debate-bingo.png",
+      "timestamp": "2024-09-04T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/09/03/nx-s1-5086800/eric-garcetti-rick-jacobs-metoo-workplace-misconduct-allegations",
+      "headline": "Did a powerful Democrat lie about #MeToo allegations to save his career?",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/4000x2250+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F94%2F7f%2F2c5c280046c9bc6d035a254783b0%2Fgettyimages-461529648.jpg",
+      "timestamp": "2024-09-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/08/06/nx-s1-5060258/paris-olympics-weightlifting-olivia-reeves-usa",
+      "headline": "Olivia Reeves is chasing gold in Paris. We break down how she lifts",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2306x1298+201+668/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Ffd%2Fe6%2F10f434ad42ae9e1e5022f1d5bb9b%2Fsnatch-1.png",
+      "timestamp": "2024-08-06T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/08/03/g-s1-14361/china-communist-party-con-netherlands",
+      "headline": "Is a high-profile critic of the Chinese Communist Party a con man?",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fc8%2Fee%2F778b8a814eac83765f9b2f24921c%2F3j4a9690.jpg",
+      "timestamp": "2024-08-04T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/07/20/g-s1-9028/osha-construction-safety-trench-collapse",
+      "headline": "Trench collapses have killed hundreds of workers in the U.S. over the last decade",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fb7%2F95%2F5be4a6c74da4a9ee1dfbe6f87d3d%2Ftrench-death-04.JPG",
+      "timestamp": "2024-07-22T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/07/16/g-s1-9554/video-games-2024",
+      "headline": "The best games of 2024 so far, picked by NPR's staff",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2798x1574+279+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F9e%2F14%2Fb8ec5a2a422f8d73dbfe00d3fd4f%2Fgames-we-love-20240711.png",
+      "timestamp": "2024-07-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/shots-health-news/2024/07/03/nx-s1-4986385/trans-kids-health-bans-gender-affirming-care",
+      "headline": "In just a few years, half of all states passed bans on trans health care for kids",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1600x900+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F19%2Fb7%2F2357efc843c6a1a325d3731a59ad%2Fyouth-gender-care-bans-promo.png",
+      "timestamp": "2024-07-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/06/30/g-s1-6338/2024-major-elections-npr-reporting",
+      "headline": "These are the major elections NPR correspondents are watching",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1776x998+105+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fbe%2F5f%2F43fad1b64142a0fb1f0b44c63345%2Fwide.png",
+      "timestamp": "2024-06-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/06/20/nx-s1-5005972/home-prices-wages-paychecks-rent-housing-harvard-report",
+      "headline": "U.S. home prices have far outpaced paychecks. See what it looks like where you live",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/2138x1203+0+0/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F4d%2F93%2F4036c68542dd803c9aa4f2e334d6%2Fpromo.png",
+      "timestamp": "2024-06-20T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/06/17/nx-s1-4942958/uber-minimum-wage-minnesota-lyft-lobbying",
+      "headline": "Uber and Lyft are fighting minimum wage laws. But in this state, the drivers won",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3500x1969+0+70/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe4%2Fe3%2F81cc1aeb45bf8ee4ee6d28fa2211%2Fackerman-rideshare-51.JPG",
+      "timestamp": "2024-06-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/06/17/g-s1-4187/military-bases-shortage-health-care-troops-army-navy-marines",
+      "headline": "Half of U.S. Army, Navy, Air Force and Marines bases are in health care deserts",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/780x439+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fca%2Fbe%2Faa4ccbae49c298ec058395f9817a%2Fimage.jpg",
+      "timestamp": "2024-06-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/06/10/nx-s1-4954754/some-states-are-seeing-chronic-absenteeism-soar-to-more-than-40-of-students",
+      "headline": "With 'chronic absenteeism' soaring in schools, most parents aren't sure what it is",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/3000x1688+0+0/resize/1400/quality/100/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F2b%2Fea%2F6de56af54c84bb5ef424a3662786%2Fydai-npr-chronic-absenteeism.jpg",
+      "timestamp": "2024-06-10T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/05/23/nx-s1-4977323/abortion-law-legal-florida-arizona-amendment",
+      "headline": "The abortion debate is headed to the ballot box. Here's where voters will decide",
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1017x572+290+150/resize/1400/quality/100/format/png/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F55%2F5a%2Ffec2c43e4674bc87fe0e51a011d7%2Fabortion-ballot-initiatives-promo-image-2.png",
+      "timestamp": "2024-05-28T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/plant-hardiness-garden-map/",
+      "headline": "The USDA's gardening zones shifted. This map shows you what's changed in vivid detail",
+      "image": "https://apps.npr.org/plant-hardiness-garden-map/assets/synced/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/04/24/1246684546/comic-historical-marker-civil-rights-murder",
+      "headline": "COMIC: The roadside marker unlocking a forgotten civil rights murder",
+      "image": "https://media.npr.org/assets/img/2024/04/24/marker-promo-min_wide-2264383105e89fc7496815a3ef8d9a5392857631.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-04-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/04/21/1245275678/historical-markers-signs-civil-war-confederacy",
+      "headline": "Curious, fascinating and offensive markers from around the U.S.",
+      "image": "https://media.npr.org/assets/img/2024/04/22/graphics-promo_wide-2fb1c15d19fe623dd9c82f005302aa75eb0c687b.png?s=1400&c=100&f=png",
+      "timestamp": "2024-04-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/04/18/1241063826/sun-space-siblings-mystery-comic",
+      "headline": "COMIC: Our sun was born with thousands of other stars. Where did they all go?",
+      "image": "https://media.npr.org/assets/img/2024/03/28/promo-min_wide-b5f25206e9d18438f88a80fcfc24dfaced5b68aa.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-04-18T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2024/04/11/1243991410/how-florida-and-arizona-supreme-court-rulings-change-the-abortion-access-map",
+      "headline": "How Florida and Arizona Supreme Court rulings change the abortion access map",
+      "image": "https://media.npr.org/assets/img/2024/04/10/abortion-access-promo-image_wide-9443830c25c56a9bed9a1cad932bc0d04db7ef91.png?s=1400&c=100&f=png",
+      "timestamp": "2024-04-11T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/solar-eclipse-april-2024",
+      "headline": "Solar eclipse 2024: Follow the path of totality",
+      "image": "https://media.npr.org/assets/img/2024/04/04/gettyimages-836316260_wide-c8f9426b80e993481b80432ec3fe888e57ac1e46.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-04-08T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/04/05/1241446778/deepfake-audio-detection",
+      "headline": "Using AI to detect AI-generated deepfakes can work for audio — but not always",
+      "image": "https://media.npr.org/assets/img/2024/04/04/ai-audio-quiz_wide-4b63ffabf5fe18352e2d2bfa62a8eca0f132633b.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-04-05T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/03/28/1239650727/chevron-fossil-fuel-richmond-standard-california-news",
+      "headline": "Chevron owns this city's news site. Many stories aren't told",
+      "image": "https://media.npr.org/assets/img/2024/03/20/richmond_031924_tl_wide-f9cb81c94e6632b5d01df2226e24002d30811b66.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-03-28T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/03/19/1238646047/voting-options-early-mail-ballots",
+      "headline": "New data shows it's gotten easier to vote in the U.S. since 2000",
+      "image": "https://media.npr.org/assets/img/2024/03/18/promo-image_wide-1f5b559c748deed02c4ebe10ad8bc727766f6765.png?s=1400&c=100&f=png",
+      "timestamp": "2024-03-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/03/15/1233158434/rafah-gaza-population-crowding-israel-hamas",
+      "headline": "War has forced half of Gaza into Rafah. Palestinians there are at a breaking point",
+      "image": "https://media.npr.org/assets/img/2024/03/14/rafah-promo_wide-fe8ea6ee8043cb432819e173f36d07f7b4117c54.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-03-15T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/02/28/1232564250/billionaire-benioff-buys-hawaii-land-salesforce",
+      "headline": "A tech billionaire is quietly buying up land in Hawaii. No one knows why",
+      "image": "https://media.npr.org/assets/img/2024/02/20/waimea-2_wide-27daf2f4bdfbbc519dd8e36f50005abdf132f2c2.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-02-28T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/02/26/1233128242/coal-renewable-energy-west-virginia-inflation-reduction-act-climate",
+      "headline": "This is what happens when a wind farm comes to a coal town",
+      "image": "https://media.npr.org/assets/img/2024/02/22/2024-02-hjiang-westvirginia031_wide-5dd6a426ea4f9f4afa48208821e860b963e3a83c.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-02-26T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/02/24/1232838017/russia-ukraine-war-2-year-anniversary-ukrainian-cities",
+      "headline": "After 2 years of war in Ukraine, 6 cities hold out hope under fire",
+      "image": "https://media.npr.org/assets/img/2024/02/21/6-cities-ukraine_wide-29dd1c3290f8b67ed4fd8fc762dd4af4160d200e.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-02-24T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/02/09/1229625376/domicide-israel-gaza-palestinians",
+      "headline": "What is 'domicide,' and why has war in Gaza brought new attention to the term?",
+      "image": "https://media.npr.org/assets/img/2024/02/07/1a1a5917-edit_wide-fc0057dbc53a8b87168f67f5d1dfdae0cfc7ff32.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-02-09T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2024/01/25/1226127965/gop-delegates-trump-haley-republican-nomination-election-2024",
+      "headline": "Delegate tracker: Trump leads GOP presidential candidates on road to nomination",
+      "image": "https://media.npr.org/assets/img/2024/01/23/delegate-tracker_wide-279272f68c403c2562948157baa70d655f6239cb.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2024-01-25T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/primary-election-results-2024/",
+      "headline": "2024 Election Calendar and Primary Election Results",
+      "image": "https://apps.npr.org/primary-election-results-2024/assets/synced/2024-primaries.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/12/27/1210928126/oil-climate-change-carbon-capture-removal-direct-air-capture-occidental",
+      "headline": "This oil company invests in pulling CO2 out of the sky — so it can keep selling crude",
+      "image": "https://media.npr.org/assets/img/2023/12/19/img_4995_wide-cbe3e473ec738ec3222ef836e1628a080118c8d6.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-12-27T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/12/26/1211240854/new-years-resolution-planner-50-fresh-ideas-to-help-you-make-bold-moves-in-2024",
+      "headline": "LifeKit New Year's Resolution Planner",
+      "image": "https://media.npr.org/assets/img/2023/12/13/header-min_wide-c0a1d5ceac89f1ca68eeee0a3608ab6c1e95dff0.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-12-26T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/12/19/1215673946/best-movies-tv-2023",
+      "headline": "The best movies and TV of 2023, picked for you by NPR critics",
+      "image": "https://media.npr.org/assets/img/2023/12/14/bestmoviestv2023_wide-b149fd85bd9ebd5244c4e66fc3a4d04cc224ac5e.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-12-19T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/12/12/1215355752/best-songs-2023",
+      "headline": "Best Songs of 2023",
+      "image": "https://media.npr.org/assets/img/2023/12/12/bestsongs-wide_wide-5daa420908c447a4c44f2e03807af04b17f94638.jpeg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-12-12T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/07/18/1187554727/best-new-video-games-xbox-ps5-nintendo-2023",
+      "headline": "The best games of 2023, picked by the NPR staff",
+      "image": "https://media.npr.org/assets/img/2023/12/01/games-we-love-2023-winter_wide-fec117b7493b8f25c0bb130402c5ef13df1e61d8.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-12-04T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/11/17/1213579692/israel-gaza-evacuation-south-attacks",
+      "headline": "Israel told Palestinians to evacuate to southern Gaza — and stepped up attacks there",
+      "image": "https://media.npr.org/assets/img/2023/11/17/screenshot-2023-11-17-at-11.52.19-am_wide-b8197e910459dcfa30af378e5f75fee7361afb4b.png?s=1400&c=100&f=png",
+      "timestamp": "2023-11-18T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/11/16/1212690111/only-51-of-these-u-s-whales-remain-little-has-been-done-to-prevent-their-extinct",
+      "headline": "Only 51 of these U.S. whales remain. Little has been done to prevent their extinction",
+      "image": "https://media.npr.org/assets/img/2023/11/15/rices-whale-kl-murphy_wide-14f8b42ce9aedb7258feb4f10e5f919e4403ce96.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/11/09/1211571220/israel-gaza-damage-map-satellite-imagery",
+      "headline": "Map: After a month of bombardments, as much as a third of Gaza City is damaged",
+      "image": "https://media.npr.org/assets/img/2023/11/08/promo-gaza-damage-timeline-20231031_wide-de9285f6e51adbae7868e243fe76766d294eadb6.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-11-09T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/11/03/1210326996/one-week-into-israels-ground-war-in-gaza-satellites-and-socialf-media-give-hints",
+      "headline": "Satellites and social media offer hints about Israel's ground war strategy in Gaza",
+      "image": "https://media.npr.org/assets/img/2023/11/03/image-41-_wide-836c578f40ca673b1ef454ffce4c5cd84804b017.png?s=1400&c=100&f=png",
+      "timestamp": "2023-11-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/10/06/1203372829/the-bruising-artillery-battle-in-ukraine-has-left-a-scar-that-is-visible-from-sp",
+      "headline": "The bruising artillery battle in Ukraine has left a scar that is visible from space",
+      "image": "https://media.npr.org/assets/img/2023/10/05/ai2html-map_wide-after_wide-41ddcd185b4f53494b5502345c3bc4ac5e46b561.png?s=1400&c=100&f=png",
+      "timestamp": "2023-10-06T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/10/05/1200788439/wind-power-cargo-ships-carbon-emissions",
+      "headline": "New technology uses good old-fashioned wind to power giant cargo vessels",
+      "image": "https://media.npr.org/assets/img/2023/09/21/pyxis_ocean_image_1_aug_2023-edit_wide-9b5a75918f290724051f6c68e9a8dee6ac4e7109.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-10-05T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/09/12/1197613803/what-streaming-tv-to-watch-netflix-hbo-max-hulu",
+      "headline": "Have you run out of TV? Our 2023 fall streaming guide can help",
+      "image": "https://media.npr.org/assets/img/2023/09/06/6-images-1-_wide-130752b00cfdd8c99ba0192aa07117826d482c7b.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-09-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/08/16/1190767610/ice-detention-immigration-government-inspectors-barbaric-negligent-conditions",
+      "headline": "Government's own experts found 'barbaric' and 'negligent' conditions in ICE detention",
+      "image": "https://media.npr.org/assets/img/2023/08/15/ap19243611355277---adelanto-ice_wide-7cc284ad9a37a99455ce7b0f0789b4265126ec9c.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-08-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/07/21/1189253504/climate-change-migration-honduras",
+      "headline": "Uprooted: How climate change is reshaping migration from Honduras",
+      "image": "https://media.npr.org/assets/img/2023/07/21/drone-02b_family-perez_0332_wide-42d1a5322f362dc2c0e0c449055f807ae71f0862.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-07-23T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/07/21/1186437871/pentagon-files-baghdadi-raid-syria-civilian-casualties",
+      "headline": "Pentagon files reveal flaws in U.S. claims about Syrian casualties in Baghdadi raid",
+      "image": "https://media.npr.org/assets/img/2023/07/13/gettyimages-1178419694_wide-88f78f38c99a325e9aa1b48dbf178f7bde4a7ffd.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-07-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/07/17/1187363952/hip-hop-50-all-rap-is-local",
+      "headline": "Hip Hop 50: All Rap Is Local",
+      "image": "https://media.npr.org/assets/img/2023/07/16/hiphop50_promoimage-all2_wide-21f200942681548c08e926a1ae2e625daa9a4894.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-06-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/06/26/1184053690/chinese-owned-farmland-united-states",
+      "headline": "China owns 300,000 acres of land in the U.S. Here's where",
+      "image": "https://media.npr.org/assets/img/2023/06/23/gettyimages-1449677883_wide-b66ff6b9d0e4a232f737679bf1ca008a3132b9a7.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-06-26T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2023/06/21/1183248911/abortion-access-distance-to-care-travel-miles",
+      "headline": "How many miles do you have to travel to get abortion care? One professor maps it",
+      "image": "https://media.npr.org/assets/img/2023/06/20/seamus-abortion-deserts-20230620_wide-ccdee163a2e25d8f41ce094b46d4a7bf99fc02b4.png?s=1400&c=100&f=png",
+      "timestamp": "2023-06-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/05/30/1177543403/what-to-watch-netflix-hbo-max-hulu-disney",
+      "headline": "These are the new movies and TV shows we can't wait to watch this summer",
+      "image": "https://media.npr.org/assets/img/2023/05/25/2023summerfilmtvpreview-copy_wide-444f113249d623eeac56b087050cad44e00c6145.jpg?s=1400&c=100&f=jpeg",
+      "timestamp": "2023-05-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/arctic-ice-melting-climate-change/",
+      "headline": "The world's melting ice has surprising impacts. Can you guess them?",
+      "image": "https://apps.npr.org/arctic-ice-melting-climate-change/assets/synced/images/resized/dyewide_ice.jpg",
+      "timestamp": "2023-04-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/arctic-ice-melting-climate-change/nepal-rolwaling-river-glacier.html",
+      "headline": "Living in the shadow of a dangerous shrinking glacier",
+      "image": "https://apps.npr.org/arctic-ice-melting-climate-change/assets/synced/images/resized/Nepal-42.jpg",
+      "timestamp": "2023-04-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/arctic-ice-melting-climate-change/greenland-whales.html",
+      "headline": "The unexpected link between imperiled whales and Greenland's melting ice",
+      "image": "https://apps.npr.org/arctic-ice-melting-climate-change/assets/synced/images/resized/nea.jpg",
+      "timestamp": "2023-04-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/arctic-ice-melting-climate-change/western-us-wildfires.html",
+      "headline": "The surprising connection between Arctic ice and Western wildfires",
+      "image": "https://apps.npr.org/arctic-ice-melting-climate-change/assets/synced/images/resized/ap_noah.jpg",
+      "timestamp": "2023-04-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/arctic-ice-melting-climate-change/texas-galveston-sea-level-rise.html",
+      "headline": "Why Texans need to know how fast Antarctica is melting",
+      "image": "https://apps.npr.org/arctic-ice-melting-climate-change/assets/synced/images/resized/antarctica.jpg",
+      "timestamp": "2023-04-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/03/23/1163448930/what-is-the-debt-ceiling-explanation",
+      "headline": "The fight over the debt ceiling could sink the economy. This is how we got here",
+      "image": "https://media.npr.org/assets/img/2023/03/21/ap21279839786304_wide-c6e5af2c75cfdd8e9f4c7c5577dfa2ad068a0d50-s1400-c100.jpg",
+      "timestamp": "2023-03-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/03/19/1163341684/south-korea-fertility-rate",
+      "headline": "South Korea has the world's lowest fertility rate, a struggle with lessons for us all",
+      "image": "https://media.npr.org/assets/img/2023/03/14/gettyimages-1133975807_wide-a244102b90b1b33e55137473b4fb52173205f99d-s1400-c100.jpg",
+      "timestamp": "2023-03-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/03/16/1163072647/louder-than-a-riot-season-2",
+      "headline": "Louder Than A Riot Season 2: How the double standard became hip-hop's standard",
+      "image": "https://media.npr.org/assets/img/2023/03/22/ltar_s2_2_wide-1fe7d05b6b124dbbac5d8989868ad32e23264635-s1400-c100.jpg",
+      "timestamp": "2023-03-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/03/08/1160113954/2024-republican-presidential-candidates-who-is-running-tracker",
+      "headline": "2024 Republican presidential candidates: A list of who is or may be running",
+      "image": "https://media.npr.org/assets/img/2023/03/06/gettyimages-1247409797-edit_wide-4d7c7ba8a030188f782b1f7ce8e4141718141231-s1400-c100.jpg",
+      "timestamp": "2023-03-08T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/02/22/1157106172/ukraine-russia-war-refugees-food-prices",
+      "headline": "The ripple effects of Russia's war in Ukraine continue to change the world",
+      "image": "https://media.npr.org/assets/img/2023/02/15/promo-static_wide-024299635db2ec84e1dd32fd17405e7cae24c774-s1400-c100.jpg",
+      "timestamp": "2023-03-02T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/saint-louis-senegal-climate-change/",
+      "headline": "Disappearing Saint-Louis",
+      "image": "https://apps.npr.org/saint-louis-senegal-climate-change/assets/synced/img/resized/10_DRONE_SENEGAL_SPAIN-2.jpg",
+      "timestamp": "2023-02-13T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/climate-migration-senegal-morocco-spain/",
+      "headline": "Climate ripples and the rise of the right",
+      "image": "https://apps.npr.org/climate-migration-senegal-morocco-spain/assets/synced/images/10_NPR_SENEGAL_MOROCCO_SPAIN_EDITSSELECT-44.jpg",
+      "timestamp": "2023-02-06T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/02/04/1152125147/lakers-pelicans-thunder-score-lebron-james-points-record-kareem-abdul-jabbar",
+      "headline": "Catching Kareem: How LeBron James chased down the NBA points record",
+      "image": "https://media.npr.org/assets/img/2023/01/27/gettyimages-1194196926_wide-c54d3e0644a279a8f4a85690a417643c3e524e74-s1400-c100.jpg",
+      "timestamp": "2023-02-04T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/01/26/1147894382/walmart-price-inflation-supply-chain-economy",
+      "headline": "What tracking one Walmart store's prices for years taught us about the economy",
+      "image": "https://media.npr.org/assets/img/2023/01/26/gettyimages-1245079814_wide-157e50b755c4278ad46f46a40b20c7e08ccc8c60-s1400-c100.jpg",
+      "timestamp": "2023-01-26T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2023/01/09/1145040599/ppp-loan-forgiveness",
+      "headline": "How the Paycheck Protection Program went from good intentions to a huge free-for-all",
+      "image": "https://media.npr.org/assets/img/2022/12/22/npr_ppp_loans-markharris_wide-117e6e4a81989fdfd06340d8652da02343af4534-s1400-c100.jpg",
+      "timestamp": "2023-01-09T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/12/26/1140731910/new-years-resolution-ideas",
+      "headline": "LifeKit's Resolution Planner: 40+ ideas and tips to start your New Year",
+      "image": "https://media.npr.org/assets/img/2022/12/15/untitled_artwork-10-_wide-s1400-c100.jpg",
+      "timestamp": "2022-12-26T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2022/12/21/1144491711/investigation-many-u-s-hospitals-sue-patients-for-debts-or-threaten-their-credit",
+      "headline": "Investigation: Many U.S. hospitals sue patients for debts or threaten their credit",
+      "image": "https://media.npr.org/assets/img/2022/12/20/hospitalmeddebt3_wide-s1400-c100.jpg",
+      "timestamp": "2022-12-21T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/12/12/1116469045/ballet-classes",
+      "headline": "How I discovered a love for ballet as an adult",
+      "image": "https://media.npr.org/assets/img/2022/12/09/adult-ballet_wide-s1400-c100.jpg",
+      "timestamp": "2022-12-12T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/12/10/1138710652/russian-war-crimes-ukraine-investigation",
+      "headline": "There have been 50,000 alleged war crimes in Ukraine. We worked to solve one",
+      "image": "https://media.npr.org/assets/img/2022/11/27/french-legionnaire-067-edit_wide-s1400-c100.jpg",
+      "timestamp": "2022-12-10T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/12/08/1140808263/what-does-the-respect-for-marriage-act-do-the-answer-will-vary-by-state",
+      "headline": "What does the Respect for Marriage Act do? The answer will vary by state.",
+      "image": "https://media.npr.org/assets/img/2022/12/06/rfma-seamus_wide-s1400-c100.png",
+      "timestamp": "2022-12-08T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/12/06/1138407917/best-music-of-2022",
+      "headline": "Best Music of 2022",
+      "image": "https://media.npr.org/assets/img/2022/12/06/npr-music-best-of-2022_wide-s1400-c100.jpg",
+      "timestamp": "2022-12-06T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/best-books/",
+      "headline": "Here are the Books We Love: 400+ great 2022 reads recommended by NPR",
+      "image": "https://media.npr.org/assets/img/2022/11/19/bwl-fall-2022_wide-s1400-c100.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/11/22/1138422560/the-next-round-of-counting-begins-in-alaska-heres-how-ranked-choice-voting-works",
+      "headline": "The next round of counting begins in Alaska. Here's how ranked-choice voting works",
+      "image": "https://media.npr.org/assets/img/2022/11/21/promo-min_wide-s1400-c100.jpg",
+      "timestamp": "2022-11-22T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/11/20/1137191467/recipes-food-holidays",
+      "headline": "Favorite family recipes and the stories that make them memorable",
+      "image": "https://media.npr.org/assets/img/2022/11/21/family-recipe-update-collection1_wide-s1400-c100.jpg",
+      "timestamp": "2022-11-20T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/11/17/1137398039/louisiana-voters-rejected-an-antislavery-ballot-measure-the-reason-is-complicate",
+      "headline": "Louisiana voters rejected an antislavery ballot measure. The reasons are complicated",
+      "image": "https://media.npr.org/assets/img/2022/11/17/la-seamus_wide-s1400-c100.png",
+      "timestamp": "2022-11-17T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/election-results-live-2022/",
+      "headline": "Election 2022 Live Results",
+      "image": "https://apps.npr.org/election-results-live-2022/assets/2022-live-results.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/10/24/1129919258/swatting-fake-school-shooter-calls-hoax-pattern",
+      "headline": "Those fake active shooter calls to schools? A similar thing happened before",
+      "image": "https://media.npr.org/assets/img/2022/10/21/ohio-swat-school_wide-s1400-c100.jpg",
+      "timestamp": "2022-10-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/10/08/1127302954/shutting-an-agency-managing-sprawl-might-have-put-more-people-in-hurricane-ians-",
+      "headline": "Shutting an agency managing sprawl might have put more people in Hurricane Ian's way",
+      "image": "https://media.npr.org/assets/img/2022/10/06/ap22279045364966_wide-s1400-c100.jpg",
+      "timestamp": "2022-10-08T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/08/31/1118328985/economics-quiz-questions-answers",
+      "headline": "How well do you understand the economy? Take our Summer School final quiz to find out",
+      "image": "https://media.npr.org/assets/img/2022/08/19/diploma12-01_wide-s1400-c100.jpg",
+      "timestamp": "2022-08-31T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/07/28/1107518744/nyc-miami-dc-climate-change-flooding",
+      "headline": "These hurricane flood maps reveal the climate future for Miami, NYC and D.C.",
+      "image": "https://media.npr.org/assets/img/2022/07/26/map-promo_wide.jpg?s=1400",
+      "timestamp": "2022-07-28T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/07/27/1112487312/georgia-voting-law-ballot-drop-box-access",
+      "headline": "A new Georgia voting law reduced ballot drop box access in places that used them most",
+      "image": "https://media.npr.org/assets/img/2022/07/27/ga-dropbox-promo-2_wide.png?s=1000",
+      "timestamp": "2022-07-27T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/07/20/1111253916/2022-best-games-so-far",
+      "headline": "The best games of 2022 so far, picked by the NPR staff",
+      "image": "https://media.npr.org/assets/img/2022/07/19/games-we-love_wide.jpg?s=1000",
+      "timestamp": "2022-07-20T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/07/14/1109345201/theres-a-massive-housing-shortage-across-the-u-s-heres-how-bad-it-is-where-you-l",
+      "headline": "There's a massive housing shortage across the U.S. Here's how bad it is where you live",
+      "image": "https://media.npr.org/assets/img/2022/07/13/gettyimages-1241774963_wide.jpg?s=1000",
+      "timestamp": "2022-07-14T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2022/06/16/1104969627/medical-debt-upended-their-lives-heres-what-it-took-from-them",
+      "headline": "Medical debt upended their lives. Here's what it took from them",
+      "image": "https://media.npr.org/assets/img/2022/06/17/medical-debt-interactive-1_wide.jpg?s=1000",
+      "timestamp": "2022-06-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2022/06/16/1104679219/medical-bills-debt-investigation",
+      "headline": "Sick and struggling to pay, 100 million people in the U.S. live with medical debt",
+      "image": "https://media.npr.org/assets/img/2022/06/15/world-of-debt_wide.jpg?s=1000",
+      "timestamp": "2022-06-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/covid-deaths-faces-songs-playlists/",
+      "headline": "Songs of Remembrance",
+      "image": "https://apps.npr.org/covid-deaths-faces-songs-playlists/assets/promo-bg-final-social.jpg",
+      "timestamp": "2022-05-18T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/05/09/1097583787/jenny-odell-how-to-pay-attention-tips-comic",
+      "headline": "How paying attention can help you appreciate what's right in front of you",
+      "image": "https://media.npr.org/assets/img/2022/05/09/4-min_wide.png?s=1000",
+      "timestamp": "2022-05-12T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/05/06/1096676197/7-persistent-claims-about-abortion-fact-checked",
+      "headline": "7 persistent claims about abortion, fact-checked",
+      "image": "https://media.npr.org/assets/img/2022/05/06/gettyimages-1240465664_wide.jpg?s=1000",
+      "timestamp": "2022-05-06T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/04/07/1091455113/how-to-handle-conflict-at-work",
+      "headline": "How to tackle workplace conflict head-on",
+      "image": "https://media.npr.org/assets/img/2022/04/12/lead-min1_wide.png?s=1000",
+      "timestamp": "2022-04-13T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/03/31/1087495900/echo-park-protest-lapd-journalist",
+      "headline": "When police cracked down on reporters on one chaotic night in LA's Echo Park",
+      "image": "https://media.npr.org/assets/img/2022/03/18/gettyimages-1309213211-edit_wide.jpg?s=1000",
+      "timestamp": "2022-03-31T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/03/11/1085427380/ukraine-nuclear-power-plant-zaporizhzhia",
+      "headline": "Video analysis reveals Russian attack on Ukrainian nuclear plant veered near disaster",
+      "image": "https://media.npr.org/assets/img/2022/03/11/ukraine-npp-assault_wide.jpg?s=1000",
+      "timestamp": "2022-03-11T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2022/02/25/1082249002/cdc-says-americans-can-now-go-unmasked-in-many-parts-of-the-country",
+      "headline": "CDC says Americans can now go unmasked in many parts of the country",
+      "image": "https://media.npr.org/assets/img/2022/02/25/seamus-covid-hotspot-20220225_wide.png?s=1000",
+      "timestamp": "2022-02-25T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2022/02/09/1079587715/whats-your-attachment-style-quiz",
+      "headline": "What's your attachment style? Take this quiz to find out",
+      "image": "https://media.npr.org/assets/img/2022/02/14/final_wide-8329f5f1ce9257f1b4296bde024d015deb8e9b42.jpg?s=1000",
+      "timestamp": "2022-02-15T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/goatsandsoda/2021/12/30/1068920127/the-goal-at-least-40-vaxxed-in-all-nations-by-year-end-this-map-shows-how-we-sta",
+      "headline": "The goal: at least 40% vaxxed in all nations by year-end. This map shows how we stand",
+      "image": "https://media.npr.org/assets/img/2021/12/29/covax-chart_16x9_v2_wide-54ff05541822583412632c57479184839b1b49a3.jpg?s=1000",
+      "timestamp": "2021-12-30T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/12/23/1065119898/movies-and-tv-2021",
+      "headline": "The best movies and TV of 2021, picked by NPR critics",
+      "image": "https://media.npr.org/assets/img/2021/12/22/end-of-year-best-2021_wide-4a1e05c58076a911ff1eb28ee28243db1faab7b3.jpg?s=1000",
+      "timestamp": "2021-12-23T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/goatsandsoda/2021/12/17/1065315661/omicron-may-be-less-severe-in-south-africa-that-may-not-be-the-case-for-the-u-s",
+      "headline": "Omicron may be less severe in South Africa. That may not be the case for the U.S.",
+      "image": "https://media.npr.org/assets/img/2021/12/17/reinfection-promo_wide-2d83b1a1fc5a6d40ef8b0b5b1d6d83e15fa2605c.png?s=1000",
+      "timestamp": "2021-12-17T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/12/09/1061182786/house-retirement-tracker-2022-congress-republicans-democrats",
+      "headline": "House retirement tracker: Senior Democrats exit as the GOP is confident of a takeover",
+      "image": "https://media.npr.org/assets/img/2021/12/03/triptych-1_wide-2122098bfffe71dd4a2169034b0cee5073db8f62.jpg?s=1000",
+      "timestamp": "2021-12-09T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/12/05/1059828993/data-vaccine-misinformation-trump-counties-covid-death-rate",
+      "headline": "Pro-Trump counties now have far higher COVID death rates. Misinformation is to blame",
+      "image": "https://media.npr.org/assets/img/2021/12/04/vaccines-republicans-promo_wide-73aecff077c04cd90d4bac7da93dcf87cbeb63c1.png?s=1000",
+      "timestamp": "2021-12-05T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/12/01/1059861219/center-left-group-claims-democrats-spending-package-would-save-families-thousand",
+      "headline": "Center-left group claims Democrats' spending package would save families thousands",
+      "image": "https://media.npr.org/assets/img/2021/11/30/gettyimages-1354043144_wide-01988d3d1fc922b14d1fc6ed74bff6260157124b.jpg?s=1100",
+      "timestamp": "2021-12-01T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/11/06/1051652687/jan-6-panel-and-subpoenas-committee-targets-witnesses-linked-to-day-of-attack",
+      "headline": "Jan. 6 subpoena tracker: Here's who the House select committee wants to hear from",
+      "image": "https://media.npr.org/assets/img/2021/11/03/ap_21293021597652_wide-cc9d91d8652920862e45c110239809aaaf3a4358.jpg?s=1100",
+      "timestamp": "2021-11-06T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/10/26/1049139818/covid-booster-shot-quiz",
+      "headline": "Booster quiz: Find out if you're eligible and which one to get",
+      "image": "https://media.npr.org/assets/img/2021/10/25/seamus-booster-quiz-20211024_wide-fe610e004767774302abc84f68b3626388a5c945.png?s=1000",
+      "timestamp": "2021-10-26T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/10/02/1042048780/stop-getting-interrupted-tips",
+      "headline": "Taking up space at work isn't easy. Here's how employees can speak up for one another",
+      "image": "https://media.npr.org/assets/img/2021/10/01/promo-min_wide-19aa2e137ebf6ec71dd51fcea67585385b64ce8d-s1100-c85.png",
+      "timestamp": "2021-10-02T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/09/15/1035011524/tv-movie-guide-what-to-watch",
+      "headline": "New Movies And TV Shows To Watch At Home This Fall",
+      "image": "https://media.npr.org/assets/img/2021/09/13/fall-preview-21_wide-6112ef993bd6566f3400b658f5ce638a94fce265-s1000-c85.jpg",
+      "timestamp": "2021-09-15T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/09/14/1035848090/california-recall-governor-newsom-results-elder",
+      "headline": "Gov. Newsom Keeps His Seat As A Majority Of California Voters Reject The Recall",
+      "image": "/img/posts/2021-09-14-ca-recall.png",
+      "timestamp": "2021-09-14T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/us-wildfires-impact-environment-climate-change/",
+      "headline": "United States of Wildfire",
+      "image": "https://apps.npr.org/us-wildfires-impact-environment-climate-change/assets/synced/images/map5-1000-7-social.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/07/28/1021795290/cdc-mask-guidelines-indoors-vaccinated-by-county-covid-spread",
+      "headline": "Do You Need To Wear A Mask Indoors Where You Live? Check This Map",
+      "image": "https://media.npr.org/assets/img/2021/08/20/screen-shot-2021-08-20-at-2.42.53-pm_wide-s1200.png",
+      "timestamp": "2021-07-28T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/sea-level-rise-silicon-valley/",
+      "headline": "Who Will Pay To Protect Tech Giants From Rising Seas?",
+      "image": "https://media.npr.org/assets/img/2021/07/27/sea-level-rise-sunnyvale_wide-s1200-c85.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/07/09/1014512213/covid-is-surging-in-new-hotspots-driven-by-low-vaccination-rates",
+      "headline": "Where Are The Newest COVID Hot Spots? Mostly Places With Low Vaccination Rates",
+      "image": "https://media.npr.org/assets/img/2021/07/09/seamus-covid-county-hotspot-20210707_wide.png?s=1200",
+      "timestamp": "2021-07-09T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/07/01/1010897265/as-western-wildfires-worsen-fema-is-denying-most-people-who-ask-for-help",
+      "headline": "As Western Wildfires Worsen, FEMA Is Denying Most People Who Ask For Help",
+      "image": "https://media.npr.org/assets/img/2021/06/30/20210630-2021-06-30-fema-millcreek-krossow-3388-edit_wide.jpg?s=1400",
+      "timestamp": "2021-07-01T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/joy-generator/",
+      "headline": "NPR's Joy Generator",
+      "image": "https://apps.npr.org/joy-generator/assets/synced/social/promo-pics-visualizer-1.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/06/01/996412589/where-we-come-from",
+      "headline": "Where We Come From",
+      "image": "https://media.npr.org/assets/img/2021/06/01/wwcf_wide.jpg?s=1400",
+      "timestamp": "2021-06-01T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/05/25/999874296/6-charts-that-dismantle-the-trope-of-asian-americans-as-a-model-minority",
+      "headline": "6 Charts That Dismantle The Trope Of Asian Americans As A Model Minority",
+      "image": "https://media.npr.org/assets/img/2021/05/24/fullsizeoutput_f5_wide.jpeg?s=1400",
+      "timestamp": "2021-05-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/codeswitch/2021/05/08/991535564/black-americans-and-the-racist-architecture-of-homeownership",
+      "headline": "Black Americans And The Racist Architecture Of Homeownership",
+      "image": "https://media.npr.org/assets/img/2021/05/07/npr_blockbusting_016_wide.jpg?s=1400",
+      "timestamp": "2021-05-08T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/04/26/983082132/census-to-release-1st-results-that-shift-electoral-college-house-seats",
+      "headline": "Here's How The 1st 2020 Census Results Changed Electoral College, House Seats",
+      "image": "https://media.npr.org/assets/img/2021/04/26/census_cartogram_promo_legend_wide.png?s=1400",
+      "timestamp": "2021-04-26T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/goatsandsoda/2021/04/25/987208356/comic-how-i-cope-with-pandemic-numbness",
+      "headline": "Comic: For My Job, I Check Death Tolls From COVID. Why Am I Numb To The Numbers?",
+      "image": "https://media.npr.org/assets/img/2021/04/26/numbness-promo-2_wide.png?s=1400",
+      "timestamp": "2021-04-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/memorial-interactive/",
+      "headline": "Enduring Loss",
+      "image": "https://apps.npr.org/memorial-interactive/assets/promo.png",
+      "timestamp": "2021-04-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/02/22/966428165/a-looming-disaster-new-data-reveal-where-flood-damage-is-an-existential-threat",
+      "headline": "A Looming Disaster: New Data Reveal Where Flood Damage Is An Existential Threat",
+      "image": "https://media.npr.org/assets/img/2021/02/18/park_dip_wide.jpg?s=1200",
+      "timestamp": "2021-02-22T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/02/18/967462483/how-herd-immunity-works-and-what-stands-in-its-way",
+      "headline": "How Herd Immunity Works — And What Stands In Its Way",
+      "image": "https://media.npr.org/assets/img/2021/02/17/herd-promo_wide.png?s=1200",
+      "timestamp": "2021-02-18T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/02/18/967448680/how-to-sign-up-for-a-covid-19-vaccine-in-your-state",
+      "headline": "How To Sign Up For A COVID-19 Vaccine In Your State",
+      "image": "https://media.npr.org/assets/img/2021/02/17/vaccine-distribution-01_wide.jpg?s=1200",
+      "timestamp": "2021-02-18T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/trump-impeachment-trial-live-updates/2021/02/08/964126236/heres-what-you-need-to-know-about-the-senate-impeachment-trial",
+      "headline": "Here's What You Need To Know About The Senate Impeachment Trial",
+      "image": "https://media.npr.org/assets/img/2021/02/09/screen-shot-2021-02-09-at-2.50.58-pm_wide.png?s=1200",
+      "timestamp": "2021-02-08T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/02/06/964527835/why-the-pandemic-is-10-times-worse-than-you-think",
+      "headline": "Why The Pandemic Is 10 Times Worse Than You Think",
+      "image": "https://media.npr.org/assets/img/2021/02/05/screen-shot-2021-02-05-at-2.00.26-pm_wide.png?s=1200",
+      "timestamp": "2021-02-06T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/president-biden-takes-office/2021/02/05/963837953/biden-pledged-historic-cabinet-diversity-heres-how-his-nominees-stack-up",
+      "headline": "Biden Pledged Historic Cabinet Diversity. Here's How His Nominees Stack Up",
+      "image": "https://media.npr.org/assets/img/2021/02/06/seamus-biden-cabinet-breakdown-20201221_wide.png?s=1200",
+      "timestamp": "2021-02-05T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2021/02/05/962946721/across-the-south-covid-19-vaccine-sites-missing-from-black-and-hispanic-neighbor",
+      "headline": "Across The South COVID-19 Vaccine Sites Missing From Black And Hispanic Neighborhoods",
+      "image": "https://media.npr.org/assets/img/2021/02/05/screen-shot-2021-02-04-at-6.45.35-pm1_wide.png?s=1200",
+      "timestamp": "2021-02-05T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/01/28/960901166/how-is-the-covid-19-vaccination-campaign-going-in-your-state",
+      "headline": "How Is The COVID-19 Vaccination Campaign Going In Your State?",
+      "image": "https://media.npr.org/assets/img/2021/02/21/screen-shot-2021-02-21-at-7.57.11-am_wide.png?s=1200",
+      "timestamp": "2021-01-28T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2021/01/13/956504515/u-k-variant-could-drive-a-new-surge-in-the-u-s-experts-warn",
+      "headline": "CDC Warns New U.K. Coronavirus Variant Is Spreading Fast In The U.S.",
+      "image": "https://media.npr.org/assets/img/2021/01/13/gettyimages-1230361811_wide.jpg?s=1200",
+      "timestamp": "2021-01-13T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/12/31/950071851/comic-how-the-census-turns-into-political-power-and-what-trump-wants-to-change",
+      "headline": "COMIC: How Your State Gets Power Via The Census (And What Trump Wants To Change)",
+      "image": "https://media.npr.org/assets/img/2020/12/30/promo_wide.jpg?s=1200",
+      "timestamp": "2020-12-31T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/12/09/944379919/new-data-reveal-which-hospitals-are-dangerously-full-is-yours",
+      "headline": "Many Hospitals Are Still Overwhelmed By COVID-19 Patients. Is Yours?",
+      "image": "https://media.npr.org/assets/img/2021/02/09/seamus-covid-hosp-county-graphic-20201207_wide.png?s=1200",
+      "timestamp": "2020-12-09T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/11/17/933848488/biden-administration-heres-who-has-been-nominated",
+      "headline": "How Biden Won: Ramping Up The Base And Expanding Margins In The Suburbs",
+      "image": "https://media.npr.org/assets/img/2020/11/17/screen-shot-2020-11-17-at-11.35.01-am_wide.png?s=1200",
+      "timestamp": "2020-11-18T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/11/13/934372249/philadelphias-suburbs-helped-deliver-crucial-pennsylvania-for-biden",
+      "headline": "Philadelphia's Suburbs Helped Deliver Crucial Pennsylvania For Biden",
+      "image": "https://media.npr.org/assets/img/2020/11/13/pa-swing-promo1_wide.png?s=1200",
+      "timestamp": "2020-11-13T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/11/10/933253317/covid-19-hospitalizations-are-surging-where-are-hospitals-reaching-capacity",
+      "headline": "COVID-19 Hospitalizations Hit Record Highs. Where Are Hospitals Reaching Capacity?",
+      "image": "https://media.npr.org/assets/img/2020/11/10/gettyimages-1226434048_wide.jpg?s=1200",
+      "timestamp": "2020-11-10T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/11/06/930897912/many-places-hard-hit-by-covid-19-leaned-more-toward-trump-in-2020-than-2016",
+      "headline": "Many Places Hard Hit By COVID-19 Leaned More Toward Trump In 2020 Than 2016",
+      "image": "https://media.npr.org/assets/img/2020/11/05/screen-shot-2020-11-05-at-6.41.23-pm_wide.png?s=1200",
+      "timestamp": "2020-11-06T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/elections20-interactive/",
+      "headline": "2020 Election Results Live",
+      "image": "https://apps.npr.org/elections20-interactive/assets/social.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/goatsandsoda/2020/10/09/918815890/portraits-of-resilience-how-19-women-around-the-globe-face-the-pandemic",
+      "headline": "Portraits Of Resilience: How 19 Women Around The Globe Face The Pandemic",
+      "image": "https://media.npr.org/assets/img/2020/10/09/grid_photos_wide.png?s=1200",
+      "timestamp": "2020-10-09T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/10/01/915793729/can-the-u-s-use-its-growing-supply-of-rapid-tests-to-stop-the-virus",
+      "headline": "Can The U.S. Use Its Growing Supply Of Rapid Tests To Stop The Virus?",
+      "image": "https://media.npr.org/assets/img/2020/09/30/gettyimages-1269132586_wide.jpg?s=800",
+      "timestamp": "2020-10-01T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/09/23/914427907/as-pandemic-deaths-add-up-racial-disparities-persist-and-in-some-cases-worsen",
+      "headline": "As Pandemic Deaths Add Up, Racial Disparities Persist — And In Some Cases Worsen",
+      "image": "https://media.npr.org/assets/img/2020/09/23/race-disparities-promo-sept1_wide.png?s=800",
+      "timestamp": "2020-09-23T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/09/23/915723316/1-in-7-americans-have-experienced-dangerous-air-quality-due-to-wildfires-this-ye",
+      "headline": "1 In 7 Americans Have Experienced Dangerous Air Quality Due To Wildfires This Year",
+      "image": "https://media.npr.org/assets/img/2020/09/22/sat-county1_wide.png?s=800",
+      "timestamp": "2020-09-23T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/09/22/914578634/americas-200-000-covid-19-deaths-small-cities-and-towns-bear-a-growing-share",
+      "headline": "America's 200,000 COVID-19 Deaths: Small Cities And Towns Bear A Growing Share",
+      "image": "https://media.npr.org/assets/img/2020/09/21/screen-shot-2020-09-21-at-6.06.19-pm_wide.png?s=800",
+      "timestamp": "2020-09-22T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/09/21/793177589/gasping-for-air-autopsies-reveal-troubling-effects-of-lethal-injection",
+      "headline": "Gasping For Air: Autopsies Reveal Troubling Effects Of Lethal Injection",
+      "image": "https://media.npr.org/assets/img/2020/09/08/lethal-injection-1_wide.jpg?s=800",
+      "timestamp": "2020-09-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/09/14/909338758/map-mail-in-voting-rules-by-state",
+      "headline": "Mail-In Voting Rules By State — And The Deadlines You Need",
+      "image": "https://media.npr.org/assets/img/2020/09/12/seamus-voting-laws-20200831_wide.png?s=800",
+      "timestamp": "2020-09-14T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/fukushima/",
+      "headline": "The Ghost Towns Behind The Gates",
+      "image": "https://media.npr.org/assets/img/2020/08/27/_dsc3493-edit_wide-35a415f16f6c1b8554f43b18fd2a66251e2cf6f2-s1200.jpg",
+      "timestamp": "2020-09-08T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/liveblogs/20200824-rnc/",
+      "headline": "Republican National Convention 2020",
+      "image": "https://media.npr.org/assets/img/2020/08/21/rnc_convention_liveblog_web-1-_wide.jpg",
+      "timestamp": "2020-08-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/liveblogs/20200817-dnc/",
+      "headline": "Democratic National Convention 2020",
+      "image": "https://media.npr.org/assets/img/2020/08/12/dnc-live-blog_wide.jpg",
+      "timestamp": "2020-08-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/08/03/893190275/states-are-broke-and-many-are-eyeing-massive-cuts-heres-how-yours-is-doing",
+      "headline": "States Are Broke And Many Are Eyeing Massive Cuts. Here's How Yours Is Doing",
+      "image": "https://media.npr.org/assets/img/2020/08/02/state-budgets-promo_wide.png?s=800",
+      "timestamp": "2020-08-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/07/20/891854646/whales-get-a-break-as-pandemic-creates-quieter-oceans",
+      "headline": "Whales Get A Break As Pandemic Creates Quieter Oceans",
+      "image": "https://media.npr.org/assets/img/2020/07/16/gbnp-cmg-20180920-1-187_wide.jpg?s=800",
+      "timestamp": "2020-07-20T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/06/30/883703403/as-coronavirus-surges-how-much-testing-does-your-state-need-to-subdue-the-virus",
+      "headline": "As Coronavirus Surges, How Much Testing Does Your State Need To Subdue The Virus?",
+      "image": "https://media.npr.org/assets/img/2020/06/30/seamus-covid-testing-states-20200625_wide.png?s=800",
+      "timestamp": "2020-06-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/06/18/877460056/minneapolis-has-a-bold-plan-to-tackle-racial-inequity-now-it-has-to-follow-throu",
+      "headline": "Minneapolis Has A Bold Plan To Tackle Racial Inequity. Now It Has To Follow Through",
+      "image": "https://media.npr.org/assets/img/2020/06/18/minneapolis-promo_wide.png?s=800",
+      "timestamp": "2020-06-18T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/06/10/868082337/from-rent-freezes-to-liquor-buybacks-how-states-are-helping-people-cope",
+      "headline": "From Rent Freezes To Liquor Buybacks: How States Are Helping People Cope",
+      "image": "https://media.npr.org/assets/img/2020/06/03/ap_20094696094886-edit_wide.jpg?s=800",
+      "timestamp": "2020-06-10T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/05/30/865413079/what-do-coronavirus-racial-disparities-look-like-state-by-state",
+      "headline": "What Do Coronavirus Racial Disparities Look Like State By State?",
+      "image": "https://media.npr.org/assets/img/2020/05/30/racial-disparities-promo3_wide.png?s=800",
+      "timestamp": "2020-05-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/05/27/862215848/across-texas-black-and-hispanic-neighborhoods-have-fewer-coronavirus-testing-sit",
+      "headline": "In Large Texas Cities, Access To Coronavirus Testing May Depend On Where You Live",
+      "image": "https://media.npr.org/assets/img/2020/05/26/screen-shot-2020-05-26-at-9.13.43-pm_wide.png?s=800",
+      "timestamp": "2020-05-27T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/05/20/858347477/money-tracker-how-much-trump-and-biden-have-raised-in-the-2020-election",
+      "headline": "Money Tracker: How Much Trump And Biden Have Raised In The 2020 Election",
+      "image": "https://media.npr.org/assets/img/2020/05/20/campaign_finance_tracker_graphic_wide-30e034e796c93400a469dc2bdb6c93ed3af97a4a.jpg?s=800",
+      "timestamp": "2020-05-20T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/05/19/854760999/traffic-is-way-down-due-to-lockdowns-but-air-pollution-not-so-much",
+      "headline": "Traffic Is Way Down Because Of Lockdown, But Air Pollution? Not So Much",
+      "image": "https://media.npr.org/assets/img/2020/05/18/pollution-promo_wide.png?s=800",
+      "timestamp": "2020-05-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/05/15/854774681/congress-has-approved-3-trillion-for-coronavirus-relief-so-far-heres-a-breakdown",
+      "headline": "Here's How Much Congress Has Approved For Coronavirus Relief So Far And What It's For",
+      "image": "https://media.npr.org/assets/img/2020/05/15/screen-shot-2020-05-15-at-12.22.55-pm_wide.png?s=800",
+      "timestamp": "2020-05-15T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/coronavirus-live-updates/2020/05/08/852430930/one-for-the-history-books-14-7-unemployment-20-5-million-jobs-wiped-away",
+      "headline": "One For The History Books: 14.7% Unemployment, 20.5 Million Jobs Wiped Away",
+      "image": "https://media.npr.org/assets/img/2020/05/08/seamus-unemployment-20200507_wide.png?s=800",
+      "timestamp": "2020-05-08T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/05/07/851610771/u-s-coronavirus-testing-still-falls-short-hows-your-state-doing",
+      "headline": "U.S. Coronavirus Testing Still Falls Short. How's Your State Doing?",
+      "image": "https://media.npr.org/assets/img/2020/05/06/seamus-covid-testing-states-20200429_wide.png?s=800",
+      "timestamp": "2020-05-07T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/04/28/846736937/we-asked-all-50-states-about-their-contact-tracing-capacity-heres-what-we-learne",
+      "headline": "We Asked All 50 States About Their Contact Tracing Capacity. Here's What We Learned",
+      "image": "https://media.npr.org/assets/img/2020/05/07/inkedcapture_li_wide.jpg?s=800",
+      "timestamp": "2020-04-28T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/04/24/842025982/why-the-warning-that-coronavirus-was-on-the-move-in-u-s-cities-came-so-late",
+      "headline": "Why The Warning That Coronavirus Was On The Move In U.S. Cities Came So Late",
+      "image": "https://media.npr.org/assets/img/2020/04/23/gettyimages-1205157092_wide.jpg?s=800",
+      "timestamp": "2020-04-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/04/21/837348551/timeline-what-trump-has-said-and-done-about-the-coronavirus",
+      "headline": "Timeline: What Trump Has Said And Done About The Coronavirus",
+      "image": "https://media.npr.org/assets/img/2020/04/20/trump_v_gov_11_wide-e25bc45f41cafb37b60007c5126c219c14ceac0e.jpg?s=800",
+      "timestamp": "2020-04-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/04/15/833692377/how-the-coronavirus-has-affected-individual-members-of-congress",
+      "headline": "How The Coronavirus Has Affected Individual Members Of Congress",
+      "image": "https://media.npr.org/assets/img/2020/04/14/gettyimages-1209799486_wide-e0956a75eef4a7c0482550218fbe4670e8035eff.jpg?s=800",
+      "timestamp": "2020-04-15T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/04/07/825479416/new-yorks-coronavirus-deaths-may-level-off-soon-when-might-your-state-s-peak",
+      "headline": "Coronavirus State-By-State Projections: When Will Each State Peak?",
+      "image": "https://media.npr.org/assets/img/2020/04/08/screen-shot-2020-04-08-at-3.09.17-pm_wide.png?s=800",
+      "timestamp": "2020-04-07T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/goatsandsoda/2020/03/30/822491838/coronavirus-world-map-tracking-the-spread-of-the-outbreak",
+      "headline": "Coronavirus World Map: Tracking The Spread Of The Outbreak",
+      "image": "https://media.npr.org/assets/img/2020/10/05/seamus-coronavirus-d3-world-map-20200323_wide.png?s=800",
+      "timestamp": "2020-03-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2020/09/01/816707182/map-tracking-the-spread-of-the-coronavirus-in-the-u-s",
+      "headline": "Coronavirus Maps: How Severe Is Your State's Outbreak?",
+      "image": "https://media.npr.org/assets/img/2020/10/05/seamus-coronavirus-d3-us-map-20200312_wide-c810dfe6537c8b8b86280d34142743d3aaf5f711.png?s=800",
+      "timestamp": "2020-03-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/liveblogs/20200303-super-tuesday/",
+      "headline": "Super Tuesday 2020: Live Results And Analysis",
+      "image": "https://media.npr.org/assets/liveblog/20200303-super-tuesday/SuperTues_LiveBlog_WEB_new2-s1200.jpg",
+      "timestamp": "2020-03-03T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2020/02/10/799979293/how-many-delegates-do-the-2020-presidential-democratic-candidates-have",
+      "headline": "How Many Delegates Do The 2020 Democratic Presidential Candidates Have?",
+      "image": "https://media.npr.org/assets/img/2020/03/02/delegate_tracker_graphic_artboard-1_wide-28bbd782d83d9da91b2828fa30e7ec5b58337445.jpg?s=800",
+      "timestamp": "2020-02-11T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/liveblogs/20200203-iowa/",
+      "headline": "Iowa Caucuses 2020: Live Results And Analysis",
+      "image": "https://media.npr.org/assets/liveblog/20200203-iowa/Iowa_LiveBlog_WEB-s1200.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2019/12/31/787235305/how-a-senate-impeachment-trial-could-work",
+      "headline": "'Your Body Being Used': Where Prisoners Who Can't Vote Fill Voting Districts",
+      "image": "https://media.npr.org/assets/img/2019/12/24/4-18-19_wauponcorrectionalinstitution2031_wide-s1200.jpg",
+      "timestamp": "2019-12-31T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/ellicott-city/",
+      "headline": "After The Water",
+      "image": "/img/ellicott.jpg",
+      "timestamp": "2019-11-07T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2019/11/09/776173492/the-whistleblower-complaint-has-largely-been-corroborated-heres-how",
+      "headline": "The Whistleblower Complaint Has Largely Been Corroborated. Here's How.",
+      "image": "/img/apps/whistleblower.png",
+      "timestamp": "2019-11-09T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2019/09/03/754044732/as-rising-heat-bakes-u-s-cities-the-poor-often-feel-it-most",
+      "headline": "As Rising Heat Bakes U.S. Cities, The Poor Often Feel It Most",
+      "image": "/img/apps/heat-poverty.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/plastics-recycling/",
+      "headline": "Plastics: What's Recyclable, What Becomes Trash — And Why",
+      "image": "/img/plastics.jpg",
+      "timestamp": "2019-08-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/mongolia/",
+      "headline": "Losing The Eternal Blue Sky",
+      "image": "/img/mongolia.jpg",
+      "timestamp": "2019-08-05T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/white-lies/",
+      "headline": "White Lies",
+      "image": "/img/whitelies.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/best-books-2018/",
+      "headline": "NPR's Book Concierge",
+      "image": "/img/books18.jpg",
+      "timestamp": "2018-11-27T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/11/11/563064990/6-women-veterans-recall-their-military-service-it-was-just-the-thing-to-do",
+      "headline": "6 Women Veterans Recall Their Military Service: 'It Was Just The Thing To Do'",
+      "image": "/img/apps/women-veterans.jpg",
+      "timestamp": "2017-11-11T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/11/07/561597910/trumps-2016-victory-speech-annotated-1-year-later",
+      "headline": "Trump's 2016 Victory Speech, Annotated 1 Year Later",
+      "image": "/img/apps/trump-annot-one-year.png",
+      "timestamp": "2017-11-07T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/codeswitch/2017/11/05/561876519/theres-an-immigration-gap-in-how-latinos-perceive-discrimination",
+      "headline": "There's An Immigration Gap In How Latinos Perceive Discrimination",
+      "image": "/img/apps/latinos-you-drag-it.png",
+      "timestamp": "2017-11-05T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/codeswitch/2017/11/04/560934698/indonesias-youth-share-thoughts-on-religion-identity-and-dreams",
+      "headline": "Indonesia's Youth Share Thoughts On Religion, Identity And Dreams",
+      "image": "/img/apps/indonesia-youth.jpg",
+      "timestamp": "2017-11-04T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/parallels/2017/11/03/561560174/the-pigeon-racers-of-indonesia",
+      "headline": "The Pigeon Racers Of Indonesia",
+      "image": "/img/apps/indonesia-pigeons.jpg",
+      "timestamp": "2017-11-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/11/02/561639579/chart-how-the-tax-overhaul-would-affect-you",
+      "headline": "CHART: How The Republican Tax Overhaul Would Affect You",
+      "image": "/img/apps/tax-law-comparison.png",
+      "timestamp": "2017-11-02T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/parallels/2017/10/31/558367028/photos-a-tranquil-ferry-between-indonesian-islands",
+      "headline": "A Tranquil Ferry Between Indonesian Islands",
+      "image": "/img/apps/indonesia-ferry.jpg",
+      "timestamp": "2017-10-31T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/10/30/559069878/a-sergeants-mission-to-return-home-to-puerto-rico",
+      "headline": "A Sergeant's Mission To Return Home To Puerto Rico",
+      "image": "/img/apps/maria-sergeant.jpg",
+      "timestamp": "2017-10-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/codeswitch/2017/10/25/559015355/how-black-americans-see-discrimination",
+      "headline": "How Black Americans See Discrimination",
+      "image": "/img/apps/you-drag-it.png",
+      "timestamp": "2017-10-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/ed/2017/10/07/548510200/what-s-changed-in-south-carolina-schools-since-violent-student-arrest",
+      "headline": "Two Years After A Violent Altercation At A S.C. High School, Has Anything Changed?",
+      "image": "/img/apps/school-police.png",
+      "timestamp": "2017-10-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/10/14/557415870/a-home-to-big-cats-and-raccoons-recovers-after-hurricane-irma",
+      "headline": "A Home To Big Cats And Raccoons Recovers After Hurricane Irma",
+      "image": "/img/apps/irma-cats.jpg",
+      "timestamp": "2017-10-14T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/therecord/2017/10/13/554024950/views-from-the-no-rubbish-rock-in-japan-festival",
+      "headline": "Views From: The 'No Rubbish' Rock In Japan Festival",
+      "image": "/img/apps/music-festival-japan.png",
+      "timestamp": "2017-10-13T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/parallels/2017/10/12/557178036/whats-next-for-the-iran-nuclear-deal-if-president-trump-refuses-to-recertify-it",
+      "headline": "What's Next For The Iran Nuclear Deal If President Trump Refuses To Recertify It?",
+      "image": "/img/apps/iran-nuclear-deal.png",
+      "timestamp": "2017-10-12T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/parallels/2017/10/07/555871670/80-years-on-dominicans-and-haitians-revisit-painful-memories-of-parsley-massacre",
+      "headline": "80 Years On, Dominicans And Haitians Revisit Painful Memories Of Parsley Massacre",
+      "image": "/img/apps/haiti-massacre.jpg",
+      "timestamp": "2017-10-10T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/10/05/555796327/following-disaster-teams-in-puerto-rico",
+      "headline": "112 Degrees With No Water: Puerto Rican Hospitals Battle Life And Death Daily",
+      "image": "/img/apps/maria-hospital.jpg",
+      "timestamp": "2017-10-05T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/09/27/553898689/with-bottles-and-buckets-puerto-ricans-seek-the-water-to-survive",
+      "headline": "With Bottles And Buckets, Puerto Ricans Seek The Water To Survive",
+      "image": "/img/apps/maria-water.jpg",
+      "timestamp": "2017-09-27T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/09/25/553553882/you-have-to-try-puerto-ricans-without-power-find-ways-forward",
+      "headline": "'You Have To Try': Puerto Ricans, Without Power, Find Ways Forward",
+      "image": "/img/apps/maria-way-forward.jpg",
+      "timestamp": "2017-09-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/09/22/552581042/views-from-warped-tours-23rd-year",
+      "headline": "Views From: Warped Tour's 23rd Year",
+      "image": "/img/apps/warped-tour.jpg",
+      "timestamp": "2017-09-22T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2017/09/21/552561822/graham-cassidy-health-bill-would-take-funds-from-states-that-expanded-medicaid",
+      "headline": "Graham-Cassidy Health Bill Would Shift Funds From States That Expanded Medicaid",
+      "image": "/img/apps/graham-cassidy-bill.png",
+      "timestamp": "2017-09-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/09/17/551494408/one-week-after-irma-floridians-pick-up-the-pieces",
+      "headline": "One Week After Irma, Floridians Pick Up The Pieces",
+      "image": "/img/apps/irma-week-later.jpg",
+      "timestamp": "2017-09-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/09/12/550424499/before-and-after-satellite-images-show-irmas-caribbean-destruction",
+      "headline": "Before And After: Satellite Images Show Irma's Caribbean Destruction",
+      "image": "/img/apps/irma-before-after.png",
+      "timestamp": "2017-09-12T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/09/09/549808792/french-brothers-serve-croissants-and-coffee-ahead-of-hurricane-irma",
+      "headline": "As Irma Approaches Miami, Twin Brothers Serve Up Last-Minute Coffee And Croissants",
+      "image": "/img/apps/irma-twins.jpg",
+      "timestamp": "2017-09-09T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/09/09/549426420/coastal-vietnamese-community-leans-on-faith-and-each-other-to-rebuild-after-harv",
+      "headline": "Coastal Vietnamese Community Leans On Faith, And Each Other, To Rebuild After Harvey",
+      "image": "/img/apps/harvey-vietnamese-community.jpg",
+      "timestamp": "2017-09-09T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/09/03/548105631/harvey-s-devastation-hits-home-as-residents-return-to-flooded-neighborhoods",
+      "headline": "Harvey's Devastation Hits Home As Residents Return To Flooded Neighborhoods",
+      "image": "/img/apps/harvey-residents-return.jpg",
+      "timestamp": "2017-09-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/09/01/547992600/early-data-from-harvey-shows-epic-flooding",
+      "headline": "Early Data From Harvey Shows Epic Flooding",
+      "image": "/img/apps/harvey-flood-data.png",
+      "timestamp": "2017-09-01T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/09/01/547688960/before-and-after-dramatic-satellite-photos-show-texas-towns-underwater",
+      "headline": "Before And After: Dramatic Satellite Photos Show Texas Towns Underwater",
+      "image": "/img/apps/harvey-before-after.png",
+      "timestamp": "2017-09-01T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/codeswitch/2017/09/01/543411917/they-built-their-own-boating-shangri-la-preserving-it-may-be-just-as-hard",
+      "headline": "They Built Their Own Boating 'Shangri-La.' Preserving It May Be Just As Hard",
+      "image": "/img/apps/seafarers.jpg",
+      "timestamp": "2017-09-01T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/08/31/547505976/in-houston-floods-push-impoverished-residents-into-crisis",
+      "headline": "In Houston, Floods Push Impoverished Residents Into Crisis",
+      "image": "/img/apps/harvey-crisis.jpg",
+      "timestamp": "2017-08-31T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/08/31/547586512/at-al-salam-mosque-in-houston-all-are-welcome",
+      "headline": "At Al-Salam Mosque In Houston, All Are Welcome",
+      "image": "/img/apps/harvey-mosque.jpg",
+      "timestamp": "2017-08-31T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/08/29/547006980/water-tops-houston-dams-spillway-as-harvey-drifts-toward-louisiana",
+      "headline": "5 Deaths In Houston Blamed On Harvey; Other Deaths Being Investigated",
+      "image": "/img/apps/harvey-precipitation.png",
+      "timestamp": "2017-08-29T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/ed/2017/08/27/544423483/estoy-aprendiendo-english-una-historieta-en-dos-idiomas",
+      "headline": "Estoy Aprendiendo English: Una Historieta En Dos Idiomas",
+      "image": "/img/apps/ell-comic-spanish.png",
+      "timestamp": "2017-08-27T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/08/21/545038935/watch-live-trump-s-address-on-afghanistan-next-steps-for-u-s-engagement",
+      "headline": "Full Text And Analysis: Trump's Address On Afghanistan, Plans For U.S. Engagement",
+      "image": "/img/apps/trump-tweets.jpg",
+      "timestamp": "2017-08-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/thetwo-way/2017/08/21/544239796/live-coverage-follow-the-solar-eclipse",
+      "headline": "Live Coverage: Follow The Solar Eclipse",
+      "image": "/img/apps/eclipse.png",
+      "timestamp": "2017-08-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/08/17/544145281/between-swimming-and-smores-young-muslim-campers-learn-to-cope-with-rising-hosti",
+      "headline": "Between Swimming And S'mores, Young Muslim Campers Learn To Cope With Rising Hate",
+      "image": "/img/apps/muslim-youth-camp.jpg",
+      "timestamp": "2017-08-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/07/27/539506529/mapping-coastal-flood-risk-lags-behind-sea-level-rise",
+      "headline": "Mapping Coastal Flood Risk Lags Behind Sea Level Rise",
+      "image": "/img/apps/fema-flood.png",
+      "timestamp": "2017-07-27T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/goatsandsoda/2017/07/25/538539473/new-report-shows-64-of-195-countries-arent-meeting-basic-vaccination-target",
+      "headline": "New Report Shows 64 Of 195 Countries Aren't Meeting A Basic Vaccination Target",
+      "image": "/img/apps/vaccine-map.jpg",
+      "timestamp": "2017-07-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/07/17/536708576/natural-gas-building-boom-fuels-climate-worries-enrages-landowners",
+      "headline": "Natural Gas Building Boom Fuels Climate Worries, Enrages Landowners",
+      "image": "/img/apps/pipeline-map.png",
+      "timestamp": "2017-07-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/goatsandsoda/2017/07/11/526777542/web-comic-the-scientist-who-escaped-aleppo",
+      "headline": "Web Comic: A Scientist Runs For His Life And Finds His Dream",
+      "image": "/img/apps/comic-aleppo-scientist.png",
+      "timestamp": "2017-07-11T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/health-shots/2017/07/10/535851043/faq-how-would-the-republican-health-care-bills-affect-you",
+      "headline": "FAQ: How Would The Republican Health Care Bills Affect You?",
+      "image": "/img/apps/ahca-faq.png",
+      "timestamp": "2017-07-10T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/2017/07/04/535420301/official-white-house-twitter-accounts-stay-on-message-while-trump-strays",
+      "headline": "Official White House Twitter Accounts Stay On Message While Trump Strays",
+      "image": "/img/apps/white-house-tweets.png",
+      "timestamp": "2017-07-04T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/ed/2017/06/28/534396017/i-am-learning-ingl-s-a-dual-language-comic",
+      "headline": "I Am Learning Inglés: A Dual-Language Comic",
+      "image": "/img/apps/ell-comic.jpg",
+      "timestamp": "2017-06-28T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/health-shots/2017/06/27/534465505/chart-cbo-weighs-who-wins-who-loses-with-senate-health-care-bill",
+      "headline": "CBO Weighs Who Wins, Who Loses With Senate Health Care Bill",
+      "image": "/img/apps/bcra.png",
+      "timestamp": "2017-06-27T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/06/25/533982860/people-of-coal-rich-northern-cheyenne-torn-between-jobs-and-sacred-culture",
+      "headline": "People Of Coal-Rich Northern Cheyenne Torn Between Jobs And Sacred Culture",
+      "image": "/img/apps/cheyenne.jpg",
+      "timestamp": "2017-06-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/alltechconsidered/2017/06/15/532973451/the-investor-who-took-on-uber-and-silicon-valley",
+      "headline": "The Investor Who Took On Uber, And Silicon Valley",
+      "image": "/img/apps/uber.jpg",
+      "timestamp": "2017-06-15T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/06/09/531562283/not-a-random-attack-new-details-emerge-from-investigation-of-slain-npr-journalists",
+      "headline": "Not A Random Attack: New Details Emerge From Investigation Of Slain NPR Journalists",
+      "image": "/img/apps/afghanistan.jpg",
+      "timestamp": "2017-06-09T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/06/05/530519844/most-mass-shootings-are-smaller-domestic-tragedies",
+      "headline": "Most Mass Shootings Are Smaller, Domestic Tragedies",
+      "image": "/img/apps/mass-shootings.png",
+      "timestamp": "2017-06-05T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/06/02/526417478/the-trump-russia-comey-imbroglio-it-s-complicated",
+      "headline": "Learn More About The Trump-Russia Imbroglio",
+      "image": "/img/apps/russia-cards.png",
+      "timestamp": "2017-06-02T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/06/03/531044118/there-may-not-be-flying-but-quidditch-still-creates-magic",
+      "headline": "There May Not Be Flying, But Quidditch Still Creates Magic",
+      "image": "/img/apps/quidditch.jpg",
+      "timestamp": "2017-06-03T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/idp-georgia/",
+      "headline": "Refugees In Their Own Country",
+      "image": "/img/apps/georgia-irakli.jpg",
+      "timestamp": "2017-05-31T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/thesalt/2017/05/25/529563157/ramen-rock-these-japanese-punk-legends-sing-about-food",
+      "headline": "Ramen Rock: These Japanese Punk Legends Sing About Food",
+      "image": "/img/apps/shonen-knife.jpg",
+      "timestamp": "2017-05-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/thetwo-way/2017/05/20/528778286/a-kingdom-on-wheels-the-hidden-world-that-made-the-circus-happen",
+      "headline": "'A Kingdom On Wheels': The Hidden World That Made The Circus Happen",
+      "image": "/img/apps/circus-claire.jpg",
+      "timestamp": "2017-05-20T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/05/19/528672217/from-the-big-top-into-the-big-world-a-ringling-ringmasters-final-bow",
+      "headline": "From The Big Top Into The Big World: A Ringling Ringmaster's Final Bow",
+      "image": "/img/apps/circus-marian.jpg",
+      "timestamp": "2017-05-19T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/ed/2017/05/12/520111511/the-promise-and-peril-of-school-vouchers",
+      "headline": "The Promise And Peril Of School Vouchers",
+      "image": "/img/apps/vouchers.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/05/10/527660512/section-8-vouchers-help-the-poor-but-only-if-housing-is-available",
+      "headline": "Section 8 Vouchers Help The Poor — But Only If Housing Is Available",
+      "image": "/img/apps/section8.jpg",
+      "timestamp": "2017-05-10T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/05/09/527046451/affordable-housing-program-costs-more-shelters-less",
+      "headline": "Affordable Housing Program Costs More, Shelters Fewer",
+      "image": "/img/apps/lihtc.jpg",
+      "timestamp": "2017-05-09T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/04/30/526095105/president-trumps-first-100-days-in-photos",
+      "headline": "President Trump's First 100 Days, In Photos",
+      "image": "/img/apps/trump-100-days-photos.jpg",
+      "timestamp": "2017-04-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/04/24/520159167/trumps-100-day-action-plan-annotated",
+      "headline": "Trump's 100-Day Plan, Annotated: Where His Promises Stand",
+      "image": "/img/apps/trump-100-days.jpg",
+      "timestamp": "2017-04-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/04/21/524881332/in-the-wake-of-princes-death",
+      "headline": "In The Wake Of Prince's Death",
+      "image": "/img/apps/prince.jpg",
+      "timestamp": "2017-04-21T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/health-shots/2017/04/14/522956939/maps-show-a-dramatic-rise-health-in-insurance-coverage-under-aca",
+      "headline": "Maps Show A Dramatic Rise In Health Insurance Coverage Under ACA",
+      "image": "/img/apps/uninsured.jpg",
+      "timestamp": "2017-04-14T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/money/2017/04/07/522897876/meet-botus-planet-money-s-stock-trading-twitter-bot",
+      "headline": "BOTUS",
+      "image": "/img/apps/botus.jpg",
+      "timestamp": "2017-04-07T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/03/22/520317690/health-care-plan-championed-by-trump-hurts-counties-that-voted-for-him",
+      "headline": "Health Care Plan Championed By Trump Hurts Counties That Voted For Him",
+      "image": "/img/apps/trump-counties.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/03/10/519629973/new-health-care-bill-find-out-where-your-member-of-congress-stands",
+      "headline": "Find Out Where Members Of Congress Stand On The Health Care Bill",
+      "image": "/img/apps/congress-ahca.jpg",
+      "timestamp": "2017-03-10T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/thetwo-way/2017/03/08/517561046/how-americas-idea-of-illegal-immigration-doesnt-always-match-reality",
+      "headline": "How America's Idea Of Illegal Immigration Doesn't Always Match Reality",
+      "image": "/img/apps/immigration.png",
+      "timestamp": "2017-03-08T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/02/28/516717981/watch-live-trump-addresses-joint-session-of-congress",
+      "headline": "Trump's Address To Joint Session Of Congress, Annotated",
+      "image": "/img/apps/trump-annotation.jpg",
+      "timestamp": "2017-02-28T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/02/25/517003866/trump-and-cpac-a-complicated-relationship-no-more",
+      "headline": "Trump And CPAC: A Complicated Relationship No More",
+      "image": "/img/apps/cpac-2017.jpg",
+      "timestamp": "2017-02-25T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/ed/2017/02/23/512451228/5-million-english-language-learners-a-vast-pool-of-talent-at-risk",
+      "headline": "English Language Learners: How Your State Is Doing",
+      "image": "/img/apps/ell-charts.png",
+      "timestamp": "2017-02-23T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/thetwo-way/2017/02/22/516448749/protesters-leave-dakota-access-pipeline-area-some-stay-and-are-arrested",
+      "headline": "Protesters Leave Dakota Access Pipeline Area; Some Stay And Are Arrested",
+      "image": "/img/apps/dapl-photo.jpg",
+      "timestamp": "2017-02-22T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/02/17/513724796/trump-ethics-monitor-has-the-president-kept-his-promises",
+      "headline": "Trump Ethics Monitor: Has The President Kept His Promises?",
+      "image": "/img/apps/trump-ethics.png",
+      "timestamp": "2017-02-17T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/goatsandsoda/2017/02/07/512634375/map-find-out-what-new-viruses-are-emerging-in-your-backyard",
+      "headline": "Find Out What New Viruses Are Emerging In Your Backyard",
+      "image": "/img/apps/pandemics.jpg",
+      "timestamp": "2017-02-07T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/02/07/504020003/a-funeral-may-cost-you-thousands-less-just-by-crossing-the-street",
+      "headline": "You Could Pay Thousands Less For A Funeral Just By Crossing The Street",
+      "image": "/img/apps/deathcare.jpg",
+      "timestamp": "2017-02-07T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/02/01/512860167/congress-tracker-trumps-refugee-and-immigration-executive-order",
+      "headline": "Where Does Your Member Of Congress Stand On Trump's Immigration Order?",
+      "image": "/img/apps/immigration-wnyc.jpg",
+      "timestamp": "2017-02-01T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/01/27/511216062/president-trumps-tweets-annotated",
+      "headline": "President Trump's Tweets In His First 100 Days, Annotated",
+      "image": "/img/apps/trump-tweets.jpg",
+      "timestamp": "2017-01-27T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/01/20/510746700/donald-trump-sworn-in-as-the-45th-president-of-the-united-states",
+      "headline": "In Inaugural Address, Trump Decries 'Carnage' And Promises 'America First'",
+      "image": "/img/apps/inauguration-2017-photos.jpg",
+      "timestamp": "2017-01-20T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2017/01/20/509703637/live-coverage-donald-trumps-presidential-inauguration",
+      "headline": "Live Coverage: Inauguration Day 2017",
+      "image": "/img/apps/inauguration-2017.jpg",
+      "timestamp": "2017-01-20T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/12/27/503052538/when-residents-take-ownership-a-mobile-home-community-thrives",
+      "headline": "When Residents Take Ownership, A Mobile Home Community Thrives",
+      "image": "/img/apps/mobile-home-2.jpg",
+      "timestamp": "2016-12-27T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/12/26/502590161/mobile-home-park-owners-can-spoil-an-affordable-american-dream",
+      "headline": "Mobile Home Park Owners Can Spoil An Affordable American Dream",
+      "image": "/img/apps/mobile-home.jpg",
+      "timestamp": "2016-12-26T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/thetwo-way/2016/12/22/504031635/you-say-you-re-an-american-but-what-if-you-had-to-prove-it-or-be-deported",
+      "headline": "You Say You're An American, But What If You Had To Prove It Or Be Deported?",
+      "image": "/img/apps/citizens-deported.jpg",
+      "timestamp": "2016-12-22T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/12/19/504998487/transcript-and-video-nprs-exit-interview-with-president-obama",
+      "headline": "NPR's Exit Interview With President Obama",
+      "image": "/img/apps/obama-exit-interview.jpg",
+      "timestamp": "2016-12-19T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/12/13/503867756/months-after-pulse-shooting-there-is-a-wound-on-the-entire-community",
+      "headline": "Months After Pulse Shooting: 'There Is A Wound On The Entire Community'",
+      "image": "/img/apps/pulse-revisit.jpg",
+      "timestamp": "2016-12-13T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/12/11/505147166/in-their-own-words-the-water-protectors-of-standing-rock",
+      "headline": "In Their Own Words: The 'Water Protectors' Of Standing Rock",
+      "image": "/img/apps/standing-rock.jpg",
+      "timestamp": "2016-12-11T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/best-books-2016/",
+      "headline": "NPR's Book Concierge 2016",
+      "image": "/img/apps/book-concierge-2016.jpg",
+      "timestamp": "2016-12-06T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/best-music-2016/",
+      "headline": "The Best Music Of 2016",
+      "image": "/img/apps/best-music-2016.png",
+      "timestamp": "2016-12-05T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/12/05/503611249/trumps-businesses-and-potential-conflicts-sorting-it-out",
+      "headline": "Trump's Businesses And Potential Conflicts: Sorting It Out",
+      "image": "/img/apps/trump-conflicts.png",
+      "timestamp": "2016-12-05T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/11/15/502032052/lots-of-people-voted-for-obama-and-trump-heres-where-in-3-charts",
+      "headline": "The Counties That Flipped From Obama To Trump, In 3 Charts",
+      "image": "/img/apps/election-flipped-2016.png",
+      "timestamp": "2016-11-15T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/11/09/501384911/photos-the-emotional-arc-of-a-political-upset",
+      "headline": "The Emotional Arc Of A Political Upset",
+      "image": "/img/apps/election-night-2016.jpg",
+      "timestamp": "2016-11-09T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/11/08/500927768/2016-presidential-election-results-for-each-state",
+      "headline": "Election Night 2016",
+      "image": "/img/apps/wh-liveblog.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/10/19/498293478/fact-check-trump-and-clinton-s-final-presidential-debate",
+      "headline": "Fact Check And Full Transcript Of The Final 2016 Presidential Debate",
+      "image": "/img/apps/debates-2016.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/parallels/2016/09/17/494069828/the-hopes-security-and-fears-bears-of-syrian-refugees-in-new-jersey",
+      "headline": "The Hopes (Security) And Fears (Bears) Of Syrian Refugees In New Jersey",
+      "image": "/img/apps/syrian-refugees.jpg",
+      "timestamp": "2016-09-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/mental-health/",
+      "headline": "A Silent Epidemic",
+      "image": "/img/apps/mental-health.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/ed/2016/08/16/486091625/racing-the-middle-school-brain",
+      "headline": "On A Mission To Race The Middle School Brain",
+      "image": "/img/apps/kinetic.gif",
+      "timestamp": "2016-08-16T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/08/05/488518797/at-the-portrait-gallery-students-tell-the-stories-that-pictures-cant",
+      "headline": "At The Portrait Gallery, Students Tell The Stories That Pictures Can't",
+      "image": "/img/apps/portrait-gallery.jpg",
+      "timestamp": "2016-08-05T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/07/29/487954029/photos-dissent-drama-and-unity-at-the-democratic-convention",
+      "headline": "Dissent, Drama And Unity At The Democratic Convention",
+      "image": "/img/apps/dnc-2016.jpg",
+      "timestamp": "2016-07-29T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/health-shots/2016/07/23/486769691/cosplayers-use-costume-to-unleash-their-superpowers",
+      "headline": "Cosplayers Use Costume To Unleash Their Superpowers",
+      "image": "/img/apps/cosplay.jpg",
+      "timestamp": "2016-07-23T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/07/22/486992883/true-believers-protesters-and-trump-scenes-from-cleveland",
+      "headline": "True Believers, Protesters And Trump: Scenes From Cleveland",
+      "image": "/img/apps/rnc-2016.jpg",
+      "timestamp": "2016-07-22T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/rockymountain-vr/",
+      "headline": "Standing At The Edge Of Geologic Time",
+      "image": "/img/apps/geology.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/thetwo-way/2016/07/15/485835272/the-driving-life-and-death-of-philando-castile",
+      "headline": "The Driving Life And Death Of Philando Castile",
+      "image": "/img/apps/philando-castile.png",
+      "timestamp": "2016-07-15T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/06/30/483687093/the-270-project-try-to-predict-who-will-win-the-election",
+      "headline": "The 270 Project: Try To Predict Who Will Win The Election",
+      "image": "/img/apps/election-simulator.png",
+      "timestamp": "2016-06-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/thetorch/2016/06/30/483838674/a-gifted-high-jumper-gets-set-to-leap-onto-the-world-stage",
+      "headline": "A Gifted High Jumper Gets Set To Leap Onto The World Stage",
+      "image": "/img/apps/olympics-long-jump.jpg",
+      "timestamp": "2016-06-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/06/16/482322488/orlando-shooting-what-happened-update",
+      "headline": "3 Hours In Orlando: Piecing Together An Attack And Its Aftermath",
+      "image": "/img/apps/orlando-shootings.jpg",
+      "timestamp": "2016-06-26T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/find-lead-pipes-in-your-home/",
+      "headline": "Find Lead Pipes In Your Home",
+      "image": "/img/apps/lead-pipes.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/alltechconsidered/2016/06/17/482483537/semi-automatic-weapons-without-a-background-check-can-be-just-a-click-away",
+      "headline": "Semi-Automatic Weapons Without A Background Check Can Be Just A Click Away",
+      "image": "/img/apps/armslist.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/thetorch/2016/06/14/482055722/a-fantasy-of-a-fantasy-u-s-fencer-jason-pryor-on-reaching-the-olympics",
+      "headline": "'A Fantasy Of A Fantasy': U.S. Fencer Jason Pryor On Reaching The Olympics",
+      "image": "/img/apps/olympics-fencing.jpg",
+      "timestamp": "2016-06-14T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/goatsandsoda/2016/05/25/478251493/five-days-and-five-nights-with-doctors-without-borders",
+      "headline": "Five Days And Five Nights With Doctors Without Borders",
+      "image": "/img/apps/south-sudan.jpg",
+      "timestamp": "2016-05-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/parallels/2016/05/20/478387211/in-indias-sundarbans-people-and-tigers-try-to-coexist-in-a-shrinking-space",
+      "headline": "In India's Sundarbans, People And Tigers Try To Coexist In A Shrinking Space",
+      "image": "http://media.npr.org/assets/img/2016/05/19/sunderbans-01538edit_wide.jpg?s=1500",
+      "timestamp": "2016-05-20T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/05/13/477930821/indias-big-battle-development-vs-pollution",
+      "headline": "India's Big Battle: Development Vs. Pollution",
+      "image": "/img/apps/india-air-quality.png",
+      "timestamp": "2016-05-13T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/05/11/477415686/can-indias-sacred-but-dead-yamuna-river-be-saved",
+      "headline": "Can India's Sacred But 'Dead' Yamuna River Be Saved?",
+      "image": "http://media.npr.org/assets/img/2016/05/10/yamuna_042216_river_dpg-01_22846302edit_wide.jpg?s=1500",
+      "timestamp": "2016-05-11T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/05/01/476224759/is-there-a-better-way-to-pay-for-americas-schools",
+      "headline": "Is There A Better Way To Pay For America's Schools?",
+      "image": "/img/apps/school-funding-ranges.png",
+      "timestamp": "2016-05-01T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/parallels/2016/03/04/465127717/missing-the-search-for-a-sister-in-china",
+      "headline": "Missing: The Search For A Sister In China",
+      "image": "https://media.npr.org/assets/img/2016/02/01/npr---sisters_wide-824f69527f3bf826d0caccf0c3aaac11d2f6c94f.jpg?s=400",
+      "timestamp": "2016-03-04T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/04/30/476064078/when-immigrants-commit-crimes-they-can-be-punished-twice",
+      "headline": "A Remote Town, A Closed-Off Courtroom, And A Father Facing Deportation",
+      "image": "https://media.npr.org/assets/img/2016/04/29/immigration-detention-center_wide-7025ca2a706832854c5188f7a35b4581fe1b32ad.jpg?s=400",
+      "timestamp": "2016-04-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/04/24/472702464/in-service-a-photographer-examines-the-flip-side-of-power",
+      "headline": "In 'Service,' A Celebrated Photographer Turns His Lens On U.S. Troops",
+      "image": "https://media.npr.org/assets/img/2016/04/21/section60-promo_wide-e79f78a3c8e9ef7cf7eddbe56e95d0926f61e0b1.jpg?s=400",
+      "timestamp": "2016-04-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/04/23/473501069/for-oldest-armenians-a-glimpse-of-a-homeland-lost-but-not-forgotten",
+      "headline": "For Oldest Armenians, A Glimpse Of A Homeland Lost But Not Forgotten",
+      "image": "https://media.npr.org/assets/img/2016/04/22/movses-1915-01_wide-d738dd26887f54bac18e67d10e79fedda4b49ede.jpg?s=400",
+      "timestamp": "2016-04-23T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/04/18/474256366/why-americas-schools-have-a-money-problem",
+      "headline": "Why America's Schools Have A Money Problem",
+      "image": "http://www.npr.org/news/graphics/2016/04/school-funding/map-us.png",
+      "timestamp": "2016-04-18T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/04/14/473806134/how-do-we-get-our-drinking-water-in-the-u-s",
+      "headline": "How Do We Get Our Drinking Water In The U.S.?",
+      "image": "https://media.npr.org/assets/img/2016/04/11/watertreatmentexplainer_wide-5d084ff605c21cdd23661cc5d3fa3aa7433d0eef.png?s=400",
+      "timestamp": "2016-04-14T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/03/28/470522433/welcome-to-rent-court-where-tenants-can-face-a-tenuous-fate",
+      "headline": "Welcome To Rent Court, Where Tenants Can Face A Tenuous Fate",
+      "image": "https://media.npr.org/assets/img/2016/03/16/courtroom_wide-8a052ecbcf5abaeecb31cd8c914e45566b2d5e0d.jpg?s=400",
+      "timestamp": "2016-03-28T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/03/22/471423692/brussels-attacks-what-happened-in-photos-and-maps",
+      "headline": "Brussels Attacks: What Happened, In Photos And Maps",
+      "image": "/img/apps/brussels.png",
+      "timestamp": "2016-03-22T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/03/18/470918125/obama-refusal-to-consider-nominee-damages-publics-faith-in-the-judiciary",
+      "headline": "Why President Obama Picked The 'Only White Guy' On His Shortlist",
+      "image": "https://media.npr.org/assets/img/2016/03/18/obama-01_wide-bd5365f9065b0b462293e0eb36e0c3b80eca70ec.jpg?s=400",
+      "timestamp": "2016-03-18T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/parallels/2016/03/11/469857023/5-years-after-japan-disasters-temporary-housing-is-feeling-permanent",
+      "headline": "5 Years After Japan Disasters, 'Temporary' Housing Is Feeling Permanent",
+      "image": "https://media.npr.org/assets/img/2016/03/10/okhr_fukushima_npr_016_wide-1b37f7bcb2f6f641057070d299e88910f6b51b04.jpg?s=400",
+      "timestamp": "2016-03-11T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/sections/codeswitch/2016/02/22/466144152/hey-sci-fi-and-comics-fans-it-s-time-to-embrace-the-dark-side",
+      "headline": "Hey, Sci-Fi And Comics Fans: It's Time To Embrace The Dark Side",
+      "image": "https://media.npr.org/assets/img/2016/02/18/npr-feb16-diversity-superheroes-final_wide-a1a53af69b1e3fa2ddbb10c698512e381ebb9de2.jpg?s=400",
+      "timestamp": "2016-02-22T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2016/02/08/465767796/when-every-drop-of-water-could-be-poison-a-flint-mothers-story",
+      "headline": "When Every Drop Of Water Could Be Poison: A Flint Mother's Story",
+      "image": "https://media.npr.org/assets/img/2016/02/08/npr_flint_52-edit_wide-1735810aa405cab3c979eafdaf1f63e6d01f0594.jpg?s=400",
+      "timestamp": "2016-02-08T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://elections2016.npr.org.s3-website-us-east-1.amazonaws.com/",
+      "headline": "Elections 2016",
+      "image": "/img/apps/elections2016.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/best-songs-2015/",
+      "headline": "Songs We Love 2015",
+      "image": "http://apps.npr.org/best-songs-2015/assets/img/facebook-share-15-2.jpg",
+      "timestamp": "2015-12-15T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/best-books-2015/",
+      "headline": "Book Concierge 2015",
+      "image": "http://apps.npr.org/best-books-2015/assets/img/covers.jpg",
+      "timestamp": "2015-12-08T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/brazil/",
+      "headline": "Rain Forest Was Here",
+      "image": "http://apps.npr.org/lookatthis/posts/brazil/assets/take1/promo4.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2015/10/20/450221327/among-the-lucky-few-syrian-family-rebuilds-in-americas-heartland",
+      "headline": "Among The Lucky Few: Syrian Family Rebuilds In America's Heartland",
+      "image": "https://media.npr.org/assets/img/2015/10/20/toledo_101415_refugee_dg11_22690111-edit1_wide-873f5707962238cd1534545d93d383b46ac90c89.jpg?s=1400",
+      "timestamp": "2015-10-20T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2015/09/24/440859459/why-nonstop-travel-in-personal-pods-has-yet-to-take-off",
+      "headline": "Why Nonstop Travel In Personal Pods Has Yet To Take Off",
+      "image": "https://media.npr.org/assets/img/2015/09/16/ackermangruber_personaltransit_023-edit_wide-9be6746e89da0035130d7377963b4e1ea6e2579b.jpg?s=1400",
+      "timestamp": "2015-09-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/al-qassemi/",
+      "headline": "Arab Art Redefined",
+      "image": "http://apps.npr.org/lookatthis/posts/al-qassemi/assets/promo.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2015/08/23/433575293/ravages-of-heroin-addiction-haunt-friends-families-and-whole-towns",
+      "headline": "Ravages Of Heroin Addiction Haunt Friends, Families And Whole Towns",
+      "image": "https://media.npr.org/assets/img/2015/08/22/20150820_mcgarvey_marion_2967-edit_wide-4ffc735103a29407ff05d525c4f9e61431f90ed8.jpg?s=1400",
+      "timestamp": "2015-08-23T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/yemen/",
+      "headline": "The Unthinkable",
+      "image": "http://apps.npr.org/lookatthis/posts/yemen/assets/final-edit/lead-art.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2015/08/06/427718240/a-rarity-reclaimed-stolen-stradivarius-recovered-after-35-years",
+      "headline": "A Rarity Reclaimed: Stolen Stradivarius Recovered After 35 Years",
+      "image": "https://media.npr.org/assets/img/2015/08/04/ames-stradivari---all-certificates-and-papers-16_wide-2f0087454988802c6860cddaca77137fe1917783.jpg?s=400",
+      "timestamp": "2015-08-06T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/album-art/",
+      "headline": "What Does Music Look Like?",
+      "image": "http://apps.npr.org/lookatthis/posts/album-art/assets/lead-art.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://www.npr.org/sections/ed/2016/09/29/427138970/the-most-popular-high-school-plays-and-musicals",
+      "headline": "The Most Popular High School Plays And Musicals",
+      "image": "/img/apps/high-school-musicals.png",
+      "timestamp": "2015-07-30T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/afghan-teens/",
+      "headline": "A Girl Can Dream",
+      "image": "http://apps.npr.org/lookatthis/posts/afghan-teens/assets/grid.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/best-songs-2015-so-far",
+      "headline": "Songs We Love 2015... So Far",
+      "image": "http://apps.npr.org/best-songs-2015-so-far/assets/img/facebook-share.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/series/417162462/world-war-ii-secret-mustard-gas-testing",
+      "headline": "World War II Secret Mustard Gas Testing",
+      "image": "http://media.npr.org/assets/img/2015/06/18/rollins-edwards-historical_wide-6d3c5d7153f4691294958680079f98f1a6989aee-s500-c85.jpg",
+      "timestamp": "2015-06-22T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/grad-rates",
+      "headline": "The Truth About America's Graduation Rate",
+      "image": "http://apps.npr.org/grad-rates/assets/lead-art.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/whales",
+      "headline": "Drowned Out",
+      "image": "http://apps.npr.org/lookatthis/posts/whales/assets/lead-art.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/bus-station",
+      "headline": "The Bus Station",
+      "image": "http://apps.npr.org/lookatthis/posts/bus-station/assets/lead-art.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/spacepix",
+      "headline": "A Photo I Love: Reid Wiseman",
+      "image": "http://apps.npr.org/lookatthis/posts/spacepix/assets/fb.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/austin/",
+      "headline": "The Austin 100",
+      "image": "http://apps.npr.org/austin/assets/img/austin100_facebook.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/harrisloves",
+      "headline": "A Photo I Love",
+      "image": "http://apps.npr.org/lookatthis/posts/harrisloves/assets/fb.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/life-after-death/",
+      "headline": "Life After Death",
+      "image": "http://apps.npr.org/life-after-death/assets/facebook-share.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/syria/",
+      "headline": "Can't Go Home",
+      "image": "http://apps.npr.org/syria/assets/img/facebook-thumb.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/lovestory/",
+      "headline": "Look At This: A Brother And Sister In Love",
+      "image": "http://apps.npr.org/lookatthis/posts/lovestory/assets/fb.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/series/385540559/injured-nurses",
+      "headline": "Injured Nurses",
+      "image": "http://media.npr.org/assets/img/2015/01/30/img_0435-1-_wide-72451817b8862e9e814c2530c3b2776c72500fbc-s400-c85.jpg",
+      "timestamp": "2015-02-04T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/publichousing/",
+      "headline": "Demolished: The End Of Chicago's Public Housing",
+      "image": "http://apps.npr.org/lookatthis/posts/publichousing/assets/facebook-share.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/naughty-or-nice/",
+      "headline": "Naughty Or Nice",
+      "image": "http://www.npr.org/assets/img/2014/12/19/naughty-or-nice14_sq.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/best-songs-2014/",
+      "headline": "Songs We Love 2014",
+      "image": "http://apps.npr.org/best-songs-2014/assets/img/facebook-share.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/best-books-2014/",
+      "headline": "NPR's Book Concierge",
+      "image": "http://apps.npr.org/best-books-2014/assets/img/covers.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/mystkowski-loves/",
+      "headline": "A Photo I Love",
+      "image": "http://apps.npr.org/lookatthis/posts/mystkowski-loves/assets/pil_share.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://elections2014.npr.org/",
+      "headline": "NPR Election Party",
+      "image": "http://elections2014.npr.org/assets/facebook.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/bats/",
+      "headline": "Bat Sounds",
+      "image": "http://apps.npr.org/bats/assets/bats_share_image_sq.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/blogs/health/2014/10/24/357584372/video-what-women-get-flak-for-when-they-talk",
+      "headline": "Talking While Female",
+      "image": "http://media.npr.org/assets/img/2014/10/23/or7-1919cf7206a33084f2dec1b4e4492ba7bc050c12.jpg?s=300",
+      "timestamp": "2014-10-24T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/colors/",
+      "headline": "Look At This: This Is Color",
+      "image": "http://apps.npr.org/lookatthis/posts/colors/assets/colors_share_image_sq.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/plastic/",
+      "headline": "Look At This: Plastic Rebirth",
+      "image": "http://apps.npr.org/lookatthis/posts/plastic/assets/plastic_share_image_sq.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/lookatthis/posts/veterans/",
+      "headline": "Look At This: What Do Homeless Vets Look Like?",
+      "image": "http://apps.npr.org/lookatthis/veterans/assets/veterans_share_image_sq.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/the-end-of-neighborhood-schools/",
+      "headline": "The End Of Neighborhood Schools",
+      "image": "http://apps.npr.org/the-end-of-neighborhood-schools/assets/img/nola_share_image_sq.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/behind-the-civil-rights-act/",
+      "headline": "Behind The Civil Rights Act",
+      "image": "http://blog.apps.npr.org/img/civilrightsact.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/commencement/",
+      "headline": "The Best Commencement Speeches, Ever",
+      "image": "http://apps.npr.org/commencement/quote-images/john-f-kennedy-yale-university-1962.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/buzkashi/",
+      "headline": "Buzkashi",
+      "image": "http://apps.npr.org/buzkashi/assets/img/twitter.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/borderland/",
+      "headline": "Borderland",
+      "image": "http://apps.npr.org/borderland/assets/img/facebook.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/grave-science/",
+      "headline": "Grave Science",
+      "image": "http://apps.npr.org/grave-science/assets/img/jpac/promo-twitter.jpg",
+      "timestamp": "2014-03-06T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/wolves/",
+      "headline": "Wolves At The Door",
+      "image": "http://apps.npr.org/wolves/img/wolf-twitter.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2014/01/29/266757131/welcome-to-oil-country-a-modern-day-gold-rush-in-north-dakota",
+      "headline": "Oil Boom: See A Modern-Day Gold Rush In Motion",
+      "image": "http://media.npr.org/assets/img/2014/01/28/goldrig_sq.jpg",
+      "timestamp": "2014-01-29T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/music-memoriam-2013/",
+      "headline": "In Memoriam: Musicians And Entertainers Who Died In 2013",
+      "image": "http://apps.npr.org/music-memoriam-2013/img/promo-facebook.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/affordable-care-act-questions/",
+      "headline": "Your Questions About The Affordable Care Act",
+      "image": "http://apps.npr.org/affordable-care-act-questions/img/promo2.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/best-books-2013/",
+      "headline": "NPR's Book Concierge",
+      "image": "http://apps.npr.org/best-books-2013/img/facebook.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/tshirt/",
+      "headline": "Planet Money Makes A T-Shirt",
+      "image": "http://apps.npr.org/tshirt/img/social-thumb.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/playgrounds/",
+      "headline": "Playgrounds For Everyone",
+      "image": "http://apps.npr.org/playgrounds/img/og-image-playgrounds.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/okkervil-river/",
+      "headline": "Growing Up In Meriden: Behind Okkervil River's new album",
+      "image": "http://apps.npr.org/okkervil-river/img/okkervil-river.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/moore-oklahoma-tornado-damage/",
+      "headline": "Zoom In On Oklahoma Tornado Damage",
+      "image": "http://apps.npr.org/moore-oklahoma-tornado-damage/img/moore-ok.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/deals-for-developers-wamu/",
+      "headline": "Deals for Developers, Cash for Campaigns: A WAMU Investigation",
+      "image": "http://apps.npr.org/deals-for-developers-wamu/img/day1crane.jpg",
+      "timestamp": "2013-05-20T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/arrested-development/",
+      "headline": "Previously, On Arrested Development",
+      "image": "http://apps.npr.org/arrested-development/img/promo-facebook.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/teenage-diaries/",
+      "headline": "Teenage Diaries Revisited",
+      "image": "http://apps.npr.org/teenage-diaries/img/melissa_facebook.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/buried-in-grain/",
+      "headline": "Buried In Grain",
+      "image": "http://apps.npr.org/buried-in-grain/img/grain-bin.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/oscars-2013/",
+      "headline": "Oscar Party!",
+      "image": "http://media.npr.org/assets/img/2013/02/22/ap100306122316_sq-6aaf3b3754e09b8dcd0bd3151830019bba911834-s3.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/state-of-the-union-2013/",
+      "headline": "State of the Union",
+      "image": "http://media.npr.org/assets/img/2012/01/24/sotu01_sq-s2.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2013/01/27/170253360/pride-and-prejudice-turns-200",
+      "headline": "'Pride And Prejudice' Turns 200: A Cartoon Celebration",
+      "image": "http://media.npr.org/assets/img/2013/01/26/pg1-rgb_wide-dd0704a6c5d914b0e7615f4cd4550cd3d6bc59b4.jpg",
+      "timestamp": "2013-01-27T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/inauguration/",
+      "headline": "Inauguration 2013",
+      "image": "../img/apps/inauguration.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/sotomayor-family-photos/",
+      "headline": "From The Bronx To The Bench: The Family Photos Of Justice Sotomayor",
+      "image": "../img/apps/sotomayor.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/bob-boilens-wristbands-2012/",
+      "headline": "Bob Boilen's Wristbands 2012",
+      "image": "http://apps.npr.org/bob-boilens-wristbands-2012/img/tiles/2/3/2.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/music-memoriam-2012/",
+      "headline": "NPR Music Presents: In Memoriam 2012",
+      "image": "http://media.npr.org/assets/img/2012/12/20/in-memoriam-promo_sq.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://stateimpact.npr.org/pennsylvania/boomtown/",
+      "headline": "BoomTown",
+      "image": "http://stateimpact.npr.org/pennsylvania/boomtown/img/flower-bridge.jpg",
+      "timestamp": "2012-12-10T05:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://elections2012.npr.org/",
+      "headline": "Election 2012: Live Coverage From NPR News",
+      "image": "http://media.npr.org/news/specials/2012/elections/election-promo_sq.gif",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/swing-state-scorecard/",
+      "headline": "Election 2012: Swing State Scorecard : NPR",
+      "image": "http://media.npr.org/news/specials/2012/elections/electris-promo_sq.gif",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2012/10/02/161884952/pop-up-politics-2012-general-election-edition",
+      "headline": "Pop-Up Politics: Beyond The Speeches",
+      "image": "http://media.npr.org/assets/img/2012/10/01/pop-up-promo-b529f9ae6381924b4a1874c14237dcb01c1c83ba.jpg",
+      "timestamp": "2012-10-02T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/2012-second-presidential-debate/",
+      "headline": "Live Coverage of the 2012 Presidential Conventions and Debates",
+      "image": "http://media.npr.org/news/specials/2012/elections/debate_sq.png",
+      "timestamp": "2013-10-01T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/early-voting-2012/",
+      "headline": "Election 2012 Early And Absentee Voting",
+      "image": "http://media.npr.org/news/specials/2012/elections/early-voting_sq.gif",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/news/specials/2012/cushman/",
+      "headline": "Lost and Found : The amazing story of Charles Cushman in full color",
+      "image": "http://media.npr.org/news/specials/2012/cushman/img/cush-photos/goldengate1938.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://apps.npr.org/fire-forecast/",
+      "headline": "Fire Forecast",
+      "image": "http://npr.org/news/graphics/2012/08/firemap.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/blogs/health/2012/07/25/156991065/track-the-spread-of-aids-across-the-globe",
+      "headline": "Track The Spread Of AIDS Across The Globe",
+      "image": "http://media.npr.org/assets/img/2012/07/19/aidspromoart-300866beced9debbd8e7cb79f1d24a2e1e58e001.jpg",
+      "timestamp": "2012-07-25T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2012/07/17/156837673/interactive-the-anatomy-of-human-tissue-profits",
+      "headline": "The Anatomy Of Human Tissue Profits",
+      "image": "../img/apps/bone.gif",
+      "timestamp": "2012-07-17T04:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "http://www.npr.org/2012/07/18/156989764/interactive-mapping-the-u-s-drought",
+      "headline": "Mapping The U.S. Drought",
+      "image": "http://media.npr.org/assets/img/2012/07/19/2012-07-10-1dd502b157c4bc06097ec34345949ed809c466b9.png",
+      "timestamp": null
+    },
     {
       "publication": "NPR",
       "twitterHandle": "nprviz",

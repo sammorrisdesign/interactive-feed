@@ -356,6 +356,16 @@
       "blueSkyHandle": "npr.org",
       "sources": [
         {
+          "type": "Website",
+          "path": "https://blog.apps.npr.org/work/",
+          "selector": "article",
+          "url": "h3 a",
+          "headline": "h3 a",
+          "timestamp": ".post-meta ul li",
+          "image": "img",
+          "domain": "npr.org"
+        },
+        {
           "type": "BlueSky",
           "handle": "npr.org",
           "filters": {
@@ -488,17 +498,6 @@
       "publication": "SB Nation"
     },
     {
-      "publication": "SRF",
-      "twitterHandle": "srfnews",
-      "sources": [
-        {
-          "type": "XML",
-          "format": "RSS",
-          "path": "https://www.srf.ch/news/bnf/rss/20210660"
-        }
-      ]
-    },
-    {
       "publication": "Seattle Times",
       "twitterHandle": "seattletimes",
       "sources": [
@@ -523,7 +522,15 @@
       ]
     },
     {
-      "publication": "SRF"
+      "publication": "SRF",
+      "twitterHandle": "srfnews",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.srf.ch/news/bnf/rss/20210660"
+        }
+      ]
     },
     {
       "publication": "Süddeutsche Zeitung"
@@ -574,22 +581,6 @@
       "publication": "Tampa Bay Times"
     },
     {
-      "publication": "Texas Tribune",
-      "twitterHandle": "TexasTribune",
-      "blueSkyHandle": "texastribune.bsky.social",
-      "sources": [
-        {
-          "type": "Website",
-          "path": "https://www.texastribune.org/series/news-apps-graphics-databases/",
-          "selector": "article.type-post",
-          "url": ".entry-title a",
-          "headline": ".entry-title a",
-          "timestamp": ".entry-date",
-          "timestampAttribute": "datetime"
-        }
-      ]
-    },
-    {
       "publication": "Texas Monthly",
       "twitterHandle": "TexasMonthly",
       "blueSkyHandle": "texasmonthly.bsky.social",
@@ -603,6 +594,22 @@
               "url": "/interactive"
             }
           }
+        }
+      ]
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.texastribune.org/series/news-apps-graphics-databases/",
+          "selector": "article.type-post",
+          "url": ".entry-title a",
+          "headline": ".entry-title a",
+          "timestamp": ".entry-date",
+          "timestampAttribute": "datetime"
         }
       ]
     },

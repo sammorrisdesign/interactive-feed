@@ -255,7 +255,6 @@ const fetchers = {
           return new Article({
             publication: feed.publication,
             twitterHandle: feed.twitterHandle,
-  
             blueSkyHandle: feed.blueSkyHandle,
             url: url,
             headline: $(article).find(feed.headline).text(),
