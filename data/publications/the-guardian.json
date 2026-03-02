@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-02T09:44:19.071Z",
+  "lastUpdated": "2026-03-02T11:29:49.285Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/02/how-to-use-ai-practically",
+      "headline": "There’s a lot to hate about AI. But what if there was a mindful way to use it?",
+      "image": "https://i.guim.co.uk/img/media/b6c180e27f0aa310eb66f35f6e3a8496c2afb0ba/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=25bcafa9fa20f7daf39d135ab893f54e",
+      "timestamp": "2026-03-02T11:00:08.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
