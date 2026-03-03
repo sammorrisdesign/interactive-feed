@@ -1,6 +1,76 @@
 {
-  "lastUpdated": "2026-03-03T01:55:14.846Z",
+  "lastUpdated": "2026-03-03T19:37:11.961Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-massachusetts-state-legislature-special.html",
+      "headline": "Massachusetts State Legislature Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/03/multimedia/eln-PRE-2026-03-03-state-ma-98582e/eln-PRE-2026-03-03-state-ma-98582e-articleLarge.jpg",
+      "timestamp": "2026-03-03T18:50:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-senate-primary.html",
+      "headline": "Texas U.S. Senate Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/03/multimedia/eln-PRE-2026-03-03-race-tx-us-s-f97047/eln-PRE-2026-03-03-race-tx-us-s-f97047-articleLarge-v3.jpg",
+      "timestamp": "2026-03-03T18:48:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-key-races-march-3.html",
+      "headline": "A Guide to Tonight’s Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/03/multimedia/eln-PRE-2026-03-03-dashboard-733262/eln-PRE-2026-03-03-dashboard-733262-articleLarge.jpg",
+      "timestamp": "2026-03-03T18:47:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-10-primary.html",
+      "headline": "Texas 10th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/03/multimedia/eln-PRE-2026-03-03-race-tx-us-h-10-a9da6a/eln-PRE-2026-03-03-race-tx-us-h-10-a9da6a-articleLarge.jpg",
+      "timestamp": "2026-03-03T18:45:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-18-primary.html",
+      "headline": "Texas 18th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/03/multimedia/eln-PRE-2026-03-03-race-tx-us-h-18-db8c3c/eln-PRE-2026-03-03-race-tx-us-h-18-db8c3c-articleLarge.jpg",
+      "timestamp": "2026-03-03T18:45:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-north-carolina-us-house-13-primary.html",
+      "headline": "North Carolina 13th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/03/multimedia/eln-PRE-2026-03-03-race-nc-us-h-13-ef8471/eln-PRE-2026-03-03-race-nc-us-h-13-ef8471-articleLarge.jpg",
+      "timestamp": "2026-03-03T18:45:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-agriculture-commissioner-primary.html",
+      "headline": "Texas Agriculture Commissioner Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/03/multimedia/eln-PRE-2026-03-03-state-tx-dc4054/eln-PRE-2026-03-03-state-tx-dc4054-articleLarge.jpg",
+      "timestamp": "2026-03-03T18:45:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
