@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-06T22:19:59.461Z",
+  "lastUpdated": "2026-03-03T11:29:48.217Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://apps.texastribune.org/features/2026/primary-election-results-2026/",
+      "headline": "Texas primary election results for U.S. Senate, attorney general and more",
+      "image": "https://apps.texastribune.org/features/2026/primary-election-results-2026/assets/images/share-art-d5eee52fcb.png",
+      "timestamp": "2026-03-03T11:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",
