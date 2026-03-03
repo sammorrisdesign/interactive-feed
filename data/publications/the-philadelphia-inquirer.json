@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-02-28T10:19:56.743Z",
+  "lastUpdated": "2026-03-03T10:35:42.184Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "twitterHandle": "PhillyInquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/weather/inq2/frozen-rivers-philadelphia-snow-fall-thaw-photography-20260303.html",
+      "headline": "Satellite photography shows Philadelphia's record snowstorm from above",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/2SWW6QBDCNEWPGYHPHNUBQ24QY.png",
+      "timestamp": "2026-03-03T10:01:01.000Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",
