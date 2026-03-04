@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-04T05:28:19.127Z",
+  "lastUpdated": "2026-03-04T18:43:23.987Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/kampf-um-die-radare-wie-iran-der-us-flugabwehr-die-sicht-nehmen-will-ld.1927690",
+      "headline": "Kampf um die Radare: Wie Iran der US-Flugabwehr die Sicht nehmen will",
+      "image": "https://img.nzz.ch/2026/03/04/facd3c3f-e8ca-4185-bbc3-7df2fb0a5245.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2026-03-04T18:12:05.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
