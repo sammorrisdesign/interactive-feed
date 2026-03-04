@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-04T10:33:23.363Z",
+  "lastUpdated": "2026-03-04T22:28:11.569Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/04/us/elections/texas-primary-talarico-crockett-results-votes.html",
+      "headline": "How Latino Voters Helped Talarico Win in Texas",
+      "image": "https://static01.nyt.com/images/2026/03/04/multimedia/2026-03-03-texas-primaries-hispanic-demos-index/2026-03-03-texas-primaries-hispanic-demos-index-articleLarge-v3.jpg",
+      "timestamp": "2026-03-04T21:53:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/04/us/politics/trump-white-house-east-wing-ballroom-design-plan.html",
+      "headline": "Trump’s Lopsided Vision for the White House",
+      "image": "https://static01.nyt.com/images/2026/03/04/us/east-wing-symmetry-promo-east-wing/east-wing-symmetry-promo-east-wing-articleLarge.jpg",
+      "timestamp": "2026-03-04T21:42:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
