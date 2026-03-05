@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-03-02T19:34:33.400Z",
+  "lastUpdated": "2026-03-05T07:25:08.382Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/middle-east/flights-interrupted-due-middle-east-conflict-2026-03-05/",
+      "headline": "Flights interrupted due to Middle East conflict",
+      "image": "https://www.reuters.com/resizer/v2/XFJMKQDH5NHXBOZTLL4IQFGQTU.jpg?auth=4de0b8a658af5a71a806107951aeec9bd0f7edc695bc176eba789dfa1b4fa2af&width=1200&quality=80",
+      "timestamp": "2026-03-05T06:52:29.982Z"
+    },
+    {
+      "publication": "Reuters",
+      "twitterHandle": "ReutersGraphics",
+      "url": "https://www.reuters.com/world/middle-east/satellite-imagery-shows-damage-key-iranian-government-military-sites-2026-03-05/",
+      "headline": "Satellite imagery shows damage to key Iranian government and military sites",
+      "image": "https://www.reuters.com/resizer/v2/PFGJ4R53TJANJFK7WGJRL3YZYE.jpg?auth=eb8a22943890fbfb7a1abb14fea717dd60416fcea3acab599462ff8735c416c7&width=1200&quality=80",
+      "timestamp": "2026-03-05T06:43:47.134Z"
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",
