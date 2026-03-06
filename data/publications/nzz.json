@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-06T11:26:03.944Z",
+  "lastUpdated": "2026-03-06T16:36:38.700Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/angriff-auf-maedchenschule-ein-blutiger-morgen-in-minab-ld.1927890",
+      "headline": "Der Angriff auf die Mädchenschule: ein blutiger Morgen in Minab",
+      "image": "https://img.nzz.ch/2026/03/05/9a55527c-0c3e-499a-8e95-9c446b936638.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y132&wmark=nzz",
+      "timestamp": "2026-03-06T11:00:54.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
