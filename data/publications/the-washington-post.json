@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-02T22:32:30.605Z",
+  "lastUpdated": "2026-03-06T04:07:08.570Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "twitterHandle": "washingtonpost",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/claude-code-cowork-build-apps/",
+      "headline": "Analysis | Anyone can code now. What will you build?",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreicwflkjj5dhibb3bkh3jd3m5fh2tf375vmgzdpelka5p2jcmjk3g4@jpeg",
+      "timestamp": "2026-03-06T04:00:09.218Z"
+    },
     {
       "publication": "The Washington Post",
       "twitterHandle": "washingtonpost",
