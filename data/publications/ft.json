@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-06T05:30:07.842Z",
+  "lastUpdated": "2026-03-07T06:47:12.809Z",
   "articles": [
+    {
+      "publication": "FT",
+      "twitterHandle": "ftdata",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/8cb4e6c3-f56c-444d-ba5a-a32a8ab93b81",
+      "headline": "Meteorologists bet on ‘swing’ to warming El Niño weather cycle",
+      "image": "https://images.ft.com/v3/image/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F28833321-9b55-48db-b9e5-77e97427f5db.jpg?source=next-barrier-page",
+      "timestamp": "2026-03-07T06:00:05.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
