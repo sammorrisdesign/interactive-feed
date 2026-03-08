@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T05:27:56.363Z",
+  "lastUpdated": "2026-03-08T10:22:12.191Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/alle-resultate-zu-den-abstimmungen-in-der-schweiz-vom-8-maerz-2026-ld.1928095",
+      "headline": "Alle Resultate zu den Abstimmungen in der Schweiz vom 8. März 2026",
+      "image": "https://img.nzz.ch/2026/03/06/3fc56871-9e35-4a85-bbad-671544c89161.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2464,1386,x0,y123&wmark=nzz",
+      "timestamp": "2026-03-08T10:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
