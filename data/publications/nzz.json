@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T10:22:12.191Z",
+  "lastUpdated": "2026-03-08T16:51:38.918Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wahl-in-baden-wuerttemberg-2026-alle-ergebnisse-im-ueberblick-ld.1928175",
+      "headline": "Wahl in Baden-Württemberg 2026: alle Ergebnisse im Überblick",
+      "image": "https://img.nzz.ch/2026/03/06/cec57cac-7291-40dd-bc91-f7a758c71a7e.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y225&wmark=nzz",
+      "timestamp": "2026-03-08T16:45:12.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
