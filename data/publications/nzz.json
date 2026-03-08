@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-06T16:36:38.700Z",
+  "lastUpdated": "2026-03-08T05:27:56.363Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aus-dem-orbit/echter-angriff-falsches-bild-wie-ki-satellitenbilder-im-iran-krieg-taeuschen-ld.1927658",
+      "headline": "Echter Angriff, falsches Bild – wie KI-Satellitenbilder im Iran-Krieg täuschen",
+      "image": "https://img.nzz.ch/2026/03/06/c87d4951-8c8c-4b17-8652-3f0b7825f8d6.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3640,2047,x0,y121&wmark=nzz",
+      "timestamp": "2026-03-08T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
