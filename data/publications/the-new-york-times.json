@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-09T15:30:04.593Z",
+  "lastUpdated": "2026-03-09T16:33:25.309Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/montana-us-senate-election-polls-2026.html",
+      "headline": "Montana U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-03-09T15:55:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
