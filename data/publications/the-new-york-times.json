@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-09T16:33:25.309Z",
+  "lastUpdated": "2026-03-09T18:49:05.381Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/09/nyregion/gracie-mansion-charges.html",
+      "headline": "Read the charges in the Gracie Mansion attack.",
+      "image": "https://static01.nyt.com/images/2026/03/09/doc-us-v-balat-and-kayumi-promo/doc-us-v-balat-and-kayumi-promo-articleLarge.png",
+      "timestamp": "2026-03-09T17:45:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
