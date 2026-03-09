@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-09T05:38:57.087Z",
+  "lastUpdated": "2026-03-09T09:45:30.807Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/09/nyregion/2026-03-09-affording-new-york.html",
+      "headline": "How a Choreographer Lives on $55,000 in Kensington, Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/03/07/multimedia/07met-affordingny-choreographer-vpjf/07met-affordingny-choreographer-vpjf-articleLarge-v2.jpg",
+      "timestamp": "2026-03-09T09:00:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html",
+      "headline": "Who’s a Better Writer: A.I. or Humans? Take Our Quiz.",
+      "image": "https://static01.nyt.com/images/2026/02/13/multimedia/2026-01-07-ai-writing-quiz-index/2026-01-07-ai-writing-quiz-index-articleLarge.png",
+      "timestamp": "2026-03-09T09:00:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
