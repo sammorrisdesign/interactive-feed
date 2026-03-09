@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-08T16:51:38.918Z",
+  "lastUpdated": "2026-03-09T15:30:04.561Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/iran-krieg-entwicklung-von-oel-und-benzinpreisen-in-der-schweiz-ld.1927555",
+      "headline": "Wie sich der Iran-Krieg auf die Preise in der Schweiz auswirkt",
+      "image": "https://img.nzz.ch/2026/03/09/99fac3ec-a7eb-475f-888d-8c493682213d.gif?width=400&height=225&fit=bounds&quality=75&auto=webp&crop=400,225,x0,y0",
+      "timestamp": "2026-03-09T15:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
