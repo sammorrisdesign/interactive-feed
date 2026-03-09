@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-08T06:03:25.032Z",
+  "lastUpdated": "2026-03-09T05:38:57.087Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/09/climate/home-insurance-credit-scores.html",
+      "headline": "The Hidden Factor Behind Your Home Insurance Cost: Your Credit History",
+      "image": "https://static01.nyt.com/images/2026/03/06/multimedia/2025-12-15-insurance-credit-scores-index/2025-12-15-insurance-credit-scores-index-articleLarge-v3.png",
+      "timestamp": "2026-03-09T04:31:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
