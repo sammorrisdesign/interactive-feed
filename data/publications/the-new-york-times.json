@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-10T20:29:59.511Z",
+  "lastUpdated": "2026-03-10T21:36:24.060Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/10/well/move/single-leg-deadlift-technique.html",
+      "headline": "How to Master the Single-Leg Deadlift",
+      "image": "https://static01.nyt.com/images/2026/03/10/well/FORM-SINGLE-RDL_promo/FORM-SINGLE-RDL_promo-articleLarge.png",
+      "timestamp": "2026-03-10T21:16:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
