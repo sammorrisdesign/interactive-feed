@@ -1,6 +1,66 @@
 {
-  "lastUpdated": "2026-03-10T15:29:25.031Z",
+  "lastUpdated": "2026-03-10T18:42:29.486Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-mississippi-us-house-3-primary.html",
+      "headline": "Mississippi Third Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/10/multimedia/eln-PRE-2026-03-10-race-ms-us-h-3-24db4e/eln-PRE-2026-03-10-race-ms-us-h-3-24db4e-articleLarge.jpg",
+      "timestamp": "2026-03-10T18:14:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-hampshire-state-house-carroll-district-7-special.html",
+      "headline": "New Hampshire State House Carroll District 7 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/10/multimedia/eln-PRE-2026-03-10-state-nh-c771c2/eln-PRE-2026-03-10-state-nh-c771c2-articleLarge.jpg",
+      "timestamp": "2026-03-10T18:14:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-mississippi-us-house-2-primary.html",
+      "headline": "Mississippi Second Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/10/multimedia/eln-PRE-2026-03-10-race-ms-us-h-2-d30e27/eln-PRE-2026-03-10-race-ms-us-h-2-d30e27-articleLarge.jpg",
+      "timestamp": "2026-03-10T18:14:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-mississippi-us-house-1-primary.html",
+      "headline": "Mississippi First Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/10/multimedia/eln-PRE-2026-03-10-race-ms-us-h-1-12d88b/eln-PRE-2026-03-10-race-ms-us-h-1-12d88b-articleLarge.jpg",
+      "timestamp": "2026-03-10T18:14:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-mississippi-us-house-4-primary.html",
+      "headline": "Mississippi Fourth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/10/multimedia/eln-PRE-2026-03-10-race-ms-us-h-4-838bd1/eln-PRE-2026-03-10-race-ms-us-h-4-838bd1-articleLarge.jpg",
+      "timestamp": "2026-03-10T18:14:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-georgia-us-house-14-special.html",
+      "headline": "Georgia 14th Congressional District Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/10/multimedia/eln-PRE-2026-03-10-race-ga-us-h-14-d0d393/eln-PRE-2026-03-10-race-ga-us-h-14-d0d393-articleLarge.jpg",
+      "timestamp": "2026-03-10T18:06:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
