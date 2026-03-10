@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-03-02T22:34:40.421Z",
+  "lastUpdated": "2026-03-10T16:33:04.990Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/primary-election-results-2026/",
+      "headline": "Election 2026: Primary election results",
+      "image": "https://apps.npr.org/primary-election-results-2026/assets/synced/2026-primaries.jpg",
+      "timestamp": "2026-03-03T00:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/voter-registration-2026-mail/",
+      "headline": "How to register to vote in the 2026 primaries",
+      "image": "https://apps.npr.org/voter-registration-2024-mail/assets/synced/voter-registration-social.jpg",
+      "timestamp": "2026-02-12T00:00:00.000Z"
+    },
     {
       "publication": "NPR",
       "blueSkyHandle": "npr.org",
