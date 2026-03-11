@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-11T12:53:58.985Z",
+  "lastUpdated": "2026-03-11T14:04:03.342Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/mar/12/ai-book-scams-publishing-fraud",
+      "headline": "Self-publish and be scammed: Jon’s tale of heartbreak highlights boom in fraudsters using AI to supercharge book swindles",
+      "image": "https://i.guim.co.uk/img/media/dd52e9a4b1c225dd159e3510103cedaaa47c7b17/0_909_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5d60a1a52cd9256c93aabc00bb786fe1",
+      "timestamp": "2026-03-11T14:00:50.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
