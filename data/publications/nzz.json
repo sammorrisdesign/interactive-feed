@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-09T15:30:04.561Z",
+  "lastUpdated": "2026-03-11T15:10:49.782Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/zensur-aus-dem-weltall-im-iran-krieg-wird-der-zugang-zu-satellitenbildern-beschraenkt-ld.1928460",
+      "headline": "Zensur aus dem Weltall: Im Iran-Krieg wird der Zugang zu Satellitenbildern beschränkt",
+      "image": "https://img.nzz.ch/2026/03/11/5b2eec30-d269-4a68-9f15-d52e349c8e64.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz",
+      "timestamp": "2026-03-11T14:54:51.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
