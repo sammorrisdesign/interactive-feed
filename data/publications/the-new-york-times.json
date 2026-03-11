@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-11T14:04:03.372Z",
+  "lastUpdated": "2026-03-11T19:56:21.696Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/wisconsin-supreme-court-election-polls-2026.html",
+      "headline": "Wisconsin Supreme Court Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-03-11T19:51:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
