@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-11T15:10:49.782Z",
+  "lastUpdated": "2026-03-12T05:33:47.007Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/einschlag-eines-tomahawk-video-deutet-auf-amerikanischen-angriff-bei-maedchenschule-hin-ld.1928734",
+      "headline": "Einschlag eines «Tomahawk»: Video deutet auf amerikanischen Angriff bei Mädchenschule hin",
+      "image": "https://img.nzz.ch/2026/03/11/4685b7e8-3da0-4334-a81e-2d8af7298d88.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-03-12T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
