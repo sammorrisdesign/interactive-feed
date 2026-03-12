@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-03-11T19:56:21.696Z",
+  "lastUpdated": "2026-03-12T09:39:33.760Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/12/realestate/chicago-condo-apartments-sale.html",
+      "headline": "With No Time to Spare, They Traded a House in Austin for a Condo in Chicago",
+      "image": "https://static01.nyt.com/images/2026/03/12/multimedia/12re-hunt-chicago-jgfm/12re-hunt-chicago-jgfm-articleLarge.jpg",
+      "timestamp": "2026-03-12T09:04:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/12/business/iran-war-flight-diversions.html",
+      "headline": "War Has Sent Thousands of Planes Flying in the Other Direction",
+      "image": "https://static01.nyt.com/images/2026/03/10/multimedia/2026-03-05-iran-flight-diversions-index/2026-03-05-iran-flight-diversions-index-articleLarge-v5.jpg",
+      "timestamp": "2026-03-12T09:03:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/12/travel/things-to-do-grand-junction.html",
+      "headline": "36 Hours in Grand Junction, Colo.",
+      "image": "https://static01.nyt.com/images/2026/03/12/travel/things-to-do-grand-junction-1773275302645/things-to-do-grand-junction-1773275302645-articleLarge.jpg",
+      "timestamp": "2026-03-12T09:02:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
