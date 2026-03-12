@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-11T14:04:03.342Z",
+  "lastUpdated": "2026-03-12T12:53:55.758Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence",
+      "headline": "‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software ",
+      "image": "https://i.guim.co.uk/img/media/7020146bef53bbb7cde9c3c5afd4d71956d537d5/0_308_2765_2212/master/2765.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1a92d66a09f2613b170ec19fc080174",
+      "timestamp": "2026-03-12T12:04:42.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
