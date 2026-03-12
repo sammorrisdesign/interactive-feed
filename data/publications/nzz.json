@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-12T05:33:47.007Z",
+  "lastUpdated": "2026-03-12T18:50:22.042Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/auch-in-rheinland-pfalz-schmilzt-der-vorsprung-der-cdu-alle-umfragen-zur-landtagswahl-ld.1928833",
+      "headline": "Auch in Rheinland-Pfalz schmilzt der Vorsprung der CDU – alle Umfragen zur Landtagswahl",
+      "image": "https://img.nzz.ch/2026/03/11/e7bcb392-5c97-4109-a7f9-37468286e5f1.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y225&wmark=nzz",
+      "timestamp": "2026-03-12T18:43:13.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
