@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-12T21:57:14.481Z",
+  "lastUpdated": "2026-03-13T09:35:51.427Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/13/magazine/staring-girlfriend-hodgman-quiz.html",
+      "headline": "Can I Stare at My Girlfriend?",
+      "image": "https://static01.nyt.com/images/2019/02/12/magazine/Mag-Hodgman-1/Mag-Hodgman-1-articleLarge.jpg",
+      "timestamp": "2026-03-13T09:03:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/13/world/middleeast/iran-mines-strait-hormuz.html",
+      "headline": "How Iran’s Naval Mines Work",
+      "image": "https://static01.nyt.com/images/2026/03/13/multimedia/2026-03-11-iran-mines-index/2026-03-11-iran-mines-index-articleLarge-v2.jpg",
+      "timestamp": "2026-03-13T08:55:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
