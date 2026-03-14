@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-07T19:23:11.344Z",
+  "lastUpdated": "2026-03-14T19:24:07.755Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-03-15/iran-war-ai-technology-data-centres/106443004",
+      "headline": "AI is helping choose targets in Iran war — now it's a target too",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c1cdc1cb8bf4f33e7b1dbb4f6913dafc?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",

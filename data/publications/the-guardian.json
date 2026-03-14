@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-14T10:29:50.089Z",
+  "lastUpdated": "2026-03-14T19:24:08.130Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/mar/14/algal-bloom-south-australia-update-one-year-on",
+      "headline": "Stripped of life: the deadly South Australian algal bloom is still spreading one year on",
+      "image": "https://i.guim.co.uk/img/media/f6e9f62d2eaeb2f4e542d3da23c0abdbff531bae/118_0_1181_945/master/1181.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=195cddfc03a52f7d66d0592807d13e9b",
+      "timestamp": "2026-03-14T19:00:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
