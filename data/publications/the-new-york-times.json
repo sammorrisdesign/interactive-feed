@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-14T07:10:22.221Z",
+  "lastUpdated": "2026-03-14T09:29:25.042Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/14/climate/iran-war-water-supply-desalination.html",
+      "headline": "War in Iran Has Put Middle East Water Supplies at Risk",
+      "image": "https://static01.nyt.com/images/2026/03/12/multimedia/2026-03-06-cli-middle-east-water-index/2026-03-06-cli-middle-east-water-index-articleLarge-v2.jpg",
+      "timestamp": "2026-03-14T09:03:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/14/business/media/iran-disinfo-artificial-intelligence.html",
+      "headline": "Cascade of A.I. Fakes About War With Iran Causes Chaos Online",
+      "image": "https://static01.nyt.com/images/2026/03/13/multimedia/2026-03-06-disinfo-iran-ai-index/2026-03-06-disinfo-iran-ai-index-articleLarge.jpg",
+      "timestamp": "2026-03-14T09:03:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
