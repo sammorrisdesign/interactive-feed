@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-13T11:28:47.347Z",
+  "lastUpdated": "2026-03-14T06:07:22.641Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/mar/14/datacentre-boom-is-uk-ai-bubble-about-to-burst",
+      "headline": "Invisible datacentres and capricious chips: is UK’s AI bubble about to burst?",
+      "image": "https://i.guim.co.uk/img/media/cecd7f704b44b2fc0d6d1599dd67d152b96de10b/0_0_2400_1920/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a3f7a1ab73fbce406f39fc1aea976d0",
+      "timestamp": "2026-03-14T06:00:11.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
