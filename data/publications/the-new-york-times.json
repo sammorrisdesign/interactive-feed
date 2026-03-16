@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-16T16:02:13.526Z",
+  "lastUpdated": "2026-03-16T21:36:44.893Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/16/us/16VACCINE-DECISION.html",
+      "headline": "U.S. Court Ruling Against R.F.K. Jr’s Vaccine Policies",
+      "image": "https://static01.nyt.com/images/2026/03/16/doc-pi-opinion-promo/doc-pi-opinion-promo-articleLarge.png",
+      "timestamp": "2026-03-16T21:33:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/16/magazine/grand-canyons-north-rim-wildfire.html",
+      "headline": "The Grand Canyon I Never Got to See",
+      "image": "https://static01.nyt.com/images/2026/03/29/magazine/29mag-North-03-PR/29mag-North-03-PR-articleLarge-v3.jpg",
+      "timestamp": "2026-03-16T20:53:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
