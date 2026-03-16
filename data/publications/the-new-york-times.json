@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-16T09:38:41.905Z",
+  "lastUpdated": "2026-03-16T16:02:13.526Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/16/books/review/irish-poetry-quiz.html",
+      "headline": "Do You Recognize These Lines From Great Irish Poets?",
+      "image": "https://static01.nyt.com/images/2026/03/16/books/review/16TBR-Quiz-IrishPoets/16TBR-Quiz-IrishPoets-articleLarge.jpg",
+      "timestamp": "2026-03-16T15:00:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
