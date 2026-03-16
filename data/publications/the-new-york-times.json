@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-14T09:29:25.042Z",
+  "lastUpdated": "2026-03-16T02:06:31.342Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/15/style/oscars-red-carpet-best-dressed-vote.html",
+      "headline": "Vote for Your Favorite (and Least Favorite) Red Carpet Looks from the Oscars",
+      "image": "https://static01.nyt.com/images/2026/03/15/fashion/st-oscar-vote-looks-promo-02/st-oscar-vote-looks-promo-02-articleLarge.png",
+      "timestamp": "2026-03-16T00:10:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
