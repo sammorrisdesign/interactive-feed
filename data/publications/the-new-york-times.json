@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-16T21:36:44.893Z",
+  "lastUpdated": "2026-03-16T22:29:40.522Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/16/us/pi-opinion.html",
+      "headline": "U.S. Court Ruling Against R.F.K. Jr.’s Vaccine Policies",
+      "image": "https://static01.nyt.com/images/2026/03/16/doc-pi-opinion-promo/doc-pi-opinion-promo-articleLarge.png",
+      "timestamp": "2026-03-16T21:33:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
