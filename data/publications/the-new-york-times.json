@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-17T14:37:53.465Z",
+  "lastUpdated": "2026-03-17T16:02:41.767Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/17/climate/thwaites-glacier-rising-sea-level-risk-floods.html",
+      "headline": "How a Melting Glacier Could Affect Tens of Millions Around the Globe",
+      "image": "https://static01.nyt.com/images/2026/03/16/multimedia/2026-01-22-antarctica-thwaites-slr-index/2026-01-22-antarctica-thwaites-slr-index-articleLarge-v2.png",
+      "timestamp": "2026-03-17T15:59:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/17/nyregion/judge-quraishi-hearing-transcript.html",
+      "headline": "Judge Orders Prosecutors to Testify",
+      "image": "https://static01.nyt.com/images/2026/03/17/doc-transcript-quraishi-coyne-promo/doc-transcript-quraishi-coyne-promo-articleLarge.png",
+      "timestamp": "2026-03-17T15:29:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
