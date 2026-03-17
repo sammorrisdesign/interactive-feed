@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-17T13:05:13.355Z",
+  "lastUpdated": "2026-03-17T14:37:53.439Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/mar/17/worlds-largest-light-installation-albany-western-australia-kari-kola",
+      "headline": "The world’s largest light installation shines on a small Australian town",
+      "image": "https://i.guim.co.uk/img/media/62ebdde5a25b097af25a77570649189d1ab0d17c/226_0_1704_1365/master/1704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c703b0a3d80dc1bd0461599077b7cd29",
+      "timestamp": "2026-03-17T14:00:50.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/mar/17/nigel-farage-videos-support-rioter-neonazi-event-far-right-slogans",
+      "headline": "Newly unearthed Nigel Farage videos reveal support for rioter, neo-Nazi event and far-right slogans",
+      "image": "https://i.guim.co.uk/img/media/523744a6f73131c7460fea12fa327c9c2de92229/418_0_4164_3333/master/4164.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=759841f40f0820f31cf8e9a84b84084d",
+      "timestamp": "2026-03-17T14:00:49.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",

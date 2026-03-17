@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-16T22:29:40.522Z",
+  "lastUpdated": "2026-03-17T14:37:53.465Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/17/us/joe-kent-resignation-letter-iran.html",
+      "headline": "Read Joe Kent’s Resignation Letter",
+      "image": "https://static01.nyt.com/images/2026/03/17/doc-hdnawxtw8aauamr-promo/doc-hdnawxtw8aauamr-promo-articleLarge.png",
+      "timestamp": "2026-03-17T14:22:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/17/us/quake-tracker-northern-california.html",
+      "headline": "Map: Small Earthquake Shakes Northern California",
+      "image": "https://static01.nyt.com/images/2026/03/17/world/17wea-quake-tracker-san-francisco-bay-area-nytiyvun-index/17wea-quake-tracker-san-francisco-bay-area-nytiyvun-index-articleLarge-v8.jpg",
+      "timestamp": "2026-03-17T14:17:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
