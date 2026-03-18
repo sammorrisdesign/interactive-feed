@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-18T13:04:18.889Z",
+  "lastUpdated": "2026-03-18T14:45:12.978Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/15/ai-defense-warfare-companies",
+      "headline": "These aren’t AI firms, they’re defense contractors. We can’t let them hide behind their models",
+      "image": "https://i.guim.co.uk/img/media/8ab6d2a78aa69f93255dd1ec3c046358d3e535f2/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fe1364fb3960bd45568bceb8baaf5c80",
+      "timestamp": "2026-03-15T13:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
