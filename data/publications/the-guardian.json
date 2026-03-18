@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-17T14:37:53.439Z",
+  "lastUpdated": "2026-03-18T11:42:46.379Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/mar/18/jeffrey-epsteins-elite-relationships-visualised-the-prince-the-sultan-and-the-politicians",
+      "headline": "Jeffrey Epstein’s elite relationships visualised: the prince, the sultan and the politicians",
+      "image": "https://i.guim.co.uk/img/media/7519d2155142c62a7262258c4b8652c0944ff7d3/375_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd4b785475871914a26586ab815c6a95",
+      "timestamp": "2026-03-18T11:00:41.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/18/how-to-use-ai-tools-expert-guide",
+      "headline": "We asked experts about the most responsible ways to use AI tools – here’s what they said",
+      "image": "https://i.guim.co.uk/img/media/dfa5e3ab1658ec46822ae949741b25f807c2a0a1/397_280_2003_1601/master/2003.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a765bef0a56cf27cc3b9b4ebf0c97f31",
+      "timestamp": "2026-03-18T11:00:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
