@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-19T12:57:57.999Z",
+  "lastUpdated": "2026-03-19T16:28:24.677Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/19/i-asked-ai-to-explain-my-mother-to-me",
+      "headline": "I asked AI to explain my mother to me. It translated her worldview",
+      "image": "https://i.guim.co.uk/img/media/0715eba0b5ba0b6196c5c360c22fc5c819b89ac0/0_868_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4ffb60add2b093f21d0f49081c3295f7",
+      "timestamp": "2026-03-19T16:00:53.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/mar/19/visual-guide-oil-and-gas-site-attacks-middle-east",
+      "headline": "‘Doomsday scenario’: a visual guide to the oil and gas site attacks in the Middle East ",
+      "image": "https://i.guim.co.uk/img/media/c6d4da6b3a933e06d1e459548a9692ef02b55e77/0_391_1200_959/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c24376f1e85fd845b666137260843d69",
+      "timestamp": "2026-03-19T15:58:21.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
