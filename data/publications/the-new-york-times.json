@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-03-19T08:38:40.127Z",
+  "lastUpdated": "2026-03-19T09:39:49.565Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/19/realestate/upper-west-side-hells-kitchen-lincoln-square-homes.html",
+      "headline": "Four Kids, Two Dads and a One-Bedroom Apartment in Manhattan",
+      "image": "https://static01.nyt.com/images/2026/03/19/multimedia/19re-Hunt-Minges-01-ktlj/19re-Hunt-Minges-01-ktlj-articleLarge.jpg",
+      "timestamp": "2026-03-19T09:04:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/19/travel/things-to-do-shanghai.html",
+      "headline": "36 Hours in Shanghai",
+      "image": "https://static01.nyt.com/images/2026/03/19/multimedia/19trav-hours-shanghai-TONED-vcmg/19trav-hours-shanghai-TONED-vcmg-articleLarge.jpg",
+      "timestamp": "2026-03-19T09:02:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/19/opinion/focus-group-gen-z-jobs.html",
+      "headline": "‘It Feels Like There’s No Jobs’: 12 Gen Z Voters on the U.S. Economy",
+      "image": "https://static01.nyt.com/images/2026/03/19/opinion/focus-group-gen-z-jobs-1773862556941/focus-group-gen-z-jobs-1773862556941-articleLarge-v2.jpg",
+      "timestamp": "2026-03-19T09:02:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
