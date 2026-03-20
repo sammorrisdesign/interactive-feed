@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-19T15:11:16.822Z",
+  "lastUpdated": "2026-03-20T11:55:41.177Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/pakistans-angriff-auf-kabul-munitionslager-oder-krankenhaus-getroffen-ld.1929822",
+      "headline": "Militärlager oder Entzugsklinik? Wie ein verheerender Angriff in Kabul für Propaganda genutzt wird",
+      "image": "https://img.nzz.ch/2026/03/19/aba7d814-adc5-4e5e-992c-d430f34fdc98.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-03-20T11:43:15.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
