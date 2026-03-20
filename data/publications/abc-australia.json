@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-19T23:27:13.406Z",
+  "lastUpdated": "2026-03-20T19:35:31.540Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-03-21/cyclone-narelle-map-tracker-nt/106477536",
+      "headline": "Track Cyclone Narelle live as it approaches the NT",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ac3867ab28c4d1a4f357deb367d2e2d9?impolicy=wcms_crop_resize&cropH=800&cropW=1067&xPos=67&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
