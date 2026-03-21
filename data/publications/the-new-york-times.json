@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-03-20T22:25:22.789Z",
+  "lastUpdated": "2026-03-21T09:38:30.645Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/21/climate/west-coast-heat-wave-water-shortage.html",
+      "headline": "Across the West, Record Heat Is Colliding With a Snow Drought",
+      "image": "https://static01.nyt.com/images/2026/03/20/multimedia/2026-02-15-colorado-snotel-index/2026-02-15-colorado-snotel-index-articleLarge-v7.png",
+      "timestamp": "2026-03-21T09:02:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/21/world/middleeast/iran-war-gravity.html",
+      "headline": "War’s Gravity",
+      "image": "https://static01.nyt.com/images/2026/03/20/multimedia/2026-03-09-iran-war-gravity-index/2026-03-09-iran-war-gravity-index-articleLarge.jpg",
+      "timestamp": "2026-03-21T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/21/arts/renaissance-artist-raphael-exhibition.html",
+      "headline": "The Genius of Raphael in Three Works of Art",
+      "image": "https://static01.nyt.com/images/2026/03/22/multimedia/00-raphael-promo/22raphael-met-01-qplm-articleLarge.jpg",
+      "timestamp": "2026-03-21T09:01:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
