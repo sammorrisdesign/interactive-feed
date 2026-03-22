@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-22T05:36:38.325Z",
+  "lastUpdated": "2026-03-22T16:55:19.870Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wahl-in-rheinland-pfalz-2026-alle-ergebnisse-im-ueberblick-ld.1930300",
+      "headline": "Wahl in Rheinland-Pfalz 2026: alle Ergebnisse im Überblick",
+      "image": "https://img.nzz.ch/2026/03/20/845b1815-3220-49fe-9137-a5fdfc976a12.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y225&wmark=nzz",
+      "timestamp": "2026-03-22T16:23:09.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
