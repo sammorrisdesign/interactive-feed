@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-20T11:55:41.177Z",
+  "lastUpdated": "2026-03-22T05:36:38.325Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/geisterstadt-im-sand-satellitenbilder-zeigen-aegyptens-neue-hauptstadt-ld.1930283",
+      "headline": "Metropole in der Wüste: Satellitenbilder zeigen, wie Ägyptens neue Hauptstadt entsteht",
+      "image": "https://img.nzz.ch/2026/03/20/8193801c-6af0-46f0-b05c-7953b877e8fd.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4787,2693,x0,y791&wmark=nzz",
+      "timestamp": "2026-03-22T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
