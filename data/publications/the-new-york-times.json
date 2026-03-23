@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-03-21T09:38:30.645Z",
+  "lastUpdated": "2026-03-23T09:59:26.638Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/23/magazine/trump-rfk-jr-cdc-vaccines-maha.html",
+      "headline": "‘A Mass Disaster Nonstop’: Inside the Turmoil at Robert F. Kennedy Jr.’s C.D.C.",
+      "image": "https://static01.nyt.com/images/2026/03/23/magazine/23mag-CDC-oral-history/23mag-CDC-oral-history-articleLarge-v2.jpg",
+      "timestamp": "2026-03-23T09:22:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/23/business/energy-environment/oil-importers-middle-east-iran-war.html",
+      "headline": "Which Countries Depend the Most on Persian Gulf Oil and Gas",
+      "image": "https://static01.nyt.com/images/2026/03/22/multimedia/2026-03-18-hormuz-mekko-article/2026-03-18-hormuz-mekko-article-articleLarge.png",
+      "timestamp": "2026-03-23T09:03:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/23/nyregion/nyc-budgeting-affordability-gossai.html",
+      "headline": "How a Family of 3 Lives on $500,000 on the Upper West Side",
+      "image": "https://static01.nyt.com/images/2026/03/23/multimedia/23met-affording-ny-gossai--01-mckt/23met-affording-ny-gossai--01-mckt-articleLarge.jpg",
+      "timestamp": "2026-03-23T09:01:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
