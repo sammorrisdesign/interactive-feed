@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-03-20T19:35:31.540Z",
+  "lastUpdated": "2026-03-24T19:52:02.921Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-03-25/did-ai-really-take-block-jobs/106478254",
+      "headline": "'Are we building tools to replace ourselves?': Survivor's guilt hits AI-first tech company",
+      "image": "https://live-production.wcms.abc-cdn.net.au/ce67b3a851704f920975f1ca9aa5ffd7?impolicy=wcms_crop_resize&cropH=800&cropW=1067&xPos=67&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
