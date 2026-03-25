@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-25T04:22:14.577Z",
+  "lastUpdated": "2026-03-25T09:51:12.688Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/25/business/energy-environment/strait-hormuz-oil-gas.html",
+      "headline": "The Choking of Hormuz",
+      "image": "https://static01.nyt.com/images/2026/03/22/multimedia/2026-03-18-hormuz-sankey-article/2026-03-18-hormuz-sankey-article-articleLarge-v2.png",
+      "timestamp": "2026-03-25T09:07:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
