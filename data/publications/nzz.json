@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-22T16:55:19.870Z",
+  "lastUpdated": "2026-03-26T10:56:25.269Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/das-steht-in-der-anklageschrift-gegen-maduro-und-co-ld.1919345",
+      "headline": "Das steht in der Anklageschrift gegen Maduro und Co.",
+      "image": "https://img.nzz.ch/2026/03/25/8e330201-3245-47f1-9ea4-7809b491ed2c.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4800,2700,x0,y177&wmark=nzz",
+      "timestamp": "2026-03-26T10:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
