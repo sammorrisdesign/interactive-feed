@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-25T17:33:43.737Z",
+  "lastUpdated": "2026-03-26T09:58:21.125Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/26/realestate/los-angeles-san-fernando-valley-homes-sale.html",
+      "headline": "To Afford a House in Los Angeles, They Had to Become Landlords",
+      "image": "https://static01.nyt.com/images/2026/03/26/multimedia/26re-Hunt-VanNuys-fzgh/26re-Hunt-VanNuys-fzgh-articleLarge.jpg",
+      "timestamp": "2026-03-26T09:04:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/26/travel/things-to-do-raleigh.html",
+      "headline": "36 Hours in Raleigh, N.C.",
+      "image": "https://static01.nyt.com/images/2026/03/26/multimedia/trav-36hours-raleigh-01-fptw/trav-36hours-raleigh-01-fptw-articleLarge.jpg",
+      "timestamp": "2026-03-26T09:02:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
