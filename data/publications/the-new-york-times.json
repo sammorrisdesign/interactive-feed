@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-27T19:22:49.989Z",
+  "lastUpdated": "2026-03-27T21:31:09.342Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/27/magazine/kennedy-maha-youth-wellness-influencer.html",
+      "headline": "Why Some Teenage Girls Are Trading Medicine for MAHA",
+      "image": "https://static01.nyt.com/images/2026/04/12/magazine/12mag-maha-14/12mag-maha-14-articleLarge-v5.jpg",
+      "timestamp": "2026-03-27T20:55:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
