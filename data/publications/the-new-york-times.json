@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-26T16:09:51.477Z",
+  "lastUpdated": "2026-03-27T09:51:41.491Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/27/magazine/children-kids-menu-hodgman-quiz.html",
+      "headline": "Can Seniors Order Off the Kids’ Menu?",
+      "image": "https://static01.nyt.com/images/2026/03/27/magazine/29mag-hodgman-kidmenu/29mag-hodgman-kidmenu-articleLarge-v6.jpg",
+      "timestamp": "2026-03-27T09:03:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/27/business/trump-maga-merchandise.html",
+      "headline": "Inside the Sprawling World of MAGA Merchandise",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-03-27T09:00:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
