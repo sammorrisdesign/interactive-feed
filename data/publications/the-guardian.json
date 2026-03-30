@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-30T07:05:43.263Z",
+  "lastUpdated": "2026-03-30T10:14:12.632Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/mar/30/asteroid-warning-earth-un-office-for-outer-space-affairs",
+      "headline": "Who alerts the world when an asteroid could hit Earth? This woman",
+      "image": "https://i.guim.co.uk/img/media/c6a3149ed4e42a087d48e67d7758f20ea6f1f165/838_0_6488_5191/master/6488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a2ec28de7ba483567c6ab541d0e8e90",
+      "timestamp": "2026-03-30T10:00:08.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
