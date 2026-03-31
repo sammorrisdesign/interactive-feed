@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-29T04:59:41.056Z",
+  "lastUpdated": "2026-03-31T08:55:15.121Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/die-russische-fruehlingsoffensive-hat-begonnen-das-ist-bekannt-ld.1930785",
+      "headline": "Die russische Frühlingsoffensive hat begonnen: Das ist bekannt",
+      "image": "https://img.nzz.ch/2026/03/30/db1188df-748d-4f7f-a6b2-598a888ae1b3.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2908,1636,x0,y250&wmark=nzz",
+      "timestamp": "2026-03-31T08:36:28.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
