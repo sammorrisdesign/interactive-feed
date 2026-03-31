@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-31T07:50:49.392Z",
+  "lastUpdated": "2026-03-31T11:26:14.194Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/mar/31/this-feels-fragile-how-a-satellite-smashing-chain-reaction-could-spiral-out-of-control",
+      "headline": "‘This feels fragile’: how a satellite-smashing chain reaction could spiral out of control",
+      "image": "https://i.guim.co.uk/img/media/f1dd5ddce4d067b7c5399a5cadfdf9915bffe00f/932_0_3114_2492/master/3114.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ff29651ab1ccb7a2393a0a1c0df9540a",
+      "timestamp": "2026-03-31T10:15:52.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
