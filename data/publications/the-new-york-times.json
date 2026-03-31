@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-03-31T10:03:33.430Z",
+  "lastUpdated": "2026-03-31T15:44:40.748Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-arkansas-runoff.html",
+      "headline": "Arkansas Primary Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/eln-PRE-2026-03-31-state-ar-cc6198/eln-PRE-2026-03-31-state-ar-cc6198-articleLarge.jpg",
+      "timestamp": "2026-03-31T15:26:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-arkansas-secretary-of-state-runoff.html",
+      "headline": "Arkansas Secretary of State Primary Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/eln-PRE-2026-03-31-state-ar-8f1b64/eln-PRE-2026-03-31-state-ar-8f1b64-articleLarge.jpg",
+      "timestamp": "2026-03-31T15:21:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-massachusetts-state-house-5th-essex-special.html",
+      "headline": "Massachusetts State House 5th Essex District Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/eln-PRE-2026-03-31-state-ma-8a4519/eln-PRE-2026-03-31-state-ma-8a4519-articleLarge.jpg",
+      "timestamp": "2026-03-31T15:21:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
