@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-03-31T15:44:40.748Z",
+  "lastUpdated": "2026-03-31T20:40:27.079Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/31/magazine/quit-smartphone-addiction-social-media.html",
+      "headline": "Is There Life After Smartphones?",
+      "image": "https://static01.nyt.com/images/2026/03/31/1mag-smartphones-promo-68123/1mag-smartphones-promo-68123-articleLarge.jpg",
+      "timestamp": "2026-03-31T19:59:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/31/magazine/young-people-without-smartphones-photo.html",
+      "headline": "They Grew Up With Smartphones. This Is How They Live Without Them.",
+      "image": "https://static01.nyt.com/images/2026/03/30/arts/2mag-dumbphone-HP-Desktop_still/2mag-dumbphone-HP-Desktop_still-articleLarge.jpg",
+      "timestamp": "2026-03-31T19:57:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
