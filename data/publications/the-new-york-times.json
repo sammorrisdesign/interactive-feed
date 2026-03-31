@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-03-31T20:40:27.079Z",
+  "lastUpdated": "2026-03-31T21:36:10.889Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/03/31/us/trump-penn-jews-list-judge-decision.html",
+      "headline": "Read the Judge’s Decision on the Trump Administration’s Subpoena Against Penn",
+      "image": "https://static01.nyt.com/images/2026/03/31/doc-eeoc-penn-ruling-3-31-202-promo/doc-eeoc-penn-ruling-3-31-202-promo-articleLarge.png",
+      "timestamp": "2026-03-31T21:29:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
