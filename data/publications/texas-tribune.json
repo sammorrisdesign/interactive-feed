@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-05T01:52:13.190Z",
+  "lastUpdated": "2026-04-01T10:51:48.388Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://schools.texastribune.org/",
+      "headline": "Explore our newly redesigned Texas Public Schools Explorer with expanded data",
+      "image": "/static/img/illustration-share-art-1.png",
+      "timestamp": "2026-04-01T10:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",

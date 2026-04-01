@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-01T06:58:09.825Z",
+  "lastUpdated": "2026-04-01T10:51:48.731Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/01/lunar-prospectors-the-businesses-looking-to-mine-the-moon",
+      "headline": "Lunar prospectors: the businesses looking to mine the moon",
+      "image": "https://i.guim.co.uk/img/media/6954e9307e7222a12e96c0a18a176f2f5ba7262a/6256_0_14742_11802/master/14742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bf288dac0bda0d5fd08ac925b5708bb6",
+      "timestamp": "2026-04-01T10:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
