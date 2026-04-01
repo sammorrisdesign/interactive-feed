@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-01T11:50:56.184Z",
+  "lastUpdated": "2026-04-01T14:47:52.923Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/apr/01/a-feud-straight-out-of-succession-a-rental-thriller-and-an-absolute-ripper-the-best-australian-books-out-in-april",
+      "headline": "A feud ‘straight out of Succession’, a rental thriller and an ‘absolute ripper’: the best Australian books out in April",
+      "image": "https://i.guim.co.uk/img/media/0091a147482f58b538566dc0169485a140049a81/0_618_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87217bf493a951a61835a6ca1de706fa",
+      "timestamp": "2026-04-01T14:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/apr/01/ice-palestinian-immigrant-leqaa-kordia",
+      "headline": "‘Human tragedy’: Leqaa Kordia on how ICE jail echoes life in occupied Palestine",
+      "image": "https://i.guim.co.uk/img/media/72d0b40532dfc7c3160d0d48d84699afd596b103/0_556_3200_2561/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a2ff817e9b7e4a943f8a5a9639bfc037",
+      "timestamp": "2026-04-01T14:00:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
