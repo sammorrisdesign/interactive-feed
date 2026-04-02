@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-04-01T23:33:30.650Z",
+  "lastUpdated": "2026-04-02T09:58:39.977Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/02/us/earthquake-california-tracker.html",
+      "headline": "Map: 4.6-Magnitude Earthquake Shakes Northern California",
+      "image": "https://static01.nyt.com/images/2026/04/02/world/02wea-quake-tracker-northern-california-nyte2pqc-index/02wea-quake-tracker-northern-california-nyte2pqc-index-articleLarge-v22.jpg",
+      "timestamp": "2026-04-02T09:06:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/02/business/california-pistachios-iran-war-dubai-chocolate.html",
+      "headline": "How a Sapling and a Viral Candy Made California the World’s Pistachio King",
+      "image": "https://static01.nyt.com/images/2026/03/31/multimedia/2026-03-19-iran-us-pistachios-index/2026-03-19-iran-us-pistachios-index-articleLarge-v3.png",
+      "timestamp": "2026-04-02T09:04:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/02/travel/things-to-do-queenstown.html",
+      "headline": "36 Hours in Queenstown, New Zealand",
+      "image": "https://static01.nyt.com/images/2026/04/02/multimedia/02trav-hours-queenstown-SUB-02-zlmb/02trav-hours-queenstown-SUB-02-zlmb-articleLarge.jpg",
+      "timestamp": "2026-04-02T09:03:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/02/realestate/kingston-new-york-hudson-valley-homes-sale.html",
+      "headline": "Two California Transplants Tested Their $375,000 Budget in the Hudson Valley",
+      "image": "https://static01.nyt.com/images/2026/04/02/multimedia/02re-Hunt-Kingston-fqtv/02re-Hunt-Kingston-fqtv-articleLarge.jpg",
+      "timestamp": "2026-04-02T09:03:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
