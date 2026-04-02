@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-02T09:58:39.977Z",
+  "lastUpdated": "2026-04-02T14:37:53.082Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-jersey-us-house-11-special-polls-2026.html",
+      "headline": "New Jersey 11th Congressional District Special Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-02T13:59:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
