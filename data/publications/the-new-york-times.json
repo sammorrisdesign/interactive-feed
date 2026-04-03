@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-03T18:42:10.165Z",
+  "lastUpdated": "2026-04-03T19:36:10.897Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/03/magazine/iranians-war-regime-us-israel.html",
+      "headline": "Two Diaries of War, From Opposing Sides of Iran’s Political Divide",
+      "image": "https://static01.nyt.com/images/2026/04/19/magazine/19mag-iran-4window/19mag-iran-4window-articleLarge.jpg",
+      "timestamp": "2026-04-03T19:26:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
