@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-04-02T14:37:53.082Z",
+  "lastUpdated": "2026-04-03T09:06:03.584Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/03/world/middleeast/israel-military-southern-lebanon-hezbollah.html",
+      "headline": "How Israel Is Taking Control of Southern Lebanon",
+      "image": "https://static01.nyt.com/images/2026/03/27/multimedia/2026-03-24-southern-lebanon-israel-index/2026-03-24-southern-lebanon-israel-index-articleLarge-v4.jpg",
+      "timestamp": "2026-04-03T09:02:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/03/magazine/potato-chip-bag-hodgman-quiz.html",
+      "headline": "Is There a Proper Way to Eat Chip Dust?",
+      "image": "https://static01.nyt.com/images/2026/04/05/magazine/05mag-hodgman/05mag-hodgman-articleLarge.jpg",
+      "timestamp": "2026-04-03T09:02:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/03/arts/nintendo-mario-galaxy-movie-rosalina-princesses.html",
+      "headline": "Has Nintendo Solved Its Princess Problem?",
+      "image": "https://static01.nyt.com/images/2026/03/31/arts/nintendo-princesses-promo/nintendo-princesses-promo-articleLarge.jpg",
+      "timestamp": "2026-04-03T09:00:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
