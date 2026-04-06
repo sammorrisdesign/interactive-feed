@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-06T10:06:00.640Z",
+  "lastUpdated": "2026-04-06T15:42:47.976Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/06/books/review/book-characters-quiz.html",
+      "headline": "Do You Recognize These Novels From Their Characters?",
+      "image": "https://static01.nyt.com/images/2026/04/06/books/review/06TBR-Quiz-Characters/06TBR-Quiz-Characters-articleLarge.jpg",
+      "timestamp": "2026-04-06T15:30:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
