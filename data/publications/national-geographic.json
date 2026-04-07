@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-04-03T11:09:13.644Z",
+  "lastUpdated": "2026-04-07T15:53:46.623Z",
   "articles": [
+    {
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/animals/graphics/deer-antlers-shed-regrow",
+      "image": "https://i.natgeofe.com/n/f769eebe-34bb-4792-bea2-136d84bb4a7f/all_sm.png?w=1200",
+      "timestamp": "2024-08-09T14:30:18.485Z"
+    },
+    {
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/magazine/graphics/see-which-of-the-worlds-10-longest-rivers-still-run-free",
+      "image": "https://i.natgeofe.com/n/beaa4c15-df32-4cbe-94c4-f48692408959/explore-atlas-free-flowing-rivers-og.jpg?w=1200",
+      "timestamp": "2021-02-10T07:45:32.313Z"
+    },
+    {
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/culture/graphics/women-war-conflict-nigeria-peru-iraq-philippines-international-day-of-girl",
+      "image": "https://i.natgeofe.com/n/a74dd55c-8eec-4c34-ab01-d5e6f6f84e8b/women-war-promo.jpg?w=1200",
+      "timestamp": "2021-02-10T07:45:46.858Z"
+    },
+    {
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/magazine/graphics/the-indus-river-is-a-lifeline-for-millions-this-map-shows-the-threats-it-faces-feature",
+      "image": "https://i.natgeofe.com/n/b0198949-eaed-4cda-935f-e8f82697a86e/indus-river-map-og.jpg?w=1200",
+      "timestamp": "2021-06-25T15:34:28.770Z"
+    },
+    {
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/culture/graphics/moises-saman-central-america-migrant-caravan-pictures",
+      "image": "https://i.natgeofe.com/n/b8eece01-27ef-40be-9e4d-442eaffcba9c/el-salvador-q-a-migrants-immigration-river-borders.jpg?w=1200",
+      "timestamp": "2021-02-10T07:45:49.985Z"
+    },
     {
       "publication": "National Geographic",
       "url": "https://www.nationalgeographic.com/science/graphics/artemis-ii-rocket-launch-video-slow-motion",
