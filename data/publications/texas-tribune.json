@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-01T16:04:43.045Z",
+  "lastUpdated": "2026-04-08T10:05:09.667Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/04/08/texas-data-centers-sales-tax-break-billion-dollars/",
+      "headline": "Texas is giving data centers more than $1 billion in tax breaks each year",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/04/20260326-El-Paso-Data-Center-REUTERSB.jpg?fit=2560%2C1707&quality=100&ssl=1&w=1200&h=630",
+      "timestamp": "2026-04-08T10:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",
