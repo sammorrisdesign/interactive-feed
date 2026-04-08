@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-08T18:07:26.777Z",
+  "lastUpdated": "2026-04-08T20:39:04.878Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/08/health/illegal-labs-potent-drugs.html",
+      "headline": "The Fast-Changing Chemistry of New, Dangerous Drugs",
+      "image": "https://static01.nyt.com/images/2026/04/07/multimedia/2025-09-25-drug-potency-index/2025-09-25-drug-potency-index-articleLarge.png",
+      "timestamp": "2026-04-08T20:32:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/08/health/potency-drug-trade.html",
+      "headline": "Inside a One-Man Workshop for Ultrapotent Drugs",
+      "image": "https://static01.nyt.com/images/2026/04/07/multimedia/2026-01-15-potency-drug-trade-index/2026-01-15-potency-drug-trade-index-articleLarge.jpg",
+      "timestamp": "2026-04-08T20:32:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
