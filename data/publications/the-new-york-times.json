@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-04-08T20:39:04.878Z",
+  "lastUpdated": "2026-04-09T09:20:42.723Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/09/realestate/albuquerque-new-mexico-homes-for-sale.html",
+      "headline": "Two Midwesterners Found Their Oasis in the New Mexico Desert",
+      "image": "https://static01.nyt.com/images/2026/04/09/multimedia/09re-Hunt-Albuquerque-01-zkph/09re-Hunt-Albuquerque-01-zkph-articleLarge.jpg",
+      "timestamp": "2026-04-09T09:04:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/09/business/iran-war-online-influence-propaganda.html",
+      "headline": "How Iran’s Information War Machine Operates Online",
+      "image": "https://static01.nyt.com/images/2026/04/08/multimedia/2026-03-25-disinfo-iran-index/2026-03-25-disinfo-iran-index-articleLarge.jpg",
+      "timestamp": "2026-04-09T09:03:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/09/travel/things-to-do-hoi-an.html",
+      "headline": "36 Hours in Hoi An, Vietnam",
+      "image": "https://static01.nyt.com/images/2026/04/09/multimedia/09things-to-do-hoi-an-ctgz/09things-to-do-hoi-an-ctgz-articleLarge.jpg",
+      "timestamp": "2026-04-09T09:02:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
