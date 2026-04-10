@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-10T03:34:16.970Z",
+  "lastUpdated": "2026-04-10T07:24:39.515Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/10/nyregion/zohran-mamdani-nyc-mayor-first-100-days.html",
+      "headline": "Mamdani’s New York: Chronicling His First 100 Days as Mayor",
+      "image": "https://static01.nyt.com/images/2026/04/09/multimedia/MAMDANI-TOPPER-SWAPS-FINAL--03-qfmw/MAMDANI-TOPPER-SWAPS-FINAL--03-qfmw-articleLarge.jpg",
+      "timestamp": "2026-04-10T07:00:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
