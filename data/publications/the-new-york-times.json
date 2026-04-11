@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-11T07:51:41.732Z",
+  "lastUpdated": "2026-04-11T09:36:52.460Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/11/us/politics/dhs-shutdown-timeline.html",
+      "headline": "8 Weeks of Failed D.H.S. Shutdown Negotiations in 1 Chart",
+      "image": "https://static01.nyt.com/images/2026/04/10/us/dhs-shutdown-timeline-promo-2026-04-10-dhs-shutdown-timeline/dhs-shutdown-timeline-promo-2026-04-10-dhs-shutdown-timeline-articleLarge.jpg",
+      "timestamp": "2026-04-11T09:02:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
