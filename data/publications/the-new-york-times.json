@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-11T09:36:52.460Z",
+  "lastUpdated": "2026-04-12T22:30:19.829Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/12/climate/lee-zeldin-epa-mission-language.html",
+      "headline": "How Lee Zeldin Shifted the Mission — And the Message — of the E.P.A.",
+      "image": "https://static01.nyt.com/images/2026/04/10/multimedia/2026-03-17-cli-zeldin-game-index/2026-03-17-cli-zeldin-game-index-articleLarge-v4.jpg",
+      "timestamp": "2026-04-12T21:55:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
