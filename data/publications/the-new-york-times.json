@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-12T22:30:19.829Z",
+  "lastUpdated": "2026-04-13T10:14:26.798Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/13/opinion/affordable-car-cost.html",
+      "headline": "The Affordable Car Is Dead. What Happened?",
+      "image": "https://static01.nyt.com/images/2026/04/13/opinion/13winston-staticpromo/13winston-staticpromo-articleLarge.png",
+      "timestamp": "2026-04-13T09:03:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/13/nyregion/nyc-budgeting-affordability-babin.html",
+      "headline": "How a Geologist Lives on $200,000 in Bushwick, Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/03/26/multimedia/00met-affordingny-geologist--04-mhjq/00met-affordingny-geologist--04-mhjq-articleLarge.jpg",
+      "timestamp": "2026-04-13T09:02:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
