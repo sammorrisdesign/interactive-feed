@@ -163,9 +163,13 @@
       "publication": "DIE ZEIT",
       "sources": [
         {
-          "type": "XML",
-          "format": "RSS",
-          "path": "https://newsfeed.zeit.de/daten-und-visualisierung"
+          "type": "Website",
+          "path": "https://www.zeit.de/daten-und-visualisierung",
+          "baseUrl": "https://www.zeit.de",
+          "selector": "article.zon-teaser",
+          "url": "a.zon-teaser__link",
+          "headline": ".zon-teaser__title",
+          "image": "img.zon-teaser__media-item"
         }
       ]
     },
