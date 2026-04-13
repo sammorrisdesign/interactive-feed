@@ -160,6 +160,16 @@
       ]
     },
     {
+      "publication": "DIE ZEIT",
+      "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://newsfeed.zeit.de/daten-und-visualisierung"
+        }
+      ]
+    },
+    {
       "publication": "El Confidencial"
     },
     {
@@ -787,9 +797,6 @@
           "headline": "span"
         }
       ]
-    },
-    {
-      "publication": "Zeit"
     }
   ]
 }

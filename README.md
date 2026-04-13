@@ -15,12 +15,12 @@ If you know the secret key you can run `export KEY=<SECRET-KEY>` and then `npm r
 ## Publications
 An evergrowing list of publications that we check and filter feeds of...
 
-List of featured publications: ABC Australia, Berliner Morgenpost, Bloomberg, Boston Globe, CNN, De Tijd, de Volkskrant, ESPN, FT, Houston Chronicle, Kontinentalist, LA Times, Le Monde, National Geographic, Nature, NBC News, NPR, NZZ, Politico, ProPublica, Publico, Reuters, San Francisco Chronicle, Seattle Times, South China Morning Post, SRF, Sydney Morning Herald, Tages-Anzeiger, Tagesspiegel, Texas Monthly, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadelphia Inquirer, The Pudding, The Straits Times, The Verge, The Washington Post, USA Today, and WSJ.
+List of featured publications: ABC Australia, Berliner Morgenpost, Bloomberg, Boston Globe, CNN, De Tijd, de Volkskrant, DIE ZEIT, ESPN, FT, Houston Chronicle, Kontinentalist, LA Times, Le Monde, National Geographic, Nature, NBC News, NPR, NZZ, Politico, ProPublica, Publico, Reuters, San Francisco Chronicle, Seattle Times, South China Morning Post, SRF, Sydney Morning Herald, Tages-Anzeiger, Tagesspiegel, Texas Monthly, Texas Tribune, The City, The Economist, The Guardian, The New York Times, The Philadelphia Inquirer, The Pudding, The Straits Times, The Verge, The Washington Post, USA Today, and WSJ.
 
 ## Missing Publications
 Not all publications have specific feeds or repeatable url structures to get the types of stories we're looking to share. While this isn't a complete list of what's missing, here's some major newsrooms that we don't have hooked up...
 
-List of missing publications: Al Jazeera, Associated Press, Atlanta Journal Constitution, Axios, Bayerischer Rundfunk, BBC News, CBC, Chicago Tribune, Commonwealth Magazine, El Confidencial, El Diario, El País, Helsingin Sanomat, Insider, La Vanguardia, Le Nacion, Les Échos, Marshall Project, Miami Herald, Minnepolis Star Tribune, Radio Canada, Rest of World, SB Nation, SRF, Süddeutsche Zeitung, Tampa Bay Times, The Atlantic, The Globe and Mail, The New Yorker, The Times of London, Time Magazine, Toronto Star, Vox, and Zeit.
+List of missing publications: Al Jazeera, Associated Press, Atlanta Journal Constitution, Axios, Bayerischer Rundfunk, BBC News, CBC, Chicago Tribune, Commonwealth Magazine, El Confidencial, El Diario, El País, Helsingin Sanomat, Insider, La Vanguardia, Le Nacion, Les Échos, Marshall Project, Miami Herald, Minnepolis Star Tribune, Radio Canada, Rest of World, SB Nation, SRF, Süddeutsche Zeitung, Tampa Bay Times, The Atlantic, The Globe and Mail, The New Yorker, The Times of London, Time Magazine, Toronto Star and Vox.
 
 Know of how any of these newsrooms can be added? Make a PR!
 Know of any newsrooms we should add? Tweet me [@SamMorrisDesign](https://twitter.com/SamMorrisDesign) or add a GitHub Issue
