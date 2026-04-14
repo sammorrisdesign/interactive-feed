@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-13T14:59:44.585Z",
+  "lastUpdated": "2026-04-14T03:48:29.556Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/13/us/quake-tracker-nevada.html",
+      "headline": "Map: 5.7-Magnitude Earthquake Shakes Nevada",
+      "image": "https://static01.nyt.com/images/2026/04/14/world/13wea-quake-tracker-nevada-nyt6k6vb-index/13wea-quake-tracker-nevada-nyt6k6vb-index-articleLarge-v31.jpg",
+      "timestamp": "2026-04-14T01:47:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/13/books/poetry-week-newsletter-signup.html",
+      "headline": "Sign Up for the Book Review’s 2026 Challenge",
+      "image": "https://static01.nyt.com/images/2025/04/24/books/IlloNewsletterBooksPoetry/IlloNewsletterBooksPoetry-articleLarge.png",
+      "timestamp": "2026-04-14T00:29:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
