@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-03-03T18:42:49.705Z",
+  "lastUpdated": "2026-04-15T19:12:25.541Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/04/nation/threats-to-lawmakers-rising/",
+      "headline": "The End of Normalcy: Violent threats pour into congressional offices, and it’s getting worse.",
+      "image": "https://apps.bostonglobe.com/2026/04/nation/threats-to-lawmakers-rising/static/1a53618a7d56f0191a74983984acea66/47498/WJ76I5JABNFCJKRZ5BVCPYBRR4.jpg",
+      "timestamp": "2026-04-15T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "twitterHandle": "BostonGlobe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/03/opinion/ideas/graphics/lost-found/",
+      "headline": "Lost and/or found: Ten weird but totally true Boston stories",
+      "image": "https://media.ceros.com/boston-globe-opinion/images/2026/02/19/bc286a8665eeee322905638a8c0a322b/lostfound-16-9.gif",
+      "timestamp": "2026-03-02T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",
