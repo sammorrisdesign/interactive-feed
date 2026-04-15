@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-14T09:14:30.685Z",
+  "lastUpdated": "2026-04-15T09:16:37.956Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/15/opinion/glp1-health-effects.html",
+      "headline": "The Great American GLP-1 Experiment",
+      "image": "https://static01.nyt.com/images/2026/04/15/opinion/15belluz-promo/15belluz-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-04-15T09:04:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/travel/amsterdam-netherlands-guide.html",
+      "headline": "Your Guide to Amsterdam",
+      "image": "https://static01.nyt.com/images/2026/04/15/multimedia/00-amsterdam-guide-promo-cgwl/00-amsterdam-guide-promo-cgwl-articleLarge.jpg",
+      "timestamp": "2026-04-15T09:03:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
