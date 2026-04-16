@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-16T03:52:43.066Z",
+  "lastUpdated": "2026-04-16T09:32:05.336Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/16/realestate/brooklyn-downtown-fort-greene-apartments.html",
+      "headline": "Downtown Tower or Tree-Lined Street? A New Brooklynite Weighed Her Options.",
+      "image": "https://static01.nyt.com/images/2026/04/16/multimedia/16re-Hunt-Clayton1-kqmw/16re-Hunt-Clayton1-kqmw-articleLarge.jpg",
+      "timestamp": "2026-04-16T09:05:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/16/travel/things-to-do-santa-cruz.html",
+      "headline": "36 Hours in Santa Cruz, Calif.",
+      "image": "https://static01.nyt.com/images/2026/04/16/multimedia/16trav-hours-santacruz-01-lzpc/16trav-hours-santacruz-01-lzpc-articleLarge-v3.jpg",
+      "timestamp": "2026-04-16T09:03:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
