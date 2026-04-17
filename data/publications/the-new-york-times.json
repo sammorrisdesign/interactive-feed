@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-16T21:40:55.785Z",
+  "lastUpdated": "2026-04-17T10:20:30.542Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/17/magazine/procrastination-productivity-hodgman-quiz.html",
+      "headline": "Should You Procrastinate Productively — or by Having Fun?",
+      "image": "https://static01.nyt.com/images/2026/04/19/magazine/19mag-hodgman/19mag-hodgman-articleLarge-v2.jpg",
+      "timestamp": "2026-04-17T09:04:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
