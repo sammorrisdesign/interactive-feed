@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-18T09:44:19.221Z",
+  "lastUpdated": "2026-04-18T14:51:45.170Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/18/world/middleeast/iran-us-war-drones-cost.html",
+      "headline": "How Iran’s Cheap, Low-Tech Drones Have Cost the U.S.",
+      "image": "https://static01.nyt.com/images/2026/04/17/us/drone-promo-iran-drones/drone-promo-iran-drones-articleLarge-v2.png",
+      "timestamp": "2026-04-18T14:44:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
