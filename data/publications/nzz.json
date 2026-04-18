@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-18T04:44:15.136Z",
+  "lastUpdated": "2026-04-18T06:11:43.668Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-40-tage-krieg-teheran-veraendern-ld.1934106",
+      "headline": "Iran-Krieg: Eine Analyse von Satellitendaten zeigt die Zerstörung in Teheran",
+      "image": "https://img.nzz.ch/2026/04/17/4a9ad932-06aa-4ee6-a6f7-864e98b72640.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1680,945,x0,y178&wmark=nzz",
+      "timestamp": "2026-04-18T05:22:32.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
