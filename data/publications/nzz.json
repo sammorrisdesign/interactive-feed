@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-12T05:21:20.263Z",
+  "lastUpdated": "2026-04-18T04:44:15.136Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-deutsche-e-auto-praemie-hilft-vor-allem-der-auslaendischen-autoindustrie-ld.1933478",
+      "headline": "Die deutsche E-Auto-Prämie hilft vor allem der ausländischen Autoindustrie",
+      "image": "https://img.nzz.ch/2026/04/16/8e63e66c-bffa-41f1-869e-f323ed6f9520.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2800,1575,x0,y263&wmark=nzz",
+      "timestamp": "2026-04-18T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
