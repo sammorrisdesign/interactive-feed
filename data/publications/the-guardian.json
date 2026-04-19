@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-19T05:15:00.593Z",
+  "lastUpdated": "2026-04-19T15:05:13.122Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/apr/19/bikram-lama-birdman-sydney-st-james-tunnel-homelessness-ntwnfb",
+      "headline": "When ‘the birdman’ of St James tunnel died, Sydney commuters streamed past his body for days",
+      "image": "https://i.guim.co.uk/img/media/b59329499509a0dd8ca8514c9de059c34d5a4bef/0_0_4451_3563/master/4451.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c6012af4748459466e53934863f2fd9",
+      "timestamp": "2026-04-19T15:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/apr/19/melissa-lucashenko-on-rebuilding-social-cohesion-indigenous-australians-ntwnfb",
+      "headline": "‘A white man’s fantasy’: if we want to rebuild social cohesion, we need to acknowledge where it all started to unravel",
+      "image": "https://i.guim.co.uk/img/media/537a3de87bfd0cea5f1ebded257f1c5531d5290b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=326ff22ea815144a3bbcd1aba6dac812",
+      "timestamp": "2026-04-19T15:00:45.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
