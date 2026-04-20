@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-04-20T02:26:52.597Z",
+  "lastUpdated": "2026-04-20T09:25:28.995Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/20/nyregion/nyc-subway-power-electricity-train-delays.html",
+      "headline": "Inside the Power Stations That Keep the Subways Moving, or Bring Them to a Halt",
+      "image": "https://static01.nyt.com/images/2026/04/07/multimedia/00-substation-01-gmwl/00-substation-01-gmwl-articleLarge.jpg",
+      "timestamp": "2026-04-20T09:03:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/20/nyregion/nyc-budgeting-affordability-serrano.html",
+      "headline": "How a Fashion Disrupter Lives on $50,000 a Year in the South Bronx",
+      "image": "https://static01.nyt.com/images/2026/04/20/multimedia/20met-affordingny-ari-serrano-top--01-jcwk/20met-affordingny-ari-serrano-top--01-jcwk-articleLarge.jpg",
+      "timestamp": "2026-04-20T09:02:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/20/world/asia/quake-tracker-japan-north-pacific-ocean.html",
+      "headline": "Map: 7.4-Magnitude Earthquake Strikes Near Japan",
+      "image": "https://static01.nyt.com/images/2026/04/20/world/20wea-quake-tracker-north-pacific-ocean-nytcj2wz-index/20wea-quake-tracker-north-pacific-ocean-nytcj2wz-index-articleLarge-v22.jpg",
+      "timestamp": "2026-04-20T08:38:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
