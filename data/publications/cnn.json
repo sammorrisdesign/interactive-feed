@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-03-12T01:50:52.742Z",
+  "lastUpdated": "2026-04-20T02:26:52.546Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "twitterHandle": "CNN",
+      "blueSkyHandle": "cnn.com",
+      "url": "https://www.cnn.com/interactive/2026/04/entertainment/prince-photographer-steve-parke-cnnphotos/",
+      "headline": "These intimate photos show a different side of Prince",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreiga3eu7hvdnemjmmdqfjmfflez2iw7vd4ll23b64baubd6rzr5zqm",
+      "timestamp": "2026-04-20T02:01:03.132Z"
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
