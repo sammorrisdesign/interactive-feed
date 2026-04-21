@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-14T07:55:39.737Z",
+  "lastUpdated": "2026-04-21T12:12:58.986Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "twitterHandle": "zeitonline",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissen/2026-04/austritt-nsdap-nationalsozialismus-partei-archiv",
+      "headline": "Wie schwer war es, aus Hitlers Partei auszutreten?",
+      "image": "https://img.zeit.de/wissen/2026-04/nsdap-austritte-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "twitterHandle": "zeitonline",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-04/anhebung-beitragsbemessungsgrenze-krankenkassenreform-nina-warken-gutverdiener",
+      "headline": "Müssen Sie bald mehr für die Krankenversicherung zahlen?",
+      "image": "https://img.zeit.de/wirtschaft/2026-04/anhebung-beitragsbemessungsgrenze-krankenkassenreform-nina-warken/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "twitterHandle": "zeitonline",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-04/jobwechsel-beruf-karriere-arbeitsplatz",
+      "headline": "In welchen Jobs Menschen oft wechseln – und wo sie lange bleiben",
+      "image": "https://img.zeit.de/arbeit/2026-04/jobwechsel-beruf-karriere-arbeitsplatz-bild/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "twitterHandle": "zeitonline",

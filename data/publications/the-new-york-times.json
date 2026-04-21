@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-21T09:58:11.570Z",
+  "lastUpdated": "2026-04-21T12:12:59.027Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/21/us/university-wisconsin-poison-coworkers-complaint.html",
+      "headline": "Read the Wisconsin Criminal Complaint",
+      "image": "https://static01.nyt.com/images/2026/04/20/doc-makoto-kuroda-complaint-promo/doc-makoto-kuroda-complaint-promo-articleLarge.png",
+      "timestamp": "2026-04-21T12:06:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
