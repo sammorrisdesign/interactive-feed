@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-21T03:50:22.460Z",
+  "lastUpdated": "2026-04-21T09:58:11.570Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/21/us/politics/congress-redistricting-virginia-missouri-texas.html",
+      "headline": "How Both Parties Are Slicing Urban Areas to Tilt the House",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-04-21T09:03:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
