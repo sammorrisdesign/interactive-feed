@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-21T16:57:33.644Z",
+  "lastUpdated": "2026-04-22T03:34:47.880Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/books/wh-auden-poetry-challenge-bio.html",
+      "headline": "The Poetry Challenge Day 3: How do you write about love?",
+      "image": "https://static01.nyt.com/images/2026/03/30/books/poetry-challenge-day-3-1776444617908/poetry-challenge-day-3-1776444617908-articleLarge.jpg",
+      "timestamp": "2026-04-22T01:03:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
