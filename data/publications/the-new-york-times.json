@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-22T17:58:51.426Z",
+  "lastUpdated": "2026-04-22T21:28:25.547Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/22/nyregion/bronxcoldcase.html",
+      "headline": "Man Accused of Execution-Style Killing Arrested 33 Years After Double Murder",
+      "image": "https://static01.nyt.com/images/2026/04/22/doc-bronxcoldcase-promo/doc-bronxcoldcase-promo-articleLarge.png",
+      "timestamp": "2026-04-22T21:15:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
