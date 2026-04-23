@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-23T03:54:31.249Z",
+  "lastUpdated": "2026-04-23T10:04:09.849Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/23/realestate/bay-area-oakland-berkeley-real-estate.html",
+      "headline": "Two Sisters, Two Husbands, a Toddler and a House in the Bay Area",
+      "image": "https://static01.nyt.com/images/2026/04/23/multimedia/23re-Hunt-Berkeley-01-mqbz/23re-Hunt-Berkeley-01-mqbz-articleLarge-v2.jpg",
+      "timestamp": "2026-04-23T09:04:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/23/travel/things-to-do-richmond.html",
+      "headline": "36 Hours in Richmond, Va.",
+      "image": "https://static01.nyt.com/images/2026/04/21/multimedia/trav-hours-richmond-vfjz/trav-hours-richmond-vfjz-articleLarge-v3.jpg",
+      "timestamp": "2026-04-23T09:02:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
