@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-22T22:11:29.827Z",
+  "lastUpdated": "2026-04-23T03:54:31.249Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/22/style/the-japanese-designers-changing-mens-wear.html",
+      "headline": "The Japanese Designers Changing Men’s Wear",
+      "image": "https://static01.nyt.com/images/2026/04/26/fashion/ST-NEW-JAPANESE-BRANDS/ST-NEW-JAPANESE-BRANDS-articleLarge.jpg",
+      "timestamp": "2026-04-23T01:29:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/books/wh-auden-poetry-challenge-stars.html",
+      "headline": "The Poetry Challenge Day 4: Are we alone in the universe? Does it matter?",
+      "image": "https://static01.nyt.com/images/2026/03/30/books/poetry-challenge-day-4-1776444693663/poetry-challenge-day-4-1776444693663-articleLarge.jpg",
+      "timestamp": "2026-04-23T01:01:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
