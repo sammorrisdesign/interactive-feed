@@ -1,6 +1,56 @@
 {
-  "lastUpdated": "2026-04-23T13:22:05.796Z",
+  "lastUpdated": "2026-04-23T15:25:53.862Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/mississippi-us-senate-election-polls-2026.html",
+      "headline": "Mississippi U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-23T14:05:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/kansas-us-senate-election-polls-2026.html",
+      "headline": "Kansas U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-23T13:58:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/iowa-governor-election-polls-2026.html",
+      "headline": "Iowa Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-23T13:49:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/kansas-governor-election-polls-2026.html",
+      "headline": "Kansas Governor Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-23T13:40:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-us-senate-election-polls-2026.html",
+      "headline": "Colorado U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-23T13:28:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
