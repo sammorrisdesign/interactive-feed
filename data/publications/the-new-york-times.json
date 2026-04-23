@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-23T15:25:53.862Z",
+  "lastUpdated": "2026-04-23T19:49:32.126Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/23/us/earthquake-missouri-memphis-tennessee.html",
+      "headline": "Map: 4.0-Magnitude Earthquake Shakes Southeastern Missouri",
+      "image": "https://static01.nyt.com/images/2026/04/23/world/23wea-quake-tracker-missouri-nyt6qkyq-index/23wea-quake-tracker-missouri-nyt6qkyq-index-articleLarge-v25.jpg",
+      "timestamp": "2026-04-23T19:04:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/23/nyregion/laguardia-crash-NTSB-report.html",
+      "headline": "Read the Preliminary Report on the LaGuardia Crash",
+      "image": "https://static01.nyt.com/images/2026/04/23/doc-reportdca26ma161202674423-promo/doc-reportdca26ma161202674423-promo-articleLarge.png",
+      "timestamp": "2026-04-23T18:37:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
