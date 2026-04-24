@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-23T19:49:32.126Z",
+  "lastUpdated": "2026-04-24T02:24:47.712Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/books/wh-auden-poetry-challenge-solitude.html",
+      "headline": "The Poetry Challenge Day 5: You did it! You’re a star.",
+      "image": "https://static01.nyt.com/images/2026/03/30/books/poetry-challenge-day-5-1776444769227/poetry-challenge-day-5-1776444769227-articleLarge.jpg",
+      "timestamp": "2026-04-24T01:01:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/23/nyregion/maduro-betting-polymarket-soldier.html",
+      "headline": "Read the Indictment Charging a U.S. Solider With Insider Trading",
+      "image": "https://static01.nyt.com/images/2026/04/24/doc-polymarket-indictment-promo/doc-polymarket-indictment-promo-articleLarge.png",
+      "timestamp": "2026-04-24T00:32:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
