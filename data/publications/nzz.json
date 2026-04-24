@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-18T06:11:43.668Z",
+  "lastUpdated": "2026-04-24T14:52:40.465Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/idf-karten-ld.10003767",
+      "headline": "Irreführende Karten: Das israelische Militär warnte Zivilisten wiederholt mit falschen Daten",
+      "image": "https://img-msp-prod.nzz.ch/2026/04/21/88f8d5fe-d678-4a43-b5a1-503649b63a98.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y228&wmark=nzz",
+      "timestamp": "2026-04-24T13:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
