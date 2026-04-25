@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-24T14:52:40.465Z",
+  "lastUpdated": "2026-04-25T05:46:39.831Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/reicht-es-fuer-eine-absolute-mehrheit-der-afd-in-sachsen-anhalt-alle-umfragen-zur-wahl-ld.10004255",
+      "headline": "Kann die AfD in Sachsen-Anhalt allein regieren? Alle Umfragen zur Wahl",
+      "image": "https://img-msp-prod.nzz.ch/2026/04/23/7151c1fc-21cc-47b0-979b-39b30bfb8824.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y226&wmark=nzz",
+      "timestamp": "2026-04-25T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",

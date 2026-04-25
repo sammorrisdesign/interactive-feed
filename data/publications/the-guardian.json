@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-24T16:02:22.916Z",
+  "lastUpdated": "2026-04-25T05:46:40.247Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/25/chornobyl-power-plant-at-risk-amid-russia-war-ukraine",
+      "headline": " Inside Chornobyl: 40 years after disaster, nuclear site still at risk in Russia’s war ",
+      "image": "https://i.guim.co.uk/img/media/785c7a6c838f62bc459ead38ab013dd390d24abc/156_0_4688_3750/master/4688.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87cdcd1976284049c4b8712b9e50cf58",
+      "timestamp": "2026-04-25T05:00:36.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
