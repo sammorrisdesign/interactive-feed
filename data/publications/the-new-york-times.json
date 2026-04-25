@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-24T18:06:49.942Z",
+  "lastUpdated": "2026-04-25T07:10:53.454Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/25/nyregion/routine-jesse-tyler-ferguson.html",
+      "headline": "How Jesse Tyler Ferguson Is Showing His Range",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/25met-routine-jesse-tyler-ferguson-promo/25met-routine-jesse-tyler-ferguson-01-lhbc-articleLarge.jpg",
+      "timestamp": "2026-04-25T07:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
