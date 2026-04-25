@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-25T11:35:57.988Z",
+  "lastUpdated": "2026-04-25T12:58:12.048Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/25/gen-z-entrepreneurs-business-ai",
+      "headline": "Facing AI and a tough job market, gen Z turns to entrepreneurship: ‘I have to prove myself’",
+      "image": "https://i.guim.co.uk/img/media/b8b8b576847e5fb244a46b5bd8d34cdc5ac36501/0_722_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a402b90f8ada08e5f537211e7464138d",
+      "timestamp": "2026-04-25T12:00:45.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
