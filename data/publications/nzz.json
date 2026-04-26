@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-25T05:46:39.831Z",
+  "lastUpdated": "2026-04-26T05:25:00.257Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/israel-hat-alle-wichtigen-bruecken-ueber-den-litani-fluss-in-libanon-zerstoert-ist-das-ein-verstoss-gegen-das-humanitaere-voelkerrecht-ld.10004179",
+      "headline": "Israel hat alle wichtigen Brücken über den Litani-Fluss in Libanon zerstört. Ist das ein Verstoss gegen das humanitäre Völkerrecht?",
+      "image": "https://img-msp-prod.nzz.ch/2026/04/24/3062cfca-e3a3-467d-b1bc-aa5f5ae659ed.png?width=325&height=277&fit=bounds&quality=75&auto=webp&crop=325,277,x904,y888",
+      "timestamp": "2026-04-26T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
