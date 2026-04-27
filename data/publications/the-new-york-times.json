@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-27T09:36:43.411Z",
+  "lastUpdated": "2026-04-27T15:44:39.539Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/us/quake-tracker-southern-california.html",
+      "headline": "Map: 3.4-Magnitude Earthquake Shakes Los Angeles Area",
+      "image": "https://static01.nyt.com/images/2026/04/27/world/27wea-quake-tracker-southern-california-nyt5szrr-index/27wea-quake-tracker-southern-california-nyt5szrr-index-articleLarge-v10.jpg",
+      "timestamp": "2026-04-27T15:20:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/books/review/poetry-places-quiz.html",
+      "headline": "Can You Identify These Poems and Places?",
+      "image": "https://static01.nyt.com/images/2026/04/27/books/review/27TBR-Quiz-PLACES/27TBR-Quiz-PLACES-articleLarge.jpg",
+      "timestamp": "2026-04-27T15:00:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
