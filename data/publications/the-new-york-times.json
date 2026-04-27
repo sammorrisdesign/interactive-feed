@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-26T22:02:29.619Z",
+  "lastUpdated": "2026-04-27T09:36:43.411Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/nyregion/nyc-budgeting-affordability-donadelle.html",
+      "headline": "How a Housing Organizer and Her Son Live on $89,000 Near Central Park",
+      "image": "https://static01.nyt.com/images/2026/04/27/multimedia/27met-affording-ny-promo/27met-affording-ny--01-zphf-articleLarge.jpg",
+      "timestamp": "2026-04-27T09:02:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/opinion/electricity-power-grid-infrastructure.html",
+      "headline": "It’s the Age of Electricity and America Isn’t Ready",
+      "image": "https://static01.nyt.com/images/2026/04/26/opinion/meyer-grid-still-2/meyer-grid-still-2-articleLarge.png",
+      "timestamp": "2026-04-27T09:02:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
