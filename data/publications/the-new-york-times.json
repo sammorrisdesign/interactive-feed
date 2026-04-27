@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-27T15:44:39.539Z",
+  "lastUpdated": "2026-04-27T20:06:13.389Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/us/affidavit-cole-tomas-allen-white-house-correspondents-dinner-shooting.html",
+      "headline": "Read the Criminal Complaint and Affidavit Charging Cole Tomas Allen",
+      "image": "https://static01.nyt.com/images/2026/04/27/doc-coletomasallencomplaintaf-promo/doc-coletomasallencomplaintaf-promo-articleLarge.png",
+      "timestamp": "2026-04-27T19:21:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-mexico-us-senate-election-polls-2026.html",
+      "headline": "New Mexico U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-27T19:19:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

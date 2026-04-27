@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-16T00:05:38.072Z",
+  "lastUpdated": "2026-04-27T20:06:13.368Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/04/23/virginia-texas-republicans-redistricting-war-congress-trump/",
+      "headline": "After Virginia’s referendum, the Texas-ignited redistricting war is looking like a wash",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/04/20260415-Virginia-Redistricting-Vote-REUTERS.jpg?quality=89&w=1200&h=630&ssl=1",
+      "timestamp": "2026-04-23T15:49:03.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/03/18/texas-primary-runoff-elections-2026/",
+      "headline": "Here’s how to vote in Texas’ May 26 primary runoff elections",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/03/20260303-Houston-Primary-Election-AM-04.jpg?fit=2560%2C1707&quality=100&ssl=1&w=1200&h=630",
+      "timestamp": "2026-03-18T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "twitterHandle": "TexasTribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/03/13/texas-latino-voters-primary-democrats-republicans-rio-grande-valley/",
+      "headline": "Democratic turnout doubles in Rio Grande Valley where four Hispanic counties previously went for Trump",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/03/20260309-RGV-Dems-Rally-GVC-12.jpg?quality=89&w=1200&h=630&ssl=1",
+      "timestamp": "2026-03-13T10:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",
