@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-04-28T02:39:05.887Z",
+  "lastUpdated": "2026-04-28T10:31:00.521Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/28/realestate/constance-zimmer-house-tour.html",
+      "headline": "Constance Zimmer Honors Both Old and New in her Los Angeles Home",
+      "image": "https://static01.nyt.com/images/2026/04/27/realestate/constance-zimmer-house-tour-1777335266836/constance-zimmer-house-tour-1777335266836-articleLarge.jpg",
+      "timestamp": "2026-04-28T09:04:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/28/opinion/focus-group-trump-voters-disappointed.html",
+      "headline": "‘Disappointed,’ ‘Surprised,’ ‘Betrayed’: 12 Trump Voters on What Has Gone Wrong",
+      "image": "https://static01.nyt.com/images/2026/04/28/opinion/28focusgroup-promo/28focusgroup-promo-articleLarge.jpg",
+      "timestamp": "2026-04-28T09:03:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
