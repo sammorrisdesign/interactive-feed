@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-04-28T10:31:00.521Z",
+  "lastUpdated": "2026-04-28T17:10:52.618Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/california-us-house-48-polls-2026.html",
+      "headline": "California 48th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-28T15:54:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/28/nyregion/comey-lawsuit-decision.html",
+      "headline": "Read the Decision Allowing Maurene Comey’s Lawsuit to Proceed",
+      "image": "https://static01.nyt.com/images/2026/04/28/doc-comey-lawsuit-decision-promo/doc-comey-lawsuit-decision-promo-articleLarge.png",
+      "timestamp": "2026-04-28T15:46:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/california-us-house-22-polls-2026.html",
+      "headline": "California 22nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-28T14:58:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/california-us-house-14-polls-2026.html",
+      "headline": "California 14th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-04-28T14:15:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
