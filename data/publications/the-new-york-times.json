@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-28T17:10:52.618Z",
+  "lastUpdated": "2026-04-28T19:05:16.864Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/business/economy/trump-tariff-tracker.html",
+      "headline": "Here Are the Countries and Products Subject to Tariffs Now",
+      "image": "https://static01.nyt.com/images/2025/07/25/business/2025-07-14-recip-tariff-tracker-index-hotfix/2025-07-14-recip-tariff-tracker-index-hotfix-articleLarge-v17.png",
+      "timestamp": "2026-04-28T17:49:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
