@@ -1,6 +1,106 @@
 {
-  "lastUpdated": "2026-04-27T20:06:13.389Z",
+  "lastUpdated": "2026-04-28T02:39:05.887Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/greatest-american-songwriters-vote.html",
+      "headline": "Cast Your Vote for the Greatest Living American Songwriters",
+      "image": "https://static01.nyt.com/images/2026/04/24/03mag-Songwriters-Promo-5468/03mag-Songwriters-Promo-5468-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:09:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/greatest-living-songwriters-methodology.html",
+      "headline": "How We Made the List of the 30 Greatest Living American Songwriters",
+      "image": "https://static01.nyt.com/images/2026/04/24/03mag-Songwriters-Promo-40044/03mag-Songwriters-Promo-40044-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:09:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/critics-pick-greatest-american-songwriters.html",
+      "headline": "See Who Insiders Nominated as America’s Greatest Living Songwriters",
+      "image": "https://static01.nyt.com/images/2026/04/24/03mag-Songwriters-Promo-62663/03mag-Songwriters-Promo-62663-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:08:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/hit-songs-songwriter-quiz.html",
+      "headline": "Who Wrote Your Favorite Songs?",
+      "image": "https://static01.nyt.com/images/2026/04/24/-03mag-Songwriters-Promo-41874/-03mag-Songwriters-Promo-41874-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:08:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/great-american-songwriters-objects-inspiration.html",
+      "headline": "The Objects That Inspire America's Greatest Songwriters",
+      "image": "https://static01.nyt.com/images/2026/05/03/magazine/03mag-musicobjects-05/03mag-musicobjects-05-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:07:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/stevie-wonder-composer-preacher-visionary.html",
+      "headline": "Stevie Wonder Is the Ultimate Embodiment of American Music",
+      "image": "https://static01.nyt.com/images/2026/05/03/magazine/03mag-music-sw/03mag-music-sw-articleLarge-v3.png",
+      "timestamp": "2026-04-28T01:06:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/lucinda-williams-storyteller-singer-songwriter.html",
+      "headline": "Lucinda Williams’s Songs Can Turn Any Sentiment Into a Lit Fuse",
+      "image": "https://static01.nyt.com/images/2026/05/03/magazine/03mag-music-portraits-17/03mag-music-portraits-17-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:05:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/diane-warren-songs-popular-hits.html",
+      "headline": "Diane Warren Is a Titan of Lavish Power Ballads. You Adore at Least One.",
+      "image": "https://static01.nyt.com/images/2026/05/03/magazine/03mag-music-portraits-11/03mag-music-portraits-11-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:04:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/young-thug-hip-hop-rap.html",
+      "headline": "Young Thug Didn’t Just Mutate Hip-Hop. He Changed the Whole Act of Vocalizing.",
+      "image": "https://static01.nyt.com/images/2026/05/03/magazine/03mag-music-portraits-10/03mag-music-portraits-10-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:03:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/27/magazine/taylor-swift-pop-country-songwriter.html",
+      "headline": "There’s a Reason Taylor Swift Is America’s Most Carefully Studied Writer",
+      "image": "https://static01.nyt.com/images/2026/05/03/magazine/03mag-music-portraits-08/03mag-music-portraits-08-articleLarge.jpg",
+      "timestamp": "2026-04-28T01:02:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
