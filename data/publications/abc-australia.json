@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-04-26T19:26:49.964Z",
+  "lastUpdated": "2026-04-29T19:21:41.210Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "twitterHandle": "abcnews",
+      "url": "https://www.abc.net.au/news/2026-04-30/inflation-tracker-see-how-prices-have-changed/106585314",
+      "headline": "See how the price of everything has changed",
+      "image": "https://live-production.wcms.abc-cdn.net.au/829d964e73f7434c9c5f624f9c6f5b1d?impolicy=wcms_crop_resize&cropH=1050&cropW=1400&xPos=146&yPos=118&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
