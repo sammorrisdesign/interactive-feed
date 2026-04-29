@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-21T12:12:58.986Z",
+  "lastUpdated": "2026-04-29T08:11:40.043Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "twitterHandle": "zeitonline",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-04/steuerpolitik-steuersystem-steuern-rechner-interaktion",
+      "headline": "Seien Sie unser Finanzminister!",
+      "image": "https://img.zeit.de/politik/deutschland/2026-04/steuerpolitik-steuersystem-steuern-rechner-interaktion-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "twitterHandle": "zeitonline",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-04/strasse-von-hormus-geografie-weltkarte-einschaetzung-selbsttest",
+      "headline": "Wissen Sie eigentlich, wo die Straße von Hormus liegt?",
+      "image": "https://img.zeit.de/wirtschaft/2026-04/strasse-von-hormus-geografie-weltkarte-einschaetzung-selbsttest-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "twitterHandle": "zeitonline",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissen/2026-04/bundesarchiv-nsdap-entnazifizierungsakten-recherche-familiengeschichte",
+      "headline": "Meine Angehörigen waren in der NSDAP – wie recherchiere ich weiter?",
+      "image": "https://img.zeit.de/wissen/2026-04/bundesarchiv-nsdap-entnazifizierungsakten-recherche/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "twitterHandle": "zeitonline",
