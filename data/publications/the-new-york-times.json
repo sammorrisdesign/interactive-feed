@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-28T19:05:16.864Z",
+  "lastUpdated": "2026-04-29T05:51:59.409Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/29/science/iran-enriched-uranium-stockpile-nuclear-energy-bomb.html",
+      "headline": "How Iran Accumulated 11 Tons of Enriched Uranium",
+      "image": "https://static01.nyt.com/images/2026/04/25/multimedia/2026-03-31-iran-nuclear-sites-index/2026-03-31-iran-nuclear-sites-index-articleLarge-v8.png",
+      "timestamp": "2026-04-29T04:01:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
