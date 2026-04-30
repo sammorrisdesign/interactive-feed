@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-30T05:56:24.052Z",
+  "lastUpdated": "2026-04-30T08:17:19.825Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "twitterHandle": "nzzvisuals",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-tanktourismus-in-der-schweiz-hat-sich-nach-dem-ausbruch-des-iran-kriegs-zeitweise-mehr-als-verdreifacht-ld.10004294",
+      "headline": "Einkaufstourismus mal umgekehrt: Viele Deutsche tanken in der Schweiz",
+      "image": "https://img-msp-prod.nzz.ch/2026/04/24/ae9f32df-2afd-4006-97cb-62d335ff96a1.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y225&wmark=nzz",
+      "timestamp": "2026-04-30T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "twitterHandle": "nzzvisuals",
