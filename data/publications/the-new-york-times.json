@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-04-30T14:04:00.042Z",
+  "lastUpdated": "2026-04-30T18:52:22.136Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/04/30/us/politics/voting-rights-act-black-population-congress.html",
+      "headline": "How the Voting Rights Act Bolstered Black Representation in the House",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-04-30T18:48:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
