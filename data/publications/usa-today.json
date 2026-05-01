@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-04-29T22:57:06.599Z",
+  "lastUpdated": "2026-05-01T10:06:56.583Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/05/01/star-wars-mandalorian-grogu-timeline-may-4th-celebrations/89834652007/",
+      "headline": "Star Wars 'Mandalorian' will be first film in seven years: A timeline",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/04/29/USAT/89860892007-mandogrogo-timeline-promo.png",
+      "timestamp": "2026-05-01T10:04:18.295Z"
+    },
+    {
+      "publication": "USA Today",
+      "twitterHandle": "USATODAY",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/05/01/kentucky-derby-track-race-explained/89876311007/",
+      "headline": "At a loss on Kentucky Derby horses and odds? Here's the inside track",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/05/02/USAT/73547552007-kentucky-derbu-topper.png",
+      "timestamp": "2026-05-01T09:06:20.892Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",
