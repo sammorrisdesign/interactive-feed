@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-04-30T17:26:51.024Z",
+  "lastUpdated": "2026-05-02T06:10:53.897Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/02/what-happens-when-deaths-outnumber-births",
+      "headline": "The tipping point: what happens when deaths outnumber births?",
+      "image": "https://i.guim.co.uk/img/media/92b761fd145271400857a0d23cd57ed6f46f640c/461_0_3305_2643/master/3305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=43827a984ea07f90be49d7b2017a9d6a",
+      "timestamp": "2026-05-02T05:00:17.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
