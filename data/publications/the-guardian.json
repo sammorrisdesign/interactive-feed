@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-03T13:03:01.782Z",
+  "lastUpdated": "2026-05-03T16:07:10.071Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/ai-facial-recognition-oversight-lagging-far-behind-technology-watchdogs-warn",
+      "headline": "AI facial recognition oversight lagging far behind technology, watchdogs warn",
+      "image": "https://i.guim.co.uk/img/media/1c1b06bc7a14c84ec55ad4bed812f6d4df67ff2e/1_0_2499_2000/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ca8e0225160a2f55fd29592f80e8121",
+      "timestamp": "2026-05-03T16:00:02.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "twitterHandle": "GuardianVisuals",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/may/03/how-does-live-facial-recognition-work-and-how-many-uk-police-forces-use-it",
+      "headline": "How does live facial recognition work and how many UK police forces use it?",
+      "image": "https://i.guim.co.uk/img/media/01066da73eeea045f2f1be8a05e736470fbfa21f/1_0_2499_2000/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d4c065609051d816037d5230fec15d9",
+      "timestamp": "2026-05-03T16:00:00.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
