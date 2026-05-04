@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-04T17:13:35.644Z",
+  "lastUpdated": "2026-05-04T19:04:01.000Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/04/t-magazine/radcliffe-brooks-questionnaire.html",
+      "headline": "Daniel Radcliffe Takes the Mel Brooks Questionnaire",
+      "image": "https://static01.nyt.com/images/2026/05/04/t-magazine/radcliffe-brooks-promo/radcliffe-brooks-promo-articleLarge.jpg",
+      "timestamp": "2026-05-04T19:01:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
