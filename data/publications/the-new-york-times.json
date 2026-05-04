@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-04T11:22:08.490Z",
+  "lastUpdated": "2026-05-04T13:07:12.550Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/washington-dc-mayor-election-polls-2026.html",
+      "headline": "Washington, D.C. Mayoral Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-04T11:37:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
