@@ -476,6 +476,25 @@
       ]
     },
     {
+      "publication": "Quanta Magazine",
+      "twitterHandle": "QuantaMagazine",
+      "blueSkyHandle": "quantamagazine.bsky.social",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.quantamagazine.org/tag/multimedia/",
+          "selector": ".card",
+          "headline": ".card__title",
+          "url": ".card__content > a",
+          "timestamp": ".card-date div",
+          "timestampFormat": [
+            "MMMM D, YYYY"
+          ],
+          "image": ".image__inner img"
+        }
+      ]
+    },
+    {
       "publication": "Radio Canada"
     },
     {

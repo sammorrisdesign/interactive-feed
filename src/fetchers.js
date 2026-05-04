@@ -258,7 +258,7 @@ const fetchers = {
               twitterHandle: feed.twitterHandle,
               blueSkyHandle: feed.blueSkyHandle,
               url: url,
-              headline: $(article).find(feed.headline).text(),
+              headline: $(article).find(feed.headline).text().trim(),
               image: image || null,
               timestamp: timestamp
             })
