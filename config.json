@@ -761,6 +761,16 @@
               "url": "/interactive"
             }
           }
+        },
+        {
+          "type": "Website",
+          "path": "https://www.washingtonpost.com/visual-stories/",
+          "selector": ".sf-grid section > div > div",
+          "headline": "a > h3",
+          "url": ".story-headline a[data-pb-local-content-field='web_headline']",
+          "image": "figure img",
+          "timestamp": "span:nth-of-type(1)",
+          "timestampFormat": ["MMMM D, YYYY"]
         }
       ]
     },

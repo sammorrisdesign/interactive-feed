@@ -238,7 +238,7 @@ const fetchers = {
       let data = $(feed.selector);
 
       let articles = data.map((i, article) => {
-        let timestamp = $(article).find(feed.timestamp).text();
+        let timestamp = $(article).find(feed.timestamp).first().text();
 
         if (feed.timestampAttribute) {
           timestamp = $(article).find(feed.timestamp).attr(feed.timestampAttribute);
@@ -251,16 +251,18 @@ const fetchers = {
         let url = feed.url ? $(article).find(feed.url).attr('href') : $(article).attr('href');
         url = feed.baseUrl ? feed.baseUrl + url : url;
 
-        if (!feed.domain || url.includes(feed.domain)) {
-          return new Article({
-            publication: feed.publication,
-            twitterHandle: feed.twitterHandle,
-            blueSkyHandle: feed.blueSkyHandle,
-            url: url,
-            headline: $(article).find(feed.headline).text(),
-            image: image || null,
-            timestamp: timestamp
-          })
+        if (url) {
+          if (!feed.domain || url.includes(feed.domain)) {
+            return new Article({
+              publication: feed.publication,
+              twitterHandle: feed.twitterHandle,
+              blueSkyHandle: feed.blueSkyHandle,
+              url: url,
+              headline: $(article).find(feed.headline).text(),
+              image: image || null,
+              timestamp: timestamp
+            })
+          }
         }
       });
 
