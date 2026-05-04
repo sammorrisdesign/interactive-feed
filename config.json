@@ -441,10 +441,11 @@
         {
           "type": "Website",
           "path": "https://www.propublica.org/newsapps/",
-          "selector": ".story-entry",
+          "selector": ".story-card",
           "domain": "projects.propublica.org",
-          "url": ".hed a",
-          "headline": ".hed",
+          "url": ".story-card__hed a",
+          "headline": ".story-card__hed",
+          "image": ".story-card__art img",
           "timestamp": "time",
           "timestampAttribute": "datetime"
         }

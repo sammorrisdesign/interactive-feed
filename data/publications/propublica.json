@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2025-10-03T10:16:28.236Z",
+  "lastUpdated": "2026-05-04T15:50:43.139Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/trump-team-financial-disclosures/",
+      "headline": "Explore Financial Disclosures From President Trump and 1,500 of His Appointees",
+      "image": "https://www.propublica.org/wp-content/uploads/2026/03/20251002-Hickey-Disclosures_3-FINAL_maxHeight_3000_maxWidth_3000-1.jpg?w=300",
+      "timestamp": "2026-03-05T09:55:00.000Z"
+    },
+    {
+      "publication": "ProPublica",
+      "twitterHandle": "propublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/rx-inspector/",
+      "headline": "Look Up Where Your Generic Prescription Drugs Were Made",
+      "image": "https://www.propublica.org/wp-content/uploads/2025/12/20251217-rxinspector-3x2-1.jpg?w=300",
+      "timestamp": "2025-12-18T15:00:00.000Z"
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
