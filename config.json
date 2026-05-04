@@ -2,7 +2,6 @@
   "feeds": [
     {
       "publication": "ABC Australia",
-      "twitterHandle": "abcnews",
       "sources": [
         {
           "type": "Website",
@@ -37,7 +36,6 @@
     },
     {
       "publication": "Berliner Morgenpost",
-      "twitterHandle": "morgenpost",
       "sources": [
         {
           "type": "XML",
@@ -48,7 +46,6 @@
     },
     {
       "publication": "Bloomberg",
-      "twitterHandle": "BBGVisualData",
       "blueSkyHandle": "bloombergnews.bsky.social",
       "sources": [
         {
@@ -65,7 +62,6 @@
     },
     {
       "publication": "Boston Globe",
-      "twitterHandle": "BostonGlobe",
       "blueSkyHandle": "bostonglobe.bsky.social",
       "sources": [
         {
@@ -90,7 +86,6 @@
     },
     {
       "publication": "CNN",
-      "twitterHandle": "CNN",
       "blueSkyHandle": "cnn.com",
       "sources": [
         {
@@ -129,7 +124,6 @@
     },
     {
       "publication": "De Tijd",
-      "twitterHandle": "TijdGraphics",
       "blueSkyHandle": "tijd.be",
       "sources": [
         {
@@ -145,7 +139,6 @@
     },
     {
       "publication": "de Volkskrant",
-      "twitterHandle": "volkskrant",
       "blueSkyHandle": "volkskrant.bsky.social",
       "sources": [
         {
@@ -161,7 +154,6 @@
     },
     {
       "publication": "Die Zeit",
-      "twitterHandle": "zeitonline",
       "blueSkyHandle": "zeit.de",
       "sources": [
         {
@@ -185,7 +177,6 @@
     },
     {
       "publication": "ESPN",
-      "twitterHandle": "ESPN",
       "sources": [
         {
           "type": "XML",
@@ -211,7 +202,6 @@
     },
     {
       "publication": "FT",
-      "twitterHandle": "ftdata",
       "blueSkyHandle": "data.ft.com",
       "sources": [
         {
@@ -244,7 +234,6 @@
     },
     {
       "publication": "Kontinentalist",
-      "twitterHandle": "konti_sg",
       "sources": [
         {
           "type": "XML",
@@ -260,7 +249,6 @@
     },
     {
       "publication": "LA Times",
-      "twitterHandle": "datagraphics",
       "sources": [
         {
           "type": "XML",
@@ -289,7 +277,6 @@
     },
     {
       "publication": "Le Monde",
-      "twitterHandle": "lemondefr",
       "blueSkyHandle": "lemonde.fr",
       "sources": [
         {
@@ -336,7 +323,6 @@
     },
     {
       "publication": "Nature",
-      "twitterHandle": "Nature",
       "blueSkyHandle": "natureportfolio.bsky.social",
       "sources": [
         {
@@ -352,7 +338,6 @@
     },
     {
       "publication": "NBC News",
-      "twitterHandle": "NBCNewsGraphics",
       "sources": [
         {
           "type": "XML",
@@ -411,7 +396,6 @@
     },
     {
       "publication": "NZZ",
-      "twitterHandle": "nzzvisuals",
       "blueSkyHandle": "nzz.ch",
       "sources": [
         {
@@ -443,7 +427,6 @@
     },
     {
       "publication": "ProPublica",
-      "twitterHandle": "propublica",
       "blueSkyHandle": "propublica.bsky.social",
       "sources": [
         {
@@ -461,7 +444,6 @@
     },
     {
       "publication": "Publico",
-      "twitterHandle": "publico_es",
       "blueSkyHandle": "publico.bsky.social",
       "sources": [
         {
@@ -477,7 +459,6 @@
     },
     {
       "publication": "Quanta Magazine",
-      "twitterHandle": "QuantaMagazine",
       "blueSkyHandle": "quantamagazine.bsky.social",
       "sources": [
         {
@@ -502,7 +483,6 @@
     },
     {
       "publication": "Reuters",
-      "twitterHandle": "ReutersGraphics",
       "sources": [
         {
           "type": "Website",
@@ -519,7 +499,6 @@
     },
     {
       "publication": "San Francisco Chronicle",
-      "twitterHandle": "sfchronicle",
       "blueSkyHandle": "sfchronicle.com",
       "sources": [
         {
@@ -543,7 +522,6 @@
     },
     {
       "publication": "Seattle Times",
-      "twitterHandle": "seattletimes",
       "sources": [
         {
           "type": "BlueSky",
@@ -558,7 +536,6 @@
     },
     {
       "publication": "South China Morning Post",
-      "twitterHandle": "SCMPgraphics",
       "sources": [
         {
           "type": "SouthChinaMorningPost"
@@ -567,7 +544,6 @@
     },
     {
       "publication": "SRF",
-      "twitterHandle": "srfnews",
       "sources": [
         {
           "type": "XML",
@@ -581,7 +557,6 @@
     },
     {
       "publication": "Sydney Morning Herald",
-      "twitterHandle": "smh",
       "sources": [
         {
           "type": "Website",
@@ -598,7 +573,6 @@
     },
     {
       "publication": "Tages-Anzeiger",
-      "twitterHandle": "TA_Interaktiv",
       "sources": [
         {
           "type": "XML",
@@ -609,7 +583,6 @@
     },
     {
       "publication": "Tagesspiegel",
-      "twitterHandle": "BerlinDigital",
       "blueSkyHandle": "tagesspiegel.de",
       "sources": [
         {
@@ -626,7 +599,6 @@
     },
     {
       "publication": "Texas Monthly",
-      "twitterHandle": "TexasMonthly",
       "blueSkyHandle": "texasmonthly.bsky.social",
       "sources": [
         {
@@ -643,7 +615,6 @@
     },
     {
       "publication": "Texas Tribune",
-      "twitterHandle": "TexasTribune",
       "blueSkyHandle": "texastribune.bsky.social",
       "sources": [
         {
@@ -662,7 +633,6 @@
     },
     {
       "publication": "The City",
-      "twitterHandle": "thecityny",
       "blueSkyHandle": "thecity.bsky.social",
       "sources": [
         {
@@ -678,7 +648,6 @@
     },
     {
       "publication": "The Economist",
-      "twitterHandle": "ECONdailycharts",
       "sources": [
         {
           "type": "Website",
@@ -696,7 +665,6 @@
     },
     {
       "publication": "The Guardian",
-      "twitterHandle": "GuardianVisuals",
       "blueSkyHandle": "theguardian.com",
       "sources": [
         {
@@ -706,7 +674,6 @@
     },
     {
       "publication": "The New York Times",
-      "twitterHandle": "nytimes",
       "blueSkyHandle": "nytimes.com",
       "sources": [
         {
@@ -719,7 +686,6 @@
     },
     {
       "publication": "The Philadelphia Inquirer",
-      "twitterHandle": "PhillyInquirer",
       "blueSkyHandle": "inquirer.com",
       "sources": [
         {
@@ -729,7 +695,6 @@
     },
     {
       "publication": "The Pudding",
-      "twitterHandle": "puddingviz",
       "blueSkyHandle": "puddingviz.bsky.social",
       "sources": [
         {
@@ -742,7 +707,6 @@
     },
     {
       "publication": "The Straits Times",
-      "twitterHandle": "straits_times",
       "sources": [
         {
           "type": "XML",
@@ -761,7 +725,6 @@
     },
     {
       "publication": "The Verge",
-      "twitterHandle": "verge",
       "blueSkyHandle": "theverge.com",
       "sources": [
         {
@@ -774,7 +737,6 @@
     },
     {
       "publication": "The Washington Post",
-      "twitterHandle": "washingtonpost",
       "blueSkyHandle": "washingtonpost.com",
       "sources": [
         {
@@ -817,7 +779,6 @@
     },
     {
       "publication": "USA Today",
-      "twitterHandle": "USATODAY",
       "blueSkyHandle": "usatoday.com",
       "sources": [
         {
@@ -837,7 +798,6 @@
     },
     {
       "publication": "WSJ",
-      "twitterHandle": "WSJGraphics",
       "blueSkyHandle": "wsj.com",
       "sources": [
         {

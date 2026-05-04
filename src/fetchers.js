@@ -20,7 +20,6 @@ const fetchers = {
       articles = articles.map(article => {
         return new Article({
           publication: feed.publication,
-          twitterHandle: feed.twitterHandle,
           blueSkyHandle: feed.blueSkyHandle,
           url: article.web_url,
           image: article.multimedia.default.url,
@@ -65,7 +64,6 @@ const fetchers = {
     articles = articles.filter(article => !article.taxonomy.tags.map(tag => tag.description).includes('stamp'));
     articles = articles.map(article => new Article({
       publication: feed.publication,
-      twitterHandle: feed.twitterHandle,
       blueSkyHandle: feed.blueSkyHandle,
       url: article.canonical_url,
       image: article.promo_items.basic.url,
@@ -86,7 +84,6 @@ const fetchers = {
       let articles = data.response.results;
       articles = articles.map(article => new Article({
         publication: feed.publication,
-        twitterHandle: feed.twitterHandle,
         blueSkyHandle: feed.blueSkyHandle,
         url: article.webUrl,
         headline: article.webTitle,
@@ -115,7 +112,6 @@ const fetchers = {
       let articles = data.content_elements;
       articles = articles.map(article => new Article({
         publication: feed.publication,
-        twitterHandle: feed.twitterHandle,
         blueSkyHandle: feed.blueSkyHandle,
         url: 'https://inquirer.com' + article.canonical_url,
         headline: article.headlines.meta_title !== '' ? article.headlines.meta_title : article.headlines.basic,
@@ -139,7 +135,6 @@ const fetchers = {
       articles = articles.slice(0, 10);
       articles = articles.map(article => new Article({
         publication: feed.publication,
-        twitterHandle: feed.twitterHandle,
         blueSkyHandle: feed.blueSkyHandle,
         url: article.url,
         headline: article.title,
@@ -172,7 +167,6 @@ const fetchers = {
 
         articles = data.map(article => new Article({
           publication: feed.publication,
-          twitterHandle: feed.twitterHandle,
           blueSkyHandle: feed.blueSkyHandle,
           url: article.link,
           headline: article.title,
@@ -188,7 +182,6 @@ const fetchers = {
 
         articles = data.map(article => new Article({
           publication: feed.publication,
-          twitterHandle: feed.twitterHandle,
           blueSkyHandle: feed.blueSkyHandle,
           url: article.id,
           headline: article.title,
@@ -198,7 +191,6 @@ const fetchers = {
         data = data.urlset.url;
         articles = data.map(article => new Article({
           publication: feed.publication,
-          twitterHandle: feed.twitterHandle,
           blueSkyHandle: feed.blueSkyHandle,
           url: article.loc,
           headline: article?.['news:news']?.['news:title'],
@@ -255,7 +247,6 @@ const fetchers = {
           if (!feed.domain || url.includes(feed.domain)) {
             return new Article({
               publication: feed.publication,
-              twitterHandle: feed.twitterHandle,
               blueSkyHandle: feed.blueSkyHandle,
               url: url,
               headline: $(article).find(feed.headline).text().trim(),
@@ -301,7 +292,6 @@ const fetchers = {
 
         return new Article({
           publication: feed.publication,
-          twitterHandle: feed.twitterHandle,
           blueSkyHandle: feed.blueSkyHandle,
           url: external.uri,
           headline: external.title,
