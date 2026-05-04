@@ -6,10 +6,20 @@ const skeet = require('./skeet');
 const utils = require('./utils');
 
 const pullRecentFeeds = async() => {
+  const specificPublication = process.env.npm_config_publication;
+  let feeds = new Array
+
+  if (specificPublication) {
+    const feedForSpecificPublication = config.feeds.find(feed => feed.publication == specificPublication);
+    feeds = [feedForSpecificPublication];
+  } else {
+    feeds = config.feeds;
+  }
+
   let data = new Object;
 
   // loop through all feeds and fetch them
-  for (const feed of config.feeds) {
+  for (const feed of feeds) {
     if (feed.sources) {
       const fetchedArticles = await fetchers.fetch(feed);
 

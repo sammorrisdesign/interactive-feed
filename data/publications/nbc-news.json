@@ -1,6 +1,438 @@
 {
-  "lastUpdated": "2026-04-14T16:15:29.931Z",
+  "lastUpdated": "2026-05-04T16:03:30.692Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://nbcnews.com/specials/israel-buffer-zones-borders-gaza-post-oct-7-military-doctrine/",
+      "headline": "Israel grows buffer zones along its borders as part of post-Oct. 7 military doctrine",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2025-08/250603-idf-syria-mb-1711-1335x1402-d6c442.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/trump-immigration-crackdown-social-media-ice/",
+      "headline": "How user-generated videos on social media brought Trump's immigration crackdown to America's screens",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2025-07/250702-immigration-ice-horizontal-717ad9.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://nbcnews.com/specials/house-construction-cost-tariff-change",
+      "headline": "How Trump's tariffs will raise home construction costs",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2025-06/250503-construction-tariffs-jg-82f1f0.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/118th-congress-craziest-speaker-races-mccarthy-johnson-gaetz/index.html",
+      "headline": "Three speakers, a right-wing rebellion and Democratic upheaval: Inside the wild 118th Congress",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-12/241227-patrick-mchenry-ew-454p-f7ac6a.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/three-year-old-skye-mcbrides-miracle-recovery-after-accidental-shooting-photos/index.html",
+      "headline": "A toddler survived a gunshot to the head — but her recovery was only beginning",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-12/241223-1x1-skye-main-art-5up-ew-956a-9b7be0.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/house-buying-battleground-counties-2024-election/index.html",
+      "headline": "Buying a home gets easier in key battleground counties, but voters may not feel it",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-10/241021-phoenix-housing-mn-1240-03a154.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/politics/2024-election/plan-your-vote-2024-elections-every-state-rcna125363",
+      "headline": "Plan Your Vote: How to vote in the 2024 election in every state",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-01/plan-your-vote-nbc-1x1-jg-f6f429.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/politics/2024-election/harris-trump-stance-issues-policies-president-race-rcna150570",
+      "headline": "Harris and Trump: Compare where they stand on key issues",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-07/240722-trump-harris-tracker-1x1-lr-3b0716.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/politics/2024-election/who-could-be-trumps-vice-president-rcna150403",
+      "headline": "Who could be Trump's vice president?",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-05/240506-trump-vp-pick-lr-69a031.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/sports/olympics/sports-paris-2024-quiz-rcna147894",
+      "headline": "Swimming, cycling ... canine athletics? Test your knowledge of Olympic sports",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-04/240416-olympics-quiz-feature-lr-54f076.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "http://nbcnews.com/specials/summer-olympics-paris-2024-event-location",
+      "headline": "Take a tour of Paris: Iconic venues will provide a distinctly French backdrop at the Olympics",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-04/240416-olympic-venues-Tour-Eiffel-Stadium-ew-455p-a087fb.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://nbcnews.com/specials/gaza-universities-destroyed-israel-military-war/index.html",
+      "headline": "Class destroyed: A look at what has become of Gaza's revered universities",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-04/240327-gaza-universities-israel-cs-e74b79.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/tech/can-tell-piece-audio-was-made-ai-rcna139769",
+      "headline": "Can you tell which piece of audio was made by AI?",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-02/240229-ai-audio-quiz-1x1-lr-3773a9.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/israel-hamas-war-spread-gaza-pakistan-middle-east-region/index.html",
+      "headline": "How the Israel-Hamas conflict has spread beyond the Mideast",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-02/1x1israel-hamas-w-text-1-c247b0.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/hawaii-fire-scientists-warn-escalating-wildfire-threat/index.html",
+      "headline": "‘This is not a Lahaina problem’: Once unthinkable, frequent fires are Hawaii’s new normal.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2024-02/hawaii-fire-mapping-main-art-1-0d7fb4.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/year-in-illustration-photography-nbc-news-2023/index.html",
+      "headline": "See our best illustrations and photographs that captured the year's biggest stories",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2023-12/231220-best-of-photography-illustration-2x1-cs-c60376.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/children-deaths-curtains-cords-window-blinds-shades-strangle-safety/index.html",
+      "headline": "50 years and 440 deaths: How the U.S. failed to stop window cords from killing children",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2023-12/231219-window-blinds-cpsc-children-deaths-social-2x1-cs-f88940.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/supernova-israel-music-festival-attack-hamas-video-survivors/index.html",
+      "headline": "Massacre in the desert",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2023-10/231011-israel-gaza-timeline-lr-926448.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/climate-change-rising-temperatures-global-heat-air-conditioning",
+      "headline": "Communities fight to keep their cool ",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2023-09/230908-cooling-solution-gaia-squarci-mb-1412-5f3657.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/cisplatin-shortage-cancer-drug-chemotherapy-us/index.html",
+      "headline": "How a critical cancer drug became hard to find in the U.S.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2023-08/20230808-cisplatin-globe-1x1-cover-72fd37.gif",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/pride-month-2023-drag-performers-who-made-herstory/index.html",
+      "headline": "30 drag performers who made ‘herstory’ ahead of Pride month 2023",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/rockcms/2023-05/230530-pride-30-drag-queens-kings-2x1-cs-a96812.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/politics/2020-election/election-confessions-tell-us-how-you-really-feel-about-2020-n1017716",
+      "headline": "Election Confessions: Tell us how you really feel about the 2020 candidates",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_09/3249076/200228-election-confessions-ig-1x1.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/american-dream-while-black-homeownership/index.html",
+      "headline": "The American dream while Black: 'Locked in a vicious cycle'",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_28/3396093/200710-american-dream-home-ownership-main-shorthand-cs.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/think/opinion/covid-chronicles-vol-1-nurse-s-anguish-icu-ncna1229996",
+      "headline": "Covid Chronicles, Vol. 1: A nurse's anguish in the ICU",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_24/3387821/200611-covid-comic-cover-ew-346p.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/road-to-270-2020/",
+      "headline": "Choose a path to the White House with our 'Road to 270' map",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_05/3207951/200128-road-to-270-map-main-update-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/one-of-new-york-city-last-chinese-hand-laundries-closes/index.html",
+      "headline": "'A sad and glorious history': One of NYC's last Chinese hand laundries closes",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_41/3418849/201009-robert-lee-sheldon-chau-ew-1142a.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/nbcblk/their-words-why-black-men-women-are-protesting-george-floyd-n1223486",
+      "headline": "In their words: Black men and women share on why they're protesting for George Floyd",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_23/3375641/200602-black-protesters-cms-cover-cs.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/china-illegal-fishing-fleet/index.html",
+      "headline": "The deadly secret of China's invisible armada",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_30/3398732/200722-ghost-ships-aerial-cover-ew-328p.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/school-shooting-tracker-n969951",
+      "headline": "School Shooting Tracker: Counting school shootings since 2013",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_06/2745406/190107-school-shooting-tracker-1x1-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/visualizing-100000-united-states-coronavirus-deaths-n1221406",
+      "headline": "Seeing the scale: Visualizing the 100,000 American coronavirus deaths",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_22/3302886/ss-200409-twip-08.JPG",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/business/economy/unemployment-claims-state-see-how-covid-19-has-destroyed-job-n1183686",
+      "headline": "The coronavirus has destroyed the job market. See which states have been hit the hardest.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_42/3419392/cover1x1_29.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/devastating-diagnosis-doctors-trained-spot-child-abuse-can-save-lives-n1055746",
+      "headline": "The doctor's diagnosis: Child abuse. It wasn't — but CPS took the baby anyway.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2021_25/3015731/1909-do-no-harm-main.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/all/army-children-toil-african-mica-mines-n1082916",
+      "headline": "'We don't have any choice': Thousands of kids perform backbreaking labor for America's products",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2020_46/3103031/191114-madagascar-mica-lone-girl-processing-se-222p.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/world/how-brexit-might-break-britain-disunited-kingdom-n1062526",
+      "headline": "Disunited Kingdom: How Brexit might break Britain",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_41/3042856/191008-brexit-britain-mc-.JPG",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/politics/white-house/how-many-more-people-have-die-carbon-monoxide-kills-two-n1001146",
+      "headline": "'How many more people have to die?' Carbon monoxide kills two more in HUD housing",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_18/2836386/190426-hickory-hollow-main-ew-1036a.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/mach/science/island-imperiled-climate-change-threatens-greenland-its-way-life-ncna1054921",
+      "headline": "As their home melts, Greenlanders confront the fallout of climate change",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_37/2596221/181008-climate-arctic-mc-952.JPG",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/health/health-care/there-s-shortage-volunteer-ems-workers-ambulances-rural-america-n1068556",
+      "headline": "What if you call 911 and no one comes? The collapse of rural America's EMS systems.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_42/3055571/191016-north-dakota-ems-rebecca-bumgardner-se-616p.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/police-were-cracking-cold-cases-dna-website-then-fine-print-n1070901",
+      "headline": "Police were cracking cold cases with a DNA website. Then the fine print changed.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_40/3031506/190930-dna-policing-1x1-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/specials/climate-confessions-share-solutions-climate-change-n1054791",
+      "headline": "Blast the A/C? Throw out half your lunch? Share your Climate Confession",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_37/3010131/190913-climate-confessions-1x1-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/egg-freezing",
+      "headline": "Debt, loans and 'still no baby': Your stories about egg freezing, ages 19 to 60",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_09/2767681/190220-egg-freezing-survey-slider-1x1-cover.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/tech/internet/facial-recognition-s-dirty-little-secret-millions-online-photos-scraped-n981921",
+      "headline": "Facial recognition's 'dirty little secret': Millions of photos used without consent",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_19/2847371/190506-face-recognition-small-crimes-1x1-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/he-lures-alleged-child-predators-shames-them-facebook-now-one-n953856",
+      "headline": "He lures alleged child predators and shames them on Facebook. Now one of his targets is dead.",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2018_51/2689161/181219-facebook-vigilantes-incognito-cover-social-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/als-patient-s-dilemma-end-his-own-life-or-die-n993421",
+      "headline": "An ALS patient's dilemma: End his own life peacefully, or die slowly of the disease?",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_15/2791246/190319-death-with-dignity-main-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/airplane-mode",
+      "headline": "Airplane Mode: An Odd and Unsettling New Era in Air Travel",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2017_38/2160601/170919-one-time-use-only-njs-638p.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/deal-island",
+      "headline": "As sea levels rise, this American island is fighting to stay alive",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2017_45/2221921/171110-deal-island-jhc-0949.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/residents-vallejo-california-demand-change-after-fatal-police-shootings-n990606",
+      "headline": "'We've become the wild, Wild West': Residents of California city confront fatal police shootings",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_14/2809646/190403-vallejo-police-department-1x1-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/latino/young-latinos-born-u-s-carving-their-own-identity-n908086",
+      "headline": "Young Latinos: Born in the U.S.A., carving their own identity",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2018_37/2565811/d_ov_feature_generationlatino_180914.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/we-are-going-backward-how-justice-system-ignores-science-pursuit-n961256",
+      "headline": "How bad science is undermining America's justice system",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_04/2687581/181218-forensics-justice-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/texas-pipeline",
+      "headline": "Proposed Trans-Pecos Pipeline Tears Texas in Two",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2015_48/1301736/151113-pipeline-jhc-02_0.JPG",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/journey-of-a-bullet",
+      "headline": "They May Have Survived a Gunshot, But the Emotional Toll Defines Them",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2017_25/2044576/job-uncompressed-cover.png",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/mach/news/east-coast-sea-level-rise-high-tides-flooding-ncna957241",
+      "headline": "High tides and sea rise make floods a part of life on the East Coast",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2019_02/2711216/190110-rising-waters-1x1-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/geographyofpoverty-big-city",
+      "headline": "Prison's Grip on the Black Family",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2016_42/1761601/geopov02-dawn-hawkins-aa-2000px.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/news/us-news/banning-plastic-straws-will-not-be-enough-fight-clean-oceans-n951141",
+      "headline": "Inside the fight to clean the oceans",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2018_52/2697516/181226-plastics-ocean-kh.jpg",
+      "timestamp": null
+    },
+    {
+      "publication": "NBC News",
+      "twitterHandle": "NBCNewsGraphics",
+      "url": "https://www.nbcnews.com/specials/geographyofpoverty-heartland-1",
+      "headline": "The Heartland: Life and Loss in Steel City",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-460x460,f_auto,q_auto:best/newscms/2016_38/1719216/160922-geo-poverty-cover-jhc-1140.jpg",
+      "timestamp": null
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",

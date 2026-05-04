@@ -363,6 +363,14 @@
               "url": "/data-graphics"
             }
           }
+        },
+        {
+          "type": "Website",
+          "path": "https://www.nbcnews.com/specials",
+          "selector": ".waffleCard",
+          "url": "a",
+          "image": "picture img",
+          "headline": "h2"
         }
       ]
     },

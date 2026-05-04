@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js $npm_config_publish",
+    "start": "node app.js $npm_config_publish $npm_config_publication",
     "test": "node src/test.js $npm_config_publication",
     "audit": "node src/audit.js",
     "alert": "node src/alert.js",
