@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-04T15:30:14.338Z",
+  "lastUpdated": "2026-05-04T17:13:35.644Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/04/world/americas/quake-tracker-mexico.html",
+      "headline": "Map: 5.7-Magnitude Earthquake Shakes Mexico",
+      "image": "https://static01.nyt.com/images/2026/05/04/world/quake-tracker-mexico-index/quake-tracker-mexico-index-articleLarge-v3.jpg",
+      "timestamp": "2026-05-04T16:17:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
