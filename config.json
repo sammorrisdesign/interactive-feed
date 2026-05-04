@@ -717,7 +717,7 @@
           "path": "https://www.straitstimes.com/googlenews.xml",
           "filters": {
             "in": {
-              "url": "/multimedia/graphics"
+              "url": "/multimedia"
             }
           }
         }
@@ -770,7 +770,9 @@
           "url": ".story-headline a[data-pb-local-content-field='web_headline']",
           "image": "figure img",
           "timestamp": "span:nth-of-type(1)",
-          "timestampFormat": ["MMMM D, YYYY"]
+          "timestampFormat": [
+            "MMMM D, YYYY"
+          ]
         }
       ]
     },
