@@ -1,6 +1,16 @@
 {
-  "lastUpdated": "2026-05-04T02:37:15.151Z",
+  "lastUpdated": "2026-05-04T09:03:37.994Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "twitterHandle": "nytimes",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/04/world/asia/quake-tracker-philippines.html",
+      "headline": "Map: 6.0-Magnitude Earthquake Shakes the Philippines",
+      "image": "https://static01.nyt.com/images/2026/05/04/world/04wea-quake-tracker-philippines-nyt7iy4l-index/04wea-quake-tracker-philippines-nyt7iy4l-index-articleLarge-v11.jpg",
+      "timestamp": "2026-05-04T06:59:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",
