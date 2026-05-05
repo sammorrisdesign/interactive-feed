@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-05T18:53:47.151Z",
+  "lastUpdated": "2026-05-05T20:06:36.319Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-michigan-state-senate-district-35-special.html",
+      "headline": "Michigan State Senate District 35 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-state-mi-9671ed/eln-PRE-2026-05-05-state-mi-9671ed-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:51:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-1-primary.html",
+      "headline": "Ohio First Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-1-45ee10/eln-PRE-2026-05-05-race-oh-us-h-1-45ee10-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:51:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-4-primary.html",
+      "headline": "Ohio Fourth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-4-dc0638/eln-PRE-2026-05-05-race-oh-us-h-4-dc0638-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:51:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

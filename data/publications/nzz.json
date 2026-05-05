@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-05T17:05:04.132Z",
+  "lastUpdated": "2026-05-05T20:06:36.286Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-viel-vom-tankrabatt-wirklich-ankommt-und-was-benzin-und-diesel-jetzt-kosten-ld.10005789",
+      "headline": "Wie viel vom Tankrabatt wirklich ankommt – und was Benzin und Diesel jetzt kosten",
+      "image": "https://img-msp-prod.nzz.ch/2026/05/05/338faec3-2e29-461e-a031-3fe32fcb4f0b.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2501,1407,x0,y235&wmark=nzz",
+      "timestamp": "2026-05-05T18:51:22.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
