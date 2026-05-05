@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-03T16:07:10.071Z",
+  "lastUpdated": "2026-05-05T10:01:00.505Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/may/02/annabel-crabb-interview",
+      "headline": "Annabel Crabb: ‘I worried that people might think I’m an idiot’",
+      "image": "https://i.guim.co.uk/img/media/ac9091806dc159d14855c4b536a29e0c67f8a1c1/240_0_2461_1969/master/2461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b3bfa7b74e07a65b20c193e84443250a",
+      "timestamp": "2026-05-01T15:00:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "twitterHandle": "GuardianVisuals",
