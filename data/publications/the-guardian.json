@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-05T17:05:04.657Z",
+  "lastUpdated": "2026-05-05T18:53:47.125Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/01/esther-cohen-poet-laureate",
+      "headline": "A bucolic county in upstate New York appointed a poet laureate. Why was she fired shortly after?",
+      "image": "https://i.guim.co.uk/img/media/905954a93166a3dbbe7325df0cfa40646bd391ba/0_591_1800_1439/master/1800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d01bd168220ded03c7e14e1c1fe9e15",
+      "timestamp": "2026-05-01T10:00:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

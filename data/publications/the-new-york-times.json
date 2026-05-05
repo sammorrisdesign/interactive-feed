@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-05-05T02:31:14.265Z",
+  "lastUpdated": "2026-05-05T18:53:47.151Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-senate-special-primary-may-5.html",
+      "headline": "Ohio U.S. Senate Special Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-s-020eab/eln-PRE-2026-05-05-race-oh-us-s-020eab-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-8-primary.html",
+      "headline": "Ohio Eighth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-8-fe2f52/eln-PRE-2026-05-05-race-oh-us-h-8-fe2f52-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-7-primary.html",
+      "headline": "Ohio Seventh Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-7-908cdf/eln-PRE-2026-05-05-race-oh-us-h-7-908cdf-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-9-primary.html",
+      "headline": "Ohio Ninth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-9-2abb58/eln-PRE-2026-05-05-race-oh-us-h-9-2abb58-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-15-primary.html",
+      "headline": "Ohio 15th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-15-3d8971/eln-PRE-2026-05-05-race-oh-us-h-15-3d8971-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-6-primary.html",
+      "headline": "Ohio Sixth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-6-d1255c/eln-PRE-2026-05-05-race-oh-us-h-6-d1255c-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-3-primary.html",
+      "headline": "Ohio Third Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-3-55d6bf/eln-PRE-2026-05-05-race-oh-us-h-3-55d6bf-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-5-primary.html",
+      "headline": "Ohio Fifth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-5-f71f00/eln-PRE-2026-05-05-race-oh-us-h-5-f71f00-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
