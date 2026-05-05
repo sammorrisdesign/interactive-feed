@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-04T19:04:01.000Z",
+  "lastUpdated": "2026-05-05T02:31:14.265Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/04/style/met-gala-best-dressed-vote.html",
+      "headline": "Vote for Your Favorite Met Gala Looks",
+      "image": "https://static01.nyt.com/images/2026/05/04/fashion/04-st-gala-promo/04-st-gala-promo-articleLarge.png",
+      "timestamp": "2026-05-05T02:02:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
