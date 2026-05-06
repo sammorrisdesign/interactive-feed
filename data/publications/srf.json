@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-04-26T08:42:25.162Z",
+  "lastUpdated": "2026-05-06T05:55:57.382Z",
   "articles": [
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/gesellschaft/vorurteile-in-sprachmodellen-chatgpt-welcher-kanton-ist-intelligenter",
+      "headline": "Vorurteile in Sprachmodellen – «ChatGPT, welcher Kanton ist intelligenter?»",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/022aed.jpg",
+      "timestamp": "2026-05-06T03:45:32.000Z"
+    },
     {
       "publication": "SRF",
       "twitterHandle": "srfnews",
