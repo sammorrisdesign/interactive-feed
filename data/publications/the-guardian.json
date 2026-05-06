@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-06T15:11:26.341Z",
+  "lastUpdated": "2026-05-06T18:26:43.615Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/06/jeffrey-epstein-leon-black",
+      "headline": "Epstein-linked billionaire accused of rape privately reached out to federal judge to defend his ‘good name’",
+      "image": "https://i.guim.co.uk/img/media/9a01f51117f2e67ca43f36be74f813d779125c51/0_0_3750_3000/master/3750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=64b56e3d18a00b913913a32532144db2",
+      "timestamp": "2026-05-06T17:50:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
