@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-05T18:53:47.125Z",
+  "lastUpdated": "2026-05-06T10:33:33.031Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/may/06/how-to-survive-the-information-crisis-we-once-talked-about-fake-news-now-reality-itself-feels-fake",
+      "headline": "How to survive the information crisis: ‘We once talked about fake news – now reality itself feels fake’",
+      "image": "https://i.guim.co.uk/img/media/ed64e185803770cd183d670bb69c087d67071ee9/0_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3440196102b64d47fe7d2518374d7c95",
+      "timestamp": "2026-05-06T04:00:01.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/05/harriet-clark-the-hill-book-prison",
+      "headline": "Harriet Clark spent a lifetime visiting her mother, an ex-Weather Underground member, in prison: ‘The US has always used family separation to destabilize’",
+      "image": "https://i.guim.co.uk/img/media/af743ab0d28a8f0c12d78b5b01f25673e2dddd81/0_626_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e808f8d2ebf5e81f5fdf87b434e12aaa",
+      "timestamp": "2026-05-05T15:00:44.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
