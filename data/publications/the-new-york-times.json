@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-07T08:43:35.563Z",
+  "lastUpdated": "2026-05-07T11:08:55.756Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/07/realestate/dallas-forth-worth-texas-denton-home-sale.html",
+      "headline": "They Looked for a ‘Grandkid Magnet’ Outside of Dallas",
+      "image": "https://static01.nyt.com/images/2026/05/07/multimedia/07re-Hunt-Dallas-02-kcbj/07re-Hunt-Dallas-02-kcbj-articleLarge.jpg",
+      "timestamp": "2026-05-07T09:03:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/07/travel/things-to-do-bentonville.html",
+      "headline": "36 Hours in Bentonville, Ark.",
+      "image": "https://static01.nyt.com/images/2026/05/07/multimedia/07trav-hours-bentonville-zcwf/07trav-hours-bentonville-zcwf-articleLarge-v3.jpg",
+      "timestamp": "2026-05-07T09:01:33.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
