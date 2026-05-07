@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-07T11:08:55.756Z",
+  "lastUpdated": "2026-05-07T17:46:59.411Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/washington-dc-house-delegate-polls-2026.html",
+      "headline": "Washington, D.C. Nonvoting House Delegate 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:57:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-04T15:50:43.139Z",
+  "lastUpdated": "2026-05-07T17:46:59.383Z",
   "articles": [
+    {
+      "publication": "ProPublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/habeas-tracker/",
+      "headline": "Tracking Habeas Cases",
+      "image": "https://www.propublica.org/wp-content/uploads/2026/02/Habeas2V4V1_maxHeight_3000_maxWidth_3000.jpg?w=300",
+      "timestamp": "2026-02-10T10:05:00.000Z"
+    },
     {
       "publication": "ProPublica",
       "twitterHandle": "propublica",
