@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-06T17:01:31.042Z",
+  "lastUpdated": "2026-05-07T08:43:35.563Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/07/world/middleeast/oil-tanker-strait-hormuz-iran-war.html",
+      "headline": "The Long Journey From the Strait of Hormuz to the Gas Tank",
+      "image": "https://static01.nyt.com/images/2026/05/06/multimedia/2026-04-16-oil-delay-iran-index/2026-04-16-oil-delay-iran-index-articleLarge-v2.jpg",
+      "timestamp": "2026-05-07T07:50:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
