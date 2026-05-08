@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-05-02T19:33:18.423Z",
+  "lastUpdated": "2026-05-08T02:43:06.264Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "url": "https://www.abc.net.au/news/2026-05-08/shabtay-yaacoby-found-guilty-money-laundering-scams/106656936",
+      "headline": "Sydney court finds Israeli money launderer guilty over investment scam",
+      "image": "https://live-production.wcms.abc-cdn.net.au/45ac5cbee460e9c5fd4a03ac08af5726?impolicy=wcms_crop_resize&cropH=2000&cropW=2667&xPos=167&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "twitterHandle": "abcnews",
