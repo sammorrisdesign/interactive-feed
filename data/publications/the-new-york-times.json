@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-07T17:46:59.411Z",
+  "lastUpdated": "2026-05-08T10:23:02.513Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/magazine/chocolate-chips-hodgman-quiz.html",
+      "headline": "Can You Sneak Chocolate Chips From the Pantry?",
+      "image": "https://static01.nyt.com/images/2026/05/10/magazine/10mag-hodgman/10mag-hodgman-articleLarge.jpg",
+      "timestamp": "2026-05-08T10:00:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/us/politics/tennessee-gop-map-black-voters.html",
+      "headline": "See How the G.O.P. Cut Up a Southern State’s Only Majority Black District",
+      "image": "https://static01.nyt.com/images/2026/05/06/us/2026-tn-redistricting-promos-tn-districtsdemographics/2026-tn-redistricting-promos-tn-districtsdemographics-articleLarge-v11.jpg",
+      "timestamp": "2026-05-08T09:03:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/books/all-the-cameras-in-my-room-michael-deforge-graphic-novel.html",
+      "headline": "Where Does Dracula Go for Dating Advice?",
+      "image": "https://static01.nyt.com/images/2026/04/30/books/deforge-promo-new/deforge-promo-new-articleLarge.jpg",
+      "timestamp": "2026-05-08T09:01:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
