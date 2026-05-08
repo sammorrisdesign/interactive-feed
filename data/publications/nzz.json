@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-05T20:06:36.286Z",
+  "lastUpdated": "2026-05-08T15:08:44.268Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-fake-bilder-grosse-unternehmen-wie-die-swiss-herausfordern-ld.10005300",
+      "headline": "Wie Fake-Bilder grosse Unternehmen wie die Swiss herausfordern",
+      "image": "https://img-msp-prod.nzz.ch/2026/05/06/76e04bce-f8bd-4763-bc23-fbf40316e3c2.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y110&wmark=nzz",
+      "timestamp": "2026-05-08T15:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
