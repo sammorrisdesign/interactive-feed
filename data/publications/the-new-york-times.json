@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-08T18:08:35.403Z",
+  "lastUpdated": "2026-05-08T21:59:42.040Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/well/family/mom-advice-mothers-day.html",
+      "headline": "The Wisdom of Our Mothers",
+      "image": "https://static01.nyt.com/images/2026/05/08/well/8Well-Static-MDAY-Promo/8Well-Static-MDAY-Promo-articleLarge.jpg",
+      "timestamp": "2026-05-08T21:05:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
