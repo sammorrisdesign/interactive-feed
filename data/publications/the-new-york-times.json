@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-08T15:08:44.793Z",
+  "lastUpdated": "2026-05-08T16:50:59.443Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/upshot/world-cup-odds.html",
+      "headline": "Mapping the Knockout Stage: Where Will Your Team Play in the World Cup?",
+      "image": "https://static01.nyt.com/images/2026/05/08/digital-footprints-96992/digital-footprints-96992-articleLarge.jpg",
+      "timestamp": "2026-05-08T16:03:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/rhode-island-us-senate-election-polls-2026.html",
+      "headline": "Rhode Island U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T15:22:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/kentucky-us-house-6-polls-2026.html",
+      "headline": "Kentucky Sixth Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T15:16:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
