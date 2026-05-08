@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-04-29T11:59:03.974Z",
+  "lastUpdated": "2026-05-08T05:29:33.114Z",
   "articles": [
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/e15fc53f-3914-46e1-ab8c-a5de116fa044",
+      "headline": "Warming seas are brewing extreme weather in months ahead, scientists forecast",
+      "timestamp": "2026-05-08T04:00:24.000Z"
+    },
     {
       "publication": "FT",
       "twitterHandle": "ftdata",
