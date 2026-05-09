@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-07T14:07:16.315Z",
+  "lastUpdated": "2026-05-09T03:49:15.337Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/indonesia-nickel-mineral-mining/",
+      "headline": "Dirty nickel: The cost of mining in Indonesia",
+      "image": "https://apps.npr.org/indonesia-nickel-mineral-mining/assets/synced/images/resized/20251217-DSC05040.jpg",
+      "timestamp": "2026-05-07T00:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/primary-election-results-2026/governors.html",
+      "headline": "Here’s a look at the 36 races for governor this&nbsp;year",
+      "image": "https://apps.npr.org/primary-election-results-2026/assets/synced/2026-governors.jpg",
+      "timestamp": "2026-05-05T00:00:00.000Z"
+    },
     {
       "publication": "NPR",
       "blueSkyHandle": "npr.org",
