@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-08T21:59:42.040Z",
+  "lastUpdated": "2026-05-09T08:17:03.164Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/09/nyregion/routine-isa-briones.html",
+      "headline": "How a Not-So-Nice Doctor on ‘The Pitt’ Taps Into Her Softer Side",
+      "image": "https://static01.nyt.com/images/2026/05/07/multimedia/routine-isa-briones-promo-bkpg/routine-isa-briones-promo-bkpg-articleLarge.jpg",
+      "timestamp": "2026-05-09T07:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
