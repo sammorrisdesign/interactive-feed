@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-08T23:00:20.285Z",
+  "lastUpdated": "2026-05-09T06:14:03.731Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/may/09/how-hantavirus-turned-hondius-dream-cruise-into-tragedy",
+      "headline": "Infected, at sea: how the deadly hantavirus turned a dream cruise into tragedy",
+      "image": "https://i.guim.co.uk/img/media/be10553ece19f10d6e94c69bc7321e7643a0c8f8/0_747_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b864b622fc7ba3b7832a23121b70ad55",
+      "timestamp": "2026-05-09T05:00:48.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
