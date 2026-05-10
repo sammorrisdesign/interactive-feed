@@ -636,19 +636,49 @@
       "blueSkyHandle": "thecity.bsky.social",
       "sources": [
         {
-          "type": "Website",
-          "path": "https://www.thecity.nyc/category/interactive/",
-          "selector": ".type-post.category-interactive",
-          "headline": ".entry-title a",
-          "url": ".entry-title a",
-          "timestamp": ".entry-date",
-          "timestampAttribute": "datetime"
+          "type": "BlueSky",
+          "handle": "thecity.nyc",
+          "filters": {
+            "in": {
+              "url": "projects."
+            }
+          }
         }
       ]
     },
     {
       "publication": "The Economist",
       "sources": [
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.economist.com/graphic-detail/rss.xml",
+          "filters": {
+            "in": {
+              "url": "interactive/"
+            }
+          }
+        },
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.economist.com/leaders/rss.xml",
+          "filters": {
+            "in": {
+              "url": "interactive/"
+            }
+          }
+        },
+        {
+          "type": "XML",
+          "format": "RSS",
+          "path": "https://www.economist.com/finance-and-economics/rss.xml",
+          "filters": {
+            "in": {
+              "url": "interactive/"
+            }
+          }
+        },
         {
           "type": "Website",
           "path": "https://www.economist.com/interactive",

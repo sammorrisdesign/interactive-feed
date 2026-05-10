@@ -150,5 +150,20 @@
     "timestamp": "2026-05-10T16:14:19.589Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
+  },
+  {
+    "timestamp": "2026-05-10T16:22:57.180Z",
+    "publication": "The City",
+    "error": "Error fetching Website. 404 error message reported"
+  },
+  {
+    "timestamp": "2026-05-10T16:39:38.112Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-05-10T16:39:54.077Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
   }
 ]

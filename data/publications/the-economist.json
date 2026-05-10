@@ -1,6 +1,132 @@
 {
-  "lastUpdated": "2025-09-04T16:44:57.555Z",
+  "lastUpdated": "2026-05-10T16:40:04.169Z",
   "articles": [
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/democracy-index-2025",
+      "headline": "Global democracy is in better shape than you think",
+      "image": "https://www.economist.com/interactive/democracy-index-2025/promo.jpg",
+      "timestamp": "2026-04-07T16:11:00.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2026/03/26/the-human-toll-of-the-iran-war-in-charts-and-maps",
+      "headline": "The human toll of the Iran war, in charts and maps",
+      "image": "https://www.economist.com/interactive/graphic-detail/2026/03/26/the-human-toll-of-the-iran-war-in-charts-and-maps/promo.jpg",
+      "timestamp": "2026-03-26T09:57:49.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/glass-ceiling-index",
+      "headline": "The Economist’s glass-ceiling index",
+      "image": "https://www.economist.com/interactive/graphic-detail/glass-ceiling-index/promo.jpg",
+      "timestamp": "2026-03-07T08:00:00.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2026/02/10/should-i-rent-or-buy",
+      "headline": "Should you rent or buy?",
+      "image": "https://www.economist.com/interactive/graphic-detail/2026/02/10/should-i-rent-or-buy/promo.jpg",
+      "timestamp": "2026-02-10T19:25:54.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2025/11/05/how-much-wealth-would-be-destroyed-by-an-ai-stockmarket-crash",
+      "headline": "How much wealth an AI stockmarket crash could destroy",
+      "image": "https://www.economist.com/interactive/graphic-detail/2025/11/05/how-much-wealth-would-be-destroyed-by-an-ai-stockmarket-crash/promo.jpg",
+      "timestamp": "2025-11-05T13:32:54.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2025/10/07/maps-and-data-tell-the-story-of-two-bloody-years-in-israel-and-gaza",
+      "headline": "Maps and data tell the story of two bloody years in Israel and Gaza",
+      "image": "https://www.economist.com/interactive/graphic-detail/2025/10/07/maps-and-data-tell-the-story-of-two-bloody-years-in-israel-and-gaza/promo.jpg",
+      "timestamp": "2025-10-07T14:37:15.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2025/08/15/which-are-the-deadliest-european-cities-in-a-heatwave",
+      "headline": "Which are the deadliest European cities in a heatwave?",
+      "image": "https://www.economist.com/interactive/graphic-detail/2025/08/15/which-are-the-deadliest-european-cities-in-a-heatwave/promo.jpg",
+      "timestamp": "2025-08-15T14:30:42.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2025/08/06/how-much-of-gaza-is-left-standing",
+      "headline": "How much of Gaza is left standing? ",
+      "image": "https://www.economist.com/interactive/graphic-detail/2025/08/06/how-much-of-gaza-is-left-standing/promo.jpg",
+      "timestamp": "2025-08-06T19:29:09.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2025/07/07/why-was-the-flooding-in-texas-so-deadly",
+      "headline": "Why was the flooding in Texas so deadly? ",
+      "image": "https://www.economist.com/interactive/graphic-detail/2025/07/07/why-was-the-flooding-in-texas-so-deadly/promo.jpg",
+      "timestamp": "2025-07-07T17:22:48.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/democracy-index-2024",
+      "headline": "The global democracy index: how did countries perform in 2024?",
+      "image": "https://www.economist.com/interactive/democracy-index-2024/promo.jpg",
+      "timestamp": "2025-02-27T13:54:21.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2024/11/14/which-countries-have-the-most-educated-politicians",
+      "headline": "Which countries have the most-educated politicians?",
+      "image": "https://www.economist.com/interactive/graphic-detail/2024/11/14/which-countries-have-the-most-educated-politicians/promo.jpg",
+      "timestamp": "2024-11-14T20:03:50.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2024/11/07/five-charts-show-how-trump-won-the-election",
+      "headline": "Five charts show how Trump won the election",
+      "image": "https://www.economist.com/interactive/graphic-detail/2024/11/07/five-charts-show-how-trump-won-the-election/promo.jpg",
+      "timestamp": "2024-11-07T21:09:18.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2024/11/01/which-way-will-swing-voters-lean-in-americas-election",
+      "headline": "Which way will swing voters lean in America’s election? ",
+      "image": "https://www.economist.com/interactive/graphic-detail/2024/11/01/which-way-will-swing-voters-lean-in-americas-election/promo.jpg",
+      "timestamp": "2024-11-01T19:22:12.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2024/10/29/our-guide-to-how-trump-or-harris-might-win-the-election",
+      "headline": "Our guide to how Trump or Harris might win the election",
+      "image": "https://www.economist.com/interactive/graphic-detail/2024/10/29/our-guide-to-how-trump-or-harris-might-win-the-election/promo.jpg",
+      "timestamp": "2024-10-29T17:08:45.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/2024-walkable-cities",
+      "headline": "The world’s most, and least, walkable cities",
+      "image": "https://www.economist.com/interactive/2024-walkable-cities/promo.jpg",
+      "timestamp": "2024-05-09T13:30:44.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2023/09/12/democratic-backsliding-seems-real-even-if-it-is-hard-to-measure",
+      "headline": "Global democratic backsliding seems real, even if it is hard to measure",
+      "image": "https://economist.com/interactive/graphic-detail/2023/09/12/democratic-backsliding-seems-real-even-if-it-is-hard-to-measure/promo.jpg",
+      "timestamp": "2023-09-12T18:45:21.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2023/07/27/data-on-air-bases-suggest-a-chinese-invasion-of-taiwan-may-not-be-imminent",
+      "headline": "Data on air bases suggest a Chinese invasion of Taiwan may not be imminent",
+      "image": "https://www.economist.com/interactive/graphic-detail/2023/07/27/data-on-air-bases-suggest-a-chinese-invasion-of-taiwan-may-not-be-imminent/promo.jpg",
+      "timestamp": "2023-07-27T13:36:54.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/leaders/2025/07/31/the-climate-needs-a-politics-of-the-possible",
+      "headline": "The climate needs a politics of the possible ",
+      "image": "https://www.economist.com/interactive/leaders/2025/07/31/the-climate-needs-a-politics-of-the-possible/promo.jpg",
+      "timestamp": "2025-07-31T11:14:19.000Z"
+    },
     {
       "publication": "The Economist",
       "twitterHandle": "ECONdailycharts",
