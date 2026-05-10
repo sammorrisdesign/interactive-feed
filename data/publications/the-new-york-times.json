@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-09T08:17:03.164Z",
+  "lastUpdated": "2026-05-10T13:13:01.244Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/10/us/quake-tracker-southern-california.html",
+      "headline": "Maps: Earthquakes Shake Southern California",
+      "image": "https://static01.nyt.com/images/2026/05/10/world/09wea-quake-tracker-southern-california-nyt9gcfh-index/09wea-quake-tracker-southern-california-nyt9gcfh-index-articleLarge-v29.jpg",
+      "timestamp": "2026-05-10T13:08:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
