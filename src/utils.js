@@ -70,7 +70,7 @@ module.exports = {
     logs.push({
       "timestamp": new Date(),
       publication: publication,
-      error: error.stack
+      error: error.stack ? error.stack : error
     });
 
     fs.writeFileSync('./data/log.json', JSON.stringify(logs, null, 2));
