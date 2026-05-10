@@ -154,7 +154,13 @@ const fetchers = {
       const parser = new XMLParser({
         ignoreAttributes: false
       });
+
       const response = await fetch(feed.path);
+
+      if (!response.ok) {
+        throw `Error fetching XML. ${response.status} error message reported`
+      }
+
       let data = parser.parse(await response.text());
       let articles;
 
@@ -221,6 +227,11 @@ const fetchers = {
   Website: async(feed) => {
     try {
       const response = await fetch(feed.path);
+
+      if (!response.ok) {
+        throw `Error fetching Website. ${response.status} error message reported`
+      }
+
       const html = await response.text();
 
       const $ = cheerio.load(html, {
