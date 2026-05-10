@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-02T09:39:53.826Z",
+  "lastUpdated": "2026-05-09T09:52:59.219Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/news/philadelphia/inq2/citywide-quest-32-mothers-day-geo-guesser-20260509.html",
+      "headline": "Citywide Quest: Do you know where these mother-themed photos were taken?",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/PDRCFNCDDRCMZASI5KU7B3FQPU.jpg",
+      "timestamp": "2026-05-09T09:01:00.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/sports/inq2/pga-championship-aronimink-course-guide-game-20260508.html",
+      "headline": "PGA Championship at Aronimink course guide",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/GBJQIT727NA5BP6HIR5SPZCY2I.jpg",
+      "timestamp": "2026-05-08T09:01:00.000Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "twitterHandle": "PhillyInquirer",

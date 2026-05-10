@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-04T15:30:14.304Z",
+  "lastUpdated": "2026-05-08T13:27:18.912Z",
   "articles": [
+    {
+      "publication": "Nature",
+      "blueSkyHandle": "natureportfolio.bsky.social",
+      "url": "https://www.nature.com/immersive/d41586-026-01371-5/index.html",
+      "headline": "A life in pictures: Celebrating Attenborough at 100",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:5o3jnr26uzpzlyf3tfmr6epf/bafkreiedovvyfqmgw2sujqr2ycomulelo25thv536ozvozcrlsonj36gem",
+      "timestamp": "2026-05-08T09:18:19.677Z"
+    },
     {
       "publication": "Nature",
       "twitterHandle": "Nature",

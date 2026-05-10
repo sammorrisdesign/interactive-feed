@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-28T21:54:40.589Z",
+  "lastUpdated": "2026-05-08T10:23:02.458Z",
   "articles": [
+    {
+      "publication": "Bloomberg",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2026-ai-identity-theft-scams/",
+      "headline": "AI Is Making Digital Fraud Easier, Faster and Harder to Stop",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iae.fSxeAwTo/v0/1200x-1.jpg",
+      "timestamp": "2026-05-08T09:00:16.485Z"
+    },
+    {
+      "publication": "Bloomberg",
+      "blueSkyHandle": "bloombergnews.bsky.social",
+      "url": "https://www.bloomberg.com/graphics/2026-beef-prices-cattle-supply-chain",
+      "headline": "One Calf Shows Why Record Beef Prices Still Aren’t Coming Down",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iIq.uvXZTH8A/v0/1200x-1.jpg",
+      "timestamp": "2026-05-05T09:15:19.004Z"
+    },
     {
       "publication": "Bloomberg",
       "twitterHandle": "BBGVisualData",

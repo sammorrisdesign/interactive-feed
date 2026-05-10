@@ -1,6 +1,402 @@
 {
-  "lastUpdated": "2026-05-04T15:30:14.338Z",
+  "lastUpdated": "2026-05-10T13:13:01.244Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/10/us/quake-tracker-southern-california.html",
+      "headline": "Maps: Earthquakes Shake Southern California",
+      "image": "https://static01.nyt.com/images/2026/05/10/world/09wea-quake-tracker-southern-california-nyt9gcfh-index/09wea-quake-tracker-southern-california-nyt9gcfh-index-articleLarge-v29.jpg",
+      "timestamp": "2026-05-10T13:08:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/09/nyregion/routine-isa-briones.html",
+      "headline": "How a Not-So-Nice Doctor on ‘The Pitt’ Taps Into Her Softer Side",
+      "image": "https://static01.nyt.com/images/2026/05/07/multimedia/routine-isa-briones-promo-bkpg/routine-isa-briones-promo-bkpg-articleLarge.jpg",
+      "timestamp": "2026-05-09T07:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/well/family/mom-advice-mothers-day.html",
+      "headline": "The Wisdom of Our Mothers",
+      "image": "https://static01.nyt.com/images/2026/05/08/well/8Well-Static-MDAY-Promo/8Well-Static-MDAY-Promo-articleLarge.jpg",
+      "timestamp": "2026-05-08T21:05:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, May 9, 2026",
+      "image": "https://static01.nyt.com/images/2026/05/08/multimedia/flashback-promo-2026-05-09-6/flashback-promo-2026-05-09-6-articleLarge.jpg",
+      "timestamp": "2026-05-08T17:49:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/upshot/world-cup-odds.html",
+      "headline": "Mapping the Knockout Stage: Where Will Your Team Play in the World Cup?",
+      "image": "https://static01.nyt.com/images/2026/05/08/digital-footprints-96992/digital-footprints-96992-articleLarge.jpg",
+      "timestamp": "2026-05-08T16:03:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/rhode-island-us-senate-election-polls-2026.html",
+      "headline": "Rhode Island U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T15:22:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/kentucky-us-house-6-polls-2026.html",
+      "headline": "Kentucky Sixth Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T15:16:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/polls/colorado-us-house-5-polls-2026.html",
+      "headline": "Colorado Fifth Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T15:01:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-us-house-8-polls-2026.html",
+      "headline": "Colorado Eighth Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T15:01:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-us-house-3-polls-2026.html",
+      "headline": "Colorado Third Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T15:01:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/utah-us-house-2-polls-2026.html",
+      "headline": "Utah Second Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T14:41:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/utah-us-house-1-polls-2026.html",
+      "headline": "Utah First Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T14:39:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/south-carolina-us-house-1-polls-2026.html",
+      "headline": "South Carolina First Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-08T14:20:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/magazine/chocolate-chips-hodgman-quiz.html",
+      "headline": "Can You Sneak Chocolate Chips From the Pantry?",
+      "image": "https://static01.nyt.com/images/2026/05/10/magazine/10mag-hodgman/10mag-hodgman-articleLarge.jpg",
+      "timestamp": "2026-05-08T10:00:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/us/politics/tennessee-gop-map-black-voters.html",
+      "headline": "See How the G.O.P. Cut Up a Southern State’s Only Majority Black District",
+      "image": "https://static01.nyt.com/images/2026/05/06/us/2026-tn-redistricting-promos-tn-districtsdemographics/2026-tn-redistricting-promos-tn-districtsdemographics-articleLarge-v11.jpg",
+      "timestamp": "2026-05-08T09:03:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/08/books/all-the-cameras-in-my-room-michael-deforge-graphic-novel.html",
+      "headline": "Where Does Dracula Go for Dating Advice?",
+      "image": "https://static01.nyt.com/images/2026/04/30/books/deforge-promo-new/deforge-promo-new-articleLarge.jpg",
+      "timestamp": "2026-05-08T09:01:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/washington-dc-house-delegate-polls-2026.html",
+      "headline": "Washington, D.C. Nonvoting House Delegate 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:57:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/07/realestate/dallas-forth-worth-texas-denton-home-sale.html",
+      "headline": "They Looked for a ‘Grandkid Magnet’ Outside of Dallas",
+      "image": "https://static01.nyt.com/images/2026/05/07/multimedia/07re-Hunt-Dallas-02-kcbj/07re-Hunt-Dallas-02-kcbj-articleLarge.jpg",
+      "timestamp": "2026-05-07T09:03:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/07/travel/things-to-do-bentonville.html",
+      "headline": "36 Hours in Bentonville, Ark.",
+      "image": "https://static01.nyt.com/images/2026/05/07/multimedia/07trav-hours-bentonville-zcwf/07trav-hours-bentonville-zcwf-articleLarge-v3.jpg",
+      "timestamp": "2026-05-07T09:01:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/07/world/middleeast/oil-tanker-strait-hormuz-iran-war.html",
+      "headline": "The Long Journey From the Strait of Hormuz to the Gas Tank",
+      "image": "https://static01.nyt.com/images/2026/05/06/multimedia/2026-04-16-oil-delay-iran-index/2026-04-16-oil-delay-iran-index-articleLarge-v2.jpg",
+      "timestamp": "2026-05-07T07:50:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/washington-dc-shadow-representative-polls-2026.html",
+      "headline": "Washington, D.C. Shadow Representative 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:57:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-21-polls-2026.html",
+      "headline": "New York 21st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:39:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-18-polls-2026.html",
+      "headline": "New York 18th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:39:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-17-polls-2026.html",
+      "headline": "New York 17th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:39:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-13-polls-2026.html",
+      "headline": "New York 13th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:39:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-12-polls-2026.html",
+      "headline": "New York 12th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:39:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-10-polls-2026.html",
+      "headline": "New York 10th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:39:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-7-polls-2026.html",
+      "headline": "New York Seventh Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:38:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-4-polls-2026.html",
+      "headline": "New York Fourth Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T16:37:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-1-polls-2026.html",
+      "headline": "New York First Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-06T15:50:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-michigan-state-senate-district-35-special.html",
+      "headline": "Michigan State Senate District 35 Special Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-state-mi-9671ed/eln-PRE-2026-05-05-state-mi-9671ed-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:51:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-1-primary.html",
+      "headline": "Ohio First Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-1-45ee10/eln-PRE-2026-05-05-race-oh-us-h-1-45ee10-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:51:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-4-primary.html",
+      "headline": "Ohio Fourth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-4-dc0638/eln-PRE-2026-05-05-race-oh-us-h-4-dc0638-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:51:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-senate-special-primary-may-5.html",
+      "headline": "Ohio U.S. Senate Special Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-s-020eab/eln-PRE-2026-05-05-race-oh-us-s-020eab-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-8-primary.html",
+      "headline": "Ohio Eighth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-8-fe2f52/eln-PRE-2026-05-05-race-oh-us-h-8-fe2f52-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-7-primary.html",
+      "headline": "Ohio Seventh Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-7-908cdf/eln-PRE-2026-05-05-race-oh-us-h-7-908cdf-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-9-primary.html",
+      "headline": "Ohio Ninth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-9-2abb58/eln-PRE-2026-05-05-race-oh-us-h-9-2abb58-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-15-primary.html",
+      "headline": "Ohio 15th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-15-3d8971/eln-PRE-2026-05-05-race-oh-us-h-15-3d8971-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-6-primary.html",
+      "headline": "Ohio Sixth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-6-d1255c/eln-PRE-2026-05-05-race-oh-us-h-6-d1255c-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-3-primary.html",
+      "headline": "Ohio Third Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-3-55d6bf/eln-PRE-2026-05-05-race-oh-us-h-3-55d6bf-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-ohio-us-house-5-primary.html",
+      "headline": "Ohio Fifth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/05/multimedia/eln-PRE-2026-05-05-race-oh-us-h-5-f71f00/eln-PRE-2026-05-05-race-oh-us-h-5-f71f00-articleLarge.jpg",
+      "timestamp": "2026-05-05T18:43:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/04/style/met-gala-best-dressed-vote.html",
+      "headline": "Vote for Your Favorite Met Gala Looks",
+      "image": "https://static01.nyt.com/images/2026/05/04/fashion/04-st-gala-promo/04-st-gala-promo-articleLarge.png",
+      "timestamp": "2026-05-05T02:02:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/04/t-magazine/radcliffe-brooks-questionnaire.html",
+      "headline": "Daniel Radcliffe Takes the Mel Brooks Questionnaire",
+      "image": "https://static01.nyt.com/images/2026/05/04/t-magazine/radcliffe-brooks-promo/radcliffe-brooks-promo-articleLarge.jpg",
+      "timestamp": "2026-05-04T19:01:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/04/world/americas/quake-tracker-mexico.html",
+      "headline": "Map: 5.7-Magnitude Earthquake Shakes Mexico",
+      "image": "https://static01.nyt.com/images/2026/05/04/world/quake-tracker-mexico-index/quake-tracker-mexico-index-articleLarge-v3.jpg",
+      "timestamp": "2026-05-04T16:17:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "twitterHandle": "nytimes",

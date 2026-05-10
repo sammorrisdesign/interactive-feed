@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-04-15T19:12:25.541Z",
+  "lastUpdated": "2026-05-08T19:54:06.641Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/05/business/housing-calculator/",
+      "headline": "Is there anywhere in Mass. that is accessible to middle-income households? See where you can afford to buy a house.",
+      "image": "https://apps.bostonglobe.com/2026/05/business/housing-calculator/static/f9a6c0806b9e534603a1a0799f90984f/f3583/BG7PF2DRENCKTMVTNKTNXMVVSM.png",
+      "timestamp": "2026-05-05T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/business/2024/08/grocery-price-tracker/",
+      "headline": "Track grocery prices in Massachusetts and across the United States",
+      "image": "https://apps.bostonglobe.com/business/2024/08/grocery-price-tracker/static/bb1a6ef92a61dd6047d36f7fff9ff6f9/f3583/D5DDD4X36NCVBBVR4QZVD4MQPU.png",
+      "timestamp": "2024-08-09T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "twitterHandle": "BostonGlobe",

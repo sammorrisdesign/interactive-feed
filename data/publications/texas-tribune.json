@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-04-27T20:06:13.368Z",
+  "lastUpdated": "2026-05-07T11:08:55.245Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/05/07/texas-power-grid-ercot-interconnection-queue-gas-wind/",
+      "headline": "Gas power leapfrogs wind for first time in 10 years in Texas’ grid connection queue",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/03/Vistra20Midlothian20Power20ST20TT2006-scaled.jpg?fit=2560%2C1707&quality=100&ssl=1&w=1200&h=630",
+      "timestamp": "2026-05-07T10:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "twitterHandle": "TexasTribune",

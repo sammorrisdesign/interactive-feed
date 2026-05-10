@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-05-03T09:24:59.505Z",
+  "lastUpdated": "2026-05-09T09:52:59.221Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/05/09/used-ev-car-prices-climb-with-gas-prices-tesla-iran/89933892007/",
+      "headline": "From Tesla to Kia, used EV prices climb with gas prices since Iran war",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/05/08/USAT/89993374007-autostopper.png",
+      "timestamp": "2026-05-09T09:04:59.941Z"
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/05/06/tracking-andes-hantavirus-outbreak-cruise-ship/89963079007/",
+      "headline": "Tracking deadly hantavirus outbreak: Swiss authorities confirm case",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/05/06/USAT/89969062007-viruspromo.png",
+      "timestamp": "2026-05-06T22:20:52.463Z"
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/05/06/artificial-light-pollution-earth-sky/89875586007/",
+      "headline": "Earth's glow is growing. NASA imagery reveals the brightest regions",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/05/05/USAT/89948749007-usatgraphics-lightpollution-topper.png",
+      "timestamp": "2026-05-06T08:01:41.653Z"
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/05/04/hantavirus-outbreak-cruise-ship-graphics/89926549007/",
+      "headline": "See how hantavirus spreads after suspected cruise outbreak kills 3",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/05/04/USAT/89930119007-graphics-hantavirustoppership.png",
+      "timestamp": "2026-05-04T18:30:56.162Z"
+    },
     {
       "publication": "USA Today",
       "twitterHandle": "USATODAY",

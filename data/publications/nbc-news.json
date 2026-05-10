@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-05-04T16:03:30.692Z",
+  "lastUpdated": "2026-05-06T18:26:43.308Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "url": "https://www.nbcnews.com/data-graphics/data-shows-first-names-last-names-rcna342715",
+      "headline": "Interactive: How common is your first name? Your last name?",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/260505-popular-names-2x1-lr-445517.jpg",
+      "timestamp": "2026-05-06T17:43:52.000Z"
+    },
+    {
+      "publication": "NBC News",
+      "url": "https://www.nbcnews.com/data-graphics/gas-prices-by-county-trump-iran-war-us-map-rcna343710",
+      "headline": "Map: See how gas prices have changed in the county where you live",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/county-gasprice-social-347d33.png",
+      "timestamp": "2026-05-05T19:45:57.000Z"
+    },
     {
       "publication": "NBC News",
       "twitterHandle": "NBCNewsGraphics",
