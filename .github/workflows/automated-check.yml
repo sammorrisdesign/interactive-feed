@@ -20,6 +20,6 @@ jobs:
     - name: Create secrets file
       run: export KEY=${{ secrets.KEY }} && npm run decrypt-secrets
     - run: npm run start --publish=true
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    - uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Automated update of feed

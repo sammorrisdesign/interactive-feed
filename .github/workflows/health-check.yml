@@ -12,7 +12,7 @@ jobs:
       with:
         token: ${{ secrets.PAT }}
     - name: Use Node.js 22.x
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v5
       with:
         node-version: 22.x
         cache: 'npm'
@@ -20,6 +20,6 @@ jobs:
     - name: Create secrets file
       run: export KEY=${{ secrets.KEY }} && npm run decrypt-secrets
     - run: npm run alert
-    - uses: stefanzweifel/git-auto-commit-action@v4
+    - uses: stefanzweifel/git-auto-commit-action@v7
       with:
         commit_message: Clearing the error logs
