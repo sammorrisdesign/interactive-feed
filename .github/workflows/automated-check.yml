@@ -12,7 +12,7 @@ jobs:
       with:
         token: ${{ secrets.PAT }}
     - name: Use Node.js 22.x
-      uses: actions/setup-node@v3
+      uses: actions/setup-node@v5
       with:
         node-version: 22.x
         cache: 'npm'
