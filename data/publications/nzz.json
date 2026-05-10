@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-08T15:08:44.268Z",
+  "lastUpdated": "2026-05-10T06:09:55.515Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/chinesische-drohnen-in-libyen-satellitenbilder-zeigen-den-ausbau-von-al-khadim-ld.10005801",
+      "headline": "Chinesische Drohnen in Libyen: Satellitenbilder zeigen den Ausbau von al-Khadim",
+      "image": "https://img-msp-prod.nzz.ch/2026/05/08/72185d70-ec86-49ec-a7f2-d17a21df9382.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz",
+      "timestamp": "2026-05-10T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
