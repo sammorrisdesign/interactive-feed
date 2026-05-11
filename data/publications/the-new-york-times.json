@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-11T20:16:00.967Z",
+  "lastUpdated": "2026-05-11T22:52:56.706Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/11/learning/11StudentNewsQuiz.html",
+      "headline": "Student New Quiz: National Debt, Teen Takeovers, Sea Lion",
+      "image": "https://static01.nyt.com/images/2026/05/04/multimedia/04hantavirus-cruise-wwk-zbgq-copyLN/04hantavirus-cruise-wwk-zbgq-articleLarge.jpg",
+      "timestamp": "2026-05-11T22:20:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
