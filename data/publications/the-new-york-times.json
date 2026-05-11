@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-11T18:20:36.104Z",
+  "lastUpdated": "2026-05-11T20:16:00.967Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/11/us/25a-application-for-stay.html",
+      "headline": "Read Virginia Officials’ Emergency Application to the Supreme Court",
+      "image": "https://static01.nyt.com/images/2026/05/11/doc-25a-application-for-stay-promo/doc-25a-application-for-stay-promo-articleLarge.png",
+      "timestamp": "2026-05-11T20:01:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
