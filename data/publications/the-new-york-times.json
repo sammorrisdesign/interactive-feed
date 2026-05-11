@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-11T13:46:57.454Z",
+  "lastUpdated": "2026-05-11T16:31:44.100Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/11/books/review/crime-novel-quotes.html",
+      "headline": "Can You Match the Memorable Line to the Right Crime Novel?",
+      "image": "https://static01.nyt.com/images/2026/05/11/books/11TBR-Quiz-CrimeLines/11TBR-Quiz-CrimeLines-articleLarge.jpg",
+      "timestamp": "2026-05-11T15:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
