@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-11T22:52:56.706Z",
+  "lastUpdated": "2026-05-12T09:19:02.392Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/12/us/warehouse-hubs-semi-trucks-chicago.html",
+      "headline": "20,000 Trucks a Day: Life Near a Booming Warehouse Hub",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/00lif-il-warehouses-interactive-fpzq/00lif-il-warehouses-interactive-fpzq-articleLarge.jpg",
+      "timestamp": "2026-05-12T09:00:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
