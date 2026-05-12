@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-05-12T21:49:44.218Z",
+  "lastUpdated": "2026-05-12T22:58:53.825Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-us-senate-primary.html",
+      "headline": "Nebraska U.S. Senate Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-race-ne-us-s-06985e/eln-PRE-2026-05-12-race-ne-us-s-06985e-articleLarge.jpg",
+      "timestamp": "2026-05-12T22:26:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-governor-primary.html",
+      "headline": "Nebraska Governor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-race-ne-governor-e0bab7/eln-PRE-2026-05-12-race-ne-governor-e0bab7-articleLarge.jpg",
+      "timestamp": "2026-05-12T22:26:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-treasurer-primary.html",
+      "headline": "Nebraska Treasurer Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-state-ne-c2a3a7/eln-PRE-2026-05-12-state-ne-c2a3a7-articleLarge.jpg",
+      "timestamp": "2026-05-12T22:26:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-attorney-general-primary.html",
+      "headline": "Nebraska Attorney General Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-state-ne-09148c/eln-PRE-2026-05-12-state-ne-09148c-articleLarge.jpg",
+      "timestamp": "2026-05-12T22:26:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-us-house-3-primary.html",
+      "headline": "Nebraska Third Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-race-ne-us-h-3-e7830d/eln-PRE-2026-05-12-race-ne-us-h-3-e7830d-articleLarge.jpg",
+      "timestamp": "2026-05-12T22:26:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-us-house-1-primary.html",
+      "headline": "Nebraska First Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-race-ne-us-h-1-bb59d3/eln-PRE-2026-05-12-race-ne-us-h-1-bb59d3-articleLarge.jpg",
+      "timestamp": "2026-05-12T22:26:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-west-virginia-court-of-appeals.html",
+      "headline": "West Virginia Court of Appeals Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-state-wv-51dc3f/eln-PRE-2026-05-12-state-wv-51dc3f-articleLarge.jpg",
+      "timestamp": "2026-05-12T22:26:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
