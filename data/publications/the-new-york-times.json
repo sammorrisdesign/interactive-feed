@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-05-12T16:01:07.665Z",
+  "lastUpdated": "2026-05-12T20:15:06.200Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-us-house-2-primary.html",
+      "headline": "Nebraska Second Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-race-ne-us-h-2-f253d2/eln-PRE-2026-05-12-race-ne-us-h-2-f253d2-articleLarge.jpg",
+      "timestamp": "2026-05-12T19:50:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/michigan-us-house-10-polls-2026.html",
+      "headline": "Michigan 10th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-12T19:44:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/michigan-us-house-7-polls-2026.html",
+      "headline": "Michigan Seventh Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-12T19:44:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/michigan-us-house-4-polls-2026.html",
+      "headline": "Michigan Fourth Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-05-12T19:43:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-secretary-of-state-primary.html",
+      "headline": "Nebraska Secretary of State Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-state-ne-dee2c8/eln-PRE-2026-05-12-state-ne-dee2c8-articleLarge.jpg",
+      "timestamp": "2026-05-12T19:41:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-nebraska-auditor-primary.html",
+      "headline": "Nebraska Auditor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-state-ne-38f5a2/eln-PRE-2026-05-12-state-ne-38f5a2-articleLarge.jpg",
+      "timestamp": "2026-05-12T19:41:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-jersey-mayor-newark.html",
+      "headline": "Newark Mayor Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-race-nj-mayor-newark-d8ac96/eln-PRE-2026-05-12-race-nj-mayor-newark-d8ac96-articleLarge.jpg",
+      "timestamp": "2026-05-12T19:41:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-west-virginia-us-house-1-primary.html",
+      "headline": "West Virginia First Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/eln-PRE-2026-05-12-race-wv-us-h-1-d03863/eln-PRE-2026-05-12-race-wv-us-h-1-d03863-articleLarge.jpg",
+      "timestamp": "2026-05-12T19:41:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
