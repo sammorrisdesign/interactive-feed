@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-12T20:15:06.200Z",
+  "lastUpdated": "2026-05-12T21:49:44.218Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/12/world/quake-tracker-iran.html",
+      "headline": "Map: 4.3-Magnitude Earthquake Shakes Iran",
+      "image": "https://static01.nyt.com/images/2026/05/12/world/12wea-quake-tracker-iran-nyta5u1f-v2-index/12wea-quake-tracker-iran-nyta5u1f-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-05-12T21:07:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
