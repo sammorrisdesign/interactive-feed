@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-13T00:02:39.224Z",
+  "lastUpdated": "2026-05-13T19:52:10.178Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-05-14/eurovision-more-or-less/106669698",
+      "headline": "It's the ABC More or Less quiz: Eurovision edition",
+      "image": "https://live-production.wcms.abc-cdn.net.au/965f7095204af7408397f3d5ba4448bc?impolicy=wcms_crop_resize&cropH=999&cropW=1332&xPos=84&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

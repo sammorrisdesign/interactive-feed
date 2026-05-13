@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-13T10:24:22.940Z",
+  "lastUpdated": "2026-05-13T19:52:10.241Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/13/business/economy/kevin-warsh-fed-chair-interest-rates.html",
+      "headline": "What the New Head of the Federal Reserve Will Inherit",
+      "image": "https://static01.nyt.com/images/2026/05/10/multimedia/2026-05-07-fed-warsh-index/2026-05-07-fed-warsh-index-articleLarge-v6.png",
+      "timestamp": "2026-05-13T18:54:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
