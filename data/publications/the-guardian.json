@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-13T04:29:17.408Z",
+  "lastUpdated": "2026-05-13T15:24:53.885Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/10/fiction-writing-professor-ai",
+      "headline": "I knew my writing students were using AI. Their confessions led to a powerful teaching moment | Micah Nathan",
+      "image": "https://i.guim.co.uk/img/media/e6dcf73db64c84a2c7e3ae1f9ab84be7459303ee/0_2_3000_2398/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=58e1debef53ecb7b169d87da0a1d0f94",
+      "timestamp": "2026-05-10T13:00:27.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
