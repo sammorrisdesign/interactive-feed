@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-09T19:57:45.449Z",
+  "lastUpdated": "2026-05-13T00:02:39.224Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-05-13/2026-federal-budget-tax-cuts-calculator/106672568",
+      "headline": "Use our calculator to work out how much the budget changes could save you",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a91670fc101bc5594c1267210fc2bd65?impolicy=wcms_crop_resize&cropH=1667&cropW=2223&xPos=271&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "url": "https://www.abc.net.au/news/2026-05-10/how-everyone-is-making-money-and-what-it-means-for-their-tax/106639592",
