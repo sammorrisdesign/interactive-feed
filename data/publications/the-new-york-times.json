@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-12T22:58:53.825Z",
+  "lastUpdated": "2026-05-13T10:24:22.940Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/13/opinion/iran-war-democracy-america.html",
+      "headline": "The Autocracy Index: Trump’s Disregard for Congress Has Reached a New Level",
+      "image": "https://static01.nyt.com/images/2026/05/11/multimedia/00-edboard-gvjk/00-edboard-gvjk-articleLarge.jpg",
+      "timestamp": "2026-05-13T09:02:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/upshot/look-up-district-test-scores.html",
+      "headline": "Look Up Your School District’s Test Scores",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/2026-04-16-school-score-lookup-index/2026-04-16-school-score-lookup-index-articleLarge-v2.png",
+      "timestamp": "2026-05-13T09:01:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
