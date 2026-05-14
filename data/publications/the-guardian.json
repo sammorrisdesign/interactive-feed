@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-14T06:23:58.245Z",
+  "lastUpdated": "2026-05-14T11:26:28.563Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/may/14/us-stock-market-war-inflation-tariffs-trump",
+      "headline": "War, inflation and Trump’s tariffs have shaken the US. Why does the stock market keep going up?",
+      "image": "https://i.guim.co.uk/img/media/c7c6104c875837c2df0a4e327786e30ca5a676b4/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2a35bd4644b6baf6288b68e8e8a31c9d",
+      "timestamp": "2026-05-14T10:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

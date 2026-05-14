@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-14T09:14:59.726Z",
+  "lastUpdated": "2026-05-14T11:26:28.579Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/14/world/asia/trump-china-xi-delegation-business-leaders.html",
+      "headline": "A Closer Look at Who’s in the U.S. Delegation to China",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/2026-05-14-trump-xi-people-index/2026-05-14-trump-xi-people-index-articleLarge.jpg",
+      "timestamp": "2026-05-14T10:14:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

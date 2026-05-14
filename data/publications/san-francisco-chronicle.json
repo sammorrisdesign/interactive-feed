@@ -1,6 +1,108 @@
 {
-  "lastUpdated": "2026-05-04T00:59:18.824Z",
+  "lastUpdated": "2026-05-14T11:26:28.286Z",
   "articles": [
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-sf-election-endorsements/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/30983701/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:14:06.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-may-8/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:12:23.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-may-8/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:12:22.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-political-groups/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/30979580/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:12:21.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-seven-summits-mountain-survey/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/30794029/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:12:21.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-sf-bay-area-voter-guide/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/30178798/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:12:21.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-sf-bay-area-voter-guide/responses/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/30178798/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:12:21.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-sf-bay-area-voter-guide/governor/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/30178798/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:12:21.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/bay-area-jeopardy/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/30995514/1/rawImage.jpg",
+      "timestamp": "2026-05-13T13:12:19.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/california-fire-map/brite-fire-2026-embed/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/24081339/1/rawImage.jpg",
+      "timestamp": "2026-05-13T04:15:44.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/california-fire-map/brite-fire-2026/",
+      "timestamp": "2026-05-13T04:15:44.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/california-fire-map/bradley-fire-2026-embed/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/24081339/1/rawImage.jpg",
+      "timestamp": "2026-05-13T04:15:44.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/california-fire-map/canyon-fire-2026/",
+      "timestamp": "2026-05-13T04:15:44.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/california-fire-map/canyon-fire-2026-embed/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/24081339/1/rawImage.jpg",
+      "timestamp": "2026-05-13T04:15:44.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/california-fire-map/bradley-fire-2026/",
+      "timestamp": "2026-05-13T04:15:44.000Z"
+    },
     {
       "publication": "San Francisco Chronicle",
       "twitterHandle": "sfchronicle",
