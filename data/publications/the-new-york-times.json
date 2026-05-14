@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-14T11:26:28.579Z",
+  "lastUpdated": "2026-05-14T15:41:31.006Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/president-republican-primary-polls-2028.html",
+      "headline": "2028 Republican Presidential Primary: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/03/24/us/rep-pres-poll-promo-polling/rep-pres-poll-promo-polling-articleLarge-v4.jpg",
+      "timestamp": "2026-05-14T15:00:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/president-democratic-primary-polls-2028.html",
+      "headline": "2028 Democratic Presidential Primary: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/03/24/us/dem-pres-poll-promo-polling/dem-pres-poll-promo-polling-articleLarge-v4.jpg",
+      "timestamp": "2026-05-14T15:00:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

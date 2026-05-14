@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-14T11:26:28.563Z",
+  "lastUpdated": "2026-05-14T15:41:30.980Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/14/south-carolina-republican-trump-speech",
+      "headline": "Anatomy of a speech: how does a Republican leader say no to Trump?",
+      "image": "https://i.guim.co.uk/img/media/1c0893ebf6d416b4a305e7ad247a490107a9e697/181_0_5600_4480/master/5600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3dbb03bb6efa8c3593b05047cd3b88d",
+      "timestamp": "2026-05-14T13:32:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
