@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-13T19:52:10.178Z",
+  "lastUpdated": "2026-05-14T02:51:09.942Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-05-14/coles-grocery-pricing-down-down-accc-court-visual-guide/106678288",
+      "headline": "Charts show how Coles duped shoppers with Down Down price patterns",
+      "image": "https://live-production.wcms.abc-cdn.net.au/cf37bdcc30ea84391a5fd587d604d753?impolicy=wcms_crop_resize&cropH=1400&cropW=1867&xPos=168&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

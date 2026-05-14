@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-13T00:02:39.312Z",
+  "lastUpdated": "2026-05-14T02:51:10.030Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/chatbots-hidden-rules-system-prompts/",
+      "headline": "Analysis | See the hidden rules behind AI. Then use them to rewrite this article.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreid23nux3pjwzbpq3vgv35ogjejdyrkbhxnhg2ipafgdsjnbh55ahy",
+      "timestamp": "2026-05-14T01:01:01.086Z"
+    },
     {
       "publication": "The Washington Post",
       "blueSkyHandle": "washingtonpost.com",
