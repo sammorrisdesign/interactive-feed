@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-14T06:23:57.884Z",
+  "lastUpdated": "2026-05-14T19:43:47.367Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/elon-musk-tim-cook-jensen-huang-diese-wirtschaftschefs-begleiten-trump-nach-china-ld.10007160",
+      "headline": "Elon Musk, Tim Cook, Jensen Huang: Diese Wirtschaftschefs begleiten Trump nach China",
+      "image": "https://img-msp-prod.nzz.ch/2026/05/14/28e3f1b9-844d-41f6-8b42-ba7ba2434b0b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3558,2001,x0,y371&wmark=nzz",
+      "timestamp": "2026-05-14T17:47:08.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
