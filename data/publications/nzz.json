@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-11T16:31:44.062Z",
+  "lastUpdated": "2026-05-14T06:23:57.884Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/in-mecklenburg-vorpommern-profitiert-die-spd-vom-amtsbonus-dennoch-droht-ein-absturz-alle-umfragen-zur-wahl-ld.10004288",
+      "headline": "In Mecklenburg-Vorpommern profitiert die SPD vom Amtsbonus – dennoch droht ein Absturz. Alle Umfragen zur Wahl",
+      "image": "https://img-msp-prod.nzz.ch/2026/04/24/d749f013-90c9-4a29-ab02-d8df6a94bd1d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y225&wmark=nzz",
+      "timestamp": "2026-05-14T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
