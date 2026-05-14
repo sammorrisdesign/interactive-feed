@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-14T15:41:31.006Z",
+  "lastUpdated": "2026-05-14T22:37:07.385Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/14/us/politics/congress-iran-war-powers.html",
+      "headline": "Congress Has Rejected 10 Chances to Assert Its War Powers in Iran",
+      "image": "https://static01.nyt.com/images/2026/05/14/us/congress-war-powers-vote-promo-2026-05-14-congress-war-powers-timeline/congress-war-powers-vote-promo-2026-05-14-congress-war-powers-timeline-articleLarge.jpg",
+      "timestamp": "2026-05-14T21:32:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
