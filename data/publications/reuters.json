@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-01T08:28:50.891Z",
+  "lastUpdated": "2026-05-15T14:00:50.926Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/china/delicate-choreography-trump-xi-state-dinner-2026-05-15/",
+      "headline": "The delicate choreography of the Trump-Xi state dinner",
+      "image": "https://www.reuters.com/resizer/v2/BOUXBUJGLZCNVM6U5IR73X73R4.png?auth=6256e98aa7923fc6d3677628f4968aa83eb51ee845826c1ff907224ee7d22523&width=1200&quality=80",
+      "timestamp": "2026-05-15T13:36:17.921Z"
+    },
     {
       "publication": "Reuters",
       "twitterHandle": "ReutersGraphics",
