@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-14T22:37:07.385Z",
+  "lastUpdated": "2026-05-15T09:46:12.959Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/15/magazine/rugs-hardwood-floors-hodgman-quiz.html",
+      "headline": "Does a House Really Need Rugs?",
+      "image": "https://static01.nyt.com/images/2026/05/17/magazine/17mag-hodgman/17mag-hodgman-articleLarge.jpg",
+      "timestamp": "2026-05-15T09:03:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/15/world/middleeast/iran-oil-china-us-hormuz.html",
+      "headline": "How Iran’s Energy Exports Are Still Headed Toward China",
+      "image": "https://static01.nyt.com/images/2026/05/14/multimedia/2026-04-20-shadow-fleet-iran-index/2026-04-20-shadow-fleet-iran-index-articleLarge-v2.png",
+      "timestamp": "2026-05-15T08:57:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
