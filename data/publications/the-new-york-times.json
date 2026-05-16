@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-16T09:11:17.004Z",
+  "lastUpdated": "2026-05-16T17:55:41.153Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-louisiana-us-senate-primary.html",
+      "headline": "Louisiana U.S. Senate Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/16/multimedia/eln-PRE-2026-05-16-race-la-us-s-c87416/eln-PRE-2026-05-16-race-la-us-s-c87416-articleLarge.jpg",
+      "timestamp": "2026-05-16T17:25:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
