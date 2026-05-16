@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-16T01:16:51.645Z",
+  "lastUpdated": "2026-05-16T07:13:22.347Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/may/16/story-behind-100-best-novels-all-time",
+      "headline": "Who’s in, who’s out, and how many have you read? The story behind our 100 best novels list",
+      "image": "https://i.guim.co.uk/img/media/72d423621a19440158b4d4f98b909167f26d02e3/0_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=230750faddf038c5d6c86c674bd2bb23",
+      "timestamp": "2026-05-16T05:01:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/16/down-and-then-out-in-paris-and-london-why-starmer-isnt-the-only-one-with-a-popularity-problem",
+      "headline": "Down and then out in Paris and London? Why Starmer isn’t the only one with a popularity problem",
+      "image": "https://i.guim.co.uk/img/media/f172af0362cdeae07e3085c23a63f3ca7fcb1f05/0_763_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=774488095f3cb99babe40f15970ae9bc",
+      "timestamp": "2026-05-16T05:00:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
