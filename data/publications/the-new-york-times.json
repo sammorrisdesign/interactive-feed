@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-16T01:16:51.673Z",
+  "lastUpdated": "2026-05-16T09:11:17.004Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/16/realestate/andie-macdowell-home-tour.html",
+      "headline": "Andie MacDowell Found Her Place on Kiawah Island",
+      "image": "https://static01.nyt.com/images/2026/05/15/realestate/andie-macdowell-home-tour-1778884245932/andie-macdowell-home-tour-1778884245932-articleLarge.jpg",
+      "timestamp": "2026-05-16T09:01:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/16/world/americas/cuba-military-conglomerate-gaesa-economy-explained.html",
+      "headline": "The Secretive Conglomerate That Controls Cuba’s Economy",
+      "image": "https://static01.nyt.com/images/2026/05/12/multimedia/2026-04-09-cuba-gaesa-diagram-index/2026-04-09-cuba-gaesa-diagram-index-articleLarge-v5.jpg",
+      "timestamp": "2026-05-16T09:01:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
