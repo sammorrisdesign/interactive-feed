@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-15T19:50:26.491Z",
+  "lastUpdated": "2026-05-16T01:16:51.673Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/15/well/poison-ivy-oak-plant-quiz.html",
+      "headline": "Quiz: Wait, Is That Poison Ivy?",
+      "image": "https://static01.nyt.com/images/2026/05/16/well/16Well-Poison-Ivy-03/16Well-Poison-Ivy-03-articleLarge.jpg",
+      "timestamp": "2026-05-16T00:02:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
