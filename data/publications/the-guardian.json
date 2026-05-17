@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-17T07:33:17.593Z",
+  "lastUpdated": "2026-05-17T11:03:50.605Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/17/comedian-charlie-berens-ai-datacenters",
+      "headline": "‘Nobody’s negotiating for the people here’: comedian Charlie Berens takes on AI datacenters ",
+      "image": "https://i.guim.co.uk/img/media/1944a9066b442611222ed415ba637d6839bcdde8/1919_1334_5533_4426/master/5533.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e47ee21998c0697ff5cdc53522912e6c",
+      "timestamp": "2026-05-17T11:00:36.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
