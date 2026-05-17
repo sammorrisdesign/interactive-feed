@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-17T19:06:59.283Z",
+  "lastUpdated": "2026-05-17T21:26:56.419Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-05-18/iran-israel-war-news-briefing/106690744",
+      "headline": "Iran weekly briefing: A new front emerges as the Emirates strike back",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3609aec22ae28d93a6b578aaa8508069?impolicy=wcms_crop_resize&cropH=2790&cropW=3720&xPos=228&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-04-20T02:26:52.546Z",
+  "lastUpdated": "2026-05-17T21:26:56.427Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "blueSkyHandle": "cnn.com",
+      "url": "https://www.cnn.com/interactive/2026/05/us/minneapolis-annunciation-school-shooting-recovery/",
+      "headline": "The shooting finally stopped. Then came everything else",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreifsenuphjxectu5krhl4hwdl6zs2q64o6jgvarqyp4mr6m7w4t2zu",
+      "timestamp": "2026-05-17T20:58:02.323Z"
+    },
     {
       "publication": "CNN",
       "twitterHandle": "CNN",
