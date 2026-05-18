@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-18T16:46:37.795Z",
+  "lastUpdated": "2026-05-18T18:30:33.435Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/18/nyregion/mangione-gun-decision.html",
+      "headline": "Read the judge’s decision on evidence in the Luigi Mangione state murder trial.",
+      "image": "https://static01.nyt.com/images/2026/05/18/doc-mangione-gun-decision-promo/doc-mangione-gun-decision-promo-articleLarge.png",
+      "timestamp": "2026-05-18T17:01:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
