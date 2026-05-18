@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-16T17:55:41.153Z",
+  "lastUpdated": "2026-05-18T09:57:14.817Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/18/nyregion/nyc-budgeting-affordability-radley.html",
+      "headline": "How a Web Developer Lives on $45,000 in Far Rockaway",
+      "image": "https://static01.nyt.com/images/2026/05/15/multimedia/radley-portrait-swap-01-qjbt/radley-portrait-swap-01-qjbt-articleLarge.jpg",
+      "timestamp": "2026-05-18T09:02:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/18/us/politics/midterms-redistricting-maps-competitive.html",
+      "headline": "How Redistricting Is Making the Midterms Less Competitive",
+      "image": "https://static01.nyt.com/images/2026/05/13/us/swing-district-loss-promo-2026-04-30-redistricting-swing-loss/swing-district-loss-promo-2026-04-30-redistricting-swing-loss-articleLarge.jpg",
+      "timestamp": "2026-05-18T09:02:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/18/opinion/affordable-housing-america.html",
+      "headline": "America Needs to Build More Housing",
+      "image": "https://static01.nyt.com/images/2026/05/18/opinion/18housing-editorial-promo/18housing-editorial-promo-articleLarge.jpg",
+      "timestamp": "2026-05-18T09:02:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/18/polls/times-siena-national-poll-toplines.html",
+      "headline": "Toplines: May 2026 Times/Siena National Poll of Registered Voters",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-05-18T08:58:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/18/polls/times-siena-national-poll-crosstabs.html",
+      "headline": "Cross-Tabs: May 2026 Times/Siena National Poll of Registered Voters",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-05-18T08:57:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
