@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-18T09:57:14.817Z",
+  "lastUpdated": "2026-05-18T16:46:37.795Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/18/books/review/novel-adaptations-quiz.html",
+      "headline": "Page to Screen: Do You Know the Books That Inspired These Adaptations?",
+      "image": "https://static01.nyt.com/images/2026/05/18/books/18TBR-Quiz-YA_Adaptations/18TBR-Quiz-YA_Adaptations-articleLarge.jpg",
+      "timestamp": "2026-05-18T15:00:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
