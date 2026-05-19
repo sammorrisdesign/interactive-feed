@@ -183,5 +183,85 @@
     "timestamp": "2026-05-18T23:51:24.348Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
+  },
+  {
+    "timestamp": "2026-05-19T00:15:58.864Z",
+    "publication": "CNN",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:14976:13\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:280:26)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:21:00.184Z",
+    "publication": "De Tijd",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:14976:13\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:280:26)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:26:41.250Z",
+    "publication": "de Volkskrant",
+    "error": "Error: fetch failed\n    at XRPCError.from (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/types.js:174:16)\n    at XrpcClient.call (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/xrpc-client.js:89:37)\n    at async CredentialSession.login (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/api/dist/atp-agent.js:257:25)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:289:7)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:26:41.894Z",
+    "publication": "ESPN",
+    "error": "TypeError: Cannot read properties of undefined (reading 'channel')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:168:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:26:41.904Z",
+    "publication": "ESPN",
+    "error": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:197:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:33:30.175Z",
+    "publication": "Nature",
+    "error": "Error: UpstreamFailure\n    at XrpcClient.call (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/xrpc-client.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async CredentialSession.login (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/api/dist/atp-agent.js:257:25)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:289:7)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:33:31.662Z",
+    "publication": "NPR",
+    "error": "SyntaxError: Unexpected token '<', \"<html>\r\n<h\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5880:19)\n    at successSteps (node:internal/deps/undici/undici:5861:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4753:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async consumeBody (node:internal/deps/undici/undici:5870:7)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:281:22)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)"
+  },
+  {
+    "timestamp": "2026-05-19T00:33:33.004Z",
+    "publication": "Politico",
+    "error": "SyntaxError: Unexpected token '<', \"<html>\r\n<h\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5880:19)\n    at successSteps (node:internal/deps/undici/undici:5861:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4753:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async consumeBody (node:internal/deps/undici/undici:5870:7)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:281:22)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)"
+  },
+  {
+    "timestamp": "2026-05-19T00:33:47.428Z",
+    "publication": "Publico",
+    "error": "Error: UpstreamFailure\n    at XrpcClient.call (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/xrpc-client.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async CredentialSession.login (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/api/dist/atp-agent.js:257:25)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:289:7)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:33:48.819Z",
+    "publication": "San Francisco Chronicle",
+    "error": "SyntaxError: Unexpected token '<', \"<html>\r\n<h\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5880:19)\n    at successSteps (node:internal/deps/undici/undici:5861:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4753:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async consumeBody (node:internal/deps/undici/undici:5870:7)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:281:22)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)"
+  },
+  {
+    "timestamp": "2026-05-19T00:33:48.900Z",
+    "publication": "San Francisco Chronicle",
+    "error": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:197:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:33:48.974Z",
+    "publication": "Seattle Times",
+    "error": "SyntaxError: Unexpected token '<', \"<html>\r\n<h\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5880:19)\n    at successSteps (node:internal/deps/undici/undici:5861:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4753:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async consumeBody (node:internal/deps/undici/undici:5870:7)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:281:22)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)"
+  },
+  {
+    "timestamp": "2026-05-19T00:36:08.040Z",
+    "publication": "The City",
+    "error": "Error: UpstreamFailure\n    at BskyAgent.call (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/xrpc-client.js:75:23)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:294:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:36:08.269Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-05-19T00:45:49.083Z",
+    "publication": "The Washington Post",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:14976:13\n    at async Object.Website (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:229:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T00:45:49.269Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
   }
 ]
