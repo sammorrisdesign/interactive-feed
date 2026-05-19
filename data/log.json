@@ -88,5 +88,35 @@
     "timestamp": "2026-05-19T19:49:54.206Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
+  },
+  {
+    "timestamp": "2026-05-19T21:16:17.223Z",
+    "publication": "ESPN",
+    "error": "TypeError: Cannot read properties of undefined (reading 'channel')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:168:25)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T21:16:17.258Z",
+    "publication": "ESPN",
+    "error": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:197:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T21:16:36.251Z",
+    "publication": "San Francisco Chronicle",
+    "error": "TypeError: Cannot read properties of undefined (reading 'url')\n    at Object.XML (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:197:28)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T21:16:44.701Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-05-19T21:18:05.824Z",
+    "publication": "The Washington Post",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:14976:13\n    at async Object.Website (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:229:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:343:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-19T21:18:06.251Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
   }
 ]
