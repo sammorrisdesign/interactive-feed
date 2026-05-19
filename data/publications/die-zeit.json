@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-16T10:46:10.921Z",
+  "lastUpdated": "2026-05-19T08:25:39.960Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-05/automatisierungsrisiko-arbeitnehmer-ki-arbeitsmarkt-bedrohung",
+      "headline": "Wie ersetzbar ist Ihr Job durch KI?",
+      "image": "https://img.zeit.de/wirtschaft/2026-05/automatisierungsrisiko-arbeitnehmer-ki-arbeitsmarkt-bedrohung-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissen/2026-05/nsdap-suchmaschine-tool-ki-datenbank-recherchearbeit",
+      "headline": "Wie DIE ZEIT die NSDAP-Kartei einfach zugänglich machte",
+      "image": "https://img.zeit.de/wissen/2026-04/nsdap-suchmaschine-tool-ki-datenbank-recherchearbeit-2/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
