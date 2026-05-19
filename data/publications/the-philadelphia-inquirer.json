@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-05-18T09:57:14.828Z",
+  "lastUpdated": "2026-05-19T11:39:35.339Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/news/inq2/annotated-finley-letter-wrongful-conviction-20260519.html",
+      "headline": "How court-appointed lawyers can argue against their own client's conviction. Pennsylvania's Finley letters explained",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/ZFD4CME6CVAJVAVTDNYAQA2XPY.png",
+      "timestamp": "2026-05-19T09:01:01.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/pennsylvania-house-senate-2026-primary-election-results-20260519.html",
+      "headline": "Pa. primary results for 2026 State House and Senate races",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/WPRPK62EUVALZA2KLW27OQ5TLY.jpg",
+      "timestamp": "2026-05-19T09:01:00.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/pa-governor-us-house-primary-election-live-results-20260519.html",
+      "headline": "Pa. Governor and U.S. House primary election results",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/BTZDQR6PXFGMPFELDJ4BYL25AQ.jpg",
+      "timestamp": "2026-05-19T09:01:00.000Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "blueSkyHandle": "inquirer.com",

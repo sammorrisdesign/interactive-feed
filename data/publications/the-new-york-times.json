@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-18T18:30:33.435Z",
+  "lastUpdated": "2026-05-19T11:39:35.330Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/19/opinion/california-governor-primary-election.html",
+      "headline": "Who Should Be the Next Governor of California?",
+      "image": "https://static01.nyt.com/images/2026/05/19/opinion/19choice-california-promo-static/19choice-california-promo-static-articleLarge.jpg",
+      "timestamp": "2026-05-19T09:02:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/19/dining/sardinia-rare-pasta-food-travel.html",
+      "headline": "The World’s Rarest Pasta Is Hidden in the Mountains of Sardinia",
+      "image": "https://static01.nyt.com/images/2026/05/15/dining/su-filindeu-sardinia-promo/su-filindeu-sardinia-promo-articleLarge.png",
+      "timestamp": "2026-05-19T09:01:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/19/polls/times-siena-poll-republicans-crosstabs.html",
+      "headline": "Cross-Tabs: May 2026 Times/Siena National Poll Among Potential Republican Supporters",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-05-19T08:55:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
