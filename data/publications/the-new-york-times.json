@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-05-19T17:38:10.573Z",
+  "lastUpdated": "2026-05-19T19:49:54.269Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-georgia-us-house-10-primary.html",
+      "headline": "Georgia 10th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/19/multimedia/eln-PRE-2026-05-19-race-ga-us-h-10-43fbf1/eln-PRE-2026-05-19-race-ga-us-h-10-43fbf1-articleLarge.jpg",
+      "timestamp": "2026-05-19T18:59:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-georgia-agriculture-commissioner-primary.html",
+      "headline": "Georgia Agriculture Commissioner Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/19/multimedia/eln-PRE-2026-05-19-state-ga-aa4937/eln-PRE-2026-05-19-state-ga-aa4937-articleLarge.jpg",
+      "timestamp": "2026-05-19T18:59:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-georgia-attorney-general-primary.html",
+      "headline": "Georgia Attorney General Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/19/multimedia/eln-PRE-2026-05-19-state-ga-4b546e/eln-PRE-2026-05-19-state-ga-4b546e-articleLarge.jpg",
+      "timestamp": "2026-05-19T18:59:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-georgia-public-service-commission-primary.html",
+      "headline": "Georgia Public Service Commission Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/19/multimedia/eln-PRE-2026-05-19-state-ga-6f12c1/eln-PRE-2026-05-19-state-ga-6f12c1-articleLarge.jpg",
+      "timestamp": "2026-05-19T18:59:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-alabama-us-house-4-primary.html",
+      "headline": "Alabama Fourth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/19/multimedia/eln-PRE-2026-05-19-race-al-us-h-4-65c358/eln-PRE-2026-05-19-race-al-us-h-4-65c358-articleLarge.jpg",
+      "timestamp": "2026-05-19T18:59:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-alabama-treasurer-primary.html",
+      "headline": "Alabama Treasurer Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/19/multimedia/eln-PRE-2026-05-19-state-al-4d8f52/eln-PRE-2026-05-19-state-al-4d8f52-articleLarge.jpg",
+      "timestamp": "2026-05-19T18:59:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
