@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-15T14:00:50.926Z",
+  "lastUpdated": "2026-05-19T17:38:07.318Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/africa/fast-spreading-ebola-outbreak-central-africa-2026-05-19/",
+      "headline": "The fast-spreading Ebola outbreak in central Africa",
+      "image": "https://www.reuters.com/resizer/v2/PDYVI3TTBRGXXCUIVOFIRLWGSU.jpg?auth=141f24ebf28ed19a1f0945847b7d99d7013890c185b56180f3e239b845fd5ff6&width=1200&quality=80",
+      "timestamp": "2026-05-19T17:01:27.779Z"
+    },
     {
       "publication": "Reuters",
       "blueSkyHandle": "reuters.com",
