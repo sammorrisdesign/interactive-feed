@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-05-19T08:25:39.960Z",
+  "lastUpdated": "2026-05-20T17:39:55.992Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/entdecken/2026-05/mount-everest-bergsteiger-todesfaelle-himalaya",
+      "headline": "Diese Menschen sind auf dem Mount Everest gestorben",
+      "image": "https://img.zeit.de/entdecken/2026-05/mount-everest-bergsteiger-todesfaelle-himalaya-2/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/mobilitaet/2026-05/e-auto-foerderung-elektromobilitaet-antrag-rechner",
+      "headline": "So viel Prämie können Sie für Ihr E-Auto bekommen",
+      "image": "https://img.zeit.de/mobilitaet/2026-05/e-auto-foerderung-elektromobilitaet-antrag-rechner-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/gesundheit/2026-05/krebs-arten-risiko-ursachen-praevention-gesundheit",
+      "headline": "So können Sie Ihr Krebsrisiko senken",
+      "image": "https://img.zeit.de/gesundheit/2026-05/krebs-arten-risiko-ursachen-praevention-gesundheit-teaser/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
