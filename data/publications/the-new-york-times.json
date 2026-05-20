@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-20T11:26:46.186Z",
+  "lastUpdated": "2026-05-20T20:11:51.003Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/20/us/raul-castro-indictment-cuba.html",
+      "headline": "Read the Indictment Against Raúl Castro",
+      "image": "https://static01.nyt.com/images/2026/05/20/doc-051129760646-promo/doc-051129760646-promo-articleLarge.png",
+      "timestamp": "2026-05-20T18:17:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
