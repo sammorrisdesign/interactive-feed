@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-19T22:45:12.898Z",
+  "lastUpdated": "2026-05-20T11:26:46.186Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/20/us/politics/trump-iran-war-deal.html",
+      "headline": "How Trump Has Talked About Ending the Iran War",
+      "image": "https://static01.nyt.com/images/2026/05/19/multimedia/2026-05-13-trump-iran-statements-index/2026-05-13-trump-iran-statements-index-articleLarge.png",
+      "timestamp": "2026-05-20T09:03:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
