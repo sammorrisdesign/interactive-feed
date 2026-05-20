@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-19T17:38:10.550Z",
+  "lastUpdated": "2026-05-20T14:04:47.059Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/20/eva-lighthiser-trump-climate",
+      "headline": "Eva v Goliath: the 20-year-old climate activist taking on Trump and the fossil fuel industry",
+      "image": "https://i.guim.co.uk/img/media/f712cc8a9431fc7d596c8dab055125527ece22fc/2_0_7917_6336/master/7917.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1c6a7b57d3bc6112c6d9958761b35967",
+      "timestamp": "2026-05-20T13:00:42.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

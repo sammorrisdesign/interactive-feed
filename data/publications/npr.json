@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-09T03:49:15.337Z",
+  "lastUpdated": "2026-05-20T14:04:46.625Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/survivor-seasons-ranked/",
+      "headline": "Every season of ‘Survivor’ ranked by NPR’s resident superfan",
+      "image": "https://apps.npr.org/survivor-seasons-ranked/assets/synced/images/resized/promo-art.png",
+      "timestamp": "2026-05-20T00:00:00.000Z"
+    },
     {
       "publication": "NPR",
       "blueSkyHandle": "npr.org",
