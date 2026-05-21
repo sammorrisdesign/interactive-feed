@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-21T10:39:32.672Z",
+  "lastUpdated": "2026-05-21T17:13:03.771Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/21/us/dnc-report-2024-presidential-campaign.html",
+      "headline": "Read the Draft of the D.N.C. Report",
+      "image": "https://static01.nyt.com/images/2026/05/21/reader-center/dnc-report-promo/dnc-report-promo-articleLarge-v2.png",
+      "timestamp": "2026-05-21T16:36:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
