@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-21T17:13:03.771Z",
+  "lastUpdated": "2026-05-21T21:11:47.012Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/21/arts/music/favorite-miles-davis-songs-artists.html",
+      "headline": "What’s Your Favorite Miles Davis Track?",
+      "image": "https://static01.nyt.com/images/2026/05/22/arts/22miles-static-promo/22miles-static-promo-articleLarge.jpg",
+      "timestamp": "2026-05-21T20:34:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
