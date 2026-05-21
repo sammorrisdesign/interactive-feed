@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-20T20:11:51.003Z",
+  "lastUpdated": "2026-05-21T10:39:32.672Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/21/realestate/los-angeles-san-fernando-valley-homes-for-sale.html",
+      "headline": "How Many Bedrooms Could $875,000 Get Them in Los Angeles?",
+      "image": "https://static01.nyt.com/images/2026/05/21/multimedia/21re-hunt-sylmar-06-khqb/21re-hunt-sylmar-06-khqb-articleLarge.jpg",
+      "timestamp": "2026-05-21T09:05:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/21/travel/things-to-do-providence.html",
+      "headline": "36 Hours in Providence, R.I.",
+      "image": "https://static01.nyt.com/images/2026/05/21/multimedia/21trav-hours-providence-ckgv/21trav-hours-providence-ckgv-articleLarge-v6.jpg",
+      "timestamp": "2026-05-21T09:01:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/21/polls/times-siena-poll-democrats-crosstabs.html",
+      "headline": "Cross-Tabs: May 2026 Times/Siena National Poll Among Potential Democratic Supporters",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-05-21T08:58:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
