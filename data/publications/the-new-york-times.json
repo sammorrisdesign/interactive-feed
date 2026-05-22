@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-22T18:15:26.134Z",
+  "lastUpdated": "2026-05-22T20:19:20.958Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/22/us/tulsi-gabbard-resignation-letter.html",
+      "headline": "Read Tulsi Gabbard’s Resignation Letter",
+      "image": "https://static01.nyt.com/images/2026/05/22/doc-tulsi-gabbard-resignation-promo/doc-tulsi-gabbard-resignation-promo-articleLarge.png",
+      "timestamp": "2026-05-22T18:51:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
