@@ -530,13 +530,21 @@
           "filters": {
             "in": {
               "url": "projects"
+            },
+            "out": {
+              "url": "california-fire-map"
             }
           }
         },
         {
           "type": "XML",
           "format": "Sitemap",
-          "path": "https://www.sfchronicle.com/projects/sitemap_projects.xml"
+          "path": "https://www.sfchronicle.com/projects/sitemap_projects.xml",
+          "filters": {
+            "out": {
+              "url": "california-fire-map"
+            }
+          }
         }
       ]
     },
