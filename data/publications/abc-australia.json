@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-17T21:26:56.419Z",
+  "lastUpdated": "2026-05-23T19:06:08.653Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-05-24/visualising-australias-mouse-plague/106696622",
+      "headline": "Ten mice in your bedroom: Visualising the scale of the mouse plague",
+      "image": "https://live-production.wcms.abc-cdn.net.au/aadf81f42d326cf79986d01dc8b24fc2?impolicy=wcms_crop_resize&cropH=1081&cropW=1441&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
