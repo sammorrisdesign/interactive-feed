@@ -245,7 +245,9 @@ const fetchers = {
 
         if (feed.timestampAttribute) {
           timestamp = $(article).find(feed.timestamp).attr(feed.timestampAttribute);
-        } else if (feed.timestampFormat) {
+        }
+
+        if (feed.timestampFormat) {
           timestamp = utils.getTimeStamp(timestamp, feed.timestampFormat);
         }
 

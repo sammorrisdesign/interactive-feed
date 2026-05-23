@@ -86,6 +86,24 @@
       "publication": "Chicago Tribune"
     },
     {
+      "publication": "CNA",
+      "blueSkyHandle": "",
+      "sources": [
+        {
+          "type": "Website",
+          "path": "https://www.channelnewsasia.com/interactives",
+          "selector": ".card-object",
+          "headline": ".list-object__heading",
+          "url": ".list-object__heading-link",
+          "baseUrl": "https://www.channelnewsasia.com",
+          "image": ".card-object__figure img",
+          "timestamp": ".timestamp",
+          "timestampAttribute": "data-lastupdated",
+          "timestampFormat": "X"
+        }
+      ]
+    },
+    {
       "publication": "CNN",
       "blueSkyHandle": "cnn.com",
       "sources": [
