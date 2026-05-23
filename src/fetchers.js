@@ -165,20 +165,24 @@ const fetchers = {
       let articles;
 
       if (feed.format == 'RSS') {
-        data = data.rss.channel.item;
+        if (data?.rss?.channel?.item) {
+          data = data.rss.channel.item;
 
-        if (feed.domain) {
-          data = data.filter(item => item.link.includes(feed.domain))
+          if (feed.domain) {
+            data = data.filter(item => item.link.includes(feed.domain))
+          }
+
+          articles = data.map(article => new Article({
+            publication: feed.publication,
+            blueSkyHandle: feed.blueSkyHandle,
+            url: article.link,
+            headline: article.title,
+            timestamp: article.isoDate || article.pubDate,
+            image: article?.enclosure?.["@_url"]
+          }))
+        } else {
+          throw `Error fetching RSS. \n Response: ${data}`
         }
-
-        articles = data.map(article => new Article({
-          publication: feed.publication,
-          blueSkyHandle: feed.blueSkyHandle,
-          url: article.link,
-          headline: article.title,
-          timestamp: article.isoDate || article.pubDate,
-          image: article?.enclosure?.["@_url"]
-        }))
       } else if (feed.format == 'Atom') {
         data = data.feed.entry;
 
@@ -194,15 +198,19 @@ const fetchers = {
           timestamp: article.published
         }));
       } else if (feed.format == 'Sitemap') {
-        data = data.urlset.url;
-        articles = data.map(article => new Article({
-          publication: feed.publication,
-          blueSkyHandle: feed.blueSkyHandle,
-          url: article.loc,
-          headline: article?.['news:news']?.['news:title'],
-          image: article?.['image:image']?.['image:loc'],
-          timestamp: article?.['news:news']?.['news:publication_date'] || article.lastmod
-        }));
+        if (data?.urlset?.url) {
+          data = data.urlset.url;
+          articles = data.map(article => new Article({
+            publication: feed.publication,
+            blueSkyHandle: feed.blueSkyHandle,
+            url: article.loc,
+            headline: article?.['news:news']?.['news:title'],
+            image: article?.['image:image']?.['image:loc'],
+            timestamp: article?.['news:news']?.['news:publication_date'] || article.lastmod
+          }));
+        } else {
+          throw `Error fetching Sitemap. \n Response: ${data}`
+        }
       }
 
       if (feed?.filters?.in) {
