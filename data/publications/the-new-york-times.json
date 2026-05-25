@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-25T12:04:29.742Z",
+  "lastUpdated": "2026-05-25T15:37:35.548Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/politics/trump-cabinet-meetings.html",
+      "headline": "Trump Is the Only Person Who Can Save America, According to His Cabinet",
+      "image": "https://static01.nyt.com/images/2026/05/16/us/promos-cabinet-flattery/promos-cabinet-flattery-articleLarge.png",
+      "timestamp": "2026-05-25T14:40:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

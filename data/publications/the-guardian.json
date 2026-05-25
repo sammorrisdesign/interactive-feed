@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-25T12:04:29.716Z",
+  "lastUpdated": "2026-05-25T15:37:35.534Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/may/25/worlds-longest-golf-course-australian-outback",
+      "headline": "On the world’s longest golf course, the fairways are rough and the dog-legs might be dingoes’",
+      "image": "https://i.guim.co.uk/img/media/7aee9edbe7ea415a3baff2f16f60ea7262c23770/1_0_3998_3200/master/3998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0835da05715349d1e93539a6701350cb",
+      "timestamp": "2026-05-25T15:00:30.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

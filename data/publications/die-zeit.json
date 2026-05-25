@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-05-20T17:39:55.992Z",
+  "lastUpdated": "2026-05-25T15:37:34.865Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/gesundheit/2026-05/ebola-ausbruch-krankheit-verbreitung-dunkelziffer-kongo",
+      "headline": "So rasant verlief noch kein Ebola-Ausbruch",
+      "image": "https://img.zeit.de/gesundheit/2026-05/ebola-ausbruch-krankheit-verbreitung-dunkelziffer-kongo-bild-4/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/ausland/2026-05/mariupol-wiederaufbau-russland-besetzung-ukrainekrieg",
+      "headline": "Auf Gräbern und Ruinen baut Putin sich eine Vorzeigestadt",
+      "image": "https://img.zeit.de/2026-05/mariupol-wiederaufbau-russland-besetzung-ukrainekrieg-teaser/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-04/shrinkflation-mogelpackung-verbraucherzentrale-fuellmenge-milka",
+      "headline": "Was ist von Ihrer Lieblingsschokolade noch übrig?",
+      "image": "https://img.zeit.de/wirtschaft/2026-04/shrinkflation-mogelpackung-verbraucherzentrale-fuellmenge-milka-bild/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
