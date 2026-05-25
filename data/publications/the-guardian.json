@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-25T08:19:51.712Z",
+  "lastUpdated": "2026-05-25T12:04:29.716Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/25/bhp-files-internal-memo-revealed",
+      "headline": "Revealed: the internal BHP memo that slammed the brakes on world’s biggest miner’s climate push",
+      "image": "https://i.guim.co.uk/img/media/5b927d8ae3f79d4d1704c1c74719229b08b30584/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=faedaa7f9d5adb081ac44354210322de",
+      "timestamp": "2026-05-25T10:30:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

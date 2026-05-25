@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-23T07:15:14.078Z",
+  "lastUpdated": "2026-05-25T12:04:29.742Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/25/nyregion/nyc-budgeting-affordability-hagan.html",
+      "headline": "How a Family of 4 Lives on $225,000 a Year in Washington Heights",
+      "image": "https://static01.nyt.com/images/2026/04/10/multimedia/affording-hagan-promo/hagan-top0-10-vpcj-articleLarge.jpg",
+      "timestamp": "2026-05-25T09:00:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
