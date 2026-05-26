@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-05-26T13:53:05.143Z",
+  "lastUpdated": "2026-05-26T17:25:17.190Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-attorney-general-runoff.html",
+      "headline": "Texas Attorney General Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-state-tx-e3c7cf/eln-PRE-2026-05-26-state-tx-e3c7cf-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:16:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-criminal-appeals-court-runoff.html",
+      "headline": "Texas Criminal Appeals Court Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-state-tx-33d243/eln-PRE-2026-05-26-state-tx-33d243-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:16:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-lieutenant-governor-runoff.html",
+      "headline": "Texas Lieutenant Governor Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-state-tx-310314/eln-PRE-2026-05-26-state-tx-310314-articleLarge-v2.jpg",
+      "timestamp": "2026-05-26T17:16:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-17-runoff.html",
+      "headline": "Texas 17th Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-17-06d462/eln-PRE-2026-05-26-race-tx-us-h-17-06d462-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:16:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-16-runoff.html",
+      "headline": "Texas 16th Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-16-19795e/eln-PRE-2026-05-26-race-tx-us-h-16-19795e-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:16:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-railroad-commissioner-runoff.html",
+      "headline": "Texas Railroad Commissioner Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-state-tx-e130b9/eln-PRE-2026-05-26-state-tx-e130b9-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:16:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-14-runoff.html",
+      "headline": "Texas 14th Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-14-c3d49c/eln-PRE-2026-05-26-race-tx-us-h-14-c3d49c-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:16:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
