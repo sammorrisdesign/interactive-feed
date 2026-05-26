@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-25T15:37:35.548Z",
+  "lastUpdated": "2026-05-26T02:52:31.320Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/25/world/americas/quake-tracker-chile.html",
+      "headline": "Map: 6.9-Magnitude Earthquake Shakes Chile",
+      "image": "https://static01.nyt.com/images/2026/05/25/world/25wea-quake-tracker-chile-nytghetw-index/25wea-quake-tracker-chile-nytghetw-index-articleLarge-v12.jpg",
+      "timestamp": "2026-05-26T01:13:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
