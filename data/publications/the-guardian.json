@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-25T15:37:35.534Z",
+  "lastUpdated": "2026-05-26T13:53:05.126Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/may/24/anthony-burke-grand-designs-australia-interview-walk-with-me",
+      "headline": "Anthony Burke: ‘It won’t be uncommon in 20 years to have four houses sharing one back yard’",
+      "image": "https://i.guim.co.uk/img/media/983a763b00dbdb62388891e839cd4565ea09302d/366_0_2461_1970/master/2461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e7815290b640eccb27a05ae9018ae420",
+      "timestamp": "2026-05-23T20:00:38.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

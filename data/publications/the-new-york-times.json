@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-26T02:52:31.320Z",
+  "lastUpdated": "2026-05-26T13:53:05.143Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/26/books/review/author-towns-quiz.html",
+      "headline": "Do You Know the Inspiring Places Where These Authors Lived?",
+      "image": "https://static01.nyt.com/images/2026/05/25/books/25TBR-Quiz-AuthorHometowns/25TBR-Quiz-AuthorHometowns-articleLarge.jpg",
+      "timestamp": "2026-05-26T12:00:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/26/opinion/wealth-tax-california-billionaire.html",
+      "headline": "The Case for California’s Billionaire Wealth Tax",
+      "image": "https://static01.nyt.com/images/2026/05/26/opinion/26saez-zucman-image-promo/26saez-zucman-image-promo-articleLarge.jpg",
+      "timestamp": "2026-05-26T09:01:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
