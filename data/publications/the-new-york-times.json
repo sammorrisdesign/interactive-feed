@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-05-26T17:25:17.190Z",
+  "lastUpdated": "2026-05-26T19:34:17.738Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-senate-runoff.html",
+      "headline": "Texas U.S. Senate Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-s-b5ab4a/eln-PRE-2026-05-26-race-tx-us-s-b5ab4a-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:24:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-7-runoff.html",
+      "headline": "Texas Seventh Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-7-ab3cb8/eln-PRE-2026-05-26-race-tx-us-h-7-ab3cb8-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:20:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-9-runoff.html",
+      "headline": "Texas Ninth Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-9-ad53a4/eln-PRE-2026-05-26-race-tx-us-h-9-ad53a4-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:20:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-33-runoff.html",
+      "headline": "Texas 33rd Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-33-f41c54/eln-PRE-2026-05-26-race-tx-us-h-33-f41c54-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:20:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-37-runoff.html",
+      "headline": "Texas 37th Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-37-eea440/eln-PRE-2026-05-26-race-tx-us-h-37-eea440-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:20:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-19-runoff.html",
+      "headline": "Texas 19th Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-19-3183e7/eln-PRE-2026-05-26-race-tx-us-h-19-3183e7-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:19:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-35-runoff.html",
+      "headline": "Texas 35th Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-35-ca6e55/eln-PRE-2026-05-26-race-tx-us-h-35-ca6e55-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:19:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-house-1-runoff.html",
+      "headline": "Texas First Congressional District Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/05/26/multimedia/eln-PRE-2026-05-26-race-tx-us-h-1-eef210/eln-PRE-2026-05-26-race-tx-us-h-1-eef210-articleLarge.jpg",
+      "timestamp": "2026-05-26T17:19:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
