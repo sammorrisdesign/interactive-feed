@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-26T19:34:17.738Z",
+  "lastUpdated": "2026-05-26T21:42:11.933Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/26/magazine/us-immigration-family-deportation-colombia.html",
+      "headline": "What Happens After Deportation? A Family Leaves Their American Dream Behind.",
+      "image": "https://static01.nyt.com/images/2026/05/07/magazine/07mag-colombia-2-07/07mag-colombia-2-07-articleLarge-v3.jpg",
+      "timestamp": "2026-05-26T20:29:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
