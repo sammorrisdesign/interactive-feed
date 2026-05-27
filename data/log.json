@@ -38,5 +38,35 @@
     "timestamp": "2026-05-27T17:41:32.414Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
+  },
+  {
+    "timestamp": "2026-05-27T20:10:27.628Z",
+    "publication": "ESPN",
+    "error": "Error fetching RSS. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-05-27T20:10:27.640Z",
+    "publication": "ESPN",
+    "error": "Error fetching Sitemap. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-05-27T20:10:39.373Z",
+    "publication": "San Francisco Chronicle",
+    "error": "Error fetching Sitemap. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-05-27T20:10:45.220Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-05-27T20:12:05.585Z",
+    "publication": "The Washington Post",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:14976:13\n    at async Object.Website (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:237:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:353:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-05-27T20:12:05.851Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
   }
 ]

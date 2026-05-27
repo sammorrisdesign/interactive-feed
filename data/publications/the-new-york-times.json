@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-27T17:41:32.477Z",
+  "lastUpdated": "2026-05-27T20:12:05.924Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/politics/states-gerrymandering-redistricting-maps.html",
+      "headline": "See Where the Gerrymandering Wars Have Redrawn U.S. Congressional Maps",
+      "image": "https://static01.nyt.com/images/2026/05/21/us/redistricting-maps-tracker-sc-promo-2026-05-21-redistricting-maps-promos/redistricting-maps-tracker-sc-promo-2026-05-21-redistricting-maps-promos-articleLarge-v3.jpg",
+      "timestamp": "2026-05-27T19:36:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
