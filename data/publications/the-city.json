@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2024-11-01T18:25:41.301Z",
+  "lastUpdated": "2026-05-27T10:37:53.753Z",
   "articles": [
-
+    {
+      "publication": "The City",
+      "blueSkyHandle": "thecity.bsky.social",
+      "url": "https://projects.thecity.nyc/ice-street-arrests-investigation-racial-profiling/",
+      "headline": "We Found 430 ICE Street Arrests in the NYC Area. More Than 93% Targeted Latinos.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vyx64uw6qfv5fqu4cecxdinp/bafkreiasxhmdbxihhm2yw2vxpjtapxjeazmmwcwvmzhttk36nny3a62vii",
+      "timestamp": "2026-05-27T09:25:17.073Z"
+    },
     {
       "publication": "The City",
       "twitterHandle": "thecityny",
