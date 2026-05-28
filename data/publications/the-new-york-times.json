@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-28T14:36:18.646Z",
+  "lastUpdated": "2026-05-28T20:43:45.086Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/28/books/poem-wisdom-wendy-cope.html",
+      "headline": "My Life Was a Trainwreck. Then I Read This Poem.",
+      "image": "https://static01.nyt.com/images/2026/05/14/books/somerules/somerules-articleLarge.jpg",
+      "timestamp": "2026-05-28T19:49:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
