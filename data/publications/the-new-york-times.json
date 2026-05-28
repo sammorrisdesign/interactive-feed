@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-27T22:17:29.092Z",
+  "lastUpdated": "2026-05-28T10:53:55.772Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/28/realestate/amsterdam-real-estate.html",
+      "headline": "After a Breakup, an American Started Fresh in Amsterdam",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28re-hunt-amsterdam-04-vzcp/28re-hunt-amsterdam-04-vzcp-articleLarge.jpg",
+      "timestamp": "2026-05-28T09:06:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/28/travel/things-to-do-dallas.html",
+      "headline": "36 Hours in Dallas",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/28Hours-Dallas-qpmf/28Hours-Dallas-qpmf-articleLarge.jpg",
+      "timestamp": "2026-05-28T09:00:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
