@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-24T05:43:12.276Z",
+  "lastUpdated": "2026-05-28T14:36:18.090Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/10-millionen-schweiz-so-hat-sich-die-einwohnerzahl-in-ihrer-gemeinde-entwickelt-ld.10008453",
+      "headline": "10-Millionen-Schweiz: So hat sich die Einwohnerzahl in Ihrer Gemeinde entwickelt",
+      "image": "https://img-msp-prod.nzz.ch/2026/05/28/9c4a5136-0fd8-4ed4-a2bf-025ca0333008.gif?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y123&wmark=nzz",
+      "timestamp": "2026-05-28T14:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
