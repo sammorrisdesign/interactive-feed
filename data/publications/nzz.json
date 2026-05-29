@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-28T14:36:18.090Z",
+  "lastUpdated": "2026-05-29T04:53:15.669Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/ueber-land-schiene-und-das-kaspische-meer-wie-iran-die-amerikanische-seeblockade-umgeht-ld.10008153",
+      "headline": "Über Land, Schiene und das Kaspische Meer: Wie Iran die amerikanische Seeblockade umgeht",
+      "image": "https://img-msp-prod.nzz.ch/2026/05/28/6ef890db-5cde-43e4-9624-f546430f1c7a.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-05-29T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
