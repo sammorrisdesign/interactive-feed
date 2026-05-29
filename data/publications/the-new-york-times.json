@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-29T08:41:28.061Z",
+  "lastUpdated": "2026-05-29T12:14:14.818Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/29/magazine/washing-rubber-bands-hodgman-quiz.html",
+      "headline": "Can You Use Dirty Rubber Bands in the Kitchen?",
+      "image": "https://static01.nyt.com/images/2026/05/31/magazine/31mag-hodgman/31mag-hodgman-articleLarge.jpg",
+      "timestamp": "2026-05-29T10:00:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
