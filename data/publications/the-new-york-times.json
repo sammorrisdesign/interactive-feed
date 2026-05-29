@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-28T20:43:45.086Z",
+  "lastUpdated": "2026-05-29T08:41:28.061Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/29/world/asia/japan-census-population-decline.html",
+      "headline": "How Japan Lost 3 Million People in Five Years",
+      "image": "https://static01.nyt.com/images/2026/05/29/multimedia/2026-05-28-japan-population-2025-index/2026-05-28-japan-population-2025-index-articleLarge-v3.png",
+      "timestamp": "2026-05-29T08:13:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
