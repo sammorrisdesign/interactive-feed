@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-11T20:16:00.883Z",
+  "lastUpdated": "2026-05-29T22:50:12.256Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "blueSkyHandle": "nbcnews.com",
+      "url": "https://www.nbcnews.com/data-graphics/ebola-outbreak-2026-cases-virus-tracking-maps-spread-congo-ugangda-us-rcna347102",
+      "headline": "Tracking the Ebola outbreak: Where the deadly virus is spreading and how the U.S. is responding",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-05/20260529-ebola-outbreak-jz-2X1-fdf84a.png",
+      "timestamp": "2026-05-29T22:02:25.000Z"
+    },
     {
       "publication": "NBC News",
       "blueSkyHandle": "nbcnews.com",
