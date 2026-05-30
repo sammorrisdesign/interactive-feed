@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-29T16:14:54.362Z",
+  "lastUpdated": "2026-05-30T07:40:27.459Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/30/realestate/david-sedaris-home-tour-new-york.html",
+      "headline": "David Sedaris Has Two Apartments for His Two Picassos",
+      "image": "https://static01.nyt.com/images/2026/05/28/realestate/david-sedaris-home-tour-new-york-1780012610421/david-sedaris-home-tour-new-york-1780012610421-articleLarge.jpg",
+      "timestamp": "2026-05-30T07:00:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
