@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-30T04:34:15.601Z",
+  "lastUpdated": "2026-05-30T09:58:44.650Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/74-000-menschen-wandern-netto-zu-gleichzeitig-steigt-die-zahl-der-erwerbslosen-um-31-000-wie-geht-das-zusammen-ld.1933781",
+      "headline": "74 000 Menschen wandern netto zu, gleichzeitig steigt die Zahl der Erwerbslosen um 31 000. Wie geht das zusammen?",
+      "image": "https://img-msp-prod.nzz.ch/2026/04/20/b3062ae3-a41e-485b-b02e-eb80938255ea.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=8001,4501,x0,y289&wmark=nzz",
+      "timestamp": "2026-05-30T08:43:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
