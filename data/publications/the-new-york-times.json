@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-31T09:29:28.550Z",
+  "lastUpdated": "2026-05-31T23:02:02.723Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/31/world/chile-quake-tracker.html",
+      "headline": "Map: 6.0-Magnitude Earthquake Strikes off the Coast of Chile",
+      "image": "https://static01.nyt.com/images/2026/05/31/world/31wea-quake-tracker-south-pacific-ocean-nytjnl03-index/31wea-quake-tracker-south-pacific-ocean-nytjnl03-index-articleLarge-v8.jpg",
+      "timestamp": "2026-05-31T22:26:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
