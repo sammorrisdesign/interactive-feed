@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-30T19:49:43.164Z",
+  "lastUpdated": "2026-05-31T09:29:28.550Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/31/us/trump-reflecting-pool-problems.html",
+      "headline": "What’s Actually Wrong With The Reflecting Pool",
+      "image": "https://static01.nyt.com/images/2026/05/28/multimedia/2026-05-12-reflecting-pool-index/2026-05-12-reflecting-pool-index-articleLarge-v4.jpg",
+      "timestamp": "2026-05-31T09:01:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
