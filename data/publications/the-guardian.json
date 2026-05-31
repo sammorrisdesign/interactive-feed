@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-31T12:57:30.778Z",
+  "lastUpdated": "2026-05-31T14:43:53.748Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/may/31/transhuman-silicon-valley-ai",
+      "headline": "Our tech overlords are planning for conscious AI to conquer the cosmos. What could go wrong? | Eduardo Porter",
+      "image": "https://i.guim.co.uk/img/media/dcb90867e1781366f118492c29268ef4c8fe1ef4/0_0_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ab89bf6737b294a8a35659723d317b0",
+      "timestamp": "2026-05-31T13:00:49.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
