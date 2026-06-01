@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-01T20:54:47.271Z",
+  "lastUpdated": "2026-06-01T23:01:13.216Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/01/world/italy-quake-tracker.html",
+      "headline": "Map: 6.2-Magnitude Earthquake Strikes off the Coast of Italy",
+      "image": "https://static01.nyt.com/images/2026/06/01/world/01wea-quake-tracker-tyrrhenian-sea-nytjl8vu-index/01wea-quake-tracker-tyrrhenian-sea-nytjl8vu-index-articleLarge-v3.jpg",
+      "timestamp": "2026-06-01T22:46:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/01/magazine/ai-slop-viral-videos.html",
+      "headline": "Can You Get Rich Quick Off A.I. Slop?",
+      "image": "https://static01.nyt.com/images/2026/06/14/magazine/14mag-slop-illo/14mag-slop-illo-articleLarge-v2.jpg",
+      "timestamp": "2026-06-01T21:04:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
