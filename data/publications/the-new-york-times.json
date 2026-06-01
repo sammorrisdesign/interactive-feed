@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-01T00:14:24.590Z",
+  "lastUpdated": "2026-06-01T10:38:08.199Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/01/nyregion/nyc-budgeting-affordability-baldeon.html",
+      "headline": "How a Recent College Graduate Lives on $18 Per Hour in the East Bronx",
+      "image": "https://static01.nyt.com/images/2026/06/01/multimedia/01met-affordingny-baldeon-promo/01met-affordingny-baldeon--03-mvcb-articleLarge.jpg",
+      "timestamp": "2026-06-01T09:02:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/midterms-house-senate-key-races.html",
+      "headline": "Tracking Competitive Races in the House and Senate",
+      "image": "https://static01.nyt.com/images/2026/05/15/us/midterms-tracker-promos-2026-04-20-midterms-tracker-embeds/midterms-tracker-promos-2026-04-20-midterms-tracker-embeds-articleLarge.jpg",
+      "timestamp": "2026-06-01T09:00:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/01/travel/world-cup-2026-city-guide.html",
+      "headline": "World Cup 2026: A City-by-City Guide",
+      "image": "https://static01.nyt.com/images/2026/05/28/travel/world-cup-city-guides-promo/world-cup-city-guides-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-06-01T07:00:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
