@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-31T23:02:02.723Z",
+  "lastUpdated": "2026-06-01T00:14:24.590Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/05/31/upshot/ten-minute-challenge-dodd.html",
+      "headline": "10-Minute Challenge: ‘The Painted Room’ by Lois Dodd",
+      "image": "https://static01.nyt.com/images/2026/06/01/upshot/up-10-min-dodd/up-10-min-dodd-articleLarge.jpg",
+      "timestamp": "2026-05-31T23:19:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
