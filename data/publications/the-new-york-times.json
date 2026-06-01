@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-01T16:36:36.515Z",
+  "lastUpdated": "2026-06-01T20:54:47.271Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/01/climate/gulf-oil-gas-whale-sounds.html",
+      "headline": "Dive Into a Very Noisy Sea With Some Very Rare Whales",
+      "image": "https://static01.nyt.com/images/2026/05/29/multimedia/2026-04-10-whale-noise-pollution-index/2026-04-10-whale-noise-pollution-index-articleLarge.jpg",
+      "timestamp": "2026-06-01T20:34:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
