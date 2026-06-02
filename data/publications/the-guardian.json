@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-31T14:43:53.748Z",
+  "lastUpdated": "2026-06-02T18:08:02.779Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/jun/02/oil-well-sites-cleanup-colorado-chevron-oxy-civitas",
+      "headline": "There are thousands of dirty old drill sites in Colorado. The state gave oil firms a $1bn pass",
+      "image": "https://i.guim.co.uk/img/media/25ce264bb3d3dd9557a708b1cb8ca95b6dc81ee5/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=845bd59a128149a0450953759cc6b549",
+      "timestamp": "2026-06-02T14:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
