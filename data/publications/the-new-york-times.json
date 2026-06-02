@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-02T21:31:43.072Z",
+  "lastUpdated": "2026-06-02T23:19:12.333Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-california-us-house-8-primary.html",
+      "headline": "California Eighth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/02/multimedia/eln-PRE-2026-06-02-race-ca-us-h-8-dc6f1d/eln-PRE-2026-06-02-race-ca-us-h-8-dc6f1d-articleLarge.jpg",
+      "timestamp": "2026-06-02T21:42:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-california-us-house-50-primary.html",
+      "headline": "California 50th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/02/multimedia/eln-PRE-2026-06-02-race-ca-us-h-50-e3c5c3/eln-PRE-2026-06-02-race-ca-us-h-50-e3c5c3-articleLarge.jpg",
+      "timestamp": "2026-06-02T21:42:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-california-us-house-44-primary.html",
+      "headline": "California 44th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/02/multimedia/eln-PRE-2026-06-02-race-ca-us-h-44-b29090/eln-PRE-2026-06-02-race-ca-us-h-44-b29090-articleLarge.jpg",
+      "timestamp": "2026-06-02T21:42:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
