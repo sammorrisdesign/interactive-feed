@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-02T23:19:12.333Z",
+  "lastUpdated": "2026-06-03T07:23:08.936Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/02/business/media/02biz-bilton-letter-doc.html",
+      "headline": "Read Nick Bilton’s Letter to Scott Pelley",
+      "image": "https://static01.nyt.com/images/2026/06/03/doc-bilton-letter2jpg-promo/doc-bilton-letter2jpg-promo-articleLarge.png",
+      "timestamp": "2026-06-03T02:52:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
