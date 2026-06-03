@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-03T20:37:24.312Z",
+  "lastUpdated": "2026-06-03T23:05:36.854Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/03/us/house-iran-war-powers.html",
+      "headline": "How Each House Member Voted on the Iran War Powers Resolution",
+      "image": "https://static01.nyt.com/images/2026/05/21/us/house-war-powers-promo/house-war-powers-promo-articleLarge.png",
+      "timestamp": "2026-06-03T22:00:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
