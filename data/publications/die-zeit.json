@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-28T14:36:17.048Z",
+  "lastUpdated": "2026-06-03T12:21:21.150Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-03/landtagswahl-baden-wuerttemberg-ergebnisse-wahlkreise-live",
+      "headline": "Alle Ergebnisse der Landtagswahl in Baden-Württemberg live",
+      "image": "https://img.zeit.de/politik/deutschland/2026-02/landtagswahl-baden-wuerttemberg-ergebnisse-wahlkreise-live-teaser/super__430x287",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/ausland/2024-11/us-wahl-2024-ergebnisse-swing-states-live",
+      "headline": "Donald Trump gewinnt die Präsidentschaftswahl",
+      "image": "https://img.zeit.de/politik/ausland/2024-10/us-wahl-2024-ergebnisse-swing-states-live-teaser/super__430x287",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",

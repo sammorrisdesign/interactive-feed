@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-03T07:23:08.936Z",
+  "lastUpdated": "2026-06-03T12:21:21.221Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/03/world/middleeast/iran-nuclear-uranium.html",
+      "headline": "Where Is Iran’s Highly Enriched Uranium?",
+      "image": "https://static01.nyt.com/images/2026/05/29/multimedia/2026-05-26-isfahan-uranium-index/2026-05-26-isfahan-uranium-index-articleLarge-v7.jpg",
+      "timestamp": "2026-06-03T09:06:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/magazine/best-living-american-songwiters-reader-picks.html",
+      "headline": "We Made a List of the 30 Greatest Songwriters. Now, Readers Have Their Say.",
+      "image": "https://static01.nyt.com/images/2026/06/03/magazine/03mag-americansongwriters-readerlist/03mag-americansongwriters-readerlist-articleLarge-v2.jpg",
+      "timestamp": "2026-06-03T08:34:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
