@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-03T12:21:21.221Z",
+  "lastUpdated": "2026-06-03T17:27:43.573Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/03/weather/tropical-storm-amanda-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Amanda",
+      "image": "https://static01.nyt.com/images/2026/06/02/weather/one-e-map-path-tracker-index/one-e-map-path-tracker-index-articleLarge-v11.jpg",
+      "timestamp": "2026-06-03T15:58:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/03/us/quake-tracker-california-coast.html",
+      "headline": "Map: 5.1-Magnitude Earthquake Strikes off the Coast of California",
+      "image": "https://static01.nyt.com/images/2026/06/03/world/03wea-quake-tracker-north-pacific-ocean-nytb4xrd-index/03wea-quake-tracker-north-pacific-ocean-nytb4xrd-index-articleLarge-v23.jpg",
+      "timestamp": "2026-06-03T14:02:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

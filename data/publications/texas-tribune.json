@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-26T13:53:04.695Z",
+  "lastUpdated": "2026-06-03T17:27:43.540Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/06/02/texas-data-centers-hood-county-local-control-rural-water-power/",
+      "headline": "Eight data centers threaten to transform this small Texas county. Local officials say they have no power to stop them.",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/05/TT_HoodCounty_HiRes.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-06-02T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/05/21/austin-project-connect-texas-light-rail-public-transportation/",
+      "headline": "Bigger price tag, smaller footprint: How Austin’s Project Connect went off the rails",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/05/20260504-MS-Paige-and-Michael-013-full.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-05-21T10:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "blueSkyHandle": "texastribune.bsky.social",
