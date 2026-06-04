@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-04T21:12:09.863Z",
+  "lastUpdated": "2026-06-04T22:54:08.078Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/04/us/bilton-memo.html",
+      "headline": "Read Nick Bilton’s Memo to ‘60 Minutes’ Staff",
+      "image": "https://static01.nyt.com/images/2026/06/04/doc-bilton-memo-promo/doc-bilton-memo-promo-articleLarge.png",
+      "timestamp": "2026-06-04T22:20:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/04/us/quake-tracker-las-vegas.html",
+      "headline": "Map: 3.8-Magnitude Earthquake Shakes Las Vegas",
+      "image": "https://static01.nyt.com/images/2026/06/04/world/04wea-quake-tracker-nevada-nytbzfl3-v2-index/04wea-quake-tracker-nevada-nytbzfl3-v2-index-articleLarge-v3.jpg",
+      "timestamp": "2026-06-04T21:19:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
