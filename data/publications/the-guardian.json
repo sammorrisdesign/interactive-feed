@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-04T10:48:25.899Z",
+  "lastUpdated": "2026-06-04T13:57:56.899Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/us-consumer-rage-prices-economy",
+      "headline": "Why are US consumers so angry? It’s not just high prices",
+      "image": "https://i.guim.co.uk/img/media/caeb8d0189ea09e374076badf019fa85bc388f2a/45_52_3581_2866/master/3581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a8d3b633e4f46c8b71405859a1def195",
+      "timestamp": "2026-06-04T11:00:05.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
