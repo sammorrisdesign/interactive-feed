@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-03T23:05:36.854Z",
+  "lastUpdated": "2026-06-04T10:48:25.923Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/04/realestate/upper-west-side-manhattan-coops.html",
+      "headline": "They Wanted to Upsize for Their Kids, but Could They Do It on the Upper West Side?",
+      "image": "https://static01.nyt.com/images/2026/06/04/multimedia/04re-hunt-Nupponen-08-kgvl/04re-hunt-Nupponen-08-kgvl-articleLarge.jpg",
+      "timestamp": "2026-06-04T09:03:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/04/travel/things-to-do-isle-of-skye.html",
+      "headline": "36 Hours on the Isle of Skye, Scotland",
+      "image": "https://static01.nyt.com/images/2026/06/04/multimedia/04trav-hours-skye-bgfk/04trav-hours-skey-bgfk-articleLarge.jpg",
+      "timestamp": "2026-06-04T09:02:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
