@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-04T13:57:56.899Z",
+  "lastUpdated": "2026-06-04T16:54:52.932Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jun/04/ikea-house-stay-sydney-hallucinating-inside-scandinavian-kindergarten",
+      "headline": "‘Hallucinating inside a Scandinavian kindergarten’: my night alone in Ikea",
+      "image": "https://i.guim.co.uk/img/media/f971102ecfe106686f1209e77e2ae0d3165aeb2e/0_0_2461_1969/master/2461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=548796d3745b935f2d99b6ca588ea010",
+      "timestamp": "2026-06-04T15:00:11.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/04/trump-administration-consumer-financial-protection-bureau",
+      "headline": "Consumer protection agency deletes thousands of pages as Trump administration seeks to dismantle it",
+      "image": "https://i.guim.co.uk/img/media/ce309ebe00d70b1b342f1ea7ca04921613d4b51d/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c088e94edd576cb2b63a62184ca1478",
+      "timestamp": "2026-06-04T15:00:09.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

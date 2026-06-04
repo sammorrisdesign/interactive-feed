@@ -28,5 +28,40 @@
     "timestamp": "2026-06-04T13:57:55.709Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
+  },
+  {
+    "timestamp": "2026-06-04T16:53:07.884Z",
+    "publication": "ESPN",
+    "error": "Error fetching RSS. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-06-04T16:53:07.942Z",
+    "publication": "ESPN",
+    "error": "Error fetching Sitemap. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-06-04T16:53:19.300Z",
+    "publication": "Nature",
+    "error": "Error: fetch failed\n    at XRPCError.from (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/types.js:174:16)\n    at BskyAgent.call (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/xrpc-client.js:89:37)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:304:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:353:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-06-04T16:53:25.818Z",
+    "publication": "San Francisco Chronicle",
+    "error": "Error fetching Sitemap. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-06-04T16:53:33.990Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-04T16:54:51.479Z",
+    "publication": "The Washington Post",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:14976:13\n    at async Object.Website (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:237:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:353:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-06-04T16:54:51.982Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
   }
 ]
