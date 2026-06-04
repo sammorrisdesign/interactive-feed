@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-30T09:58:44.650Z",
+  "lastUpdated": "2026-06-04T07:04:45.094Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/das-sind-die-emotionalsten-politiker-im-bundeshaus-ld.10003879",
+      "headline": "Das sind die emotionalsten Politiker im Bundeshaus",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/03/00552734-8872-4fba-8ad9-168e5755bc21.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y235&wmark=nzz",
+      "timestamp": "2026-06-04T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
