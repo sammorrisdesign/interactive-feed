@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-04T10:48:25.923Z",
+  "lastUpdated": "2026-06-04T21:12:09.863Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/04/well/touch-grass-challenge-week-1.html",
+      "headline": "Week 1",
+      "image": "https://static01.nyt.com/images/2026/05/29/well/5Well-Summer-Challenge-wk1-Static-Promo/5Well-Summer-Challenge-wk1-Static-Promo-articleLarge.png",
+      "timestamp": "2026-06-04T21:08:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
