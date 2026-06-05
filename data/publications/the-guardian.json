@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-04T16:54:52.932Z",
+  "lastUpdated": "2026-06-05T15:35:11.343Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jun/06/pamela-rabe-actor-interview-walk-with-me",
+      "headline": "Pamela Rabe: ‘I find wandering up and down the aisles of Officeworks very calming’",
+      "image": "https://i.guim.co.uk/img/media/bc0f05bb77ea7b8d272e84d9f0e6ff9326675113/246_0_2461_1970/master/2461.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fc15e7a23e978be376bbf78857556074",
+      "timestamp": "2026-06-05T15:00:06.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jun/06/best-australian-books-out-in-june",
+      "headline": "Best Australian books out in June: a buzzy novel, gripping nonfiction and an extremely unusual debut",
+      "image": "https://i.guim.co.uk/img/media/7c0fd75cd68a68ce195aff77df72a6f1f214593e/0_400_4000_3200/master/4000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dbbde5ae0be143dd27bdfcc4733832b",
+      "timestamp": "2026-06-05T15:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
