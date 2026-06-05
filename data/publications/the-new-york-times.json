@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-04T22:54:08.078Z",
+  "lastUpdated": "2026-06-05T00:04:55.754Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/04/us/trump-arch-dc-airspace.html",
+      "headline": "How Trump’s Proposed Arch Could Complicate D.C.’s Congested Airspace",
+      "image": "https://static01.nyt.com/images/2026/06/04/multimedia/2026-05-29-graphics-arch-faa-index/2026-05-29-graphics-arch-faa-index-articleLarge-v2.jpg",
+      "timestamp": "2026-06-04T23:54:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/04/well/summer-challenge-touch-grass-outdoors-benefits.html",
+      "headline": "The Summer Challenge Week 1: Log Off and Get Outside",
+      "image": "https://static01.nyt.com/images/2026/05/29/well/5Well-Summer-Challenge-wk1-Static-Promo/5Well-Summer-Challenge-wk1-Static-Promo-articleLarge.png",
+      "timestamp": "2026-06-04T21:08:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
