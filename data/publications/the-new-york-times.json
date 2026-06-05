@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-05T19:51:28.876Z",
+  "lastUpdated": "2026-06-05T22:42:03.808Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/05/us/elections/los-angeles-mayor-primary-results-precinct-map.html",
+      "headline": "See Where the L.A. Mayoral Candidates Have Done Best So Far",
+      "image": "https://static01.nyt.com/images/2026/06/05/multimedia/2026-06-03-los-angeles-mayoral-election-map-index/2026-06-03-los-angeles-mayoral-election-map-index-articleLarge-v8.jpg",
+      "timestamp": "2026-06-05T22:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
