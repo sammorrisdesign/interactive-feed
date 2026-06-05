@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-05T00:04:55.754Z",
+  "lastUpdated": "2026-06-05T12:07:39.994Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/05/theater/tonys-reader-voting.html",
+      "headline": "Who Should Win a Tony? Vote for Your Favorites.",
+      "image": "https://static01.nyt.com/images/2026/06/05/arts/05cul-tonys-reader-vote/05cul-tonys-reader-vote-articleLarge.jpg",
+      "timestamp": "2026-06-05T09:03:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/05/magazine/muppet-karaoke-hodgman-quiz.html",
+      "headline": "Can I Force My Spouse to Do Karaoke?",
+      "image": "https://static01.nyt.com/images/2026/06/07/magazine/07Mag-Hodgman-01/07Mag-Hodgman-01-articleLarge-v3.jpg",
+      "timestamp": "2026-06-05T09:02:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
