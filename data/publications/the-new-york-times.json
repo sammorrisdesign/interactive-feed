@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-05T12:07:39.994Z",
+  "lastUpdated": "2026-06-05T17:52:26.321Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/05/business/media/60-minutes-stahl-wertheim-whittaker-memo.html",
+      "headline": "Read the Email From the ‘60 Minutes’ Stars",
+      "image": "https://static01.nyt.com/images/2026/06/05/doc-from-the-3-of-us-promo/doc-from-the-3-of-us-promo-articleLarge.png",
+      "timestamp": "2026-06-05T17:10:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/05/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, June 6, 2026",
+      "image": "https://static01.nyt.com/images/2026/06/05/multimedia/flashback-promo-2026-06-06-6/flashback-promo-2026-06-06-6-articleLarge.jpg",
+      "timestamp": "2026-06-05T16:59:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
