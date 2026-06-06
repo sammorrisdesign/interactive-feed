@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-06T07:45:40.269Z",
+  "lastUpdated": "2026-06-06T11:53:17.286Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/06/theater/tony-awards-broadway-quiz.html",
+      "headline": "Test Your Broadway Knowledge, 2026 Tonys Edition",
+      "image": "https://static01.nyt.com/images/2026/06/02/multimedia/tony-quiz-lost-boys-lctj/tony-quiz-lost-boys-lctj-articleLarge.jpg",
+      "timestamp": "2026-06-06T09:02:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

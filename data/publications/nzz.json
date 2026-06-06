@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-04T07:04:45.094Z",
+  "lastUpdated": "2026-06-06T11:53:16.688Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/explosion-am-flughafen-von-kuwait-was-das-bildmaterial-verraet-ld.10009895",
+      "headline": "Explosion am Flughafen von Kuwait: Was das Bildmaterial verrät",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/05/033830db-1141-48b4-b90c-607c60b9471d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-06-06T10:21:09.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-06T07:45:40.246Z",
+  "lastUpdated": "2026-06-06T11:53:17.260Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/06/his-dad-was-deported-high-school-graduation",
+      "headline": "ICE deported his dad. Now he’s graduating high school without him",
+      "image": "https://i.guim.co.uk/img/media/59cadd07443261b5d777708209b68d541d9c43ac/671_0_6677_5345/master/6677.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4fccc0e59f7a2a839d80d3323a404735",
+      "timestamp": "2026-06-06T10:00:01.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jun/06/readers-top-100-novels-of-all-time",
+      "headline": "Top 100 reader novels",
+      "image": "https://i.guim.co.uk/img/media/a9c8006fbf16917a44fff2d4965ea446fae54dbf/0_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3749bd7c1f5c59dafc06b0587bf589b",
+      "timestamp": "2026-06-06T08:00:23.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
