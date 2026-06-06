@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-05T15:35:11.343Z",
+  "lastUpdated": "2026-06-06T07:45:40.246Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jun/06/power-and-glory-world-cup-promises-a-spectacle-impossible-to-ignore",
+      "headline": "Power and glory: World Cup promises a spectacle impossible to ignore",
+      "image": "https://i.guim.co.uk/img/media/7135ac4788a388c87b8433873c51e21271872de4/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a98417c6b5acc0ab6dee80ebcef8989",
+      "timestamp": "2026-06-06T07:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/06/missing-white-tailed-sea-eagle-north-york-moors",
+      "headline": "Predator or prey? The confounding case of the missing sea eagle",
+      "image": "https://i.guim.co.uk/img/media/f7d542117903ea6ea026689076f5cf825a5eb2bd/0_65_1080_863/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4da6429da0a49af411b6925738cd7b47",
+      "timestamp": "2026-06-06T05:00:01.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

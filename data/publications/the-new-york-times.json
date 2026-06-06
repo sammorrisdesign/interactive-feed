@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-05T22:42:03.808Z",
+  "lastUpdated": "2026-06-06T07:45:40.269Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/06/nyregion/routine-tony-danza.html",
+      "headline": "How Tony Danza Spends a Day Playing a Villain and Frank Sinatra",
+      "image": "https://static01.nyt.com/images/2026/06/06/multimedia/06met-routine-danza-promo-cjmf/06met-routine-danza-promo-cjmf-articleLarge.jpg",
+      "timestamp": "2026-06-06T07:00:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
