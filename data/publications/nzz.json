@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-06T11:53:16.688Z",
+  "lastUpdated": "2026-06-07T07:52:54.082Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-nzz-pollenkalender-ld.10009706",
+      "headline": "Erle, Birke, Gräser: Wann wo in der Schweiz welche Pollen fliegen",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/03/79ace0ee-7d91-49ae-b4b3-37cc111c4030.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz",
+      "timestamp": "2026-06-07T04:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/russlands-oelinfrastruktur-unter-beschuss-satellitenbilder-dokumentieren-schaeden-und-sehr-viel-rauch-ld.10009830",
+      "headline": "Russlands Ölinfrastruktur unter Beschuss: Satellitenbilder dokumentieren Schäden – und sehr viel Rauch",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/05/65ecf088-01a5-4ada-a030-1079ce841477.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=4096,2304,x0,y151&wmark=nzz",
+      "timestamp": "2026-06-07T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
