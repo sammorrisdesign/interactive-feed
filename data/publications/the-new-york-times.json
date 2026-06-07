@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-07T14:29:05.923Z",
+  "lastUpdated": "2026-06-07T17:14:40.321Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/07/us/quake-tracker-san-francisco-bay-area.html",
+      "headline": "Map: 3.6-Magnitude Earthquake Shakes the San Francisco Bay Area",
+      "image": "https://static01.nyt.com/images/2026/06/07/world/07wea-quake-tracker-san-francisco-bay-area-nyt4a7c5-v2-index/07wea-quake-tracker-san-francisco-bay-area-nyt4a7c5-v2-index-articleLarge-v11.jpg",
+      "timestamp": "2026-06-07T15:58:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
