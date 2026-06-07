@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-06T11:53:17.286Z",
+  "lastUpdated": "2026-06-07T14:29:05.923Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/07/world/quake-tracker-greece.html",
+      "headline": "Map: 5.2-Magnitude Earthquake Shakes Greece",
+      "image": "https://static01.nyt.com/images/2026/06/07/world/07wea-quake-tracker-greece-nyt2743s-v2-index/07wea-quake-tracker-greece-nyt2743s-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-06-07T13:12:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
