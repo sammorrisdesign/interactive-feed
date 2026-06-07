@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-07T10:27:40.418Z",
+  "lastUpdated": "2026-06-07T20:10:10.526Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/08/australian-music-extinction-risk-data-listening-trends-aria-chart-history",
+      "headline": "Is Australian music at risk of extinction? Here’s what the data tells us",
+      "image": "https://i.guim.co.uk/img/media/a96c15b97dea64ba9482ace4cabc97c9354974ea/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb6376cb1bec26f35f6fbc00093a3690",
+      "timestamp": "2026-06-07T20:00:07.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/music/ng-interactive/2026/jun/08/aria-charts-music-quiz-trivia-australia",
+      "headline": "Aria music quiz: how well do you know the Australian charts?",
+      "image": "https://i.guim.co.uk/img/media/b74434742f947b07df5284dfb59f57da865b1aa6/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1808dbe89c1a8e3147b6a99446f4f108",
+      "timestamp": "2026-06-07T20:00:06.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
