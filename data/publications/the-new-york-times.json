@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-07T17:14:40.321Z",
+  "lastUpdated": "2026-06-08T01:40:51.669Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/07/world/philippines-earthquake-tsunami-alert.html",
+      "headline": "Maps: 7.8-Magnitude Earthquake Near the Philippines Raises Tsunami Alerts",
+      "image": "https://static01.nyt.com/images/2026/06/08/world/07wea-quake-tracker-celebes-sea-nythxc1n-index/07wea-quake-tracker-celebes-sea-nythxc1n-index-articleLarge-v22.jpg",
+      "timestamp": "2026-06-08T01:21:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
