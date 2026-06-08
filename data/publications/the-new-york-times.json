@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-08T01:40:51.669Z",
+  "lastUpdated": "2026-06-08T11:55:17.567Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/nyregion/nyc-budgeting-affordability-suarez.html",
+      "headline": "How a Family of 4 (and One Kid in College) Live on $85,000 a Year in the Bronx",
+      "image": "https://static01.nyt.com/images/2026/06/08/multimedia/08met-affording-ny-suarez-promo/08met-affording-ny-suarez-top-02-hblj-articleLarge.jpg",
+      "timestamp": "2026-06-08T09:03:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/magazine/gaza-family.html",
+      "headline": "Why It Cost This Man $250,000 to Help His Family Survive in Gaza",
+      "image": "https://static01.nyt.com/images/2026/06/21/magazine/21mag-gaza-02/21mag-gaza-02-articleLarge-v3.jpg",
+      "timestamp": "2026-06-08T09:01:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
