@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-06-09T02:50:13.822Z",
+  "lastUpdated": "2026-06-09T10:33:38.403Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-28-polls-2026.html",
+      "headline": "Florida 28th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-06-09T09:51:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-27-polls-2026.html",
+      "headline": "Florida 27th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-06-09T09:49:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-23-polls-2026.html",
+      "headline": "Florida 23rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-06-09T09:47:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-20-polls-2026.html",
+      "headline": "Florida 20th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-06-09T09:44:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-19-polls-2026.html",
+      "headline": "Florida 19th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-06-09T09:41:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/09/opinion/ebola-outbreak-africa-usaid.html",
+      "headline": "This Could Be the Worst Ebola Outbreak in History",
+      "image": "https://static01.nyt.com/images/2026/06/08/multimedia/2026-05-27-ebola-response-index/2026-05-27-ebola-response-index-articleLarge.png",
+      "timestamp": "2026-06-09T09:03:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/09/dining/prom-night-dinners-america.html",
+      "headline": "It’s Prom Night in America",
+      "image": "https://static01.nyt.com/images/2026/06/09/multimedia/FD-PROM-PROMO-zwjl/FD-PROM-PROMO-zwjl-articleLarge.jpg",
+      "timestamp": "2026-06-09T09:01:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
