@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-06-08T22:24:58.664Z",
+  "lastUpdated": "2026-06-09T02:50:13.822Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/nyregion/nba-finals-knicks-celebrities-attendees.html",
+      "headline": "See the Famous Faces at the Knicks Game at Madison Square Garden",
+      "image": "https://static01.nyt.com/images/2026/06/08/multimedia/2026-06-05-knicks-courtside-wayfinder-index/2026-06-05-knicks-courtside-wayfinder-index-articleLarge.jpg",
+      "timestamp": "2026-06-09T02:41:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/arts/nina-simone-mississippi-goddam-civil-rights-song.html",
+      "headline": "Nina Simone Knew Just What the Trouble Was. (It’s Still the Trouble.)",
+      "image": "https://static01.nyt.com/images/2026/06/25/arts/250-sentences-promo-06/250-sentences-promo-06-articleLarge.jpg",
+      "timestamp": "2026-06-09T01:13:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/arts/declaration-of-independence-words.html",
+      "headline": "They’re Some of the Most Famous Words Ever Written. Have You Ever Really Read Them?",
+      "image": "https://static01.nyt.com/images/2026/06/25/arts/250-sentences-promo-02/250-sentences-promo-02-articleLarge.jpg",
+      "timestamp": "2026-06-09T01:13:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/arts/make-american-great-again-slogan-trump-clinton-reagan.html",
+      "headline": "‘Make America Great Again’ Didn’t Start With Trump. It Won’t End With Him, Either.",
+      "image": "https://static01.nyt.com/images/2026/06/25/arts/250-sentences-promo/250-sentences-promo-articleLarge.jpg",
+      "timestamp": "2026-06-09T01:13:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/arts/fdr-inaugural-address-fear.html",
+      "headline": "How F.D.R.’s Most Famous Sentence Remade America",
+      "image": "https://static01.nyt.com/images/2026/06/25/arts/250-sentences-promo-05/250-sentences-promo-05-articleLarge.jpg",
+      "timestamp": "2026-06-09T01:13:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/arts/susan-b-anthony-womens-rights-word.html",
+      "headline": "Does ‘All Men Are Created Equal’ Include Women?",
+      "image": "https://static01.nyt.com/images/2026/06/25/arts/250-sentences-promo-04/250-sentences-promo-04-articleLarge.jpg",
+      "timestamp": "2026-06-09T01:13:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/08/arts/frederick-douglass-slavery-citizenship-writing.html",
+      "headline": "Frederick Douglass’s Demand for Citizenship Is Still Radical",
+      "image": "https://static01.nyt.com/images/2026/06/25/arts/250-sentences-promo-03/250-sentences-promo-03-articleLarge.jpg",
+      "timestamp": "2026-06-09T01:13:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
