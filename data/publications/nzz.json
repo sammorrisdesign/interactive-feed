@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-07T07:52:54.082Z",
+  "lastUpdated": "2026-06-09T06:48:45.069Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/gesprengt-abgerissen-planiert-was-vom-suedrand-libanons-bleibt-ld.10006688",
+      "headline": "Gesprengt, abgerissen, planiert: Was vom Südrand Libanons bleibt",
+      "image": "https://img-msp-prod.nzz.ch/2026/05/22/5b8cb852-e979-4dca-89e9-536f9fe37d7b.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5711,3212,x25,y0&wmark=nzz",
+      "timestamp": "2026-06-09T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
