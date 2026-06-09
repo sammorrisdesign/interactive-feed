@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-09T10:33:38.403Z",
+  "lastUpdated": "2026-06-09T13:43:22.113Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/09/world/asia/north-korea-china-xi-kim-summit.html",
+      "headline": "Behind the Pageantry in Pyongyang With Xi and Kim",
+      "image": "https://static01.nyt.com/images/2026/06/09/multimedia/2026-06-09-china-north-korea-meeting-index/2026-06-09-china-north-korea-meeting-index-articleLarge-v2.jpg",
+      "timestamp": "2026-06-09T11:06:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
