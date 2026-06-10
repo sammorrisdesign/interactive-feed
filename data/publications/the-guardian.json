@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-09T10:33:38.374Z",
+  "lastUpdated": "2026-06-10T11:37:46.016Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/jun/10/the-best-films-of-2026-so-far",
+      "headline": "The best films of 2026 so far",
+      "image": "https://i.guim.co.uk/img/media/207699cc0ea3c070dae459670f875659ce5e51f0/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1747147ecd0ca538f85fd60f43efdff",
+      "timestamp": "2026-06-10T09:00:16.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
