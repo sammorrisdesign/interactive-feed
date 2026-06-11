@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-10T18:14:41.925Z",
+  "lastUpdated": "2026-06-11T02:00:54.984Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/10/us/politics/trump-president-plaques-white-house.html",
+      "headline": "How Trump Skewed Presidential History",
+      "image": "https://static01.nyt.com/images/2026/06/10/multimedia/2026-02-06-wh-plaques-index/2026-02-06-wh-plaques-index-articleLarge.jpg",
+      "timestamp": "2026-06-11T00:15:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
