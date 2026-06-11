@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-11T11:22:15.495Z",
+  "lastUpdated": "2026-06-11T21:18:00.972Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/11/well/summer-challenge-phone-digital-detox-sleep.html",
+      "headline": "Try This Trick for Better Sleep",
+      "image": "https://static01.nyt.com/images/2026/05/29/well/5Well-Summer-Challenge-STATIC-PROMO/5Well-Summer-Challenge-STATIC-PROMO-articleLarge.png",
+      "timestamp": "2026-06-11T20:36:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/11/business/box-office-charts.html",
+      "headline": "Published in error",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-06-11T20:16:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
