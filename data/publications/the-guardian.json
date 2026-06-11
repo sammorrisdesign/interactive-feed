@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-10T11:37:46.016Z",
+  "lastUpdated": "2026-06-11T11:22:15.470Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/11/oklahoma-state-penitentiary-dungeon-tombs-prisoners",
+      "headline": "‘It’s torture’: prisoners’ letters expose subterranean Oklahoma ‘dungeon’ known as the tombs",
+      "image": "https://i.guim.co.uk/img/media/378ada90529c7c300c4cc669f7b6d30a303c3aa3/52_44_2892_2313/master/2892.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd6e193412f552ee5f3b6d7965811e20",
+      "timestamp": "2026-06-11T11:00:20.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/jun/11/the-best-games-of-2026-so-far",
+      "headline": "The best games of 2026 so far",
+      "image": "https://i.guim.co.uk/img/media/979d0a5d961d498f8e59b1a9494d9a28ea07787d/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72f2fa46567d640544e034824a48dd78",
+      "timestamp": "2026-06-11T09:00:18.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
