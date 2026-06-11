@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-09T06:48:45.069Z",
+  "lastUpdated": "2026-06-11T06:57:25.734Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/nvidia-apple-und-bald-spacex-das-sind-die-wertvollsten-unternehmen-der-welt-ein-visueller-ueberblick-ld.10006773",
+      "headline": "Nvidia, Apple und bald SpaceX: Das sind die wertvollsten Unternehmen der Welt – ein visueller Überblick",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/03/5bf45aae-faba-4b7f-885f-5a603f867a27.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5760,3240,x0,y65&wmark=nzz",
+      "timestamp": "2026-06-11T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
