@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-23T19:06:08.653Z",
+  "lastUpdated": "2026-06-12T19:30:10.560Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-06-13/visualising-elon-musk-trillion-dollar-wealth/106780212",
+      "headline": "Elon Musk is the world's first trillionaire. Here's what that looks like",
+      "image": "https://live-production.wcms.abc-cdn.net.au/c3415c939df5bc68e75bd56f8e35461b?impolicy=wcms_crop_resize&cropH=1676&cropW=2234&xPos=272&yPos=129&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
