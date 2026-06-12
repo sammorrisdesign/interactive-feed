@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-12T01:45:29.129Z",
+  "lastUpdated": "2026-06-12T11:00:18.209Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/12/us/politics/ice-local-police-immigration-287g.html",
+      "headline": "ICE Wants Local Police to Enforce Immigration Law. These Officers Signed Up.",
+      "image": "https://static01.nyt.com/images/2026/06/28/multimedia/287g-fader-01-glkz/287g-fader-01-glkz-articleLarge.jpg",
+      "timestamp": "2026-06-12T09:00:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
