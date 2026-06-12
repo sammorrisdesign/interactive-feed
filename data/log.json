@@ -108,5 +108,75 @@
     "timestamp": "2026-06-12T21:15:15.739Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:55:32.488Z",
+    "publication": "Berliner Morgenpost",
+    "error": "Error fetching XML. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:55:46.285Z",
+    "publication": "ESPN",
+    "error": "Error fetching RSS. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-06-12T22:55:46.318Z",
+    "publication": "ESPN",
+    "error": "Error fetching Sitemap. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-06-12T22:55:54.809Z",
+    "publication": "LA Times",
+    "error": "Error fetching XML. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:55:54.886Z",
+    "publication": "LA Times",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:55:56.040Z",
+    "publication": "National Geographic",
+    "error": "Error fetching XML. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:56:06.195Z",
+    "publication": "Reuters",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:56:06.744Z",
+    "publication": "San Francisco Chronicle",
+    "error": "Error fetching Sitemap. \n Response: [object Object]"
+  },
+  {
+    "timestamp": "2026-06-12T22:56:08.861Z",
+    "publication": "Tages-Anzeiger",
+    "error": "Error fetching XML. 429 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:56:13.375Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:56:16.300Z",
+    "publication": "The Philadelphia Inquirer",
+    "error": "SyntaxError: Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parseJSONFromBytes (node:internal/deps/undici/undici:5880:19)\n    at successSteps (node:internal/deps/undici/undici:5861:27)\n    at fullyReadBody (node:internal/deps/undici/undici:4753:9)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async consumeBody (node:internal/deps/undici/undici:5870:7)\n    at async Object.PhiladelphiaInquirerAPI (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:110:20)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:353:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)"
+  },
+  {
+    "timestamp": "2026-06-12T22:56:16.999Z",
+    "publication": "The Straits Times",
+    "error": "Error fetching XML. 503 error message reported"
+  },
+  {
+    "timestamp": "2026-06-12T22:57:28.614Z",
+    "publication": "The Washington Post",
+    "error": "TypeError: fetch failed\n    at node:internal/deps/undici/undici:14976:13\n    at async Object.Website (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:237:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:353:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-06-12T22:57:28.976Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
   }
 ]
