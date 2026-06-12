@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-11T21:18:00.972Z",
+  "lastUpdated": "2026-06-12T01:45:29.129Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/11/us/politics/midterms-elections-congress-democrats-republicans-redistricting.html",
+      "headline": "In the Tug-of-War for Control of the House, Redistricting Provides the Muscle",
+      "image": "https://static01.nyt.com/images/2026/06/11/us/midterm-rating-shifts-promo-2026-05-28-midterm-ratings-shift/midterm-rating-shifts-promo-2026-05-28-midterm-ratings-shift-articleLarge.jpg",
+      "timestamp": "2026-06-12T00:14:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
