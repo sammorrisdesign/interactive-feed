@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-12T17:22:00.061Z",
+  "lastUpdated": "2026-06-13T08:27:55.410Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jun/13/70-brilliant-books-for-the-summer",
+      "headline": "70 brilliant books for the summer",
+      "image": "https://i.guim.co.uk/img/media/d093a7c23a4b6f478bbb2050dbe43de396f26278/0_2054_4284_3426/master/4284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60f68c8784d8eafc3dfe71c54171ab78",
+      "timestamp": "2026-06-13T08:00:08.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/13/belfast-southampton-riots-racism-why-is-the-uk-burning",
+      "headline": "Riots and racism: why is the UK burning?",
+      "image": "https://i.guim.co.uk/img/media/02bc275267620bd6c850320ae129b7e2b3122c52/1123_0_4602_3682/master/4602.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8eec595b80903c3054c3bc6f223e5cf3",
+      "timestamp": "2026-06-13T05:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
