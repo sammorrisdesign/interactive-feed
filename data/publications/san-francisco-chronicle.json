@@ -1,6 +1,132 @@
 {
-  "lastUpdated": "2026-06-08T20:39:58.605Z",
+  "lastUpdated": "2026-06-13T10:58:09.854Z",
   "articles": [
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/sonoma-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023837/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/governor/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023844/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/napa-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023840/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/solano-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023835/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/marin-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023839/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/san-jose-santa-clara-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023836/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/alameda-county-oakland/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023842/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/san-francisco/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023838/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-primary-election-results/san-mateo-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023834/1/rawImage.jpg",
+      "timestamp": "2026-06-10T00:17:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/san-francisco-election-donors/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31042675/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:36.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-may-29/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:35.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/poll-bay-area-move/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/28415381/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:35.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-may-22/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:35.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-june-5/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:34.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/indian-american-sf-bay-area/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31005607/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:33.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-may-29/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:32.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-june-5/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:31.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/data-trivia/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31024019/1/rawImage.jpg",
+      "timestamp": "2026-06-08T20:32:30.000Z"
+    },
     {
       "publication": "San Francisco Chronicle",
       "blueSkyHandle": "sfchronicle.com",
