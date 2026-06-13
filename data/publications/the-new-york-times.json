@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-13T05:00:49.078Z",
+  "lastUpdated": "2026-06-13T12:26:19.038Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/13/sports/soccer/usa-paraguay-world-cup-goal-pulisic-balogun.html",
+      "headline": "See Pulisic and Balogun Combine as the U.S. Beats Paraguay",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/2026-06-13-world-cup-usa-paraguay-index/2026-06-13-world-cup-usa-paraguay-index-articleLarge-v2.jpg",
+      "timestamp": "2026-06-13T11:41:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
