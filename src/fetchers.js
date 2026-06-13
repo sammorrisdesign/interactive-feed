@@ -181,7 +181,7 @@ const fetchers = {
             image: article?.enclosure?.["@_url"]
           }))
         } else {
-          throw `Error fetching RSS. \n Response: ${data}`
+          throw `Error fetching RSS. \n Response: ${JSON.stringify(data)}`
         }
       } else if (feed.format == 'Atom') {
         data = data.feed.entry;
@@ -209,7 +209,8 @@ const fetchers = {
             timestamp: article?.['news:news']?.['news:publication_date'] || article.lastmod
           }));
         } else {
-          throw `Error fetching Sitemap. \n Response: ${data}`
+          console.log(data);
+          throw `Error fetching Sitemap. \n Response: ${JSON.stringify(data)}`
         }
       }
 
