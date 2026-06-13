@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-13T00:19:52.195Z",
+  "lastUpdated": "2026-06-13T05:00:49.078Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/13/world/europe/switzerland-population-cap-projections.html",
+      "headline": "How Capping Its Population at 10 Million Could Reshape Switzerland",
+      "image": "https://static01.nyt.com/images/2026/06/11/multimedia/2026-05-27-switzerland-demographics-index/2026-05-27-switzerland-demographics-index-articleLarge-v3.png",
+      "timestamp": "2026-06-13T04:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
