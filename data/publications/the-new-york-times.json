@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-13T12:26:19.038Z",
+  "lastUpdated": "2026-06-14T11:13:40.148Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/14/us/politics/trump-white-house-claw-ufc-fight.html",
+      "headline": "How Trump Transformed the White House Lawn Into a Fighting Arena",
+      "image": "https://static01.nyt.com/images/2026/06/13/multimedia/2026-06-11-ufc-white-house-index/2026-06-11-ufc-white-house-index-articleLarge.jpg",
+      "timestamp": "2026-06-14T09:01:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

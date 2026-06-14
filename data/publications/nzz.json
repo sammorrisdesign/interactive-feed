@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-14T08:14:17.203Z",
+  "lastUpdated": "2026-06-14T11:13:40.099Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/alle-resultate-zu-den-abstimmungen-in-der-schweiz-vom-14-juni-2026-ld.10011120",
+      "headline": "Alle Resultate zu den Abstimmungen in der Schweiz vom 14. Juni 2026",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/09/3527ae34-131f-450b-ba95-1068d2f89c2d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=6000,3375,x0,y310&wmark=nzz",
+      "timestamp": "2026-06-14T09:26:14.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
