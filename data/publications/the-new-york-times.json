@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-15T21:31:03.007Z",
+  "lastUpdated": "2026-06-15T23:21:28.828Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/15/us/teterboro-email.html",
+      "headline": "Read an FBI agent’s email about the impending arrest of Jeffrey Epstein",
+      "image": "https://static01.nyt.com/images/2026/06/15/doc-teterboro-email-promo/doc-teterboro-email-promo-articleLarge.png",
+      "timestamp": "2026-06-15T22:57:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
