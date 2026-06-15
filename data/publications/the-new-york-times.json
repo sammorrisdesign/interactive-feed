@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-15T13:30:30.356Z",
+  "lastUpdated": "2026-06-15T18:10:42.151Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/15/us/quake-tracker-maryland.html",
+      "headline": "Map: 2.4-Magnitude Earthquake Shakes Maryland",
+      "image": "https://static01.nyt.com/images/2026/06/15/world/15wea-quake-tracker-maryland-nytucrv-index/15wea-quake-tracker-maryland-nytucrv-index-articleLarge-v31.jpg",
+      "timestamp": "2026-06-15T15:48:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/15/books/review/history-books-quiz.html",
+      "headline": "Do You Know These U.S. History Books Adapted for the Screen?",
+      "image": "https://static01.nyt.com/images/2026/06/15/books/15TBR-Quiz-USHistory/15TBR-Quiz-USHistory-articleLarge.jpg",
+      "timestamp": "2026-06-15T14:30:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
