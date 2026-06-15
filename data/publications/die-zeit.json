@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-12T14:12:40.834Z",
+  "lastUpdated": "2026-06-15T13:30:29.374Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/mobilitaet/2026-06/reise-nachtzug-banhreisen-europa-tourismus-urlaub",
+      "headline": "In Europas Nachtzügen sind noch viele Betten frei",
+      "image": "https://img.zeit.de/mobilitaet/2026-06/reise-nachtzug-banhreisen-europa-tourismus-urlaub-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-06/karsten-wildberger-bundesdigitalminister-reden-ki-generierung",
+      "headline": "»Das komfortable Gefühl einer in sich stimmigen Erzählung«",
+      "image": "https://img.zeit.de/digital/2026-06/ki-texte-karsten-wildberger-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/sport/2026-06/weltmeisterschaft-kader-fussball-mannschaft-kader-team",
+      "headline": "Stellen Sie die beste deutsche WM-Elf aller Zeiten auf",
+      "image": "https://img.zeit.de/sport/2026-06/weltmeisterschaft-kader-fussball-mannschaft/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",

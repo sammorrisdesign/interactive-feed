@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-14T11:13:40.148Z",
+  "lastUpdated": "2026-06-15T13:30:30.356Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/15/us/politics/trump-miller-habeas-corpus.html",
+      "headline": "Read Will Scharf’s Confidential Habeas Corpus Memo",
+      "image": "https://static01.nyt.com/images/2026/06/15/doc-2026-02-22-14-34-promo/doc-2026-02-22-14-34-promo-articleLarge.png",
+      "timestamp": "2026-06-15T12:30:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/15/us/politics/trump-miller-insurrection-act.html",
+      "headline": "Read Will Scharf’s Confidential Insurrection Act Memo",
+      "image": "https://static01.nyt.com/images/2026/06/15/doc-2026-02-22-14-36-promo/doc-2026-02-22-14-36-promo-articleLarge.png",
+      "timestamp": "2026-06-15T12:25:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/15/opinion/contributors/15collins-quiz-interactive.html",
+      "headline": "Your Summer Politics Quiz Is Here",
+      "image": "https://static01.nyt.com/images/2026/06/15/opinion/15collins-quiz/15collins-quiz-articleLarge-v3.jpg",
+      "timestamp": "2026-06-15T09:04:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/15/nyregion/nyc-budgeting-affordability-pucillo.html",
+      "headline": "How a Book Editor and Jazz Musician Lives on $55,000 in West Harlem",
+      "image": "https://static01.nyt.com/images/2026/06/15/nyregion/15met-affordingny-pucillo1-promo/15met-affordingny-pucillo1-articleLarge.jpg",
+      "timestamp": "2026-06-15T09:04:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
