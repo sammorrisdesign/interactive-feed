@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-16T18:15:39.256Z",
+  "lastUpdated": "2026-06-16T21:25:45.539Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-key-races-june-16-ga-al-ok.html",
+      "headline": "Live Results From Key Races in Georgia, Alabama and Oklahoma",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-dashboard-e9c6d1/eln-PRE-2026-06-16-dashboard-e9c6d1-articleLarge.jpg",
+      "timestamp": "2026-06-16T20:52:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/16/realestate/17re-wyg-quiz.html",
+      "headline": "Let’s See What Readers Think",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-06-16T19:30:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-washington-dc-mayor-primary.html",
+      "headline": "Washington, D.C. Mayor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-race-dc-mayor-d64429/eln-PRE-2026-06-16-race-dc-mayor-d64429-articleLarge-v3.jpg",
+      "timestamp": "2026-06-16T18:50:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-oklahoma-us-house-4-primary.html",
+      "headline": "Oklahoma Fourth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-race-ok-us-h-4-e35c52/eln-PRE-2026-06-16-race-ok-us-h-4-e35c52-articleLarge.jpg",
+      "timestamp": "2026-06-16T18:50:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-oklahoma-corporation-commissioner-primary.html",
+      "headline": "Oklahoma Corporation Commissioner Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-state-ok-cefc18/eln-PRE-2026-06-16-state-ok-cefc18-articleLarge.jpg",
+      "timestamp": "2026-06-16T18:50:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
