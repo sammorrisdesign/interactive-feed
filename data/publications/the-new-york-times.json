@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-15T23:21:28.828Z",
+  "lastUpdated": "2026-06-16T13:11:45.255Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/16/world/quake-tracker-japan.html",
+      "headline": "Map: 5.5-Magnitude Earthquake Shakes Japan",
+      "image": "https://static01.nyt.com/images/2026/06/16/world/16wea-quake-tracker-japan-nytiwh60-index/16wea-quake-tracker-japan-nytiwh60-index-articleLarge-v38.jpg",
+      "timestamp": "2026-06-16T11:27:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/16/magazine/restaurant-boycott-hodgman-quiz.html",
+      "headline": "Can I Break My Husband’s Restaurant Boycott?",
+      "image": "https://static01.nyt.com/images/2026/06/14/magazine/14mag-hodgman/14mag-hodgman-articleLarge.jpg",
+      "timestamp": "2026-06-16T09:04:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/16/magazine/jeffrey-epstein-death-final-days.html",
+      "headline": "The Untold Story of Jeffrey Epstein’s Death",
+      "image": "https://static01.nyt.com/images/2026/06/15/15visualUploader-68408/15visualUploader-68408-articleLarge-v2.jpg",
+      "timestamp": "2026-06-16T09:02:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/16/magazine/jeffrey-epstein-jail-writing.html",
+      "headline": "Jeffrey Epstein’s Jailhouse Writings",
+      "image": "https://static01.nyt.com/images/2026/06/15/15visualUploader-72704/15visualUploader-72704-articleLarge.jpg",
+      "timestamp": "2026-06-16T08:58:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
