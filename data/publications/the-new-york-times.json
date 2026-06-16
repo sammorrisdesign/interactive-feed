@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-06-16T13:11:45.255Z",
+  "lastUpdated": "2026-06-16T18:15:39.256Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-alabama-us-senate-runoff.html",
+      "headline": "Alabama U.S. Senate Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-race-al-us-s-e02a84/eln-PRE-2026-06-16-race-al-us-s-e02a84-articleLarge.jpg",
+      "timestamp": "2026-06-16T17:58:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-washington-dc-primary.html",
+      "headline": "Washington, D.C. Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-state-dc-255459/eln-PRE-2026-06-16-state-dc-255459-articleLarge.jpg",
+      "timestamp": "2026-06-16T17:32:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-georgia-primary-runoff.html",
+      "headline": "Georgia Primary Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-state-ga-7c4aa3/eln-PRE-2026-06-16-state-ga-7c4aa3-articleLarge.jpg",
+      "timestamp": "2026-06-16T17:32:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-georgia-governor-runoff.html",
+      "headline": "Georgia Governor Republican Primary Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-race-ga-governor-fb1f65/eln-PRE-2026-06-16-race-ga-governor-fb1f65-articleLarge.jpg",
+      "timestamp": "2026-06-16T17:31:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-alabama-primary-runoff.html",
+      "headline": "Alabama Primary Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-state-al-28e987/eln-PRE-2026-06-16-state-al-28e987-articleLarge.jpg",
+      "timestamp": "2026-06-16T17:31:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-washington-dc-attorney-general-primary.html",
+      "headline": "Washington, D.C. Attorney General Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/16/multimedia/eln-PRE-2026-06-16-state-dc-505643/eln-PRE-2026-06-16-state-dc-505643-articleLarge.jpg",
+      "timestamp": "2026-06-16T17:24:55.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
