@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-17T16:11:37.917Z",
+  "lastUpdated": "2026-06-17T18:41:29.126Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/17/us/quake-tracker-hawaii.html",
+      "headline": "Map: 4.6-Magnitude Earthquake Shakes Hawaii",
+      "image": "https://static01.nyt.com/images/2026/06/17/world/17wea-quake-tracker-north-pacific-ocean-nyte23vx-index/17wea-quake-tracker-north-pacific-ocean-nyte23vx-index-articleLarge-v103.jpg",
+      "timestamp": "2026-06-17T16:19:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
