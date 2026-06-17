@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-17T12:04:39.941Z",
+  "lastUpdated": "2026-06-17T16:11:37.917Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/17/sports/soccer/messi-world-cup-goal-argentina-algeria.html",
+      "headline": "See Messi Orchestrate the Attack to Complete His Hat Trick",
+      "image": "https://static01.nyt.com/images/2026/06/17/multimedia/2026-06-16-world-cup-argentina-algeria-index/2026-06-16-world-cup-argentina-algeria-index-articleLarge.jpg",
+      "timestamp": "2026-06-17T12:57:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
