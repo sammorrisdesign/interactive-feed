@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-16T23:03:05.897Z",
+  "lastUpdated": "2026-06-17T12:04:39.941Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/17/us/elections/redistricting-maps-black-voters-republicans.html",
+      "headline": "See How New Republican Maps Split Up Black Voters in 3 Southern States",
+      "image": "https://static01.nyt.com/images/2026/06/10/us/promo-la-sankey-2026-05-14-redistricting-demographics/promo-la-sankey-2026-05-14-redistricting-demographics-articleLarge.jpg",
+      "timestamp": "2026-06-17T09:01:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
