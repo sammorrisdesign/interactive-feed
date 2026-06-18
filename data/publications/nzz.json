@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-15T13:30:29.785Z",
+  "lastUpdated": "2026-06-18T09:53:26.294Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/neuer-ebola-ausbruch-im-kongo-alle-infos-zur-bundibugyo-variante-ld.10009530",
+      "headline": "Der Ebola-Ausbruch in Kongo verschärft sich: was hinter der seltenen Bundibugyo-Variante steckt",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/11/64d8237a-6bb0-47e5-ab26-551e8a6f7384.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz",
+      "timestamp": "2026-06-18T09:02:20.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

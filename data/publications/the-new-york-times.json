@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-17T18:41:29.126Z",
+  "lastUpdated": "2026-06-18T09:53:26.336Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/18/realestate/atlanta-homes-sale-prices.html",
+      "headline": "In Atlanta, a Young Family Wanted the Perfect Home to Grow Into",
+      "image": "https://static01.nyt.com/images/2026/06/18/multimedia/18re-Hunt-Atlanta-jmkf/18re-Hunt-Atlanta-jmkf-articleLarge.jpg",
+      "timestamp": "2026-06-18T09:03:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/18/travel/things-to-do-catskills.html",
+      "headline": "36 Hours in the Catskills, N.Y.",
+      "image": "https://static01.nyt.com/images/2026/07/10/multimedia/trav-hours-catskills/trav-hours-catskills-articleLarge-v2.jpg",
+      "timestamp": "2026-06-18T09:02:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
