@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-18T21:22:37.230Z",
+  "lastUpdated": "2026-06-18T23:18:26.345Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/18/us/trump-america250-freedom-trucks.html",
+      "headline": "Trump’s Wall of American Heroes",
+      "image": "https://static01.nyt.com/images/2026/06/17/multimedia/2026-05-19-freedom-trucks-index/2026-05-19-freedom-trucks-index-articleLarge.jpg",
+      "timestamp": "2026-06-18T22:25:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/18/well/family/fathers-day-questions.html",
+      "headline": "Want to Know Your Dad Better? Ask Him These 25 Questions.",
+      "image": "https://static01.nyt.com/images/2026/06/19/well/19WELL-FATHERS-DAY-lede/19WELL-FATHERS-DAY-lede-articleLarge-v3.png",
+      "timestamp": "2026-06-18T21:30:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
