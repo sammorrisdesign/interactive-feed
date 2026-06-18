@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-18T09:53:26.336Z",
+  "lastUpdated": "2026-06-18T21:22:37.230Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/18/well/summer-challenge-90s-nostalgia.html",
+      "headline": "Week 3: Host a ’90s-Style Hangout",
+      "image": "https://static01.nyt.com/images/2026/05/29/well/5Well-Summer-Challenge-03/5Well-Summer-Challenge-03-articleLarge-v3.png",
+      "timestamp": "2026-06-18T20:06:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
