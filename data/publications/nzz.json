@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-18T09:53:26.294Z",
+  "lastUpdated": "2026-06-19T07:38:49.920Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/totale-sonnenfinsternis-weltweit-alle-termine-und-orte-ld.10008863",
+      "headline": "Einmal im Leben eine totale Sonnenfinsternis sehen? Die nächsten Termine und Orte weltweit",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/10/0df301e5-522e-4609-9f63-4b83f19a17ab.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-06-19T04:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
