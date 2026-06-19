@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-18T23:18:26.345Z",
+  "lastUpdated": "2026-06-19T12:04:24.390Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/19/magazine/one-drink-maximum-hodgman-quiz.html",
+      "headline": "Can a Dinner Host Set a Drink Limit?",
+      "image": "https://static01.nyt.com/images/2026/06/21/magazine/21mag-hodgman/21mag-hodgman-articleLarge.jpg",
+      "timestamp": "2026-06-19T09:04:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
