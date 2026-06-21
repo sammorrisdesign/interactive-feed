@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-19T12:04:24.337Z",
+  "lastUpdated": "2026-06-21T03:51:25.904Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/kurz-vor-waffenruhe-iranischer-luftangriff-zerstoert-radarkuppel-in-bahrain-ld.10011706",
+      "headline": "Kurz vor Kriegsende: Iranischer Luftangriff zerstört Radarkuppel in Bahrain",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/18/8fee8920-aa05-4560-af5b-e420088a9a8d.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2468,1388,x0,y174&wmark=nzz",
+      "timestamp": "2026-06-21T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
