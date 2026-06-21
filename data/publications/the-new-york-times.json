@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-20T10:18:41.242Z",
+  "lastUpdated": "2026-06-21T13:23:30.434Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/21/weather/mekkhala-map-path-tracker.html",
+      "headline": "Tracking Typhoon Mekkhala",
+      "image": "https://static01.nyt.com/images/2026/06/18/weather/seven-map-path-tracker-index/seven-map-path-tracker-index-articleLarge-v14.jpg",
+      "timestamp": "2026-06-21T12:44:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

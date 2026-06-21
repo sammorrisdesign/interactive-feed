@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-21T08:27:29.541Z",
+  "lastUpdated": "2026-06-21T13:23:30.408Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/inequality/ng-interactive/2026/jun/21/american-racial-anxiety-white-working-class-rights",
+      "headline": "The white middle class knows the American project isn’t working. Here’s why that will never matter to them",
+      "image": "https://i.guim.co.uk/img/media/af5fa27919fddf3ddd483ff005048de970845e8b/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6a5dd957e2b01d804f15414d12efaf66",
+      "timestamp": "2026-06-21T13:00:30.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/jun/21/a-hunting-ground-for-foreign-regimes-why-violent-attacks-on-dissidents-are-on-the-rise-in-britain",
+      "headline": "‘A hunting ground for foreign regimes’: why violent attacks on dissidents are on the rise in Britain",
+      "image": "https://i.guim.co.uk/img/media/4dc29ef86b2dfba3f48d2927b7a24b6e951281dc/0_1790_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3c1ffc3cd20fd393aae0fe8d9a1d1ea",
+      "timestamp": "2026-06-21T12:00:29.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
