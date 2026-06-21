@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-21T13:23:30.408Z",
+  "lastUpdated": "2026-06-21T15:24:13.340Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/jun/22/romance-scams-bank-refunds-australia",
+      "headline": "A Melbourne woman lost $646,035 to a romance scam. Should banks and dating apps be forced to refund victims like her?",
+      "image": "https://i.guim.co.uk/img/media/9fb574ea42d194616fcacd3913b53fd56776d2c4/57_0_1083_866/master/1083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ccdcdc51eda4cc65368b66201ceed1bf",
+      "timestamp": "2026-06-21T15:00:36.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
