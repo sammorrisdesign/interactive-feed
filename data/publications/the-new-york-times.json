@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-21T13:23:30.434Z",
+  "lastUpdated": "2026-06-21T22:11:53.738Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/21/us/inv-trucks.html",
+      "headline": "The Deadly Rise of Giant Trucks and S.U.V.s",
+      "image": "https://static01.nyt.com/images/2026/06/15/multimedia/00inv-trucks-promo/00inv-trucks-promo-articleLarge.jpg",
+      "timestamp": "2026-06-21T22:10:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
