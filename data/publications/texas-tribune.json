@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-22T21:30:35.977Z",
+  "lastUpdated": "2026-06-22T23:04:13.948Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/06/12/screwworm-tracker-texas-cases-by-county/",
+      "headline": "Where is screwworm in Texas? Track cases here.",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/06/2026-06-06T060813Z_1594276098_RC2VNLAR3W4O_RTRMADP_3_USA-SCREWWORM.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-06-12T22:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/06/16/texas-staar-results-2026-elementary-middle-school/",
+      "headline": "Texas students saw slight gains in math, stalled progress in reading, STAAR results show",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2025/05/091320Odessa20School20Tours20EH2021-1-scaled.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-06-16T14:45:23.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/06/10/texas-staar-end-of-course-high-school-results-2026/",
+      "headline": "Texas high schoolers show gains across all subjects on STAAR tests",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2024/06/FILE20STAAR20TEST20PYH20TT2001-1-scaled.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-06-10T14:59:48.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "blueSkyHandle": "texastribune.bsky.social",
