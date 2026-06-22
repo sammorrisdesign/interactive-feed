@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-21T22:11:53.738Z",
+  "lastUpdated": "2026-06-22T09:45:59.852Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/nyregion/nyc-budgeting-affordability-sadick.html",
+      "headline": "How a Security Guard Lives on $46,000 a Year in the East Bronx",
+      "image": "https://static01.nyt.com/images/2026/06/22/multimedia/22met-affordingny-sadick-promo/22met-affordingny-sadick-vftb-articleLarge-v3.jpg",
+      "timestamp": "2026-06-22T09:01:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
