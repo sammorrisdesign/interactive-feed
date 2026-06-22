@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-06-22T15:21:47.188Z",
+  "lastUpdated": "2026-06-22T21:30:36.009Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/magazine/american-constitution-john-leland-baptist-preacher.html",
+      "headline": "The Itinerant Preacher Who Helped Secure the Separation of Church and State",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/05mag-1776-stills-03/05mag-1776-stills-03-articleLarge.jpg",
+      "timestamp": "2026-06-22T21:12:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/magazine/elizabeth-freeman-slavery-lawsuit-usa-revolution.html",
+      "headline": "The Enslaved Woman Who Sued for Freedom and Emancipated Herself",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/05mag-1776-stills/05mag-1776-stills-articleLarge.jpg",
+      "timestamp": "2026-06-22T21:12:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/magazine/revolutionary-war-lemuel-haynes-black-soldier-essay.html",
+      "headline": "The Man of Faith Who Heard a Righteous Call in the Founding Credo",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/05mag-1776-haynes/05mag-1776-haynes-articleLarge.jpg",
+      "timestamp": "2026-06-22T21:10:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/magazine/american-revolution-the-adulateur-mercy-otis-warren.html",
+      "headline": "The Housewife Whose Plays Helped Push American Toward Revolution",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/05mag-1776-stills-05/05mag-1776-stills-05-articleLarge.jpg",
+      "timestamp": "2026-06-22T21:09:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/magazine/usa-revolutionary-war-history-joseph-plumb-martin.html",
+      "headline": "The Teenage Soldier Who Revealed How the Patriots Really Won the War",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/05mag-1776-stills-04/05mag-1776-stills-04-articleLarge.jpg",
+      "timestamp": "2026-06-22T21:07:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/magazine/american-revolution-hermon-husband-william-tryon.html",
+      "headline": "The Radical Pacifist Who Inspired the First Armed Rebellion of the Founding Era",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/05mag-1776-stills-02/05mag-1776-stills-02-articleLarge.jpg",
+      "timestamp": "2026-06-22T21:06:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/magazine/good-peter-oneida-history-american-revolution.html",
+      "headline": "The Native Leader Who Tied His People’s Fate to the Patriot Cause",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/05MAG-1776-GP/05MAG-1776-GP-articleLarge.jpg",
+      "timestamp": "2026-06-22T21:05:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/magazine/usa-250-anniversary-american-revolution.html",
+      "headline": "Visions of America: The Revolution As You’ve Never Seen It Before",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/05mag-1776-mainpage/05mag-1776-mainpage-articleLarge.jpg",
+      "timestamp": "2026-06-22T21:04:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
