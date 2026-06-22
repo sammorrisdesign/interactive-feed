@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-14T08:14:16.828Z",
+  "lastUpdated": "2026-06-22T18:55:33.269Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-06-23/fake-abc-website-scam-facebook-ads/106653690",
+      "headline": "Scammers are paying Meta to spread fake ABC News articles",
+      "image": "https://live-production.wcms.abc-cdn.net.au/848d2f6eaa1235808fa2df230ffb0d0a?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-22T09:45:59.817Z",
+  "lastUpdated": "2026-06-22T18:55:34.441Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/jun/22/keir-starmer-resignation-speech-anatomy-picture",
+      "headline": "Keir Starmer’s resignation speech: anatomy of a picture",
+      "image": "https://i.guim.co.uk/img/media/bc3a6ad60cfbb4802ebca5e1988f1f347c660da4/563_0_7911_6328/master/7911.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ed95eebd8edb04e1fccc6cb7aeaf4cdb",
+      "timestamp": "2026-06-22T18:32:50.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/jun/22/the-rise-and-fall-of-keir-starmer-where-did-it-all-go-wrong",
+      "headline": "The rise and fall of Keir Starmer: where did it all go wrong?",
+      "image": "https://i.guim.co.uk/img/media/4d7a49a9fbae174d247b3e637174c59ec141baea/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8f83955126e485227817b2db49850a9",
+      "timestamp": "2026-06-22T15:24:34.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
