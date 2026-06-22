@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-22T09:45:59.852Z",
+  "lastUpdated": "2026-06-22T15:21:47.188Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/22/books/review/world-libraries-quiz.html",
+      "headline": "Do You Know These Legendary Libraries From Around the World?",
+      "image": "https://static01.nyt.com/images/2026/06/22/books/22TBR-Quiz-Libraries/22TBR-Quiz-Libraries-articleLarge.jpg",
+      "timestamp": "2026-06-22T12:00:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
