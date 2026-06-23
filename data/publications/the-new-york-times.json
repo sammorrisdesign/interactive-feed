@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-23T19:58:20.009Z",
+  "lastUpdated": "2026-06-23T21:44:13.139Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-south-carolina-agriculture-commissioner-runoff.html",
+      "headline": "South Carolina Agriculture Commissioner Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-state-sc-33c011/eln-PRE-2026-06-23-state-sc-33c011-articleLarge.jpg",
+      "timestamp": "2026-06-23T20:02:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-south-dakota-mayor-sioux-falls.html",
+      "headline": "Sioux Falls, South Dakota, Mayor Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-sd-mayor-sioux-falls-3f4c8d/eln-PRE-2026-06-23-race-sd-mayor-sioux-falls-3f4c8d-articleLarge.jpg",
+      "timestamp": "2026-06-23T20:02:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-9-primary.html",
+      "headline": "New York Ninth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-9-97e448/eln-PRE-2026-06-23-race-ny-us-h-9-97e448-articleLarge-v2.jpg",
+      "timestamp": "2026-06-23T20:02:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-8-primary.html",
+      "headline": "New York Eighth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-8-89ffb7/eln-PRE-2026-06-23-race-ny-us-h-8-89ffb7-articleLarge-v2.jpg",
+      "timestamp": "2026-06-23T20:02:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-7-primary.html",
+      "headline": "New York Seventh Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-7-97b30c/eln-PRE-2026-06-23-race-ny-us-h-7-97b30c-articleLarge-v2.jpg",
+      "timestamp": "2026-06-23T20:02:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
