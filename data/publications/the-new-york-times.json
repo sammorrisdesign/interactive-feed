@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-23T09:33:07.007Z",
+  "lastUpdated": "2026-06-23T15:36:27.875Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/23/weather/higos-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Higos",
+      "image": "https://static01.nyt.com/images/2026/06/22/weather/eight-map-path-tracker-index/eight-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-06-23T14:31:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
