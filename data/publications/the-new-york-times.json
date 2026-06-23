@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-22T21:30:36.009Z",
+  "lastUpdated": "2026-06-23T09:33:07.007Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/23/world/africa/ebola-virus-outbreak-update.html",
+      "headline": "How Bad Could the Ebola Outbreak Get? Here Are 5 Key Factors.",
+      "image": "https://static01.nyt.com/images/2026/06/18/multimedia/2026-06-10-ebola-outbreak-index/2026-06-10-ebola-outbreak-index-articleLarge-v4.png",
+      "timestamp": "2026-06-23T09:21:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
