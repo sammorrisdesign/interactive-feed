@@ -1,6 +1,69 @@
 {
-  "lastUpdated": "2026-06-23T17:49:32.196Z",
+  "lastUpdated": "2026-06-23T19:58:20.009Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-6-primary.html",
+      "headline": "New York Sixth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-6-b45a4d/eln-PRE-2026-06-23-race-ny-us-h-6-b45a4d-articleLarge.jpg",
+      "timestamp": "2026-06-23T19:10:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-5-primary.html",
+      "headline": "New York Fifth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-5-eb4e51/eln-PRE-2026-06-23-race-ny-us-h-5-eb4e51-articleLarge.jpg",
+      "timestamp": "2026-06-23T19:10:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-4-primary.html",
+      "headline": "New York Fourth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-4-362e43/eln-PRE-2026-06-23-race-ny-us-h-4-362e43-articleLarge.jpg",
+      "timestamp": "2026-06-23T19:10:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-3-primary.html",
+      "headline": "New York Third Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-3-c9b49c/eln-PRE-2026-06-23-race-ny-us-h-3-c9b49c-articleLarge.jpg",
+      "timestamp": "2026-06-23T19:10:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-26-primary.html",
+      "headline": "New York 26th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-26-6dc23f/eln-PRE-2026-06-23-race-ny-us-h-26-6dc23f-articleLarge.jpg",
+      "timestamp": "2026-06-23T19:10:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-25-primary.html",
+      "headline": "New York 25th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-25-7b05e9/eln-PRE-2026-06-23-race-ny-us-h-25-7b05e9-articleLarge.jpg",
+      "timestamp": "2026-06-23T19:10:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-new-york-us-house-23-primary.html",
+      "headline": "New York 23rd Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ny-us-h-23-2ad603/eln-PRE-2026-06-23-race-ny-us-h-23-2ad603-articleLarge.jpg",
+      "timestamp": "2026-06-23T19:10:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
