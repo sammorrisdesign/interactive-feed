@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-23T15:36:27.875Z",
+  "lastUpdated": "2026-06-23T17:49:32.196Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-south-carolina-runoff.html",
+      "headline": "South Carolina Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-state-sc-5627ac/eln-PRE-2026-06-23-state-sc-5627ac-articleLarge.jpg",
+      "timestamp": "2026-06-23T17:23:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-south-carolina-governor-runoff.html",
+      "headline": "South Carolina Governor Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-sc-governor-fe7da2/eln-PRE-2026-06-23-race-sc-governor-fe7da2-articleLarge.jpg",
+      "timestamp": "2026-06-23T17:23:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-key-races-june-23-ny-ut-md-sc.html",
+      "headline": "Key Race Results in New York, Maryland, South Carolina and Utah",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-dashboard-cb2d30/eln-PRE-2026-06-23-dashboard-cb2d30-articleLarge.jpg",
+      "timestamp": "2026-06-23T17:22:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-utah-us-house-3-primary.html",
+      "headline": "Utah Third Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/eln-PRE-2026-06-23-race-ut-us-h-3-5b955e/eln-PRE-2026-06-23-race-ut-us-h-3-5b955e-articleLarge.jpg",
+      "timestamp": "2026-06-23T17:17:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
