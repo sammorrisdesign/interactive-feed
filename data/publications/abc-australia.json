@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-22T18:55:33.269Z",
+  "lastUpdated": "2026-06-24T21:09:14.093Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-06-25/as-ebola-spreads-australia-faces-rise-in-biblical-disease-risks/106736608",
+      "headline": "As Ebola spreads, Australia faces rise in 'biblical' disease risks",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3605ea0dc9974af85f07546b52132bc4?impolicy=wcms_crop_resize&cropH=1657&cropW=2209&xPos=145&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
