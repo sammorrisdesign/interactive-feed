@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-24T17:27:02.608Z",
+  "lastUpdated": "2026-06-24T19:09:24.931Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/24/nyregion/met-carone-indictment.html",
+      "headline": "Read the Indictment of Brooklyn Power Broker Frank Carone",
+      "image": "https://static01.nyt.com/images/2026/06/24/doc-showmultidocspl-promo/doc-showmultidocspl-promo-articleLarge.png",
+      "timestamp": "2026-06-24T18:53:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/24/espanol/terremoto-california.html",
+      "headline": "Mapa: un terremoto de magnitud 5,6 sacude el norte de California",
+      "image": "https://static01.nyt.com/images/2026/06/24/world/24wea-quake-tracker-northern-california-nytifaab-index/24wea-quake-tracker-northern-california-nytifaab-index-articleLarge-v76.jpg",
+      "timestamp": "2026-06-24T17:38:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
