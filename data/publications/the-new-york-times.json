@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-24T19:09:24.931Z",
+  "lastUpdated": "2026-06-24T22:45:54.486Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/24/us/elections/nyc-house-primary-results-precinct-map.html",
+      "headline": "See Where Mamdani’s Slate of House Hopefuls Did Best",
+      "image": "https://static01.nyt.com/images/2026/06/24/multimedia/2026-06-24-nyc-house-election-map-index/2026-06-24-nyc-house-election-map-index-articleLarge-v11.jpg",
+      "timestamp": "2026-06-24T22:33:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/24/world/venezuela-earthquake.html",
+      "headline": "Tsunami Alerts Issued After 7.1-Magnitude Earthquake Hits Venezuela",
+      "image": "https://static01.nyt.com/images/2026/06/24/world/24wea-quake-tracker-venezuela-nytiazfx-index/24wea-quake-tracker-venezuela-nytiazfx-index-articleLarge-v26.jpg",
+      "timestamp": "2026-06-24T22:27:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
