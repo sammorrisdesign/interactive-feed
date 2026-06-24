@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-22T18:55:34.441Z",
+  "lastUpdated": "2026-06-24T09:22:34.539Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jun/24/best-american-lgbtq-books-authors",
+      "headline": "The best American LGBTQ+ books, chosen by authors",
+      "image": "https://i.guim.co.uk/img/media/a2597b2f62ca143eb715b28c1613b519ab9b4ba1/135_0_2865_2292/master/2865.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cef567ac5d7095baf825ff4e5b6c220f",
+      "timestamp": "2026-06-24T08:00:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

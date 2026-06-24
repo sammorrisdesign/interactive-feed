@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-23T09:33:07.474Z",
+  "lastUpdated": "2026-06-24T09:22:35.000Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/06/24/are-ai-chatbots-like-chatgpt-politically-biased-we-tested-them/",
+      "headline": "Are ChatGPT and other AI chatbots politically biased? We tested them.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MKPHARIXXNC6XH6T4LQHI3MZ7Y.jpg&w=300",
+      "timestamp": "2026-06-24T00:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "blueSkyHandle": "washingtonpost.com",
