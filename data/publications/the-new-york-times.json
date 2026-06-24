@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-23T21:44:13.139Z",
+  "lastUpdated": "2026-06-24T17:27:02.608Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/24/us/quake-tracker-northern-california.html",
+      "headline": "Map: 5.6-Magnitude Earthquake Shakes Northern California",
+      "image": "https://static01.nyt.com/images/2026/06/24/world/24wea-quake-tracker-northern-california-nytifaab-index/24wea-quake-tracker-northern-california-nytifaab-index-articleLarge-v30.jpg",
+      "timestamp": "2026-06-24T15:27:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

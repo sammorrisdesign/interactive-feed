@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-15T13:30:29.374Z",
+  "lastUpdated": "2026-06-24T17:27:02.559Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/sport/2026-06/fussball-test-spieler-tunier-trainer-daten",
+      "headline": "Wie gut kennen Sie sich mit Fußball aus?",
+      "image": "https://img.zeit.de/sport/2026-06/fussball-test-spieler-tunier/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-06/zehn-jahre-brexit-wirtschaft-handel-fazit",
+      "headline": "Was wäre, wenn der Brexit nie passiert wäre?",
+      "image": "https://img.zeit.de/wirtschaft/2026-06/zehn-jahre-brexit-wirtschaft-handel-fazit-bild-1/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
