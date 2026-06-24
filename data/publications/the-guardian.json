@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-06-24T09:22:34.539Z",
+  "lastUpdated": "2026-06-24T12:05:14.854Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/prairieland-texas-ice-protests-zines",
+      "headline": "‘This is injustice’: how leftist zines were used to sentence anti-ICE protesters to decades in prison",
+      "image": "https://i.guim.co.uk/img/media/596f627f2b1ee9d008a135113a79d6baba7ca9cd/1_0_2499_2000/master/2499.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb8920ec2fa4629325d148cb561bce2f",
+      "timestamp": "2026-06-24T11:00:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/customer-service-us-consumers",
+      "headline": "Record profits, terrible service: something’s got to give for US consumers",
+      "image": "https://i.guim.co.uk/img/media/74c74aa7d9d3840dc3ab744a11190352352d1ab0/154_115_3517_2815/master/3517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c03504fb830c73d2be8c9f77b6417162",
+      "timestamp": "2026-06-24T11:00:42.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/24/apartment-renters-rising-fees",
+      "headline": "‘Extremely overwhelmed’: apartment renters face rising tide of fees",
+      "image": "https://i.guim.co.uk/img/media/b9b3fac97f163a423de83a6c92632f4287dd132d/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8e5105672c86ab6e7656ecbe2aa815f",
+      "timestamp": "2026-06-24T10:00:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
