@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-25T20:54:18.364Z",
+  "lastUpdated": "2026-06-25T22:19:21.321Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/arizona-us-house-2-polls-2026.html",
+      "headline": "Arizona Second Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-06-25T22:18:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/25/travel/italy-vacation-quiz.html",
+      "headline": "Dreaming of an Italian Vacation? Take This Quiz to Find a Destination.",
+      "image": "https://static01.nyt.com/images/2026/06/25/travel/italy-vacation-quiz-1782414666862/italy-vacation-quiz-1782414666862-articleLarge.jpg",
+      "timestamp": "2026-06-25T21:52:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
