@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-25T04:43:39.862Z",
+  "lastUpdated": "2026-06-25T11:13:49.022Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/25/realestate/bay-area-oakland-berkeley-real-estate-homes-prices.html",
+      "headline": "Three Women Wanted to Start a Family in the Bay Area. Could They Find a House to Do It In?",
+      "image": "https://static01.nyt.com/images/2026/06/25/multimedia/25Hunt-Berkeley-01-kvtb/25Hunt-Berkeley-01-kvtb-articleLarge.jpg",
+      "timestamp": "2026-06-25T09:04:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/25/travel/things-to-do-vilnius.html",
+      "headline": "36 Hours in Vilnius, Lithuania",
+      "image": "https://static01.nyt.com/images/2026/06/25/multimedia/trav-hours-vilnius-03-pgtc/trav-hours-vilnius-03-pgtc-articleLarge.jpg",
+      "timestamp": "2026-06-25T09:02:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
