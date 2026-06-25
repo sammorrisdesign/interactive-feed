@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-24T22:45:54.486Z",
+  "lastUpdated": "2026-06-25T00:08:32.631Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-us-house-1-polls-2026.html",
+      "headline": "Colorado First Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-06-24T23:21:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/24/world/quake-tracker-japan.html",
+      "headline": "Map: 6.9-Magnitude Earthquake Shakes Japan",
+      "image": "https://static01.nyt.com/images/2026/06/24/world/24wea-quake-tracker-north-pacific-ocean-nyt35xcy-index/24wea-quake-tracker-north-pacific-ocean-nyt35xcy-index-articleLarge-v29.jpg",
+      "timestamp": "2026-06-24T23:03:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
