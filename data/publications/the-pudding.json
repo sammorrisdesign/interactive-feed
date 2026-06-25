@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-23T17:49:32.298Z",
+  "lastUpdated": "2026-06-25T13:34:40.596Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "http://pudding.cool/2026/06/mow/game",
+      "headline": "The Lawn Mowing Experiment",
+      "image": "https://pudding.cool/2026/06/mow/assets/og.png",
+      "timestamp": "2026-06-25T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "blueSkyHandle": "puddingviz.bsky.social",
