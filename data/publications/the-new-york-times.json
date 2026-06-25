@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-25T00:08:32.631Z",
+  "lastUpdated": "2026-06-25T04:43:39.862Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/25/opinion/america-250-birthday.html",
+      "headline": "It’s America's Birthday. What Are We Celebrating?",
+      "image": "https://static01.nyt.com/images/2026/06/25/multimedia/25columnists-promo-new-ckzj/25columnists-promo-new-ckzj-articleLarge.jpg",
+      "timestamp": "2026-06-25T04:02:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/24/us/trump-dc-costs-ballroom-arch-pool.html",
+      "headline": "Who’s Paying for Trump’s $1 Billion Construction Spree? Secret Donors and Taxpayers.",
+      "image": "https://static01.nyt.com/images/2026/06/18/multimedia/2026-05-18-dc-renovations-index/2026-05-18-dc-renovations-index-articleLarge-v6.jpg",
+      "timestamp": "2026-06-25T03:25:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/24/style/world-cup-jersey-game.html",
+      "headline": "The World Cup of Jerseys",
+      "image": "https://static01.nyt.com/images/2026/06/24/fashion/world-cup-jersey-game-promo/world-cup-jersey-game-promo-articleLarge.jpg",
+      "timestamp": "2026-06-25T01:49:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
