@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-21T03:51:25.904Z",
+  "lastUpdated": "2026-06-26T07:07:01.001Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/erdbeben-in-venezuela-die-wichtigsten-karten-und-grafiken-zur-aktuellen-lage-ld.10012945",
+      "headline": "Erdbeben in Venezuela: Die wichtigsten Karten und Grafiken zur gegenwärtigen Lage",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/25/088cfde9-363f-474b-85cc-ba8eef677036.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y312&wmark=nzz",
+      "timestamp": "2026-06-26T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
