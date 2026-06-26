@@ -1,6 +1,74 @@
 {
-  "lastUpdated": "2025-12-22T14:18:36.409Z",
+  "lastUpdated": "2026-06-26T10:35:47.011Z",
   "articles": [
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/texas-road-trips/",
+      "image": "https://img.texasmonthly.com/2024/03/default-og-logo-black.png?auto=compress&crop=faces&fit=fit&fm=png&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/texas-road-trip-route-90/",
+      "image": "https://img.texasmonthly.com/2026/06/drives-us-90-hero-a-scaled.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/texas-road-trip-abilene-midland-odessa/",
+      "image": "https://img.texasmonthly.com/2026/06/drives-energy-hero-a-scaled.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/rio-grande-valley-taco-drive/",
+      "image": "https://img.texasmonthly.com/2026/06/drives-taco-ana-liz.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/texas-gulf-coast-road-trip/",
+      "image": "https://img.texasmonthly.com/2026/06/drives-coast-hero-a-scaled.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/east-texas-road-trip/",
+      "image": "https://img.texasmonthly.com/2026/06/drives-scent-hero-a-scaled.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/central-texas-bbq-road-trip/",
+      "image": "https://img.texasmonthly.com/2026/06/drives-bbq-city-meat-market.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/route-66-road-trip-texas/",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/scenic-west-texas-road-trip/",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/texas-wine-country-road-trip/",
+      "image": "https://img.texasmonthly.com/2026/06/drives-wine-sandy-road-scaled.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-06-26T10:00:00.000Z"
+    },
     {
       "publication": "Texas Monthly",
       "twitterHandle": "TexasMonthly",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-26T07:07:01.001Z",
+  "lastUpdated": "2026-06-26T10:35:42.971Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/hitzewelle-in-europa-die-interaktive-temperatur-karte-im-live-check-ld.10012978",
+      "headline": "Hitzewelle in Europa: Die interaktive Temperaturkarte",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/26/47595c5b-95c4-4f43-9efb-4e16ae8ac5e5.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-06-26T10:02:37.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
