@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-26T19:43:02.017Z",
+  "lastUpdated": "2026-06-26T21:16:13.916Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/26/movies/mel-brooks-100th-birthday.html",
+      "headline": "Happy 100th Birthday, Mel Brooks!",
+      "image": "https://static01.nyt.com/images/2026/06/26/arts/me-static/me-static-articleLarge.jpg",
+      "timestamp": "2026-06-26T20:11:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/26/us/trump-dc-golf-course.html",
+      "headline": "Trump Envisions a Championship Golf Course in Washington. Locals Are Skeptical.",
+      "image": "https://static01.nyt.com/images/2026/06/26/multimedia/2026-05-07-east-potomac-golf-index/2026-05-07-east-potomac-golf-index-articleLarge-v3.jpg",
+      "timestamp": "2026-06-26T19:56:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
