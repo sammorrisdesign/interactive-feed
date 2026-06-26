@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-26T10:35:47.028Z",
+  "lastUpdated": "2026-06-26T15:37:23.123Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/california-wealth-tax-polls-2026.html",
+      "headline": "California Wealth Tax Initiative 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-06-26T14:45:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/26/espanol/terremoto-nicaragua-managua.html",
+      "headline": "Mapa: un terremoto de magnitud 5,2 sacude Nicaragua",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-06-26T14:30:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/26/world/26wea-quake-tracker-japan-nyt6p00m.html",
+      "headline": "Map: 5.7-Magnitude Earthquake Strikes Near Tokyo",
+      "image": "https://static01.nyt.com/images/2026/06/26/world/26wea-quake-tracker-japan-nyt6p00m-index/26wea-quake-tracker-japan-nyt6p00m-index-articleLarge-v20.jpg",
+      "timestamp": "2026-06-26T14:10:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/26/world/americas/quake-tracker-nicaragua.html",
+      "headline": "Map: 5.2-Magnitude Earthquake Shakes Nicaragua",
+      "image": "https://static01.nyt.com/images/2026/06/26/world/26wea-quake-tracker-nicaragua-nytf4gz3-index/26wea-quake-tracker-nicaragua-nytf4gz3-index-articleLarge-v11.jpg",
+      "timestamp": "2026-06-26T13:31:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
