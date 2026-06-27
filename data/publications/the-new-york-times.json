@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-26T21:16:13.916Z",
+  "lastUpdated": "2026-06-27T07:46:38.291Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html",
+      "headline": "How Phones Alerted Millions Before Quakes Shook Venezuela",
+      "image": "https://static01.nyt.com/images/2026/06/26/multimedia/2026-06-25-earthquake-warnings-index/2026-06-25-earthquake-warnings-index-articleLarge-v7.jpg",
+      "timestamp": "2026-06-27T05:23:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
