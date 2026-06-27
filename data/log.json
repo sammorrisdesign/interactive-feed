@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "timestamp": "2026-06-27T11:52:24.617Z",
+    "publication": "ESPN",
+    "error": "Error fetching RSS. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-06-27T11:52:24.627Z",
+    "publication": "ESPN",
+    "error": "Error fetching Sitemap. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-06-27T11:52:44.763Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-27T11:52:49.388Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
+  }
+]
