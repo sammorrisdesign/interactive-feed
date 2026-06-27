@@ -113,5 +113,30 @@
     "timestamp": "2026-06-27T19:16:02.189Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
+  },
+  {
+    "timestamp": "2026-06-27T20:36:52.100Z",
+    "publication": "ESPN",
+    "error": "Error fetching RSS. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-06-27T20:36:52.123Z",
+    "publication": "ESPN",
+    "error": "Error fetching Sitemap. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-06-27T20:37:05.324Z",
+    "publication": "San Francisco Chronicle",
+    "error": "Error fetching Sitemap. \n Response: {\"html\":{\"head\":{\"meta\":[{\"@_http-equiv\":\"Content-Security-Policy\",\"@_content\":\"default-src 'self'; img-src 'self' data:; media-src 'self' data:; object-src 'none'; style-src 'self' 'sha256-o4vzfmmUENEg4chMjjRP9EuW9ucGnGIGVdbl8d0SHQQ='; script-src 'self' 'sha256-a9bHdQGvRzDwDVzx8m+Rzw+0FHZad8L0zjtBwkxOIz4=';\"},{\"@_name\":\"viewport\",\"@_content\":\"width=device-width, initial-scale=1\"}],\"link\":[{\"@_href\":\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/inter-var.woff2\",\"@_rel\":\"preload\",\"@_as\":\"font\",\"@_type\":\"font/woff2\"},{\"@_href\":\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/styles.css\",\"@_rel\":\"stylesheet\"}],\"title\":\"Client Challenge\",\"style\":\"#loading-error {\\n        font-size: 16px;\\n        font-family: 'Inter', sans-serif;\\n        margin-top: 10px;\\n        margin-left: 10px;\\n        display: none;\\n      }\"},\"body\":{\"noscript\":{\"div\":{\"div\":{\"img\":{\"@_src\":\"/_fs-ch-1T1wmsGaOgGaSxcX/assets/errorIcon.svg\",\"@_alt\":\"\",\"@_role\":\"presentation\",\"@_class\":\"error-icon\"},\"span\":{\"#text\":\"JavaScript is disabled in your browser.\",\"@_class\":\"noscript-span\"},\"p\":\"Please enable JavaScript to proceed.\",\"@_class\":\"noscript-content\"},\"@_class\":\"noscript-container\"}},\"div\":{\"#text\":\"A required part of this site couldn’t load. This may be due to a browser\\n      extension, network issues, or browser settings. Please check your\\n      connection, disable any ad blockers, or try using a different browser.\",\"@_id\":\"loading-error\",\"@_role\":\"alert\",\"@_aria-live\":\"polite\"},\"script\":\"function loadScript(src) {\\n        return new Promise((resolve, reject) => {\\n          const script = document.createElement('script');\\n          script.onload = resolve;\\n          script.onerror = (event) => {\\n            console.error('Script load error event:', event);\\n            document.getElementById('loading-error').style.display = 'block';\\n            reject(\\n              new Error(\\n                `Failed to load script: ${src}, Please contact the service administrator.`\\n              )\\n            );\\n          };\\n          script.src = src;\\n          document.body.appendChild(script);\\n        });\\n      }\\n\\n      loadScript('/_fs-ch-1T1wmsGaOgGaSxcX/errors.js')\\n        .then(() => {\\n          const script = document.createElement('script');\\n          script.src = '/_fs-ch-1T1wmsGaOgGaSxcX/script.js?reload=true';\\n          script.onerror = (event) => {\\n            console.error('Script load error event:', event);\\n            const errorMsg = new Error(\\n              `Failed to load script: ${script.src}. Please contact the service administrator.`\\n            );\\n            console.error(errorMsg);\\n            handleScriptError();\\n          };\\n          document.body.appendChild(script);\\n        })\\n        .catch((error) => {\\n          console.error(error);\\n        });\"},\"@_lang\":\"en\"}}"
+  },
+  {
+    "timestamp": "2026-06-27T20:37:10.625Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-06-27T20:37:16.969Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
   }
 ]
