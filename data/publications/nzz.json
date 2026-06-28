@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-26T10:35:42.971Z",
+  "lastUpdated": "2026-06-28T06:14:43.954Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/mit-welchem-aufwand-die-fifa-ihre-wm-sponsoren-schuetzt-und-warum-sie-in-einem-fall-trotzdem-scheiterte-ld.10012696",
+      "headline": "Satellitenbilder zeigen, mit welchem Aufwand die Fifa ihre WM-Sponsoren schützt. Und warum sie in einem Fall trotzdem scheiterte",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/24/6eff99f9-f5e1-411a-b200-ecfc68a6da21.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1293,727,x1584,y595&wmark=nzz",
+      "timestamp": "2026-06-28T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
