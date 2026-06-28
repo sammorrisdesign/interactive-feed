@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-28T06:14:44.477Z",
+  "lastUpdated": "2026-06-28T09:40:51.452Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/28/arts/battle-little-bighorn-custer.html",
+      "headline": "Warrior, Hero, Villain or Fool? 150 Years of Reassessing Custer",
+      "image": "https://static01.nyt.com/images/2026/06/28/arts/28-custer-promo/28-custer-promo-articleLarge.jpg",
+      "timestamp": "2026-06-28T09:00:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
