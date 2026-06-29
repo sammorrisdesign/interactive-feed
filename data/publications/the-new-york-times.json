@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-29T21:07:10.178Z",
+  "lastUpdated": "2026-06-29T22:36:06.390Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/29/dining/america-250-years-of-food.html",
+      "headline": "The Pursuit of Hungriness: 250 Years of American Food Innovation",
+      "image": "https://static01.nyt.com/images/2026/06/23/multimedia/FD-250-EUROPEAN-IMMIGRATION-mjvg/FD-250-EUROPEAN-IMMIGRATION-mjvg-articleLarge.jpg",
+      "timestamp": "2026-06-29T21:14:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
