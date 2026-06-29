@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-29T13:04:08.954Z",
+  "lastUpdated": "2026-06-29T16:45:22.298Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/29/us/politics/supreme-court-decision-trump-presidential-power-slaughter.html",
+      "headline": "Read the Supreme Court’s Decision to Expand Presidential Power Over Regulators",
+      "image": "https://static01.nyt.com/images/2026/06/29/doc-slaughter-promo/doc-slaughter-promo-articleLarge.png",
+      "timestamp": "2026-06-29T15:12:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/29/us/politics/supreme-court-decision-trump-lisa-cook.html",
+      "headline": "Read the Supreme Court’s Decision to Block the Firing of Lisa Cook",
+      "image": "https://static01.nyt.com/images/2026/06/29/doc-cook-promo/doc-cook-promo-articleLarge.png",
+      "timestamp": "2026-06-29T15:12:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/29/books/review/round-table-quiz.html",
+      "headline": "How Much Do You Know About the Algonquin Round Table?",
+      "image": "https://static01.nyt.com/images/2026/06/29/books/29TBR-Quiz-Algonquin/29TBR-Quiz-Algonquin-articleLarge.jpg",
+      "timestamp": "2026-06-29T15:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/29/nyregion/malik-beasley-indictment.html",
+      "headline": "Read the Indictment of Malik Beasley",
+      "image": "https://static01.nyt.com/images/2026/06/29/doc-malik-beasley-et-al-indic-promo/doc-malik-beasley-et-al-indic-promo-articleLarge.png",
+      "timestamp": "2026-06-29T14:56:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
