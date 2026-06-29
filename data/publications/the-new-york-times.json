@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-29T03:35:14.179Z",
+  "lastUpdated": "2026-06-29T08:56:06.215Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/29/polls/times-pph-siena-maine-poll-crosstabs.html",
+      "headline": "Cross-Tabs: June 2026 Times/Press Herald/Siena Poll of the Likely Electorate in Maine",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-06-29T07:58:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/29/polls/times-pph-siena-maine-poll-toplines.html",
+      "headline": "Toplines: June 2026 Times/Press Herald/Siena Poll of the Likely Electorate in Maine",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-06-29T07:57:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
