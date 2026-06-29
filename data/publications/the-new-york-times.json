@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-29T08:56:06.215Z",
+  "lastUpdated": "2026-06-29T13:04:08.954Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/29/nyregion/nyc-budgeting-affordability-hu.html",
+      "headline": "How a Global Researcher Lives on $110,000 in Long Island City",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/29met-affordingny-hu-promo/29met-affordingny-hu--01-hzbm-articleLarge.jpg",
+      "timestamp": "2026-06-29T09:02:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

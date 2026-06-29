@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-29T08:56:05.411Z",
+  "lastUpdated": "2026-06-29T13:04:08.937Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/29/america-250th-anniversary-trump",
+      "headline": "Donald Trump hijacked America’s 250 and turned it into a ‘theatre of the absurd’",
+      "image": "https://i.guim.co.uk/img/media/6f4d82241d513b0e7bc767e2a94cd27bf41b011f/432_29_3328_2662/master/3328.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bbf10509b6006d6c46d702ec5621396b",
+      "timestamp": "2026-06-29T11:00:42.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jun/27/anna-funder-interview-writer-sydney-university",
+      "headline": "Anna Funder: ‘I clearly didn’t know what I was doing … but always knew I was going to write’",
+      "image": "https://i.guim.co.uk/img/media/ad8ce19c63b454d1d28bf1716a85824fa1541dec/0_385_2105_1682/master/2105.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bdb12203e1c1d6a05b96666e9abadfeb",
+      "timestamp": "2026-06-26T15:00:16.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
