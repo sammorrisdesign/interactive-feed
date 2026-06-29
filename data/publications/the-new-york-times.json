@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-28T11:45:29.081Z",
+  "lastUpdated": "2026-06-29T03:35:14.179Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/28/nyregion/metropolitan-diary-challenge-day-2.html",
+      "headline": "Metropolitan Diary Challenge Day 2: It’s Time to Write Your Story. The Joy Is in the Details.",
+      "image": "https://static01.nyt.com/images/2026/06/27/nyregion/00metdiarychallenge-still-day2/00metdiarychallenge-still-day2-articleLarge.jpg",
+      "timestamp": "2026-06-29T03:16:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
