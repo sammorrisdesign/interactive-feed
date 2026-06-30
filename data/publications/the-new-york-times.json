@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-29T22:36:06.390Z",
+  "lastUpdated": "2026-06-30T11:27:58.659Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/30/polls/times-siena-texas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: June 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-06-30T08:56:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/30/polls/times-siena-texas-poll-toplines.html",
+      "headline": "Toplines: June 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-06-30T08:55:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

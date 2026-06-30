@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-28T06:14:43.954Z",
+  "lastUpdated": "2026-06-30T11:27:57.165Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/erdbeben-in-venezuela-wo-die-zerstoerung-am-groessten-ist-ld.10013324",
+      "headline": "Erdbeben in Venezuela: wo die Zerstörung am grössten ist",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/30/183599be-a7d4-4795-8759-cfb98b6c05dc.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3840,2160,x0,y0&wmark=nzz",
+      "timestamp": "2026-06-30T10:48:04.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

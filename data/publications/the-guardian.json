@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-29T13:04:08.937Z",
+  "lastUpdated": "2026-06-30T11:27:57.617Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jun/30/theres-this-deep-mystery-of-what-actually-is-this-thing-the-philosopher-inside-google-deepmind",
+      "headline": "‘There’s this deep mystery of what, actually, is this thing?’: the philosopher inside Google DeepMind AI",
+      "image": "https://i.guim.co.uk/img/media/11cd1419a0276e86ffc6328afef5a1ab081ad240/0_100_6000_4800/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9966254542bb7bce5303c3ce918bee75",
+      "timestamp": "2026-06-30T04:00:37.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
