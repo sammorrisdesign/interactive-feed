@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-30T18:18:48.160Z",
+  "lastUpdated": "2026-06-30T20:28:11.685Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/30/world/quake-tracker-gulf-of-california.html",
+      "headline": "Map: 6.0-Magnitude Earthquake Shakes Off Mexico's Coast",
+      "image": "https://static01.nyt.com/images/2026/06/30/world/30wea-quake-tracker-gulf-of-california-nytis4ai-index/30wea-quake-tracker-gulf-of-california-nytis4ai-index-articleLarge-v14.jpg",
+      "timestamp": "2026-06-30T20:23:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-arkansas-state-house-district-44-special-runoff.html",
+      "headline": "Arkansas State House District 44 Special Runoff Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/eln-PRE-2026-06-30-state-ar-472b82/eln-PRE-2026-06-30-state-ar-472b82-articleLarge.jpg",
+      "timestamp": "2026-06-30T19:20:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-colorado-state-senate-primary.html",
+      "headline": "Colorado State Senate Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/eln-PRE-2026-06-30-state-co-004ee4/eln-PRE-2026-06-30-state-co-004ee4-articleLarge.jpg",
+      "timestamp": "2026-06-30T18:44:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-colorado-state-house-primary.html",
+      "headline": "Colorado State House Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/eln-PRE-2026-06-30-state-co-624466/eln-PRE-2026-06-30-state-co-624466-articleLarge.jpg",
+      "timestamp": "2026-06-30T18:39:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-colorado-governor-primary.html",
+      "headline": "Colorado Governor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/eln-PRE-2026-06-30-race-co-governor-3e3f8c/eln-PRE-2026-06-30-race-co-governor-3e3f8c-articleLarge.jpg",
+      "timestamp": "2026-06-30T18:37:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
