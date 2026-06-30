@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-30T11:27:58.659Z",
+  "lastUpdated": "2026-06-30T16:02:27.736Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/30/us/scotus-birthright.html",
+      "headline": "Read the Supreme Court Ruling That Upholds Birthright Citizenship",
+      "image": "https://static01.nyt.com/images/2026/06/30/doc-scotus-birthright-promo/doc-scotus-birthright-promo-articleLarge.png",
+      "timestamp": "2026-06-30T14:42:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/06/30/us/scotus-trans.html",
+      "headline": "Read the Supreme Court Decision Upholding Bans on Transgender Athletes in Women’s Sports",
+      "image": "https://static01.nyt.com/images/2026/06/30/doc-scotus-trans-promo/doc-scotus-trans-promo-articleLarge.png",
+      "timestamp": "2026-06-30T14:11:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

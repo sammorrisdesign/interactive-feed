@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-30T13:23:02.414Z",
+  "lastUpdated": "2026-06-30T16:02:27.704Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jun/28/america-250-origin-myth-narrative-power",
+      "headline": "The American myth always came at someone’s expense. Now, it’s all but collapsed",
+      "image": "https://i.guim.co.uk/img/media/151b75fb1597e6fbdbb9c4f91eae50564bdafbbe/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ab556941058814b0813e8a24c9b3808a",
+      "timestamp": "2026-06-28T13:00:11.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
