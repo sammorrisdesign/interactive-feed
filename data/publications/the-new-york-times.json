@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-01T13:18:11.069Z",
+  "lastUpdated": "2026-07-01T16:04:37.182Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/science/spudcells-synthetic-cell.html",
+      "headline": "This Cell Feeds, Grows and Reproduces. And It’s Manmade.",
+      "image": "https://static01.nyt.com/images/2026/06/26/multimedia/2026-06-24-spud-synthetic-cell-index/2026-06-24-spud-synthetic-cell-index-articleLarge.jpg",
+      "timestamp": "2026-07-01T13:47:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
