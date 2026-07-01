@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-01T06:23:48.110Z",
+  "lastUpdated": "2026-07-01T13:18:11.054Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/01/midwest-politics-population-growth",
+      "headline": "Only the midwest saw US population growth in every state. Will new residents change its politics?",
+      "image": "https://i.guim.co.uk/img/media/66a41983f6bde946e7650d8401cd2ddc0f429bd0/0_0_3000_2400/master/3000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26d1ba0af08bf8f4ac2fc7e1dff733ae",
+      "timestamp": "2026-07-01T13:00:37.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
