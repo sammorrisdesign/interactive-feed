@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-07-01T01:39:10.188Z",
+  "lastUpdated": "2026-07-01T10:28:55.939Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-ohio-poll-crosstabs.html",
+      "headline": "Cross-Tabs: June 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-ohio-poll-toplines.html",
+      "headline": "Toplines: June 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-north-carolina-poll-crosstabs.html",
+      "headline": "Cross-Tabs: June 2026 Times/Siena Poll of the Likely Electorate in North Carolina",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-north-carolina-poll-toplines.html",
+      "headline": "Toplines: June 2026 Times/Siena Poll of the Likely Electorate in North Carolina",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-iowa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: June 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-iowa-poll-toplines.html",
+      "headline": "Toplines: June 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-alaska-poll-toplines.html",
+      "headline": "Toplines: June 2026 Times/Siena Poll of the Likely Electorate in Alaska",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-alaska-poll-crosstabs.html",
+      "headline": "Cross-Tabs: June 2026 Times/Siena Poll of the Likely Electorate in Alaska",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-battleground-poll-crosstabs.html",
+      "headline": "Cross-Tabs: June 2026 Times/Siena Polls of Likely Voters in Battleground Senate Races",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/01/polls/times-siena-battleground-poll-toplines.html",
+      "headline": "Toplines: June 2026 Times/Siena Polls of Likely Voters in Battleground Senate Races",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-01T08:54:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
