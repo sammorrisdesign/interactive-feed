@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-30T20:28:11.685Z",
+  "lastUpdated": "2026-07-01T01:39:10.188Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-colorado-us-house-5-primary.html",
+      "headline": "Colorado Fifth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/06/30/multimedia/eln-POST-2026-06-30-race-co-us-h-5-c1d4ca/eln-POST-2026-06-30-race-co-us-h-5-c1d4ca-articleLarge.jpg",
+      "timestamp": "2026-07-01T00:43:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/results-colorado-secretary-of-state-primary.html",
+      "headline": "Colorado Secretary of State Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/07/01/multimedia/eln-CALL-2026-06-30-state-co-gonzaleza-5623c6/eln-CALL-2026-06-30-state-co-gonzaleza-5623c6-articleLarge.jpg",
+      "timestamp": "2026-07-01T00:43:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
