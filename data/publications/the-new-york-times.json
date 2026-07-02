@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-02T20:00:55.834Z",
+  "lastUpdated": "2026-07-02T21:43:13.705Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/02/arts/design/statue-of-liberty-history-france-us.html",
+      "headline": "The Most Iconic American Artwork Is the Hardest to See",
+      "image": "https://static01.nyt.com/images/2026/07/03/multimedia/03cul-liberty-kmfl/03cul-liberty-kmfl-articleLarge.jpg",
+      "timestamp": "2026-07-02T21:37:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
