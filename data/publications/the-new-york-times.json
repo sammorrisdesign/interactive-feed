@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-07-02T05:56:21.720Z",
+  "lastUpdated": "2026-07-02T11:32:02.194Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/02/sports/soccer/usa-bosnia-herzegovina-world-cup-goal-balogun.html",
+      "headline": "See How a Series of Quick Passes Led to the U.S. Team’s First Goal",
+      "image": "https://static01.nyt.com/images/2026/07/02/multimedia/2026-07-01-world-cup-usa-bosnia-index/2026-07-01-world-cup-usa-bosnia-index-articleLarge.jpg",
+      "timestamp": "2026-07-02T09:28:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/02/us/politics/trump-midterm-election-strategies.html",
+      "headline": "The Many Ways Trump Is Trying to Tip the Scales for the Midterms",
+      "image": "https://static01.nyt.com/images/2026/07/01/us/trump-midterms-promo-untitled/trump-midterms-promo-untitled-articleLarge.jpg",
+      "timestamp": "2026-07-02T09:04:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/02/realestate/minnesota-duluth-cloquet-homes-sale-prices.html",
+      "headline": "A Mother and Daughter Planned Their Lives Together in Minnesota. What Would $300,000 Buy? ",
+      "image": "https://static01.nyt.com/images/2026/07/02/multimedia/02re-hunt-duluth-promo-1/02re-hunt-duluth-promo-1-articleLarge.jpg",
+      "timestamp": "2026-07-02T09:03:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/02/opinion/george-washington-interpreters-history.html",
+      "headline": "13 Ways to Be George Washington",
+      "image": "https://static01.nyt.com/images/2026/07/02/opinion/02georges-image-promo/02georges-image-promo-articleLarge.jpg",
+      "timestamp": "2026-07-02T09:03:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/02/style/taylor-swift-nyc-spots.html",
+      "headline": "Welcome to (Taylor’s) New York",
+      "image": "https://static01.nyt.com/images/2026/07/01/multimedia/2026-06-29-taylor-swift-ny-index/2026-06-29-taylor-swift-ny-index-articleLarge.jpg",
+      "timestamp": "2026-07-02T09:03:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
