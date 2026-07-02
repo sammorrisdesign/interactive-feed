@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-24T21:09:14.093Z",
+  "lastUpdated": "2026-07-02T20:00:55.781Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-07-03/what-would-a-house-price-fall-mean-for-australians/106827028",
+      "headline": "For decades Australian house prices have grown. This is what a fall could mean",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1cd80fcd87ca0e3e54c4d05978697b7b?impolicy=wcms_crop_resize&cropH=1688&cropW=2251&xPos=375&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
