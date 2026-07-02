@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-02T11:32:02.161Z",
+  "lastUpdated": "2026-07-02T13:52:37.077Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/02/us-national-parks-history-censorship",
+      "headline": "‘A sanitized view of America’: inside Trump’s campaign to erase US history from national parks",
+      "image": "https://i.guim.co.uk/img/media/56898be4e6060fabc5d7b369cb7eba7b12e1dbb4/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8dedf28cd597df8594ca61e4f969c9be",
+      "timestamp": "2026-07-02T13:00:14.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
