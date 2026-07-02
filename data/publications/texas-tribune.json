@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-22T23:04:13.948Z",
+  "lastUpdated": "2026-07-02T16:04:41.079Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/07/01/texas-data-center-power-plans-emissions/",
+      "headline": "Texas leads nation in proposed power plants for data centers, which would emit large amounts of greenhouse gases",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/07/20260504-Data-Centers-Schroeder-LS-07.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-07-01T19:14:31.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "blueSkyHandle": "texastribune.bsky.social",
