@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-02T16:04:41.516Z",
+  "lastUpdated": "2026-07-03T05:12:01.927Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/south-korea-wealth-divide-ai-chip-boom",
+      "headline": "3,000% bonuses but a growing wealth divide: South Korea grapples with its AI chip boom",
+      "image": "https://i.guim.co.uk/img/media/0b2f474379e682977c27a9b009b5d442d9accc63/78_799_3922_3138/master/3922.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16f579834d6ba9e354de5c8c714476ea",
+      "timestamp": "2026-07-03T02:34:40.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/jul/03/melting-hot-when-ireland-played-mexico-in-sweltering-1994-world-cup-clash",
+      "headline": "Melting hot! When Ireland played Mexico in 43C heat at 1994 World Cup",
+      "image": "https://i.guim.co.uk/img/media/e27ed5b2dcda0714d9f6f56a697b1830bf1e150a/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fcc98caa54fbadce4f7f02f396be06f2",
+      "timestamp": "2026-07-03T02:00:15.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
