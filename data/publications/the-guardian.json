@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-03T08:33:04.060Z",
+  "lastUpdated": "2026-07-03T11:29:32.137Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
+      "headline": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
+      "image": "https://i.guim.co.uk/img/media/9cf96b47229f6cf4e1689db3553f3d757d420253/106_0_5842_4672/master/5842.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5369b245cc472984f9549a7399eaf30f",
+      "timestamp": "2026-07-03T11:08:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/03/us-at-250-global-reputation",
+      "headline": "For allies and adversaries alike, America at 250 is a solid global citizen gone rogue",
+      "image": "https://i.guim.co.uk/img/media/ea132bc4a14668cf1716b902084a5eddba19cb79/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13978335ff3ce2e16575030e5331b7ac",
+      "timestamp": "2026-07-03T09:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

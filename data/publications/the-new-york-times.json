@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-02T21:43:13.705Z",
+  "lastUpdated": "2026-07-03T11:29:32.166Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/03/world/americas/venezuela-earthquakes-epicenter-maps.html",
+      "headline": "Why the Twin Earthquakes in Venezuela Were So Deadly",
+      "image": "https://static01.nyt.com/images/2026/07/02/multimedia/2026-06-29-venezuela-earthquake-index/2026-06-29-venezuela-earthquake-index-articleLarge-v7.jpg",
+      "timestamp": "2026-07-03T09:02:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
