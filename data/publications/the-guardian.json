@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-03T05:12:01.927Z",
+  "lastUpdated": "2026-07-03T08:33:04.060Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/kill-zones-drone-nets-journey-ukraine-fortress-belt",
+      "headline": "Kill zones and drone nets: a journey through Ukraine’s fortress belt",
+      "image": "https://i.guim.co.uk/img/media/b75e16c1c599569da588a930c72f5388f09a1afa/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c400479014fca41b699a3bd903b159b9",
+      "timestamp": "2026-07-03T06:00:22.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
