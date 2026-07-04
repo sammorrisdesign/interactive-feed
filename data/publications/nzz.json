@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-06-30T11:27:57.165Z",
+  "lastUpdated": "2026-07-04T04:10:18.350Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/mit-checkbuch-und-kanonen-wie-die-usa-zu-einem-der-groessten-laender-der-erde-wurden-ld.10013746",
+      "headline": "Mit Checkbuch und Kanonen: wie die USA zu einem der grössten Länder der Erde wurden",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/03/e1cec41a-2909-4e0b-9f89-1dc2a9308aed.gif?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y161&wmark=nzz",
+      "timestamp": "2026-07-04T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
