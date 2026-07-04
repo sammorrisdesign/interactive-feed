@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-04T00:10:21.884Z",
+  "lastUpdated": "2026-07-04T09:35:06.979Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/04/world/europe/ukraine-russia-crimea-war-strikes.html",
+      "headline": "In Strike After Strike, Ukraine Is Bringing the War to Crimea",
+      "image": "https://static01.nyt.com/images/2026/07/02/multimedia/2026-06-26-crimea-strikes-index/2026-06-26-crimea-strikes-index-articleLarge-v2.jpg",
+      "timestamp": "2026-07-04T09:01:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

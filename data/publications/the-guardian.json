@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-04T07:21:19.933Z",
+  "lastUpdated": "2026-07-04T09:35:06.953Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/jul/04/britain-green-energy-revolution-a-visual-story",
+      "headline": "What’s holding back Britain’s green energy revolution? – a visual story",
+      "image": "https://i.guim.co.uk/img/media/71a0044bc1def5f9fd83c2313e852f0c7da4c07a/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=96754a1d147ef170288880e77265b243",
+      "timestamp": "2026-07-04T09:00:09.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/04/future-of-fiction-next-great-novel-ai-language-chat-gpt",
+      "headline": "Could the next great novel be written by AI (and would you even be able to tell)?",
+      "image": "https://i.guim.co.uk/img/media/096edd864e2a333f91007726add22c62dc3b1198/23_227_2041_1632/master/2041.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a0379c75e61d545ca52794590ca2f1d",
+      "timestamp": "2026-07-04T08:00:07.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
