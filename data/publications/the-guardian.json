@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-03T15:33:16.116Z",
+  "lastUpdated": "2026-07-04T07:21:19.933Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/04/us-250-britain-special-relationship",
+      "headline": "As the US marks 250, does the special relationship still exist – or is the UK just irrelevant?",
+      "image": "https://i.guim.co.uk/img/media/2d17f770a6b21da6e3e86a73578eb7ec1cd96ede/660_156_3907_3123/master/3907.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cd958424ca096ff93a2457e10fe196f9",
+      "timestamp": "2026-07-04T05:00:07.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
