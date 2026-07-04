@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-02T20:00:55.781Z",
+  "lastUpdated": "2026-07-04T20:06:56.138Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-07-05/taylor-swifts-wedding-a-lesson-in-media-mastery/106879956",
+      "headline": "Taylor Swift's 'royal wedding' was a lesson in media 'mastery'",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9f016083d73432fb08831f068847161d?impolicy=wcms_crop_resize&cropH=670&cropW=893&xPos=93&yPos=23&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
