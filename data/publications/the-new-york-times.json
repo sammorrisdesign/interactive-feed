@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-03T17:22:02.260Z",
+  "lastUpdated": "2026-07-04T00:10:21.884Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/03/world/canada/america-canada-quiz-fourth-july.html",
+      "headline": "Dear Americans, How Well Do You Know Canada?",
+      "image": "https://static01.nyt.com/images/2026/07/04/multimedia/04int-canada-quiz-hill-hvjw/04int-canada-quiz-hill-hvjw-articleLarge.jpg",
+      "timestamp": "2026-07-03T23:17:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
