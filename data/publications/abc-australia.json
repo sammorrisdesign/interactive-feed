@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-04T20:06:56.138Z",
+  "lastUpdated": "2026-07-05T19:12:44.504Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-07-06/banknote-printing-hoarding-mystery/106808970",
+      "headline": "Billions in banknotes are printed each year. What they're used for is a mystery",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6b0da520d9fe6019a7748817ed6b852f?impolicy=wcms_crop_resize&cropH=1400&cropW=1867&xPos=118&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
