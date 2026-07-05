@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-04T04:10:18.350Z",
+  "lastUpdated": "2026-07-05T06:37:55.065Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/geht-iran-diesen-sommer-das-wasser-aus-ld.10013488",
+      "headline": "Geht Iran diesen Sommer das Wasser aus?",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/02/d9a9e738-2cca-4ca4-b2ef-beffc4e2af86.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1605,903,x0,y64&wmark=nzz",
+      "timestamp": "2026-07-05T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
