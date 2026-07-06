@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-06T10:12:38.540Z",
+  "lastUpdated": "2026-07-06T14:05:13.924Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/06/books/review/american-life-quotes.html",
+      "headline": "Do You Recognize These Literary Quotations About America?",
+      "image": "https://static01.nyt.com/images/2026/07/06/books/06TBR-Quiz-AmericanQuotes/06TBR-Quiz-AmericanQuotes-articleLarge.jpg",
+      "timestamp": "2026-07-06T14:00:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-25-polls-2026.html",
+      "headline": "Florida 25th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-06T13:26:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
