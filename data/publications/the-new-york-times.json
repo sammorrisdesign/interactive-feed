@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-06T17:19:52.686Z",
+  "lastUpdated": "2026-07-06T22:44:42.026Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/06/us/trump-world-cup-balogun-timeline.html",
+      "headline": "Timeline: How FIFA’s Reversal on Balogun Unfolded",
+      "image": "https://static01.nyt.com/images/2026/07/06/multimedia/2026-07-06-balogun-red-card-index/2026-07-06-balogun-red-card-index-articleLarge.jpg",
+      "timestamp": "2026-07-06T21:42:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
