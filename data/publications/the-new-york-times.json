@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-06T14:05:13.924Z",
+  "lastUpdated": "2026-07-06T17:19:52.686Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/06/world/quake-tracker-chile.html",
+      "headline": "Map: 5.1-Magnitude Earthquake Shakes Chile",
+      "image": "https://static01.nyt.com/images/2026/07/06/world/06wea-quake-tracker-south-pacific-ocean-nyt81wqb-index/06wea-quake-tracker-south-pacific-ocean-nyt81wqb-index-articleLarge-v15.jpg",
+      "timestamp": "2026-07-06T16:49:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
