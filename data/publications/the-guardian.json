@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-05T06:37:58.591Z",
+  "lastUpdated": "2026-07-06T01:13:52.898Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/06/china-dextrous-robotic-hands-humanoid",
+      "headline": "China wants to solve the hardest problem in robotics – making hands",
+      "image": "https://i.guim.co.uk/img/media/53ea9534d7a24ef08bb20853830b00a7491fc319/349_0_4998_3998/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c02543a9954f062fd0aaf156c770e5e4",
+      "timestamp": "2026-07-06T00:31:18.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
