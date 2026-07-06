@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-06T05:53:07.982Z",
+  "lastUpdated": "2026-07-06T10:12:38.540Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/06/nyregion/nyc-budgeting-affordability-compton.html",
+      "headline": "How a Museum Security Guard and Artist Lives on $51,000 in Parkchester",
+      "image": "https://static01.nyt.com/images/2026/07/06/multimedia/06met-affordingny-compton-promo/06met-affordingny-compton-01-chqb-articleLarge.jpg",
+      "timestamp": "2026-07-06T09:01:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
