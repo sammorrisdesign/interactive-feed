@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-07T11:23:43.066Z",
+  "lastUpdated": "2026-07-07T18:29:23.267Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/alabama-us-house-2-polls-2026.html",
+      "headline": "Alabama 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-07-07T16:41:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
