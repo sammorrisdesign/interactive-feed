@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-07T18:29:23.267Z",
+  "lastUpdated": "2026-07-07T20:26:27.194Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/07/world/quake-tracker-costa-rica.html",
+      "headline": "Map: 5.3-Magnitude Earthquake Shakes Costa Rica",
+      "image": "https://static01.nyt.com/images/2026/07/07/world/07wea-quake-tracker-costa-rica-nyt700o8-v2-index/07wea-quake-tracker-costa-rica-nyt700o8-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-07-07T18:44:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
