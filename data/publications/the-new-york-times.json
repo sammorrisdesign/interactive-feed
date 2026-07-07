@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-06T22:44:42.026Z",
+  "lastUpdated": "2026-07-07T11:23:43.066Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/07/sports/soccer/usa-belgium-world-cup-goal.html",
+      "headline": "See How a Series of U.S. Mistakes Led to Belgium’s Third Goal",
+      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/2026-07-06-world-cup-16-usa-belgium-index/2026-07-06-world-cup-16-usa-belgium-index-articleLarge.jpg",
+      "timestamp": "2026-07-07T09:22:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/travel/new-york-city-guide.html",
+      "headline": "Your Guide to New York City",
+      "image": "https://static01.nyt.com/images/2026/06/29/multimedia/trav-guide-nyc-promo/trav-guide-nyc-promo-articleLarge.jpg",
+      "timestamp": "2026-07-07T09:02:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
