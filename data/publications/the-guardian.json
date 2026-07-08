@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-06T01:13:52.898Z",
+  "lastUpdated": "2026-07-08T03:35:37.902Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/08/australia-house-prices-falling-still-doubled-over-decade-one-big-chart",
+      "headline": "Australian house prices are falling but are still almost double what they were a decade ago",
+      "image": "https://i.guim.co.uk/img/media/ed0bfef296617ea122eed386583865c767686707/209_0_1125_900/master/1125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5fe26b2e4c302b2a84e0f8b4c0f69eea",
+      "timestamp": "2026-07-08T00:00:14.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
