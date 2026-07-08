@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-08T06:25:39.045Z",
+  "lastUpdated": "2026-07-08T09:05:09.160Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/08/opinion/focus-group-black-democrats.html",
+      "headline": "‘They Need Fresh Thinking’: These 13 Black Democratic Voters Want to See Younger Candidates",
+      "image": "https://static01.nyt.com/images/2026/07/08/opinion/08focusgroup-image-promo/08focusgroup-image-promo-articleLarge.jpg",
+      "timestamp": "2026-07-08T09:01:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
