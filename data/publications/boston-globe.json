@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-06-15T21:31:02.938Z",
+  "lastUpdated": "2026-07-08T15:28:19.551Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/07/storylab/250th-anniversary-boston/",
+      "headline": "Independence declared! Read all the news of Boston, deliver’d straight from 1776",
+      "image": "https://apps.bostonglobe.com/2026/07/storylab/250th-anniversary-boston/static/230966df73ce357291d097176af63897/47498/AJLEFF73AFFHLN7VVZAJC6AG5A.jpg",
+      "timestamp": "2026-07-03T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/05/metro/cambridge-shooting/timeline/",
+      "headline": "How the Cambridge shooting on Memorial Drive unfolded in a moment-by-moment timeline",
+      "image": "https://apps.bostonglobe.com/2026/05/metro/cambridge-shooting/static/73c07a2e724877142e0e9710325f470a/47498/WWMARRWGVFBPVIU4RFSXC3K3QY.jpg",
+      "timestamp": "2026-05-13T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "blueSkyHandle": "bostonglobe.bsky.social",
