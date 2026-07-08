@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-07T20:26:27.194Z",
+  "lastUpdated": "2026-07-08T06:25:39.045Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/07/us/midtown-structural.html",
+      "headline": "Manhattan Building’s Columns Buckled Beneath New Addition, Images Show",
+      "image": "https://static01.nyt.com/images/2026/07/07/multimedia/2026-07-07-midtown-building-structure-index/2026-07-07-midtown-building-structure-index-articleLarge-v4.jpg",
+      "timestamp": "2026-07-08T03:49:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
