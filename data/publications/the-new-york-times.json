@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-08T09:05:09.160Z",
+  "lastUpdated": "2026-07-09T09:32:51.136Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/09/realestate/virginia-washington-dc-arlington-home-sales-prices.html",
+      "headline": "After Tragedy Struck, He Found His Way to an Unexpected Epilogue in Virginia",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09re-Hunt-Arlington-04-btzq/09re-Hunt-Arlington-04-btzq-articleLarge.jpg",
+      "timestamp": "2026-07-09T09:03:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/09/travel/things-to-do-lecce.html",
+      "headline": "36 Hours in Lecce, Italy",
+      "image": "https://static01.nyt.com/images/2026/07/09/multimedia/09trav-hours-lecce-zmgk/09trav-hours-lecce-zmgk-articleLarge.jpg",
+      "timestamp": "2026-07-09T09:02:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
