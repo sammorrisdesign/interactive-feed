@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-09T05:34:57.821Z",
+  "lastUpdated": "2026-07-10T04:32:27.771Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/stromtracker-strommix-deutschland-live-ld.10011948",
+      "headline": "Ist Strom in Deutschland gerade sauber oder schmutzig?",
+      "image": "https://img-msp-prod.nzz.ch/2026/06/18/e12c9242-3b24-459d-b253-b10097b2e356.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1488,837,x174,y264&wmark=nzz",
+      "timestamp": "2026-07-10T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
