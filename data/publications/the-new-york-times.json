@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-09T17:52:33.876Z",
+  "lastUpdated": "2026-07-10T11:24:23.772Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/10/magazine/lemonade-bar-hodgman-quiz.html",
+      "headline": "Can You Make a Bartender Prepare Off-Menu Soft Drinks?",
+      "image": "https://static01.nyt.com/images/2026/07/05/magazine/12mag-hodgman-lemon/05mag-hodgman-lemon-articleLarge.jpg",
+      "timestamp": "2026-07-10T09:03:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
