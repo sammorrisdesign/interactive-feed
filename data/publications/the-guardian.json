@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-11T08:44:44.772Z",
+  "lastUpdated": "2026-07-11T11:29:09.643Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/11/inside-homeland-security-campaign-of-fear",
+      "headline": "Six-hour polygraphs, forced reassignments: inside homeland security’s campaign of fear",
+      "image": "https://i.guim.co.uk/img/media/be6cda77005b5835400750db0266b5309c885311/0_0_3000_2400/master/3000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca6f19b209ff55feb825415ed4fe505c",
+      "timestamp": "2026-07-11T11:00:48.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
