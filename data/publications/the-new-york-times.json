@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-11T08:44:44.799Z",
+  "lastUpdated": "2026-07-11T10:12:07.556Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/11/realestate/elin-hilderbrand-house-tour-nantucket.html",
+      "headline": "Elin Hilderbrand on Her Beloved Nantucket ‘Money Pit’",
+      "image": "https://static01.nyt.com/images/2026/07/10/realestate/elin-hilderbrand-house-tour-nantucket-1783710590301/elin-hilderbrand-house-tour-nantucket-1783710590301-articleLarge.jpg",
+      "timestamp": "2026-07-11T09:02:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
