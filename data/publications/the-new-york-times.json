@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-10T15:52:47.892Z",
+  "lastUpdated": "2026-07-11T08:44:44.799Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/11/nyregion/routine-jamie-hector.html",
+      "headline": "How ‘The Wire’ Star Jamie Hector Spends a Hot Day in Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/07/19/nyregion/19met-routine-jamie-hector-promo/19met-routine-jamie-hector-promo-articleLarge.jpg",
+      "timestamp": "2026-07-11T07:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

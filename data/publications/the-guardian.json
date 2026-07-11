@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-11T06:33:55.683Z",
+  "lastUpdated": "2026-07-11T08:44:44.772Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/jul/11/pressed-for-time-20-brilliant-books-you-can-read-in-a-day",
+      "headline": "Pressed for time? 20 brilliant books you can read in a day",
+      "image": "https://i.guim.co.uk/img/media/b7f280e8847563c89ac2d90abd6b1c998446ab87/384_506_4177_3342/master/4177.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=98e4cb8a0bdf6cd73a5886776c206ff7",
+      "timestamp": "2026-07-11T08:00:44.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
