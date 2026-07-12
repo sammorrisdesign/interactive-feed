@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-12T05:41:50.913Z",
+  "lastUpdated": "2026-07-12T10:06:28.954Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+      "headline": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
+      "image": "https://i.guim.co.uk/img/media/4a4caf0545e4648e7dadf3b3c14c059a402b80f3/0_385_2001_1600/master/2001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd1b518f1fd1a05fee94b8acb29f952b",
+      "timestamp": "2026-07-12T10:00:15.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/jul/12/christopher-nolan-odyssey-influence",
+      "headline": "‘More postmodern than ancient’: why the Odyssey is everywhere, from Oz to Westeros",
+      "image": "https://i.guim.co.uk/img/media/27b0ac3a26fdaf468b8c837deb94a714fb8a110c/1201_0_1742_1395/master/1742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b2f07a0c09b2d87140722e9e7de65315",
+      "timestamp": "2026-07-12T09:00:14.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/jul/12/fitness-influencers-linked-to-wellness-brand-helping-run-steroid-market-on-telegram",
+      "headline": "Fitness influencers linked to wellness brand helping run illegal steroid market on Telegram",
+      "image": "https://i.guim.co.uk/img/media/3082c93c5a013b4badfc64fef0994770a8af8b47/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fb3a2a627a7f3fc70cb0b79b8f0ebeb2",
+      "timestamp": "2026-07-12T09:00:13.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
