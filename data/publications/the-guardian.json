@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-12T10:06:28.954Z",
+  "lastUpdated": "2026-07-12T15:56:29.904Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/jul/13/mushroom-trip-a-mycologists-tour-of-the-tarkine",
+      "headline": "Mushroom trip: a mycologist’s tour of the Tarkine",
+      "image": "https://i.guim.co.uk/img/media/78896950d96e6e0cf6810caa1482f9fa3d8c5934/0_877_5476_4381/master/5476.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcd68b93a9162f69f2e2295c7f081913",
+      "timestamp": "2026-07-12T15:00:22.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
