@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-11T10:12:07.556Z",
+  "lastUpdated": "2026-07-13T11:37:20.725Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/13/nyregion/nyc-budgeting-affordability-torres.html",
+      "headline": "How a Family of 5 Lives on $46,000 a Year in Wakefield",
+      "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13met-affordingny-torres-promo/13met-affordingny-torres-swap-01-tgqj-articleLarge.jpg",
+      "timestamp": "2026-07-13T09:02:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/13/opinion/midterms-pollsters-pundits-scorecard.html",
+      "headline": "Who Will Win the Midterms? 6 Pollsters and Pundits Have Thoughts.",
+      "image": "https://static01.nyt.com/images/2026/07/13/multimedia/13midterm-scorecard-promo-fpqg/13midterm-scorecard-promo-fpqg-articleLarge.jpg",
+      "timestamp": "2026-07-13T09:02:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
