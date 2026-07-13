@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-13T11:37:20.725Z",
+  "lastUpdated": "2026-07-13T16:55:43.507Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/13/books/review/greek-text-movies.html",
+      "headline": "Can You Spot the Classic Greek Originals in These Film Adaptations?",
+      "image": "https://static01.nyt.com/images/2026/07/13/books/13TBR-Quiz-Greek/13TBR-Quiz-Greek-articleLarge.jpg",
+      "timestamp": "2026-07-13T15:05:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
