@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-13T16:55:43.479Z",
+  "lastUpdated": "2026-07-14T12:08:18.860Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/jul/14/human-hibernation-space-mars",
+      "headline": "Can humans hibernate their way to Mars? ",
+      "image": "https://i.guim.co.uk/img/media/7c70e6c9ebd345c6e772d2f6c715a16aa8078450/0_937_3245_2596/master/3245.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2576b66f81c9f6aaa550dee864cf3a3c",
+      "timestamp": "2026-07-14T11:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
