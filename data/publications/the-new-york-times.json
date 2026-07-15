@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-15T09:28:47.621Z",
+  "lastUpdated": "2026-07-15T14:46:21.308Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/15/weather/elida-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Elida",
+      "image": "https://static01.nyt.com/images/2026/07/14/weather/five-e-map-path-tracker-index/five-e-map-path-tracker-index-articleLarge-v9.jpg",
+      "timestamp": "2026-07-15T14:28:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
