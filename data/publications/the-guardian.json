@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-14T12:08:18.860Z",
+  "lastUpdated": "2026-07-15T11:10:20.177Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/energy-department-webpages-deleted-heatwave",
+      "headline": "Over 1,600 energy department webpages on utility bill savings removed as US temperatures soar",
+      "image": "https://i.guim.co.uk/img/media/8ac73078ee06a99c3ef9751133fdbe1c3997124e/250_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f4dd22786c8147d24f99a2445f9a0f6",
+      "timestamp": "2026-07-15T10:00:53.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/15/climate-activists-exxon-hired-hackers-trial",
+      "headline": "US trial could reveal who paid hackers to target Exxon climate critics: ‘on the edge of our seats’",
+      "image": "https://i.guim.co.uk/img/media/a6853e014f17e18f749b77dbc42d8a03ad788323/306_0_2340_1872/master/2340.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f0f3d58476e129860678cf101bb483d5",
+      "timestamp": "2026-07-15T10:00:53.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
