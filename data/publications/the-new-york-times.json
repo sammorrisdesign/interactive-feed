@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-15T05:13:48.641Z",
+  "lastUpdated": "2026-07-15T09:28:47.621Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/15/upshot/arizona-drug-overdose-deaths.html",
+      "headline": "The Epicenter of Drug Deaths in America Is Shifting West",
+      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/2026-04-23-drug-deaths-index/2026-04-23-drug-deaths-index-articleLarge-v2.png",
+      "timestamp": "2026-07-15T09:01:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
