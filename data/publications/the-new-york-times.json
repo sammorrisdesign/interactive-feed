@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-15T02:05:47.691Z",
+  "lastUpdated": "2026-07-15T05:13:48.641Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/14/sports/soccer/spain-france-world-cup-goal.html",
+      "headline": "See How Spain Pulled Apart France’s Defense",
+      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/2026-07-13-world-cup-semi-france-spain-index/2026-07-13-world-cup-semi-france-spain-index-articleLarge.jpg",
+      "timestamp": "2026-07-15T03:30:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/14/polls/senate-elections-voters-polls.html",
+      "headline": "What Is Driving Support for These Senate Candidates",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/15ea-senate-elections-voters-polls-promo/15ea-senate-elections-voters-polls-promo-articleLarge.png",
+      "timestamp": "2026-07-15T01:15:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
