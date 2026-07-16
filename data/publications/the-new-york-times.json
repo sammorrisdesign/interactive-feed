@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-16T14:11:07.137Z",
+  "lastUpdated": "2026-07-16T20:00:57.932Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/weather/canada-us-wildfire-smoke-air-quality-maps.html",
+      "headline": "Maps: Tracking Air Quality and Smoke From Wildfires in Canada and the U.S.",
+      "image": "https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-observed-smoke-embed-index/2026-07-15-observed-smoke-embed-index-articleLarge.jpg",
+      "timestamp": "2026-07-16T19:24:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
