@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-07-15T21:56:28.064Z",
+  "lastUpdated": "2026-07-16T10:25:10.854Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/16/realestate/philadelphia-home-prices-germantown-mount-airy.html",
+      "headline": "Joining Forces for Their First Family Home in Philadelphia",
+      "image": "https://static01.nyt.com/images/2026/07/16/multimedia/16re-Hunt-Philadelphia-01-qzmk/16re-Hunt-Philadelphia-01-qzmk-articleLarge.jpg",
+      "timestamp": "2026-07-16T09:03:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/16/us/politics/white-house-helipad.html",
+      "headline": "Trump Is Building a White House Helipad. He Sought No Approvals.",
+      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/2026-07-09-white-house-helipad-index/2026-07-09-white-house-helipad-index-articleLarge-v3.jpg",
+      "timestamp": "2026-07-16T09:03:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/16/travel/things-to-do-bruges.html",
+      "headline": "36 Hours in Bruges, Belgium",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/trav-hours-bruges-jzkh/trav-hours-bruges-jzkh-articleLarge-v2.jpg",
+      "timestamp": "2026-07-16T09:03:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/16/opinion/focus-group-young-trump-voters.html",
+      "headline": "‘It’s One Big Club, and We’re Just Not in It’: These 10 Gen Z Trump Voters Want to See More of a Focus on the Middle Class",
+      "image": "https://static01.nyt.com/images/2026/07/16/opinion/16focusgroup-promo/16focusgroup-promo-articleLarge.jpg",
+      "timestamp": "2026-07-16T09:02:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/16/climate/wildfire-researchers-south-carolina-house-burning.html",
+      "headline": "Visit the Lab Where They’re Fighting Fire With Fire, Literally",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/2026-home-fire-testing-index/2026-home-fire-testing-index-articleLarge.jpg",
+      "timestamp": "2026-07-16T09:01:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
