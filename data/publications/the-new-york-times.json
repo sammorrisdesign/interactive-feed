@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-16T10:25:10.854Z",
+  "lastUpdated": "2026-07-16T14:11:07.137Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-14-polls-2026.html",
+      "headline": "Florida 14th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-07-16T13:36:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
