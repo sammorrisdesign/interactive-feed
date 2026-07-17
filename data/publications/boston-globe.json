@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-07-08T15:28:19.551Z",
+  "lastUpdated": "2026-07-17T20:26:22.384Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/07/storylab/sports/red-sox-historically-bad-offense/red-sox-ineptitude/",
+      "headline": "The Red Sox have surged into contention despite some very real issues on offense. These stats tell the story.",
+      "image": "https://apps.bostonglobe.com/2026/07/storylab/sports/red-sox-historically-bad-offense/static/1bf059d1a5acb3040fc3083862945cf9/47498/K3WF4QIETREABB6PKPWNTUPBUA.jpg",
+      "timestamp": "2026-07-16T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/03/opinion/graphics/cost-cure/",
+      "headline": "The Cost Cure",
+      "image": "https://media.ceros.com/boston-globe-opinion/images/2026/03/19/174c0e08c391366b7dcceb688856adac/costcurehero-16-9.jpg",
+      "timestamp": "2026-02-09T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2025/06/outlaw-ocean/",
+      "headline": "Outlaw Ocean",
+      "image": "https://media.ceros.com/boston-globe-opinion/images/2025/06/16/35cb379d594fc0a21bd4ffa6f080c44c/oo-lp-share.png",
+      "timestamp": "2025-06-23T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2025/05/sugar-softener-illustration/",
+      "headline": "A small item of outrageous optimism",
+      "image": "https://media.ceros.com/boston-globe-opinion/images/2025/05/15/223cced8eaf6f8a1386ae443c1b074b8/sugarsaver-16-9.jpg",
+      "timestamp": "2025-05-22T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/graphics/2025/03/ukraine-scientists/",
+      "headline": "A brief history of Ukrainian scientists in portraits",
+      "image": "https://media.ceros.com/boston-globe-opinion/images/2025/03/21/5a88b6e98603856a609eb66c7d856d53/ukrainescientists-16-9-3.jpg",
+      "timestamp": "2025-03-21T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/opinion/ideas/graphics/2024/10/election-2024/",
+      "headline": "The election issue",
+      "image": "https://media-s3-us-east-1.ceros.com/boston-globe-opinion/images/2024/10/03/d19b29f53c269ee3a57dc99076a935c5/1006election-scharfenberg-16-9.jpg",
+      "timestamp": "2024-10-05T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "blueSkyHandle": "bostonglobe.bsky.social",
