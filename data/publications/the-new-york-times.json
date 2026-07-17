@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-17T09:06:44.072Z",
+  "lastUpdated": "2026-07-17T16:12:18.124Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/17/world/earthquake-mexico-guatemala.html",
+      "headline": "Map: 7.3-Magnitude Earthquake Hits Off Mexico's Coast",
+      "image": "https://static01.nyt.com/images/2026/07/17/world/17wea-quake-tracker-north-pacific-ocean-nyt8n2ha-index/17wea-quake-tracker-north-pacific-ocean-nyt8n2ha-index-articleLarge-v20.jpg",
+      "timestamp": "2026-07-17T15:14:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
