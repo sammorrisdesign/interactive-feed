@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-17T17:36:48.424Z",
+  "lastUpdated": "2026-07-17T22:13:47.488Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/17/world/americas/venezuela-rescue-workers.html",
+      "headline": "If Not Them, Who? Why Volunteers Rushed Into the Quake Zone.",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/00int-venezuela-quakes-rescue01a-photo-mvgz/00int-venezuela-quakes-rescue01a-photo-mvgz-articleLarge.jpg",
+      "timestamp": "2026-07-17T21:39:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
