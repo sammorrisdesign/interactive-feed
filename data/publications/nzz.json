@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-16T15:54:41.947Z",
+  "lastUpdated": "2026-07-18T03:52:33.379Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/taeglicher-beschuss-kaum-wasser-und-die-angst-vor-einem-massaker-die-bevoelkerung-von-al-obeid-wird-erneut-belagert-ld.10015610",
+      "headline": "Täglicher Beschuss, kaum Wasser und die Angst vor einem Massaker: Die Bevölkerung von al-Obeid wird erneut belagert",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/17/29b6d09b-2834-43ce-a8a9-4624d5e3589b.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3021,1699,x0,y398&wmark=nzz",
+      "timestamp": "2026-07-18T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/regiert-demnaechst-ein-linksbuendnis-in-berlin-die-neuesten-umfragen-zur-wahl-ld.10004357",
+      "headline": "Regiert demnächst ein Linksbündnis in Berlin? Die neuesten Umfragen zur Wahl",
+      "image": "https://img-msp-prod.nzz.ch/2026/04/24/aebd27a5-18a2-4eee-a263-c5364f19de06.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y226&wmark=nzz",
+      "timestamp": "2026-07-18T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
