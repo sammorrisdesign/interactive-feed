@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-19T14:37:48.487Z",
+  "lastUpdated": "2026-07-19T15:54:29.278Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/19/world/americas/18wea-quake-tracker-peru-nyt5ifau.html",
+      "headline": "Map: 5.5-Magnitude Earthquake Shakes Peru",
+      "image": "https://static01.nyt.com/images/2026/07/19/world/18wea-quake-tracker-peru-nyt5ifau-index/18wea-quake-tracker-peru-nyt5ifau-index-articleLarge-v20.jpg",
+      "timestamp": "2026-07-19T15:45:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
