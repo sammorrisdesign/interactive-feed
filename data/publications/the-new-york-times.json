@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-19T16:54:47.071Z",
+  "lastUpdated": "2026-07-20T05:03:40.601Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/20/sports/soccer/spain-argentina-world-cup-final-goal.html",
+      "headline": "See How Spain Finally Broke Through Argentina’s Defense in Extra Time",
+      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/2026-07-17-world-cup-final-spain-argentina-index/2026-07-17-world-cup-final-spain-argentina-index-articleLarge-v2.jpg",
+      "timestamp": "2026-07-20T04:57:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/20/world/asia/hong-kong-apartment-fire-families.html",
+      "headline": "The Things They Left Behind",
+      "image": "https://static01.nyt.com/images/2026/07/17/multimedia/2026-07-06-hongkong-fire-photos-index/2026-07-06-hongkong-fire-photos-index-articleLarge.jpg",
+      "timestamp": "2026-07-20T04:03:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
