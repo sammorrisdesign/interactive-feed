@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-20T13:24:54.664Z",
+  "lastUpdated": "2026-07-20T15:27:38.181Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/20/weather/fausto-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Fausto",
+      "image": "https://static01.nyt.com/images/2026/07/19/weather/six-e-map-path-tracker-index/six-e-map-path-tracker-index-articleLarge-v24.jpg",
+      "timestamp": "2026-07-20T14:45:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-20T11:21:23.297Z",
+  "lastUpdated": "2026-07-20T15:27:38.149Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/jul/21/764-network-gamification-of-harm-the-com-cybercrime-ntwnfb",
+      "headline": "Inside the horrifying online network where children extort others to commit violence and self-harm",
+      "image": "https://i.guim.co.uk/img/media/78e6b7befe9297a030abc7a16cd6253907f19cdb/153_395_2742_2193/master/2742.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7704e9707c3887aaad8a0aed6065935",
+      "timestamp": "2026-07-20T15:00:45.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
