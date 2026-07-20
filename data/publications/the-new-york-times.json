@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-20T15:27:38.181Z",
+  "lastUpdated": "2026-07-20T16:56:42.113Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/20/us/letter-motion-in-response-to-government-letter-re-additional-subpoenas.html",
+      "headline": "Read The Times’s Motion in Response to the Trump Administration Subpoenas",
+      "image": "https://static01.nyt.com/images/2026/07/20/doc-letter-motion-in-response-promo/doc-letter-motion-in-response-promo-articleLarge.png",
+      "timestamp": "2026-07-20T16:06:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
