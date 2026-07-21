@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-20T16:56:42.113Z",
+  "lastUpdated": "2026-07-21T16:21:04.180Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/21/us/elections/results-arizona-mine-inspector-primary.html",
+      "headline": "Arizona Mine Inspector Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/eln-PRE-2026-07-21-state-az-d4e606/eln-PRE-2026-07-21-state-az-d4e606-articleLarge.jpg",
+      "timestamp": "2026-07-21T14:56:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/21/us/elections/results-arizona-corporation-commissioner-primary.html",
+      "headline": "Arizona Corporation Commissioner Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/eln-PRE-2026-07-21-state-az-2b937e/eln-PRE-2026-07-21-state-az-2b937e-articleLarge.jpg",
+      "timestamp": "2026-07-21T14:56:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/21/us/elections/results-arizona-us-house-6-primary.html",
+      "headline": "Arizona Sixth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/eln-PRE-2026-07-21-race-az-us-h-6-e5e66b/eln-PRE-2026-07-21-race-az-us-h-6-e5e66b-articleLarge.jpg",
+      "timestamp": "2026-07-21T14:50:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/21/us/elections/results-arizona-us-house-2-primary.html",
+      "headline": "Arizona Second Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/eln-PRE-2026-07-21-race-az-us-h-2-b99f06/eln-PRE-2026-07-21-race-az-us-h-2-b99f06-articleLarge.jpg",
+      "timestamp": "2026-07-21T14:50:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
