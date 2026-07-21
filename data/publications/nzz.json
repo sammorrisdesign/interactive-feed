@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-18T03:52:33.379Z",
+  "lastUpdated": "2026-07-21T05:35:45.263Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/industriemonitor-juli-chemie-maschinenbau-ld.10016225",
+      "headline": "Chemie legt überraschend zu, Maschinenbau bricht ein – Deutschlands Gewinner und Verlierer des Monats",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/20/362a7a69-2118-4a98-bc59-cab580180288.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1637,921,x82,y215&wmark=nzz",
+      "timestamp": "2026-07-21T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

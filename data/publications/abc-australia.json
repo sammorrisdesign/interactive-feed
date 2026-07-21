@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-05T19:12:44.504Z",
+  "lastUpdated": "2026-07-21T05:35:44.842Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-07-21/myanmar-scam-compounds-exponential-growth/106603324",
+      "headline": "The rise of scam centres 2.0 in Myanmar's war zone",
+      "image": "https://live-production.wcms.abc-cdn.net.au/1a1f8a8d6214223970fb5cea57b47956?impolicy=wcms_crop_resize&cropH=1926&cropW=2568&xPos=0&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
