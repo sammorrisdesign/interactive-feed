@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-21T16:21:04.180Z",
+  "lastUpdated": "2026-07-21T20:43:43.273Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/21/nyregion/rikers-plan.html",
+      "headline": "Here is the official plan to fix issues at Rikers Island",
+      "image": "https://static01.nyt.com/images/2026/07/21/doc-rikers-plan-promo/doc-rikers-plan-promo-articleLarge.png",
+      "timestamp": "2026-07-21T19:45:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
