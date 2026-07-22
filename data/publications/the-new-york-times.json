@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-22T09:57:01.261Z",
+  "lastUpdated": "2026-07-22T18:39:50.238Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/22/us/earthquake-tracker-nevada.html",
+      "headline": "Map: 3.5-Magnitude Earthquake Shakes Western Nevada",
+      "image": "https://static01.nyt.com/images/2026/07/22/world/22wea-quake-tracker-nevada-nyti4xl3-index/22wea-quake-tracker-nevada-nyti4xl3-index-articleLarge-v18.jpg",
+      "timestamp": "2026-07-22T17:48:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/ohio-us-house-10-polls-2026.html",
+      "headline": "Ohio 10th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-07-22T17:37:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
