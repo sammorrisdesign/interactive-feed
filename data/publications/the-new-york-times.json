@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-21T20:43:43.273Z",
+  "lastUpdated": "2026-07-22T09:57:01.261Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/22/opinion/michigan-senate-primary-election.html",
+      "headline": "Who Should Represent Michigan?",
+      "image": "https://static01.nyt.com/images/2026/07/22/opinion/22thechoice-mi-dem-promo-still/22thechoice-mi-dem-promo-still-articleLarge.jpg",
+      "timestamp": "2026-07-22T09:02:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
