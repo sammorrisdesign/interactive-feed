@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-07-22T18:39:50.238Z",
+  "lastUpdated": "2026-07-23T09:07:17.490Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/23/realestate/astoria-queens-home-sales-prices.html",
+      "headline": "She Was ‘Super Happy’ Living in Queens. But One Thing Was Missing.",
+      "image": "https://static01.nyt.com/images/2026/07/23/multimedia/23re-Hunt-Hacker-01-khtm/23re-Hunt-Hacker-01-khtm-articleLarge.jpg",
+      "timestamp": "2026-07-23T09:05:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/23/us/politics/president-trump-profits.html",
+      "headline": "How Trump Is Getting Richer in Office",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-10-trump-enrichment-index/2026-07-10-trump-enrichment-index-articleLarge-v3.png",
+      "timestamp": "2026-07-23T09:04:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/23/technology/ai-agents-office-jobs.html",
+      "headline": "Could A.I. Do Your Job? We Put Agents to the Test.",
+      "image": "https://static01.nyt.com/images/2026/07/20/multimedia/2026-05-19-ai-agents-jobs-index/2026-05-19-ai-agents-jobs-index-articleLarge-v2.png",
+      "timestamp": "2026-07-23T09:03:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/23/travel/things-to-do-oregon-coast.html",
+      "headline": "36 Hours on the Oregon Coast",
+      "image": "https://static01.nyt.com/images/2026/07/21/multimedia/trav-hours-oregon-mglv/trav-hours-oregon-mglv-articleLarge-v6.jpg",
+      "timestamp": "2026-07-23T09:02:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
