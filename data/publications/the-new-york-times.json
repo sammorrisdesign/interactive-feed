@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-23T09:07:17.490Z",
+  "lastUpdated": "2026-07-23T15:09:03.164Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/23/us/quake-tracker-texas.html",
+      "headline": "Map: 5.0-Magnitude Earthquake Shakes the Texas Panhandle",
+      "image": "https://static01.nyt.com/images/2026/07/23/world/23wea-quake-tracker-texas-nyt3mkc-index/23wea-quake-tracker-texas-nyt3mkc-index-articleLarge-v91.jpg",
+      "timestamp": "2026-07-23T13:16:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

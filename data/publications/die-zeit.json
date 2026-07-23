@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-15T14:46:21.258Z",
+  "lastUpdated": "2026-07-23T15:09:02.611Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/geld/2026-05/rassismus-wohnungsmarkt-diskriminierung-wohnraum-wohnungsnot",
+      "headline": "Mit welchen Nachnamen man leichter eine Wohnung findet",
+      "image": "https://img.zeit.de/geld/2026-05/rassismus-wohnungsmarkt-diskriminierung-wohnraum-wohnungsnot-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/reformrechner-einkommenssteuer-sozialversicherunng-einkommen-brutto",
+      "headline": "Weniger oder mehr? Das ist Ihr neues Netto",
+      "image": "https://img.zeit.de/politik/2026-07/reformrechner-einkommenssteuer-sozialversicherunng/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/ausland/2026-07/gazastreifen-israel-grenze-erdwall-westjordanland-satellitenbilder",
+      "headline": "Satellitenbilder zeigen: Ein Erdwall, 23 Kilometer lang",
+      "image": "https://img.zeit.de/politik/ausland/2026-06/israel-strategie-libanon-westjordanland-gaza-bild/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
