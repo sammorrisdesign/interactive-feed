@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-23T15:09:03.164Z",
+  "lastUpdated": "2026-07-23T18:11:06.731Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/idaho-us-house-1-polls-2026.html",
+      "headline": "Idaho 1st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-07-23T17:04:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
