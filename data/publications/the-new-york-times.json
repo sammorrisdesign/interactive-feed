@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-23T18:11:06.731Z",
+  "lastUpdated": "2026-07-24T09:43:13.201Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/24/magazine/movie-yelling-cheers-hodgman-quiz.html",
+      "headline": "Is It OK to Shout at the Movies?",
+      "image": "https://static01.nyt.com/images/2026/07/26/magazine/26mag-hodgman-moviegoer/26mag-hodgman-moviegoer-articleLarge.jpg",
+      "timestamp": "2026-07-24T09:05:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/24/world/asia/india-protest-cockroach-party-timeline.html",
+      "headline": "Timeline: How a College Test Scandal Grew Into a Youth Movement in India",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/2026-07-24-india-protests-timeline-index/2026-07-24-india-protests-timeline-index-articleLarge-v2.jpg",
+      "timestamp": "2026-07-24T08:47:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
