@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-24T09:43:17.690Z",
+  "lastUpdated": "2026-07-24T15:13:34.738Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/24/weather/noul-path-tracker.html",
+      "headline": "Tracking Tropical Storm Noul",
+      "image": "https://static01.nyt.com/images/2026/07/23/weather/eleven-map-path-tracker-index/eleven-map-path-tracker-index-articleLarge-v6.jpg",
+      "timestamp": "2026-07-24T14:22:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -347,6 +356,13 @@
       "headline": "Tracking the money raised and spent in the U.S. Senate race between James Talarico and Ken Paxton",
       "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/07/paxton-talarico-Artboard-1.png?quality=100&w=1200&h=630&ssl=1",
       "timestamp": "2026-07-20T20:00:00.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-fastest-growing-cities/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31157778/1/rawImage.jpg",
+      "timestamp": "2026-07-20T16:21:20.000Z"
     },
     {
       "publication": "The New York Times",
