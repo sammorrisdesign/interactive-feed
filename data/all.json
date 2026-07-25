@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T10:10:10.728Z",
+  "lastUpdated": "2026-07-25T16:01:20.410Z",
   "articles": [
     {
       "publication": "The Guardian",
@@ -57,6 +57,14 @@
       "headline": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
       "image": "https://i.guim.co.uk/img/media/8eb4ce904cc3b480269aa6bbf8a1c555dcac2468/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=832165b8c52b83ae3ec1df85a5d00d4b",
       "timestamp": "2026-07-25T05:00:35.000Z"
+    },
+    {
+      "publication": "The Pudding",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/2026/07/essential-words",
+      "headline": "How the Words We Teach English Language Learners Changed",
+      "image": "https://pudding.cool/2026/07/essential-words/assets/social-facebook.jpg",
+      "timestamp": "2026-07-25T04:00:00.000Z"
     },
     {
       "publication": "NZZ",
