@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-25T16:01:20.410Z",
+  "lastUpdated": "2026-07-25T17:30:36.022Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/25/nyregion/nyc-usa-250-history-tour-manhattan.html",
+      "headline": "The New York of the Past Is Still Visible Today. You Just Have to Look.",
+      "image": "https://static01.nyt.com/images/2026/07/24/nyregion/met-nyc-250-still/met-nyc-250-still-articleLarge-v3.jpg",
+      "timestamp": "2026-07-25T17:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
