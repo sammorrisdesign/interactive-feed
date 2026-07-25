@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-25T00:07:27.508Z",
+  "lastUpdated": "2026-07-25T03:47:06.935Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-russische-desinformation-die-kommenden-wahlen-in-deutschland-ins-visier-nimmt-ld.10016563",
+      "headline": "Wie russische Desinformation die kommenden Wahlen in Deutschland ins Visier nimmt",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/24/e33b7adf-a42c-4eb1-87bb-bd586fdc3952.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5169,2908,x855,y1504&wmark=nzz",
+      "timestamp": "2026-07-25T03:30:00.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
