@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-25T00:07:26.378Z",
+  "lastUpdated": "2026-07-25T06:14:30.931Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/25/view-from-andy-burnham-hometown-warrington-culcheth",
+      "headline": "I grew up near Andy Burnham. This is what shaped our new PM",
+      "image": "https://i.guim.co.uk/img/media/c735704245107448c532392e0c373f0f45ee8312/1045_389_6046_4837/master/6046.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2ca2802df84f663f188605089bc79459",
+      "timestamp": "2026-07-25T05:00:37.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/jul/25/long-lost-family-reunited-chatgpt-artificial-intelligence-ai",
+      "headline": "‘I thought, I’ve tried everything else, why not give AI a shot?’: the long-lost family reunited by ChatGPT",
+      "image": "https://i.guim.co.uk/img/media/8eb4ce904cc3b480269aa6bbf8a1c555dcac2468/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=832165b8c52b83ae3ec1df85a5d00d4b",
+      "timestamp": "2026-07-25T05:00:35.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
