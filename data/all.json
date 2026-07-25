@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-25T08:29:39.014Z",
+  "lastUpdated": "2026-07-25T10:10:10.728Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/pentagon-iran-war-casualties-cover-up",
+      "headline": "‘Shameful’: Pentagon accused of cover-up over US military casualties in Iran war",
+      "image": "https://i.guim.co.uk/img/media/64239acab642df03b098daf3f9802c483e058b55/69_607_2244_1794/master/2244.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=abfec5109522198671c5761ec4e346d9",
+      "timestamp": "2026-07-25T10:00:41.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/25/flock-surveillance-cameras",
+      "headline": "Inside the growing vigilante movement to knock out Flock surveillance cameras",
+      "image": "https://i.guim.co.uk/img/media/a0e891a7ff70313f89b236d20509fdb2404a049b/0_495_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8ce6eb2b1ce8c618bf027c75fec00f7c",
+      "timestamp": "2026-07-25T10:00:39.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/news/philadelphia/inq2/citywide-quest-43-islands-delaware-schuylkill-rivers-geoguesser-game-20260725.html",
+      "headline": "Citywide Quest: Where were these photos of Philly’s islands taken?",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/YITMGWUAD5BVBBUF6QNK5J2VUA.png",
+      "timestamp": "2026-07-25T09:01:01.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -41,6 +65,14 @@
       "headline": "Wie russische Desinformation die kommenden Wahlen in Deutschland ins Visier nimmt",
       "image": "https://img-msp-prod.nzz.ch/2026/07/24/e33b7adf-a42c-4eb1-87bb-bd586fdc3952.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5169,2908,x855,y1504&wmark=nzz",
       "timestamp": "2026-07-25T03:30:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/07/25/trumps-world-cup-week-ends-foreign-policy-turbulence/",
+      "headline": "Trump’s week started at the World Cup and veered into world tensions",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/Z6QUBLMUVFEUFCLMYW77KAPFI4.jpg&w=300",
+      "timestamp": "2026-07-25T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",
