@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-25T23:57:45.398Z",
+  "lastUpdated": "2026-07-26T05:57:59.549Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/jul/26/trump-undermine-us-midterms",
+      "headline": "How Trump could undermine the midterms",
+      "image": "https://i.guim.co.uk/img/media/226eb32a44982b86b42c8c5f8017d29be76024e2/0_700_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df086dc3eb8998dfc50d363aa21cc623",
+      "timestamp": "2026-07-26T05:00:04.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-angriff-in-jemen-der-zur-neuen-oelblockade-fuehrte-wer-bombardierte-den-flughafen-von-sanaa-ld.10016312",
+      "headline": "Der Angriff in Jemen, der zur neuen Ölblockade führte: Wer bombardierte den Flughafen von Sanaa?",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/24/c9525707-19ef-43d6-907a-298eb9f5fe9d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-07-26T03:30:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

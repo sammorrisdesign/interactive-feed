@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-25T03:47:06.120Z",
+  "lastUpdated": "2026-07-26T05:57:57.657Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-angriff-in-jemen-der-zur-neuen-oelblockade-fuehrte-wer-bombardierte-den-flughafen-von-sanaa-ld.10016312",
+      "headline": "Der Angriff in Jemen, der zur neuen Ölblockade führte: Wer bombardierte den Flughafen von Sanaa?",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/24/c9525707-19ef-43d6-907a-298eb9f5fe9d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-07-26T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
