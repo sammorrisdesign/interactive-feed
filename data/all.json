@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-26T05:57:59.549Z",
+  "lastUpdated": "2026-07-26T10:19:37.113Z",
   "articles": [
     {
       "publication": "The Guardian",
@@ -16,6 +16,22 @@
       "headline": "Der Angriff in Jemen, der zur neuen Ölblockade führte: Wer bombardierte den Flughafen von Sanaa?",
       "image": "https://img-msp-prod.nzz.ch/2026/07/24/c9525707-19ef-43d6-907a-298eb9f5fe9d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
       "timestamp": "2026-07-26T03:30:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2026/07/26/why-even-some-trump-supporters-are-souring-his-handling-economy/",
+      "headline": "Why even some Trump supporters are souring on his handling of the economy",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JHHXQGNN4FMAVV25NLK2KBLC2M.jpg&w=300",
+      "timestamp": "2026-07-26T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/religion/interactive/2026/07/26/sacred-liberty-exhibition-explores-faith-freedom-america/",
+      "headline": "‘Sacred Liberty’ exhibition explores faith and freedom in America",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/G3V65B7RJ3MQ244LTY6IQYG4XI.jpg&w=300",
+      "timestamp": "2026-07-26T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
