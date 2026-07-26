@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-21T05:35:44.842Z",
+  "lastUpdated": "2026-07-26T20:06:41.490Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-07-27/what-to-know-about-ausalert-emergency-warning-test/106919574",
+      "headline": "Get ready for the AusAlert emergency warning test",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d7cc67b5b30e467a5946c96380c2e248?impolicy=wcms_crop_resize&cropH=1400&cropW=1867&xPos=117&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
