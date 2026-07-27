@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-26T15:59:10.491Z",
+  "lastUpdated": "2026-07-27T12:17:55.457Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/27/nyregion/nyc-budgeting-affordability-green.html",
+      "headline": "How a Social Worker Lives on $40,000 a Year in Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27met-affording-green-promo/27met-affording-green1-01-zvgp-articleLarge-v2.jpg",
+      "timestamp": "2026-07-27T09:06:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/27/world/europe/ukraine-childrens-books.html",
+      "headline": "‘Why Isn’t Dad at Home?’: The Books Helping Ukrainian Children Process the War",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/2026-04-24-ukr-childrens-books-index/2026-04-24-ukr-childrens-books-index-articleLarge-v3.jpg",
+      "timestamp": "2026-07-27T09:01:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

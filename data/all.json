@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-27T08:53:47.925Z",
+  "lastUpdated": "2026-07-27T12:17:57.812Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/27/nyregion/nyc-budgeting-affordability-green.html",
+      "headline": "How a Social Worker Lives on $40,000 a Year in Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/27met-affording-green-promo/27met-affording-green1-01-zvgp-articleLarge-v2.jpg",
+      "timestamp": "2026-07-27T09:06:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/27/world/europe/ukraine-childrens-books.html",
+      "headline": "‘Why Isn’t Dad at Home?’: The Books Helping Ukrainian Children Process the War",
+      "image": "https://static01.nyt.com/images/2026/07/15/multimedia/2026-04-24-ukr-childrens-books-index/2026-04-24-ukr-childrens-books-index-articleLarge-v3.jpg",
+      "timestamp": "2026-07-27T09:01:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-july-27-2026",
@@ -13,6 +31,14 @@
       "headline": "The Week in Pictures: Cockroach Janta Party, ASEAN Championship, Spain wildfires",
       "image": "https://cassette.sphdigital.com.sg/image/straitstimes/caea03277c8d365432f96802a5d3ac23fcfaebb881a37fd9221bfc027baefb82",
       "timestamp": "2026-07-27T03:34:34.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/07/27/small-farmers-goats-are-becoming-big-business/",
+      "headline": "For small farmers, goats are becoming big business",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/IAQSNZ5ZPICPROIBJ66GJRPSCM.jpg&w=300",
+      "timestamp": "2026-07-27T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
