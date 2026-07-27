@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-27T15:23:11.827Z",
+  "lastUpdated": "2026-07-27T17:16:56.306Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/27/us/bryan-kohberger-statement.html",
+      "headline": "Read Bryan Kohberger’s Statement About Abandoning His Guilty Plea",
+      "image": "https://static01.nyt.com/images/2026/07/27/doc-bryan-kohberger-statement-promo/doc-bryan-kohberger-statement-promo-articleLarge.png",
+      "timestamp": "2026-07-27T16:50:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
