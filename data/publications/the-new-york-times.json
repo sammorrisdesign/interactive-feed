@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-27T17:16:56.306Z",
+  "lastUpdated": "2026-07-28T11:34:37.734Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/28/world/quake-tracker-japan.html",
+      "headline": "Map: 6.8-Magnitude Earthquake Shakes Japan",
+      "image": "https://static01.nyt.com/images/2026/07/28/world/quake-tracker-japan-index/quake-tracker-japan-index-articleLarge.jpg",
+      "timestamp": "2026-07-28T09:37:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
