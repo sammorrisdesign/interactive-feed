@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-28T16:05:17.336Z",
+  "lastUpdated": "2026-07-28T17:52:09.980Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/28/world/europe/france-spain-wildfires-2026-fire-season.html",
+      "headline": "The Fires in France and Spain Are Breaking Modern Records",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/2026-07-27-eu-fire-records-index/2026-07-27-eu-fire-records-index-articleLarge-v3.png",
+      "timestamp": "2026-07-28T17:02:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
