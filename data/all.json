@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T16:18:48.465Z",
+  "lastUpdated": "2026-07-29T19:10:06.481Z",
   "articles": [
     {
       "publication": "The New York Times",
@@ -175789,6 +175789,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-07-30/tracking-inflation-see-how-the-price-of-everything-has-changed/106967878",
+      "headline": "See how the price of everything has changed with inflation",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7408cadd25388f48bec217a2cff01cba?impolicy=wcms_crop_resize&cropH=1026&cropW=1368&xPos=162&yPos=126&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

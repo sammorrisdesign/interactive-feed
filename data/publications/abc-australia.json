@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-26T20:06:41.490Z",
+  "lastUpdated": "2026-07-29T19:09:58.899Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-07-30/tracking-inflation-see-how-the-price-of-everything-has-changed/106967878",
+      "headline": "See how the price of everything has changed with inflation",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7408cadd25388f48bec217a2cff01cba?impolicy=wcms_crop_resize&cropH=1026&cropW=1368&xPos=162&yPos=126&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
