@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-07-29T04:17:47.706Z",
+  "lastUpdated": "2026-07-29T10:06:09.495Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/29/world/middleeast/iran-war-cease-fire-trump-timeline.html",
+      "headline": "The Whiplash War",
+      "image": "https://static01.nyt.com/images/2026/07/24/multimedia/2026-06-30-empty-words-index/2026-06-30-empty-words-index-articleLarge-v5.png",
+      "timestamp": "2026-07-29T09:08:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/07/29/e-bike-injuries-child-kids-safety-health-transit/90956259007/",
+      "headline": "What's driving the rise in e-bike injuries among kids and teens?",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/28/USAT/91074101007-ebike-accident-topper.png",
+      "timestamp": "2026-07-29T09:05:33.728Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/29/technology/ai-chips-data-center-boom.html",
+      "headline": "The Impending, Inescapable Deluge of A.I.",
+      "image": "https://static01.nyt.com/images/2026/07/28/multimedia/2026-05-11-data-center-growth-index/2026-05-11-data-center-growth-index-articleLarge.jpg",
+      "timestamp": "2026-07-29T09:02:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/29/books/bookstores-midtown-manhattan-nyc.html",
+      "headline": "How to Spend a Bookish Afternoon in Midtown Manhattan",
+      "image": "https://static01.nyt.com/images/2026/07/14/multimedia/00tbr-midtown-drama-fvgb/00tbr-midtown-drama-fvgb-articleLarge.jpg",
+      "timestamp": "2026-07-29T09:01:34.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-july-29-2026",
+      "headline": "Today in Pictures, July 29, 2026",
+      "timestamp": "2026-07-29T07:28:27.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/mapping-the-7-1-magnitude-quake-in-japan",
+      "headline": "Mapping the 7.1-magnitude quake in Japan",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/07/earthquake-tracker-japan/earthquake-tracker-japan.jpg",
+      "timestamp": "2026-07-29T06:42:21.000Z"
+    },
     {
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/waldbraende-frankreich-115000-hektar-wald-verbrannt-173297874063",
