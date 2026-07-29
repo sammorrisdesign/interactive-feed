@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-29T10:06:09.495Z",
+  "lastUpdated": "2026-07-29T12:27:57.955Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/jul/29/aipac-j-street-zionism",
+      "headline": "Aipac’s brand has become toxic. Can its ‘pro-Israel, pro-peace’ rival J Street move in?",
+      "image": "https://i.guim.co.uk/img/media/a6f13b2bc03e7fd167c640c7239f69df424273d7/1_0_3303_2643/master/3303.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=451bfcc7dcf6fffafd81ef21fb3099e5",
+      "timestamp": "2026-07-29T11:00:31.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
