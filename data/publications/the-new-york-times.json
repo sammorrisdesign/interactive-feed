@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-29T10:06:01.695Z",
+  "lastUpdated": "2026-07-29T16:18:47.096Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/29/world/quake-tracker-philippines.html",
+      "headline": "Maps: Series of Earthquakes Shake the Philippines",
+      "image": "https://static01.nyt.com/images/2026/07/29/world/29wea-quake-tracker-philippines-nyt41el9-v2-index/29wea-quake-tracker-philippines-nyt41el9-v2-index-articleLarge-v9.jpg",
+      "timestamp": "2026-07-29T15:09:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
