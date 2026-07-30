@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-07-30T14:40:36.913Z",
+  "lastUpdated": "2026-07-30T16:24:10.438Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lets-save-water/ng-interactive/2026/jul/30/why-the-uk-is-running-out-of-water",
+      "headline": "It rains half the year. So how can we be running out of water?",
+      "image": "https://i.guim.co.uk/img/media/f091d95cf7a4aa2c84290759dc4bba19f349d2fa/264_0_4583_3669/master/4583.jpg?width=700&quality=85&auto=format&fit=max&s=6ed34c3e975123c7c34547dfffccdafd",
+      "timestamp": "2026-07-30T15:35:57.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/jul/31/voluntary-assisted-dying-care-navigators-victoria",
+      "headline": "Voluntary assisted dying care navigators help Victoria’s end-of-life patients chart a course for choice",
+      "image": "https://i.guim.co.uk/img/media/f75b54c20c58f0013ade5b91840fd53778f5cb73/0_1872_5464_4369/master/5464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05e9af3815f6bf93329cb05fe623fb59",
+      "timestamp": "2026-07-30T15:00:19.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
