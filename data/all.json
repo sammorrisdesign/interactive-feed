@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-29T21:28:21.788Z",
+  "lastUpdated": "2026-07-30T02:03:11.783Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/29/us/politics/trump-east-wing-ballroom-legal.html",
+      "headline": "Trump’s Ballroom Is Racing Ahead. Its Legality Is Still Being Contested.",
+      "image": "https://static01.nyt.com/images/2026/07/29/multimedia/2026-07-22-ballroom-construction-lawsuits-index/2026-07-22-ballroom-construction-lawsuits-index-articleLarge.jpg",
+      "timestamp": "2026-07-30T01:28:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
