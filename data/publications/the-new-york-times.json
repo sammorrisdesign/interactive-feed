@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-30T02:03:10.731Z",
+  "lastUpdated": "2026-07-30T10:21:54.616Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/30/realestate/miami-florida-homes-townhouses-prices-sale.html",
+      "headline": "They Wanted a House in Miami for $800,000 — Attached or Otherwise",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30re-hunt-miami-promo-1/30re-hunt-miami-promo-1-articleLarge.jpg",
+      "timestamp": "2026-07-30T09:03:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/30/travel/things-to-do-sifnos.html",
+      "headline": "36 Hours on Sifnos, Greece",
+      "image": "https://static01.nyt.com/images/2026/07/30/multimedia/30trav-things-to-do-sifnos-mtwc/30trav-things-to-do-sifnos-mtwc-articleLarge-v5.jpg",
+      "timestamp": "2026-07-30T09:02:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
