@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "timestamp": "2026-07-30T12:10:51.542Z",
+    "publication": "Bloomberg",
+    "error": "Error fetching XML. 404 error message reported"
+  },
+  {
+    "timestamp": "2026-07-30T12:11:03.737Z",
+    "publication": "ESPN",
+    "error": "Error fetching RSS. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-07-30T12:11:03.754Z",
+    "publication": "ESPN",
+    "error": "Error fetching Sitemap. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-07-30T12:11:04.617Z",
+    "publication": "Houston Chronicle",
+    "error": "Error: fetch failed\n    at XRPCError.from (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/types.js:174:16)\n    at BskyAgent.call (/home/runner/work/interactive-feed/interactive-feed/node_modules/@atproto/xrpc/dist/xrpc-client.js:89:37)\n    at async Object.BlueSky (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:305:24)\n    at async Object.fetch (/home/runner/work/interactive-feed/interactive-feed/src/fetchers.js:354:32)\n    at async pullRecentFeeds (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:23:31)\n    at async Object.check (/home/runner/work/interactive-feed/interactive-feed/src/feeds.js:108:18)\n    at async /home/runner/work/interactive-feed/interactive-feed/app.js:6:3"
+  },
+  {
+    "timestamp": "2026-07-30T12:11:27.199Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-07-30T12:11:32.748Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
+  }
+]
