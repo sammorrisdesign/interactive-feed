@@ -20,5 +20,4 @@ The test command checks the selected feeds without posting to Bluesky. The audit
 - Keep changes focused on one publication or behavior.
 - Explain the source you added or changed.
 - Include the verification commands you ran.
-- Do not commit API keys, credentials, or a decrypted `secrets.json` file.
-- Update `README.md` when the documented publication list or behavior changes.
+- Do not commit API keys, credentials, or a decrypted `secrets.json` file. Although mention if keys are needed.
