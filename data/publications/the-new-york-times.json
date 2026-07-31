@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-31T17:26:00.952Z",
+  "lastUpdated": "2026-07-31T18:51:56.685Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/30/style/best-clothes-stores-nyc.html",
+      "headline": "The Best Clothing Stores in New York",
+      "image": "https://static01.nyt.com/images/2026/07/30/fashion/best-stores-nyc-promo/best-stores-nyc-promo-articleLarge-v2.png",
+      "timestamp": "2026-07-31T18:06:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
