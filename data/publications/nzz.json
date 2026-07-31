@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-31T05:50:48.436Z",
+  "lastUpdated": "2026-07-31T11:27:09.082Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/was-das-auge-nicht-sieht-so-blicken-satelliten-durch-den-brandrauch-ld.10017489",
+      "headline": "Was das Auge nicht sieht: Dank Infrarot blicken Satelliten durch den Brandrauch",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/31/83ec6076-995f-40d8-966c-1c1d61dc1789.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-07-31T09:55:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

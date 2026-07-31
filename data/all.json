@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-07-31T08:44:30.117Z",
+  "lastUpdated": "2026-07-31T11:27:15.834Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/was-das-auge-nicht-sieht-so-blicken-satelliten-durch-den-brandrauch-ld.10017489",
+      "headline": "Was das Auge nicht sieht: Dank Infrarot blicken Satelliten durch den Brandrauch",
+      "image": "https://img-msp-prod.nzz.ch/2026/07/31/83ec6076-995f-40d8-966c-1c1d61dc1789.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-07-31T09:55:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/31/magazine/paxton-costner-hodgman-quiz.html",
+      "headline": "Should You Be Able to Tell Kevin Costner and Bill Paxton Apart?",
+      "image": "https://static01.nyt.com/images/2026/08/02/magazine/02mag-hodgman-paxoncoastner/02mag-hodgman-paxoncoastner-articleLarge.jpg",
+      "timestamp": "2026-07-31T09:04:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/real-estate/housing/inq2/philadelphia-property-assessment-tax-saving-program-20260731.html",
+      "headline": "Philly property assessments are out. Use this tool to see if you're eligible for tax relief.",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/6C7AEAXXXRH5TD4AVHNCEALECA.png",
+      "timestamp": "2026-07-31T09:01:01.000Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-july-31-2026",
@@ -14,6 +39,14 @@
       "headline": "Erstmals importiert Deutschland wertmässig mehr Autos aus China als umgekehrt. Es drohen Umstrukturierungen und Stellenabbau",
       "image": "https://img-msp-prod.nzz.ch/2026/07/17/3c591ce7-9464-4576-954d-596a3de5d2ca.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y228&wmark=nzz",
       "timestamp": "2026-07-31T03:30:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2026/07/31/how-us-war-with-iran-is-widening-inequality-africa/",
+      "headline": "How the U.S. war with Iran is widening inequality in Africa",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/MA5GTKMAKPNHGBYXROZCH7WAWA.jpg&w=300",
+      "timestamp": "2026-07-31T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",

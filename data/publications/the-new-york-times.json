@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-07-30T10:21:54.616Z",
+  "lastUpdated": "2026-07-31T11:27:09.129Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/07/31/magazine/paxton-costner-hodgman-quiz.html",
+      "headline": "Should You Be Able to Tell Kevin Costner and Bill Paxton Apart?",
+      "image": "https://static01.nyt.com/images/2026/08/02/magazine/02mag-hodgman-paxoncoastner/02mag-hodgman-paxoncoastner-articleLarge.jpg",
+      "timestamp": "2026-07-31T09:04:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
