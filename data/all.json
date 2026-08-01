@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-01T10:56:53.382Z",
+  "lastUpdated": "2026-08-01T12:01:34.216Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/education/ng-interactive/2026/aug/01/playbooks-plagiarism-pigs-head-new-claims-surrounding-cambridge-professor-jason-arday",
+      "headline": "Playbooks, plagiarism and a pig’s head: new claims surrounding a star Cambridge professor",
+      "image": "https://i.guim.co.uk/img/media/71e1274657490c00838d90a184788909f5431e74/1522_759_4652_3722/master/4652.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b021cb5af19faf46c4a70d2a1ed77e15",
+      "timestamp": "2026-08-01T11:45:52.000Z"
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "blueSkyHandle": "inquirer.com",
