@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-30T16:24:08.882Z",
+  "lastUpdated": "2026-08-01T06:35:54.208Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/01/glasgow-25-year-gruesome-gangland-feud-finally-over",
+      "headline": "The final hit: Is Glasgow’s 25-year gruesome gangland feud finally over?",
+      "image": "https://i.guim.co.uk/img/media/ade742cafddc80620969ffaa074940d8ac247b3f/0_1064_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0c43f57ce0302878e15de5cd6e1d20fc",
+      "timestamp": "2026-08-01T05:00:44.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
