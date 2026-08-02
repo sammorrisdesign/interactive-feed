@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-02T09:35:57.620Z",
+  "lastUpdated": "2026-08-02T11:13:50.579Z",
   "articles": [
     {
       "publication": "The Guardian",
@@ -24,6 +24,14 @@
       "headline": "‘This is where democracy beats totalitarianism’: Ukraine’s drone strike force takes the fight to Russia",
       "image": "https://i.guim.co.uk/img/media/7aedbc8177d78b97d5a658851bfc1d18ac7e3dc0/1974_1061_3120_2496/master/3120.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=39d24e0327845f39422797828465bc70",
       "timestamp": "2026-08-02T05:00:12.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/immigration/interactive/2026/08/02/deported-by-trump-detained-venezuela-then-lost-earthquakes/",
+      "headline": "Deported by Trump, detained in Venezuela — then lost in the earthquakes",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SD6JOIU2VNHMJFK24OIEK4ZYKY.jpg&w=300",
+      "timestamp": "2026-08-02T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",
