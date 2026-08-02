@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-02T07:30:28.470Z",
+  "lastUpdated": "2026-08-02T09:35:57.620Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/02/25-films-to-watch-before-you-turn-25-wizard-oz-trainspotting-totoro-labyrinth-get-out",
+      "headline": "From The Wizard of Oz to Trainspotting: 25 films to watch before you turn 25",
+      "image": "https://i.guim.co.uk/img/media/ff07bd1b9eb830d253f83638d2793fb1bd1d88be/0_0_5250_4200/master/5250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1a13769121a21886307bdf2f813a53b4",
+      "timestamp": "2026-08-02T09:00:17.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/02/two-eclipses-august-what-to-know/91078131007/",
+      "headline": "Two eclipses are coming this August. What to know about the celestial show",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/29/USAT/91095537007-usatgraphics-eclipsetypes.png",
+      "timestamp": "2026-08-02T08:01:32.074Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
