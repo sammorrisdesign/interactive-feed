@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-03T01:07:52.579Z",
+  "lastUpdated": "2026-08-03T12:18:55.984Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/03/us/politics/democrats-2024-autopsy-missing-chapter.html",
+      "headline": "Read the key chapter in dispute",
+      "image": "https://static01.nyt.com/images/2026/08/03/doc-3-what-happend-intro-and--promo/doc-3-what-happend-intro-and--promo-articleLarge.png",
+      "timestamp": "2026-08-03T10:47:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/03/nyregion/nyc-budgeting-affordability-parsons.html",
+      "headline": "How a Graduate Student Lives on $49,500 in Washington Heights",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03met-affording-parsons-promo/03met-affording-parsons-03-zmqt-articleLarge.jpg",
+      "timestamp": "2026-08-03T09:01:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

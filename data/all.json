@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-08-03T08:46:47.267Z",
+  "lastUpdated": "2026-08-03T12:18:58.773Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/03/revealed-top-10-invertebrates-of-the-year",
+      "headline": "Revealed: the top 10 invertebrates of the year",
+      "image": "https://i.guim.co.uk/img/media/48cf13705e02c60c23174231afc3c1638826c677/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97aabdd93ba588fe5cba1d9d699ddddf",
+      "timestamp": "2026-08-03T11:00:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/03/us/politics/democrats-2024-autopsy-missing-chapter.html",
+      "headline": "Read the key chapter in dispute",
+      "image": "https://static01.nyt.com/images/2026/08/03/doc-3-what-happend-intro-and--promo/doc-3-what-happend-intro-and--promo-articleLarge.png",
+      "timestamp": "2026-08-03T10:47:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/schweiz/mineralquellen-vom-himmel-ins-regal-schweizer-mineralwasser-unter-druck",
+      "headline": "Mineralquellen – Vom Himmel ins Regal – Schweizer Mineralwasser unter Druck",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/2d96e7.jpg",
+      "timestamp": "2026-08-03T09:30:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/03/nyregion/nyc-budgeting-affordability-parsons.html",
+      "headline": "How a Graduate Student Lives on $49,500 in Washington Heights",
+      "image": "https://static01.nyt.com/images/2026/08/03/multimedia/03met-affording-parsons-promo/03met-affording-parsons-03-zmqt-articleLarge.jpg",
+      "timestamp": "2026-08-03T09:01:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-aug-3-2026",

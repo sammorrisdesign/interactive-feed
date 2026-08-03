@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-03T08:46:45.769Z",
+  "lastUpdated": "2026-08-03T12:18:55.945Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/aug/03/revealed-top-10-invertebrates-of-the-year",
+      "headline": "Revealed: the top 10 invertebrates of the year",
+      "image": "https://i.guim.co.uk/img/media/48cf13705e02c60c23174231afc3c1638826c677/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97aabdd93ba588fe5cba1d9d699ddddf",
+      "timestamp": "2026-08-03T11:00:15.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
