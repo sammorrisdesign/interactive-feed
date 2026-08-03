@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-03T17:24:10.641Z",
+  "lastUpdated": "2026-08-03T19:05:24.927Z",
   "articles": [
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/mirandas-rescue-satellite-maps/",
+      "headline": "Satellite images reveal how Miranda’s Rescue investigations unfolded",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:niws4datih6dforyd7y22km4/bafkreibiegeuviy6256locffea4duryxikxiykeszfyse2daryvgxa7l6e",
+      "timestamp": "2026-08-03T18:23:39.376Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/mirandas-rescue-mass-dog-grave/",
+      "headline": "The discovery of a mass dog grave in California came after years of warning signs",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:niws4datih6dforyd7y22km4/bafkreif5nvpobvweyshzgy2pfd6ep4u6yo5yesoc6int5jymsbv3gr7xmm",
+      "timestamp": "2026-08-03T18:23:39.375Z"
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/03/wildfires-washington-oregon-northwest-maps-location/91150805007/",
+      "headline": "Washington, Oregon battles fast-moving wildfires. Maps track path",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/03/USAT/91153563007-usatgraphic-swildfirestopper.png",
+      "timestamp": "2026-08-03T18:03:42.553Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
