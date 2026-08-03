@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-07-31T18:51:56.685Z",
+  "lastUpdated": "2026-08-03T01:07:52.579Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/02/upshot/10-minute-challenge-sunday-in-the-park.html",
+      "headline": "10-Minute Challenge: ‘A Sunday on La Grande Jatte’",
+      "image": "https://static01.nyt.com/images/2026/08/03/upshot/up-seurat-promo/up-seurat-promo-articleLarge.jpg",
+      "timestamp": "2026-08-03T00:49:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/02/world/quake-tracker-egypt.html",
+      "headline": "Map: 5.3-Magnitude Earthquake Shakes Egypt",
+      "image": "https://static01.nyt.com/images/2026/08/03/world/02wea-quake-tracker-egypt-nyt3brl-v2-index/02wea-quake-tracker-egypt-nyt3brl-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-08-03T00:46:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
