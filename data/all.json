@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-03T19:05:24.927Z",
+  "lastUpdated": "2026-08-03T22:05:13.002Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/03/weather/europe-wildfire-smoke-maps.html",
+      "headline": "Maps: Tracking the Wildfires in Europe",
+      "image": "https://static01.nyt.com/images/2026/07/27/multimedia/2026-07-15-observed-smoke-embed-europe/2026-07-15-observed-smoke-embed-europe-articleLarge-v23.jpg",
+      "timestamp": "2026-08-03T21:31:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "San Francisco Chronicle",
       "blueSkyHandle": "sfchronicle.com",
