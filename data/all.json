@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-08-03T22:05:13.002Z",
+  "lastUpdated": "2026-08-04T05:29:33.150Z",
   "articles": [
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b",
+      "headline": "US midterm elections 2026: The FT’s guide",
+      "timestamp": "2026-08-04T04:00:09.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
