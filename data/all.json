@@ -1,6 +1,59 @@
 {
-  "lastUpdated": "2026-08-04T19:26:34.585Z",
+  "lastUpdated": "2026-08-04T22:08:42.700Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/04/lettuce-cyclosporiasis-outbreak-origins-spread/90985786007/",
+      "headline": "How lettuce linked to cyclosporiasis outbreak can get to your table",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/07/30/USAT/91110415007-lettucetopper-004.gif",
+      "timestamp": "2026-08-04T21:54:05.690Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/books/best-thrillers-21st-century-printable.html",
+      "headline": "The 50 Best Thrillers of the 21st Century: A Printable List",
+      "image": "https://static01.nyt.com/images/2026/08/04/doc-50-best-thrillers-of-the--promo/doc-50-best-thrillers-of-the--promo-articleLarge.png",
+      "timestamp": "2026-08-04T21:45:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/books/gone-girl-book-thriller-21st-century.html",
+      "headline": "‘Gone Girl’ Is the Best Thriller of the 21st Century. Here’s How It Gets Inside Your Head.",
+      "image": "https://static01.nyt.com/images/2026/07/31/multimedia/TBR-thrillers-close-read-wkcl/TBR-thrillers-close-read-wkcl-articleLarge.jpg",
+      "timestamp": "2026-08-04T21:27:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/books/best-thrillers-21st-century-reader-vote.html",
+      "headline": "What Are Your Favorite Thrillers of the Century?",
+      "image": "https://static01.nyt.com/images/2026/07/29/books/00thrillers_mini_fall-copy/00thrillers_mini_fall-copy-articleLarge.jpg",
+      "timestamp": "2026-08-04T21:24:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/books/authors-top-thrillers-21st-century.html",
+      "headline": "See How Your Favorite Writers Voted in Our Thrillers Poll",
+      "image": "https://static01.nyt.com/images/2026/07/29/books/thrillers_bookstack_promo/thrillers_bookstack_promo-articleLarge.jpg",
+      "timestamp": "2026-08-04T21:17:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/books/best-thriller-books-21st-century.html",
+      "headline": "The 50 Best Thrillers of the 21st Century",
+      "image": "https://static01.nyt.com/images/2026/07/24/books/thrillers_main_promo/thrillers_main_promo-articleLarge-v10.jpg",
+      "timestamp": "2026-08-04T21:12:30.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
