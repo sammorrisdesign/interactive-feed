@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-03T22:05:12.315Z",
+  "lastUpdated": "2026-08-04T11:03:01.067Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/opinion/minnesota-senate-primary-democrats-election.html",
+      "headline": "Who Should Represent Minnesota?",
+      "image": "https://static01.nyt.com/images/2026/08/04/opinion/04choice-promo-still/04choice-promo-still-articleLarge.jpg",
+      "timestamp": "2026-08-04T09:04:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/politics/aipac-israel-funds-spending.html",
+      "headline": "Inside the Spending of One of America’s Largest Super PACs",
+      "image": "https://static01.nyt.com/images/2026/08/04/aipac-static-promo-36474/aipac-static-promo-36474-articleLarge.png",
+      "timestamp": "2026-08-04T09:02:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

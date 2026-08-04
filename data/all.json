@@ -1,12 +1,38 @@
 {
-  "lastUpdated": "2026-08-04T05:29:33.150Z",
+  "lastUpdated": "2026-08-04T11:03:06.380Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/opinion/minnesota-senate-primary-democrats-election.html",
+      "headline": "Who Should Represent Minnesota?",
+      "image": "https://static01.nyt.com/images/2026/08/04/opinion/04choice-promo-still/04choice-promo-still-articleLarge.jpg",
+      "timestamp": "2026-08-04T09:04:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/politics/aipac-israel-funds-spending.html",
+      "headline": "Inside the Spending of One of America’s Largest Super PACs",
+      "image": "https://static01.nyt.com/images/2026/08/04/aipac-static-promo-36474/aipac-static-promo-36474-articleLarge.png",
+      "timestamp": "2026-08-04T09:02:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",
       "url": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b",
       "headline": "US midterm elections 2026: The FT’s guide",
       "timestamp": "2026-08-04T04:00:09.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2026/08/04/gi-bill-schools-charged-huge-sums-train-vets-how-grow-grass-make-fake-rocks/",
+      "headline": "GI Bill schools charged huge sums to teach vets how to grow grass, make fake rocks",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/6Y765XUGHZGUFKGNFLM6S3UUYY.jpg&w=300",
+      "timestamp": "2026-08-04T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
