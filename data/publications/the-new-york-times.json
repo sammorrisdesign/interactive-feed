@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-08-04T11:03:01.067Z",
+  "lastUpdated": "2026-08-04T15:53:41.958Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/elections/results-washington-us-house-8-primary.html",
+      "headline": "Washington Eighth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/eln-PRE-2026-08-04-race-wa-us-h-8-4febb8/eln-PRE-2026-08-04-race-wa-us-h-8-4febb8-articleLarge.jpg",
+      "timestamp": "2026-08-04T15:11:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/elections/results-washington-us-house-7-primary.html",
+      "headline": "Washington Seventh Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/eln-PRE-2026-08-04-race-wa-us-h-7-946acc/eln-PRE-2026-08-04-race-wa-us-h-7-946acc-articleLarge.jpg",
+      "timestamp": "2026-08-04T15:11:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/elections/results-washington-us-house-3-primary.html",
+      "headline": "Washington Third Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/eln-PRE-2026-08-04-race-wa-us-h-3-f9b60a/eln-PRE-2026-08-04-race-wa-us-h-3-f9b60a-articleLarge.jpg",
+      "timestamp": "2026-08-04T15:11:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

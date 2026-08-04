@@ -1,6 +1,47 @@
 {
-  "lastUpdated": "2026-08-04T11:03:06.380Z",
+  "lastUpdated": "2026-08-04T15:53:45.269Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/elections/results-washington-us-house-8-primary.html",
+      "headline": "Washington Eighth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/eln-PRE-2026-08-04-race-wa-us-h-8-4febb8/eln-PRE-2026-08-04-race-wa-us-h-8-4febb8-articleLarge.jpg",
+      "timestamp": "2026-08-04T15:11:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/elections/results-washington-us-house-7-primary.html",
+      "headline": "Washington Seventh Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/eln-PRE-2026-08-04-race-wa-us-h-7-946acc/eln-PRE-2026-08-04-race-wa-us-h-7-946acc-articleLarge.jpg",
+      "timestamp": "2026-08-04T15:11:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/elections/results-washington-us-house-3-primary.html",
+      "headline": "Washington Third Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/eln-PRE-2026-08-04-race-wa-us-h-3-f9b60a/eln-PRE-2026-08-04-race-wa-us-h-3-f9b60a-articleLarge.jpg",
+      "timestamp": "2026-08-04T15:11:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/05/best-books-to-read-australia-august-2026",
+      "headline": "Best Australian books out in August: new Meg Mason, musicians tell all and a time-travel tale by ‘a master storyteller’",
+      "image": "https://i.guim.co.uk/img/media/c368d7c26fabfcdda9056c3ba406cf32910c1a87/0_534_4000_3200/master/4000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a4900c6b363df1f729d85e3df3a1dd39",
+      "timestamp": "2026-08-04T15:00:06.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/hitze-schweiz-so-heiss-wird-die-schweiz-in-einer-3-grad-welt-281234509639",
+      "headline": "Zukunftsszenarien auf einen Blick: Hitzetage, Tropennächte und Dürre: Wie sich das Klima in Zürich, Basel und Bern verändern wird",
+      "timestamp": "2026-08-04T14:01:13.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -25,6 +66,14 @@
       "url": "https://www.ft.com/content/29f1af13-ecc3-4f26-a479-e6088c67231b",
       "headline": "US midterm elections 2026: The FT’s guide",
       "timestamp": "2026-08-04T04:00:09.000Z"
+    },
+    {
+      "publication": "The Pudding",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/2026/06/mow",
+      "headline": "Why some people mow a lawn better than others.",
+      "image": "https://pudding.cool/2026/06/mow/assets/og.png",
+      "timestamp": "2026-08-04T04:00:00.000Z"
     },
     {
       "publication": "The Washington Post",
