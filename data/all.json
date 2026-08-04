@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-04T15:53:45.269Z",
+  "lastUpdated": "2026-08-04T17:43:58.136Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/opinion/museum-of-america.html",
+      "headline": "These 25 Artifacts Explain America",
+      "image": "https://static01.nyt.com/images/2026/08/03/opinion/MOA-promo-still/MOA-promo-still-articleLarge.png",
+      "timestamp": "2026-08-04T17:34:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/us/elections/results-kansas-governor-primary.html",
+      "headline": "Kansas Governor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/04/multimedia/eln-PRE-2026-08-04-race-ks-governor-b709c3/eln-PRE-2026-08-04-race-ks-governor-b709c3-articleLarge.jpg",
+      "timestamp": "2026-08-04T15:57:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
