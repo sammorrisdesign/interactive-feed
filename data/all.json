@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-05T15:15:59.827Z",
+  "lastUpdated": "2026-08-05T17:01:05.887Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-11-polls-2026.html",
+      "headline": "Florida 11th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-05T16:25:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/international/flaechenvergleich-europas-rekord-waldbraende-so-gross-waeren-sie-in-der-schweiz",
+      "headline": "Flächenvergleich – Europas Rekord-Waldbrände: So gross wären sie in der Schweiz",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/50e290.jpg",
+      "timestamp": "2026-08-05T15:56:59.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
