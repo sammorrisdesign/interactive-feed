@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-31T11:27:09.082Z",
+  "lastUpdated": "2026-08-05T05:28:51.442Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/satellitenbilder-zeigen-den-massenansturm-auf-ceuta-und-wie-sich-die-grenze-danach-veraendert-hat-ld.10018140",
+      "headline": "Satellitenbilder zeigen den Massenansturm auf Ceuta – und wie sich die Grenze danach verändert hat",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/04/9964e5d8-9fef-4c79-986f-1b3fffd98f17.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y225&wmark=nzz",
+      "timestamp": "2026-08-05T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
