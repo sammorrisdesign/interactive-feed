@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-04T22:08:42.700Z",
+  "lastUpdated": "2026-08-05T02:08:32.884Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/04/nyregion/nyc-staycation-summer.html",
+      "headline": "There’s Still Time for a New York City Staycation",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05met-staycations-still2/05met-staycations-still2-articleLarge.jpg",
+      "timestamp": "2026-08-04T23:47:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
