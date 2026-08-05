@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-05T02:08:31.959Z",
+  "lastUpdated": "2026-08-05T10:59:35.868Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/05/dining/how-shoppers-are-adjusting-expensive-groceries.html",
+      "headline": "Groceries Are Expensive. Here’s How 5 Shoppers Are Adjusting.",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/05FD-RECEIPTS-REDUX-cover1-qhgp/05FD-RECEIPTS-REDUX-cover1-qhgp-articleLarge.jpg",
+      "timestamp": "2026-08-05T09:02:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
