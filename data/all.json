@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-05T17:01:05.887Z",
+  "lastUpdated": "2026-08-05T20:23:53.465Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/05/maps-spokane-wildfires-before-after-imagery/91181124007/",
+      "headline": "See Spokane wildfire destruction in before-and-after imagery",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/05/USAT/91187915007-wa-spokanefirestoppernew-topper.png",
+      "timestamp": "2026-08-05T19:48:21.522Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
