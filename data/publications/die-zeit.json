@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-07-23T15:09:02.611Z",
+  "lastUpdated": "2026-08-05T15:15:52.009Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/digital/2026-08/vorurteile-chatgpt-bias-regionale-unterschiede-daten",
+      "headline": "Welche Vorurteile hat ChatGPT über Ihren Landkreis?",
+      "image": "https://img.zeit.de/digital/2026-06/vorurteile-chatgpt-bias-regionale-2/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-07/fruehstartrente-kinder-eltern-depot-geldanlage-faq",
+      "headline": "So viel könnte Ihr Kind im Alter von der Frühstartrente haben",
+      "image": "https://img.zeit.de/geld/2026-07/fruehstartrente-kinder-eltern-depot-geldanlage-faq-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/umwelt/2026-07/hitzewelle-europa-waldbrand-feuer-spanien-frankreich",
+      "headline": "Bricht in Europa ein Feuerzeitalter an?",
+      "image": "https://img.zeit.de/wissenschaft/2026-07/hitzewelle-europa-waldbrand-feuer-spanien-frankreich-bild/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
