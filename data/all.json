@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-05T20:23:53.465Z",
+  "lastUpdated": "2026-08-06T02:35:01.477Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/05/us/elections/el-sayed-michigan-senate-precinct-maps.html",
+      "headline": "The Coalitions That Propelled El-Sayed’s Michigan Victory",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/michigan-precincts-promo/michigan-precincts-promo-articleLarge-v9.jpg",
+      "timestamp": "2026-08-06T00:25:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
