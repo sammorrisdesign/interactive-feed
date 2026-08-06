@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-08-06T15:40:24.341Z",
+  "lastUpdated": "2026-08-06T23:54:52.173Z",
   "articles": [
+    {
+      "publication": "South China Morning Post",
+      "url": "https://multimedia.scmp.com/infographics/news/world/article/3356851/el_nino_la_nina/",
+      "headline": "Infographic: a powerful new El Nino cycle begins. Is the world ready?",
+      "image": "https://multimedia.scmp.com/infographics/news/world/article/3356851/el_nino_la_nina/images/cover.jpg",
+      "timestamp": "2026-08-07T00:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -176578,6 +176585,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-07/could-you-live-on-jobseeker-payments/106866554",
+      "headline": "How Australians on JobSeeker are living on $68 a day",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a5fa0032897f692a9e3d3b29d7da10c6?impolicy=wcms_crop_resize&cropH=1221&cropW=1628&xPos=321&yPos=183&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-07-29T19:09:58.899Z",
+  "lastUpdated": "2026-08-06T23:54:48.708Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-07/could-you-live-on-jobseeker-payments/106866554",
+      "headline": "How Australians on JobSeeker are living on $68 a day",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a5fa0032897f692a9e3d3b29d7da10c6?impolicy=wcms_crop_resize&cropH=1221&cropW=1628&xPos=321&yPos=183&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
