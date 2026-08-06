@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-05T05:28:51.442Z",
+  "lastUpdated": "2026-08-06T11:02:34.666Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/toedliche-legionaerskrankheit-der-ausbruch-in-basel-grafisch-erklaert-ld.10018138",
+      "headline": "Ausbruch in Basel: Die tödliche Legionärskrankheit grafisch erklärt",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/05/f75a066a-e45d-4422-8090-6180ad5c344d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz",
+      "timestamp": "2026-08-06T10:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

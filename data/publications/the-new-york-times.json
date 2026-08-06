@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-06T05:45:29.842Z",
+  "lastUpdated": "2026-08-06T11:02:34.715Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/06/world/europe/russia-ukraine-war-kyiv-telegram.html",
+      "headline": "If Phones Are Buzzing, It’s Time to Take Shelter in Ukraine",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/ukraine-air-alerts-cpwq/ukraine-air-alerts-cpwq-articleLarge.jpg",
+      "timestamp": "2026-08-06T09:03:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-08-06T08:29:42.767Z",
+  "lastUpdated": "2026-08-06T11:02:37.561Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/toedliche-legionaerskrankheit-der-ausbruch-in-basel-grafisch-erklaert-ld.10018138",
+      "headline": "Ausbruch in Basel: Die tödliche Legionärskrankheit grafisch erklärt",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/05/f75a066a-e45d-4422-8090-6180ad5c344d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=5761,3241,x0,y0&wmark=nzz",
+      "timestamp": "2026-08-06T10:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/06/world/europe/russia-ukraine-war-kyiv-telegram.html",
+      "headline": "If Phones Are Buzzing, It’s Time to Take Shelter in Ukraine",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/ukraine-air-alerts-cpwq/ukraine-air-alerts-cpwq-articleLarge.jpg",
+      "timestamp": "2026-08-06T09:03:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/zuerich-schwamendingen-kreis-12-erhaelt-1700-neue-wohnungen-158261125367",
@@ -24,6 +41,22 @@
       "image": "https://static01.nyt.com/images/2026/08/05/multimedia/michigan-precincts-promo/michigan-precincts-promo-articleLarge-v9.jpg",
       "timestamp": "2026-08-06T00:25:25.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2026/08/06/how-gi-bill-veterans-trade-schools-extracted-millions-sham-class-schemes/",
+      "headline": "How GI Bill veterans, trade schools extracted millions in sham-class schemes",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/F425H7WC5BCE5OF32QVKJQNUQY.jpg&w=300",
+      "timestamp": "2026-08-06T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/08/06/why-ai-is-causing-visual-captchas-get-more-difficult-less-common/",
+      "headline": "How quickly can you prove that you’re human? Try our quiz.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EL7LVHLW2VDGLI5JGIDUHR7ZOA.jpg&w=300",
+      "timestamp": "2026-08-06T00:00:00.000Z"
     },
     {
       "publication": "USA Today",
