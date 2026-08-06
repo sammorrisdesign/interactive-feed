@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-06T02:35:00.107Z",
+  "lastUpdated": "2026-08-06T05:45:29.842Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/05/us/politics/trump-reflecting-pool-damage.html",
+      "headline": "See Where the Reflecting Pool Renovation Appeared to Fail",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/2026-07-30-reflecting-pool-damage-index/2026-07-30-reflecting-pool-damage-index-articleLarge.jpg",
+      "timestamp": "2026-08-06T03:13:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

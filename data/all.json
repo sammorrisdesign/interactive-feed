@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-08-06T02:35:01.477Z",
+  "lastUpdated": "2026-08-06T05:45:31.001Z",
   "articles": [
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/zuerich-schwamendingen-kreis-12-erhaelt-1700-neue-wohnungen-158261125367",
+      "headline": "Boom in Schwamendingen: 1700 Wohnungen im Bau – dieser Zürcher Stadteil erfindet sich gerade neu",
+      "timestamp": "2026-08-06T04:08:21.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/05/us/politics/trump-reflecting-pool-damage.html",
+      "headline": "See Where the Reflecting Pool Renovation Appeared to Fail",
+      "image": "https://static01.nyt.com/images/2026/08/05/multimedia/2026-07-30-reflecting-pool-damage-index/2026-07-30-reflecting-pool-damage-index-articleLarge.jpg",
+      "timestamp": "2026-08-06T03:13:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
