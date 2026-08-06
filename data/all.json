@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T05:45:31.001Z",
+  "lastUpdated": "2026-08-06T08:29:42.767Z",
   "articles": [
     {
       "publication": "Tages-Anzeiger",
@@ -234,6 +234,13 @@
       "image": "https://static01.nyt.com/images/2026/08/04/aipac-static-promo-36474/aipac-static-promo-36474-articleLarge.png",
       "timestamp": "2026-08-04T09:02:40.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a4c6e5da-dc9f-43b0-a794-c3f6bb9bca7d",
+      "headline": "How the UAE is building an African empire",
+      "timestamp": "2026-08-04T04:00:09.000Z"
     },
     {
       "publication": "FT",
