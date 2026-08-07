@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-08-07T17:21:24.996Z",
+  "lastUpdated": "2026-08-07T19:28:07.171Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-9-polls-2026.html",
+      "headline": "Florida 9th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-07T19:08:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/07/magazine/face-lift-plastic-surgery-stories.html",
+      "headline": "Three People on Why They Wanted New Faces",
+      "image": "https://static01.nyt.com/images/2026/08/16/magazine/16mag-wwln-facelifts-j-06/16mag-wwln-facelifts-j-06-articleLarge-v3.jpg",
+      "timestamp": "2026-08-07T18:53:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/07/trump-birthright-citizenship-executive-orders-impact/91211620007/",
+      "headline": "How Trump is making second attempt to restrict birthright citizenship",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/07/USAT/91212362007-birthrighttopper.png",
+      "timestamp": "2026-08-07T18:14:39.348Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -176644,6 +176670,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-08/iran-war-spreading-diplomacy-teeters/106990466",
+      "headline": "How the Iran war spread beyond one single strait",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b2e928f577ba7d4f55a736c8db2ccd1e?impolicy=wcms_crop_resize&cropH=3333&cropW=4444&xPos=278&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

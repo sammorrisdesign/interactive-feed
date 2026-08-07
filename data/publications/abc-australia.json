@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-06T23:54:48.708Z",
+  "lastUpdated": "2026-08-07T19:28:04.700Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-08/iran-war-spreading-diplomacy-teeters/106990466",
+      "headline": "How the Iran war spread beyond one single strait",
+      "image": "https://live-production.wcms.abc-cdn.net.au/b2e928f577ba7d4f55a736c8db2ccd1e?impolicy=wcms_crop_resize&cropH=3333&cropW=4444&xPos=278&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

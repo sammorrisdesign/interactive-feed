@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-07T17:21:24.389Z",
+  "lastUpdated": "2026-08-07T19:28:04.761Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-9-polls-2026.html",
+      "headline": "Florida 9th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-07T19:08:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/07/magazine/face-lift-plastic-surgery-stories.html",
+      "headline": "Three People on Why They Wanted New Faces",
+      "image": "https://static01.nyt.com/images/2026/08/16/magazine/16mag-wwln-facelifts-j-06/16mag-wwln-facelifts-j-06-articleLarge-v3.jpg",
+      "timestamp": "2026-08-07T18:53:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
