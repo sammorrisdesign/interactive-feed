@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-07T14:11:08.457Z",
+  "lastUpdated": "2026-08-07T15:23:52.876Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/07/world/europe/solar-eclipse-view-spain-iceland-greenland.html",
+      "headline": "How Much of the Eclipse Will You See?",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/2026-07-29-eclipse-path-index/2026-07-29-eclipse-path-index-articleLarge-v3.png",
+      "timestamp": "2026-08-07T15:11:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
