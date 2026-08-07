@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-07T10:54:33.801Z",
+  "lastUpdated": "2026-08-07T12:55:10.790Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/illinois-us-house-4-polls-2026.html",
+      "headline": "Illinois 4th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-07T12:25:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "Texas Tribune",
       "blueSkyHandle": "texastribune.bsky.social",
