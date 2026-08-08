@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-08T09:33:41.887Z",
+  "lastUpdated": "2026-08-08T14:28:14.402Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/08/tennessee-doctor-executions-death-penalty",
+      "headline": "Unmasked: the doctor who helps put prisoners to death",
+      "image": "https://i.guim.co.uk/img/media/9520c5e09390bda4519afb5ac9431c05d7808fd1/13_493_3218_2574/master/3218.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0661d8c93ce01f2191a8421a31ae63d7",
+      "timestamp": "2026-08-08T14:00:47.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
