@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T16:28:52.829Z",
+  "lastUpdated": "2026-08-08T22:24:50.421Z",
   "articles": [
     {
       "publication": "The Guardian",
@@ -445,6 +445,13 @@
       "url": "https://www.tagesanzeiger.ch/hitze-schweiz-so-heiss-wird-die-schweiz-in-einer-3-grad-welt-281234509639",
       "headline": "Zukunftsszenarien auf einen Blick: Hitzetage, Tropennächte und Dürre: Wie sich das Klima in Zürich, Basel und Bern verändern wird",
       "timestamp": "2026-08-04T14:01:13.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/preschool-survey/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/23677400/1/rawImage.jpg",
+      "timestamp": "2026-08-04T11:04:29.000Z"
     },
     {
       "publication": "The New York Times",
