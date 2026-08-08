@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-08T06:44:21.815Z",
+  "lastUpdated": "2026-08-08T07:46:01.123Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/08/nyregion/08routine-mario-cantone.html",
+      "headline": "How Your ‘Sex and the City’ B.F.F. Spends a Day That Starts at Noon",
+      "timestamp": "2026-08-08T07:00:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -178621,6 +178629,14 @@
       "twitterHandle": "CNN",
       "url": "https://www.cnn.com/interactive/2022/07/us/cnn-5-things-news-quiz-july-7-sec/",
       "headline": "The average score for this week's news quiz is 7.6. Think you can do better?",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-08/minja-marinkovic-tauchrekord-starnberger-see-freitaucher",
+      "headline": "Tauchen Sie mit dem Extremsportler auf 85 Meter Tiefe",
+      "image": "https://img.zeit.de/arbeit/2026-08/minja-marinkovic-tauchrekord-teaserbild-illu/wide__892x502",
       "timestamp": null
     },
     {
