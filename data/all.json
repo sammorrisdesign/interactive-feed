@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-10T10:15:07.308Z",
+  "lastUpdated": "2026-08-10T13:54:12.439Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/10/world/earthquake-colombia-tracker.html",
+      "headline": "Map: 7.4-Magnitude Earthquake Shakes Colombia",
+      "image": "https://static01.nyt.com/images/2026/08/10/world/10wea-quake-tracker-colombia-nyte2uy6-index/10wea-quake-tracker-colombia-nyte2uy6-index-articleLarge-v11.jpg",
+      "timestamp": "2026-08-10T13:01:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
