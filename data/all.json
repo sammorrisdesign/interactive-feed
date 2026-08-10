@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-08-09T19:29:38.676Z",
+  "lastUpdated": "2026-08-10T10:15:07.308Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/10/nyregion/nyc-budgeting-affordability-sencion.html",
+      "headline": "How a Student and Gig Worker Lives on $11,400 in the Bronx",
+      "image": "https://static01.nyt.com/images/2026/08/10/multimedia/10met-affording-sencion-fckj/10met-affording-sencion-fckj-articleLarge-v2.jpg",
+      "timestamp": "2026-08-10T09:03:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2026/track-how-extreme-this-years-el-nino-could-get/",
+      "headline": "As a record El Niño ramps up, track how it’s reshaping the weather",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/OVCG4W32XFG5BFISPEYRWSJG7I.jpg&w=300",
+      "timestamp": "2026-08-10T00:00:00.000Z"
+    },
     {
       "publication": "CNA",
       "url": "https://www.channelnewsasia.com/interactive/ndp-2026/%2E",
