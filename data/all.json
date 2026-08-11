@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-08-11T07:00:41.635Z",
+  "lastUpdated": "2026-08-11T08:13:08.770Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/europe/mapping-where-see-total-solar-eclipse-europe-2026-08-11/",
+      "headline": "Mapping where to see the total solar eclipse in Europe",
+      "image": "https://www.reuters.com/resizer/v2/UNCTN3AJPZHPJABDFGPU6NRPMM.jpg?auth=77a3e7f14767a6fb254dee32000faaef1d27976ac471f1569ae3a96535d7270c&width=1200&quality=80",
+      "timestamp": "2026-08-11T08:11:52.485Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/the-week-in-pictures-national-day-parade-2026-bromo-wildfires-pig-festival-in-france",
+      "headline": "The Week in Pictures: National Day Parade 2026, Bromo wildfires, Pig Festival in France",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e053993aebd4da20241f1c99a5fd6bd2af6089fc770c4883b6eb1e6b04252e75",
+      "timestamp": "2026-08-11T07:48:36.000Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-aug-11-2026",
