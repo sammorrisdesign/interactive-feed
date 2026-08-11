@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-11T10:26:39.648Z",
+  "lastUpdated": "2026-08-11T11:14:07.852Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/stage/ng-interactive/2026/aug/11/isaac-mizrahi-fashion-unzipped",
+      "headline": "Isaac Mizrahi on stage, style and the legacy of Unzipped: ‘Fashion has no real spine any more’",
+      "image": "https://i.guim.co.uk/img/media/3a3b44353abdec87f51d2ec0d0a411eecf4cc6ea/668_0_6684_5350/master/6684.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d9889e994f72d4d39a6c7581c2858be4",
+      "timestamp": "2026-08-11T11:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/fashion/ng-interactive/2026/aug/11/appearance-jobs-work-social-media",
+      "headline": "Do you have to be hot at work? Eight people on how looks influence their jobs",
+      "image": "https://i.guim.co.uk/img/media/14e57d41862a0fd1bf32416eb4e6f47c6992b505/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1037a67e480e760b1a268fb0328b95ae",
+      "timestamp": "2026-08-11T11:00:01.000Z"
+    },
     {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
