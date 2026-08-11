@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-11T08:13:08.770Z",
+  "lastUpdated": "2026-08-11T09:30:21.807Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/11/us/trump-border-wall-construction.html",
+      "headline": "See Trump’s Plan to Fill the Gaps in the Border Wall",
+      "image": "https://static01.nyt.com/images/2026/08/07/multimedia/2026-07-23-border-wall-index/2026-07-23-border-wall-index-articleLarge-v8.png",
+      "timestamp": "2026-08-11T09:04:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/travel/copenhagen-denmark-guide.html",
+      "headline": "Your Guide to Copenhagen",
+      "image": "https://static01.nyt.com/images/2026/08/06/multimedia/trav-copenhagen-promo/trav-copenhagen-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-08-11T09:03:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "Reuters",
       "blueSkyHandle": "reuters.com",
