@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-12T09:39:51.123Z",
+  "lastUpdated": "2026-08-12T10:57:41.235Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/entertainment/tv/inq2/reacher-season-4-philadelphia-locations-20260812.html",
+      "headline": "Amazon Prime's Reacher season 4: Philadelphia locations ",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/ZMBOC4UFQNDJZCHSB7KVWU2INI.jpg",
+      "timestamp": "2026-08-12T10:01:00.000Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-aug-12-2026",
@@ -19,6 +27,21 @@
       "url": "https://www.tagesanzeiger.ch/trockenheit-70-schweizer-fluesse-auf-rekordtief-101049882694",
       "headline": "Extreme Trockenheit in der Schweiz: Jeder zweite grosse Fluss mit historisch tiefem Sommer-Pegel",
       "timestamp": "2026-08-12T03:37:30.000Z"
+    },
+    {
+      "publication": "South China Morning Post",
+      "url": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3363299/five-year-plan/",
+      "headline": "Unpacking Hong Kong’s 5-year plan and its role in China’s development",
+      "image": "https://multimedia.scmp.com/infographics/news/hong-kong/article/3363299/five-year-plan/assets/images/cover.jpg",
+      "timestamp": "2026-08-12T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2026/08/12/summer-songs-2026/",
+      "headline": "The 2026 song of the summer",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/PKH72RAPIJAZTD5YKMMCXO7WYY.png&w=300",
+      "timestamp": "2026-08-12T00:00:00.000Z"
     },
     {
       "publication": "USA Today",
