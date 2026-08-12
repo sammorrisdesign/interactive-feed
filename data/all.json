@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-12T17:28:13.424Z",
+  "lastUpdated": "2026-08-12T18:26:29.862Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/12/movies/the-evil-dead-sam-raimi.html",
+      "headline": "‘The Evil Dead’ Made the Camera the Monster and Changed Horror Forever",
+      "image": "https://static01.nyt.com/images/2026/08/13/arts/13cul-evil-dead/13cul-evil-dead-articleLarge.jpg",
+      "timestamp": "2026-08-12T18:20:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
