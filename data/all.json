@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-12T16:26:48.079Z",
+  "lastUpdated": "2026-08-12T17:28:13.424Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/12/weather/hawaii-storm-map-path-tracker.html",
+      "headline": "Tracking a Potential Tropical Storm Near Hawaii",
+      "image": "https://static01.nyt.com/images/2026/08/12/weather/one-c-map-path-tracker-index/one-c-map-path-tracker-index-articleLarge-v4.jpg",
+      "timestamp": "2026-08-12T16:40:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
