@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-05-20T14:04:46.625Z",
+  "lastUpdated": "2026-08-12T14:22:27.844Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/west-africa-trade-growth-economy-nigeria-ghana-lagos/",
+      "headline": "How a road could change West Africa's urban future",
+      "image": "https://apps.npr.org/west-africa-trade-growth-economy-nigeria-ghana-lagos/assets/synced/images/resized/slide-1-ft-nig-econ-34.jpg",
+      "timestamp": "2026-08-12T00:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/troubled-waters/",
+      "headline": "Troubled Waters",
+      "image": "https://apps.npr.org/troubled-waters/assets/synced/images/resized/palmyra-30.jpg",
+      "timestamp": "2026-08-03T00:00:00.000Z"
+    },
     {
       "publication": "NPR",
       "blueSkyHandle": "npr.org",
