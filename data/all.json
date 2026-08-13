@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-13T15:55:59.147Z",
+  "lastUpdated": "2026-08-13T16:53:13.975Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/13/us/govuscourtsmad2978016501.html",
+      "headline": "Read the Ruling Dismissing an Antisemitism Lawsuit Against Harvard",
+      "image": "https://static01.nyt.com/images/2026/08/13/doc-govuscourtsmad2978016501-promo/doc-govuscourtsmad2978016501-promo-articleLarge.png",
+      "timestamp": "2026-08-13T16:12:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
