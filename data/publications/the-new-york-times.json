@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-13T13:56:06.206Z",
+  "lastUpdated": "2026-08-13T15:55:56.736Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/13/us/quake-tracker-san-francisco-bay.html",
+      "headline": "Map: 3.9-Magnitude Earthquake Shakes the San Francisco Bay Area",
+      "image": "https://static01.nyt.com/images/2026/08/13/world/13wea-quake-tracker-san-francisco-bay-area-nyt3xauy-index/13wea-quake-tracker-san-francisco-bay-area-nyt3xauy-index-articleLarge-v2.jpg",
+      "timestamp": "2026-08-13T15:41:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

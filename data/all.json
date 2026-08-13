@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-13T13:56:07.481Z",
+  "lastUpdated": "2026-08-13T15:55:59.147Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/13/us/quake-tracker-san-francisco-bay.html",
+      "headline": "Map: 3.9-Magnitude Earthquake Shakes the San Francisco Bay Area",
+      "image": "https://static01.nyt.com/images/2026/08/13/world/13wea-quake-tracker-san-francisco-bay-area-nyt3xauy-index/13wea-quake-tracker-san-francisco-bay-area-nyt3xauy-index-articleLarge-v2.jpg",
+      "timestamp": "2026-08-13T15:41:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/13/ice-to-buy-electric-shock-gloves/91269274007/",
+      "headline": "ICE will spend $20 million on gloves that can literally shock you",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/12/USAT/91277127007-electrode-gloves.png",
+      "timestamp": "2026-08-13T14:55:57.905Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/c8b5605f-209c-4513-9111-1ccc00f3a07e",
+      "headline": "In charts: Private schools widen lead over state rivals on A-level results day",
+      "timestamp": "2026-08-13T13:49:28.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
