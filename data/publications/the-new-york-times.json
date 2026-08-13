@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-13T01:41:53.838Z",
+  "lastUpdated": "2026-08-13T10:00:42.613Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/13/travel/things-to-do-bergen-norway.html",
+      "headline": "36 Hours in Bergen, Norway",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13trav-hours-bergen-lgbc/13trav-hours-bergen-lgbc-articleLarge-v4.jpg",
+      "timestamp": "2026-08-13T09:05:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

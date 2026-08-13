@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-08-13T01:41:55.076Z",
+  "lastUpdated": "2026-08-13T10:00:46.893Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/13/travel/things-to-do-bergen-norway.html",
+      "headline": "36 Hours in Bergen, Norway",
+      "image": "https://static01.nyt.com/images/2026/08/13/multimedia/13trav-hours-bergen-lgbc/13trav-hours-bergen-lgbc-articleLarge-v4.jpg",
+      "timestamp": "2026-08-13T09:05:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/consumer/technology/inq2/ai-hyperscale-data-centers-peco-bills-costs-philadelphia-20260813.html",
+      "headline": "Your Peco bill could increase because of new hyperscale AI data centers. Here's how.",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/KYBMLV6WNVEJBFD55U5HDLFRFI.png",
+      "timestamp": "2026-08-13T09:01:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/13/a-bungled-bomb-plot-in-poland-exposed-a-spy-but-whose-spy-was-he",
+      "headline": "A bungled bomb plot in Poland exposed a spy – but whose spy was he?",
+      "image": "https://i.guim.co.uk/img/media/0ef7df969b94b8bee721d07af588d6b2a3454c8d/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9123b8bbfddc0389fd2dfb20821ca014",
+      "timestamp": "2026-08-13T04:00:49.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
