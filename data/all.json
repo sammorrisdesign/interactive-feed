@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-14T20:03:46.237Z",
+  "lastUpdated": "2026-08-14T20:55:08.765Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/14/hurricane-tracker-path-forecast-map/90980447007/",
+      "headline": "Interactive hurricane tracker shows projected paths, forecast details",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/14/USAT/91310900007-hurricanetopper.png",
+      "timestamp": "2026-08-14T20:39:46.731Z"
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/14/trump-navy-steam-catapult-air-craft-carrier/91301895007/",
+      "headline": "Trump orders Navy to use older steam-powered catapults. See what they look like",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/14/USAT/91310115007-emalstopper.jpg",
+      "timestamp": "2026-08-14T20:31:14.159Z"
+    },
     {
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/fitnessboom-16-prozent-der-schweizer-haben-ein-fitnessabo-929614296730",
