@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-14T20:55:08.765Z",
+  "lastUpdated": "2026-08-14T22:48:29.069Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/14/world/asia/indonesia-quake-tracker.html",
+      "headline": "Map: 7.7-Magnitude Earthquake Shakes Indonesia",
+      "image": "https://static01.nyt.com/images/2026/08/14/world/14wea-quake-tracker-flores-sea-nyt5zcw0-index/14wea-quake-tracker-flores-sea-nyt5zcw0-index-articleLarge-v2.jpg",
+      "timestamp": "2026-08-14T22:42:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
