@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-08-15T01:01:28.113Z",
+  "lastUpdated": "2026-08-15T04:26:09.665Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/15/world/europe/europe-heat-wave-deaths-june-2026.html",
+      "headline": "Toll During One Week of Scorching Europe Heat: 16,000 Deaths",
+      "image": "https://static01.nyt.com/images/2026/08/14/multimedia/2026-07-31-europe-heat-deaths-index/2026-07-31-europe-heat-deaths-index-articleLarge-v3.jpg",
+      "timestamp": "2026-08-15T04:01:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/ruestung-boomt-maschinenbau-bricht-weiter-ein-deutschlands-gewinner-und-verlierer-des-monats-ld.10019079",
+      "headline": "Rüstung boomt, Maschinenbau bricht weiter ein – Deutschlands Gewinner und Verlierer des Monats",
+      "image": "https://www.nzz.ch/nzz-fb.png",
+      "timestamp": "2026-08-15T03:30:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
