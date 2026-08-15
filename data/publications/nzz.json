@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-15T04:26:07.918Z",
+  "lastUpdated": "2026-08-15T05:22:06.783Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-see-stirbt-es-lebe-der-see-ld.10019542",
+      "headline": "Der See stirbt, es lebe der See",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/14/c30db5ad-792c-4336-878a-a52c3275f027.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y0&wmark=nzz",
+      "timestamp": "2026-08-15T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

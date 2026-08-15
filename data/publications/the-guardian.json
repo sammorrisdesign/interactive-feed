@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-14T15:21:02.428Z",
+  "lastUpdated": "2026-08-15T05:22:07.467Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/15/will-aoc-run-for-president",
+      "headline": "Is the US ready for President Alexandria Ocasio-Cortez?",
+      "image": "https://i.guim.co.uk/img/media/1df59ee85f53da4c7d6485ec5dad6ba21f5b8435/0_566_3600_2878/master/3600.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a619f6a376645ff374fdc7149e498972",
+      "timestamp": "2026-08-15T05:00:50.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/christopher-berry-dee-bestselling-true-crime-author-investigation",
+      "headline": "Christopher Berry-Dee is the UK’s all-time bestselling true crime author. Is he also a violent abuser of women and children?",
+      "image": "https://i.guim.co.uk/img/media/5c9331273ab532b04836a7afe52c5e3afa45587e/0_1062_3377_2702/master/3377.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eff65168f62d9decfb9af9541fa72852",
+      "timestamp": "2026-08-15T05:00:49.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
