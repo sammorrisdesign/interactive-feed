@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-15T04:26:07.969Z",
+  "lastUpdated": "2026-08-16T04:31:54.261Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/16/realestate/emmy-rossum-home-tour-furious.html",
+      "headline": "Inside Emmy Rossum’s Tidy and Spacious Upper East Side Home",
+      "image": "https://static01.nyt.com/images/2026/08/12/realestate/emmy-rossum-home-tour-furious-1786739042325/emmy-rossum-home-tour-furious-1786739042325-articleLarge.jpg",
+      "timestamp": "2026-08-16T04:01:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

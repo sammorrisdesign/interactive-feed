@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-08-16T03:44:44.283Z",
+  "lastUpdated": "2026-08-16T04:31:55.931Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/16/realestate/emmy-rossum-home-tour-furious.html",
+      "headline": "Inside Emmy Rossum’s Tidy and Spacious Upper East Side Home",
+      "image": "https://static01.nyt.com/images/2026/08/12/realestate/emmy-rossum-home-tour-furious-1786739042325/emmy-rossum-home-tour-furious-1786739042325-articleLarge.jpg",
+      "timestamp": "2026-08-16T04:01:16.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/16/danube-drought-destroyed-crops-rock-of-starvation-climate-crisis",
+      "headline": "Destroyed crops, riverbed cyclists and a ‘Rock of Starvation’: how drought has devastated the Danube",
+      "image": "https://i.guim.co.uk/img/media/c5811e7551d0d46e43490e866bcb5ffab45826d3/530_0_6017_4817/master/6017.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a018d7f6dd50921f450e68b4dea32680",
+      "timestamp": "2026-08-16T04:00:15.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
