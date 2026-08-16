@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-15T05:22:06.783Z",
+  "lastUpdated": "2026-08-16T03:44:42.983Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/braune-wiesen-im-sonnenschein-so-trocken-sieht-die-schweiz-aus-dem-weltall-aus-ld.10019405",
+      "headline": "Braune Wiesen im Sonnenschein: So trocken sieht die Schweiz aus dem Weltall aus",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/14/9c2a9a30-7e1d-41ca-8219-fb1c75880315.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-08-16T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
