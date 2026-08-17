@@ -1,12 +1,29 @@
 {
-  "lastUpdated": "2026-08-17T08:38:10.034Z",
+  "lastUpdated": "2026-08-17T09:36:33.358Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/17/opinion/covid-pandemic-lab-leak-prevention.html",
+      "headline": "How to Stop a Lab Leak From Starting the Next Pandemic",
+      "image": "https://static01.nyt.com/images/2026/08/17/opinion/17chan/17chan-articleLarge-v2.jpg",
+      "timestamp": "2026-08-17T09:03:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/the-week-in-pictures-total-solar-eclipse-in-spain-earthquake-in-flores-island-and-wildfires-in",
       "headline": "The Week in Pictures: Total solar eclipse in Spain, earthquake in Flores island and wildfires in France",
       "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1ea99c78bbfd8805e503cc91ce9ec52b1528d5d273ff03e6f831bf8be4fa1c3e",
       "timestamp": "2026-08-17T07:29:19.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/aug/17/su-pollard-interview-hi-de-hi-cliff-richard-celebrity-encounters",
+      "headline": "‘Paul McCartney asked for my autograph!’ Su Pollard on Hi-de-Hi! and her amazing celebrity encounters",
+      "image": "https://i.guim.co.uk/img/media/241dfd90d43913606b4cf0197005c9a639568665/0_1321_4480_3584/master/4480.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=664fa6b0b0da4dd1415d91238ff5ecb7",
+      "timestamp": "2026-08-17T06:18:18.000Z"
     },
     {
       "publication": "South China Morning Post",
@@ -53,6 +70,14 @@
       "headline": "Mapping the 7.7-magnitude quake in Indonesia",
       "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/08/earthquake-tracker-indonesia/earthquake-tracker-indonesia.jpg",
       "timestamp": "2026-08-15T14:30:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/15/art-spiegelman-the-us-needs-a-counter-revolution",
+      "headline": "Art Spiegelman: ‘The US needs a counter-revolution’",
+      "image": "https://i.guim.co.uk/img/media/6d433eef548c5147336f6eb79751e16f61654d90/0_1731_4016_3213/master/4016.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df9335433c0b4457e6742b8b045f7094",
+      "timestamp": "2026-08-15T08:00:50.000Z"
     },
     {
       "publication": "The Guardian",
@@ -174,6 +199,14 @@
       "image": "https://static01.nyt.com/images/2026/08/14/multimedia/flashback-promo-2026-08-15-6/flashback-promo-2026-08-15-6-articleLarge.jpg",
       "timestamp": "2026-08-14T16:03:49.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/aug/15/peter-singer-capitalism-is-still-the-most-productive-economic-system-that-ever-existed",
+      "headline": "Peter Singer: ‘Capitalism is still the most productive economic system that ever existed’",
+      "image": "https://i.guim.co.uk/img/media/d3c7425c8777ee5c0d0893362f3e865285c9b744/0_2168_5464_4369/master/5464.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=649084f371c8504947884a4316ada9dd",
+      "timestamp": "2026-08-14T15:00:33.000Z"
     },
     {
       "publication": "The Guardian",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-16T04:31:54.261Z",
+  "lastUpdated": "2026-08-17T09:36:31.256Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/17/opinion/covid-pandemic-lab-leak-prevention.html",
+      "headline": "How to Stop a Lab Leak From Starting the Next Pandemic",
+      "image": "https://static01.nyt.com/images/2026/08/17/opinion/17chan/17chan-articleLarge-v2.jpg",
+      "timestamp": "2026-08-17T09:03:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
