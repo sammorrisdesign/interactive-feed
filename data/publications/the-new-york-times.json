@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-17T09:36:31.256Z",
+  "lastUpdated": "2026-08-17T21:49:52.060Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/17/magazine/transformers-power-electric-grid.html",
+      "headline": "Why Is It So Hard to Build the Thing Our Entire Power Supply Depends On?",
+      "image": "https://static01.nyt.com/images/2026/08/23/magazine/23mag-transformers/23mag-transformers-articleLarge-v2.jpg",
+      "timestamp": "2026-08-17T21:49:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
