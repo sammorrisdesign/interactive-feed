@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-18T20:48:44.415Z",
+  "lastUpdated": "2026-08-18T21:19:59.962Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/climate/ev-car-sales-oil-prices.html",
+      "headline": "The Gulf Oil Shock Is Pushing E.V. Sales to New Heights. See Where.",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/2026-cli-ev-sales-index/2026-cli-ev-sales-index-articleLarge-v6.png",
+      "timestamp": "2026-08-18T21:09:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
