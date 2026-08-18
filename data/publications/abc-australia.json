@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-09T19:29:37.776Z",
+  "lastUpdated": "2026-08-18T19:24:31.383Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-19/gun-numbers-australia-explainer/107046264",
+      "headline": "What we do and don't know about guns in Australia",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e5c83f5241862826cbafdb77b1722905?impolicy=wcms_crop_resize&cropH=1011&cropW=1350&xPos=0&yPos=493&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

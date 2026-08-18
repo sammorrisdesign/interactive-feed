@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-18T16:58:31.374Z",
+  "lastUpdated": "2026-08-18T19:24:33.404Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/18/nfl-guardians-caps-preseason-concussions/91352054007/",
+      "headline": "Guardian Caps have reduced preseason concussions, NFL says. See how they work",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2024/08/29/USAT/74996867007-concussion-topper.png",
+      "timestamp": "2026-08-18T19:11:38.707Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -177653,6 +177661,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-19/gun-numbers-australia-explainer/107046264",
+      "headline": "What we do and don't know about guns in Australia",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e5c83f5241862826cbafdb77b1722905?impolicy=wcms_crop_resize&cropH=1011&cropW=1350&xPos=0&yPos=493&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",
