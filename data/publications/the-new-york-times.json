@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-08-18T09:28:20.571Z",
+  "lastUpdated": "2026-08-18T15:56:32.138Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-senate-special-primary-august-18.html",
+      "headline": "Florida U.S. Senate Special Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-s-02a78d/eln-PRE-2026-08-18-race-fl-us-s-02a78d-articleLarge.jpg",
+      "timestamp": "2026-08-18T15:16:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-7-primary.html",
+      "headline": "Florida Seventh Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-7-18ab1e/eln-PRE-2026-08-18-race-fl-us-h-7-18ab1e-articleLarge.jpg",
+      "timestamp": "2026-08-18T15:16:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-20-primary.html",
+      "headline": "Florida 20th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-20-e46826/eln-PRE-2026-08-18-race-fl-us-h-20-e46826-articleLarge.jpg",
+      "timestamp": "2026-08-18T15:15:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-19-primary.html",
+      "headline": "Florida 19th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-19-5cd6fe/eln-PRE-2026-08-18-race-fl-us-h-19-5cd6fe-articleLarge.jpg",
+      "timestamp": "2026-08-18T15:15:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
