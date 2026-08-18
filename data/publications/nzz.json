@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-16T03:44:42.983Z",
+  "lastUpdated": "2026-08-18T04:06:12.243Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/ki-chat-modelle-wahl-o-mat-sachsen-anhalt-afd-ld.10019466",
+      "headline": "Vier KI-Modelle machen den Wahl-O-Mat für Sachsen-Anhalt. Bei einer Partei sind sich alle einig",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/14/43575541-7bac-4a9d-b480-1ef1c22b521e.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y265&wmark=nzz",
+      "timestamp": "2026-08-18T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
