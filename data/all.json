@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-08-18T20:19:11.795Z",
+  "lastUpdated": "2026-08-18T20:48:44.415Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/18/washington-dc-grand-prix-map-route-freedom-250/91342742007/",
+      "headline": "Map shows the Washington, DC, grand prix route at the National Mall",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/18/USAT/91351223007-freedom-250-gp.jpg",
+      "timestamp": "2026-08-18T20:38:34.061Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/world/asia/afghanistan-quake-tracker.html",
+      "headline": "Map: 5.3-Magnitude Earthquake Shakes Afghanistan",
+      "image": "https://static01.nyt.com/images/2026/08/18/world/18wea-quake-tracker-afghanistan-nytik2fk-v2-index/18wea-quake-tracker-afghanistan-nytik2fk-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-08-18T20:21:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

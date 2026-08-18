@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-18T20:19:10.428Z",
+  "lastUpdated": "2026-08-18T20:48:41.180Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/world/asia/afghanistan-quake-tracker.html",
+      "headline": "Map: 5.3-Magnitude Earthquake Shakes Afghanistan",
+      "image": "https://static01.nyt.com/images/2026/08/18/world/18wea-quake-tracker-afghanistan-nytik2fk-v2-index/18wea-quake-tracker-afghanistan-nytik2fk-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-08-18T20:21:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
