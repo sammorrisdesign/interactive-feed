@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-17T21:49:52.060Z",
+  "lastUpdated": "2026-08-18T01:00:33.483Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/17/books/summer-books-quiz.html",
+      "headline": "We Love These Summer Reads. Answer 4 Questions to Find the One for You.",
+      "image": "https://static01.nyt.com/images/2026/07/29/books/summer-books-quiz-1786730517046/summer-books-quiz-1786730517046-articleLarge.jpg",
+      "timestamp": "2026-08-17T23:55:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
