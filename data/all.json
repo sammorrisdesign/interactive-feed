@@ -1,6 +1,78 @@
 {
-  "lastUpdated": "2026-08-18T15:56:34.337Z",
+  "lastUpdated": "2026-08-18T16:28:35.849Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/rhode-island-us-house-2-polls-2026.html",
+      "headline": "Rhode Island 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-18T16:18:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-28-primary.html",
+      "headline": "Florida 28th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-28-fe43ff/eln-PRE-2026-08-18-race-fl-us-h-28-fe43ff-articleLarge.jpg",
+      "timestamp": "2026-08-18T16:03:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-5-primary.html",
+      "headline": "Florida Fifth Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-5-2fb772/eln-PRE-2026-08-18-race-fl-us-h-5-2fb772-articleLarge.jpg",
+      "timestamp": "2026-08-18T16:03:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-23-primary.html",
+      "headline": "Florida 23rd Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-23-56b293/eln-PRE-2026-08-18-race-fl-us-h-23-56b293-articleLarge.jpg",
+      "timestamp": "2026-08-18T16:03:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-21-primary.html",
+      "headline": "Florida 21st Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-21-602a21/eln-PRE-2026-08-18-race-fl-us-h-21-602a21-articleLarge.jpg",
+      "timestamp": "2026-08-18T16:03:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-26-primary.html",
+      "headline": "Florida 26th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-26-cdd407/eln-PRE-2026-08-18-race-fl-us-h-26-cdd407-articleLarge.jpg",
+      "timestamp": "2026-08-18T16:03:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-17-primary.html",
+      "headline": "Florida 17th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-17-487e6f/eln-PRE-2026-08-18-race-fl-us-h-17-487e6f-articleLarge.jpg",
+      "timestamp": "2026-08-18T16:03:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/18/us/elections/results-florida-us-house-14-primary.html",
+      "headline": "Florida 14th Congressional District Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/08/18/multimedia/eln-PRE-2026-08-18-race-fl-us-h-14-87b7e6/eln-PRE-2026-08-18-race-fl-us-h-14-87b7e6-articleLarge.jpg",
+      "timestamp": "2026-08-18T16:03:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
