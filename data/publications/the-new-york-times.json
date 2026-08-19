@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-19T04:32:57.520Z",
+  "lastUpdated": "2026-08-19T20:53:15.221Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/19/us/politics/trump-indycar-race-washington-dc.html",
+      "headline": "See Where Indy Cars Will Race Through the Nation’s Capital",
+      "image": "https://static01.nyt.com/images/2026/08/19/multimedia/2026-07-22-freedom-250-grand-prix-index/2026-07-22-freedom-250-grand-prix-index-articleLarge-v2.jpg",
+      "timestamp": "2026-08-19T20:30:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
