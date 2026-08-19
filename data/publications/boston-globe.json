@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-17T15:48:44.209Z",
+  "lastUpdated": "2026-08-19T15:56:40.494Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/elections/massachusetts/voter-guide/",
+      "headline": "Everything you need to know about the 2026 Massachusetts primary election",
+      "image": "https://apps.bostonglobe.com/elections/massachusetts/voter-guide/static/9f1685cc1f009d00f74d155812f7d425/47498/2IIQ22BABBCPHMAFEN67IDKCXQ.jpg",
+      "timestamp": "2026-08-08T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "blueSkyHandle": "bostonglobe.bsky.social",
