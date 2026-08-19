@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-18T19:24:31.383Z",
+  "lastUpdated": "2026-08-19T19:03:34.772Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-20/fake-abc-scam-money-trail-leads-to-global-network/106895388",
+      "headline": "Money trail from fake ABC articles leads to international fraud network",
+      "image": "https://live-production.wcms.abc-cdn.net.au/62aa8207927edb5935750bf47a24107e?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=94&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
