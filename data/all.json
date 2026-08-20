@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-08-20T12:39:43.398Z",
+  "lastUpdated": "2026-08-20T18:33:23.632Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/20/espanol/terremoto-peru-ayacucho.html",
+      "headline": "Mapa: un terremoto de magnitud 6,7 sacude Perú",
+      "timestamp": "2026-08-20T18:29:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/20/world/americas/peru-quake-tracker.html",
+      "headline": "Map: 6.7-Magnitude Earthquake Shakes Peru",
+      "image": "https://static01.nyt.com/images/2026/08/20/world/20wea-quake-tracker-peru-nyt9a6xv-v2-index/20wea-quake-tracker-peru-nyt9a6xv-v2-index-articleLarge.jpg",
+      "timestamp": "2026-08-20T18:24:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
