@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-19T20:53:15.221Z",
+  "lastUpdated": "2026-08-20T02:35:39.162Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/ohio-us-house-15-polls-2026.html",
+      "headline": "Ohio 15th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-20T01:57:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
