@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-20T20:23:44.101Z",
+  "lastUpdated": "2026-08-20T22:22:50.938Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/20/well/eat/bagged-lettuce-salad-cyclospora-e-coli.html",
+      "headline": "9 Vulnerable Moments in the Life of a Bagged Salad",
+      "image": "https://static01.nyt.com/images/2026/08/20/well/20Well-Cyclospora-static-promo/20Well-Cyclospora-02-articleLarge-v3.jpg",
+      "timestamp": "2026-08-20T22:06:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
