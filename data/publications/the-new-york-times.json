@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-20T18:33:22.385Z",
+  "lastUpdated": "2026-08-20T19:28:07.866Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/20/nyregion/albany-bomb-criminal-complaint.html",
+      "headline": "Read the criminal complaint about a bomb plot in Albany",
+      "image": "https://static01.nyt.com/images/2026/08/20/doc-albany-promo/doc-albany-promo-articleLarge.png",
+      "timestamp": "2026-08-20T18:54:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
