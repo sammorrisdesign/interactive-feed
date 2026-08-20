@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-20T02:35:39.162Z",
+  "lastUpdated": "2026-08-20T09:30:15.934Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/20/opinion/trump-election-interference-democracy.html",
+      "headline": "Trump’s Election Interference Is Eroding American Democracy",
+      "image": "https://static01.nyt.com/images/2026/08/20/opinion/20-edboard/20-edboard-articleLarge-v2.jpg",
+      "timestamp": "2026-08-20T09:03:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/20/travel/things-to-do-cotswolds.html",
+      "headline": "36 Hours in the Cotswolds",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/20trav-hours-cotswolds-vkgj/20trav-hours-cotswolds-vkgj-articleLarge.jpg",
+      "timestamp": "2026-08-20T09:03:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
