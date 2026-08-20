@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T20:23:45.328Z",
+  "lastUpdated": "2026-08-20T20:56:03.878Z",
   "articles": [
     {
       "publication": "The New York Times",
@@ -18,6 +18,14 @@
       "image": "https://static01.nyt.com/images/2026/08/20/doc-albany-promo/doc-albany-promo-articleLarge.png",
       "timestamp": "2026-08-20T18:54:22.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/in-depth/graphics/2026/08/20/lake-mead-bodies-discovered-drought/91385455007/",
+      "headline": "Grim discoveries emerge as Lake Mead's water levels drop",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/20/USAT/91389157007-lake-meaditems-topper.png",
+      "timestamp": "2026-08-20T18:31:35.729Z"
     },
     {
       "publication": "The New York Times",
