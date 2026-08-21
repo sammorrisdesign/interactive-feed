@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-20T08:33:27.981Z",
+  "lastUpdated": "2026-08-21T06:54:44.917Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/der-persische-golf-schwimmt-im-oel-ld.10020015",
+      "headline": "Der Persische Golf schwimmt im Öl",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/19/ba99c6b6-2530-43db-b945-456d42299264.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1680,945,x0,y168&wmark=nzz",
+      "timestamp": "2026-08-21T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
