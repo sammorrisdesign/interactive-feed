@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-21T11:24:25.901Z",
+  "lastUpdated": "2026-08-21T12:38:53.961Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/21/lyra-mckee-murder-northern-ireland",
+      "headline": "‘It could only have been one person’: top former detective says system failed the murdered journalist Lyra McKee",
+      "image": "https://i.guim.co.uk/img/media/fbb889c25db3ef826b48140e99dcea6c1ef11bf0/0_407_1488_1190/master/1488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84e4c77e00abd3b1606f47e3bc74fb58",
+      "timestamp": "2026-08-21T12:00:34.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
