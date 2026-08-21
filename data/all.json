@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-21T09:32:53.524Z",
+  "lastUpdated": "2026-08-21T11:24:25.901Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/21/world/asia/china-ai-life.html",
+      "headline": "A.I. Is Everywhere in China. See For Yourself.",
+      "image": "https://static01.nyt.com/images/2026/08/21/multimedia/2026-04-08-china-ai-daily-life-index/2026-04-08-china-ai-daily-life-index-articleLarge.jpg",
+      "timestamp": "2026-08-21T11:02:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/vornamen-2025-sofia-und-noah-bleiben-die-spitze-512581396297",
