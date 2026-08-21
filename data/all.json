@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-08-21T12:38:53.961Z",
+  "lastUpdated": "2026-08-21T15:05:49.169Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/aug/22/arj-barker-im-socially-not-wired-the-same-as-other-people",
+      "headline": "Arj Barker: ‘I’m socially not wired the same as other people’",
+      "image": "https://i.guim.co.uk/img/media/0766162526fe875a8a3ad4fdb7d80d246347f91c/569_0_5000_4002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=958697e4f4f6755d2bc9f0b4526696a1",
+      "timestamp": "2026-08-21T15:00:39.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/massachusetts-top-two-primary-initiative-polls-2026.html",
+      "headline": "Massachusetts Top-Two Primary Initiative 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-21T14:59:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

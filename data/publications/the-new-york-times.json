@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-21T11:24:25.044Z",
+  "lastUpdated": "2026-08-21T15:05:47.067Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/massachusetts-top-two-primary-initiative-polls-2026.html",
+      "headline": "Massachusetts Top-Two Primary Initiative 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-21T14:59:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
