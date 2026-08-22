@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-21T19:23:12.132Z",
+  "lastUpdated": "2026-08-22T01:01:05.810Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/22/fat-papi-rapper-prodshushy-freaked-out-song-billboard-hot-100",
+      "headline": "Meet Fat Papi, the little-known NZ rapper catapulted to Billboard 100 fame",
+      "image": "https://i.guim.co.uk/img/media/f6d0b1520ef6cc31989959612c6086f0cc70802b/0_1393_3648_2918/master/3648.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d135bf375edceef42a0aac578aa1c6be",
+      "timestamp": "2026-08-22T00:00:48.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
