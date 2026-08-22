@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-19T19:03:34.772Z",
+  "lastUpdated": "2026-08-22T18:57:41.972Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-23/swans-fans-grapple-with-scandal-ahead-of-double-header/107066804",
+      "headline": "Sydney Swans fans grapple with scandal ahead of double header",
+      "image": "https://live-production.wcms.abc-cdn.net.au/fc87e4e465cefc06064664c2ea2526a0?impolicy=wcms_crop_resize&cropH=2959&cropW=3945&xPos=247&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
