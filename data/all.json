@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-22T05:00:23.312Z",
+  "lastUpdated": "2026-08-22T05:34:38.703Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/food/ng-interactive/2026/aug/22/ice-cream-future-pleasure-wellness-fads-weight-loss-drugs",
+      "headline": "‘It exists only for pleasure’: does ice-cream have a future in the age of wellness fads and weight-loss drugs? ",
+      "image": "https://i.guim.co.uk/img/media/66171c120cef67f9aadf53fb089b157cc380a519/0_1781_5198_4158/master/5198.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f022b6c746b601d286cf4e662e01249a",
+      "timestamp": "2026-08-22T05:00:57.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/22/prince-harry-meghan-american-dream",
+      "headline": "Is this the end of Harry and Meghan’s American dream?",
+      "image": "https://i.guim.co.uk/img/media/31ead7211ce19532d42e165c485eb0cb3d6691c2/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d1b528424c12928d84d1b0f3a7239c0",
+      "timestamp": "2026-08-22T05:00:55.000Z"
+    },
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",
