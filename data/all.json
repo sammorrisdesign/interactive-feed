@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-24T09:42:44.510Z",
+  "lastUpdated": "2026-08-24T10:33:57.925Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/24/north-carolina-senate-race-hurricane-helene",
+      "headline": "Devastation, doubt and blame: Hurricane Helene looms over North Carolina’s US Senate race",
+      "image": "https://i.guim.co.uk/img/media/aa2d648008f26d0adcb1569700ca4030ae953c22/0_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52f7e20f489bd4307bbe6faa9db2bf3e",
+      "timestamp": "2026-08-24T10:00:30.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -16,6 +24,14 @@
       "headline": "The Week in Pictures: Finger-pulling contest in Germany, humanoid robots in China, Kenyan cosplayers",
       "image": "https://cassette.sphdigital.com.sg/image/straitstimes/87285358a341e5406e67ef9e41b1236ab24128aeb320b06d64b1738e71466c6e",
       "timestamp": "2026-08-24T03:07:51.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2026/08/24/fighting-measles-is-expensive-see-what-it-cost-contain-10-cases/",
+      "headline": "Fighting measles is expensive. See what it cost to contain 10 cases.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/E4P4T5VFI5FUDJJTLTMLZV35ZE.jpg&w=300",
+      "timestamp": "2026-08-24T00:00:00.000Z"
     },
     {
       "publication": "Tages-Anzeiger",
