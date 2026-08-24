@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-22T18:57:41.972Z",
+  "lastUpdated": "2026-08-24T18:40:47.469Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-25/rising-misogyny-in-young-people/107053640",
+      "headline": "Misogyny identified as biggest red flag for violent extremism",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9788339263cf42689d823803789bb24d?impolicy=wcms_crop_resize&cropH=3333&cropW=4444&xPos=182&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

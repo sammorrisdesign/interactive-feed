@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T16:32:33.259Z",
+  "lastUpdated": "2026-08-24T18:40:50.653Z",
   "articles": [
     {
       "publication": "The New York Times",
@@ -178123,6 +178123,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-25/rising-misogyny-in-young-people/107053640",
+      "headline": "Misogyny identified as biggest red flag for violent extremism",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9788339263cf42689d823803789bb24d?impolicy=wcms_crop_resize&cropH=3333&cropW=4444&xPos=182&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",
