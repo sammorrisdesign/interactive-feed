@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-24T18:40:50.653Z",
+  "lastUpdated": "2026-08-24T21:32:50.585Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/24/books/ezra-pound-poem-station-metro.html",
+      "headline": "These 20 Words Are Worth a Thousand Pictures",
+      "image": "https://static01.nyt.com/images/2026/08/10/books/00TBR-pound-02/00TBR-pound-02-articleLarge.jpg",
+      "timestamp": "2026-08-24T21:16:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
