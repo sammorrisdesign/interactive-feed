@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-24T13:48:27.270Z",
+  "lastUpdated": "2026-08-24T16:32:33.259Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/24/weather/saudel-map-path-tracker.html",
+      "headline": "Tracking Typhoon Saudel",
+      "image": "https://static01.nyt.com/images/2026/08/18/weather/seventeen-map-path-tracker-index/seventeen-map-path-tracker-index-articleLarge-v26.jpg",
+      "timestamp": "2026-08-24T15:36:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
