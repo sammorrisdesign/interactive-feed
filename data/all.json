@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-24T10:33:57.925Z",
+  "lastUpdated": "2026-08-24T13:48:27.270Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/arizona-voter-id-citizenship-amendment-polls-2026.html",
+      "headline": "Arizona Prop. 144 Voter ID and Citizenship Voting Amendment 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-24T13:43:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/maryland-us-house-1-polls-2026.html",
+      "headline": "Maryland 1st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-08-24T13:16:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
