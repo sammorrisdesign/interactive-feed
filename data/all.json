@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-25T10:27:47.627Z",
+  "lastUpdated": "2026-08-25T11:34:58.565Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/aug/25/catherine-herridge-journalist-supreme-court",
+      "headline": "‘The day I disclose, my career is over’: the journalist facing an $800 daily fine to keep her sources secret",
+      "image": "https://i.guim.co.uk/img/media/3dcb6d986bfc898b26d1cd3d068799013d75078a/534_501_2451_1961/master/2451.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bb951d976cf88bca3a236abed7d08784",
+      "timestamp": "2026-08-25T11:00:35.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "blueSkyHandle": "texastribune.bsky.social",
