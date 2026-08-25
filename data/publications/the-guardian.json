@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-25T14:40:25.162Z",
+  "lastUpdated": "2026-08-25T15:38:34.643Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/25/los-angeles-gangs-youth-gun-violence",
+      "headline": "The ex-gang member breaking the cycle of violence among LA youths",
+      "image": "https://i.guim.co.uk/img/media/8cb6c730baec81a24251a3e3de955ba68c347765/0_0_3000_2400/master/3000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8d6f5e59b0c5cb66385b20a9ad28c6ab",
+      "timestamp": "2026-08-25T15:00:18.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
