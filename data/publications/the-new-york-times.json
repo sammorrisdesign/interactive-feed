@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-25T03:44:29.555Z",
+  "lastUpdated": "2026-08-25T09:31:28.401Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/25/polls/times-inquirer-siena-pa-poll-toplines.html",
+      "headline": "Toplines: August 2026 Times/Inquirer/Siena Poll of Registered Voters in Pennsylvania",
+      "timestamp": "2026-08-25T09:03:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/25/polls/times-inquirer-siena-pa-poll-rv-crosstabs.html",
+      "headline": "Cross-Tabs: August 2026 Times/Inquirer/Siena Poll of Registered Voters in Pennsylvania",
+      "timestamp": "2026-08-25T09:03:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/25/polls/times-inquirer-siena-pa-poll-lv-crosstabs.html",
+      "headline": "Cross-Tabs: August 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania",
+      "timestamp": "2026-08-25T09:03:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-24T10:33:55.790Z",
+  "lastUpdated": "2026-08-25T09:31:28.428Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
+      "headline": "How accurate are AI writing detectors? Try to trick this one.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FLQW6FG2TFHBPLCXKGQTTJRM7I.jpg&w=300",
+      "timestamp": "2026-08-25T00:00:00.000Z"
+    },
     {
       "publication": "The Washington Post",
       "blueSkyHandle": "washingtonpost.com",

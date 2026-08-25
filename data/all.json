@@ -1,11 +1,43 @@
 {
-  "lastUpdated": "2026-08-25T07:40:15.787Z",
+  "lastUpdated": "2026-08-25T09:31:30.725Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/25/polls/times-inquirer-siena-pa-poll-toplines.html",
+      "headline": "Toplines: August 2026 Times/Inquirer/Siena Poll of Registered Voters in Pennsylvania",
+      "timestamp": "2026-08-25T09:03:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/25/polls/times-inquirer-siena-pa-poll-rv-crosstabs.html",
+      "headline": "Cross-Tabs: August 2026 Times/Inquirer/Siena Poll of Registered Voters in Pennsylvania",
+      "timestamp": "2026-08-25T09:03:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/25/polls/times-inquirer-siena-pa-poll-lv-crosstabs.html",
+      "headline": "Cross-Tabs: August 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania",
+      "timestamp": "2026-08-25T09:03:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-aug-25-2026",
       "headline": "Today in Pictures, Aug 25, 2026",
       "timestamp": "2026-08-25T04:36:13.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/25/other-post-office-scandal-organised-crime-launders-money-high-street",
+      "headline": "The other Post Office scandal: how organised crime launders money on the high street",
+      "image": "https://i.guim.co.uk/img/media/ac4ed15f03ef7d1e32d25560b23f0a2c9104e5a8/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f336a451f9380885f58c757d28355d97",
+      "timestamp": "2026-08-25T04:00:49.000Z"
     },
     {
       "publication": "FT",
@@ -22,6 +54,14 @@
       "image": "https://static01.nyt.com/images/2026/08/25/well/25WELL-DATING-LINGO-QUIZ-lede/25WELL-DATING-LINGO-QUIZ-lede-articleLarge-v5.png",
       "timestamp": "2026-08-25T03:10:57.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/08/25/ai-detectors-like-pangram-are-everywhere-arent-always-accurate/",
+      "headline": "How accurate are AI writing detectors? Try to trick this one.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/FLQW6FG2TFHBPLCXKGQTTJRM7I.jpg&w=300",
+      "timestamp": "2026-08-25T00:00:00.000Z"
     },
     {
       "publication": "USA Today",
