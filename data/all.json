@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-24T22:21:41.946Z",
+  "lastUpdated": "2026-08-25T03:44:30.578Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/24/well/dating-terms-phrases-lingo-quiz.html",
+      "headline": "Are You Fluent in the Latest Dating Lingo? Take Our Quiz.",
+      "image": "https://static01.nyt.com/images/2026/08/25/well/25WELL-DATING-LINGO-QUIZ-lede/25WELL-DATING-LINGO-QUIZ-lede-articleLarge-v5.png",
+      "timestamp": "2026-08-25T03:10:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
