@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-25T09:31:30.725Z",
+  "lastUpdated": "2026-08-25T10:27:47.627Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/08/25/texas-general-election-november-2026-voter-guide/",
+      "headline": "Here’s how to cast a ballot in Texas’ midterm election on Nov. 3",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/08/TT-E26-PrimaryVoterGuide-Lead-scaled.png?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-08-25T10:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
