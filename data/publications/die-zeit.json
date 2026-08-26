@@ -1,6 +1,62 @@
 {
-  "lastUpdated": "2026-08-08T07:46:00.125Z",
+  "lastUpdated": "2026-08-26T16:14:58.330Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/gesundheit/2026-08/gesundheits-test-herz-kreislauf-ballaststoffe-ernaehrung-psyche",
+      "headline": "Was wissen Sie über Ihre Gesundheit?",
+      "image": "https://img.zeit.de/gesundheit/2026-08/gesundheits-quiz-herz-kreislauf-ballaststoffe-ernaehrung-psyche-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/deutschland-spricht-debatte-diskussion-themen-datenanalyse",
+      "headline": "Wie stehen Sie zu den großen Streitfragen des Landes?",
+      "image": "https://img.zeit.de/politik/deutschland/2026-08/deutschland-spricht-debatte-diskussion-themen-datenanalyse-teaser/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/parteimiglieder-wachstum-schrumpfen-krise-linke-afd-spd",
+      "headline": "Den Parteien laufen die Mitglieder davon? Zahlen sagen etwas anderes",
+      "image": "https://img.zeit.de/politik/deutschland/2026-08/parteimiglieder-wachstum-schrumpfen-krise-linke-afd-spd-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/mobilitaet/2026-08/ladesaeulen-e-autos-infrastruktur-bedarf-ueberversorgung",
+      "headline": "Wie gut ist Ihre Nachbarschaft mit Ladesäulen versorgt?",
+      "image": "https://img.zeit.de/mobilitaet/2026-08/ladesaeulen-e-autos-infrastruktur-bedarf-ueberversorgung-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/2026-08/wahl-sachsen-anhalt-wahl-o-mat-daten",
+      "headline": "Auf was könnte sich ein großes Anti-AfD-Bündnis einigen?",
+      "image": "https://img.zeit.de/politik/2025-02/bundestagswahl-wahl-o-mat-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/landtagswahl-sachsen-anhalt-afd-umfrage-spd-gruene",
+      "headline": "Warum die Chance der AfD auf eine Alleinregierung schwindet",
+      "image": "https://img.zeit.de/politik/deutschland/2026-07/landtagswahl-sachsen-anhalt-afd-umfrage-spd-gruene-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/2026-07/weimarer-republik-nsdap-wahlen-daten-analyse",
+      "headline": "Wie die Nazis Stück für Stück an die Macht gewählt wurden",
+      "image": "https://img.zeit.de/wissenschaft/2026-07/weimarer-republik-nsdap-wahlen-daten-analyse-teaserbild/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",

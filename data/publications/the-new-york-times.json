@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-25T15:38:34.674Z",
+  "lastUpdated": "2026-08-26T16:14:58.378Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/26/nyregion/mciver-trump-delaney-third-circuit-decision.html",
+      "headline": "Read the Decision From the Federal Appeals Panel",
+      "image": "https://static01.nyt.com/images/2026/08/26/doc-lamonica-mciver-3rd-circu-promo/doc-lamonica-mciver-3rd-circu-promo-articleLarge.png",
+      "timestamp": "2026-08-26T15:51:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

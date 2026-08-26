@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-26T14:40:35.978Z",
+  "lastUpdated": "2026-08-26T16:15:08.996Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/26/nyregion/mciver-trump-delaney-third-circuit-decision.html",
+      "headline": "Read the Decision From the Federal Appeals Panel",
+      "image": "https://static01.nyt.com/images/2026/08/26/doc-lamonica-mciver-3rd-circu-promo/doc-lamonica-mciver-3rd-circu-promo-articleLarge.png",
+      "timestamp": "2026-08-26T15:51:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",
@@ -180377,6 +180386,62 @@
       "twitterHandle": "CNN",
       "url": "https://www.cnn.com/interactive/2022/07/us/cnn-5-things-news-quiz-july-7-sec/",
       "headline": "The average score for this week's news quiz is 7.6. Think you can do better?",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/gesundheit/2026-08/gesundheits-test-herz-kreislauf-ballaststoffe-ernaehrung-psyche",
+      "headline": "Was wissen Sie über Ihre Gesundheit?",
+      "image": "https://img.zeit.de/gesundheit/2026-08/gesundheits-quiz-herz-kreislauf-ballaststoffe-ernaehrung-psyche-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/deutschland-spricht-debatte-diskussion-themen-datenanalyse",
+      "headline": "Wie stehen Sie zu den großen Streitfragen des Landes?",
+      "image": "https://img.zeit.de/politik/deutschland/2026-08/deutschland-spricht-debatte-diskussion-themen-datenanalyse-teaser/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-08/parteimiglieder-wachstum-schrumpfen-krise-linke-afd-spd",
+      "headline": "Den Parteien laufen die Mitglieder davon? Zahlen sagen etwas anderes",
+      "image": "https://img.zeit.de/politik/deutschland/2026-08/parteimiglieder-wachstum-schrumpfen-krise-linke-afd-spd-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/mobilitaet/2026-08/ladesaeulen-e-autos-infrastruktur-bedarf-ueberversorgung",
+      "headline": "Wie gut ist Ihre Nachbarschaft mit Ladesäulen versorgt?",
+      "image": "https://img.zeit.de/mobilitaet/2026-08/ladesaeulen-e-autos-infrastruktur-bedarf-ueberversorgung-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/2026-08/wahl-sachsen-anhalt-wahl-o-mat-daten",
+      "headline": "Auf was könnte sich ein großes Anti-AfD-Bündnis einigen?",
+      "image": "https://img.zeit.de/politik/2025-02/bundestagswahl-wahl-o-mat-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-07/landtagswahl-sachsen-anhalt-afd-umfrage-spd-gruene",
+      "headline": "Warum die Chance der AfD auf eine Alleinregierung schwindet",
+      "image": "https://img.zeit.de/politik/deutschland/2026-07/landtagswahl-sachsen-anhalt-afd-umfrage-spd-gruene-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/2026-07/weimarer-republik-nsdap-wahlen-daten-analyse",
+      "headline": "Wie die Nazis Stück für Stück an die Macht gewählt wurden",
+      "image": "https://img.zeit.de/wissenschaft/2026-07/weimarer-republik-nsdap-wahlen-daten-analyse-teaserbild/wide__892x502",
       "timestamp": null
     },
     {
