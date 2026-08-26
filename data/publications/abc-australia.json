@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-24T18:40:47.469Z",
+  "lastUpdated": "2026-08-26T03:51:19.355Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-26/dolly-parton-famous-quotes-on-fame-life-and-loss/107078516",
+      "headline": "Dolly Parton on life, love and loss in her own words",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9e6e2ef92a1ac9cb73502e9b6f4e124d?impolicy=wcms_crop_resize&cropH=3226&cropW=4301&xPos=531&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
