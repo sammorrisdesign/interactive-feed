@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-26T20:31:35.584Z",
+  "lastUpdated": "2026-08-27T00:25:36.440Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/26/world/asia/nepal-china-flash-flood.html",
+      "headline": "Maps and Images Show the Devastation in Nepal’s Flooding",
+      "image": "https://static01.nyt.com/images/2026/08/26/multimedia/2026-08-26-nepal-floods-index/2026-08-26-nepal-floods-index-articleLarge-v11.jpg",
+      "timestamp": "2026-08-26T20:53:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
