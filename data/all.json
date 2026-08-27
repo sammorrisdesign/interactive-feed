@@ -1,6 +1,61 @@
 {
-  "lastUpdated": "2026-08-27T10:06:48.290Z",
+  "lastUpdated": "2026-08-27T20:40:23.415Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/27/dolly-parton-quiz-legendary-career/91476747007/",
+      "headline": "Fans 'will always love' Dolly Parton. Test your knowledge of her legendary career",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/27/USAT/91493898007-dollytopper.jpg",
+      "timestamp": "2026-08-27T20:17:49.760Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/sac-huetten-die-149-unterkuenfte-im-grossen-vergleich-153188793525",
+      "headline": "Übersicht für Wanderer: Alle 149 SAC-Hütten im grossen Vergleich",
+      "timestamp": "2026-08-27T19:40:14.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/asia-pacific/how-glacier-collapse-triggered-deadly-landslide-flooding-along-nepal-china-2026-08-27/",
+      "headline": "How a glacier collapse triggered a deadly landslide and flooding along the Nepal-China border",
+      "image": "https://www.reuters.com/resizer/v2/XYHUKA4PKJAYRKBYQKABS5RJ54.jpg?auth=6dc67b306743f341edd94f19508a16b5616ce9fba136fbbe6a32fb77390ac100&width=1200&quality=80",
+      "timestamp": "2026-08-27T18:40:21.638Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/27/world/asia/nepal-flash-flood-damage.html",
+      "headline": "See the Scale of Destruction of Nepal Flooding",
+      "image": "https://static01.nyt.com/images/2026/08/27/multimedia/2026-08-27-nepal-flood-detailed-index/2026-08-27-nepal-flood-detailed-index-articleLarge-v4.jpg",
+      "timestamp": "2026-08-27T17:09:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/international/flutkatastrophe-tod-aus-den-bergen-so-stuerzt-die-flut-im-himalaya-talwaerts",
+      "headline": "Flutkatastrophe – Tod aus den Bergen – so stürzt die Flut im Himalaya talwärts",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/33342b.jpg",
+      "timestamp": "2026-08-27T16:27:03.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/27/weather/dolly-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Dolly",
+      "image": "https://static01.nyt.com/images/2026/08/27/weather/dolly-map-path-tracker-index/dolly-map-path-tracker-index-articleLarge-v20.jpg",
+      "timestamp": "2026-08-27T15:12:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/27/african-diaspora-descendants-citizenship",
+      "headline": "Trafficked on the last US slave ship, Cudjo Lewis never returned home to Benin. But his descendant has",
+      "image": "https://i.guim.co.uk/img/media/ed5ec5594b9d318f1727c755f309e6b8e054dae5/0_1053_3649_2919/master/3649.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0261acb3cc0e62542d1196c69607c4ab",
+      "timestamp": "2026-08-27T11:00:12.000Z"
+    },
     {
       "publication": "Reuters",
       "blueSkyHandle": "reuters.com",
