@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-22T04:28:33.028Z",
+  "lastUpdated": "2026-08-28T17:35:22.731Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/toedliche-flut-in-nepal-so-raste-die-schlammlawine-durchs-tal-ld.10021510",
+      "headline": "Tödliche Flut in Nepal: So raste die Schlammlawine durchs Tal",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/28/061e08bc-9d3e-417a-bba2-2581419c6238.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1745,982,x86,y98&wmark=nzz",
+      "timestamp": "2026-08-28T17:01:01.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

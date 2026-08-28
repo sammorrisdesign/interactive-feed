@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-27T20:40:16.013Z",
+  "lastUpdated": "2026-08-28T17:35:23.551Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/membership/ng-interactive/2026/aug/28/the-guardian-climate-pledge-2026",
+      "headline": "The Guardian climate pledge 2026 ",
+      "image": "https://i.guim.co.uk/img/media/fd9791fd3504f6159771e16e97b6092cdd61df6d/126_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3c51e26a2065dd6ecea6a5c2fd55349",
+      "timestamp": "2026-08-28T17:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/aug/29/hannah-ferguson-age-28-cheek-media-albanese-challenge-grayndler-sydney-politics",
+      "headline": "Hannah Ferguson: ‘I’m not Zohran Mamdani, I’m not that cool. But that’s the bar I want to set’",
+      "image": "https://i.guim.co.uk/img/media/ec976efce75962fd1ee4b6dcd5e88ecac5472911/227_0_3125_2500/master/3125.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a5030ad18fd3ace1696121f26987c191",
+      "timestamp": "2026-08-28T15:00:07.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
