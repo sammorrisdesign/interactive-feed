@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-29T08:05:38.997Z",
+  "lastUpdated": "2026-08-29T13:55:59.289Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/stage/ng-interactive/2026/aug/29/showgirls-variety-stars-recall-days-on-stage-in-pictures",
+      "headline": "The showgirl sisterhood: five former variety stars look back at their wild careers – in pictures",
+      "image": "https://i.guim.co.uk/img/media/1b8305fceec45b98834fadbf4d570906279d7701/101_0_5451_4361/master/5451.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db95e46af3c671b5b966ad10e16956ca",
+      "timestamp": "2026-08-29T11:00:26.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -32,6 +40,14 @@
       "headline": "Hundstage in 来牟镇",
       "image": "https://img-msp-prod.nzz.ch/2026/08/14/6642159c-fa8d-40c7-820b-15b3c47db5ed.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5140,2891,x0,y268&wmark=nzz",
       "timestamp": "2026-08-29T04:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/08/29/native-tribes-way-life-was-threatened-by-canada-tariffs-more-are-coming/",
+      "headline": "A Native tribe’s way of life was threatened by tariffs. More are coming.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/YATRDA3CRBBQVIKARSSK4PSXIA.jpg&w=300",
+      "timestamp": "2026-08-29T00:00:00.000Z"
     },
     {
       "publication": "CNA",
