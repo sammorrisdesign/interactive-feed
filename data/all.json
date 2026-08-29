@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-29T01:25:56.016Z",
+  "lastUpdated": "2026-08-29T08:05:38.997Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade",
+      "headline": "How to make a bestseller: insiders reveal the tricks of the book trade",
+      "image": "https://i.guim.co.uk/img/media/2780b4e332f0d9b2da265e750b67d3def2c4803a/83_1625_3035_2427/master/3035.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3792f2381da7c97b9e656c36bb8115cb",
+      "timestamp": "2026-08-29T08:00:21.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/aug/29/hilarity-unease-and-relief-games-show-china-is-not-over-the-finish-line-in-humanoid-robot-race",
+      "headline": "Hilarity, unease and relief: games show China is not over the finish line in humanoid robot race",
+      "image": "https://i.guim.co.uk/img/media/7c7128dc7679d8f7392c821f4bebc8b71431f487/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1466cd29badf3949e2d83bf68c3f362c",
+      "timestamp": "2026-08-29T05:00:19.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/aug/29/best-music-autumn-2026-johnny-marr-phoebe-bridgers",
+      "headline": "The best music of autumn 2026: Johnny Marr, Phoebe Bridgers, Rachel Chinouriri and more",
+      "image": "https://i.guim.co.uk/img/media/7d87cd715db45f319ce8affa3da0f0404822ab54/2_0_9996_8000/master/9996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c8dee6feb86ab2ea238030d1fbbcd091",
+      "timestamp": "2026-08-29T04:00:17.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/hundstage-in-laimouzhen-ld.10019583",
+      "headline": "Hundstage in 来牟镇",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/14/6642159c-fa8d-40c7-820b-15b3c47db5ed.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=5140,2891,x0,y268&wmark=nzz",
+      "timestamp": "2026-08-29T04:00:00.000Z"
+    },
     {
       "publication": "CNA",
       "url": "https://www.channelnewsasia.com/interactive/nepal-tibet-glacier-flood-explainer/%2E",
