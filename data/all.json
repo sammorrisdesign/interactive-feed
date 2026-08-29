@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-28T17:35:35.132Z",
+  "lastUpdated": "2026-08-29T01:25:56.016Z",
   "articles": [
+    {
+      "publication": "CNA",
+      "url": "https://www.channelnewsasia.com/interactive/nepal-tibet-glacier-flood-explainer/%2E",
+      "headline": "CNA Explains: What caused the deadly Nepal-Tibet disaster?",
+      "image": "https://dam.mediacorp.sg/image/upload/s--Rq9uTUiG--/f_auto,q_auto/c_fill,g_center,h_598,w_747/v1/mediacorp/cna/image/2026/08/28/nepal-tibet-explainer-articleshell.gif?itok=cGWWOeKY",
+      "timestamp": "2026-08-28T22:00:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/28/the-flood-took-everything-i-have-survivors-grieve-for-relatives-and-homes-swept-away-in-nepal",
+      "headline": "‘The flood took everything I have’: survivors grieve for relatives and homes swept away in Nepal",
+      "image": "https://i.guim.co.uk/img/media/7f792365390db6e649b0fb841fccdebbe318fc00/0_448_4440_3552/master/4440.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9eab2a744056039b1d6f47b509f8bf82",
+      "timestamp": "2026-08-28T18:22:00.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/08/28/us-troops-killed-in-iran-war/91508094007/",
+      "headline": "The faces and stories of all US troops killed in the Iran war",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/08/28/USAT/91509952007-troopstopper.png",
+      "timestamp": "2026-08-28T18:15:26.906Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/28/nyregion/trump-hush-money-case-hellerstein-decision.html",
+      "headline": "Read the Decision From Judge Alvin Hellerstein",
+      "image": "https://static01.nyt.com/images/2026/08/28/doc-trumphellerstein828-1-promo/doc-trumphellerstein828-1-promo-articleLarge.png",
+      "timestamp": "2026-08-28T17:44:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
@@ -178664,6 +178696,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-08-29/nepal-tibet-flood-rescue-challenges/107089728",
+      "headline": "The race against time to save what remains following Nepal floods",
+      "image": "https://live-production.wcms.abc-cdn.net.au/6421a9c46ab1538db44030302c80b971?impolicy=wcms_crop_resize&cropH=3333&cropW=4444&xPos=556&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

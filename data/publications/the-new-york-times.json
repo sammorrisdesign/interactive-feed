@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-08-28T17:35:23.571Z",
+  "lastUpdated": "2026-08-29T01:25:51.988Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/08/28/nyregion/trump-hush-money-case-hellerstein-decision.html",
+      "headline": "Read the Decision From Judge Alvin Hellerstein",
+      "image": "https://static01.nyt.com/images/2026/08/28/doc-trumphellerstein828-1-promo/doc-trumphellerstein828-1-promo-articleLarge.png",
+      "timestamp": "2026-08-28T17:44:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
