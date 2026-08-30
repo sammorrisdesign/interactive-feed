@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-29T08:05:33.467Z",
+  "lastUpdated": "2026-08-30T06:12:20.974Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-ein-muellberg-zur-todesfalle-wurde-ld.10020862",
+      "headline": "Wie ein Müllberg zur Todesfalle wurde",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/24/0ae2bdcf-c9a4-4744-abb7-170eea5bd61f.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3840,2160,x0,y0&wmark=nzz",
+      "timestamp": "2026-08-30T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

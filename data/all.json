@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-08-29T17:29:25.820Z",
+  "lastUpdated": "2026-08-30T06:12:26.245Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump",
+      "headline": "‘You’re at war when you get attacked’: Mark Carney shows combative nature in face-off with Trump",
+      "image": "https://i.guim.co.uk/img/media/56396acf8382fc96f20d3cd9dd0a7f0d48c57efe/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92791a9a256087ed5fe2573b1b37394c",
+      "timestamp": "2026-08-30T05:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
+      "headline": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
+      "image": "https://i.guim.co.uk/img/media/1aa6de4209d5ad3467eaf48576d8e04ee6d39743/2_0_9996_8000/master/9996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be0d6fc3ce1064f208334a7000efd93a",
+      "timestamp": "2026-08-30T04:00:46.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-ein-muellberg-zur-todesfalle-wurde-ld.10020862",
+      "headline": "Wie ein Müllberg zur Todesfalle wurde",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/24/0ae2bdcf-c9a4-4744-abb7-170eea5bd61f.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3840,2160,x0,y0&wmark=nzz",
+      "timestamp": "2026-08-30T03:30:00.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -189,6 +213,13 @@
       "headline": "‘Real steep, real hard, real crazy.’ We ride up the Manayunk Wall to see how difficult it really is.",
       "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/J7EZ6DVFKNFR3GWZLDNZZVV3XE.jpg",
       "timestamp": "2026-08-28T09:01:01.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-aug-28-2026",
+      "headline": "Today in Pictures, Aug 28, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/84e2b96ee4f770f19fe3f6df057b351d34bac3d5a30c8b897e311b2842b8bd79",
+      "timestamp": "2026-08-28T08:37:31.000Z"
     },
     {
       "publication": "USA Today",

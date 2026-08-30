@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-29T17:29:23.625Z",
+  "lastUpdated": "2026-08-30T06:12:21.649Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/30/youre-at-war-when-you-get-attacked-mark-carney-shows-combative-nature-in-face-off-with-trump",
+      "headline": "‘You’re at war when you get attacked’: Mark Carney shows combative nature in face-off with Trump",
+      "image": "https://i.guim.co.uk/img/media/56396acf8382fc96f20d3cd9dd0a7f0d48c57efe/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=92791a9a256087ed5fe2573b1b37394c",
+      "timestamp": "2026-08-30T05:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/aug/30/the-best-films-of-autumn-2026",
+      "headline": "Tom Cruise, Olivia Colman and the return of Rocky: the best films of autumn 2026",
+      "image": "https://i.guim.co.uk/img/media/1aa6de4209d5ad3467eaf48576d8e04ee6d39743/2_0_9996_8000/master/9996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be0d6fc3ce1064f208334a7000efd93a",
+      "timestamp": "2026-08-30T04:00:46.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
