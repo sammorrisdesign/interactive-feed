@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-31T06:37:42.506Z",
+  "lastUpdated": "2026-09-01T00:21:40.333Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
+      "headline": "How intense rains in the Grand Canyon turned into a deadly disaster",
+      "image": "https://i.guim.co.uk/img/media/894216f2d0d37b0ac3c8b64100fdb77de997f484/0_320_1200_960/master/1200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1192881cfaa564bc5e489b14363b30cf",
+      "timestamp": "2026-08-31T22:02:05.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
