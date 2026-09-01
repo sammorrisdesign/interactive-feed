@@ -1,6 +1,35 @@
 {
-  "lastUpdated": "2026-09-01T00:21:42.399Z",
+  "lastUpdated": "2026-09-01T05:26:47.852Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/01/the-best-art-and-architecture-of-autumn-2026",
+      "headline": "The best art and architecture of autumn 2026",
+      "image": "https://i.guim.co.uk/img/media/c552f3d1a3f8ad6575528f2cf0d4bdf6739e69aa/2_0_9996_8000/master/9996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4764f8b09252ed4d7e347cd469055711",
+      "timestamp": "2026-09-01T04:00:45.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5b1762e6-a3b9-4853-8547-1181355970b5",
+      "headline": "Third of FTSE 350 companies pay less for audits ",
+      "timestamp": "2026-09-01T04:00:10.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/hitze-schweiz-erlebt-2026-heissesten-sommer-seit-messbeginn-510968102864",
+      "headline": "Sommerbilanz in Grafiken: Sie dachten, 2003 war ein extremer Sommer? Schauen Sie sich die Daten von 2026 an",
+      "timestamp": "2026-09-01T03:39:16.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/heiss-trocken-toedlich-und-teuer-der-hitzesommer-2026-in-grafiken-ld.10020537",
+      "headline": "Heiss, trocken, tödlich und teuer: Der Hitzesommer 2026 in Grafiken",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/31/927a9134-79e0-470e-880f-d8b18c550e5d.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y169&wmark=nzz",
+      "timestamp": "2026-09-01T03:30:00.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -178886,6 +178915,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-01/how-the-ai-boom-launched-a-memory-shortage/106893046",
+      "headline": "Phones and computers are about to be more expensive — thanks to AI",
+      "image": "https://live-production.wcms.abc-cdn.net.au/07a99e3b925b58d09342b5012f86f7f2?impolicy=wcms_crop_resize&cropH=900&cropW=1200&xPos=131&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

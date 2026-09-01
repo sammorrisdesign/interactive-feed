@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-30T06:12:20.974Z",
+  "lastUpdated": "2026-09-01T05:26:41.247Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/heiss-trocken-toedlich-und-teuer-der-hitzesommer-2026-in-grafiken-ld.10020537",
+      "headline": "Heiss, trocken, tödlich und teuer: Der Hitzesommer 2026 in Grafiken",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/31/927a9134-79e0-470e-880f-d8b18c550e5d.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y169&wmark=nzz",
+      "timestamp": "2026-09-01T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

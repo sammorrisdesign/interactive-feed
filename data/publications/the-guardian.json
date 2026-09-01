@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-01T00:21:40.333Z",
+  "lastUpdated": "2026-09-01T05:26:45.545Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/01/the-best-art-and-architecture-of-autumn-2026",
+      "headline": "The best art and architecture of autumn 2026",
+      "image": "https://i.guim.co.uk/img/media/c552f3d1a3f8ad6575528f2cf0d4bdf6739e69aa/2_0_9996_8000/master/9996.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4764f8b09252ed4d7e347cd469055711",
+      "timestamp": "2026-09-01T04:00:45.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-08-29T01:25:51.355Z",
+  "lastUpdated": "2026-09-01T05:26:40.022Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-01/how-the-ai-boom-launched-a-memory-shortage/106893046",
+      "headline": "Phones and computers are about to be more expensive — thanks to AI",
+      "image": "https://live-production.wcms.abc-cdn.net.au/07a99e3b925b58d09342b5012f86f7f2?impolicy=wcms_crop_resize&cropH=900&cropW=1200&xPos=131&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
