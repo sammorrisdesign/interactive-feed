@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-09-01T15:02:52.349Z",
+  "lastUpdated": "2026-09-01T18:42:28.838Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/01/arts/yayoi-kusama-art-pieces.html",
+      "headline": "The Genius of Yayoi Kusama in Three Works",
+      "image": "https://static01.nyt.com/images/2026/09/01/arts/01cul-promo-kusama/01cul-promo-kusama-articleLarge.jpg",
+      "timestamp": "2026-09-01T16:32:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/north-carolina-us-house-7-polls-2026.html",
+      "headline": "North Carolina 7th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-01T15:53:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/74bf27e2-7f9c-445f-ba2e-9f7280425054",
+      "headline": "Summer 2026 was the hottest since records began in 1884, Met Office says",
+      "timestamp": "2026-09-01T15:07:59.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
