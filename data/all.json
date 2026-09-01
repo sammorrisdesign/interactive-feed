@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-01T18:42:28.838Z",
+  "lastUpdated": "2026-09-01T21:34:38.740Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/09/01/hurricane-tropical-storm-tracker-gulf-pacific/91559821007/",
+      "headline": "Storm tracker: Projected paths of all 4 named storms in Gulf, Pacific",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/01/USAT/91560001007-hurricanetopper.png",
+      "timestamp": "2026-09-01T18:39:51.822Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
