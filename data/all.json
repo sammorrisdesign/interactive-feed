@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-09-01T05:26:47.852Z",
+  "lastUpdated": "2026-09-01T10:20:35.975Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://apps.texastribune.org/features/2026/texas-general-election-ballot-november-2026/",
+      "headline": "Here’s your 2026 Texas ballot for the November election",
+      "image": "https://apps.texastribune.org/features/2026/texas-general-election-ballot-november-2026/assets/images/share-art-67c74ae6fc.jpg",
+      "timestamp": "2026-09-01T10:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/01/weather/marie-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Marie",
+      "image": "https://static01.nyt.com/images/2026/09/01/weather/marie-map-path-tracker-index/marie-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2026-09-01T09:38:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/01/weather/edouard-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Edouard",
+      "image": "https://static01.nyt.com/images/2026/08/31/weather/five-map-path-tracker-index/five-map-path-tracker-index-articleLarge-v23.jpg",
+      "timestamp": "2026-09-01T07:18:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-sep-1-2026",
+      "headline": "Today in Pictures, Sep 1, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/6285a080980dcdb62919b288efb1c8ba158189059469dce062d70bc57af98084",
+      "timestamp": "2026-09-01T06:29:37.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

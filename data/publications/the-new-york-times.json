@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-08-31T14:48:36.783Z",
+  "lastUpdated": "2026-09-01T10:20:31.368Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/01/weather/marie-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Marie",
+      "image": "https://static01.nyt.com/images/2026/09/01/weather/marie-map-path-tracker-index/marie-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2026-09-01T09:38:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/01/weather/edouard-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Edouard",
+      "image": "https://static01.nyt.com/images/2026/08/31/weather/five-map-path-tracker-index/five-map-path-tracker-index-articleLarge-v23.jpg",
+      "timestamp": "2026-09-01T07:18:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
