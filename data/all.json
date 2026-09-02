@@ -1,6 +1,64 @@
 {
-  "lastUpdated": "2026-09-02T07:35:18.634Z",
+  "lastUpdated": "2026-09-02T12:30:42.063Z",
   "articles": [
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/rio-grande-water-wars/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-main-featured.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:42:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/rio-grande-headwaters/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-headwaters-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:40:02.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/rio-grande-stories-borderlands-writers/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-essays-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/donde-el-rio-nace/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-headwaters-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/lo-que-el-rio-grande-significa-para-nosotros/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-essays-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/la-guerra-por-el-rio-grande/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-main-featured.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/02/eeoc-workplace-discrimination-data-trump",
+      "headline": "This data has helped fight workplace discrimination for 60 years. The Trump administration plans to delete it",
+      "image": "https://i.guim.co.uk/img/media/a80919ae61309adb851c48543182937529330cbb/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae49f70dba65cd7be6eef99e5ccdc586",
+      "timestamp": "2026-09-02T10:00:22.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/09/02/texas-data-center-information-lookups/",
+      "headline": "Find data centers near you in Texas with our search tools",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/09/20260618-EdgeConneX-Bastrop-LS-30.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-09-02T10:00:00.000Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/life/arts/multimedia-and-freshly-brewed-coffee-perk-up-oboist-howard-ng-and-pianist-akkra-yeunyonghattaporns",
@@ -25,6 +83,14 @@
       "image": "https://static01.nyt.com/images/2026/09/01/multimedia/2026-08-27-glacier-floods-nepal-tibet-index/2026-08-27-glacier-floods-nepal-tibet-index-articleLarge-v3.jpg",
       "timestamp": "2026-09-02T03:25:44.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/09/02/27-us-adults-turn-ai-personal-emotional-social-queries/",
+      "headline": "‘A friend I can trust’: How Americans described their relationship with AI",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XUJVPVHSYFHPVBVL73BK2ZG5ZQ.jpg&w=300",
+      "timestamp": "2026-09-02T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",
@@ -75,6 +141,12 @@
       "image": "https://static01.nyt.com/images/2026/08/31/multimedia/eln-PRE-2026-09-01-race-ma-us-h-6-f5dbda/eln-PRE-2026-09-01-race-ma-us-h-6-f5dbda-articleLarge.jpg",
       "timestamp": "2026-09-01T14:53:15.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/history/graphics/what-we-get-wrong-about-how-911-began",
+      "image": "https://i.natgeofe.com/n/b2293800-40aa-4f8b-9103-98366b6f6df7/PAR117606.jpg?w=1200",
+      "timestamp": "2026-09-01T14:32:36.166Z"
     },
     {
       "publication": "Texas Tribune",

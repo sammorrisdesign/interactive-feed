@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-06-26T10:35:47.011Z",
+  "lastUpdated": "2026-09-02T12:30:33.526Z",
   "articles": [
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/rio-grande-stories-borderlands-writers/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-essays-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/donde-el-rio-nace/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-headwaters-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/lo-que-el-rio-grande-significa-para-nosotros/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-essays-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/la-guerra-por-el-rio-grande/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-main-featured.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:00:00.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/rio-grande-headwaters/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-headwaters-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:40:02.000Z"
+    },
+    {
+      "publication": "Texas Monthly",
+      "blueSkyHandle": "texasmonthly.bsky.social",
+      "url": "https://www.texasmonthly.com/interactive/rio-grande-water-wars/",
+      "image": "https://img.texasmonthly.com/2026/08/rio-grande-main-featured.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "timestamp": "2026-09-02T11:42:00.000Z"
+    },
     {
       "publication": "Texas Monthly",
       "blueSkyHandle": "texasmonthly.bsky.social",
