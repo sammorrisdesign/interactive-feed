@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T12:30:42.063Z",
+  "lastUpdated": "2026-09-02T16:49:33.904Z",
   "articles": [
     {
       "publication": "Texas Monthly",
@@ -14,6 +14,13 @@
       "url": "https://www.texasmonthly.com/interactive/rio-grande-headwaters/",
       "image": "https://img.texasmonthly.com/2026/08/rio-grande-headwaters-1.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
       "timestamp": "2026-09-02T11:40:02.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/article412892283/von-baumwollfeld-bis-deponie-der-lebenszyklus-eines-weissen-t-shirts.html",
+      "headline": "Von Baumwollfeld bis Deponie: Der Lebenszyklus eines weißen T-Shirts",
+      "image": "https://img.sparknews.funkemedien.de/412892567/412892567_1788249306_v16_9_600.jpeg",
+      "timestamp": "2026-09-02T11:26:00.000Z"
     },
     {
       "publication": "Texas Monthly",
