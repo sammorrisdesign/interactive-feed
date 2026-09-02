@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-02T19:37:40.146Z",
+  "lastUpdated": "2026-09-02T22:19:13.899Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/02/climate/heat-wave-wildfire-smoke-summer.html",
+      "headline": "Our Smoky, Sweaty, Itchy, No Escape, Very Long Summer",
+      "image": "https://static01.nyt.com/images/2026/09/02/climate/00cli-summer-promo/00cli-summer-promo-articleLarge.jpg",
+      "timestamp": "2026-09-02T21:07:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/02/books/jonathan-franzen-the-corrections.html",
+      "headline": "“The Corrections” Is 25 Years Old. Its First Paragraph Still Feels New.",
+      "image": "https://static01.nyt.com/images/2026/09/03/books/03TBR-Granzen-CloseRead/03TBR-Granzen-CloseRead-articleLarge.jpg",
+      "timestamp": "2026-09-02T20:26:34.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
