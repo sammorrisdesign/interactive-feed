@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-02T07:35:16.335Z",
+  "lastUpdated": "2026-09-02T19:37:40.146Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/02/magazine/yankees-world-series-9-11.html",
+      "headline": "‘We Wanted to Win for the City’: The Yankees’ Post-9/11 World Series Run",
+      "image": "https://static01.nyt.com/images/2026/09/13/magazine/13mag-yankees-story-06/13mag-yankees-story-06-articleLarge-v2.jpg",
+      "timestamp": "2026-09-02T19:35:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

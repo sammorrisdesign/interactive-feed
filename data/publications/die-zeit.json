@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-08-26T16:14:58.330Z",
+  "lastUpdated": "2026-09-02T19:37:39.978Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-09/verteilung-berufe-landkreise-branchen-karte",
+      "headline": "So unterschiedlich sind Berufe in Deutschland verteilt",
+      "image": "https://img.zeit.de/arbeit/2026-08/verteilung-berufe-landkreise-branchen-karte-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/mobilitaet/2026-08/flugrouten-gestrichene-fluege-verkehrskapazitaet",
+      "headline": "So ausgedünnt ist Deutschlands Flugnetz",
+      "image": "https://img.zeit.de/mobilitaet/2026-08/flugrouten-gestrichene-fluege-verkehrskapazitaet-teaser/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/2026-08/rechtschreibtest-neue-rechtschreibung-reform-30-jahre",
+      "headline": "Wie gut beherrschen Sie die neue deutsche Rechtschreibung?",
+      "image": "https://img.zeit.de/wissenschaft/2026-08/rechtschreibtest-neue-rechtschreibung-reform-30-jahre-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissen/2026-08/sonnenfinsternis-naturspektakel-europa-deutschland-orte",
+      "headline": "Wann die Sonne komplett verschwindet",
+      "image": "https://img.zeit.de/wissen/2026-08/sonnenfinsternis-naturspektakel-europa-deutschland-orte-2/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",

@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-01T05:26:40.022Z",
+  "lastUpdated": "2026-09-02T19:37:39.956Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-03/nepal-hydroelectric-tunnels-rescue-interactive/107101108",
+      "headline": "After the flood, another crisis is unfolding underground in Nepal",
+      "image": "https://live-production.wcms.abc-cdn.net.au/37e54cf368482bbb640fee11894f8e41?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=65&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

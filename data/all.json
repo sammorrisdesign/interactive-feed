@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-02T16:49:33.904Z",
+  "lastUpdated": "2026-09-02T19:37:45.714Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/02/magazine/yankees-world-series-9-11.html",
+      "headline": "‘We Wanted to Win for the City’: The Yankees’ Post-9/11 World Series Run",
+      "image": "https://static01.nyt.com/images/2026/09/13/magazine/13mag-yankees-story-06/13mag-yankees-story-06-articleLarge-v2.jpg",
+      "timestamp": "2026-09-02T19:35:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "Texas Monthly",
       "blueSkyHandle": "texasmonthly.bsky.social",
@@ -179106,6 +179115,14 @@
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-03/nepal-hydroelectric-tunnels-rescue-interactive/107101108",
+      "headline": "After the flood, another crisis is unfolding underground in Nepal",
+      "image": "https://live-production.wcms.abc-cdn.net.au/37e54cf368482bbb640fee11894f8e41?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=65&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
       "url": "https://www.abc.net.au/news/2026-09-01/how-the-ai-boom-launched-a-memory-shortage/106893046",
       "headline": "Phones and computers are about to be more expensive — thanks to AI",
       "image": "https://live-production.wcms.abc-cdn.net.au/07a99e3b925b58d09342b5012f86f7f2?impolicy=wcms_crop_resize&cropH=900&cropW=1200&xPos=131&yPos=0&width=862&height=647",
@@ -181102,6 +181119,38 @@
       "twitterHandle": "CNN",
       "url": "https://www.cnn.com/interactive/2022/07/us/cnn-5-things-news-quiz-july-7-sec/",
       "headline": "The average score for this week's news quiz is 7.6. Think you can do better?",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-09/verteilung-berufe-landkreise-branchen-karte",
+      "headline": "So unterschiedlich sind Berufe in Deutschland verteilt",
+      "image": "https://img.zeit.de/arbeit/2026-08/verteilung-berufe-landkreise-branchen-karte-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/mobilitaet/2026-08/flugrouten-gestrichene-fluege-verkehrskapazitaet",
+      "headline": "So ausgedünnt ist Deutschlands Flugnetz",
+      "image": "https://img.zeit.de/mobilitaet/2026-08/flugrouten-gestrichene-fluege-verkehrskapazitaet-teaser/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/2026-08/rechtschreibtest-neue-rechtschreibung-reform-30-jahre",
+      "headline": "Wie gut beherrschen Sie die neue deutsche Rechtschreibung?",
+      "image": "https://img.zeit.de/wissenschaft/2026-08/rechtschreibtest-neue-rechtschreibung-reform-30-jahre-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissen/2026-08/sonnenfinsternis-naturspektakel-europa-deutschland-orte",
+      "headline": "Wann die Sonne komplett verschwindet",
+      "image": "https://img.zeit.de/wissen/2026-08/sonnenfinsternis-naturspektakel-europa-deutschland-orte-2/wide__892x502",
       "timestamp": null
     },
     {
