@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-09-01T23:46:31.019Z",
+  "lastUpdated": "2026-09-02T07:35:18.634Z",
   "articles": [
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/life/arts/multimedia-and-freshly-brewed-coffee-perk-up-oboist-howard-ng-and-pianist-akkra-yeunyonghattaporns",
+      "headline": "Multimedia, freshly brewed coffee perk up oboist Howard Ng, pianist Akkra Yeunyonghattaporn’s recital",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d4f0fae488be6d9e021fab60409d650090c6a478e6e50017eae4b86f6706da68",
+      "timestamp": "2026-09-02T04:38:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/02/us/iran-war-us-navy-carriers-supply.html",
+      "headline": "The Logistics Nightmare Facing U.S. Warships",
+      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/2026-08-14-carrier-deployments-index/2026-08-14-carrier-deployments-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-02T04:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/01/world/asia/nepal-flash-floods-landslide.html",
+      "headline": "Deadly Landslide in Nepal Most Likely Caused by Weakened Bedrock",
+      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/2026-08-27-glacier-floods-nepal-tibet-index/2026-08-27-glacier-floods-nepal-tibet-index-articleLarge-v3.jpg",
+      "timestamp": "2026-09-02T03:25:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
