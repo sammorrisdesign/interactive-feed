@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-09-03T09:25:53.250Z",
+  "lastUpdated": "2026-09-03T13:45:30.462Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/tennessee-us-senate-election-polls-2026.html",
+      "headline": "Tennessee U.S. Senate Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-03T13:18:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/03/plastic-waste-new-york-environment",
+      "headline": "The plastic waste overtaking New York – and the people trying to curb it",
+      "image": "https://i.guim.co.uk/img/media/18abee39684776af60fc39ce2e7a894bc97e962a/245_0_5863_4691/master/5863.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=07d041bcf24d6ba09ed4b5bba7c4b45b",
+      "timestamp": "2026-09-03T12:30:37.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
