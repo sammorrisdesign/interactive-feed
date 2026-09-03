@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-09-02T22:19:15.845Z",
+  "lastUpdated": "2026-09-03T04:54:35.800Z",
   "articles": [
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/schweiz/strassenflaechen-im-vergleich-parkplaetze-schlagen-velostreifen-wem-gehoert-die-strasse",
+      "headline": "Strassenflächen im Vergleich – Parkplätze schlagen Velostreifen: Wem gehört die Strasse?",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/de6c1b.jpg",
+      "timestamp": "2026-09-03T03:53:28.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/afd-in-sachsen-anhalt-wie-sie-40-prozent-erreichen-will-778818718290",
+      "headline": "Partei vor Wahlsieg: Rasanter Aufstieg dank 3 Arten von Wählern: Die AfD in Grafiken und Karten",
+      "timestamp": "2026-09-03T03:41:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/texas-us-house-35-polls-2026.html",
+      "headline": "Texas 35th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-03T02:16:47.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
