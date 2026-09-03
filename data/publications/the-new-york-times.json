@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-03T04:54:34.877Z",
+  "lastUpdated": "2026-09-03T09:25:49.017Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/03/travel/things-to-do-midcoast-maine.html",
+      "headline": "36 Hours in Midcoast Maine",
+      "image": "https://static01.nyt.com/images/2026/09/01/multimedia/trav-hours-maine-jpwt/trav-hours-maine-jpwt-articleLarge-v2.jpg",
+      "timestamp": "2026-09-03T09:03:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/03/dining/pastry-portugal-pastel-tentugal-tradition.html",
+      "headline": "How a Blanket of Dough Becomes an Ethereal Pastry",
+      "image": "https://static01.nyt.com/images/2026/09/02/dining/00portugal-pastel-promo/00portugal-pastel-promo-articleLarge.png",
+      "timestamp": "2026-09-03T09:00:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
