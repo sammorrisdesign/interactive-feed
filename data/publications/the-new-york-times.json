@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-03T13:45:28.185Z",
+  "lastUpdated": "2026-09-03T20:05:08.928Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/03/us/ice-recruits-whistleblower-complaint.html",
+      "headline": "Read the Whistle-Blower’s Complaint Filed Amid ICE’s Hiring Surge",
+      "image": "https://static01.nyt.com/images/2026/09/03/doc-final-response-documents--promo/doc-final-response-documents--promo-articleLarge.png",
+      "timestamp": "2026-09-03T18:41:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
