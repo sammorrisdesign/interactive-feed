@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-03T13:45:30.462Z",
+  "lastUpdated": "2026-09-03T17:30:05.647Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/04/australian-painter-margaret-preston-exhibition-ngv",
+      "headline": "Margaret Preston: Australia’s most beloved and contested artist?",
+      "image": "https://i.guim.co.uk/img/media/3a4f64ab6058604e492e9c2f2b8e091b35c8d375/0_80_2509_2007/master/2509.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e35a4a6dd71b862120a552e4f7e2db54",
+      "timestamp": "2026-09-03T15:00:43.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/03/nepal-tibet-floods-cousins-hired-4wd-find-missing-australian-family-ntwnfb",
+      "headline": "Two cousins hired a 4WD to find their missing Australian family in Nepal. Then ‘there was no more road’",
+      "image": "https://i.guim.co.uk/img/media/1b656fa0fce237c2d65ebb120f5585f5036e4c29/27_0_3780_3024/master/3780.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d352fd8e1b64d8681517d35338063011",
+      "timestamp": "2026-09-03T15:00:43.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
