@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-03T22:46:37.574Z",
+  "lastUpdated": "2026-09-04T17:28:24.148Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-16-polls-2026.html",
+      "headline": "Florida 16th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-04T17:22:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/04/us/reasonable-doubt-definition-lindsay-clancy-trial.html",
+      "headline": "Read the Instructions on Reasonable Doubt as Delivered to Jurors in the Lindsay Clancy Trial",
+      "image": "https://static01.nyt.com/images/2026/09/04/doc-massproofbeyondareasonabl-promo/doc-massproofbeyondareasonabl-promo-articleLarge.png",
+      "timestamp": "2026-09-04T16:41:59.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
