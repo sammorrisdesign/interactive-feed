@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-05-17T21:26:56.427Z",
+  "lastUpdated": "2026-09-05T08:47:36.623Z",
   "articles": [
+    {
+      "publication": "CNN",
+      "blueSkyHandle": "cnn.com",
+      "url": "https://www.cnn.com/interactive/2026/07/weather/solar-storms-power-grid/",
+      "headline": "Here's where a massive solar storm could take down the US power grid",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:dzezcmpb3fhcpns4n4xm4ur5/bafkreihh6iw6cc3bgjymrmftphw3kn67v37m4or2l7tqj74yojfijnqvty",
+      "timestamp": "2026-09-05T05:01:01.995Z"
+    },
     {
       "publication": "CNN",
       "blueSkyHandle": "cnn.com",

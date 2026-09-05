@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-04T19:48:28.324Z",
+  "lastUpdated": "2026-09-05T08:47:37.561Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/05/nyregion/routine-eva-pilgrim.html",
+      "headline": "How the Host of ‘Inside Edition’ Made the News Cycle Work for Her",
+      "image": "https://static01.nyt.com/images/2026/09/13/nyregion/met-routine-eva-pilgrim-promo/met-routine-eva-pilgrim-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-09-05T07:00:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

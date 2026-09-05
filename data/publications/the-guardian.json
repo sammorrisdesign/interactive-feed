@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-04T13:58:20.165Z",
+  "lastUpdated": "2026-09-05T08:47:37.540Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/05/bold-brilliant-thrilling-leading-authors-on-the-novels-every-school-should-teach",
+      "headline": "‘Bold, brilliant, thrilling’: leading authors on the novels every school should teach",
+      "image": "https://i.guim.co.uk/img/media/2f82deacbc386a68cc5942834bd174f1b66e9738/0_0_2953_2362/master/2953.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c3d136ad56a513808c9726fd5c001e0b",
+      "timestamp": "2026-09-05T08:00:30.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/05/why-bayeux-tapestry-franco-british-politics-natural-bedfellows",
+      "headline": "Why the Bayeux tapestry and Franco-British relations are natural bedfellows",
+      "image": "https://i.guim.co.uk/img/media/f3310d297fbed3eaed2efad0cb8704491c64467b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f589888180e706b70bd4c8ee88e44ef3",
+      "timestamp": "2026-09-05T05:00:27.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
