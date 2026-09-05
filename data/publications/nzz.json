@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-01T05:26:41.247Z",
+  "lastUpdated": "2026-09-05T04:47:58.442Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/ein-schutzwall-fuer-alabuga-sollen-diese-tuerme-russlands-drohnen-schuetzen-ld.10022234",
+      "headline": "Ein Schutzwall für Alabuga: Sollen diese Türme Russlands Drohnen schützen?",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/04/891cd09b-192a-4648-afc8-2d84b0da461c.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-09-05T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
