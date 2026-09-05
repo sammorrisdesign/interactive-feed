@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-09-04T19:48:30.606Z",
+  "lastUpdated": "2026-09-05T00:15:50.789Z",
   "articles": [
+    {
+      "publication": "CNA",
+      "url": "https://www.channelnewsasia.com/interactive/china-chip-ambitions-semiconductor-duv-euv/%2E",
+      "headline": "Can China’s chip ambitions reshape the global tech landscape?",
+      "image": "https://dam.mediacorp.sg/image/upload/s--z0JewOqm--/c_fill,g_center,h_598,w_747/f_auto,q_auto/v1/mediacorp/cna/image/2026/09/04/duv-euv-articleshell_0.jpg?itok=B_ps33in",
+      "timestamp": "2026-09-04T22:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
