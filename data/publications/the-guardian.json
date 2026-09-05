@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-05T08:47:37.540Z",
+  "lastUpdated": "2026-09-05T12:19:59.564Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/05/alternative-bayeux-tapestry-2026-edith-pritchett",
+      "headline": "The trollers v the scrollers: Edith Pritchett’s Bayeux tapestry for the modern age",
+      "image": "https://i.guim.co.uk/img/media/63058a2b56192d28705f798a0137e590d9ee9bb3/0_658_3712_2969/master/3712.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e59c6cbeb423003e20896bbe6f6776e",
+      "timestamp": "2026-09-05T12:00:37.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/05/christa-pike-death-row-clemency-petition",
+      "headline": "Tennessee says child rapists deserve to die. Now it prepares to execute one of their victims",
+      "image": "https://i.guim.co.uk/img/media/6720173188549b52b223d88fe20930a7789cd22f/0_49_736_588/master/736.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=227532bffdee5a98a6e62726c5a9e76f",
+      "timestamp": "2026-09-05T12:00:36.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

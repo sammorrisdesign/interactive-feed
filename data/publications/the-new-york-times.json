@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-05T08:47:37.561Z",
+  "lastUpdated": "2026-09-05T12:19:59.594Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/05/opinion/editorials/extreme-heat-summer.html",
+      "headline": "It’s Not Just You. America Has Gotten Much Hotter.",
+      "image": "https://static01.nyt.com/images/2026/09/03/multimedia/2026-08-06-summer-climate-ed-index/2026-08-06-summer-climate-ed-index-articleLarge-v4.jpg",
+      "timestamp": "2026-09-05T11:00:16.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
