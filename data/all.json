@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-06T17:13:54.261Z",
+  "lastUpdated": "2026-09-06T19:23:30.846Z",
   "articles": [
     {
       "publication": "Berliner Morgenpost",
@@ -181425,6 +181425,22 @@
       "twitterHandle": "CNN",
       "url": "https://www.cnn.com/interactive/2022/07/us/cnn-5-things-news-quiz-july-7-sec/",
       "headline": "The average score for this week's news quiz is 7.6. Think you can do better?",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-tiktok-statistik-reichweite-soziale-medien",
+      "headline": "Die AfD ist nicht mehr allein auf TikTok",
+      "image": "https://img.zeit.de/politik/deutschland/2026-08/afd-tiktok-statistik-reichweite-soziale-medien-bild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/2026-09/grundwasser-duerre-hitze-trinkwasser-versorgung-deutschland",
+      "headline": "So stark schwindet Deutschlands Grundwasser",
+      "image": "https://img.zeit.de/wissenschaft/2026-08/grundwssser-duerre-hitze-trinkwasser-versorgung-deutschland-teaserbild/wide__892x502",
       "timestamp": null
     },
     {
