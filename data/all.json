@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-09-06T06:16:16.442Z",
+  "lastUpdated": "2026-09-06T11:13:29.426Z",
   "articles": [
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/schweiz/schwarzer-herbst-2001-74-tage-und-fuenf-katastrophen-die-die-schweiz-veraenderten",
+      "headline": "Schwarzer Herbst 2001 – 74 Tage und fünf Katastrophen, die die Schweiz veränderten",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/4e1b36f.jpg",
+      "timestamp": "2026-09-06T11:00:11.000Z"
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/09/06/mrna-cancer-vaccines-how-they-work/91578051007/",
+      "headline": "Personalized mRNA cancer vaccines offer new hope. We explain",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/02/USAT/91581850007-usatgraphicsm-rn-acancertopper.png",
+      "timestamp": "2026-09-06T08:02:48.867Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
