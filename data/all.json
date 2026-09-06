@@ -1,6 +1,21 @@
 {
-  "lastUpdated": "2026-09-06T11:13:29.426Z",
+  "lastUpdated": "2026-09-06T14:18:52.101Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wahl-in-sachsen-anhalt-2026-alle-ergebnisse-im-ueberblick-ld.10021491",
+      "headline": "Wahl in Sachsen-Anhalt 2026: alle Ergebnisse im Überblick",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/28/a4e38dde-513f-40d3-bc12-b481e028deaa.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y226&wmark=nzz",
+      "timestamp": "2026-09-06T13:46:15.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/article412946823/wahl-sachsen-anhalt-prognose-hochrechnung-ergebnisse-heute-live-landtag.html",
+      "headline": "Sachsen-Anhalt wählt: Prognose, Hochrechnung, Ergebnisse – heute ab 18 Uhr live",
+      "image": "https://img.sparknews.funkemedien.de/412946890/412946890_1788697905_v16_9_600.jpeg",
+      "timestamp": "2026-09-06T12:31:46.000Z"
+    },
     {
       "publication": "SRF",
       "url": "https://www.srf.ch/news/schweiz/schwarzer-herbst-2001-74-tage-und-fuenf-katastrophen-die-die-schweiz-veraenderten",
