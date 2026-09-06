@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-05T21:28:55.532Z",
+  "lastUpdated": "2026-09-06T06:16:16.442Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/06/tupac-shakur-murder-investigation",
+      "headline": "Tupac trial spotlights decades of US police failures in solving the case",
+      "image": "https://i.guim.co.uk/img/media/7b8b1db6c48a2fd51779e36a6d51f758391fdaef/0_217_2700_2158/master/2700.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=871bda43c28f7c8c581988232def456c",
+      "timestamp": "2026-09-06T05:00:56.000Z"
+    },
     {
       "publication": "Berliner Morgenpost",
       "url": "https://www.morgenpost.de/interaktiv/article412946823/wahl-sachsen-anhalt-prognose-hochrechnung-ergebnisse-live-landtag.html",
