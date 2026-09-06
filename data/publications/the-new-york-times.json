@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-06T21:32:02.189Z",
+  "lastUpdated": "2026-09-06T23:27:34.495Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/06/upshot/10-minute-challenge-angel-oak.html",
+      "headline": "10-Minute Challenge: Angel Oak",
+      "image": "https://static01.nyt.com/images/2026/09/07/multimedia/up-angel-oak-final-vbhp/up-angel-oak-final-vbhp-articleLarge.jpg",
+      "timestamp": "2026-09-06T22:21:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
