@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T12:53:57.089Z",
+  "lastUpdated": "2026-09-07T18:04:42.330Z",
   "articles": [
     {
       "publication": "Kontinentalist",
@@ -7,6 +7,14 @@
       "url": "https://kontinentalist.com/stories/how-asian-names-work",
       "image": "https://cdn-media.kontinentalist.com/naming-conventions/naming-conventions-1788169328.jpg",
       "timestamp": "2026-09-07T19:45:19.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/09/07/trump-pledged-lower-prices-eight-areas-how-has-he-done/",
+      "headline": "Trump pledged to lower prices in eight areas. Have they risen or fallen?",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreigpv74duh4tgq3jjj4xscavjbu3p74angtdplkaz2qegfphbm3n64",
+      "timestamp": "2026-09-07T13:30:11.253Z"
     },
     {
       "publication": "The New York Times",
