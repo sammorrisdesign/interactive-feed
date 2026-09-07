@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-06T23:27:35.791Z",
+  "lastUpdated": "2026-09-07T06:24:28.857Z",
   "articles": [
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/article412946823/wahlergebnis-sachsen-anhalt-aktuell-ergebnisse-afd-cdu.html",
+      "headline": "So hat Sachsen-Anhalt gewählt: Alle Ergebnisse in Grafiken",
+      "image": "https://img.sparknews.funkemedien.de/413078656/413078656_1788714189_v16_9_600.jpeg",
+      "timestamp": "2026-09-07T05:05:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/07/world/asia/indonesia-jakarta-landfill-fire-microplastics.html",
+      "headline": "The Microplastics Epidemic in Indonesia",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/2026-06-03-microplastic-indonesia-index/2026-06-03-microplastic-indonesia-index-articleLarge-v3.jpg",
+      "timestamp": "2026-09-07T04:16:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/07/reindeer-and-rare-earth-minerals-swedish-politicians-take-aim-at-indigenous-sami-in-mining-dispute",
+      "headline": "Reindeer and rare-earth minerals: Swedish politicians take aim at Indigenous Sami in mining dispute",
+      "image": "https://i.guim.co.uk/img/media/29ab4c4875f7f03c03afb97fb5d5ba0217cfa7a5/0_879_4024_3217/master/4024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=49696402e4260ced898f79979a12f8dc",
+      "timestamp": "2026-09-07T04:00:24.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/nato-ostflanke-wie-europa-sich-gegen-russland-ruestet-625288529666",
+      "headline": "Ostflanke der Nato: Ist Europa bereit für einen Krieg gegen Putin?",
+      "timestamp": "2026-09-07T03:35:20.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/autofarben-schweizer-kaufen-80-prozent-der-neuwagen-in-grau-303117838385",
+      "headline": "Datenanalyse: Wie der Schweizer Alltag seine Farbe verlor",
+      "timestamp": "2026-09-07T03:35:05.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

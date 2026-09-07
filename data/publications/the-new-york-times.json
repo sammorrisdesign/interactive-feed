@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-06T23:27:34.495Z",
+  "lastUpdated": "2026-09-07T06:24:26.682Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/07/world/asia/indonesia-jakarta-landfill-fire-microplastics.html",
+      "headline": "The Microplastics Epidemic in Indonesia",
+      "image": "https://static01.nyt.com/images/2026/08/20/multimedia/2026-06-03-microplastic-indonesia-index/2026-06-03-microplastic-indonesia-index-articleLarge-v3.jpg",
+      "timestamp": "2026-09-07T04:16:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
