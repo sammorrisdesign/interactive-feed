@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-07T12:53:54.319Z",
+  "lastUpdated": "2026-09-07T23:58:05.695Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/07/us/politics/midterm-elections-advantages.html",
+      "headline": "The Sprint to the Midterms Is On. Here's What Gives Democrats — and Republicans — Hope.",
+      "image": "https://static01.nyt.com/images/2026/09/07/us/midterm-elections-advantages-art/midterm-elections-advantages-art-articleLarge.jpg",
+      "timestamp": "2026-09-07T22:12:22.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
