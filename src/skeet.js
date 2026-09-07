@@ -3,9 +3,20 @@ const { BskyAgent, RichText } = require('@atproto/api');
 const sharp = require('sharp');
 const utils = require("./utils");
 
+const isValidImageUrl = (url) => {
+  try {
+    const parsed = new URL(url);
+    if (!['http:', 'https:'].includes(parsed.protocol)) return false;
+    const hostname = parsed.hostname.toLowerCase();
+    return !/^(localhost|127\.|10\.|192\.168\.|172\.(1[6-9]|2\d|3[01])\.|169\.254\.)/.test(hostname);
+  } catch {
+    return false;
+  }
+};
+
 const getImageForArticleUrl = async(imageUrl, client) => {
   try {
-    if (imageUrl) {
+    if (imageUrl && isValidImageUrl(imageUrl)) {
       let bufferToReturn;
 
       const imageResponse = await fetch(imageUrl);
