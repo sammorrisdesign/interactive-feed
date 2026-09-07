@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-09-07T06:24:28.857Z",
+  "lastUpdated": "2026-09-07T12:53:57.089Z",
   "articles": [
+    {
+      "publication": "Kontinentalist",
+      "blueSkyHandle": "kontinentalist.bsky.social",
+      "url": "https://kontinentalist.com/stories/how-asian-names-work",
+      "image": "https://cdn-media.kontinentalist.com/naming-conventions/naming-conventions-1788169328.jpg",
+      "timestamp": "2026-09-07T19:45:19.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/07/business/media/summer-movies-box-office.html",
+      "headline": "Hollywood’s Box Office Boom Comes With 248 Million Missing Tickets",
+      "image": "https://static01.nyt.com/images/2026/09/04/multimedia/2026-09-01-summer-box-office-index/2026-09-01-summer-box-office-index-articleLarge-v4.png",
+      "timestamp": "2026-09-07T09:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/07/nyregion/nyc-budgeting-affordability-caban.html",
+      "headline": "How a City Council Member Lives on $148,500 in Queens",
+      "image": "https://static01.nyt.com/images/2026/09/07/multimedia/07met-affording-caban-promo/07met-affording-caban-01-tqgl-articleLarge-v2.jpg",
+      "timestamp": "2026-09-07T09:04:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "Berliner Morgenpost",
       "url": "https://www.morgenpost.de/interaktiv/article412946823/wahlergebnis-sachsen-anhalt-aktuell-ergebnisse-afd-cdu.html",
