@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-09-07T23:58:06.860Z",
+  "lastUpdated": "2026-09-08T08:15:58.253Z",
   "articles": [
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/pisa-2025-schweiz-stark-in-mathe-aber-lesen-bereitet-sorgen-115381477364",
+      "headline": "Neue Pisa-Studie: Seit 15 Jahren geht es mit Mathe und beim Lesen bergab",
+      "timestamp": "2026-09-08T07:30:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/sep/08/why-was-mum-in-clothes-you-could-wear-in-the-winter-family-seeks-answers-after-care-home-heatstroke-death",
+      "headline": "‘Why was mum in clothes you could wear in the winter?’: family seeks answers after care home heatstroke death",
+      "image": "https://i.guim.co.uk/img/media/2768d9182401f87508d76f78a44fb4aa79bee14b/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=db0367d4a1c4bec18d91d7687af5263a",
+      "timestamp": "2026-09-08T04:00:27.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/sep/08/how-a-black-clad-christian-vigilante-group-swarmed-portsmouth",
+      "headline": "‘Army of patriots’: how a black-clad Christian vigilante group swarmed Portsmouth",
+      "image": "https://i.guim.co.uk/img/media/72f467ceb30e91ce3b124ceaee03fa04639c7ff9/121_0_3838_3072/master/3838.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5c352a7c8876368916524fe8e6c60377",
+      "timestamp": "2026-09-08T04:00:26.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
