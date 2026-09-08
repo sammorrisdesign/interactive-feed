@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-08T13:00:38.680Z",
+  "lastUpdated": "2026-09-08T17:09:39.049Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/north-carolina-voter-id-amendment-polls-2026.html",
+      "headline": "North Carolina Voter Identification Amendment 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-08T14:28:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/missouri-amendment-3-abortion-gender-transition-polls-2026.html",
+      "headline": "Missouri Abortion and Gender Transition for Minors Amendment 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-08T14:08:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/08/us/navy-brain-injury-house-report.html",
+      "headline": "Read the House’s Report on Brain Injury in Navy Pilots",
+      "image": "https://static01.nyt.com/images/2026/09/04/doc-navytbi-reportfinalsept4-promo/doc-navytbi-reportfinalsept4-promo-articleLarge.png",
+      "timestamp": "2026-09-08T14:00:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/lexington-kentucky-mayor-election-polls-2026.html",
+      "headline": "Lexington, Ky., Mayoral Election 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-08T13:34:04.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
