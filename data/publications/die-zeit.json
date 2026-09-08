@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-06T19:23:27.844Z",
+  "lastUpdated": "2026-09-08T13:00:15.600Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahllokale-sachsen-anhalt-landtagswahl-staedte-magdeburg-halle",
+      "headline": "Grüne Inseln im blauen Meer",
+      "image": "https://img.zeit.de/politik/deutschland/2025-09/wahllokale-sachsen-anhalt-landtagswahl-staedte-magdeburg-halle-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlergebnisse-sachsen-anhalt-landtagswahl-gemeinden-karte",
+      "headline": "So wird ein Land so blau",
+      "image": "https://img.zeit.de/politik/deutschland/2025-09/wahlergebnisse-sachsen-anhalt-landtagswahl-gemeinden-karte-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-sachsen-anhalt-ergebnisse-wahlkreise-live",
+      "headline": "Alle Ergebnisse der Landtagswahl in Sachsen-Anhalt",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-sachsen-anhalt-ergebnisse-wahlkreise-live-bild/wide__892x502",
+      "timestamp": null
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",

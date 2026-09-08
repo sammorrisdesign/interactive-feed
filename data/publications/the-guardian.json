@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-08T08:15:55.865Z",
+  "lastUpdated": "2026-09-08T13:00:26.042Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence",
+      "headline": "‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence",
+      "image": "https://i.guim.co.uk/img/media/22c54c033c46cde7dfcea9d47e8fdaacb2cd056e/0_422_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b6f6ca2e3c1221906e14e14d1a4fc4f",
+      "timestamp": "2026-09-08T04:00:27.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

@@ -1,11 +1,57 @@
 {
-  "lastUpdated": "2026-09-08T08:15:58.253Z",
+  "lastUpdated": "2026-09-08T13:00:38.680Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/georgia-us-house-7-polls-2026.html",
+      "headline": "Georgia 7th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-08T12:29:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/article413081625/blaue-welle-afd-sitze-in-deutschen-landesparlamenten-von-2013-bis-heute.html",
+      "headline": "Interaktive Chronik: AfD-Sitze in deutschen Landesparlamenten von 2013 bis heute",
+      "image": "https://img.sparknews.funkemedien.de/413095438/413095438_1788863390_v16_9_600.jpeg",
+      "timestamp": "2026-09-08T10:39:19.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/strompreise-2027-schweizer-haushalte-zahlen-53-franken-weniger-493815784410",
+      "headline": "Interaktive Karte: In welchen Gemeinden die Strompreise 2027 sinken – und wo sie steigen",
+      "timestamp": "2026-09-08T09:00:06.000Z"
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/schweiz/stromtarife-schweiz-2027-die-strompreise-sinken-2027-leicht-auch-in-ihrer-gemeinde",
+      "headline": "Stromtarife Schweiz 2027 – Die Strompreise sinken 2027 leicht – auch in Ihrer Gemeinde?",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/40a298.jpg",
+      "timestamp": "2026-09-08T09:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/08/us/politics/nonnegotiable-petition.html",
+      "headline": "Read the “Nonnegotiable” petition",
+      "image": "https://static01.nyt.com/images/2026/09/08/doc-nonnegotiable-petition-promo/doc-nonnegotiable-petition-promo-articleLarge.png",
+      "timestamp": "2026-09-08T08:59:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/pisa-2025-schweiz-stark-in-mathe-aber-lesen-bereitet-sorgen-115381477364",
       "headline": "Neue Pisa-Studie: Seit 15 Jahren geht es mit Mathe und beim Lesen bergab",
       "timestamp": "2026-09-08T07:30:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/08/this-is-dangerous-slime-moulds-and-the-bitter-debate-over-the-nature-of-intelligence",
+      "headline": "‘This is dangerous’: slime moulds and the bitter debate over the nature of intelligence",
+      "image": "https://i.guim.co.uk/img/media/22c54c033c46cde7dfcea9d47e8fdaacb2cd056e/0_422_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b6f6ca2e3c1221906e14e14d1a4fc4f",
+      "timestamp": "2026-09-08T04:00:27.000Z"
     },
     {
       "publication": "The Guardian",
@@ -181551,6 +181597,30 @@
       "twitterHandle": "CNN",
       "url": "https://www.cnn.com/interactive/2022/07/us/cnn-5-things-news-quiz-july-7-sec/",
       "headline": "The average score for this week's news quiz is 7.6. Think you can do better?",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahllokale-sachsen-anhalt-landtagswahl-staedte-magdeburg-halle",
+      "headline": "Grüne Inseln im blauen Meer",
+      "image": "https://img.zeit.de/politik/deutschland/2025-09/wahllokale-sachsen-anhalt-landtagswahl-staedte-magdeburg-halle-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlergebnisse-sachsen-anhalt-landtagswahl-gemeinden-karte",
+      "headline": "So wird ein Land so blau",
+      "image": "https://img.zeit.de/politik/deutschland/2025-09/wahlergebnisse-sachsen-anhalt-landtagswahl-gemeinden-karte-teaserbild/wide__892x502",
+      "timestamp": null
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/landtagswahl-sachsen-anhalt-ergebnisse-wahlkreise-live",
+      "headline": "Alle Ergebnisse der Landtagswahl in Sachsen-Anhalt",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/landtagswahl-sachsen-anhalt-ergebnisse-wahlkreise-live-bild/wide__892x502",
       "timestamp": null
     },
     {

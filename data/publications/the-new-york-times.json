@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-07T23:58:05.695Z",
+  "lastUpdated": "2026-09-08T13:00:26.077Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/georgia-us-house-7-polls-2026.html",
+      "headline": "Georgia 7th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-08T12:29:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/08/us/politics/nonnegotiable-petition.html",
+      "headline": "Read the “Nonnegotiable” petition",
+      "image": "https://static01.nyt.com/images/2026/09/08/doc-nonnegotiable-petition-promo/doc-nonnegotiable-petition-promo-articleLarge.png",
+      "timestamp": "2026-09-08T08:59:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
