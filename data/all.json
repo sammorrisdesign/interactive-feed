@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-09-08T17:09:39.049Z",
+  "lastUpdated": "2026-09-09T06:19:49.848Z",
   "articles": [
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/golden-dome/",
+      "headline": "The holes in Trump’s Golden Dome",
+      "timestamp": "2026-09-09T04:00:07.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/abstimmung-neutralitaetsinitiative-tool-erraet-ihren-neutralitaetstyp-320151864017",
+      "headline": "Abstimmung zur Neutralitätsinitiative: Wehrhafter Igel oder humanitärer Bernhardiner? Unser interaktives Tool errät Ihren Neutralitätstyp",
+      "timestamp": "2026-09-09T03:45:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/08/books/audiobook-production-studio-emma-cline.html",
+      "headline": "Watch (and Hear) a Buzzy New Novel Become an Audiobook",
+      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09audiobooks-plfq/09audiobooks-plfq-articleLarge.jpg",
+      "timestamp": "2026-09-09T01:15:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

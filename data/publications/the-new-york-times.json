@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-08T17:09:37.279Z",
+  "lastUpdated": "2026-09-09T06:19:48.271Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/08/books/audiobook-production-studio-emma-cline.html",
+      "headline": "Watch (and Hear) a Buzzy New Novel Become an Audiobook",
+      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/09audiobooks-plfq/09audiobooks-plfq-articleLarge.jpg",
+      "timestamp": "2026-09-09T01:15:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
