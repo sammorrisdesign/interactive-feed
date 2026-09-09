@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-09-09T15:52:08.830Z",
+  "lastUpdated": "2026-09-09T19:03:15.758Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/09/09/how-apple-foldable-iphone-duo-fits-market/91665578007/",
+      "headline": "Comparing the foldable iPhone Duo to Samsung, Google and more",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/09/USAT/91678187007-iphoneduo-2.png",
+      "timestamp": "2026-09-09T18:36:53.312Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/09/travel/things-to-do-stockholm.html",
+      "headline": "",
+      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/10trav-hours-stockholm-vkmz/10trav-hours-stockholm-vkmz-articleLarge.jpg",
+      "timestamp": "2026-09-09T17:59:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/09/us/complaint-jane-doe-v-cesar-chavez-foundation.html",
+      "headline": "Read the lawsuit against groups tied to Cesar Chavez",
+      "image": "https://static01.nyt.com/images/2026/09/09/doc-2026-09-01-complaint-jane-promo/doc-2026-09-01-complaint-jane-promo-articleLarge.png",
+      "timestamp": "2026-09-09T16:35:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
