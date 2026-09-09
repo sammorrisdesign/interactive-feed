@@ -1,6 +1,48 @@
 {
-  "lastUpdated": "2026-09-09T11:41:16.403Z",
+  "lastUpdated": "2026-09-09T15:52:08.830Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/stage/ng-interactive/2026/sep/10/witi-ihimaera-woman-for-walking-maori-play-premieres-australia",
+      "headline": "Witi Ihimaera: ‘Whenever things get hairy I think to myself, they’re only angry because we Māori survived’",
+      "image": "https://i.guim.co.uk/img/media/29d478dbf43da96d5b6bcd0e19795489c42488dd/416_44_4691_3753/master/4691.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=59602851508d8898eb4cec59f8080476",
+      "timestamp": "2026-09-09T15:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/09/us/elections/results-rhode-island-mayor-providence-primary.html",
+      "headline": "Providence, Rhode Island, Mayor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/eln-PRE-2026-09-09-race-ri-mayor-providence-d8068d/eln-PRE-2026-09-09-race-ri-mayor-providence-d8068d-articleLarge.jpg",
+      "timestamp": "2026-09-09T14:53:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/09/us/elections/results-rhode-island-treasurer-primary.html",
+      "headline": "Rhode Island Treasurer Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/eln-PRE-2026-09-09-state-ri-b4d371/eln-PRE-2026-09-09-state-ri-b4d371-articleLarge.jpg",
+      "timestamp": "2026-09-09T14:53:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/thefilter-us/ng-interactive/2026/sep/09/best-dog-toys-tools-tips-enrichment",
+      "headline": "Your dog is bored. Here are the best tools, toys, and tips in the US to keep them enriched",
+      "image": "https://i.guim.co.uk/img/media/6104808a45969b6486d4f4eafe899751b3dd5ee6/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvZmlsdGVyLXVzLnBuZw&enable=upscale&s=9f9b10cddf7bc8d238ccda15e943d56d",
+      "timestamp": "2026-09-09T14:15:02.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/sachsen-anhalt-wahl-12-gruene-inseln-im-afd-land-ld.10022863",
+      "headline": "Das sind die letzten grünen Inseln im AfD-Land",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/08/c629f563-3cde-4f7d-9552-29ec5b3187b3.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y158&wmark=nzz",
+      "timestamp": "2026-09-09T13:23:53.000Z"
+    },
     {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",

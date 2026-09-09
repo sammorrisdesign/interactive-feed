@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-06T14:18:50.293Z",
+  "lastUpdated": "2026-09-09T15:52:01.627Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/sachsen-anhalt-wahl-12-gruene-inseln-im-afd-land-ld.10022863",
+      "headline": "Das sind die letzten grünen Inseln im AfD-Land",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/08/c629f563-3cde-4f7d-9552-29ec5b3187b3.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y158&wmark=nzz",
+      "timestamp": "2026-09-09T13:23:53.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

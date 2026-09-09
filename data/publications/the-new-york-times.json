@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-09T11:41:09.682Z",
+  "lastUpdated": "2026-09-09T15:52:02.646Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/09/us/elections/results-rhode-island-mayor-providence-primary.html",
+      "headline": "Providence, Rhode Island, Mayor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/eln-PRE-2026-09-09-race-ri-mayor-providence-d8068d/eln-PRE-2026-09-09-race-ri-mayor-providence-d8068d-articleLarge.jpg",
+      "timestamp": "2026-09-09T14:53:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/09/us/elections/results-rhode-island-treasurer-primary.html",
+      "headline": "Rhode Island Treasurer Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/09/09/multimedia/eln-PRE-2026-09-09-state-ri-b4d371/eln-PRE-2026-09-09-state-ri-b4d371-articleLarge.jpg",
+      "timestamp": "2026-09-09T14:53:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
