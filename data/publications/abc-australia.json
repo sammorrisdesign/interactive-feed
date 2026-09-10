@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-02T19:37:39.956Z",
+  "lastUpdated": "2026-09-10T19:27:41.343Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-11/how-openai-agents-hacked-hugging-face-messages-revealed/107125126",
+      "headline": "How a 'swarm' of AI agents hacked another company, in the AI's own words",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4a8866fc90ac7b987fb43d4e6aac2a94?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
