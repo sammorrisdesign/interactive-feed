@@ -1,6 +1,29 @@
 {
-  "lastUpdated": "2026-09-10T07:52:04.825Z",
+  "lastUpdated": "2026-09-10T12:40:52.627Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/10/puerto-rico-water-access",
+      "headline": "While Puerto Ricans protest for reliable access to water, the governor washes her hands",
+      "image": "https://i.guim.co.uk/img/media/f8da83dbf31d1192f83c65074c4b0267b87ce5ea/0_97_2250_1799/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a914c88f0f356538eeffefa2dc917314",
+      "timestamp": "2026-09-10T11:30:23.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/today-in-pictures-sept-10-2026",
+      "headline": "Today in Pictures, Sept 10, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/7d4ac02fbf131934ac0d0c3c3cfb22714027a5023ff2a6e3509528bc2da25b38",
+      "timestamp": "2026-09-10T11:21:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/10/anna-sweeney-rossman-september-11-anniversary",
+      "headline": "Twenty-five years after 9/11, the daughter of a hero remembers the mother she lost",
+      "image": "https://i.guim.co.uk/img/media/7f6b2b39c8f0b5577ace25490579ccb8ac8e9c89/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3ece41c457f5a2b18ea99736b8f3a4c1",
+      "timestamp": "2026-09-10T10:00:22.000Z"
+    },
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",
