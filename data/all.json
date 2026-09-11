@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-11T02:51:41.461Z",
+  "lastUpdated": "2026-09-11T07:45:36.534Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/11/september-11-dark-legacy",
+      "headline": "Mistakes, mistrust and misdirection: 25 years after 9/11, its dark legacy continues to unfold",
+      "image": "https://i.guim.co.uk/img/media/dd6ef164892a0482e29f4cac4ab335432364517a/0_233_2400_1918/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e3328dc7050cfc3b9dac33ade207352a",
+      "timestamp": "2026-09-11T06:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/11/jim-henson-muppets-exhibition-brisbane-qagoma-make-believe-magic",
+      "headline": "In need of the warm and fuzzies? Joyous exhibition celebrates 70 years of the Muppets and the genius of Jim Henson",
+      "image": "https://i.guim.co.uk/img/media/f739f38ffc884a81796279c3cbb99287b8296c81/0_1092_2363_1890/master/2363.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1b3ff7e99718c4f6ec5a49ae79c131e",
+      "timestamp": "2026-09-11T03:00:53.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/11/app-tracks-south-korea-stalkers-in-real-time",
+      "headline": "‘We can’t stop for a second’: the centre tracking South Korea’s stalkers in real time",
+      "image": "https://i.guim.co.uk/img/media/2d99ce9c6b1c9882722ac9157c684c9f49f4f2bf/1115_136_2243_1795/master/2243.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a530823d4af1dfb3533c47c537003fc2",
+      "timestamp": "2026-09-11T02:51:05.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
