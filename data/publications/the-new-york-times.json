@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-11T02:51:40.014Z",
+  "lastUpdated": "2026-09-11T12:34:35.408Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/11/business/economy/inflation-us-prices-gas-food-tariffs.html",
+      "headline": "What Years of Inflation Have Done to American Prices",
+      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/2026-08-05-inflation-over-time-index/2026-08-05-inflation-over-time-index-articleLarge-v11.png",
+      "timestamp": "2026-09-11T09:04:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

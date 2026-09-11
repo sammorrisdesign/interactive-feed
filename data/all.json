@@ -1,6 +1,29 @@
 {
-  "lastUpdated": "2026-09-11T07:45:36.534Z",
+  "lastUpdated": "2026-09-11T12:34:40.766Z",
   "articles": [
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/the-haze-is-back-in-singapore-how-does-it-compare-with-previous-years",
+      "headline": "The haze is back in Singapore. How does it compare with previous years?",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/09/singapore-haze-2026/singapore-haze-2026.jpg",
+      "timestamp": "2026-09-11T11:29:15.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/today-in-pictures-sept-11-2026",
+      "headline": "Today in Pictures, Sept 11, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/36cdf2e14db6d0c0bb132e1e09533bc4d161a8e835b095118a1b7b33ef10f3ef",
+      "timestamp": "2026-09-11T09:35:01.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/11/business/economy/inflation-us-prices-gas-food-tariffs.html",
+      "headline": "What Years of Inflation Have Done to American Prices",
+      "image": "https://static01.nyt.com/images/2026/09/10/multimedia/2026-08-05-inflation-over-time-index/2026-08-05-inflation-over-time-index-articleLarge-v11.png",
+      "timestamp": "2026-09-11T09:04:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
