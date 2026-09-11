@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-11T19:26:05.874Z",
+  "lastUpdated": "2026-09-11T21:50:33.351Z",
   "articles": [
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/09/11/trump-checks-for-americans-delivered-failed/91708754007/",
+      "headline": "Trump's promises of payouts to Americans: Some delivered, some didn't",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/11/USAT/91713595007-trumppromo-001.jpg",
+      "timestamp": "2026-09-11T21:34:04.012Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/indonesia-needs-to-grow-more-rice-corn-and-sugar-can-its-forests-survive",
+      "headline": "Indonesia needs to grow more rice, corn and sugar. Can its forests survive?",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/09/indonesia-food-security/indonesia-food-security.jpg",
+      "timestamp": "2026-09-11T21:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/11/magazine/extreme-weather-survivors-group-climate-disasters.html",
+      "headline": "Six Strangers Connected By Disaster",
+      "image": "https://static01.nyt.com/images/2026/09/14/magazine/14mag-exteremesurvivors/14mag-exteremesurvivors-articleLarge.jpg",
+      "timestamp": "2026-09-11T19:41:56.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
