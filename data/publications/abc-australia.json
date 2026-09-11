@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-10T19:27:41.343Z",
+  "lastUpdated": "2026-09-11T19:26:01.670Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-12/australian-migration-numbers-history-comparison/106396624",
+      "headline": "What 165 years of data tells us about our recent migration boom",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f31a84fa233cc0da425782feba20928c?impolicy=wcms_crop_resize&cropH=1172&cropW=1563&xPos=195&yPos=170&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-11T16:53:05.771Z",
+  "lastUpdated": "2026-09-11T19:26:05.874Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/11/world/middleeast/houthis-yemen-red-sea-shipping-maps.html",
+      "headline": "Why the Houthis’ Lightning Advance Threatens Global Shipping",
+      "image": "https://static01.nyt.com/images/2026/09/11/multimedia/2026-09-11-houthis-yemen-index/2026-09-11-houthis-yemen-index-articleLarge-v4.png",
+      "timestamp": "2026-09-11T18:26:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -179939,6 +179948,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-12/australian-migration-numbers-history-comparison/106396624",
+      "headline": "What 165 years of data tells us about our recent migration boom",
+      "image": "https://live-production.wcms.abc-cdn.net.au/f31a84fa233cc0da425782feba20928c?impolicy=wcms_crop_resize&cropH=1172&cropW=1563&xPos=195&yPos=170&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

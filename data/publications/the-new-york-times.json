@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-11T16:53:01.690Z",
+  "lastUpdated": "2026-09-11T19:26:01.746Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/11/world/middleeast/houthis-yemen-red-sea-shipping-maps.html",
+      "headline": "Why the Houthis’ Lightning Advance Threatens Global Shipping",
+      "image": "https://static01.nyt.com/images/2026/09/11/multimedia/2026-09-11-houthis-yemen-index/2026-09-11-houthis-yemen-index-articleLarge-v4.png",
+      "timestamp": "2026-09-11T18:26:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
