@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T07:47:28.534Z",
+  "lastUpdated": "2026-09-12T11:57:30.275Z",
   "articles": [
     {
       "publication": "The Guardian",
@@ -64,6 +64,14 @@
       "headline": "Wie Schweizer Forscher Kriegsverbrechen mit Satellitendaten aufdecken wollen",
       "image": "https://img-msp-prod.nzz.ch/2026/09/11/f3bbbe36-49b2-47d5-98e6-336e4d9603f2.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
       "timestamp": "2026-09-12T03:30:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/09/12/newly-discovered-pow-records-world-war-ii-recovered-by-national-archives/",
+      "headline": "He was cleaning his garage. Then he found a file marked ‘SECRET.’",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/UDTAC4DIFCDERRB5JH34JJ4TA4.JPG&w=300",
+      "timestamp": "2026-09-12T00:00:00.000Z"
     },
     {
       "publication": "USA Today",
