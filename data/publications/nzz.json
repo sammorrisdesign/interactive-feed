@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-09T15:52:01.627Z",
+  "lastUpdated": "2026-09-12T07:47:22.105Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/unfall-im-engadin-sind-carreisen-besonders-gefaehrlich-ld.10023434",
+      "headline": "Fünf Personen kamen beim Unfall im Engadin ums Leben. Wie gefährlich sind Carreisen?",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/11/69522eff-806f-4e2e-8328-ed1f84d6eb1c.png?width=1194&height=672&fit=bounds&quality=75&auto=webp&crop=1194,672,x0,y110&wmark=nzz",
+      "timestamp": "2026-09-12T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-luft-ist-sicher-hiess-es-eine-woche-nach-911-in-new-york-heute-sind-tausende-krank-ld.10023033",
+      "headline": "«Die Luft ist sicher», hiess es eine Woche nach 9/11 in New York. Heute sind Tausende krank",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/10/aeadf2e0-79d3-4f58-863c-b7fbe1521c0d.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1600,900,x0,y150&wmark=nzz",
+      "timestamp": "2026-09-12T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-schweizer-forscher-kriegsverbrechen-mit-satellitendaten-aufdecken-wollen-ld.10023045",
+      "headline": "Wie Schweizer Forscher Kriegsverbrechen mit Satellitendaten aufdecken wollen",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/11/f3bbbe36-49b2-47d5-98e6-336e4d9603f2.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-09-12T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
