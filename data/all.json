@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-09-13T10:28:06.444Z",
+  "lastUpdated": "2026-09-13T14:35:40.768Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/13/bird-ecuador-rare-species-jocotoco-antpitta-foundation-conservation-biodiversity-aoe",
+      "headline": "The bird that changed Ecuador: how a chance discovery of a rare species helped to save many more",
+      "image": "https://i.guim.co.uk/img/media/2e85e93153c5c0947585fbd9271299128dbeb50a/1093_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13a37bc5c577345c9bc658cb980ec4ba",
+      "timestamp": "2026-09-13T13:00:05.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/13/if-emmett-till-lived-exhibition-chicago",
+      "headline": "‘He would have been the center of everything’: the art exhibition imagining if Emmett Till lived",
+      "image": "https://i.guim.co.uk/img/media/90e84b49567e5e201fc2c649d97fc5a0db5812b3/0_317_1837_1469/master/1837.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41dd5f762f83f0f49dad6eb904ce1eb4",
+      "timestamp": "2026-09-13T12:00:02.000Z"
+    },
+    {
+      "publication": "The Economist",
+      "url": "https://www.economist.com/interactive/graphic-detail/2026/09/13/in-search-of-the-least-wrong-map",
+      "headline": "In search of the least wrong map",
+      "timestamp": "2026-09-13T11:51:38.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
