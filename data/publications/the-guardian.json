@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-13T05:09:23.035Z",
+  "lastUpdated": "2026-09-13T10:28:03.291Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/sep/13/mapped-150bn-megaproject-aims-to-protect-britain-from-energy-shocks",
+      "headline": "Mapped: the £150bn megaproject that aims to protect Britain from energy shocks",
+      "image": "https://i.guim.co.uk/img/media/72a4af3b427cd72b2e6c7713912d424ea4f10cb1/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e785d29ced33fbae19c276b060613a11",
+      "timestamp": "2026-09-13T06:00:00.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
