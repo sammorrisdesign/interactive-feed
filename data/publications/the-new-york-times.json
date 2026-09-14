@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-13T20:15:48.081Z",
+  "lastUpdated": "2026-09-14T11:42:08.084Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/14/opinion/midterms-pollsters-pundits-scorecard.html",
+      "headline": "Who Will Win the Midterms? Our Panel of Experts Is Getting More Confident About a Blue Wave.",
+      "image": "https://static01.nyt.com/images/2026/09/14/opinion/14midterm-scorecard2/14midterm-scorecard2-articleLarge-v2.jpg",
+      "timestamp": "2026-09-14T11:03:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/14/nyregion/nyc-budgeting-affordability-younger.html",
+      "headline": "How a Family of 5 Lives on $30,000 a Year in the Bronx",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14met-affordingny-promo/14met-affordingny-younger-01-jqgm-articleLarge.jpg",
+      "timestamp": "2026-09-14T09:02:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

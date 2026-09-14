@@ -1,6 +1,40 @@
 {
-  "lastUpdated": "2026-09-14T05:45:19.486Z",
+  "lastUpdated": "2026-09-14T11:42:14.994Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/14/opinion/midterms-pollsters-pundits-scorecard.html",
+      "headline": "Who Will Win the Midterms? Our Panel of Experts Is Getting More Confident About a Blue Wave.",
+      "image": "https://static01.nyt.com/images/2026/09/14/opinion/14midterm-scorecard2/14midterm-scorecard2-articleLarge-v2.jpg",
+      "timestamp": "2026-09-14T11:03:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/us/how-drought-demand-pushed-colorado-river-toward-crisis-2026-09-14/",
+      "headline": "How drought and demand pushed the Colorado River toward crisis",
+      "image": "https://www.reuters.com/resizer/v2/QUGHNVULZJFZRFP5JZM7RIOJFI.jpg?auth=77fe33673259a806319325cd03438efef8cabccbd7dbbb369482067d05884adc&width=1200&quality=80",
+      "timestamp": "2026-09-14T09:58:29.171Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/14/nyregion/nyc-budgeting-affordability-younger.html",
+      "headline": "How a Family of 5 Lives on $30,000 a Year in the Bronx",
+      "image": "https://static01.nyt.com/images/2026/09/14/multimedia/14met-affordingny-promo/14met-affordingny-younger-01-jqgm-articleLarge.jpg",
+      "timestamp": "2026-09-14T09:02:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/sep/14/israel-palestinian-living-conditions-eliminated-west-bank-human-rights-report",
+      "headline": "Israel accused of trying to ‘eliminate’ living conditions for Palestinians in West Bank",
+      "image": "https://i.guim.co.uk/img/media/9c637e3f0d3aa1ad4d10bbf82d65c8be96e06c0b/626_0_5200_4160/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6f86ece195ccf5e23948d6f4c667142b",
+      "timestamp": "2026-09-14T07:23:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
