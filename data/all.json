@@ -1,6 +1,28 @@
 {
-  "lastUpdated": "2026-09-13T20:15:50.518Z",
+  "lastUpdated": "2026-09-14T05:45:19.486Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/royal-crown-branded-africans-britain-monarchy-slave-trade-trafficking",
+      "headline": "The royal crown branded on enslaved Africans: Britain’s monarchy and the slave trade",
+      "image": "https://i.guim.co.uk/img/media/db28a01bae651de1d6a292a74384742c9f4fd8ea/0_0_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=76e779a74c9a3b948436ee769cf841e7",
+      "timestamp": "2026-09-14T05:00:25.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/14/register-british-slave-traders",
+      "headline": "Monarchs, MPs and merchants: the register laying bare Britain’s slave-trading past",
+      "image": "https://i.guim.co.uk/img/media/89ea95851915d407f650c7df919850e4ec163484/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a3d5e3cb151642227984823332a8de75",
+      "timestamp": "2026-09-14T05:00:24.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/nachname-schweiz-so-haeufig-kommt-ihr-name-vor-225197514733",
+      "headline": "Interaktive Übersicht: So häufig – oder selten – ist Ihr Nachname in der Schweiz",
+      "timestamp": "2026-09-14T03:35:25.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
