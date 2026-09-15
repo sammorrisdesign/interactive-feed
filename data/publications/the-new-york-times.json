@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-09-15T14:08:23.443Z",
+  "lastUpdated": "2026-09-15T18:22:01.340Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/15/us/elections/results-delaware-auditor-primary.html",
+      "headline": "Delaware Auditor Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/09/15/multimedia/eln-PRE-2026-09-15-state-de-320074/eln-PRE-2026-09-15-state-de-320074-articleLarge.jpg",
+      "timestamp": "2026-09-15T16:16:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/15/us/elections/results-delaware-treasurer-primary.html",
+      "headline": "Delaware Treasurer Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/09/15/multimedia/eln-PRE-2026-09-15-state-de-84061f/eln-PRE-2026-09-15-state-de-84061f-articleLarge.jpg",
+      "timestamp": "2026-09-15T16:16:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/15/us/elections/results-delaware-attorney-general-primary.html",
+      "headline": "Delaware Attorney General Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/09/15/multimedia/eln-PRE-2026-09-15-state-de-f0dd5c/eln-PRE-2026-09-15-state-de-f0dd5c-articleLarge.jpg",
+      "timestamp": "2026-09-15T16:16:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/15/us/elections/results-delaware-us-senate-primary.html",
+      "headline": "Delaware U.S. Senate Primary Election Results",
+      "image": "https://static01.nyt.com/images/2026/09/15/multimedia/eln-PRE-2026-09-15-race-de-us-s-6f0574/eln-PRE-2026-09-15-race-de-us-s-6f0574-articleLarge.jpg",
+      "timestamp": "2026-09-15T15:16:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
