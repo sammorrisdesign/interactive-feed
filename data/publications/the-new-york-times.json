@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-15T18:22:01.340Z",
+  "lastUpdated": "2026-09-15T21:36:27.838Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/15/technology/ai-regulation-risks-politicians-executives.html",
+      "headline": "How A.I. Risks Are Splitting Silicon Valley and Washington",
+      "image": "https://static01.nyt.com/images/2026/09/15/business/15biz-ai-stances-promo/15biz-ai-stances-promo-articleLarge-v3.jpg",
+      "timestamp": "2026-09-15T19:08:08.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

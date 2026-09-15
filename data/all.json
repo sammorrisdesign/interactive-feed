@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-09-15T18:22:07.212Z",
+  "lastUpdated": "2026-09-15T21:36:32.047Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/15/technology/ai-regulation-risks-politicians-executives.html",
+      "headline": "How A.I. Risks Are Splitting Silicon Valley and Washington",
+      "image": "https://static01.nyt.com/images/2026/09/15/business/15biz-ai-stances-promo/15biz-ai-stances-promo-articleLarge-v3.jpg",
+      "timestamp": "2026-09-15T19:08:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/09/15/how-many-americans-use-mail-in-ballots/91776013007/",
+      "headline": "After Supreme Court mail-in vote ruling, see how many Americans use it",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/15/USAT/91778935007-mailintrump.png",
+      "timestamp": "2026-09-15T18:56:29.987Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -110,6 +127,14 @@
       "image": "https://static01.nyt.com/images/2026/09/14/doc-scotus-mail-promo/doc-scotus-mail-promo-articleLarge.png",
       "timestamp": "2026-09-15T00:01:07.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2026/09/15/kennedy-center-stood-symbol-importance-arts-over-50-years/",
+      "headline": "Kennedy Center stood as a symbol of the importance of arts for over 50 years",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/WC4DBDVOUAI6XLGTES2EUVYJHI.jpg&w=300",
+      "timestamp": "2026-09-15T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",
