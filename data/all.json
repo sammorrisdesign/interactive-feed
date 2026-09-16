@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-09-16T14:01:11.179Z",
+  "lastUpdated": "2026-09-16T18:07:36.387Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/middle-east/latest-polls-ahead-israels-2026-election-2026-09-16/",
+      "headline": "The latest polls ahead of Israel’s 2026 election",
+      "image": "https://www.reuters.com/resizer/v2/NVD47LORVRGWZPICAI7JQWS2TU.jpg?auth=fd2732714524d6233c863122f10208843888c2cec1df6f472fa028ac413a54b4&width=1200&quality=80",
+      "timestamp": "2026-09-16T17:06:09.619Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "url": "https://www.houstonchronicle.com/projects/2026/medical-mysteries/",
+      "headline": "The Medical Mystery Files: How patients found answers to mysterious ailments",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5wontugfwb4lv7nwonarkqw/bafkreiaopb6tnyyzfihio4elk4sh3clyt2a3g7chxzbi2xhkpbqpcvny3y",
+      "timestamp": "2026-09-16T16:28:45.147Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/16/world/asia/quake-tracker-tokyo-japan.html",
+      "headline": "Map: 5.0-Magnitude Earthquake Shakes Tokyo",
+      "image": "https://static01.nyt.com/images/2026/09/16/world/16wea-quake-tracker-japan-nytnjfm-v2-index/16wea-quake-tracker-japan-nytnjfm-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-09-16T15:39:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/montana-us-house-2-polls-2026.html",
+      "headline": "Montana 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-16T14:51:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/16/weather/dujuan-typhoon-japan-tracker.html",
+      "headline": "Tracking Tropical Storm Dujuan",
+      "image": "https://static01.nyt.com/images/2026/09/15/weather/twentyfour-map-path-tracker-index/twentyfour-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-16T14:24:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "SRF",
       "url": "https://www.srf.ch/news/international/ukraine-krieg-ich-habe-die-hoelle-erlebt-39-tage-im-russischen-folterknast",

@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-16T14:00:58.162Z",
+  "lastUpdated": "2026-09-16T18:07:31.798Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/16/world/asia/quake-tracker-tokyo-japan.html",
+      "headline": "Map: 5.0-Magnitude Earthquake Shakes Tokyo",
+      "image": "https://static01.nyt.com/images/2026/09/16/world/16wea-quake-tracker-japan-nytnjfm-v2-index/16wea-quake-tracker-japan-nytnjfm-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-09-16T15:39:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/montana-us-house-2-polls-2026.html",
+      "headline": "Montana 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-16T14:51:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/16/weather/dujuan-typhoon-japan-tracker.html",
+      "headline": "Tracking Tropical Storm Dujuan",
+      "image": "https://static01.nyt.com/images/2026/09/15/weather/twentyfour-map-path-tracker-index/twentyfour-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-16T14:24:23.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
