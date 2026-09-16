@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-09-16T18:07:31.798Z",
+  "lastUpdated": "2026-09-16T21:31:18.016Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/16/espanol/terremoto-colombia.html",
+      "headline": "Mapa: un terremoto de magnitud 5,0 sacude Colombia",
+      "timestamp": "2026-09-16T20:58:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/16/world/quake-tracker-colombia.html",
+      "headline": "Map: 5.0-Magnitude Earthquake Shakes Colombia",
+      "image": "https://static01.nyt.com/images/2026/09/16/world/16wea-quake-tracker-colombia-nytiz2q6-v2-index/16wea-quake-tracker-colombia-nytiz2q6-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-09-16T20:45:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
