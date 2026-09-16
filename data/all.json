@@ -1,6 +1,45 @@
 {
-  "lastUpdated": "2026-09-16T08:47:11.181Z",
+  "lastUpdated": "2026-09-16T14:01:11.179Z",
   "articles": [
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/international/ukraine-krieg-ich-habe-die-hoelle-erlebt-39-tage-im-russischen-folterknast",
+      "headline": "Ukraine-Krieg – «Ich habe die Hölle erlebt»: 39 Tage im russischen Folterknast",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/6ed505.jpg",
+      "timestamp": "2026-09-16T13:37:43.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/north-carolina-us-house-11-polls-2026.html",
+      "headline": "North Carolina 11th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-16T13:36:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/16/us-protest-clowns",
+      "headline": "Send in the clowns: the new guard of activists combating the right",
+      "image": "https://i.guim.co.uk/img/media/8f3ce940dff65b1a23c5c18a3e566ba368d0acf8/0_41_1600_1280/master/1600.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4358f6f3990a3240dab2b898279d2198",
+      "timestamp": "2026-09-16T11:00:18.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/berlin-wahl-2026-kandidaten/",
+      "headline": "Das sind Ihre Kandidaten für das Abgeordnetenhaus",
+      "image": "https://img.sparknews.funkemedien.de/413171143/413171143_1789555874_v16_9_600.jpeg",
+      "timestamp": "2026-09-16T10:58:11.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/entertainment/tv/inq2/reacher-season-4-location-guide-philly-20260916.html",
+      "headline": "Amazon Prime's 'Reacher' season 4: Philadelphia locations in each episode",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/ZMBOC4UFQNDJZCHSB7KVWU2INI.jpg",
+      "timestamp": "2026-09-16T09:01:00.000Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-sept-16-2026",
@@ -30,6 +69,14 @@
       "headline": "Tracking Indonesia's 2026 fire season",
       "image": "https://www.reuters.com/resizer/v2/LLDFUAFXMVEXVBN7T4FFBDH3DA.png?auth=4e9c3838961d03e31cdb9e3e8630fcbd2b19e26207686fb08c1142ea13bef66c&width=1200&quality=80",
       "timestamp": "2026-09-16T03:59:06.956Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2026/09/16/6-resistance-band-exercises-an-easy-workout-you-can-do-anywhere/",
+      "headline": "You can get stronger with this easy 6-move resistance band workout",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DHM4U7GW5RF5RACYGIP3MDXAVI.jpg&w=300",
+      "timestamp": "2026-09-16T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",

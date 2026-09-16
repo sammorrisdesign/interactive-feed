@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-15T23:56:29.025Z",
+  "lastUpdated": "2026-09-16T14:00:58.162Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/north-carolina-us-house-11-polls-2026.html",
+      "headline": "North Carolina 11th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-16T13:36:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
