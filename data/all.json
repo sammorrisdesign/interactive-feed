@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-17T05:06:37.702Z",
+  "lastUpdated": "2026-09-17T10:14:31.355Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/17/opinion/liberal-conservative-politics-heterodoxy.html",
+      "headline": "This Is Why So Many Voters Hate Both Parties",
+      "image": "https://static01.nyt.com/images/2026/09/17/opinion/17lopez-heterodoxy-image/17lopez-heterodoxy-image-articleLarge.jpg",
+      "timestamp": "2026-09-17T09:05:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/17/travel/things-to-do-lake-como.html",
+      "headline": "36 Hours on Lake Como, Italy",
+      "image": "https://static01.nyt.com/images/2026/09/15/multimedia/trav-hours-como-qzhm/trav-hours-como-qzhm-articleLarge.jpg",
+      "timestamp": "2026-09-17T09:02:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",
@@ -180468,6 +180486,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-17/shabtay-yaacoby-jailed-for-14-years-laundering-scam-funds/107164182",
+      "headline": "Record jail sentence for Israeli money launderer after Sydney trial",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a916592ee35aecbc0199ac387c2adcc7?impolicy=wcms_crop_resize&cropH=2000&cropW=2667&xPos=170&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

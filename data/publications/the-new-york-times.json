@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-17T00:03:02.659Z",
+  "lastUpdated": "2026-09-17T10:14:28.761Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/17/opinion/liberal-conservative-politics-heterodoxy.html",
+      "headline": "This Is Why So Many Voters Hate Both Parties",
+      "image": "https://static01.nyt.com/images/2026/09/17/opinion/17lopez-heterodoxy-image/17lopez-heterodoxy-image-articleLarge.jpg",
+      "timestamp": "2026-09-17T09:05:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/17/travel/things-to-do-lake-como.html",
+      "headline": "36 Hours on Lake Como, Italy",
+      "image": "https://static01.nyt.com/images/2026/09/15/multimedia/trav-hours-como-qzhm/trav-hours-como-qzhm-articleLarge.jpg",
+      "timestamp": "2026-09-17T09:02:38.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

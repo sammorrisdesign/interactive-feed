@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-11T19:26:01.670Z",
+  "lastUpdated": "2026-09-17T10:14:28.691Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-17/shabtay-yaacoby-jailed-for-14-years-laundering-scam-funds/107164182",
+      "headline": "Record jail sentence for Israeli money launderer after Sydney trial",
+      "image": "https://live-production.wcms.abc-cdn.net.au/a916592ee35aecbc0199ac387c2adcc7?impolicy=wcms_crop_resize&cropH=2000&cropW=2667&xPos=170&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
