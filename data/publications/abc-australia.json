@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T10:14:28.691Z",
+  "lastUpdated": "2026-09-17T19:09:41.800Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-18/big-cars-linked-to-pedestrian-deaths/107053810",
+      "headline": "Researchers who analysed 10,000 crashes say car size does matter",
+      "image": "https://live-production.wcms.abc-cdn.net.au/d140c1bc203b6d3469db7a5d4c18545d?impolicy=wcms_crop_resize&cropH=1076&cropW=1434&xPos=224&yPos=87&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
