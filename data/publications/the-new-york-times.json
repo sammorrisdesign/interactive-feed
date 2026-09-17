@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-16T21:31:18.016Z",
+  "lastUpdated": "2026-09-17T00:03:02.659Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/16/arts/television/17cul-nepoquiz-2.html",
+      "headline": "Test Your Knowledge of Nepo Babies and Ryan Murphy Shows",
+      "image": "https://static01.nyt.com/images/2026/08/25/arts/00rm-quiz-shards/00rm-quiz-shards-articleLarge.jpg",
+      "timestamp": "2026-09-16T21:38:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
