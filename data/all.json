@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-09-17T19:09:44.484Z",
+  "lastUpdated": "2026-09-17T22:20:08.922Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/17/business/media/175-quiz-new-york-times.html",
+      "headline": "Quiz: How Much Do You Know About … The New York Times?",
+      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/175-quiz-static-promo/175-quiz-static-promo-articleLarge.png",
+      "timestamp": "2026-09-17T19:47:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/09/17/travis-kelce-ponzi-scheme-how-to-avoid/91806810007/",
+      "headline": "Travis Kelce named as victim of Ponzi scam. Here's how to spot one",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/17/USAT/91809880007-usat-ponzi-topper.png",
+      "timestamp": "2026-09-17T19:45:53.333Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

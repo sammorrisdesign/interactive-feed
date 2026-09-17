@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-17T19:09:41.856Z",
+  "lastUpdated": "2026-09-17T22:20:06.328Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/17/business/media/175-quiz-new-york-times.html",
+      "headline": "Quiz: How Much Do You Know About … The New York Times?",
+      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/175-quiz-static-promo/175-quiz-static-promo-articleLarge.png",
+      "timestamp": "2026-09-17T19:47:03.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
