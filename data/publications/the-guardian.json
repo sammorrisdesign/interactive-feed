@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-16T14:00:58.131Z",
+  "lastUpdated": "2026-09-17T15:09:39.345Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/18/bpp-brisbane-portrait-prize-2026-ai",
+      "headline": "Artists boycotted this portrait prize over AI entries. Now they’re back to take them on",
+      "image": "https://i.guim.co.uk/img/media/f8217044a501cfeca4a354a2af964ac66f2e2d9a/753_0_4813_3850/master/4813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=407d21a53f0aae4a309f0499bc8fb7ec",
+      "timestamp": "2026-09-17T15:00:55.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
