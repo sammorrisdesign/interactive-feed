@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-09-18T21:05:54.379Z",
+  "lastUpdated": "2026-09-18T23:27:48.366Z",
   "articles": [
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/nepals-towns-in-ruins-what-it-takes-to-rebuild-after-massive-flood",
+      "headline": "Nepal’s towns in ruins: What it takes to rebuild after massive flood",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/09/nepal-flash-flood-rebuild/nepal-flash-flood-rebuild.jpg",
+      "timestamp": "2026-09-18T21:00:00.000Z"
+    },
     {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
@@ -180585,6 +180592,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-19/parenthood-maths-aint-mathing/106552344",
+      "headline": "Maths doesn't add up for Australian parents juggling work and school",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9a711bf91d63f16efda20f8c06559167?impolicy=wcms_crop_resize&cropH=2979&cropW=3972&xPos=440&yPos=199&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

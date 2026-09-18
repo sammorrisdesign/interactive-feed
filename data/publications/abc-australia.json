@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-17T19:09:41.800Z",
+  "lastUpdated": "2026-09-18T23:27:43.396Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-19/parenthood-maths-aint-mathing/106552344",
+      "headline": "Maths doesn't add up for Australian parents juggling work and school",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9a711bf91d63f16efda20f8c06559167?impolicy=wcms_crop_resize&cropH=2979&cropW=3972&xPos=440&yPos=199&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
