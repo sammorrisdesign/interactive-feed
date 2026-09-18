@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-18T05:31:13.723Z",
+  "lastUpdated": "2026-09-18T10:30:28.412Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/18/gordon-parks-photography-exhibit",
+      "headline": "‘He was making history, not copying it’: the greatest Gordon Parks photographs",
+      "image": "https://i.guim.co.uk/img/media/6ee194af34610222e79c99252407b66dcd6e4f8a/0_513_2468_1973/master/2468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=304448552df55ede7b2a9080621fb38c",
+      "timestamp": "2026-09-18T09:00:13.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

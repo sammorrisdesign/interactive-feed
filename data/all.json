@@ -1,6 +1,29 @@
 {
-  "lastUpdated": "2026-09-18T05:31:14.642Z",
+  "lastUpdated": "2026-09-18T10:30:31.356Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/food/restaurants/inq2/philly-restaurant-closing-lifespan-data-20260918.html",
+      "headline": "The average lifespan of a Philly restaurant is short, but that doesn't deter new spots from opening",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/5OI7AT52XBDOPFV6Y2GNHXME5I.jpg",
+      "timestamp": "2026-09-18T09:01:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/18/gordon-parks-photography-exhibit",
+      "headline": "‘He was making history, not copying it’: the greatest Gordon Parks photographs",
+      "image": "https://i.guim.co.uk/img/media/6ee194af34610222e79c99252407b66dcd6e4f8a/0_513_2468_1973/master/2468.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=304448552df55ede7b2a9080621fb38c",
+      "timestamp": "2026-09-18T09:00:13.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-sept-18-2026",
+      "headline": "Today in Pictures, Sept 18, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/0f9504280d4aad8568b4f50612c2bfce1577d8449c5004d2b1e593cf87f71782",
+      "timestamp": "2026-09-18T08:33:18.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
