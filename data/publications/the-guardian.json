@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-19T14:37:12.224Z",
+  "lastUpdated": "2026-09-19T22:17:27.524Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/sep/20/i-feel-like-im-cancelling-out-her-life-the-wrenching-work-of-clearing-out-a-parents-home",
+      "headline": "‘I feel like I’m cancelling out her life’: the wrenching work of clearing out a parent’s home",
+      "image": "https://i.guim.co.uk/img/media/06509a48907a09ba6466ca3797dcfcff355ee2f3/0_229_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=72f24eead7a3f270df1d0b392728dd76",
+      "timestamp": "2026-09-19T20:00:56.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/20/shared-co-housing-communal-living-melbourne-families-transform-one-home",
+      "headline": "When friends become good neighbours: the Melbourne families who transformed one home into three townhouses",
+      "image": "https://i.guim.co.uk/img/media/f95287173bfd183018ead0fd0628ab6a46ee9d36/0_2034_4002_3200/master/4002.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2af2692b9493347bfdc0d90de77eca92",
+      "timestamp": "2026-09-19T20:00:56.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
