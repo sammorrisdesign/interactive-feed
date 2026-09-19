@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-19T06:17:05.211Z",
+  "lastUpdated": "2026-09-19T11:19:16.424Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/19/black-women-single-mothers-by-choice",
+      "headline": "The Black women who choose to have children on their own: ‘We’re going in eyes open’",
+      "image": "https://i.guim.co.uk/img/media/65aeac095b8642418474f6d56fdced6730bb32fe/36_278_2364_1890/master/2364.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9a37e661ed93e777cf64219758e4ceb6",
+      "timestamp": "2026-09-19T11:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/19/china-ai-foreign-policy-dario-amodei",
+      "headline": "China bogeyman looms large over American firms’ AI doomsday scenario",
+      "image": "https://i.guim.co.uk/img/media/7fe76523483afb288dbc972157cf1bfb4dc91aa4/0_5_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=74a5c8f5f55f540fa1d8abfc7bcc76a9",
+      "timestamp": "2026-09-19T10:00:45.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

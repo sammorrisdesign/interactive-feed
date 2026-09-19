@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-18T18:02:36.011Z",
+  "lastUpdated": "2026-09-19T11:19:16.450Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/19/us/trump-census-immigrants-red-states.html",
+      "headline": "Trump’s Census Proposal Could Cut House Seats From Red States",
+      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/2026-09-14-census-states-immigrants-index/2026-09-14-census-states-immigrants-index-articleLarge-v6.png",
+      "timestamp": "2026-09-19T09:01:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/19/nyregion/routine-michael-kelly.html",
+      "headline": "How Michael Kelly From ‘Lioness’ Became the Big Star of a Small Town",
+      "image": "https://static01.nyt.com/images/2026/09/19/multimedia/19met-routine-michael-kelly-wctg/19met-routine-michael-kelly-wctg-articleLarge.jpg",
+      "timestamp": "2026-09-19T07:00:20.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
