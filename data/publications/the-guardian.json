@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-20T05:10:11.753Z",
+  "lastUpdated": "2026-09-20T13:58:42.119Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/john-fetterman-braddock-pennsylvania",
+      "headline": "‘I don’t trust him any more’: Pennsylvanians come to grips with John Fetterman’s rightwing turn",
+      "image": "https://i.guim.co.uk/img/media/043eae51ce359230a9112287d9796f8867faeb78/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8570872a69661ecfd92a21328dcc2d8a",
+      "timestamp": "2026-09-20T11:00:14.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/20/anger-midterm-elections",
+      "headline": "‘People are pissed off’: anger at the elite and the establishment is fueling this year’s midterms",
+      "image": "https://i.guim.co.uk/img/media/b3c71f393b611b6ed2943adf98c2ea9c0fe878cf/231_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ac07eda4963177ba7a25b0f8f47e5698",
+      "timestamp": "2026-09-20T10:00:14.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

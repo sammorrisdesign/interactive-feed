@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-19T11:19:16.450Z",
+  "lastUpdated": "2026-09-20T13:58:42.148Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/20/weather/odalys-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Odalys",
+      "image": "https://static01.nyt.com/images/2026/09/20/weather/odalys-map-path-tracker-index/odalys-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2026-09-20T12:02:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/20/weather/fay-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Fay",
+      "image": "https://static01.nyt.com/images/2026/09/19/weather/six-map-path-tracker-index/six-map-path-tracker-index-articleLarge-v11.jpg",
+      "timestamp": "2026-09-20T12:02:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
