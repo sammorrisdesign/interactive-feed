@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-20T13:58:46.873Z",
+  "lastUpdated": "2026-09-20T17:21:20.031Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wahl-in-berlin-2026-alle-ergebnisse-im-ueberblick-ld.10024505",
+      "headline": "Wahl in Berlin 2026: alle Ergebnisse im Überblick",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/18/99b37af9-31e2-44b5-93fa-18955a0e86b8.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y226&wmark=nzz",
+      "timestamp": "2026-09-20T15:23:36.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wahl-in-mecklenburg-vorpommern-2026-alle-ergebnisse-im-ueberblick-ld.10024506",
+      "headline": "Wahl in Mecklenburg-Vorpommern 2026: alle Ergebnisse im Überblick",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/18/f1bd1e60-b89b-45dd-be2f-1bd5cda0db1f.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y225&wmark=nzz",
+      "timestamp": "2026-09-20T15:23:33.000Z"
+    },
     {
       "publication": "Berliner Morgenpost",
       "url": "https://www.morgenpost.de/interaktiv/article413184909/mecklenburg-vorpommern-wahl-heute-prognose-hochrechnung-ergebnisse-live.html",
