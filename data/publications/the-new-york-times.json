@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-21T16:48:42.983Z",
+  "lastUpdated": "2026-09-21T20:45:58.671Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/21/magazine/shooting-fears-school-equipment.html",
+      "headline": "Back to School With Bulletproof Backpacks",
+      "image": "https://static01.nyt.com/images/2026/09/27/magazine/27mag-wwln-shootings-sarah-02-promo/27mag-wwln-shootings-sarah-02-promo-articleLarge-v5.jpg",
+      "timestamp": "2026-09-21T20:25:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/georgia-us-house-11-polls-2026.html",
+      "headline": "Georgia 11th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
+      "timestamp": "2026-09-21T18:52:15.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
