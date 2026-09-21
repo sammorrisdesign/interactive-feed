@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-21T05:15:29.679Z",
+  "lastUpdated": "2026-09-21T16:48:42.953Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/21/alaa-gaza-day-in-life-pregnant-woman-alaa",
+      "headline": "‘I lost my children, and I’m afraid of losing my baby again’: a day in the life of a pregnant woman in Gaza",
+      "image": "https://i.guim.co.uk/img/media/a0af513507fd12074ec1f240a9e0fc8040a75ba9/0_271_1440_1152/master/1440.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd7388729dc833ac316179339d93d284",
+      "timestamp": "2026-09-21T11:00:23.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/music/ng-interactive/2026/sep/21/way-dynamic-interview-australian-folk-pop-musician-dylan-young-masive-shoe",
+      "headline": "‘It’s been work to not go crazy’: Way Dynamic, the Australian folk-pop musician with fans including Elton John",
+      "image": "https://i.guim.co.uk/img/media/8eb3e72923d5344ee695d90245a1288847a39fe2/105_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b915dfe969d56006ce9ff2061370bf3",
+      "timestamp": "2026-09-20T15:00:19.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

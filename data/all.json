@@ -1,6 +1,40 @@
 {
-  "lastUpdated": "2026-09-21T10:57:18.156Z",
+  "lastUpdated": "2026-09-21T16:48:48.146Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/21/us/cnn-msnow-politico-lawsuit-trump.html",
+      "headline": "Read the Lawsuit From CNN, MS NOW and Politico",
+      "image": "https://static01.nyt.com/images/2026/09/21/doc-govuscourtsdcd296754101-promo/doc-govuscourtsdcd296754101-promo-articleLarge.png",
+      "timestamp": "2026-09-21T14:54:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/21/weather/polo-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Polo",
+      "image": "https://static01.nyt.com/images/2026/09/20/weather/seventeen-e-map-path-tracker-index/seventeen-e-map-path-tracker-index-articleLarge-v18.jpg",
+      "timestamp": "2026-09-21T12:46:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/21/alaa-gaza-day-in-life-pregnant-woman-alaa",
+      "headline": "‘I lost my children, and I’m afraid of losing my baby again’: a day in the life of a pregnant woman in Gaza",
+      "image": "https://i.guim.co.uk/img/media/a0af513507fd12074ec1f240a9e0fc8040a75ba9/0_271_1440_1152/master/1440.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bd7388729dc833ac316179339d93d284",
+      "timestamp": "2026-09-21T11:00:23.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/09/21/houston-isd-state-takeover-sustainability/",
+      "headline": "High costs, dwindling enrollment: Is Houston ISD’s playbook under takeover sustainable?",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/09/HISD-LEDE-SOCIAL.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-09-21T10:00:00.000Z"
+    },
     {
       "publication": "SRF",
       "url": "https://www.srf.ch/wissen/gesundheit/wege-aus-der-gesundheitskrise-diese-drei-frauen-bleiben-trotz-allen-widrigkeiten",
@@ -115,6 +149,14 @@
       "headline": "Wahl in Mecklenburg-Vorpommern 2026: alle Ergebnisse im Überblick",
       "image": "https://img-msp-prod.nzz.ch/2026/09/18/f1bd1e60-b89b-45dd-be2f-1bd5cda0db1f.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2401,1351,x0,y225&wmark=nzz",
       "timestamp": "2026-09-20T15:23:33.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/music/ng-interactive/2026/sep/21/way-dynamic-interview-australian-folk-pop-musician-dylan-young-masive-shoe",
+      "headline": "‘It’s been work to not go crazy’: Way Dynamic, the Australian folk-pop musician with fans including Elton John",
+      "image": "https://i.guim.co.uk/img/media/8eb3e72923d5344ee695d90245a1288847a39fe2/105_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b915dfe969d56006ce9ff2061370bf3",
+      "timestamp": "2026-09-20T15:00:19.000Z"
     },
     {
       "publication": "Berliner Morgenpost",
