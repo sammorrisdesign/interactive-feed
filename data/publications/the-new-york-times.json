@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-21T00:23:33.821Z",
+  "lastUpdated": "2026-09-21T10:57:10.407Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/21/nyregion/nyc-budgeting-affordability-deganon.html",
+      "headline": "How a Risk Associate Lives on $110,000 in Lenox Hill",
+      "image": "https://static01.nyt.com/images/2026/09/21/multimedia/21met-affordingny-deGanon-promo/21met-affordingny-deGanon--05-fpjv-articleLarge.jpg",
+      "timestamp": "2026-09-21T09:04:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/21/well/nuts-health-benefits-quiz.html",
+      "headline": "What’s the Healthiest Nut?",
+      "image": "https://static01.nyt.com/images/2026/09/21/well/21Well-Nuts-Quiz-Top-copy/21Well-Nuts-Quiz-Top-articleLarge-v3.jpg",
+      "timestamp": "2026-09-21T09:03:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
