@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T17:21:18.074Z",
+  "lastUpdated": "2026-09-21T05:15:29.288Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/stillstand-am-boden-eskalation-in-der-luft-was-gerade-in-der-ukraine-passiert-ld.10023401",
+      "headline": "Stillstand am Boden, Eskalation in der Luft – was gerade in der Ukraine passiert",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/18/0a33b4c9-a057-46d2-8216-265bc5aad208.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y169&wmark=nzz",
+      "timestamp": "2026-09-21T03:46:10.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

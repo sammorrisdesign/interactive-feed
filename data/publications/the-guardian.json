@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-20T13:58:42.119Z",
+  "lastUpdated": "2026-09-21T05:15:29.679Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/21/trump-deportation-deals",
+      "headline": "Banished to alien lands: Trump’s secret deportation deals",
+      "image": "https://i.guim.co.uk/img/media/8a1111af32b508c7aedf458e07ae1af37f330f83/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=41356e750fd601b9d2a9817d3e14eb95",
+      "timestamp": "2026-09-21T05:00:38.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
