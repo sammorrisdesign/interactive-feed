@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-09-20T13:58:42.148Z",
+  "lastUpdated": "2026-09-21T00:23:33.821Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/reader-ballot-tv-shows-21st-century.html",
+      "headline": "The Best TV Shows of the 21st Century: You Decide",
+      "image": "https://static01.nyt.com/images/2026/09/17/arts/best-tv-readers/best-tv-readers-articleLarge.jpg",
+      "timestamp": "2026-09-21T00:15:47.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/votes-tv-shows-21st-century.html",
+      "headline": "The Best TV Shows of the 21st Century: How Stars, Creators and Other TV Lovers Voted",
+      "image": "https://static01.nyt.com/images/2026/09/17/arts/best-tv-ballot-voters/best-tv-ballot-voters-articleLarge.jpg",
+      "timestamp": "2026-09-21T00:15:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html",
+      "headline": "The 100 Best TV Shows of the 21st Century",
+      "image": "https://static01.nyt.com/images/2026/09/17/arts/best-tv-day-1/best-tv-day-1-articleLarge.jpg",
+      "timestamp": "2026-09-21T00:15:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
