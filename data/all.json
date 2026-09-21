@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-21T20:46:04.668Z",
+  "lastUpdated": "2026-09-21T23:48:53.371Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/sep/22/pregnant-prisoners-handcuffed-during-birth-lidia-thorpe-shackling-australia-ntwnfb",
+      "headline": "Shackling prisoners giving birth should be a last resort – but it’s happening around Australia anyway",
+      "image": "https://i.guim.co.uk/img/media/cb6c0417ee9fb903d6adc9c572f92cdfbb767b3c/0_893_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3dd7492a1d4b83b9a1e68c80d29bab59",
+      "timestamp": "2026-09-21T22:00:36.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -331,6 +339,13 @@
       "timestamp": "2026-09-19T05:00:37.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/san-francisco-preschool-near-me/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31278847/1/rawImage.jpg",
+      "timestamp": "2026-09-18T23:44:57.000Z"
+    },
+    {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/nepals-towns-in-ruins-what-it-takes-to-rebuild-after-massive-flood",
       "headline": "Nepal’s towns in ruins: What it takes to rebuild after massive flood",
@@ -384,6 +399,13 @@
       "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
       "timestamp": "2026-09-18T12:08:45.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-september-18/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-09-18T11:04:04.000Z"
     },
     {
       "publication": "The Philadelphia Inquirer",
@@ -455,6 +477,13 @@
       "headline": "Artists boycotted this portrait prize over AI entries. Now they’re back to take them on",
       "image": "https://i.guim.co.uk/img/media/f8217044a501cfeca4a354a2af964ac66f2e2d9a/753_0_4813_3850/master/4813.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=407d21a53f0aae4a309f0499bc8fb7ec",
       "timestamp": "2026-09-17T15:00:55.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/dreamforce-ai-poll/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31290542/1/rawImage.jpg",
+      "timestamp": "2026-09-17T11:04:06.000Z"
     },
     {
       "publication": "The New York Times",
@@ -780,6 +809,13 @@
       "timestamp": "2026-09-15T00:00:00.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/bay-area-rich-calculator/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31199473/1/rawImage.jpg",
+      "timestamp": "2026-09-14T20:03:44.000Z"
+    },
+    {
       "publication": "Texas Tribune",
       "blueSkyHandle": "texastribune.bsky.social",
       "url": "https://www.texastribune.org/2026/09/14/texas-big-bend-national-park-border-wall-plans-explainer/",
@@ -1012,6 +1048,13 @@
       "isTemplated": false
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-september-11/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-09-11T17:31:35.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/polls/california-us-house-34-polls-2026.html",
@@ -1019,6 +1062,13 @@
       "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
       "timestamp": "2026-09-11T16:48:07.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/chronicle-200-bay-area-companies/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31270857/1/rawImage.jpg",
+      "timestamp": "2026-09-11T16:41:08.000Z"
     },
     {
       "publication": "The New York Times",
@@ -1043,6 +1093,13 @@
       "headline": "The haze is back in Singapore. How does it compare with previous years?",
       "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/09/singapore-haze-2026/singapore-haze-2026.jpg",
       "timestamp": "2026-09-11T11:29:15.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-september-11/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-09-11T11:04:07.000Z"
     },
     {
       "publication": "The Straits Times",
@@ -1092,6 +1149,27 @@
       "image": "https://static01.nyt.com/images/2026/09/10/multimedia/00-met-before-after-911-skyline-01-tvjb/00-met-before-after-911-skyline-01-tvjb-articleLarge.jpg",
       "timestamp": "2026-09-11T00:35:31.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/ed-tech-survey/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31245215/1/rawImage.jpg",
+      "timestamp": "2026-09-10T20:36:31.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/vacant-lots-san-francisco/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31264482/1/rawImage.jpg",
+      "timestamp": "2026-09-10T17:59:40.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/best-california-charter-magnet-high-schools/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31273278/1/rawImage.jpg",
+      "timestamp": "2026-09-10T16:12:34.000Z"
     },
     {
       "publication": "The New York Times",
@@ -1175,11 +1253,25 @@
       "timestamp": "2026-09-10T03:45:00.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-earthquake-faults/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31227804/1/rawImage.jpg",
+      "timestamp": "2026-09-10T00:26:09.000Z"
+    },
+    {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/singapores-playgrounds-are-getting-an-upgrade-heres-how-new-design-guidelines-could-change-the-way",
       "headline": "Singapore’s playgrounds are getting an upgrade. Here’s how new design guidelines could change the way children play.",
       "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/09/playground-guidelines-hdb/playground-guidelines-hdb.jpg",
       "timestamp": "2026-09-09T21:00:00.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/wikipedia-top-100/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31264426/1/rawImage.jpg",
+      "timestamp": "2026-09-09T19:03:04.000Z"
     },
     {
       "publication": "USA Today",
@@ -1250,6 +1342,13 @@
       "timestamp": "2026-09-09T13:23:53.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/poll-49ers-photos/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31270808/1/rawImage.jpg",
+      "timestamp": "2026-09-09T11:04:39.000Z"
+    },
+    {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
       "url": "https://www.usatoday.com/story/graphics/2026/09/09/25-years-911-anniversary-tragedy-by-the-numbers/91353835007/",
@@ -1312,6 +1411,13 @@
       "isTemplated": false
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/wikipedia-top-100-map/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31263570/1/rawImage.jpg",
+      "timestamp": "2026-09-09T00:16:13.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/polls/north-carolina-voter-id-amendment-polls-2026.html",
@@ -1355,6 +1461,13 @@
       "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
       "timestamp": "2026-09-08T12:29:08.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/vacant-lots-in-sanfrancisco/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31264482/1/rawImage.jpg",
+      "timestamp": "2026-09-08T11:04:43.000Z"
     },
     {
       "publication": "Berliner Morgenpost",
@@ -1659,6 +1772,13 @@
       "timestamp": "2026-09-04T22:00:00.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-september-4/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-09-04T21:25:46.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/09/04/us/lindsay-clancy-emergency-stay-petition.html",
@@ -1710,6 +1830,13 @@
       "timestamp": "2026-09-04T11:29:31.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-september-4/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-09-04T11:04:22.000Z"
+    },
+    {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-sept-4-2026",
       "headline": "Today in Pictures, Sept 4, 2026",
@@ -1740,6 +1867,13 @@
       "image": "https://static01.nyt.com/images/2026/09/03/doc-final-response-documents--promo/doc-final-response-documents--promo-articleLarge.png",
       "timestamp": "2026-09-03T18:41:45.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/partisan-donation-occupations/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31258276/1/rawImage.jpg",
+      "timestamp": "2026-09-03T16:47:54.000Z"
     },
     {
       "publication": "The Guardian",
@@ -2065,6 +2199,13 @@
       "timestamp": "2026-09-01T03:30:00.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/bay-area-sports-social-justice/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31251986/1/rawImage.jpg",
+      "timestamp": "2026-08-31T23:57:26.000Z"
+    },
+    {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
       "url": "https://www.theguardian.com/us-news/ng-interactive/2026/aug/31/grand-canyon-flash-flood-causes",
@@ -2255,6 +2396,13 @@
       "timestamp": "2026-08-28T22:00:00.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-august-28/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-08-28T18:33:57.000Z"
+    },
+    {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
       "url": "https://www.theguardian.com/world/ng-interactive/2026/aug/28/the-flood-took-everything-i-have-survivors-grieve-for-relatives-and-homes-swept-away-in-nepal",
@@ -2346,6 +2494,13 @@
       "image": "https://static01.nyt.com/images/2026/01/16/multimedia/16-polls-promo/16-polls-promo-articleLarge.png",
       "timestamp": "2026-08-28T14:20:24.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-august-28/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-08-28T11:04:19.000Z"
     },
     {
       "publication": "The New York Times",
@@ -2584,6 +2739,20 @@
       "url": "https://www.ft.com/content/41e60b41-5f13-4d72-8dfc-9bab83f57fb3",
       "headline": "‘It seems crazy’: SpaceX’s orbital data centre bet tests physics and finance",
       "timestamp": "2026-08-26T04:00:04.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/mirandas-rescue-zora-redwood/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31184236/1/rawImage.jpg",
+      "timestamp": "2026-08-25T23:29:40.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/mirandas-rescue-inside-the-mission/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31177462/1/rawImage.jpg",
+      "timestamp": "2026-08-25T23:29:24.000Z"
     },
     {
       "publication": "USA Today",
@@ -2828,6 +2997,20 @@
       "isTemplated": false
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-august-21/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-08-24T18:02:43.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-state-employee-pay-2026/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31232308/1/rawImage.jpg",
+      "timestamp": "2026-08-24T15:53:15.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/08/24/weather/saudel-map-path-tracker.html",
@@ -2891,6 +3074,13 @@
       "url": "https://www.tagesanzeiger.ch/lehrabschlusspruefung-warum-jeder-dritte-bei-gipsern-scheitert-704861042698",
       "headline": "Interaktives Tool zur Berufsbildung: Erfolgsquoten von 68 bis 100 Prozent: So schneiden Schweizer Jugendliche in ihren Lehrberufen ab",
       "timestamp": "2026-08-23T19:45:27.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/hurricane-lala-hawaii-cemetery/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31224898/1/rawImage.jpg",
+      "timestamp": "2026-08-23T11:04:25.000Z"
     },
     {
       "publication": "USA Today",
@@ -3021,6 +3211,13 @@
       "headline": "‘It could only have been one person’: top former detective says system failed the murdered journalist Lyra McKee",
       "image": "https://i.guim.co.uk/img/media/fbb889c25db3ef826b48140e99dcea6c1ef11bf0/0_407_1488_1190/master/1488.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=84e4c77e00abd3b1606f47e3bc74fb58",
       "timestamp": "2026-08-21T12:00:34.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-august-21/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-08-21T11:04:18.000Z"
     },
     {
       "publication": "The New York Times",
@@ -3639,6 +3836,13 @@
       "isTemplated": false
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-august-14/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-08-14T21:55:51.000Z"
+    },
+    {
       "publication": "USA Today",
       "blueSkyHandle": "usatoday.com",
       "url": "https://www.usatoday.com/story/graphics/2026/08/14/hurricane-tracker-path-forecast-map/90980447007/",
@@ -3717,6 +3921,13 @@
       "timestamp": "2026-08-14T12:23:04.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-august-14/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-08-14T11:04:16.000Z"
+    },
+    {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-aug-14-2026",
       "headline": "Today in Pictures, Aug 14, 2026",
@@ -3769,6 +3980,13 @@
       "url": "https://www.tagesanzeiger.ch/quiz-21-wasserfragen-vom-schweizer-quizmeister-674455183305",
       "headline": "Interaktives Quiz Teil 2: Wie viel wissen Sie im Vergleich zu anderen?",
       "timestamp": "2026-08-13T19:44:31.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/san-francisco-employee-pay/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31212353/1/rawImage.jpg",
+      "timestamp": "2026-08-13T16:39:13.000Z"
     },
     {
       "publication": "The New York Times",
@@ -4252,6 +4470,13 @@
       "timestamp": "2026-08-08T00:00:00.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-august-7/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-08-07T21:26:06.000Z"
+    },
+    {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/marks-of-a-nation-61-years-of-design-in-singapore",
       "headline": "Marks of a nation: 61 years of design in Singapore",
@@ -4326,6 +4551,13 @@
       "headline": "Thailand school shooting: What we know so far",
       "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/08/bangkok-school-shooting/bangkok-school-shooting.jpg",
       "timestamp": "2026-08-07T12:19:56.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-august-7/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-08-07T11:04:25.000Z"
     },
     {
       "publication": "Texas Tribune",
