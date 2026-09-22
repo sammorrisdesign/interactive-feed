@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-22T13:52:30.848Z",
+  "lastUpdated": "2026-09-22T17:54:38.491Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/sep/23/big-tech-claims-ai-health-medical-advancement-cure-for-cancer",
+      "headline": "Big tech says AI can find a cure for cancer. So where is it?",
+      "image": "https://i.guim.co.uk/img/media/6399939b9a16244249b4e30b86644eb87138d539/0_154_3307_2646/master/3307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e125ab95dc6686288905265cb6897964",
+      "timestamp": "2026-09-22T15:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/22/animal-language-recordings-ai",
+      "headline": "Using AI to ‘talk to animals’ might make us feel clever – but what, if anything, does it do for them?",
+      "image": "https://i.guim.co.uk/img/media/c6ec941fee06ab9419f77679db3e173895811b18/0_470_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cee6a8d0c186177db34ca313a96706cf",
+      "timestamp": "2026-09-22T12:00:54.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
