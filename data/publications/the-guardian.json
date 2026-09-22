@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-22T08:43:30.095Z",
+  "lastUpdated": "2026-09-22T13:52:30.848Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/22/prison-letters-the-teenager-writing-letters-to-jailed-climate-activists-documentary",
+      "headline": "Prison Letters: the teenager writing letters to jailed climate activists – documentary",
+      "image": "https://i.guim.co.uk/img/media/a3c23788ce3ce8f4871f7f6757fbb227711fb378/447_0_1350_1080/master/1350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d1506c4850237e25b05455ce268951bd",
+      "timestamp": "2026-09-22T11:26:21.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/22/im-afraid-theyll-bomb-the-cafe-where-i-work-or-bomb-me-a-day-in-the-life-of-a-12-year-old-boy-in-gaza",
+      "headline": "‘I’m afraid they’ll bomb the cafe where I work, or bomb me’: a day in the life of a 12-year-old boy in Gaza",
+      "image": "https://i.guim.co.uk/img/media/5b0c45132c64179a6f8607d0af21b3b569983f97/0_306_1440_1152/master/1440.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=53f4f6da03e92e10aa8fbd4a1b4eaf6d",
+      "timestamp": "2026-09-22T11:00:53.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/22/fcc-chair-brendan-carr-midtown-aa-group",
+      "headline": "Brendan Carr was a member of a rogue Alcoholics Anonymous group some labeled a ‘cult’",
+      "image": "https://i.guim.co.uk/img/media/3b4b58d084bf58a4422e858c8cffc7d2b7319dde/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29911faf61cfa8908366baf9ac3f93d3",
+      "timestamp": "2026-09-22T10:00:54.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
