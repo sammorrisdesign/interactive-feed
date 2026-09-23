@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-19T15:56:40.494Z",
+  "lastUpdated": "2026-09-23T17:41:02.417Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/education/2026/09/mcas-scores-schools-districts/database/",
+      "headline": "Database: How each school and district performed on the 2026 MCAS tests in math, English, and science",
+      "image": "https://apps.bostonglobe.com/metro/education/2026/09/mcas-scores-schools-districts/static/6b54fbdf922fb4c8c233ed3ef71325d4/47498/BPJYEZFBKZDMPACOLQTOYPXDRA.jpg",
+      "timestamp": "2026-09-22T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/07/storylab/coinhub-crypto-scam-explained/",
+      "headline": "The anatomy of a crypto ATM scam",
+      "image": "https://apps.bostonglobe.com/2026/07/storylab/coinhub-crypto-scam-explained/static/3770174c60a150d1f3693be752902650/f3583/4DNP3ASEFZCMFML7FCVOZ7YFSU.png",
+      "timestamp": "2026-07-22T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "blueSkyHandle": "bostonglobe.bsky.social",

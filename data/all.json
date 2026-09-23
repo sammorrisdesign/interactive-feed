@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-23T12:53:12.252Z",
+  "lastUpdated": "2026-09-23T17:41:06.874Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/23/john-green-new-book-fame-interview",
+      "headline": "John Green got an astronomical following from his books. What came next? ‘I’m still competing for clicks’",
+      "image": "https://i.guim.co.uk/img/media/94d3c3dd7795baabec817235d9c44a88bb572c2f/0_237_3819_3055/master/3819.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=550fd326dcee796791652f8bf38b97aa",
+      "timestamp": "2026-09-23T12:30:48.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -146,6 +154,14 @@
       "headline": "A tale of two trap houses: being cuckooed ruined my friend’s life – but did it then help save him?",
       "image": "https://i.guim.co.uk/img/media/cd714ed564ed4806cbe64d984bdddbbedf6a92f4/0_600_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=26ba6411c455d0e09c7569200bbed5a4",
       "timestamp": "2026-09-22T04:00:34.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/metro/education/2026/09/mcas-scores-schools-districts/database/",
+      "headline": "Database: How each school and district performed on the 2026 MCAS tests in math, English, and science",
+      "image": "https://apps.bostonglobe.com/metro/education/2026/09/mcas-scores-schools-districts/static/6b54fbdf922fb4c8c233ed3ef71325d4/47498/BPJYEZFBKZDMPACOLQTOYPXDRA.jpg",
+      "timestamp": "2026-09-22T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",
@@ -6196,6 +6212,14 @@
       "url": "https://www.ft.com/content/1a2f847e-e27d-4e4c-9fa2-0b3b6f3e60f8",
       "headline": "The battle that could lead to Sudan’s next catastrophe",
       "timestamp": "2026-07-22T04:00:08.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/07/storylab/coinhub-crypto-scam-explained/",
+      "headline": "The anatomy of a crypto ATM scam",
+      "image": "https://apps.bostonglobe.com/2026/07/storylab/coinhub-crypto-scam-explained/static/3770174c60a150d1f3693be752902650/f3583/4DNP3ASEFZCMFML7FCVOZ7YFSU.png",
+      "timestamp": "2026-07-22T00:00:00.000Z"
     },
     {
       "publication": "Boston Globe",

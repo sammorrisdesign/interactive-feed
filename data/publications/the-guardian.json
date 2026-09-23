@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-23T12:53:10.452Z",
+  "lastUpdated": "2026-09-23T17:41:02.941Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/23/john-green-new-book-fame-interview",
+      "headline": "John Green got an astronomical following from his books. What came next? ‘I’m still competing for clicks’",
+      "image": "https://i.guim.co.uk/img/media/94d3c3dd7795baabec817235d9c44a88bb572c2f/0_237_3819_3055/master/3819.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=550fd326dcee796791652f8bf38b97aa",
+      "timestamp": "2026-09-23T12:30:48.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
