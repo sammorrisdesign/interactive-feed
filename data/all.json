@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-09-22T17:54:43.280Z",
+  "lastUpdated": "2026-09-23T07:17:33.674Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised",
+      "headline": "London buses in decline? Why public transport in global cities is slowing to a crawl – visualised",
+      "image": "https://i.guim.co.uk/img/media/206edf4a27fa25d6b34f578c9bf81b848cc1c979/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec2d7c5f7e97ada0a8e9ec796fe7e8e5",
+      "timestamp": "2026-09-23T06:00:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/23/us/politics/cnn-msnow-politico-lawsuit-trump-response.html",
+      "headline": "Read the White House Response to the Lawsuit From CNN, MS NOW and Politico",
+      "image": "https://static01.nyt.com/images/2026/09/23/doc-govuscourtsdcd296754160-promo/doc-govuscourtsdcd296754160-promo-articleLarge.png",
+      "timestamp": "2026-09-23T04:23:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/berlins-neue-linke-hochburgen-ld.10024811",
+      "headline": "Von Altbaukiez bis Arbeiterviertel: Berlins neue linke Hochburgen",
+      "image": "https://img-msp-prod.nzz.ch/2026/09/21/bb93522a-060a-4609-8816-8fe86b9f9b74.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2388,1343,x0,y230&wmark=nzz",
+      "timestamp": "2026-09-23T03:30:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

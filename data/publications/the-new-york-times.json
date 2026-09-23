@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-22T17:54:38.527Z",
+  "lastUpdated": "2026-09-23T07:17:30.423Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/23/us/politics/cnn-msnow-politico-lawsuit-trump-response.html",
+      "headline": "Read the White House Response to the Lawsuit From CNN, MS NOW and Politico",
+      "image": "https://static01.nyt.com/images/2026/09/23/doc-govuscourtsdcd296754160-promo/doc-govuscourtsdcd296754160-promo-articleLarge.png",
+      "timestamp": "2026-09-23T04:23:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

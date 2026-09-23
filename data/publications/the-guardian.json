@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-22T17:54:38.491Z",
+  "lastUpdated": "2026-09-23T07:17:30.409Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/sep/23/london-buses-in-terminal-decline-why-public-transport-in-global-cities-is-slowing-to-a-crawl-visualised",
+      "headline": "London buses in decline? Why public transport in global cities is slowing to a crawl – visualised",
+      "image": "https://i.guim.co.uk/img/media/206edf4a27fa25d6b34f578c9bf81b848cc1c979/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec2d7c5f7e97ada0a8e9ec796fe7e8e5",
+      "timestamp": "2026-09-23T06:00:18.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
