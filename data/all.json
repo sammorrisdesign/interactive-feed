@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-23T21:01:45.471Z",
+  "lastUpdated": "2026-09-23T23:50:57.772Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/23/weather/nolo-storm-hawaii-map-path.html",
+      "headline": "Tracking Tropical Storm Nolo",
+      "image": "https://static01.nyt.com/images/2026/09/13/weather/fifteen-e-map-path-tracker-index/fifteen-e-map-path-tracker-index-articleLarge-v45.jpg",
+      "timestamp": "2026-09-23T18:17:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
