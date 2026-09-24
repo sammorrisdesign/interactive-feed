@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-24T02:59:52.806Z",
+  "lastUpdated": "2026-09-24T08:21:09.971Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/us/politics/cnn-msnow-politico-trump-restraining-order.html",
+      "headline": "Read the Court Order Blocking Trump’s White House Ban on CNN, MS NOW and Politico",
+      "image": "https://static01.nyt.com/images/2026/09/24/doc-govuscourtsdcd296754240-promo/doc-govuscourtsdcd296754240-promo-articleLarge.png",
+      "timestamp": "2026-09-24T06:27:26.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
