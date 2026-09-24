@@ -1,6 +1,29 @@
 {
-  "lastUpdated": "2026-09-24T13:41:21.298Z",
+  "lastUpdated": "2026-09-24T21:40:23.849Z",
   "articles": [
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/09/24/how-every-senator-voted-iran-war-powers-resolution/",
+      "headline": "How every senator voted on the Iran war powers resolution",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreifxryeqihtcrtv5lrnuj5icdhgh7n7yfm2jmixzrrlniggc3nueze",
+      "timestamp": "2026-09-24T21:15:04.778Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/schweiz-quiz-testen-sie-ihr-wissen-in-21-fragen-796310993018",
+      "headline": "Interaktives Quiz Teil 3: Wie viel wissen Sie im Vergleich zu anderen über die Schweiz?",
+      "timestamp": "2026-09-24T19:46:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/us/Maggie-Hassan-Letter-Susie-Wiles.html",
+      "headline": "Read Senator Maggie Hassan’s Letter to the White House",
+      "image": "https://static01.nyt.com/images/2026/09/24/doc-2026-09-24mwhtohonwilesre-promo/doc-2026-09-24mwhtohonwilesre-promo-articleLarge.png",
+      "timestamp": "2026-09-24T19:41:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -181500,6 +181523,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-25/hilda-survey-on-ups-down-of-australian-life/107181158",
+      "headline": "What 17,000 Australians have to say about money, housing and mental health",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e56e0613780d79008986511c1ac57bd4?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

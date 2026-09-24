@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-24T13:41:13.781Z",
+  "lastUpdated": "2026-09-24T21:40:20.794Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/us/Maggie-Hassan-Letter-Susie-Wiles.html",
+      "headline": "Read Senator Maggie Hassan’s Letter to the White House",
+      "image": "https://static01.nyt.com/images/2026/09/24/doc-2026-09-24mwhtohonwilesre-promo/doc-2026-09-24mwhtohonwilesre-promo-articleLarge.png",
+      "timestamp": "2026-09-24T19:41:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

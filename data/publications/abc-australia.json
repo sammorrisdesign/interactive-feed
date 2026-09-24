@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-18T23:27:43.396Z",
+  "lastUpdated": "2026-09-24T21:40:12.896Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-25/hilda-survey-on-ups-down-of-australian-life/107181158",
+      "headline": "What 17,000 Australians have to say about money, housing and mental health",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e56e0613780d79008986511c1ac57bd4?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
