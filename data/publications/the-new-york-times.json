@@ -1,6 +1,73 @@
 {
-  "lastUpdated": "2026-09-24T08:21:09.971Z",
+  "lastUpdated": "2026-09-24T13:41:13.781Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/weather/surigae-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Surigae",
+      "image": "https://static01.nyt.com/images/2026/09/23/weather/twentyfive-map-path-tracker-index/twentyfive-map-path-tracker-index-articleLarge-v6.jpg",
+      "timestamp": "2026-09-24T11:58:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/oklahoma-us-house-5-polls-2026.html",
+      "headline": "Oklahoma 5th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-09-24T11:19:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/opinion/focus-group-texas-voters-midterms.html",
+      "headline": "‘They Picked the Wrong Candidate’: 12 Texas Swing Voters on the Paxton-Talarico Race",
+      "image": "https://static01.nyt.com/images/2026/09/24/opinion/24focusgroup-texas/24focusgroup-texas-articleLarge.jpg",
+      "timestamp": "2026-09-24T09:02:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-09-24T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/polls/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-09-24T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/polls/times-siena-poll-nh-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in New Hampshire",
+      "timestamp": "2026-09-24T08:58:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/polls/times-siena-poll-nh-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in New Hampshire",
+      "timestamp": "2026-09-24T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/24/polls/times-siena-poll-mi-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Michigan",
+      "timestamp": "2026-09-24T08:58:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

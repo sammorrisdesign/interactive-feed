@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-09-23T17:41:02.941Z",
+  "lastUpdated": "2026-09-24T13:41:13.453Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/24/first-theres-the-gruelling-task-of-trying-to-charge-my-laptop-a-day-in-the-life-of-a-university-lecturer-in-gaza",
+      "headline": "‘First there’s the gruelling task of trying to charge my laptop’: a day in the life of a university lecturer in Gaza",
+      "image": "https://i.guim.co.uk/img/media/04f43d51977f3fbbb226bbca3daedd19965728c4/0_249_1440_1152/master/1440.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=aa63d210807eb73283a15bc38812875c",
+      "timestamp": "2026-09-24T11:00:17.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/24/7-eleven-circle-k-convenience-stores-overcharge",
+      "headline": "Amid soaring living costs, America’s biggest convenience-store chains quietly overcharge consumers",
+      "image": "https://i.guim.co.uk/img/media/15a2182674199451eab3c2cf5358f1bed08bfee2/0_541_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13fdfe3d6cb4c4c843dd8b4521536396",
+      "timestamp": "2026-09-24T11:00:15.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/sep/24/labours-last-chance-the-people-shaping-andy-burnhams-grand-plans-for-britain",
+      "headline": "Labour’s last chance? The people shaping Andy Burnham’s grand plans for Britain",
+      "image": "https://i.guim.co.uk/img/media/41d7af8da37ca55ed0a60faee582c0eda3152b25/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e9c57c6a37b51e6c7d4dba8356afbbd8",
+      "timestamp": "2026-09-24T04:00:09.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
