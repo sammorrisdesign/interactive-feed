@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2026-09-25T15:24:35.202Z",
+  "lastUpdated": "2026-09-25T19:24:37.234Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/25/weather/gonzalo-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Gonzalo",
+      "image": "https://static01.nyt.com/images/2026/09/25/weather/gonzalo-map-path-tracker-index/gonzalo-map-path-tracker-index-articleLarge-v12.jpg",
+      "timestamp": "2026-09-25T18:02:29.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/25/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Sept. 26, 2026",
+      "image": "https://static01.nyt.com/images/2026/09/25/multimedia/flashback-promo-2026-09-26-6/flashback-promo-2026-09-26-6-articleLarge.jpg",
+      "timestamp": "2026-09-25T16:57:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/25/nyregion/grand-central-station-ny-brass-cleaner.html",
+      "headline": "Who Polishes the Brass at Grand Central?",
+      "image": "https://static01.nyt.com/images/2026/09/20/multimedia/JOBS-BRASSER-TONED-promo/JOBS-BRASSER-TONED-promo-articleLarge.jpg",
+      "timestamp": "2026-09-25T16:38:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "USA Today",
+      "blueSkyHandle": "usatoday.com",
+      "url": "https://www.usatoday.com/story/graphics/2026/09/25/trump-xi-state-dinner-billionaires/91903133007/",
+      "headline": "Just how many billionaires were at state dinner with Trump and Xi?",
+      "image": "https://www.gannett-cdn.com/authoring/authoring-images/2026/09/25/USAT/91934565007-statedinnertopper.png",
+      "timestamp": "2026-09-25T16:00:07.457Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
