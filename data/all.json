@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-09-25T10:23:15.828Z",
+  "lastUpdated": "2026-09-25T15:24:35.202Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/25/student-math-reading-test-scores",
+      "headline": "US math and reading test scores are at a 25-year low. Trump cut the agency that can provide answers",
+      "image": "https://i.guim.co.uk/img/media/797166fdbae957a23e0fe0e8f2bb2a8f7d9e2452/269_67_2350_1880/master/2350.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0eb83b24d3cca2c08446ab0d9ef01616",
+      "timestamp": "2026-09-25T15:00:10.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/asia-pacific/one-month-few-nepal-flood-victims-identified-despite-first-large-scale-dna-2026-09-25/",
+      "headline": "One month on: Few Nepal flood victims identified despite first large-scale DNA efforts",
+      "image": "https://www.reuters.com/resizer/v2/5DGMU3QQ6BCW5GAOELC6UTENGY.jpg?auth=20e28d04e1cd9547ce3f513393c2680cd0bd8a391715f7993fb514dff92c04da&width=1200&quality=80",
+      "timestamp": "2026-09-25T14:04:14.258Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/sep/25/margaret-atwood-birds-conservation-optimistic-future",
+      "headline": "‘Birdwatching is close to rapture’: Margaret Atwood on why she has given C$1m to avian research",
+      "image": "https://i.guim.co.uk/img/media/f2336716abcdde4f151c4a31f3c1ea3fb4611a46/499_0_5001_4000/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4f88e01e35612c55fbfe66c12dd93263",
+      "timestamp": "2026-09-25T13:00:50.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/sep/25/syngenta-paraquat-parkinsons-lawsuits-epa",
+      "headline": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
+      "image": "https://i.guim.co.uk/img/media/8babc0a76f1cfedb00b7cb532a2e210a6f2586e9/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1966e8a4cfaff6774ba6107e0222cb5",
+      "timestamp": "2026-09-25T12:00:50.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/25/we-skate-on-the-rooftops-of-damaged-buildings-a-day-in-the-life-a-skateboarder-in-gaza",
+      "headline": "‘We skate on the rooftops of damaged buildings’: a day in the life of a skateboarder in Gaza",
+      "image": "https://i.guim.co.uk/img/media/942096654857ff06c3e9cc086fae0980ef1c4818/0_288_1440_1152/master/1440.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=571cc31baa2178690ee01bb20ce171a5",
+      "timestamp": "2026-09-25T11:00:47.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
