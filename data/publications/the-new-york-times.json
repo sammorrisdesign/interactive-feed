@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-24T21:40:20.794Z",
+  "lastUpdated": "2026-09-25T05:11:25.753Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/watch-tv-shows-21st-century.html",
+      "headline": "The Best TV Shows of the 21st Century: What to Watch",
+      "image": "https://static01.nyt.com/images/2026/09/23/arts/best-tv-guide/best-tv-guide-articleLarge.jpg",
+      "timestamp": "2026-09-25T03:05:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/print-best-tv-shows-21st-century.html",
+      "headline": "The 100 Best TV Shows of the 21st Century: A Printable List",
+      "image": "https://static01.nyt.com/images/2026/09/24/doc-25cul-best-tv-checklist-p-promo/doc-25cul-best-tv-checklist-p-promo-articleLarge.png",
+      "timestamp": "2026-09-25T02:58:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-09-24T21:40:23.849Z",
+  "lastUpdated": "2026-09-25T05:11:27.947Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/commentisfree/ng-interactive/2026/sep/25/andy-burnham-utilities-public-ownership-nationalisation-thames-water",
+      "headline": "Andy Burnham talks about ‘public control’ of the utilities but it’s a minefield. We can lead him through it | Will Hutton and Andy Haldane ",
+      "image": "https://i.guim.co.uk/img/media/76759220202c93b852fc15de3844e60f49f0ee16/0_44_2400_1921/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=93040981a59dd02c4c57054199f81ab3",
+      "timestamp": "2026-09-25T05:00:41.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/arbeitsmarkt-zuerich-wer-jobs-findet-und-wer-nicht-719874177167",
+      "headline": "Abkühlung des Arbeitsmarkts: Für wen es in Zürich immer mehr Jobs gibt – und für wen nicht",
+      "timestamp": "2026-09-25T04:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/watch-tv-shows-21st-century.html",
+      "headline": "The Best TV Shows of the 21st Century: What to Watch",
+      "image": "https://static01.nyt.com/images/2026/09/23/arts/best-tv-guide/best-tv-guide-articleLarge.jpg",
+      "timestamp": "2026-09-25T03:05:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/print-best-tv-shows-21st-century.html",
+      "headline": "The 100 Best TV Shows of the 21st Century: A Printable List",
+      "image": "https://static01.nyt.com/images/2026/09/24/doc-25cul-best-tv-checklist-p-promo/doc-25cul-best-tv-checklist-p-promo-articleLarge.png",
+      "timestamp": "2026-09-25T02:58:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Washington Post",
       "blueSkyHandle": "washingtonpost.com",
