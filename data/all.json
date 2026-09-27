@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-27T11:19:58.363Z",
+  "lastUpdated": "2026-09-27T15:44:47.705Z",
   "articles": [
     {
       "publication": "The Guardian",
@@ -41,6 +41,13 @@
       "headline": "‘I turbocharged my career then pressed eject’: why couples are getting divorced later",
       "image": "https://i.guim.co.uk/img/media/a9f5194973b7e37c2ec66a3fea77e683d28f01de/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=849790e9d856bd0dec090dd69af2e92e",
       "timestamp": "2026-09-27T05:00:55.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-september-25/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-09-26T22:57:16.000Z"
     },
     {
       "publication": "The New York Times",
@@ -157,6 +164,13 @@
       "headline": "Revealed: the undisclosed safety data emerging as weedkiller maker faces Parkinson’s lawsuits in US",
       "image": "https://i.guim.co.uk/img/media/8babc0a76f1cfedb00b7cb532a2e210a6f2586e9/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e1966e8a4cfaff6774ba6107e0222cb5",
       "timestamp": "2026-09-25T12:00:50.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-september-25/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-09-25T11:04:25.000Z"
     },
     {
       "publication": "The Guardian",
