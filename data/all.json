@@ -1,6 +1,39 @@
 {
-  "lastUpdated": "2026-09-27T05:32:29.631Z",
+  "lastUpdated": "2026-09-27T11:19:58.363Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/sep/27/democracy-ai-datacenters-power",
+      "headline": "Democracy blindsides Silicon Valley’s power players looking to transform the world with AI",
+      "image": "https://i.guim.co.uk/img/media/a73845d038c028e7ce80f3593fcc5023a3e9f17e/0_369_1638_1310/master/1638.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a738b3ebe1edf261deac4bfe1caeaf8a",
+      "timestamp": "2026-09-27T11:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/27/hasan-piker-republicans-democrats-us-midterm-elections",
+      "headline": "Who cares about Hasan Piker?",
+      "image": "https://i.guim.co.uk/img/media/419244b35c6e7029267875ddcd5e9d7be0765757/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2fee300400ef0d149e0931ea2a9a1eba",
+      "timestamp": "2026-09-27T10:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html",
+      "headline": "The Path to Great Art Is Not Through A.I.",
+      "image": "https://static01.nyt.com/images/2026/09/23/opinion/lupi-ai-art-still/lupi-ai-art-still-articleLarge.jpg",
+      "timestamp": "2026-09-27T09:45:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/travel/ng-interactive/2026/sep/27/15-great-cottages-cabins-autumn-escape-uk",
+      "headline": "15 great cottages and cabins for an autumn escape in the UK",
+      "image": "https://i.guim.co.uk/img/media/53f18af720cd357f31af7380612be26e16cc485f/2038_0_5922_4740/master/5922.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6750c5822aef285131bcc6a2a5ffafbd",
+      "timestamp": "2026-09-27T06:00:57.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
