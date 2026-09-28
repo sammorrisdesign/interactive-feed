@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-27T15:44:47.705Z",
+  "lastUpdated": "2026-09-28T01:22:35.176Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/27/weather/rachel-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Rachel",
+      "image": "https://static01.nyt.com/images/2026/09/27/weather/eighteen-e-map-path-tracker-index/eighteen-e-map-path-tracker-index-articleLarge-v11.jpg",
+      "timestamp": "2026-09-28T00:40:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
