@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-09-28T01:22:34.037Z",
+  "lastUpdated": "2026-09-28T15:44:26.355Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/28/weather/hanna-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Hanna",
+      "image": "https://static01.nyt.com/images/2026/09/28/weather/hanna-map-path-tracker-index/hanna-map-path-tracker-index-articleLarge-v2.jpg",
+      "timestamp": "2026-09-28T15:36:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/28/nyregion/tompkinscornell.html",
+      "headline": "Read the statement from the Tompkins County district attorney",
+      "image": "https://static01.nyt.com/images/2026/09/28/doc-tompkinscornell-promo/doc-tompkinscornell-promo-articleLarge.png",
+      "timestamp": "2026-09-28T14:49:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-york-us-house-23-polls-2026.html",
+      "headline": "New York 23rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-09-28T14:25:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/28/upshot/protein.html",
+      "headline": "Have We Reached Peak PROTEIN?",
+      "image": "https://static01.nyt.com/images/2026/09/17/multimedia/2026-08-12-protein-index/2026-08-12-protein-index-articleLarge-v8.jpg",
+      "timestamp": "2026-09-28T09:05:15.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/28/nyregion/nyc-budgeting-affordability-victor.html",
+      "headline": "How a Brooklyn Fashionista Lives on $67,000 a Year in Bay Ridge",
+      "image": "https://static01.nyt.com/images/2026/09/28/multimedia/28met-affording-victor-promo/28met-affording-victor--04-qlpm-articleLarge.jpg",
+      "timestamp": "2026-09-28T09:04:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/28/world/middleeast/israel-gaza-cease-fire-palestinian-territory.html",
+      "headline": "Israel Keeps Expanding Into Gaza Despite Cease-Fire, Satellite Images Show",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/2026-08-13-gaza-outposts-index/2026-08-13-gaza-outposts-index-articleLarge-v14.png",
+      "timestamp": "2026-09-28T08:53:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
