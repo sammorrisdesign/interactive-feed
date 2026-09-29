@@ -149,6 +149,28 @@ const fetchers = {
     }
   },
 
+  DieZeit: async(feed) => {
+    try {
+      const response = await fetch('https://interactive.zeit.de/g/cronjobs/karussell/duv-projects.json');
+      let data = await response.json();
+      let articles = data.slice(0, 5);
+
+      articles = articles.map(article => new Article({
+        publication: feed.publication,
+        blueSkyHandle: feed.blueSkyHandle,
+        url: 'https://www.zeit.de' + article.url,
+        headline: article.title,
+        image: article.image,
+        timestamp: article.date
+      }));
+
+      return articles;
+    } catch (e) {
+      utils.logError(feed.publication, e);
+      console.log(e);
+    }
+  },
+
   XML: async(feed) => {
     try {
       const parser = new XMLParser({
@@ -347,7 +369,7 @@ module.exports = {
     try {
       let articles = new Array;
 
-      const {sources, ...feedInformation} = feed 
+      const {sources, ...feedInformation} = feed
 
       for (let source of sources) {
         source = {...source, ...feedInformation};
