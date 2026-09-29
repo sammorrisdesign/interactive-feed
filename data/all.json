@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2026-09-29T19:33:10.639Z",
+  "lastUpdated": "2026-09-29T23:25:01.277Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/us/facebook-2025-05-300041motion-for-partial-summary-judgment.html",
+      "headline": "Facebook v. IRS",
+      "image": "https://static01.nyt.com/images/2026/09/29/doc-facebook-2025-05-300041mo-promo/doc-facebook-2025-05-300041mo-promo-articleLarge.png",
+      "timestamp": "2026-09-29T22:01:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/us/quake-tracker-washington-seattle.html",
+      "headline": "Map: 4.2-Magnitude Earthquake Strikes Near Seattle",
+      "image": "https://static01.nyt.com/images/2026/09/29/world/29wea-quake-tracker-washington-nyt4qdpr-v2-index/29wea-quake-tracker-washington-nyt4qdpr-v2-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-29T21:55:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html",
+      "headline": "Will A.I. Make Your Brain Lazy? Here’s What the New Research Actually Shows.",
+      "image": "https://static01.nyt.com/images/2026/09/29/arts/Comp-1_00000/Comp-1_00000-articleLarge.jpg",
+      "timestamp": "2026-09-29T20:34:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2026/09/29/are-you-storing-these-foods-wrong-take-our-quiz/",
+      "headline": "Are you storing these foods wrong? Take our quiz.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreif3tlqoojj23kmprrm3j5omgvawkjc2vy23r4ac2ebpg46o4no3ra",
+      "timestamp": "2026-09-29T20:00:12.505Z"
+    },
     {
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/praemien-2027-die-guenstigsten-krankenkassen-in-zuerich-540508510921",
