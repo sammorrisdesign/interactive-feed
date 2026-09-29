@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-29T07:17:01.841Z",
+  "lastUpdated": "2026-09-29T14:12:45.466Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/business/iran-war-hormuz-asia-oil-gas.html",
+      "headline": "How Asia Has Survived the Energy Crisis",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/2026-06-04-iran-asia-oil-index/2026-06-04-iran-asia-oil-index-articleLarge-v10.png",
+      "timestamp": "2026-09-29T08:54:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

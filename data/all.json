@@ -1,6 +1,29 @@
 {
-  "lastUpdated": "2026-09-29T07:17:06.222Z",
+  "lastUpdated": "2026-09-29T14:12:50.585Z",
   "articles": [
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/mieten-zuerich-in-welchem-quartier-sie-am-tiefsten-sind-556281218516",
+      "headline": "Preise nach Quartier: 3600 oder 2200 Franken: Wo Sie in Zürich wieviel Miete zahlen",
+      "timestamp": "2026-09-29T12:48:10.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/29/people-with-albinism-living-in-terror-in-madagascar",
+      "headline": "Murdered for their eyes: people with albinism living in terror in Madagascar",
+      "image": "https://i.guim.co.uk/img/media/b7ffb6f228921414a4127d29873f518261b8cc15/294_0_3195_2556/master/3195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09e8654f82d2b2a68fcd120de4fca310",
+      "timestamp": "2026-09-29T09:00:59.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/business/iran-war-hormuz-asia-oil-gas.html",
+      "headline": "How Asia Has Survived the Energy Crisis",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/2026-06-04-iran-asia-oil-index/2026-06-04-iran-asia-oil-index-articleLarge-v10.png",
+      "timestamp": "2026-09-29T08:54:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-sept-29-2026",
@@ -24,6 +47,22 @@
       "headline": "‘You’ve got to be pretty tough to be a drag queen out there’: Damien Frost’s immaculate queer portraits",
       "image": "https://i.guim.co.uk/img/media/6f034f2d430fc167eb9771637e0f008eb38284cd/648_0_4609_3691/master/4609.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfc67d38609954b2448c6b78a0fd3c55",
       "timestamp": "2026-09-29T00:37:01.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/09/29/see-how-record-el-nio-has-transformed-hawaiis-hurricane-season/",
+      "headline": "Hawaii’s wicked run of hurricanes is a preview of what El Niño has in store",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LMVKMJ2TPA2Y63V3NMCF5LPCSA.jpg&w=300",
+      "timestamp": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/09/29/how-trumps-sweeping-changes-are-remaking-washington/",
+      "headline": "How Trump’s sweeping changes are remaking Washington",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XTXXHIDE6NCDBH2NU6PLUXFG6I.png&w=300",
+      "timestamp": "2026-09-29T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
