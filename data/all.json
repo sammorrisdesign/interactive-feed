@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-28T15:44:35.948Z",
+  "lastUpdated": "2026-09-29T01:26:57.446Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/sep/29/damien-frost-drag-queen-portraits-photography",
+      "headline": "‘You’ve got to be pretty tough to be a drag queen out there’: Damien Frost’s immaculate queer portraits",
+      "image": "https://i.guim.co.uk/img/media/6f034f2d430fc167eb9771637e0f008eb38284cd/648_0_4609_3691/master/4609.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfc67d38609954b2448c6b78a0fd3c55",
+      "timestamp": "2026-09-29T00:37:01.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
