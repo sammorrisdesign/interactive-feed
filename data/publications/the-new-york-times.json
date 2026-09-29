@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-09-28T15:44:26.355Z",
+  "lastUpdated": "2026-09-29T07:17:01.841Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html",
+      "headline": "A.I. Groups Are Spending Millions to Influence the Midterms",
+      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/2026-09-08-ai-candidates-index/2026-09-08-ai-candidates-index-articleLarge-v5.png",
+      "timestamp": "2026-09-29T04:02:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

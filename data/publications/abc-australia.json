@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-25T22:37:42.388Z",
+  "lastUpdated": "2026-09-29T07:17:01.789Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-29/what-the-rba-cash-rate-hike-means-for-mortgages-rents-savings/107203364",
+      "headline": "The RBA just raised rates. It affects more than your home loan",
+      "image": "https://live-production.wcms.abc-cdn.net.au/31e19e597febcdca6055bc2f1d91c68d?impolicy=wcms_crop_resize&cropH=800&cropW=1067&xPos=87&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

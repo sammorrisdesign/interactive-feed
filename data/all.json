@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-09-29T01:26:57.446Z",
+  "lastUpdated": "2026-09-29T07:17:06.222Z",
   "articles": [
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-sept-29-2026",
+      "headline": "Today in Pictures, Sept 29, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/17c651cb4c456904387a9f96d841890ddbaef3adfde3b4145e4657e9b1274d97",
+      "timestamp": "2026-09-29T07:09:48.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/us/politics/ai-super-pac-money-midterm-elections.html",
+      "headline": "A.I. Groups Are Spending Millions to Influence the Midterms",
+      "image": "https://static01.nyt.com/images/2026/09/22/multimedia/2026-09-08-ai-candidates-index/2026-09-08-ai-candidates-index-articleLarge-v5.png",
+      "timestamp": "2026-09-29T04:02:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -181870,6 +181886,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-09-29/what-the-rba-cash-rate-hike-means-for-mortgages-rents-savings/107203364",
+      "headline": "The RBA just raised rates. It affects more than your home loan",
+      "image": "https://live-production.wcms.abc-cdn.net.au/31e19e597febcdca6055bc2f1d91c68d?impolicy=wcms_crop_resize&cropH=800&cropW=1067&xPos=87&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",
