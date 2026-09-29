@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-09-08T13:00:15.600Z",
+  "lastUpdated": "2026-09-29T12:49:17.948Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-09/gehalt-vergleich-alter-einkommen-lohn-check",
+      "headline": "So viel verdienen andere in Ihrem Alter",
+      "image": "https://img.zeit.de/arbeit/2026-09/teaserbild-gehalt-alter/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-28T06:30:43.621Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/2026-09/katzen-verhalten-koerpersprache-wissen-quiz",
+      "headline": "Verstehen Sie Katzen?",
+      "image": "https://img.zeit.de/wissenschaft/2026-09/katzen-verhalten-koerpersprache-wissen-quiz-teaser/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-25T11:12:08.018Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/waermepumpe-heizung-preis-rechner-berater",
+      "headline": "Lohnt sich jetzt eine Wärmepumpe?",
+      "image": "https://img.zeit.de/2025/46/lohnt-die-sich-bild-2/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-24T08:36:58.928Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-mecklenburg-vorpommern-landtagswahl-abgeordnete-recherche",
+      "headline": "Das sind die neuen AfD-Abgeordneten im Schweriner Landtag",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-mecklenburg-vorpommern-landtagswahl-abgeordnete-recherche-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-21T19:24:40.813Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlergebnisse-berlin-abgeordnetenhaus-karte-wahllokale",
+      "headline": "Nicht nur Berlins Zentrum ist links",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlergebnisse-berlin-abgeordnetenhaus-karte-wahllokale-teaserbild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-21T08:07:56.840Z"
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
