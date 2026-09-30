@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-09-29T23:25:01.277Z",
+  "lastUpdated": "2026-09-30T08:50:51.922Z",
   "articles": [
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/hochschulranking-schweizer-universitaeten-verlieren-plaetze-590730658702",
+      "headline": "Internationaler Vergleich: Schweizer Hochschulen fallen zurück – aber Uni-Rankings sind auch umstritten",
+      "timestamp": "2026-09-30T08:08:36.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/aad4e233-4be2-4973-ab81-e1e004fb353d",
+      "headline": "Salty seas get saltier and world ocean more acidic as heatwaves bring ‘profound change’",
+      "timestamp": "2026-09-30T06:01:16.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
