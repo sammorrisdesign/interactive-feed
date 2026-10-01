@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-01T13:42:23.982Z",
+  "lastUpdated": "2026-10-01T19:14:57.655Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/stage/ng-interactive/2026/oct/02/melbourne-ian-potter-state-theatre-reopening",
+      "headline": "After a huge and costly glow-up, the largest stage in the southern hemisphere is ready for play",
+      "image": "https://i.guim.co.uk/img/media/ed36fdcd2a881b0170e2c4117947ac0b9ce29498/821_0_5000_4002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd4808bc5e78cfc03627b95943d2ca08",
+      "timestamp": "2026-10-01T14:01:52.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/01/peta-wool-protests",
+      "headline": "Peta claimed victory when fashion stopped using fur - so why are they back hijacking catwalks?",
+      "image": "https://i.guim.co.uk/img/media/deeeb207d0c4df8fbc8441bf027382e442152cdf/0_217_1284_1026/master/1284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16db1860b1fd8f17f9f75af27c5eef7f",
+      "timestamp": "2026-10-01T14:00:53.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
