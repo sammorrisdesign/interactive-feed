@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-01T13:42:24.009Z",
+  "lastUpdated": "2026-10-01T23:19:57.196Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/01/books/state-of-libraries-librarians.html",
+      "headline": "Forget the Shushing. Librarians Have a Whole Lot to Say.",
+      "image": "https://static01.nyt.com/images/2026/10/02/books/state-of-libraries-librarians-1790881515642/state-of-libraries-librarians-1790881515642-articleLarge.jpg",
+      "timestamp": "2026-10-01T19:46:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

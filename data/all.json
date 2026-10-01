@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-01T19:14:59.821Z",
+  "lastUpdated": "2026-10-01T23:19:59.502Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/01/books/state-of-libraries-librarians.html",
+      "headline": "Forget the Shushing. Librarians Have a Whole Lot to Say.",
+      "image": "https://static01.nyt.com/images/2026/10/02/books/state-of-libraries-librarians-1790881515642/state-of-libraries-librarians-1790881515642-articleLarge.jpg",
+      "timestamp": "2026-10-01T19:46:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -182111,6 +182120,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-02/former-minister-de-anne-kelly-co-founded-offshore-casino/107197106",
+      "headline": "Former federal minister De-Anne Kelly revealed as co-founder of offshore casino",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3d9dffacd99e8b4b842b029ea3d8a242?impolicy=wcms_crop_resize&cropH=1025&cropW=1367&xPos=280&yPos=121&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

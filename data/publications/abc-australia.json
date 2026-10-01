@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-01T06:19:34.559Z",
+  "lastUpdated": "2026-10-01T23:19:57.133Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-02/former-minister-de-anne-kelly-co-founded-offshore-casino/107197106",
+      "headline": "Former federal minister De-Anne Kelly revealed as co-founder of offshore casino",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3d9dffacd99e8b4b842b029ea3d8a242?impolicy=wcms_crop_resize&cropH=1025&cropW=1367&xPos=280&yPos=121&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
