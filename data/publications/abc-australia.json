@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-29T07:17:01.789Z",
+  "lastUpdated": "2026-10-01T06:19:34.559Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048",
+      "headline": "Falling through the air in minutes: How the flydubai incident unfolded",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3ed6ca997c5f1ce14dac45ace5c17600?impolicy=wcms_crop_resize&cropH=594&cropW=792&xPos=48&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

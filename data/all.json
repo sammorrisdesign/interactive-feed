@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-01T00:08:26.313Z",
+  "lastUpdated": "2026-10-01T06:19:45.438Z",
   "articles": [
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-1-2026",
+      "headline": "Today in Pictures, Oct 1, 2026",
+      "image": "https://static1.straitstimes.com.sg/s3fs-public/articles/2025/06/05/ST-bg.jpg",
+      "timestamp": "2026-10-01T05:13:20.000Z"
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/wissen/klimawandel/eisverlust-2026-massive-gletscherschmelze-so-viel-eis-verschwand-im-hitzesommer",
+      "headline": "Eisverlust 2026 – Massive Gletscherschmelze: So viel Eis verschwand im Hitzesommer",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf/750363.jpg",
+      "timestamp": "2026-10-01T04:19:53.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/ai-tokens/",
+      "headline": "AI got smarter. The bills got harder to control",
+      "timestamp": "2026-10-01T04:00:16.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/gletscherschwund-2026-schweiz-verliert-5-5-des-eisvolumens-888960176645",
+      "headline": "1850 bis heute: «Das ist ein Zerfall der Gletscherlandschaft»: So schlimm war der Rekordsommer für die Eismassen",
+      "timestamp": "2026-10-01T04:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -182028,6 +182055,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048",
+      "headline": "Falling through the air in minutes: How the flydubai incident unfolded",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3ed6ca997c5f1ce14dac45ace5c17600?impolicy=wcms_crop_resize&cropH=594&cropW=792&xPos=48&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",
