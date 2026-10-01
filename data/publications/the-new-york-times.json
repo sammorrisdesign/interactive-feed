@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-01T00:08:23.994Z",
+  "lastUpdated": "2026-10-01T13:42:24.009Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/01/travel/things-to-do-vancouver.html",
+      "headline": "36 Hours in Vancouver, British Columbia",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01trav-hours-vancouver-pkht/01trav-hours-vancouver-pkht-articleLarge-v3.jpg",
+      "timestamp": "2026-10-01T09:03:11.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

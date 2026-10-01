@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-10-01T06:19:45.438Z",
+  "lastUpdated": "2026-10-01T13:42:33.434Z",
   "articles": [
+    {
+      "publication": "De Tijd",
+      "blueSkyHandle": "tijd.be",
+      "url": "https://multimedia.tijd.be/interactief/vliegroutes-brussel/",
+      "headline": "In kaart: Waarom steeds meer vliegtuigen boven Brussel landen",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tn6v3sxnszbm37msd5kyeqki/bafkreicusaomxsz3pnaez6so436ubwg6kq74femfpyrb2jridlqnadaere",
+      "timestamp": "2026-10-01T11:55:45.202Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/oct/01/united-astrology-conference",
+      "headline": "I went to America’s largest gathering of astrologers. It was a battle over how to read the stars",
+      "image": "https://i.guim.co.uk/img/media/f60bdeee18da0864a08ac9b00f508a5bff353149/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c67369e38004ba8a14b8faf6cf326dbd",
+      "timestamp": "2026-10-01T11:00:49.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/how-we-digitally-recreated-traditional-singaporean-games",
+      "headline": "How we digitally recreated traditional Singaporean games",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/10/lostgames-explainer/lostgames-facebook.jpg",
+      "timestamp": "2026-10-01T09:22:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/01/travel/things-to-do-vancouver.html",
+      "headline": "36 Hours in Vancouver, British Columbia",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01trav-hours-vancouver-pkht/01trav-hours-vancouver-pkht-articleLarge-v3.jpg",
+      "timestamp": "2026-10-01T09:03:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/oct/01/they-showed-no-mercy-mapping-the-rohingya-villages-being-erased-by-rebel-forces",
+      "headline": "‘They showed no mercy’: mapping the Rohingya villages being erased by rebel forces",
+      "image": "https://i.guim.co.uk/img/media/e97b149a6351bd66f3bb5808c30d31d2a0ada88c/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b6a8d600baf32f54af0c37858e5fbde5",
+      "timestamp": "2026-10-01T09:00:33.000Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-1-2026",
