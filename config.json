@@ -175,12 +175,7 @@
       "blueSkyHandle": "zeit.de",
       "sources": [
         {
-          "type": "Website",
-          "path": "https://www.zeit.de/daten-und-visualisierung",
-          "selector": "article.zon-teaser",
-          "url": "a.zon-teaser__link",
-          "headline": ".zon-teaser__title",
-          "image": "img.zon-teaser__media-item"
+          "type": "DieZeit"
         }
       ]
     },
