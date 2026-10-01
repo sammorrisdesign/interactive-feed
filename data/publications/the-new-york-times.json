@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-09-29T23:24:56.480Z",
+  "lastUpdated": "2026-10-01T00:08:23.994Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/30/nyregion/canal-street-redesign-nyc-traffic.html",
+      "headline": "Timeless, Infamous, Alive: Walking Canal Street",
+      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/00met-canal-st-dog-qbht/00met-canal-st-dog-qbht-articleLarge.jpg",
+      "timestamp": "2026-09-30T22:30:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/30/weather/choi-wan-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Choi-wan",
+      "image": "https://static01.nyt.com/images/2026/09/30/weather/twentysix-map-path-tracker-index/twentysix-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-30T20:32:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
