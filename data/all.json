@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-02T15:19:59.608Z",
+  "lastUpdated": "2026-10-02T20:03:55.778Z",
   "articles": [
+    {
+      "publication": "NBC News",
+      "blueSkyHandle": "nbcnews.com",
+      "url": "https://www.nbcnews.com/data-graphics/statutes-limitations-rape-sexual-assault-rcna601009",
+      "headline": "Where you live matters when it comes to prosecuting rape suspects",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/2X1-ed255a.png",
+      "timestamp": "2026-10-02T19:19:55.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/americas/brazil-election-results-2026-10-02/",
+      "headline": "Brazil election results",
+      "image": "https://www.reuters.com/resizer/v2/RNWPLNBFJFGWJKYWOP3L3JHPCU.jpg?auth=3bb4545de4f4fa79b0310fda06fa3bd476b3b443fdccb12579d605f36bb502dc&width=1200&quality=80",
+      "timestamp": "2026-10-02T17:09:59.212Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/02/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 3, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/flashback-promo-2026-10-03-6/flashback-promo-2026-10-03-6-articleLarge.jpg",
+      "timestamp": "2026-10-02T17:06:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/international/praesidentschaftswahl-brasiliens-wahl-entscheidet-auch-ueber-die-zukunft-des-regenwaldes",
+      "headline": "Präsidentschaftswahl – Brasiliens Wahl entscheidet auch über die Zukunft des Regenwaldes",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/568fda.jpg",
+      "timestamp": "2026-10-02T17:03:12.000Z"
+    },
     {
       "publication": "Reuters",
       "blueSkyHandle": "reuters.com",
