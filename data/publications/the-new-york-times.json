@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-02T02:25:43.399Z",
+  "lastUpdated": "2026-10-02T15:19:53.612Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/02/us/nat-ufo-flying-objects-map.html",
+      "headline": "Read One of the Recently Released U.F.O. Documents",
+      "image": "https://static01.nyt.com/images/2026/09/29/doc-dow-uap-d078notional-mapw-promo/doc-dow-uap-d078notional-mapw-promo-articleLarge.png",
+      "timestamp": "2026-10-02T14:05:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/reader-votes-tv-shows-21st-century.html",
+      "headline": "The Best TV Shows of the 21st Century: Readers Choose Their Top Shows",
+      "image": "https://static01.nyt.com/images/2026/09/30/arts/best-tv-reader-ballot/best-tv-reader-ballot-articleLarge.jpg",
+      "timestamp": "2026-10-02T09:03:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
