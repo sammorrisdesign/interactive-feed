@@ -1,6 +1,102 @@
 {
-  "lastUpdated": "2026-10-02T23:56:04.611Z",
+  "lastUpdated": "2026-10-03T09:38:51.206Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/uss-abraham-lincoln-returns-from-deployment",
+      "headline": "‘It’s been hard’: families await the return of the USS Abraham Lincoln",
+      "image": "https://i.guim.co.uk/img/media/714e328fdd9cac20d35a1995405fec35fa8dc3b7/423_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f993753f5e624a5b680de42bfac43ee5",
+      "timestamp": "2026-10-03T09:00:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-10-03T08:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-10-03T08:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Kansas",
+      "timestamp": "2026-10-03T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Kansas",
+      "timestamp": "2026-10-03T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "timestamp": "2026-10-03T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "timestamp": "2026-10-03T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-10-03T08:58:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-10-03T08:58:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-10-03T08:58:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-10-03T08:58:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
+      "headline": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
+      "image": "https://i.guim.co.uk/img/media/8c1c0550c4c6eb321703bfc2955f03118113bbea/0_625_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a01eecbd786c2fbe2211da9fc8a7bdb",
+      "timestamp": "2026-10-03T05:00:51.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

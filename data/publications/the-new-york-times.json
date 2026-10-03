@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-10-02T23:56:02.848Z",
+  "lastUpdated": "2026-10-03T09:38:48.340Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-10-03T08:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-10-03T08:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Kansas",
+      "timestamp": "2026-10-03T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Kansas",
+      "timestamp": "2026-10-03T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "timestamp": "2026-10-03T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "timestamp": "2026-10-03T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-10-03T08:58:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-10-03T08:58:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-10-03T08:58:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-10-03T08:58:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
