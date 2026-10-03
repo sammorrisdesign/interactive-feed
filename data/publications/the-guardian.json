@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-03T09:38:47.761Z",
+  "lastUpdated": "2026-10-03T14:32:35.249Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
+      "headline": "My relationship with food was broken. Then I killed my own dinner",
+      "image": "https://i.guim.co.uk/img/media/bf110b307a2a63440c08edd9d0c90559d5e9f43e/0_735_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8d955cca380a4311383a114502faa6c",
+      "timestamp": "2026-10-03T12:00:59.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/jb-pritzker-profile-democrats-2028",
+      "headline": "A billionaire is one of Trump’s loudest critics. Will Democrats send him to the White House?",
+      "image": "https://i.guim.co.uk/img/media/79591e9ec044fe66520210ed7cb06d15c5b43bb4/0_469_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=409e1ddd76f348764100f66068955344",
+      "timestamp": "2026-10-03T10:00:56.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
