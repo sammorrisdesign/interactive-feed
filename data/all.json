@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-10-04T06:10:26.443Z",
+  "lastUpdated": "2026-10-04T12:42:44.398Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats",
+      "headline": "The Tejano singer trying to win back Latinos who voted for Trump, one quinceañera at a time",
+      "image": "https://i.guim.co.uk/img/media/0a2ffd64bcc1786e6ad58fa294e65c93a4b2d300/353_257_5517_4415/master/5517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=214e40314c93aa4837043af857f04318",
+      "timestamp": "2026-10-04T10:00:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/us/elections/gerontocracy.html",
+      "headline": "Voters Say Congress Is Too Old. But Older Candidates Keep Winning.",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-09-02-gerentocracy-index/2026-09-02-gerentocracy-index-articleLarge-v3.png",
+      "timestamp": "2026-10-04T09:01:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

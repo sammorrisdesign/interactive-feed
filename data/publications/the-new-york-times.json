@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-03T09:38:48.340Z",
+  "lastUpdated": "2026-10-04T12:42:42.611Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/us/elections/gerontocracy.html",
+      "headline": "Voters Say Congress Is Too Old. But Older Candidates Keep Winning.",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-09-02-gerentocracy-index/2026-09-02-gerentocracy-index-articleLarge-v3.png",
+      "timestamp": "2026-10-04T09:01:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
