@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-03T21:57:41.417Z",
+  "lastUpdated": "2026-10-04T06:10:23.755Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/10-minutes-to-decide-life-changing-call-kinship-carer",
+      "headline": "‘You have 10 minutes to decide’: answering the life-changing call to become a kinship carer",
+      "image": "https://i.guim.co.uk/img/media/30c00240f1af9269200d2df522334eaf0e3d0617/1716_2358_2611_2089/master/2611.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa934f5f16660ddd58157abcc8027f3e",
+      "timestamp": "2026-10-04T06:00:20.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+      "headline": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books",
+      "image": "https://i.guim.co.uk/img/media/9422b0a48fc5f21e07b358565ef461acae77e982/955_355_3097_2477/master/3097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9549edbd19e1c8375434139ca9ef0854",
+      "timestamp": "2026-10-04T05:00:20.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
