@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-04T12:42:44.398Z",
+  "lastUpdated": "2026-10-04T17:16:16.535Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/oct/05/australia-best-books-october-2026",
+      "headline": "Best Australian books out in October: Magda Szubanski, delicious recipes and a picture book ‘masterpiece’",
+      "image": "https://i.guim.co.uk/img/media/5bc0af66c3b5a1a1e347bea052bfbff4ff84e740/0_400_4000_3200/master/4000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20381aaca51fd305ea95d5cb9f54ec5b",
+      "timestamp": "2026-10-04T14:00:29.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
