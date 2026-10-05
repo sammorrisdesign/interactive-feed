@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-04T23:26:17.072Z",
+  "lastUpdated": "2026-10-05T09:25:11.631Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/nyregion/nyc-budgeting-affordability-bendul.html",
+      "headline": "How a Dancer Lives on $13,500 in East Harlem",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05met-affording-bendul-promo/05met-affording-bendul-01-glqt-articleLarge.jpg",
+      "timestamp": "2026-10-05T09:03:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

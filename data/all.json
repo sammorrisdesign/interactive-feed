@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-04T23:26:18.117Z",
+  "lastUpdated": "2026-10-05T09:25:13.355Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/nyregion/nyc-budgeting-affordability-bendul.html",
+      "headline": "How a Dancer Lives on $13,500 in East Harlem",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05met-affording-bendul-promo/05met-affording-bendul-01-glqt-articleLarge.jpg",
+      "timestamp": "2026-10-05T09:03:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/food/inq2/italian-hoagie-ingredients-poll-build-your-own-20261005.html",
+      "headline": "What ingredients are in the perfect Italian hoagie? Build your own and decide",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/XEKL7EBWTVDC5PKZI3NA56S5DI.jpg",
+      "timestamp": "2026-10-05T09:01:00.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/4431f0ea-7afc-447c-a2ce-0019b099135e",
+      "headline": "The executive MBA in data and charts",
+      "timestamp": "2026-10-05T03:30:02.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
