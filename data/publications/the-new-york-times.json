@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-10-05T09:25:11.631Z",
+  "lastUpdated": "2026-10-06T00:34:17.741Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/upshot/data-center-scale.html",
+      "headline": "What the Data Center Boom Looks Like From the Sky",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/2026-08-19-data-center-scale-index/2026-08-19-data-center-scale-index-articleLarge-v2.jpg",
+      "timestamp": "2026-10-06T00:18:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/technology/ai-slop-food-images-restaurant-menus.html",
+      "headline": "Why A.I. Food Slop Looks So Gross",
+      "image": "https://static01.nyt.com/images/2026/09/30/world/oakImage-1790804262225-promo/oakImage-1790804262225-articleLarge.jpg",
+      "timestamp": "2026-10-05T23:11:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/us/politics/trump-free-speech-fence-lafayette-park.html",
+      "headline": "Inside Trump’s Plan to Fence Off a Historic Protest Site",
+      "timestamp": "2026-10-05T21:53:48.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
