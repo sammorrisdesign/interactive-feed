@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-06T19:40:29.289Z",
+  "lastUpdated": "2026-10-06T23:32:30.585Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/weather/tropical-storm-isaias-hurricane-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Nine",
+      "image": "https://static01.nyt.com/images/2026/10/06/weather/nine-map-path-tracker-index/nine-map-path-tracker-index-articleLarge-v8.jpg",
+      "timestamp": "2026-10-06T21:00:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -582,6 +591,14 @@
       "headline": "Who believes in an afterlife?",
       "image": "https://pudding.cool/2026/10/lifeafter/assets/social-facebook.jpg",
       "timestamp": "2026-10-01T04:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/10/storylab/how-do-flock-cameras-work/",
+      "headline": "How do these Flock cameras work anyway? Here’s a visual breakdown.",
+      "image": "https://apps.bostonglobe.com/2026/10/storylab/how-do-flock-cameras-work/static/d69fb14df5a8d77f1b38bca42d8b147b/47498/HYRS7LUR5BFLHLIO7BSDRK4NLE.jpg",
+      "timestamp": "2026-10-01T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
