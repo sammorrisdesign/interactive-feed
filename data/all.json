@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2026-10-06T14:21:38.262Z",
+  "lastUpdated": "2026-10-06T19:40:29.289Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/world/middleeast/yemen-houthis-reconstruct.html",
+      "headline": "How the Houthis Triumphed on the Red Sea and Sparked a New War in Yemen",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-28-houthis-offensive-index/2026-09-28-houthis-offensive-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-06T18:01:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/upshot/quiz-faces-history.html",
+      "headline": "Quiz: Can You Name 16 Iconic Figures From History?",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/2026-07-13-175-historical-faces-index/2026-07-13-175-historical-faces-index-articleLarge.jpg",
+      "timestamp": "2026-10-06T16:08:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/06/how-to-get-comfortable-with-death",
+      "headline": "‘We live in grief-phobic societies’: experts on how to get more comfortable with death",
+      "image": "https://i.guim.co.uk/img/media/e9df1d1b25ea74ba1f5b6753c389e44125023b46/0_901_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d59b08ccfae72d584c2034446d0a238",
+      "timestamp": "2026-10-06T16:00:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/weather/koguma-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Koguma",
+      "image": "https://static01.nyt.com/images/2026/10/05/weather/koguma-map-path-tracker-index/koguma-map-path-tracker-index-articleLarge-v6.jpg",
+      "timestamp": "2026-10-06T14:22:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
