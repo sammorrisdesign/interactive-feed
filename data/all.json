@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-07T11:14:10.790Z",
+  "lastUpdated": "2026-10-07T22:38:36.439Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/07/weather/simon-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Simon",
+      "image": "https://static01.nyt.com/images/2026/10/07/weather/twenty-e-map-path-tracker-index/twenty-e-map-path-tracker-index-articleLarge-v7.jpg",
+      "timestamp": "2026-10-07T20:54:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
