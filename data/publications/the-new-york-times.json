@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-08T09:20:16.542Z",
+  "lastUpdated": "2026-10-08T16:45:35.873Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/nyregion/maduro-indictment-torture-document.html",
+      "headline": "Prosecutors say Maduro used torture to hold on to power in Venezuela.",
+      "image": "https://static01.nyt.com/images/2026/10/08/doc-maduroindictmenttorture-promo/doc-maduroindictmenttorture-promo-articleLarge.png",
+      "timestamp": "2026-10-08T15:06:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

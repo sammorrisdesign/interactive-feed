@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-08T09:20:16.506Z",
+  "lastUpdated": "2026-10-08T16:45:35.857Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+      "headline": "An AI boom is sending San Francisco rents through the roof: ‘nowhere left for people to go’",
+      "image": "https://i.guim.co.uk/img/media/280b6926a5f1afa4d45cfbfbcbdfd26718240e40/0_273_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5ab9cd38e0b72337d22f0d389c8443a",
+      "timestamp": "2026-10-08T14:00:22.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/oct/08/black-banjo-players-americana",
+      "headline": "How Black banjo players are changing Americana music",
+      "image": "https://i.guim.co.uk/img/media/a3d1541b8aa5b0923dd99c0b3664612e4fb9d562/0_371_1535_1228/master/1535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e741549120d42ccf7652600729bfabe5",
+      "timestamp": "2026-10-08T11:00:18.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
