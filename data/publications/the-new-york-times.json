@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-08T16:45:35.873Z",
+  "lastUpdated": "2026-10-08T21:47:47.602Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/magazine/farm-raised-fish-aquaculture-overfishing.html",
+      "headline": "The Dirty Secret Behind the Farmed Fish You Eat",
+      "image": "https://static01.nyt.com/images/2026/10/25/magazine/25mag-fishmeal/25mag-fishmeal-articleLarge.jpg",
+      "timestamp": "2026-10-08T21:39:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

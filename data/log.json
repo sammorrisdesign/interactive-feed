@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "timestamp": "2026-10-08T21:47:13.473Z",
+    "publication": "Bloomberg",
+    "error": "Error fetching XML. 404 error message reported"
+  },
+  {
+    "timestamp": "2026-10-08T21:47:17.042Z",
+    "publication": "Die Zeit",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-10-08T21:47:17.137Z",
+    "publication": "ESPN",
+    "error": "Error fetching RSS. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-10-08T21:47:17.295Z",
+    "publication": "ESPN",
+    "error": "Error fetching Sitemap. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-10-08T21:47:42.064Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-10-08T21:47:47.115Z",
+    "publication": "USA Today",
+    "error": "Error fetching XML. 402 error message reported"
+  },
+  {
+    "timestamp": "2026-10-08T21:47:47.245Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
+  }
+]
