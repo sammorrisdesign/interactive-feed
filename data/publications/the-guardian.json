@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-07T11:14:09.942Z",
+  "lastUpdated": "2026-10-08T09:20:16.506Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/08/ai-gig-work-refugees-kenya",
+      "headline": "‘Someone else will do it for less’: Refugees in Kenya are powering tech for dwindling pay",
+      "image": "https://i.guim.co.uk/img/media/53d66ebd8b4c6838ae365637ba65b0178b71b3f3/734_0_4836_3868/master/4836.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e285f79a5c0ccccaafe33a3c5759908",
+      "timestamp": "2026-10-08T09:00:15.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

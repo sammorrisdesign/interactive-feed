@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-10-08T02:27:36.783Z",
+  "lastUpdated": "2026-10-08T09:20:16.542Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/well/breast-cancer-quiz-risk-treatment-mutations.html",
+      "headline": "It’s the Most Common Cancer in Women. How Much Do You Know About It?",
+      "image": "https://static01.nyt.com/images/2026/10/06/well/8Well-BCancer-Quiz-03-promo/8Well-BCancer-Quiz-03-articleLarge.jpg",
+      "timestamp": "2026-10-08T09:03:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/travel/things-to-do-finger-lakes.html",
+      "headline": "36 Hours in the Finger Lakes, N.Y.",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/things-to-do-finger-lakes-01-bzwf/things-to-do-finger-lakes-01-bzwf-articleLarge.jpg",
+      "timestamp": "2026-10-08T09:03:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/opinion/los-angeles-mayor-election.html",
+      "headline": "Who Should Be Los Angeles’s Next Mayor?",
+      "image": "https://static01.nyt.com/images/2026/10/08/opinion/08choice-la-mayor-general-promo-still/08choice-la-mayor-general-promo-still-articleLarge-v2.jpg",
+      "timestamp": "2026-10-08T09:03:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html",
+      "headline": "This Photo Is an A.I. Fake. Can You Tell?",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-15-ai-look-close-index/2026-09-15-ai-look-close-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-08T09:02:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
