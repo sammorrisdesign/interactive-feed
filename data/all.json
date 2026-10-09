@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-10-09T08:26:21.551Z",
+  "lastUpdated": "2026-10-09T15:28:38.318Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/travel/ng-interactive/2026/oct/10/hitchhiker-sydney-perth-company-of-strangers-free-travel",
+      "headline": "I hitchhiked from Sydney to Perth, and found comfort in the company of strangers",
+      "image": "https://i.guim.co.uk/img/media/c0a72e1291d773b97a99507f07ef3e3c99e0926a/0_366_2346_1877/master/2346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b994746b5ffab2977bb8f1b7358a7e0",
+      "timestamp": "2026-10-09T14:00:33.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/10/paul-barry-interview-people-should-not-be-off-limits",
+      "headline": "Paul Barry: ‘People should not be off limits’",
+      "image": "https://i.guim.co.uk/img/media/4406d3f50e53b003dde129b174eca7bc4f332d84/0_61_1903_1521/master/1903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e651bf8936dae1c05475a36a23919937",
+      "timestamp": "2026-10-09T14:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/09/11-questions-to-ask-before-cutting-contact-family",
+      "headline": "11 questions to ask yourself before going no contact with a family member",
+      "image": "https://i.guim.co.uk/img/media/316f30a41de0872d037373352e704daf3c4a7a9f/62_2067_4260_3405/master/4260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75f0c686a87bb09eaf890d1e6f6c0a96",
+      "timestamp": "2026-10-09T14:00:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-us-house-4-polls-2026.html",
+      "headline": "Colorado 4th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-09T13:56:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-schweiz-verbindungen-von-ex-bnd-chef-august-hanning-ld.10028037",
+      "headline": "Die Schweiz-Verbindungen des Ex-BND-Chefs August Hanning",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/08/895c696a-7730-4ca2-9f1d-35220d7be0a1.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3808,2142,x16,y9&wmark=nzz",
+      "timestamp": "2026-10-09T13:56:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/us/politics/tiktok-texas-senate-talarico-paxton-midterms.html",
+      "headline": "On Texas TikTok, It’s All About Talarico",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-17-pol-tiktok-24-index/2026-09-17-pol-tiktok-24-index-articleLarge.jpg",
+      "timestamp": "2026-10-09T12:39:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/09/midterm-voters-biggest-issues-trump",
+      "headline": "A national verdict on Trump 2.0 is coming. Nine midterm voters share where they stand",
+      "image": "https://i.guim.co.uk/img/media/cb1bc4c2a49b5d826cf940f38063e6d7e57ec19f/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=554d0848a274e002eb33da5c478bfd09",
+      "timestamp": "2026-10-09T10:00:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/us/politics/trump-elections-results-doubt-midterms.html",
+      "headline": "Trump Has Cast Doubt on Elections on 440 Days in His Second Term",
+      "image": "https://static01.nyt.com/images/2026/10/08/us/trump-doubt-static-promo-sowing-doubt/trump-doubt-static-promo-sowing-doubt-articleLarge-v6.jpg",
+      "timestamp": "2026-10-09T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/life/outdoors/inq2/fall-foilage-leaf-peeping-pennsylvania-top-down-20261009.html",
+      "headline": "See Pennsylvania's fall foliage transform from above",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/WAZAT6JQHJDCBL7QVFGUL4QWAI.png",
+      "timestamp": "2026-10-09T09:01:01.000Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/in-pictures-the-lion-city-is-buzzing-with-excitement-as-it-gears-up-for-2026-singapore-grand-prix",

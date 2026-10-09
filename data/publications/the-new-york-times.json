@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-09T01:43:06.473Z",
+  "lastUpdated": "2026-10-09T15:28:29.963Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-us-house-4-polls-2026.html",
+      "headline": "Colorado 4th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-09T13:56:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/us/politics/tiktok-texas-senate-talarico-paxton-midterms.html",
+      "headline": "On Texas TikTok, It’s All About Talarico",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-17-pol-tiktok-24-index/2026-09-17-pol-tiktok-24-index-articleLarge.jpg",
+      "timestamp": "2026-10-09T12:39:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/us/politics/trump-elections-results-doubt-midterms.html",
+      "headline": "Trump Has Cast Doubt on Elections on 440 Days in His Second Term",
+      "image": "https://static01.nyt.com/images/2026/10/08/us/trump-doubt-static-promo-sowing-doubt/trump-doubt-static-promo-sowing-doubt-articleLarge-v6.jpg",
+      "timestamp": "2026-10-09T09:01:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

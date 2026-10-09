@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-09-23T07:17:29.890Z",
+  "lastUpdated": "2026-10-09T15:28:28.861Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-schweiz-verbindungen-von-ex-bnd-chef-august-hanning-ld.10028037",
+      "headline": "Die Schweiz-Verbindungen des Ex-BND-Chefs August Hanning",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/08/895c696a-7730-4ca2-9f1d-35220d7be0a1.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3808,2142,x16,y9&wmark=nzz",
+      "timestamp": "2026-10-09T13:56:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
