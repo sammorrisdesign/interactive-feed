@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-10T06:11:03.414Z",
+  "lastUpdated": "2026-10-10T12:51:11.869Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/oct/10/edge-control-exhibition-deana-lawson",
+      "headline": "Edge Control: the art exhibition using hidden camera images to explore race and beauty",
+      "image": "https://i.guim.co.uk/img/media/9e02f686a51863033357db94172920daaf84c8b0/0_160_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ab9f924492174220b56cbd50dfbe6ab",
+      "timestamp": "2026-10-10T12:00:57.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
