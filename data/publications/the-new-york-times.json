@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-10T12:51:11.899Z",
+  "lastUpdated": "2026-10-10T21:06:27.178Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/10/magazine/steffen-skjottelvik-canada-journey-death.html",
+      "headline": "He Went Out on an Epic Wilderness Adventure. Only His Dogs Came Back.",
+      "image": "https://static01.nyt.com/images/2026/10/18/magazine/18mag-Skjottelvik-02/18mag-Skjottelvik-02-articleLarge-v2.jpg",
+      "timestamp": "2026-10-10T17:51:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
