@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-10T21:06:29.284Z",
+  "lastUpdated": "2026-10-11T06:09:05.038Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike",
+      "headline": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
+      "image": "https://i.guim.co.uk/img/media/9d334c489eaa2a4333274a91fde4126c589577df/1_0_3748_3000/master/3748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b9b65a3d1074260afa9c7ec3f6b715c",
+      "timestamp": "2026-10-11T05:00:16.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
