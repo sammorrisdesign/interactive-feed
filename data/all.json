@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-11T06:09:05.038Z",
+  "lastUpdated": "2026-10-11T13:15:21.162Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-stadt-rafah-gibt-es-nicht-mehr-ld.10027308",
+      "headline": "Die Stadt Rafah gibt es nicht mehr",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/08/e4b83fe9-5daf-4a46-a13f-235f69c32b77.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y225&wmark=nzz",
+      "timestamp": "2026-10-11T07:12:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -8,6 +16,22 @@
       "headline": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
       "image": "https://i.guim.co.uk/img/media/9d334c489eaa2a4333274a91fde4126c589577df/1_0_3748_3000/master/3748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b9b65a3d1074260afa9c7ec3f6b715c",
       "timestamp": "2026-10-11T05:00:16.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2026/10/11/how-ukraine-uses-precision-drone-strikes-hobble-russian-oil-refineries/",
+      "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5SEDOKOYWBBZFD3NKMPXK46PQQ.png&w=300",
+      "timestamp": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/10/11/these-are-voters-who-will-decide-midterm-elections/",
+      "headline": "These are the voters who will decide the midterm elections",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/57TTFVAJCZBPXP6VIISB6AGWJA.png&w=300",
+      "timestamp": "2026-10-11T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",
