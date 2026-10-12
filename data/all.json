@@ -1,12 +1,38 @@
 {
-  "lastUpdated": "2026-10-12T08:32:40.555Z",
+  "lastUpdated": "2026-10-12T18:32:52.831Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/12/world/middleeast/israel-lebanon-destruction.html",
+      "headline": "Israel’s Destruction of Southern Lebanon Intensified After the Cease-Fire",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-09-01-southern-lebanon-destruction-index/2026-09-01-southern-lebanon-destruction-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-12T09:49:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/12/nyregion/nyc-budgeting-affordability-crist.html",
+      "headline": "How a Book Editor Lives on $74,000 in Carroll Gardens, Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12met-affording-bookeditor-promo/12met-affording-bookeditor-01-tvqm-articleLarge.jpg",
+      "timestamp": "2026-10-12T09:02:52.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-12-2026",
       "headline": "Today in Pictures, Oct 12, 2026",
       "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ffe7eb69740ea32f0e6fc9e1aad57031a5306ad27a86aede67f7c7975318c1a9?w=1200",
       "timestamp": "2026-10-12T07:39:02.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2026/10/12/how-take-care-your-knees-your-20s-30s-40s-beyond/",
+      "headline": "How to take care of your knees in your 20s, 30s, 40s and beyond",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LTFXQ5RNTJGVNOS7PULJNZOZSI.jpg&w=300",
+      "timestamp": "2026-10-12T00:00:00.000Z"
     },
     {
       "publication": "NZZ",
