@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-12T18:32:49.577Z",
+  "lastUpdated": "2026-10-13T16:13:36.560Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/us/politics/midterm-election-michigan-el-sayed-rogers-debate.html",
+      "headline": "One Debate, Two Realities",
+      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/2026-10-08-pol-debate-worlds-index/2026-10-08-pol-debate-worlds-index-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:03:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/opinion/midterm-elections-trump-integrity.html",
+      "headline": "How Safe Is the Vote?",
+      "image": "https://static01.nyt.com/images/2026/09/29/opinion/00electionthreats/00electionthreats-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:02:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/opinion/ai-rules-regulations.html",
+      "headline": "Driver, Chatbot, Talking Bear: How Should We Interact With A.I.?",
+      "image": "https://static01.nyt.com/images/2026/10/13/opinion/13quiz/13quiz-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:02:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

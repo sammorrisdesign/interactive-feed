@@ -1,12 +1,93 @@
 {
-  "lastUpdated": "2026-10-13T08:03:36.493Z",
+  "lastUpdated": "2026-10-13T16:13:45.750Z",
   "articles": [
+    {
+      "publication": "Kontinentalist",
+      "blueSkyHandle": "kontinentalist.bsky.social",
+      "url": "https://kontinentalist.com/stories/thai-girls-love-conquered-the-world",
+      "image": "https://cdn-media.kontinentalist.com/thai-girls-love-conquered-the-world/thai-girls-love-conquered-the-world-1791794534.jpg",
+      "timestamp": "2026-10-14T00:11:21.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "url": "https://www.houstonchronicle.com/projects/2026/top-houston-public-companies/",
+      "headline": "Houston's top-performing companies, ranked",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5wontugfwb4lv7nwonarkqw/bafkreialrhhkwyuabjfhlx2vjhagtlrpzx33qky2i7isgwc6abmymgn4zm",
+      "timestamp": "2026-10-13T16:03:42.725Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles",
+      "headline": "Could I make six figures from my couch? Influencers said yes – so I tried",
+      "image": "https://i.guim.co.uk/img/media/b7108552b2711d69e485ffb9b83c87527ab50720/0_776_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f631bbd53a8152ffe9d69cd73b73eea",
+      "timestamp": "2026-10-13T14:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "headline": "The people who don’t want their AI chatbots to die when they do: ‘I can’t have the switch turned off’",
+      "image": "https://i.guim.co.uk/img/media/070cff17583eb16baa5a6d72f89887bd9731ca06/0_628_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05fb1d2fc13e0472012d803c7abff389",
+      "timestamp": "2026-10-13T10:00:04.000Z"
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/international/usa/america-let-s-talk-alles-ist-teurer-so-geht-es-amerikanern-vor-den-midterms",
+      "headline": "America, let's talk! – «Alles ist teurer» – so geht es Amerikanern vor den Midterms",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/d2ed44.jpg",
+      "timestamp": "2026-10-13T09:30:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/us/politics/midterm-election-michigan-el-sayed-rogers-debate.html",
+      "headline": "One Debate, Two Realities",
+      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/2026-10-08-pol-debate-worlds-index/2026-10-08-pol-debate-worlds-index-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:03:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/opinion/midterm-elections-trump-integrity.html",
+      "headline": "How Safe Is the Vote?",
+      "image": "https://static01.nyt.com/images/2026/09/29/opinion/00electionthreats/00electionthreats-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:02:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/opinion/ai-rules-regulations.html",
+      "headline": "Driver, Chatbot, Talking Bear: How Should We Interact With A.I.?",
+      "image": "https://static01.nyt.com/images/2026/10/13/opinion/13quiz/13quiz-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:02:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/pennsylvania-philadelphia-2026-midterm-election-voter-guide-races-candidates-20261013.html",
+      "headline": "Your guide to the Pa. November election. Here’s who is on your ballot and what to know. ",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/SE25C4MJ2NDV5GR6GUQEN3NBJU.jpg",
+      "timestamp": "2026-10-13T09:01:01.000Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-13-2026",
       "headline": "Today in Pictures, Oct 13, 2026",
       "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f2fdee0881be944b947aa11bb6b60c9ea04c182342bbaf619197e37a23a515fe?w=1200",
       "timestamp": "2026-10-13T05:14:15.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/13/i-was-kidnapped-and-held-hostage-for-977-days-could-i-forgive-my-captors",
+      "headline": "I was kidnapped and held hostage for 977 days. Could I forgive my captors?",
+      "image": "https://i.guim.co.uk/img/media/1360d992df73b97d1504e9bbb99559d0eb12be57/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c09a1d613e440c3bd57af69f3cf21e2",
+      "timestamp": "2026-10-13T04:00:14.000Z"
     },
     {
       "publication": "Tages-Anzeiger",
