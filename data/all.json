@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T16:13:45.750Z",
+  "lastUpdated": "2026-10-13T21:24:20.744Z",
   "articles": [
     {
       "publication": "Kontinentalist",
@@ -7,6 +7,32 @@
       "url": "https://kontinentalist.com/stories/thai-girls-love-conquered-the-world",
       "image": "https://cdn-media.kontinentalist.com/thai-girls-love-conquered-the-world/thai-girls-love-conquered-the-world-1791794534.jpg",
       "timestamp": "2026-10-14T00:11:21.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/magazine/billionaire-wealth-tax-proposition-40.html",
+      "headline": "Why Is It So Hard to Tax the Ultra-Rich?",
+      "image": "https://static01.nyt.com/images/2026/10/14/magazine/14MAG-billionairesgfx-promostill/14MAG-billionairesgfx-promostill-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T20:56:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/georgia-us-house-3-polls-2026.html",
+      "headline": "Georgia 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-13T19:46:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/13/embalmers-work-burials",
+      "headline": "‘You’re honoring a life well-lived’: embalmers describe their work (in great detail)",
+      "image": "https://i.guim.co.uk/img/media/d56f85564b1cfc682241e610288408cad2cc7767/0_593_2744_2194/master/2744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7b5b186fa90dd1bbec59abf60243de7",
+      "timestamp": "2026-10-13T16:50:30.000Z"
     },
     {
       "publication": "Houston Chronicle",

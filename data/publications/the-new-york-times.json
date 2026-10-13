@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-13T16:13:36.560Z",
+  "lastUpdated": "2026-10-13T21:24:17.971Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/magazine/billionaire-wealth-tax-proposition-40.html",
+      "headline": "Why Is It So Hard to Tax the Ultra-Rich?",
+      "image": "https://static01.nyt.com/images/2026/10/14/magazine/14MAG-billionairesgfx-promostill/14MAG-billionairesgfx-promostill-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T20:56:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/georgia-us-house-3-polls-2026.html",
+      "headline": "Georgia 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-13T19:46:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
