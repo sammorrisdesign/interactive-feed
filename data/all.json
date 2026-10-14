@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-14T15:20:14.794Z",
+  "lastUpdated": "2026-10-14T19:34:00.172Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/opinion/black-lawmakers-gerrymandering-supreme-court.html",
+      "headline": "These Six Black Lawmakers Have a Warning",
+      "image": "https://static01.nyt.com/images/2026/10/15/opinion/15opvid-gerrymandering-image/15opvid-gerrymandering-image-articleLarge-v2.png",
+      "timestamp": "2026-10-14T19:00:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
