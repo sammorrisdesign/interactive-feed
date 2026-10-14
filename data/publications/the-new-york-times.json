@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-14T00:27:38.127Z",
+  "lastUpdated": "2026-10-14T10:25:28.068Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/opinion/ebola-spread-africa-outbreak.html",
+      "headline": "I’ve Worked in Congo for Decades. I’ve Never Seen an Ebola Crisis Like This.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14kerr-promo-hvpg/14kerr-promo-hvpg-articleLarge.jpg",
+      "timestamp": "2026-10-14T09:03:13.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
