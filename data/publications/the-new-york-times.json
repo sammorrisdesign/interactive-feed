@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-14T10:25:28.068Z",
+  "lastUpdated": "2026-10-14T15:20:11.284Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/us/senate-letter-to-meta-on-research-tax-credit.html",
+      "headline": "Senators’ Letter to Meta",
+      "image": "https://static01.nyt.com/images/2026/10/14/doc-letter-to-meta-on-tax-cre-promo/doc-letter-to-meta-on-tax-cre-promo-articleLarge.png",
+      "timestamp": "2026-10-14T14:54:54.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
