@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-14T00:27:39.364Z",
+  "lastUpdated": "2026-10-14T05:13:07.527Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/14/siam-amazing-park-thailand-oldest-amusement-park-flooded",
+      "headline": "An eerie trip inside Thailand’s oldest amusement park, deserted after flooding",
+      "image": "https://i.guim.co.uk/img/media/c8e6aac90082786880b93054a9dd80a3f35864f5/236_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fe4779841033ede70ffa404b5089556",
+      "timestamp": "2026-10-14T01:36:25.000Z"
+    },
     {
       "publication": "Kontinentalist",
       "blueSkyHandle": "kontinentalist.bsky.social",
