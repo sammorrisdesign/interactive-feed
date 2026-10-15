@@ -1,6 +1,32 @@
 {
-  "lastUpdated": "2026-10-15T16:14:46.900Z",
+  "lastUpdated": "2026-10-15T19:58:07.665Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/just-what-damage-can-the-emissions-from-a-new-fossil-fuel-facility-cause-a-new-tool-has-estimates",
+      "headline": "Just what damage can the emissions from a new fossil fuel facility cause? A new tool has estimates ",
+      "image": "https://i.guim.co.uk/img/media/1e0067da826e165bd118253c12e85235eb0cd8f1/0_0_1300_1040/master/1300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10d96daa6be9a379022747aafc2b225a",
+      "timestamp": "2026-10-15T19:00:38.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-mexico-us-house-3-polls-2026.html",
+      "headline": "New Mexico 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-15T17:06:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-mexico-us-house-1-polls-2026.html",
+      "headline": "New Mexico 1st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-15T17:02:31.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -417,6 +443,13 @@
       "image": "https://static01.nyt.com/images/2026/10/10/realestate/grace-coddington-hamptons-home-tour-1791587341212/grace-coddington-hamptons-home-tour-1791587341212-articleLarge.jpg",
       "timestamp": "2026-10-10T09:01:11.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/grippe-monitor",
+      "headline": "Grippe-Monitor: Wie viele Fälle werden gerade gemeldet?",
+      "image": "https://img.sparknews.funkemedien.de/413428420/413428420_1792071981_v16_9_600.jpeg",
+      "timestamp": "2026-10-10T08:00:00.000Z"
     },
     {
       "publication": "The Guardian",
