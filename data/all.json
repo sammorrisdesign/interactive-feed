@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-10-14T22:57:42.105Z",
+  "lastUpdated": "2026-10-15T06:09:30.489Z",
   "articles": [
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1a125f04-4de5-4840-a580-81ff06dc0c40",
+      "headline": "US inflation again set to be a crucial factor for the midterms",
+      "timestamp": "2026-10-15T04:30:08.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
