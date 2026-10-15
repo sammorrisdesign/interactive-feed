@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-15T11:53:15.781Z",
+  "lastUpdated": "2026-10-15T16:14:44.091Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/weather/champi-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Champi",
+      "image": "https://static01.nyt.com/images/2026/10/14/weather/twentynine-map-path-tracker-index/twentynine-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-10-15T15:12:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/upshot/ai-data-center-math.html",
+      "headline": "What Are Data Centers Doing? A Mind-Boggling Amount of Math.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/2026-09-28-ai-math-explainer-index/2026-09-28-ai-math-explainer-index-articleLarge-v2.png",
+      "timestamp": "2026-10-15T14:53:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
