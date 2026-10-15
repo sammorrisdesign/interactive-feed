@@ -41,6 +41,20 @@ const fetchers = {
 
       // filter out pilot/burst templated interactives
       for (let article of articles) {
+        let isNytUrl = false;
+        try {
+          const parsedArticleUrl = new URL(article.url);
+          isNytUrl = parsedArticleUrl.protocol === 'https:' &&
+            (parsedArticleUrl.hostname === 'nytimes.com' || parsedArticleUrl.hostname.endsWith('.nytimes.com'));
+        } catch (e) {
+          isNytUrl = false;
+        }
+
+        if (!isNytUrl) {
+          article.isTemplated = false;
+          continue;
+        }
+
         const articleResponse = await fetch(article.url);
         const articleBody = await articleResponse.text();
         article.isTemplated = articleBody.includes('rendered by pilot');
