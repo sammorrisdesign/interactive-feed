@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-16T15:10:12.238Z",
+  "lastUpdated": "2026-10-16T18:54:12.595Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/16/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 17, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/flashback-promo-2026-10-17-6/flashback-promo-2026-10-17-6-articleLarge.jpg",
+      "timestamp": "2026-10-16T16:10:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -198,6 +207,14 @@
       "headline": "‘I don’t talk politics with anyone’: Georgia voting official on avoiding fiery debates ahead of midterms",
       "image": "https://i.guim.co.uk/img/media/13be558718fca5b1baf52d2c73d1e0c4e757b49d/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c348491ec30f607fa9fb25bf910ee0bb",
       "timestamp": "2026-10-14T10:00:02.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/14/texas-data-centers-water-use-penalties-enforcement/",
+      "headline": "Despite tough talk from Abbott and Paxton, Texas penalties for data center violations are light",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/20260910-RNC-Abbott-MS-02.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-10-14T10:00:00.000Z"
     },
     {
       "publication": "The New York Times",
@@ -664,6 +681,14 @@
       "timestamp": "2026-10-08T16:30:09.879Z"
     },
     {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/08/texas-rural-public-schools-charter-growth-struggle/",
+      "headline": "When a rural Texas school district struggled with growth, charter schools filled the void",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/20261005-Cleveland-ISD-AM-04-full.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-10-08T16:00:00.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/10/08/nyregion/maduro-indictment-torture-document.html",
@@ -701,6 +726,14 @@
       "headline": "How Black banjo players are changing Americana music",
       "image": "https://i.guim.co.uk/img/media/a3d1541b8aa5b0923dd99c0b3664612e4fb9d562/0_371_1535_1228/master/1535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e741549120d42ccf7652600729bfabe5",
       "timestamp": "2026-10-08T11:00:18.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/08/texas-affordability-voter-guide-elections-cost-of-living/",
+      "headline": "How Texas candidates plan to lower the cost of gas, groceries and housing",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/conveyor-still-scaled.png?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-10-08T10:00:00.000Z"
     },
     {
       "publication": "The New York Times",
