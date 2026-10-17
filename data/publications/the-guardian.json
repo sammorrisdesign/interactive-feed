@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-17T16:07:49.433Z",
+  "lastUpdated": "2026-10-17T21:13:05.354Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis",
+      "headline": "Hiding in plane sight: the invisible turbulence that can strike out of a clear blue sky",
+      "image": "https://i.guim.co.uk/img/media/fddfbb16a433f228a0d8ff3c15033ee8936ec135/1_0_3542_2835/master/3542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bad83a12487edd4f7a36464bff58be4",
+      "timestamp": "2026-10-17T19:00:40.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/18/frustration-hope-mingle-post-flood-lismore",
+      "headline": "‘We can’t leave people behind’: frustration and hope mingle in the wake of Lismore’s post-flood renewal",
+      "image": "https://i.guim.co.uk/img/media/422dcea13dd341fef196c75d5be4eff5acbb3271/0_1519_5504_4403/master/5504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31a4988a4abe9598de5fde428a1fade7",
+      "timestamp": "2026-10-17T19:00:39.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
