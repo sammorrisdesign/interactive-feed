@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-16T21:54:04.537Z",
+  "lastUpdated": "2026-10-17T00:08:16.640Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/us/what-redistricting-means-tennessee-voters-2026-10-17/",
+      "headline": "What redistricting means for Tennessee voters",
+      "image": "https://www.reuters.com/resizer/v2/XBLUGSTILVBQBLG2ZUNZBOC6BA.jpg?auth=70d683f89337a630d9c83b3db22aed43ddc7f5740ffd5a128be924ee8ccd9b92&width=1200&quality=80",
+      "timestamp": "2026-10-17T00:03:25.949Z"
+    },
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",
