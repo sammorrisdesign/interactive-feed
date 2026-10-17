@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-17T08:59:52.407Z",
+  "lastUpdated": "2026-10-17T12:53:20.061Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/17/world/europe/ukraine-russia-war-drones-kill-zone.html",
+      "headline": "This Is the Kill Zone",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/2026-05-13-ukraine-kill-zone-index/2026-05-13-ukraine-kill-zone-index-articleLarge-v6.jpg",
+      "timestamp": "2026-10-17T09:01:39.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
