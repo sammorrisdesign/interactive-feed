@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-17T12:53:20.061Z",
+  "lastUpdated": "2026-10-17T16:07:52.022Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/trans-women-wnba-players-fans-advocacy",
+      "headline": "The right is pushing its anti-trans fury on the WNBA. Players and fans are loudly pushing back",
+      "image": "https://i.guim.co.uk/img/media/1320af6427dbf78ea4207b06913b1debf63c5fb9/0_58_2222_1777/master/2222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60786fd5532f1bf39b30ae34512a51ee",
+      "timestamp": "2026-10-17T14:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/oct/17/charles-burnett-film-my-brothers-wedding",
+      "headline": "‘Sometimes it’s not perfect, but it works’: film-maker Charles Burnett on his chronicling of Black working-class life",
+      "image": "https://i.guim.co.uk/img/media/1043cacae1cda276675a301400b29c516e413b8e/0_609_3011_2407/master/3011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27324905a9c1ce74d7d5ef80132b37fb",
+      "timestamp": "2026-10-17T13:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "headline": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
+      "image": "https://i.guim.co.uk/img/media/d767e28f4a63f2c033b1690340f479c914d87492/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eed0cc19b9deae07f4e5afa17baac9e8",
+      "timestamp": "2026-10-17T13:00:31.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
