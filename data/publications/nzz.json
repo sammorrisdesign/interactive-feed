@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-11T13:15:19.018Z",
+  "lastUpdated": "2026-10-18T06:19:01.448Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/angriffe-auf-ein-nadeloehr-russland-nimmt-kiews-bruecken-ins-visier-ld.10034659",
+      "headline": "Angriffe auf ein Nadelöhr: Russland nimmt Kiews Brücken ins Visier",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/17/d33e3632-a84b-4e2f-9970-c29355d89824.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3817,2147,x140,y0&wmark=nzz",
+      "timestamp": "2026-10-18T03:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
