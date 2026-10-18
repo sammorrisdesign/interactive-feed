@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-01T23:19:57.133Z",
+  "lastUpdated": "2026-10-18T18:14:52.745Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+      "headline": "Soaring AI stocks create lopsided US economy",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4c25fdf2d637dc1c52110f19574366f9?impolicy=wcms_crop_resize&cropH=672&cropW=895&xPos=114&yPos=41&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

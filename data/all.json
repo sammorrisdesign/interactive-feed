@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T15:19:58.324Z",
+  "lastUpdated": "2026-10-18T18:14:55.473Z",
   "articles": [
     {
       "publication": "The Washington Post",
@@ -183662,6 +183662,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+      "headline": "Soaring AI stocks create lopsided US economy",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4c25fdf2d637dc1c52110f19574366f9?impolicy=wcms_crop_resize&cropH=672&cropW=895&xPos=114&yPos=41&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",
