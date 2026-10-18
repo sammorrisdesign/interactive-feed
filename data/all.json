@@ -1,6 +1,41 @@
 {
-  "lastUpdated": "2026-10-18T06:19:04.948Z",
+  "lastUpdated": "2026-10-18T11:32:48.147Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+      "headline": "How Trump’s justice department is testing separation of powers before the US midterms",
+      "image": "https://i.guim.co.uk/img/media/180a926d6092c30c32b24d3d24817b5d9717e511/0_6_2664_2130/master/2664.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50b6e7740a84aaf1822849cedf33f3cb",
+      "timestamp": "2026-10-18T10:00:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/us/oj-simpson-joey-ippolito-memo.html",
+      "headline": "Read the Letter Detailing Joey Ippolito’s Tips About Mafia, O.J. Simpson",
+      "image": "https://static01.nyt.com/images/2026/10/16/doc-ippolito-sentencing-memo-promo/doc-ippolito-sentencing-memo-promo-articleLarge.png",
+      "timestamp": "2026-10-18T09:45:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/us/trump-immigrant-visas-decline.html",
+      "headline": "Legal Immigration Fell Sharply Under Trump Policies Adopted Early This Year",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-08-10-legal-immigration-ban-index/2026-08-10-legal-immigration-ban-index-articleLarge-v10.png",
+      "timestamp": "2026-10-18T09:00:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/world/americas/brazil-election-amazon-deforestation.html",
+      "headline": "Why the Future of the Amazon Could Depend on Brazil’s Election",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-08-brazil-elections-amazon-index/2026-10-08-brazil-elections-amazon-index-articleLarge-v9.jpg",
+      "timestamp": "2026-10-18T09:00:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
@@ -16,6 +51,14 @@
       "headline": "Angriffe auf ein Nadelöhr: Russland nimmt Kiews Brücken ins Visier",
       "image": "https://img-msp-prod.nzz.ch/2026/10/17/d33e3632-a84b-4e2f-9970-c29355d89824.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3817,2147,x140,y0&wmark=nzz",
       "timestamp": "2026-10-18T03:30:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/10/18/he-wanted-share-his-passion-now-these-teens-are-learning-hunt-with-bows/",
+      "headline": "He wanted to share his passion. Now these teens are learning to hunt with bows.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XAZG6YZ677GVTRFICJBVMULLXY.JPG&w=300",
+      "timestamp": "2026-10-18T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",

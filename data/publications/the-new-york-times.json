@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-17T12:53:19.182Z",
+  "lastUpdated": "2026-10-18T11:32:43.272Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/us/oj-simpson-joey-ippolito-memo.html",
+      "headline": "Read the Letter Detailing Joey Ippolito’s Tips About Mafia, O.J. Simpson",
+      "image": "https://static01.nyt.com/images/2026/10/16/doc-ippolito-sentencing-memo-promo/doc-ippolito-sentencing-memo-promo-articleLarge.png",
+      "timestamp": "2026-10-18T09:45:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/us/trump-immigrant-visas-decline.html",
+      "headline": "Legal Immigration Fell Sharply Under Trump Policies Adopted Early This Year",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-08-10-legal-immigration-ban-index/2026-08-10-legal-immigration-ban-index-articleLarge-v10.png",
+      "timestamp": "2026-10-18T09:00:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/world/americas/brazil-election-amazon-deforestation.html",
+      "headline": "Why the Future of the Amazon Could Depend on Brazil’s Election",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-08-brazil-elections-amazon-index/2026-10-08-brazil-elections-amazon-index-articleLarge-v9.jpg",
+      "timestamp": "2026-10-18T09:00:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
