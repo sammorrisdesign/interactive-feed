@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-10-19T18:46:59.239Z",
+  "lastUpdated": "2026-10-19T22:47:43.020Z",
   "articles": [
+    {
+      "publication": "CNA",
+      "url": "https://www.channelnewsasia.com/interactive/ai-fake-videos-scam-quiz/%2E",
+      "headline": "Think you can spot a fake? 5 ways online deception works in the age of AI",
+      "image": "https://dam.mediacorp.sg/image/upload/s--z_OT4fKO--/c_fill,g_center,h_598,w_747/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/07/ai-fake-video-article-shell_0.jpg?itok=yGzIxitm",
+      "timestamp": "2026-10-19T22:00:00.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/friends-with-work-benefits-young-singaporeans-say-work-friendships-help-their-careers-but-carry",
+      "headline": "Friends with work benefits: Young Singaporeans say work friendships help their careers, but carry risks",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/10/work-friendships/work-friendships.jpg",
+      "timestamp": "2026-10-19T21:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -32,6 +46,14 @@
       "headline": "Sixers schedule and ticket prices: These are the games to target.",
       "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/KSVGA4AUH5BVJFHSOQP7WZ3CCM.png",
       "timestamp": "2026-10-19T09:01:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/movies/interactive/2026/10/19/we-saw-everything-elizabeth-holmes-documentary-or-did-we/",
+      "headline": "We saw everything in the Elizabeth Holmes documentary. Or did we?",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EV7O54BG64UPGHRKAMFK24ZT5A.jpg&w=300",
+      "timestamp": "2026-10-19T00:00:00.000Z"
     },
     {
       "publication": "The Washington Post",
