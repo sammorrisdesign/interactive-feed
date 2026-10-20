@@ -1,6 +1,19 @@
 {
-  "lastUpdated": "2026-10-19T22:47:43.020Z",
+  "lastUpdated": "2026-10-20T07:06:22.761Z",
   "articles": [
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe",
+      "headline": "Britain’s £100,000 tax trap",
+      "timestamp": "2026-10-20T04:00:12.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/pestizide-im-wasser-belastung-nach-schweizer-gemeinden-334006134627",
+      "headline": "Exklusive Daten: In diesen Schweizer Gemeinden ist das Grundwasser am stärksten mit Pestiziden belastet",
+      "timestamp": "2026-10-20T03:52:00.000Z"
+    },
     {
       "publication": "CNA",
       "url": "https://www.channelnewsasia.com/interactive/ai-fake-videos-scam-quiz/%2E",
