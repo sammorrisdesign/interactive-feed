@@ -1,6 +1,36 @@
 {
-  "lastUpdated": "2026-10-20T07:06:22.761Z",
+  "lastUpdated": "2026-10-20T12:50:44.101Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees",
+      "headline": "‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges",
+      "image": "https://i.guim.co.uk/img/media/439d627e140a08982a37568e98b5226a343de197/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3bed309ac40eec82120c6c874714e77",
+      "timestamp": "2026-10-20T11:00:34.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-the-peace-courts-key-findings",
+      "headline": "Key findings from the Guardian’s investigation of Louisiana’s justice of the peace courts",
+      "image": "https://i.guim.co.uk/img/media/79094dbca682085e4fb3dde2807cc74df5b80904/271_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11bb04f19956b17cbee23dfde488e3b9",
+      "timestamp": "2026-10-20T11:00:33.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4",
+      "headline": "The hidden water crisis beneath the American west",
+      "timestamp": "2026-10-20T10:00:03.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-20-2026",
+      "headline": "Today in Pictures, Oct 20, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/eb4f5237aea4aed75b312e1bf9e4e01b22c5db09fe576aa119d38455b8217f5a?w=1200",
+      "timestamp": "2026-10-20T07:54:59.000Z"
+    },
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",

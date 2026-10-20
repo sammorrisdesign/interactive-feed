@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-18T11:32:43.245Z",
+  "lastUpdated": "2026-10-20T12:50:39.198Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees",
+      "headline": "‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges",
+      "image": "https://i.guim.co.uk/img/media/439d627e140a08982a37568e98b5226a343de197/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3bed309ac40eec82120c6c874714e77",
+      "timestamp": "2026-10-20T11:00:34.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-the-peace-courts-key-findings",
+      "headline": "Key findings from the Guardian’s investigation of Louisiana’s justice of the peace courts",
+      "image": "https://i.guim.co.uk/img/media/79094dbca682085e4fb3dde2807cc74df5b80904/271_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11bb04f19956b17cbee23dfde488e3b9",
+      "timestamp": "2026-10-20T11:00:33.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
