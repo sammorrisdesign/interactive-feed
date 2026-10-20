@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-05T18:42:48.846Z",
+  "lastUpdated": "2026-10-20T17:45:21.197Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/2026/10/kevin-bacon",
+      "headline": "The Real Kevin Bacon",
+      "image": "https://pudding.cool/2026/10/kevin-bacon/assets/social.jpg",
+      "timestamp": "2026-10-20T04:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "blueSkyHandle": "puddingviz.bsky.social",
