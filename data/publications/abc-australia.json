@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-18T18:14:52.745Z",
+  "lastUpdated": "2026-10-21T04:29:46.122Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-threats-to-politicians/107286670",
+      "headline": "Threats up fourfold before Helen Haines attack",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4cbed21e7fa4e3730665e9d3fefcd544?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
