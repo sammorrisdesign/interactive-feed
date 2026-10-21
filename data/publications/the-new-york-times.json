@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-20T17:45:20.985Z",
+  "lastUpdated": "2026-10-21T09:31:17.006Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate",
+      "timestamp": "2026-10-21T08:58:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-rv-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of Registered Voters",
+      "timestamp": "2026-10-21T08:57:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of Registered Voters",
+      "timestamp": "2026-10-21T08:56:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
