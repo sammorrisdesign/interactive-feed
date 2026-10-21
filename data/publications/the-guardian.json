@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-20T17:45:20.954Z",
+  "lastUpdated": "2026-10-21T14:50:04.979Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/22/youth-detention-sexual-abuse-in-custody-allegations-australia-ntwnfb",
+      "headline": "First a strip-search goes too far, then a boy is isolated in a cell … the former detainees who tell all-too-similar stories",
+      "image": "https://i.guim.co.uk/img/media/d91957ee1fe5955ca56383b70016a5c4beb727b9/0_402_3800_3040/master/3800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0d4b0ccf7670bf272d76a74c1fb9287",
+      "timestamp": "2026-10-21T14:00:21.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-eviction-courts-system",
+      "headline": "‘Sham tribunal’: one family’s battle with Louisiana’s ‘feudal’ eviction courts",
+      "image": "https://i.guim.co.uk/img/media/28744338567c9a6ace41dba2b08cef8fb86cd826/17_0_3167_2534/master/3167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c375e4a78725b3092f05a0d76aad1dd3",
+      "timestamp": "2026-10-21T11:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-justice-of-peace-courts-methodology",
+      "headline": "How the Guardian reported on Louisiana’s justice of the peace courts",
+      "image": "https://i.guim.co.uk/img/media/85adc058493b4219f688bdd21b2be358213d1a14/0_173_3316_2654/master/3316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ead729761d630750f748ba60c4e19a4",
+      "timestamp": "2026-10-21T11:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation",
+      "headline": "‘Hunted like animals’: inside Trump’s war on the people who build America",
+      "image": "https://i.guim.co.uk/img/media/bc81e4c163cd5d10dbe68578e35851c73cd6b682/675_0_6280_5026/master/6280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b70c6ae4334163baa89d44cf027b622",
+      "timestamp": "2026-10-21T10:00:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
