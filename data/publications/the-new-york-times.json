@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-21T09:31:17.006Z",
+  "lastUpdated": "2026-10-21T19:05:34.595Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-21-polls-2026.html",
+      "headline": "Florida 21st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-21T15:28:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
