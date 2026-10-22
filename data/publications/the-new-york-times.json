@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-10-22T01:10:43.730Z",
+  "lastUpdated": "2026-10-22T12:13:47.250Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/ice-shooting-phoenix.html",
+      "headline": "Why Did an ICE Officer Shoot This Man?",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/00-garcia-sorto-qjch/00-garcia-sorto-qjch-articleLarge.jpg",
+      "timestamp": "2026-10-22T09:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/business/media/ai-music-streaming-spotify-apple-music.html",
+      "headline": "Would You Listen to A.I. Music? Maybe You Already Do.",
+      "image": "https://static01.nyt.com/images/2026/10/20/business/2026-08-17-ai-music-index/2026-08-17-ai-music-index-articleLarge-v6.png",
+      "timestamp": "2026-10-22T09:04:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/opinion/focus-group-iowa-voters-midterms.html",
+      "headline": "Why More Than Half of These 13 Iowa Voters Are Considering Splitting Their Vote",
+      "image": "https://static01.nyt.com/images/2026/10/21/opinion/22-focus-group-iowa-voters-promo/-22-focus-group-iowa-voters-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-10-22T09:04:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/travel/things-to-do-kansas-city.html",
+      "headline": "36 Hours in Kansas City, Mo.",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22trav-hours-kansas-city-01-bmqj/22trav-hours-kansas-city-01-bmqj-articleLarge-v9.jpg",
+      "timestamp": "2026-10-22T09:03:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

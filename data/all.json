@@ -1,6 +1,81 @@
 {
-  "lastUpdated": "2026-10-22T06:21:20.390Z",
+  "lastUpdated": "2026-10-22T12:13:56.066Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai",
+      "headline": "How tech became the villain of the US midterms ",
+      "image": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a9723e2a03c6e226b9ca8dba170daf2",
+      "timestamp": "2026-10-22T12:00:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "headline": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+      "image": "https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcad87901dee69ab635a10fa637a6bc3",
+      "timestamp": "2026-10-22T11:22:23.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/ice-shooting-phoenix.html",
+      "headline": "Why Did an ICE Officer Shoot This Man?",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/00-garcia-sorto-qjch/00-garcia-sorto-qjch-articleLarge.jpg",
+      "timestamp": "2026-10-22T09:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/business/media/ai-music-streaming-spotify-apple-music.html",
+      "headline": "Would You Listen to A.I. Music? Maybe You Already Do.",
+      "image": "https://static01.nyt.com/images/2026/10/20/business/2026-08-17-ai-music-index/2026-08-17-ai-music-index-articleLarge-v6.png",
+      "timestamp": "2026-10-22T09:04:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/opinion/focus-group-iowa-voters-midterms.html",
+      "headline": "Why More Than Half of These 13 Iowa Voters Are Considering Splitting Their Vote",
+      "image": "https://static01.nyt.com/images/2026/10/21/opinion/22-focus-group-iowa-voters-promo/-22-focus-group-iowa-voters-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-10-22T09:04:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/travel/things-to-do-kansas-city.html",
+      "headline": "36 Hours in Kansas City, Mo.",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22trav-hours-kansas-city-01-bmqj/22trav-hours-kansas-city-01-bmqj-articleLarge-v9.jpg",
+      "timestamp": "2026-10-22T09:03:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/phillies/inq2/mlb-offseason-free-agents-alec-bohm-brandon-marsh-stay-go-20261022.html",
+      "headline": "Phillies fans are fed up with Trea Turner, and more Stay or Go takeaways",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/PEZQS3QVGRE35EWJ2VKDQC37XQ.jpg",
+      "timestamp": "2026-10-22T09:01:01.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-22-2026",
+      "headline": "Today in Pictures, Oct 22, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/aa931bd8b6c2f0381f7600b864e628dea476210714e845d81c3b596e70587579?w=1200",
+      "timestamp": "2026-10-22T08:51:21.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+      "headline": "You be the chancellor: play our budget game to see if you can balance the books",
+      "image": "https://i.guim.co.uk/img/media/8beda193601d6a4281076ca2df24b23df213a10b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca6649796569c83923a2d3af8bd4e108",
+      "timestamp": "2026-10-22T08:04:59.000Z"
+    },
     {
       "publication": "Reuters",
       "blueSkyHandle": "reuters.com",
