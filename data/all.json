@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-22T01:10:45.815Z",
+  "lastUpdated": "2026-10-22T06:21:20.390Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/europe/how-europes-emptying-countryside-is-fuelling-new-wildfire-crisis-2026-10-22/",
+      "headline": "How Europe's emptying countryside is fuelling a new wildfire crisis",
+      "image": "https://www.reuters.com/resizer/v2/7K2VYIXCUVBK5AUL4F7LQFI3TA.jpg?auth=83761b5aa80d34182de7f93298203dc0694c7e824c2fdc36fc3fdfbb1ae1bf5f&width=1200&quality=80",
+      "timestamp": "2026-10-22T05:18:58.511Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
