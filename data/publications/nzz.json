@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-18T06:19:01.448Z",
+  "lastUpdated": "2026-10-22T17:27:52.905Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-entstand-leben-auf-der-erde-eine-bisher-unbekannte-geschichte-ld.10018926",
+      "headline": "Es begann auf dem Meeresgrund. Die bisher unbekannte Geschichte des Lebens",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/10/aa62b288-f9f9-4a9d-9065-2e6187dfe70f.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-10-22T12:21:04.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

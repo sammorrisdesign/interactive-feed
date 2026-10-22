@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-22T12:13:47.250Z",
+  "lastUpdated": "2026-10-22T17:27:52.934Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/trump-golf-course-dc-east-potomac.html",
+      "headline": "What Trump’s Golf Course Plan Takes Away From D.C. Residents",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-10-19-golf-east-potomac-park-index/2026-10-19-golf-east-potomac-park-index-articleLarge-v4.jpg",
+      "timestamp": "2026-10-22T17:09:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/world/quake-tracker-china.html",
+      "headline": "Map: 7.0-Magnitude Earthquake Strikes China",
+      "image": "https://static01.nyt.com/images/2026/10/22/world/22wea-quake-tracker-china-nytbd9ie-v2-index/22wea-quake-tracker-china-nytbd9ie-v2-index-articleLarge-v9.jpg",
+      "timestamp": "2026-10-22T15:06:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
