@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-21T22:34:52.625Z",
+  "lastUpdated": "2026-10-22T01:10:45.815Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/us/inflation-prices-real-estate-child-care-affordabilty.html",
+      "headline": "Life Feeling Too Expensive? It’s Not Just You. And It’s Not Just Inflation.",
+      "image": "https://static01.nyt.com/images/2026/10/21/us/00-national-affording-still/00-national-affording-still-articleLarge.jpg",
+      "timestamp": "2026-10-22T01:09:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/books/emily-dickinson-poem-i-dwell-in-possibility.html",
+      "headline": "This Poem Will Hit You Where You Live",
+      "image": "https://static01.nyt.com/images/2026/10/16/books/00dickinson-poem-promo/00dickinson-poem-promo-articleLarge.jpg",
+      "timestamp": "2026-10-21T22:41:32.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
