@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-21T04:29:46.122Z",
+  "lastUpdated": "2026-10-23T21:50:08.634Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-24/watch-floodwaters-swallow-four-wheel-drive-in-six-minutes/107302040",
+      "headline": "It took less than six minutes for this 4WD to sink out of sight",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0f0f23f99505c5e5ee78808b61dffa12?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=240&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-23T18:35:41.445Z",
+  "lastUpdated": "2026-10-23T21:50:10.805Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/idaho-us-house-2-polls-2026.html",
+      "headline": "Idaho 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-23T19:47:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -184158,6 +184167,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-24/watch-floodwaters-swallow-four-wheel-drive-in-six-minutes/107302040",
+      "headline": "It took less than six minutes for this 4WD to sink out of sight",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0f0f23f99505c5e5ee78808b61dffa12?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=240&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",
