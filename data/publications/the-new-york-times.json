@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-22T17:27:52.934Z",
+  "lastUpdated": "2026-10-23T03:14:26.177Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html",
+      "headline": "Trump’s ‘Smart Wall’ of A.I. Cameras Is Watching the Border, and More Than a Million People",
+      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/border-towers-fvtg/border-towers-fvtg-articleLarge.jpg",
+      "timestamp": "2026-10-23T02:54:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/nyregion/new-york-at-work-broadway-swing.html",
+      "headline": "Who is the Understudy for the Understudies?",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/BROADWAY-SWING-TONED-promo/BROADWAY-SWING-TONED--zlmt-articleLarge-v3.jpg",
+      "timestamp": "2026-10-23T02:35:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/nyregion/new-york-at-work.html",
+      "headline": "New York at Work",
+      "image": "https://static01.nyt.com/images/2026/10/22/nyregion/00new-york-at-work/00new-york-at-work-articleLarge.jpg",
+      "timestamp": "2026-10-23T01:42:41.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
