@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-23T08:45:02.667Z",
+  "lastUpdated": "2026-10-23T14:02:08.972Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/23/jesse-kelly-conservative-radio-trump",
+      "headline": "Being pro-Trump has been ‘easy radio’ for conservative hosts like Jesse Kelly. Those days are ending.",
+      "image": "https://i.guim.co.uk/img/media/d43f33ef5fbcff3111cf7614de4ad78e6c985a34/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c55d7037b458a0bc3fa2f91d39e6b9c1",
+      "timestamp": "2026-10-23T14:00:29.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "headline": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
+      "image": "https://i.guim.co.uk/img/media/ef541cf62fb2394a53dd360e37e63119424dd9a9/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8262fd1c9c34064532c747b1a7f5b5e6",
+      "timestamp": "2026-10-23T12:00:26.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

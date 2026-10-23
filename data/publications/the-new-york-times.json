@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-23T03:14:26.177Z",
+  "lastUpdated": "2026-10-23T14:02:08.996Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/23/books/bookstores-nyc-chinatown-east-village.html",
+      "headline": "How to Spend a Bookish Afternoon in Chinatown, the Lower East Side & the East Village",
+      "image": "https://static01.nyt.com/images/2026/10/14/books/00TBR-BOOKCRAWL-LES-Rabbit-Books-1/13visualUploader-50754-articleLarge.jpg",
+      "timestamp": "2026-10-23T09:02:42.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
