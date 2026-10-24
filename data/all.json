@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T19:13:27.149Z",
+  "lastUpdated": "2026-10-24T21:43:56.330Z",
   "articles": [
     {
       "publication": "Reuters",
@@ -100,6 +100,13 @@
       "headline": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
       "image": "https://i.guim.co.uk/img/media/ef541cf62fb2394a53dd360e37e63119424dd9a9/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8262fd1c9c34064532c747b1a7f5b5e6",
       "timestamp": "2026-10-23T12:00:26.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-october-23/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-10-23T11:04:10.000Z"
     },
     {
       "publication": "Reuters",
@@ -208,6 +215,13 @@
       "headline": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
       "image": "https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcad87901dee69ab635a10fa637a6bc3",
       "timestamp": "2026-10-22T11:22:23.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/santa-rosa-employee-pay/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31376545/1/rawImage.jpg",
+      "timestamp": "2026-10-22T11:04:11.000Z"
     },
     {
       "publication": "The New York Times",
