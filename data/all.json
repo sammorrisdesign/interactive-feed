@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-24T09:16:48.573Z",
+  "lastUpdated": "2026-10-24T13:27:48.412Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/russischer-satellit-verfolgt-us-satelliten-die-rekonstruktion-ld.10039194",
+      "headline": "Verfolgungsjagd im All: Russischer Militärsatellit riskiert eine Kollision mit einem US-Satelliten",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/23/5f7e824c-bdaf-4a70-94f4-8e7004a9ce60.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1885,1060,x18,y10&wmark=nzz",
+      "timestamp": "2026-10-24T10:00:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -34,6 +42,14 @@
       "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
       "timestamp": "2026-10-24T00:52:22.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2026/10/24/route-66-turns-100-we-road-tripped-through-all-its-kitsch-glory/",
+      "headline": "Route 66 turns 100. We road-tripped through all its kitsch.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BJC5B2S3BXWAC4F6HTXF74OOGU.JPG&w=300",
+      "timestamp": "2026-10-24T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",

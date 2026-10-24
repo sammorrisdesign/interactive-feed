@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-22T17:27:52.905Z",
+  "lastUpdated": "2026-10-24T13:27:46.328Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/russischer-satellit-verfolgt-us-satelliten-die-rekonstruktion-ld.10039194",
+      "headline": "Verfolgungsjagd im All: Russischer Militärsatellit riskiert eine Kollision mit einem US-Satelliten",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/23/5f7e824c-bdaf-4a70-94f4-8e7004a9ce60.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1885,1060,x18,y10&wmark=nzz",
+      "timestamp": "2026-10-24T10:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
