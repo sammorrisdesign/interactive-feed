@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-24T04:52:58.286Z",
+  "lastUpdated": "2026-10-24T09:16:45.615Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/24/us/politics/midterms-congress-house-district-map.html",
+      "headline": "See the Districts That Will Determine Control of the House",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-09-21-house-districts-highlight-map-index/2026-09-21-house-districts-highlight-map-index-articleLarge-v4.png",
+      "timestamp": "2026-10-24T09:04:28.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

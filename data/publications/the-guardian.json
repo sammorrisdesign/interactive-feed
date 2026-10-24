@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-23T14:02:08.972Z",
+  "lastUpdated": "2026-10-24T09:16:45.590Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
+      "headline": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
+      "image": "https://i.guim.co.uk/img/media/c644a0871c76102cddb303d63fdfe9d61cd01e79/421_0_3113_2491/master/3113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=642d72d1c1d1640dcbec5ce1a8ced090",
+      "timestamp": "2026-10-24T09:00:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+      "headline": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+      "image": "https://i.guim.co.uk/img/media/27cc759533b8f9f2e3ae4c0fb41773150fc0ecaa/0_900_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae6db4e2097ab33ceffb6c639f74b4a9",
+      "timestamp": "2026-10-24T05:00:24.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
