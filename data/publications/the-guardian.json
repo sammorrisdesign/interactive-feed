@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-10-25T09:02:17.100Z",
+  "lastUpdated": "2026-10-25T13:49:14.279Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
+      "headline": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
+      "image": "https://i.guim.co.uk/img/media/8d482c44395d172442eaf5ae72440571139c5812/0_917_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be78f52a9e879d55c4e1c15ba3ad78ed",
+      "timestamp": "2026-10-25T13:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/oct/25/inside-trumps-head-podcast",
+      "headline": "They wallow in Trump gunk 24/7. They say it’s necessary",
+      "image": "https://i.guim.co.uk/img/media/faddd28993ee6746fd5d3a361975b6ef24eb485d/214_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8054bdc0c50e5b6b6eb1d16ee94dd29c",
+      "timestamp": "2026-10-25T12:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/comedy-routine-deportation-ireland-woman-",
+      "headline": "This comedian jokes about deportation from Ireland … but it is happening for real",
+      "image": "https://i.guim.co.uk/img/media/5bbbccfc1aa0a68c0de01ecb9bd87b12e7162432/126_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=661e6e9ff888d97ab5a218bc0c956e52",
+      "timestamp": "2026-10-25T12:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans",
+      "headline": "‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms?",
+      "image": "https://i.guim.co.uk/img/media/82681ef39662ec2eb00080948b8b383754f54427/367_0_5399_4320/master/5399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b58106ac3ba8ac8ab0fc5a20504613b3",
+      "timestamp": "2026-10-25T11:00:02.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit",
+      "headline": "How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit ",
+      "image": "https://i.guim.co.uk/img/media/59954386324df73a35c61fcd9c94405799dd0d14/0_774_3438_2750/master/3438.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e19b2b6b10b9be5cab6203c9a0816b4f",
+      "timestamp": "2026-10-25T07:00:55.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
