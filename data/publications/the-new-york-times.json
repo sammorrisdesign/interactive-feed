@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-25T09:02:17.666Z",
+  "lastUpdated": "2026-10-25T17:23:09.520Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/weather/in-fa-map-path-tracker.html",
+      "headline": "Tracking Typhoon In-fa",
+      "image": "https://static01.nyt.com/images/2026/10/23/weather/thirty-map-path-tracker-index/thirty-map-path-tracker-index-articleLarge-v10.jpg",
+      "timestamp": "2026-10-25T14:04:21.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
