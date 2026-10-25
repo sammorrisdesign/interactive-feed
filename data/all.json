@@ -1,6 +1,110 @@
 {
-  "lastUpdated": "2026-10-24T23:58:43.700Z",
+  "lastUpdated": "2026-10-25T09:02:19.828Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s 10th Congressional District",
+      "timestamp": "2026-10-25T09:01:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s 10th Congressional District",
+      "timestamp": "2026-10-25T09:01:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa8-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Eighth Congressional District",
+      "timestamp": "2026-10-25T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa8-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Eighth Congressional District",
+      "timestamp": "2026-10-25T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa7-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Seventh Congressional District",
+      "timestamp": "2026-10-25T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa7-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Seventh Congressional District",
+      "timestamp": "2026-10-25T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s First U.S. House District",
+      "timestamp": "2026-10-25T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s First Congressional District",
+      "timestamp": "2026-10-25T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Polls of the Likely Electorate in Four Pennsylvania Congressional Races",
+      "timestamp": "2026-10-25T09:01:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Competitive U.S. House Races",
+      "timestamp": "2026-10-25T09:01:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
+      "headline": "Ten days that could shake the world: democratic norms at stake in four pivotal elections ",
+      "image": "https://i.guim.co.uk/img/media/1b0c3162c6dbfdcf8306aec9a1ad21b9033c2ddf/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddc4bbec644fe7e79aeb64a73b7f9062",
+      "timestamp": "2026-10-25T07:00:56.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+      "headline": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+      "image": "https://i.guim.co.uk/img/media/5d18e78d301848ee476161295fad0e090dc4951a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=096414320a87410e796e5ef8b775caed",
+      "timestamp": "2026-10-25T06:00:54.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/von-trump-bis-milei-wer-den-bolsonaros-nahesteht-ld.10043485",
+      "headline": "Von Trump bis Milei: Wer den Bolsonaros nahesteht",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/24/a4753ac0-9e26-4b41-be3f-9d380824b6e0.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1200,675,x0,y113&wmark=nzz",
+      "timestamp": "2026-10-25T04:30:00.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

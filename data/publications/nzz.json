@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-24T13:27:46.328Z",
+  "lastUpdated": "2026-10-25T09:02:16.578Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/von-trump-bis-milei-wer-den-bolsonaros-nahesteht-ld.10043485",
+      "headline": "Von Trump bis Milei: Wer den Bolsonaros nahesteht",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/24/a4753ac0-9e26-4b41-be3f-9d380824b6e0.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1200,675,x0,y113&wmark=nzz",
+      "timestamp": "2026-10-25T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

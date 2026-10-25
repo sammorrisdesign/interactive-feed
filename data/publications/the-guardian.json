@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-24T16:49:44.859Z",
+  "lastUpdated": "2026-10-25T09:02:17.100Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
+      "headline": "Ten days that could shake the world: democratic norms at stake in four pivotal elections ",
+      "image": "https://i.guim.co.uk/img/media/1b0c3162c6dbfdcf8306aec9a1ad21b9033c2ddf/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddc4bbec644fe7e79aeb64a73b7f9062",
+      "timestamp": "2026-10-25T07:00:56.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+      "headline": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+      "image": "https://i.guim.co.uk/img/media/5d18e78d301848ee476161295fad0e090dc4951a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=096414320a87410e796e5ef8b775caed",
+      "timestamp": "2026-10-25T06:00:54.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

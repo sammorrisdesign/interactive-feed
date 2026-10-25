@@ -1,6 +1,86 @@
 {
-  "lastUpdated": "2026-10-24T23:58:42.893Z",
+  "lastUpdated": "2026-10-25T09:02:17.666Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s 10th Congressional District",
+      "timestamp": "2026-10-25T09:01:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s 10th Congressional District",
+      "timestamp": "2026-10-25T09:01:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa8-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Eighth Congressional District",
+      "timestamp": "2026-10-25T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa8-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Eighth Congressional District",
+      "timestamp": "2026-10-25T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa7-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Seventh Congressional District",
+      "timestamp": "2026-10-25T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa7-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Seventh Congressional District",
+      "timestamp": "2026-10-25T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s First U.S. House District",
+      "timestamp": "2026-10-25T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s First Congressional District",
+      "timestamp": "2026-10-25T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Polls of the Likely Electorate in Four Pennsylvania Congressional Races",
+      "timestamp": "2026-10-25T09:01:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Competitive U.S. House Races",
+      "timestamp": "2026-10-25T09:01:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
