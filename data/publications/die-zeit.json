@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-09-29T12:49:17.948Z",
+  "lastUpdated": "2026-10-26T18:29:25.560Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/geld/2026-10/wohneigentum-immobilienmarkt-generationen-miete-grafiken",
+      "headline": "Hier können Millennials günstige Boomer-Häuser finden",
+      "image": "https://img.zeit.de/geld/2026-10/wohneigentum-immobilienmarkt-generationen-miete-grafiken-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-10-14T09:34:43.805Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-10/jobsuche-arbeitssuchende-beruf-dauer",
+      "headline": "So lange dauert die Jobsuche in Ihrer Branche",
+      "image": "https://img.zeit.de/arbeit/2026-10/jobsuche-arbeitssuchende-beruf-dauer-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-10-08T08:20:40.400Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie",
+      "headline": "Deutschland war nur einen Knopfdruck vom Superblackout entfernt",
+      "image": "https://img.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie-teaserbild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-10-07T03:32:55.476Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/feuilleton/literatur/2026-10/buecherempfehlungen-herbst-literatur-lektuere-belletristik",
+      "headline": "Unsere 100 Bücher für den Herbst",
+      "image": "https://img.zeit.de/feuilleton/literatur/2026-10/buecherempfehlungen-herbst-literatur-lektuere-belletristik-teaser/super__767x511__mobile__scale_2",
+      "timestamp": "2026-10-05T10:39:41.389Z"
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
