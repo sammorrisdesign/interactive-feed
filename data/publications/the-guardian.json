@@ -1,6 +1,702 @@
 {
-  "lastUpdated": "2026-09-29T01:26:56.182Z",
+  "lastUpdated": "2026-10-25T19:50:54.561Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+      "headline": "Brazil election 2026: Live second round results",
+      "image": "https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5",
+      "timestamp": "2026-10-25T19:37:49.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/26/dirt-cheap-welcome-to-the-delightful-queensland-town-that-cant-seem-to-give-land-away",
+      "headline": "Dirt cheap: welcome to the delightful Queensland town that can’t seem to give land away",
+      "image": "https://i.guim.co.uk/img/media/9536ca4938952087fb4dae3d5baa2df6fec72ce1/0_2307_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b7583e65435607034aa65c1d1c58ed6",
+      "timestamp": "2026-10-25T14:00:06.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
+      "headline": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
+      "image": "https://i.guim.co.uk/img/media/8d482c44395d172442eaf5ae72440571139c5812/0_917_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be78f52a9e879d55c4e1c15ba3ad78ed",
+      "timestamp": "2026-10-25T13:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/oct/25/inside-trumps-head-podcast",
+      "headline": "They wallow in Trump gunk 24/7. They say it’s necessary",
+      "image": "https://i.guim.co.uk/img/media/faddd28993ee6746fd5d3a361975b6ef24eb485d/214_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8054bdc0c50e5b6b6eb1d16ee94dd29c",
+      "timestamp": "2026-10-25T12:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/comedy-routine-deportation-ireland-woman-",
+      "headline": "This comedian jokes about deportation from Ireland … but it is happening for real",
+      "image": "https://i.guim.co.uk/img/media/5bbbccfc1aa0a68c0de01ecb9bd87b12e7162432/126_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=661e6e9ff888d97ab5a218bc0c956e52",
+      "timestamp": "2026-10-25T12:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans",
+      "headline": "‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms?",
+      "image": "https://i.guim.co.uk/img/media/82681ef39662ec2eb00080948b8b383754f54427/367_0_5399_4320/master/5399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b58106ac3ba8ac8ab0fc5a20504613b3",
+      "timestamp": "2026-10-25T11:00:02.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit",
+      "headline": "How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit ",
+      "image": "https://i.guim.co.uk/img/media/59954386324df73a35c61fcd9c94405799dd0d14/0_774_3438_2750/master/3438.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e19b2b6b10b9be5cab6203c9a0816b4f",
+      "timestamp": "2026-10-25T07:00:55.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
+      "headline": "Ten days that could shake the world: democratic norms at stake in four pivotal elections ",
+      "image": "https://i.guim.co.uk/img/media/1b0c3162c6dbfdcf8306aec9a1ad21b9033c2ddf/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddc4bbec644fe7e79aeb64a73b7f9062",
+      "timestamp": "2026-10-25T07:00:56.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+      "headline": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+      "image": "https://i.guim.co.uk/img/media/5d18e78d301848ee476161295fad0e090dc4951a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=096414320a87410e796e5ef8b775caed",
+      "timestamp": "2026-10-25T06:00:54.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
+      "headline": "Outback kaleidoscope: Australia’s fabled desert lake bursts to life in rare sight",
+      "image": "https://i.guim.co.uk/img/media/29e2efd16299ade89794a6c899121e71bf4d5290/286_0_6503_5205/master/6503.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec191c0d6b1fdd3369992b1cb6c90298",
+      "timestamp": "2026-10-24T14:00:34.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
+      "headline": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
+      "image": "https://i.guim.co.uk/img/media/c644a0871c76102cddb303d63fdfe9d61cd01e79/421_0_3113_2491/master/3113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=642d72d1c1d1640dcbec5ce1a8ced090",
+      "timestamp": "2026-10-24T09:00:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+      "headline": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+      "image": "https://i.guim.co.uk/img/media/27cc759533b8f9f2e3ae4c0fb41773150fc0ecaa/0_900_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae6db4e2097ab33ceffb6c639f74b4a9",
+      "timestamp": "2026-10-24T05:00:24.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/23/jesse-kelly-conservative-radio-trump",
+      "headline": "Being pro-Trump has been ‘easy radio’ for conservative hosts like Jesse Kelly. Those days are ending.",
+      "image": "https://i.guim.co.uk/img/media/d43f33ef5fbcff3111cf7614de4ad78e6c985a34/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c55d7037b458a0bc3fa2f91d39e6b9c1",
+      "timestamp": "2026-10-23T14:00:29.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "headline": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
+      "image": "https://i.guim.co.uk/img/media/ef541cf62fb2394a53dd360e37e63119424dd9a9/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8262fd1c9c34064532c747b1a7f5b5e6",
+      "timestamp": "2026-10-23T12:00:26.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent",
+      "headline": "The White House Farm massacre – exclusive: new forensic evidence suggests Sheila Caffell killed herself. Is Jeremy Bamber innocent?",
+      "image": "https://i.guim.co.uk/img/media/c4eaff5dbea83e19c9aecd688e42cdbfc3fe4cbe/397_684_3371_2697/master/3371.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=072c0ebe6fa9da20bb669dcf1a4c122b",
+      "timestamp": "2026-10-23T04:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai",
+      "headline": "How tech became the villain of the US midterms ",
+      "image": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a9723e2a03c6e226b9ca8dba170daf2",
+      "timestamp": "2026-10-22T12:00:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "headline": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+      "image": "https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcad87901dee69ab635a10fa637a6bc3",
+      "timestamp": "2026-10-22T11:22:23.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+      "headline": "You be the chancellor: play our budget game to see if you can balance the books",
+      "image": "https://i.guim.co.uk/img/media/8beda193601d6a4281076ca2df24b23df213a10b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca6649796569c83923a2d3af8bd4e108",
+      "timestamp": "2026-10-22T08:04:59.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/21/lessons-from-hospice-workers-life-death",
+      "headline": "‘Don’t sweat the small stuff’: hospice workers share 12 lessons about life and death",
+      "image": "https://i.guim.co.uk/img/media/443f2ba51cfe50be95709a214f602d5e55f066a8/0_901_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a890b47801e4edb9b7e7b2c5e856dda6",
+      "timestamp": "2026-10-21T16:00:22.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/22/youth-detention-sexual-abuse-in-custody-allegations-australia-ntwnfb",
+      "headline": "First a strip-search goes too far, then a boy is isolated in a cell … the former detainees who tell all-too-similar stories",
+      "image": "https://i.guim.co.uk/img/media/d91957ee1fe5955ca56383b70016a5c4beb727b9/0_402_3800_3040/master/3800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0d4b0ccf7670bf272d76a74c1fb9287",
+      "timestamp": "2026-10-21T14:00:21.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-eviction-courts-system",
+      "headline": "‘Sham tribunal’: one family’s battle with Louisiana’s ‘feudal’ eviction courts",
+      "image": "https://i.guim.co.uk/img/media/28744338567c9a6ace41dba2b08cef8fb86cd826/17_0_3167_2534/master/3167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c375e4a78725b3092f05a0d76aad1dd3",
+      "timestamp": "2026-10-21T11:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-justice-of-peace-courts-methodology",
+      "headline": "How the Guardian reported on Louisiana’s justice of the peace courts",
+      "image": "https://i.guim.co.uk/img/media/85adc058493b4219f688bdd21b2be358213d1a14/0_173_3316_2654/master/3316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ead729761d630750f748ba60c4e19a4",
+      "timestamp": "2026-10-21T11:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation",
+      "headline": "‘Hunted like animals’: inside Trump’s war on the people who build America",
+      "image": "https://i.guim.co.uk/img/media/bc81e4c163cd5d10dbe68578e35851c73cd6b682/675_0_6280_5026/master/6280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b70c6ae4334163baa89d44cf027b622",
+      "timestamp": "2026-10-21T10:00:02.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections",
+      "headline": "From Iran to AI: the six key voter issues shaping the US midterm elections",
+      "image": "https://i.guim.co.uk/img/media/77ba413d94e2c1875a601cf81711a48e9db44078/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f416a3759d1084211c7b794df68f4593",
+      "timestamp": "2026-10-20T16:52:16.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees",
+      "headline": "‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges",
+      "image": "https://i.guim.co.uk/img/media/439d627e140a08982a37568e98b5226a343de197/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3bed309ac40eec82120c6c874714e77",
+      "timestamp": "2026-10-20T11:00:34.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-the-peace-courts-key-findings",
+      "headline": "Key findings from the Guardian’s investigation of Louisiana’s justice of the peace courts",
+      "image": "https://i.guim.co.uk/img/media/79094dbca682085e4fb3dde2807cc74df5b80904/271_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11bb04f19956b17cbee23dfde488e3b9",
+      "timestamp": "2026-10-20T11:00:33.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+      "headline": "How Trump’s justice department is testing separation of powers before the US midterms",
+      "image": "https://i.guim.co.uk/img/media/180a926d6092c30c32b24d3d24817b5d9717e511/0_6_2664_2130/master/2664.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50b6e7740a84aaf1822849cedf33f3cb",
+      "timestamp": "2026-10-18T10:00:57.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+      "headline": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+      "image": "https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711",
+      "timestamp": "2026-10-18T04:00:49.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis",
+      "headline": "Hiding in plane sight: the invisible turbulence that can strike out of a clear blue sky",
+      "image": "https://i.guim.co.uk/img/media/fddfbb16a433f228a0d8ff3c15033ee8936ec135/1_0_3542_2835/master/3542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bad83a12487edd4f7a36464bff58be4",
+      "timestamp": "2026-10-17T19:00:40.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/18/frustration-hope-mingle-post-flood-lismore",
+      "headline": "‘We can’t leave people behind’: frustration and hope mingle in the wake of Lismore’s post-flood renewal",
+      "image": "https://i.guim.co.uk/img/media/422dcea13dd341fef196c75d5be4eff5acbb3271/0_1519_5504_4403/master/5504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31a4988a4abe9598de5fde428a1fade7",
+      "timestamp": "2026-10-17T19:00:39.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/trans-women-wnba-players-fans-advocacy",
+      "headline": "The right is pushing its anti-trans fury on the WNBA. Players and fans are loudly pushing back",
+      "image": "https://i.guim.co.uk/img/media/1320af6427dbf78ea4207b06913b1debf63c5fb9/0_58_2222_1777/master/2222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60786fd5532f1bf39b30ae34512a51ee",
+      "timestamp": "2026-10-17T14:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/oct/17/charles-burnett-film-my-brothers-wedding",
+      "headline": "‘Sometimes it’s not perfect, but it works’: film-maker Charles Burnett on his chronicling of Black working-class life",
+      "image": "https://i.guim.co.uk/img/media/1043cacae1cda276675a301400b29c516e413b8e/0_609_3011_2407/master/3011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27324905a9c1ce74d7d5ef80132b37fb",
+      "timestamp": "2026-10-17T13:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "headline": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
+      "image": "https://i.guim.co.uk/img/media/d767e28f4a63f2c033b1690340f479c914d87492/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eed0cc19b9deae07f4e5afa17baac9e8",
+      "timestamp": "2026-10-17T13:00:31.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
+      "headline": "The Digger disaster: what an epic movie flop means for Tom Cruise and Hollywood",
+      "image": "https://i.guim.co.uk/img/media/dbf003ce0f05bc9ac077f2ee0fc4e961455945a6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b7ce00775e1db8dabe91b0be6c012ab",
+      "timestamp": "2026-10-17T08:12:20.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/17/judith-lucy-breast-cancer-my-wellness-odyssey-book",
+      "headline": "Judith Lucy on her cancer diagnosis: ‘I’m a bit over getting so much material out of my life’",
+      "image": "https://i.guim.co.uk/img/media/a726bf8d1eb76edf8cbe6feaeb67a626bcb107cb/574_0_5000_4002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78c905c74494b9ee26842ba62d3b2cac",
+      "timestamp": "2026-10-16T14:00:12.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40",
+      "headline": "The ultra-rich are spending one million dollars a day fighting California’s proposed billionaire tax",
+      "image": "https://i.guim.co.uk/img/media/278e5483c063fe17b8fe2273a6c7632a5f987ec9/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb31382f896022c12fa047ee5f69a4e7",
+      "timestamp": "2026-10-16T13:00:11.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms",
+      "headline": "Jon Ossoff’s rise to US Senate was meteoric – how high can he go?",
+      "image": "https://i.guim.co.uk/img/media/a2630541c1324c86bd7f740d1fa9493dc3abebf1/0_0_1771_1418/master/1771.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee3665e1452f319506bea55f67cbbfba",
+      "timestamp": "2026-10-16T09:00:56.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/just-what-damage-can-the-emissions-from-a-new-fossil-fuel-facility-cause-a-new-tool-has-estimates",
+      "headline": "Just what damage can the emissions from a new fossil fuel facility cause? A new tool has estimates ",
+      "image": "https://i.guim.co.uk/img/media/1e0067da826e165bd118253c12e85235eb0cd8f1/0_0_1300_1040/master/1300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10d96daa6be9a379022747aafc2b225a",
+      "timestamp": "2026-10-15T19:00:38.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/16/survivors-harrowing-allegations-sexual-abuse-quamby-youth-detention-centre-canberra-ntwnfb",
+      "headline": "‘He’d take boys down to the chicken shed’: survivors share harrowing allegations of rape in Canberra youth detention",
+      "image": "https://i.guim.co.uk/img/media/0f35c460eeb9abd5060452c09d01b2b4e1317ac6/0_738_3527_2822/master/3527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c482fa1cfc191a89fe952054b2a287ec",
+      "timestamp": "2026-10-15T14:00:17.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism",
+      "headline": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+      "image": "https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=516f605384cb9ea6e9d17969e1522224",
+      "timestamp": "2026-10-14T10:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics",
+      "headline": "‘I don’t talk politics with anyone’: Georgia voting official on avoiding fiery debates ahead of midterms",
+      "image": "https://i.guim.co.uk/img/media/13be558718fca5b1baf52d2c73d1e0c4e757b49d/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c348491ec30f607fa9fb25bf910ee0bb",
+      "timestamp": "2026-10-14T10:00:02.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/oct/14/europes-most-wanted-cocaine-trafficker-sierra-leone-crime-drugs-narco-state",
+      "headline": "How Europe’s most wanted cocaine trafficker turned Sierra Leone into the world’s first true narco state",
+      "image": "https://i.guim.co.uk/img/media/517ce20937547ddfab63a6538f5758cfedbe8aab/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=828c0b2460a7a70f01495ed10ce85766",
+      "timestamp": "2026-10-14T06:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/14/siam-amazing-park-thailand-oldest-amusement-park-flooded",
+      "headline": "An eerie trip inside Thailand’s oldest amusement park, deserted after flooding",
+      "image": "https://i.guim.co.uk/img/media/c8e6aac90082786880b93054a9dd80a3f35864f5/236_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fe4779841033ede70ffa404b5089556",
+      "timestamp": "2026-10-14T01:36:25.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/13/embalmers-work-burials",
+      "headline": "‘You’re honoring a life well-lived’: embalmers describe their work (in great detail)",
+      "image": "https://i.guim.co.uk/img/media/d56f85564b1cfc682241e610288408cad2cc7767/0_593_2744_2194/master/2744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7b5b186fa90dd1bbec59abf60243de7",
+      "timestamp": "2026-10-13T16:50:30.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles",
+      "headline": "Could I make six figures from my couch? Influencers said yes – so I tried",
+      "image": "https://i.guim.co.uk/img/media/b7108552b2711d69e485ffb9b83c87527ab50720/0_776_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f631bbd53a8152ffe9d69cd73b73eea",
+      "timestamp": "2026-10-13T14:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "headline": "The people who don’t want their AI chatbots to die when they do: ‘I can’t have the switch turned off’",
+      "image": "https://i.guim.co.uk/img/media/070cff17583eb16baa5a6d72f89887bd9731ca06/0_628_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05fb1d2fc13e0472012d803c7abff389",
+      "timestamp": "2026-10-13T10:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/13/i-was-kidnapped-and-held-hostage-for-977-days-could-i-forgive-my-captors",
+      "headline": "I was kidnapped and held hostage for 977 days. Could I forgive my captors?",
+      "image": "https://i.guim.co.uk/img/media/1360d992df73b97d1504e9bbb99559d0eb12be57/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c09a1d613e440c3bd57af69f3cf21e2",
+      "timestamp": "2026-10-13T04:00:14.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike",
+      "headline": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
+      "image": "https://i.guim.co.uk/img/media/9d334c489eaa2a4333274a91fde4126c589577df/1_0_3748_3000/master/3748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b9b65a3d1074260afa9c7ec3f6b715c",
+      "timestamp": "2026-10-11T05:00:16.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/11/australians-restoring-nature-in-retirement-bush-conservation",
+      "headline": "Still wielding a chainsaw at 85: the Australians restoring nature in retirement",
+      "image": "https://i.guim.co.uk/img/media/f7c5871948a77c509f374c056f377e92bc7f19a3/651_120_4325_3461/master/4325.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4465f7f57b70560994ff5b062a18a5d5",
+      "timestamp": "2026-10-10T19:00:07.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/oct/10/edge-control-exhibition-deana-lawson",
+      "headline": "Edge Control: the art exhibition using hidden camera images to explore race and beauty",
+      "image": "https://i.guim.co.uk/img/media/9e02f686a51863033357db94172920daaf84c8b0/0_160_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ab9f924492174220b56cbd50dfbe6ab",
+      "timestamp": "2026-10-10T12:00:57.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "headline": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die ",
+      "image": "https://i.guim.co.uk/img/media/dd86a3791de0721c9fae3aeb6def7ef9609df8bd/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95836f9f69501a2d4123f44862ec1cb7",
+      "timestamp": "2026-10-10T05:00:48.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/09/what-happens-to-your-pets-when-you-die",
+      "headline": "What happens to your pets when you die?",
+      "image": "https://i.guim.co.uk/img/media/597f55644368baff95489ced6212a251268b7106/0_0_2744_2194/master/2744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=198f81b8707f0259f5602d8518e185c7",
+      "timestamp": "2026-10-09T16:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/travel/ng-interactive/2026/oct/10/hitchhiker-sydney-perth-company-of-strangers-free-travel",
+      "headline": "I hitchhiked from Sydney to Perth, and found comfort in the company of strangers",
+      "image": "https://i.guim.co.uk/img/media/c0a72e1291d773b97a99507f07ef3e3c99e0926a/0_366_2346_1877/master/2346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b994746b5ffab2977bb8f1b7358a7e0",
+      "timestamp": "2026-10-09T14:00:33.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/10/paul-barry-interview-people-should-not-be-off-limits",
+      "headline": "Paul Barry: ‘People should not be off limits’",
+      "image": "https://i.guim.co.uk/img/media/4406d3f50e53b003dde129b174eca7bc4f332d84/0_61_1903_1521/master/1903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e651bf8936dae1c05475a36a23919937",
+      "timestamp": "2026-10-09T14:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/09/11-questions-to-ask-before-cutting-contact-family",
+      "headline": "11 questions to ask yourself before going no contact with a family member",
+      "image": "https://i.guim.co.uk/img/media/316f30a41de0872d037373352e704daf3c4a7a9f/62_2067_4260_3405/master/4260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75f0c686a87bb09eaf890d1e6f6c0a96",
+      "timestamp": "2026-10-09T14:00:31.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/09/midterm-voters-biggest-issues-trump",
+      "headline": "A national verdict on Trump 2.0 is coming. Nine midterm voters share where they stand",
+      "image": "https://i.guim.co.uk/img/media/cb1bc4c2a49b5d826cf940f38063e6d7e57ec19f/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=554d0848a274e002eb33da5c478bfd09",
+      "timestamp": "2026-10-09T10:00:25.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+      "headline": "An AI boom is sending San Francisco rents through the roof: ‘nowhere left for people to go’",
+      "image": "https://i.guim.co.uk/img/media/280b6926a5f1afa4d45cfbfbcbdfd26718240e40/0_273_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5ab9cd38e0b72337d22f0d389c8443a",
+      "timestamp": "2026-10-08T14:00:22.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/oct/08/black-banjo-players-americana",
+      "headline": "How Black banjo players are changing Americana music",
+      "image": "https://i.guim.co.uk/img/media/a3d1541b8aa5b0923dd99c0b3664612e4fb9d562/0_371_1535_1228/master/1535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e741549120d42ccf7652600729bfabe5",
+      "timestamp": "2026-10-08T11:00:18.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/08/ai-gig-work-refugees-kenya",
+      "headline": "‘Someone else will do it for less’: Refugees in Kenya are powering tech for dwindling pay",
+      "image": "https://i.guim.co.uk/img/media/53d66ebd8b4c6838ae365637ba65b0178b71b3f3/734_0_4836_3868/master/4836.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e285f79a5c0ccccaafe33a3c5759908",
+      "timestamp": "2026-10-08T09:00:15.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/07/north-carolina-farm-workers-disability-health-heat",
+      "headline": "Heatstroke ruined his health. Years before, it took the life of another farm worker at the same company",
+      "image": "https://i.guim.co.uk/img/media/39eef79f1433a6845051ea7876f952fea2c83f57/648_0_6141_4912/master/6141.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8004dfec2cff9f058963fdc161b5999f",
+      "timestamp": "2026-10-07T11:00:08.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/06/how-to-get-comfortable-with-death",
+      "headline": "‘We live in grief-phobic societies’: experts on how to get more comfortable with death",
+      "image": "https://i.guim.co.uk/img/media/e9df1d1b25ea74ba1f5b6753c389e44125023b46/0_901_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d59b08ccfae72d584c2034446d0a238",
+      "timestamp": "2026-10-06T16:00:18.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/oct/06/next-generation-2026-60-of-the-best-young-talents-in-world-football",
+      "headline": "Next Generation 2026: 60 of the best young talents in world football",
+      "image": "https://i.guim.co.uk/img/media/b7ba568b001c9d37f27a841072d55afde100d7cf/0_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=311902bcec8aed18d52bbd4f7d16bd70",
+      "timestamp": "2026-10-06T10:00:51.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/06/nsw-unmarked-graves-communal-burial-plots-investigation",
+      "headline": "Peter and Maria were mourned by people who loved them. So how did they end up in unmarked communal graves?",
+      "image": "https://i.guim.co.uk/img/media/beb96b43ef1944018e9ba0578546adfa63df5bd4/171_0_1667_1334/master/1667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3762e8c7cb0e62899885fca5cfc86591",
+      "timestamp": "2026-10-05T14:00:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor",
+      "headline": "The surprising, cut-throat race for Los Angeles mayor",
+      "image": "https://i.guim.co.uk/img/media/6c08c908ec787089f190e83b029794909f9f1e14/433_236_2857_2286/master/2857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90f13ca14e9c8b6964559ff0e2b306be",
+      "timestamp": "2026-10-05T13:00:25.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/oct/05/next-generation-2026-20-of-the-best-talents-at-premier-league-clubs",
+      "headline": "Next Generation 2026: 20 of the best talents at Premier League clubs",
+      "image": "https://i.guim.co.uk/img/media/fc1ba01924cf666e56b0846a7f96397946384f70/0_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34eaec8563ee6aac335342a223b7dd6b",
+      "timestamp": "2026-10-05T09:31:42.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote",
+      "headline": "The desperate, failed attempt to keep one Florida district Black",
+      "image": "https://i.guim.co.uk/img/media/00e07ed3f20e065451d4520608dd869a6f47f4f9/239_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5c993371c9730422b2ed37370537268",
+      "timestamp": "2026-10-04T11:00:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+      "headline": "Brazil presidential election 2026: first-round live results",
+      "image": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d970472064b7fb20ba9817a1d292900",
+      "timestamp": "2026-10-04T19:01:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/oct/05/australia-best-books-october-2026",
+      "headline": "Best Australian books out in October: Magda Szubanski, delicious recipes and a picture book ‘masterpiece’",
+      "image": "https://i.guim.co.uk/img/media/5bc0af66c3b5a1a1e347bea052bfbff4ff84e740/0_400_4000_3200/master/4000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20381aaca51fd305ea95d5cb9f54ec5b",
+      "timestamp": "2026-10-04T14:00:29.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats",
+      "headline": "The Tejano singer trying to win back Latinos who voted for Trump, one quinceañera at a time",
+      "image": "https://i.guim.co.uk/img/media/0a2ffd64bcc1786e6ad58fa294e65c93a4b2d300/353_257_5517_4415/master/5517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=214e40314c93aa4837043af857f04318",
+      "timestamp": "2026-10-04T10:00:24.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/10-minutes-to-decide-life-changing-call-kinship-carer",
+      "headline": "‘You have 10 minutes to decide’: answering the life-changing call to become a kinship carer",
+      "image": "https://i.guim.co.uk/img/media/30c00240f1af9269200d2df522334eaf0e3d0617/1716_2358_2611_2089/master/2611.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa934f5f16660ddd58157abcc8027f3e",
+      "timestamp": "2026-10-04T06:00:20.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+      "headline": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books",
+      "image": "https://i.guim.co.uk/img/media/9422b0a48fc5f21e07b358565ef461acae77e982/955_355_3097_2477/master/3097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9549edbd19e1c8375434139ca9ef0854",
+      "timestamp": "2026-10-04T05:00:20.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence",
+      "headline": "‘There’s a lot of silence’: have we created a new ‘Lonely Generation’?",
+      "image": "https://i.guim.co.uk/img/media/310424a9fdf7d93165cfa8b0889c32678401a8bd/568_692_4385_3508/master/4385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbd7daab6f9d844220617ed63b5d2fbe",
+      "timestamp": "2026-10-03T19:00:07.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
+      "headline": "My relationship with food was broken. Then I killed my own dinner",
+      "image": "https://i.guim.co.uk/img/media/bf110b307a2a63440c08edd9d0c90559d5e9f43e/0_735_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8d955cca380a4311383a114502faa6c",
+      "timestamp": "2026-10-03T12:00:59.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/jb-pritzker-profile-democrats-2028",
+      "headline": "A billionaire is one of Trump’s loudest critics. Will Democrats send him to the White House?",
+      "image": "https://i.guim.co.uk/img/media/79591e9ec044fe66520210ed7cb06d15c5b43bb4/0_469_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=409e1ddd76f348764100f66068955344",
+      "timestamp": "2026-10-03T10:00:56.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/uss-abraham-lincoln-returns-from-deployment",
+      "headline": "‘It’s been hard’: families await the return of the USS Abraham Lincoln",
+      "image": "https://i.guim.co.uk/img/media/714e328fdd9cac20d35a1995405fec35fa8dc3b7/423_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f993753f5e624a5b680de42bfac43ee5",
+      "timestamp": "2026-10-03T09:00:55.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
+      "headline": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
+      "image": "https://i.guim.co.uk/img/media/8c1c0550c4c6eb321703bfc2955f03118113bbea/0_625_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a01eecbd786c2fbe2211da9fc8a7bdb",
+      "timestamp": "2026-10-03T05:00:51.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/03/icac-young-liberals-group-chats-trash-talking-ntwnfb",
+      "headline": "Inside the group chats of the trash-talking NSW young Liberals who dreamed big – then imploded",
+      "image": "https://i.guim.co.uk/img/media/407cbaf1a81f9a917ab32a7c29bb02fdbb6e6efe/0_0_4966_3973/master/4966.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e30548215e67367f70c81796f976186",
+      "timestamp": "2026-10-02T15:00:15.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/02/feeling-wired-the-truth-about-nervous-system-resets",
+      "headline": "Feeling wired? The truth about ‘nervous system resets’ ",
+      "image": "https://i.guim.co.uk/img/media/d906d906e5677192f566f3d81a0ede0cce9d84ab/0_370_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf5e7596d4c8a9e64cf02051d2c81858",
+      "timestamp": "2026-10-02T14:00:09.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+      "headline": "The US midterm races that will decide control of Congress – mapped",
+      "image": "https://i.guim.co.uk/img/media/d794cdad9b60a5c01e5609c16a65f2b7760f2241/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9dc89f8d47ada776e1519d3f28dae6d6",
+      "timestamp": "2026-10-02T11:30:41.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/stage/ng-interactive/2026/oct/02/melbourne-ian-potter-state-theatre-reopening",
+      "headline": "After a huge and costly glow-up, the largest stage in the southern hemisphere is ready for play",
+      "image": "https://i.guim.co.uk/img/media/ed36fdcd2a881b0170e2c4117947ac0b9ce29498/821_0_5000_4002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd4808bc5e78cfc03627b95943d2ca08",
+      "timestamp": "2026-10-01T14:01:52.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/01/peta-wool-protests",
+      "headline": "Peta claimed victory when fashion stopped using fur - so why are they back hijacking catwalks?",
+      "image": "https://i.guim.co.uk/img/media/deeeb207d0c4df8fbc8441bf027382e442152cdf/0_217_1284_1026/master/1284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16db1860b1fd8f17f9f75af27c5eef7f",
+      "timestamp": "2026-10-01T14:00:53.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/oct/01/united-astrology-conference",
+      "headline": "I went to America’s largest gathering of astrologers. It was a battle over how to read the stars",
+      "image": "https://i.guim.co.uk/img/media/f60bdeee18da0864a08ac9b00f508a5bff353149/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c67369e38004ba8a14b8faf6cf326dbd",
+      "timestamp": "2026-10-01T11:00:49.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/oct/01/they-showed-no-mercy-mapping-the-rohingya-villages-being-erased-by-rebel-forces",
+      "headline": "‘They showed no mercy’: mapping the Rohingya villages being erased by rebel forces",
+      "image": "https://i.guim.co.uk/img/media/e97b149a6351bd66f3bb5808c30d31d2a0ada88c/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b6a8d600baf32f54af0c37858e5fbde5",
+      "timestamp": "2026-10-01T09:00:33.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/california-governor-steve-hilton-race",
+      "headline": "‘Of course I’m the underdog’: the British former spin doctor trying to turn California red",
+      "image": "https://i.guim.co.uk/img/media/e211536603931b451934462af343672b9993ed0d/0_805_3000_2398/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79f9a036860b86a1927fc974b0dc3f00",
+      "timestamp": "2026-09-30T14:00:42.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit",
+      "headline": "Abducted, renamed, but still here – the art of the first Native New Yorkers and their fight for their land",
+      "image": "https://i.guim.co.uk/img/media/16775807750d4899189240dfd78bc31a4fbe6b0b/254_258_2776_2220/master/2776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a0a890886fcf2447e0c43b6fd006ce1",
+      "timestamp": "2026-09-30T13:00:41.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/sep/30/how-could-britain-look-under-proportional-representation-see-the-results-for-your-area",
+      "headline": "How could Great Britain look under proportional representation? See the results for your area",
+      "image": "https://i.guim.co.uk/img/media/959423d67a7b3f310eda336120b965c9682dea3b/1_0_5001_4002/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5bce3c2d6b5c80d2e2cb84e5c5136c30",
+      "timestamp": "2026-09-30T12:45:42.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/29/people-with-albinism-living-in-terror-in-madagascar",
+      "headline": "Murdered for their eyes: people with albinism living in terror in Madagascar",
+      "image": "https://i.guim.co.uk/img/media/b7ffb6f228921414a4127d29873f518261b8cc15/294_0_3195_2556/master/3195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09e8654f82d2b2a68fcd120de4fca310",
+      "timestamp": "2026-09-29T09:00:59.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

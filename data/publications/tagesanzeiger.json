@@ -1,6 +1,72 @@
 {
-  "lastUpdated": "2026-09-25T05:11:25.147Z",
+  "lastUpdated": "2026-10-26T05:44:42.710Z",
   "articles": [
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/wohnungsnot-schweiz-23-der-einfamilienhaeuser-unterbelegt-999626553432",
+      "headline": "Neue Daten zum Immomarkt: Zwei Drittel aller Einfamilienhäuser sind unterbelegt – wie sieht es in Ihrer Gemeinde aus?",
+      "timestamp": "2026-10-26T05:07:03.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/geburtsort-schweiz-oder-ausland-ihr-quartier-im-vergleich-198685379145",
+      "headline": "Interaktives Tool: Geburtsort Schweiz oder Ausland? So durchmischt ist Ihr Quartier im Vergleich",
+      "timestamp": "2026-10-23T04:02:50.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/interaktiver-rechner-vergleichen-sie-ihren-zivilstand-516872050002",
+      "headline": "Interaktiver Rechner: Verheiratet, geschieden, ledig: Gehören Sie mit Ihrem Zivilstand zur Mehrheit oder zur Minderheit?",
+      "timestamp": "2026-10-20T19:41:57.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/pestizide-im-wasser-belastung-nach-schweizer-gemeinden-334006134627",
+      "headline": "Exklusive Daten: In diesen Schweizer Gemeinden ist das Grundwasser am stärksten mit Pestiziden belastet",
+      "timestamp": "2026-10-20T03:52:00.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/ki-an-schulen-schlechte-noten-fuer-kinder-die-chatbots-nutzen-837992981027",
+      "headline": "Neue Studien: Kinder, die nur mit KI lernen, schreiben deutlich schlechtere Prüfungen",
+      "timestamp": "2026-10-19T09:36:37.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/zoo-zuerich-warum-logos-immer-langweiliger-werden-197077112451",
+      "headline": "Zooh no!: «Seelenlos» und «austauschbar»: Warum viele Logos fast gleich aussehen",
+      "timestamp": "2026-10-13T03:45:00.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/wohnungen-zuerich-so-viel-teurer-wird-ihre-miete-beim-umzug-814070116189",
+      "headline": "Interaktive Stadtkarte: Sie wollen zügeln? So viel teurer wird Ihre Miete in Zürich",
+      "timestamp": "2026-10-07T04:00:56.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/gletscherschwund-2026-schweiz-verliert-5-5-des-eisvolumens-888960176645",
+      "headline": "1850 bis heute: «Das ist ein Zerfall der Gletscherlandschaft»: So schlimm war der Rekordsommer für die Eismassen",
+      "timestamp": "2026-10-01T04:00:00.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/hochschulranking-schweizer-universitaeten-verlieren-plaetze-590730658702",
+      "headline": "Internationaler Vergleich: Schweizer Hochschulen fallen zurück – aber Uni-Rankings sind auch umstritten",
+      "timestamp": "2026-09-30T08:08:36.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/praemien-2027-die-guenstigsten-krankenkassen-in-zuerich-540508510921",
+      "headline": "Prämien 2027: Das sind die günstigsten Krankenkassen in Zürich",
+      "timestamp": "2026-09-29T16:53:58.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/mieten-zuerich-in-welchem-quartier-sie-am-tiefsten-sind-556281218516",
+      "headline": "Preise nach Quartier: 3600 oder 2200 Franken: Wo Sie in Zürich wieviel Miete zahlen",
+      "timestamp": "2026-09-29T12:48:10.000Z"
+    },
     {
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/arbeitsmarkt-zuerich-wer-jobs-findet-und-wer-nicht-719874177167",

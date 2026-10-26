@@ -1,6 +1,1052 @@
 {
-  "lastUpdated": "2026-09-29T07:17:01.841Z",
+  "lastUpdated": "2026-10-26T12:12:01.026Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/nyc-budgeting-affordability-carter.html",
+      "headline": "How New York City’s ‘Furniture Queen’ Lives on $48,630 in the Bronx",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26affordingny-carter-promo/26affordingny-carter-03-gzqf-articleLarge.jpg",
+      "timestamp": "2026-10-26T09:02:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/opinion/midterms-pollsters-pundits-scorecard-october.html",
+      "headline": "Is a Blue Wave Coming? 6 Pollsters and Pundits Offer Their Best Guesses.",
+      "image": "https://static01.nyt.com/images/2026/10/26/opinion/26midterm-scorecard/26midterm-scorecard-articleLarge-v3.jpg",
+      "timestamp": "2026-10-26T09:02:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/world/americas/brazil-election-results-maps.html",
+      "headline": "How Lula Came Back",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/2026-10-02-brazil-election-index/2026-10-02-brazil-election-index-articleLarge-v21.jpg",
+      "timestamp": "2026-10-26T06:04:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/weather/in-fa-map-path-tracker.html",
+      "headline": "Tracking Typhoon In-fa",
+      "image": "https://static01.nyt.com/images/2026/10/23/weather/thirty-map-path-tracker-index/thirty-map-path-tracker-index-articleLarge-v10.jpg",
+      "timestamp": "2026-10-25T14:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s 10th Congressional District",
+      "timestamp": "2026-10-25T09:01:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s 10th Congressional District",
+      "timestamp": "2026-10-25T09:01:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa8-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Eighth Congressional District",
+      "timestamp": "2026-10-25T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa8-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Eighth Congressional District",
+      "timestamp": "2026-10-25T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa7-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Seventh Congressional District",
+      "timestamp": "2026-10-25T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa7-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Seventh Congressional District",
+      "timestamp": "2026-10-25T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s First U.S. House District",
+      "timestamp": "2026-10-25T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s First Congressional District",
+      "timestamp": "2026-10-25T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Polls of the Likely Electorate in Four Pennsylvania Congressional Races",
+      "timestamp": "2026-10-25T09:01:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Competitive U.S. House Races",
+      "timestamp": "2026-10-25T09:01:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/connecticut-us-house-5-polls-2026.html",
+      "headline": "Connecticut 5th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-24T22:45:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/24/us/politics/midterms-congress-house-district-map.html",
+      "headline": "See the Districts That Will Determine Control of the House",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-09-21-house-districts-highlight-map-index/2026-09-21-house-districts-highlight-map-index-articleLarge-v4.png",
+      "timestamp": "2026-10-24T09:04:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/kansas-us-house-2-polls-2026.html",
+      "headline": "Kansas 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-24T00:52:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/idaho-us-house-2-polls-2026.html",
+      "headline": "Idaho 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-23T19:47:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/23/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 24, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/flashback-promo-2026-10-24-6/flashback-promo-2026-10-24-6-articleLarge.jpg",
+      "timestamp": "2026-10-23T16:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/23/books/bookstores-nyc-chinatown-east-village.html",
+      "headline": "How to Spend a Bookish Afternoon in Chinatown, the Lower East Side & the East Village",
+      "image": "https://static01.nyt.com/images/2026/10/14/books/00TBR-BOOKCRAWL-LES-Rabbit-Books-1/13visualUploader-50754-articleLarge.jpg",
+      "timestamp": "2026-10-23T09:02:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html",
+      "headline": "Trump’s ‘Smart Wall’ of A.I. Cameras Is Watching the Border, and More Than a Million People",
+      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/border-towers-fvtg/border-towers-fvtg-articleLarge.jpg",
+      "timestamp": "2026-10-23T02:54:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/nyregion/new-york-at-work-broadway-swing.html",
+      "headline": "Who is the Understudy for the Understudies?",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/BROADWAY-SWING-TONED-promo/BROADWAY-SWING-TONED--zlmt-articleLarge-v3.jpg",
+      "timestamp": "2026-10-23T02:35:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/nyregion/new-york-at-work.html",
+      "headline": "New York at Work",
+      "image": "https://static01.nyt.com/images/2026/10/22/nyregion/00new-york-at-work/00new-york-at-work-articleLarge.jpg",
+      "timestamp": "2026-10-23T01:42:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/trump-golf-course-dc-east-potomac.html",
+      "headline": "What Trump’s Golf Course Plan Takes Away From D.C. Residents",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-10-19-golf-east-potomac-park-index/2026-10-19-golf-east-potomac-park-index-articleLarge-v4.jpg",
+      "timestamp": "2026-10-22T17:09:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/world/quake-tracker-china.html",
+      "headline": "Map: 7.0-Magnitude Earthquake Strikes China",
+      "image": "https://static01.nyt.com/images/2026/10/22/world/22wea-quake-tracker-china-nytbd9ie-v2-index/22wea-quake-tracker-china-nytbd9ie-v2-index-articleLarge-v9.jpg",
+      "timestamp": "2026-10-22T15:06:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/ice-shooting-phoenix.html",
+      "headline": "Why Did an ICE Officer Shoot This Man?",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/00-garcia-sorto-qjch/00-garcia-sorto-qjch-articleLarge.jpg",
+      "timestamp": "2026-10-22T09:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/business/media/ai-music-streaming-spotify-apple-music.html",
+      "headline": "Would You Listen to A.I. Music? Maybe You Already Do.",
+      "image": "https://static01.nyt.com/images/2026/10/20/business/2026-08-17-ai-music-index/2026-08-17-ai-music-index-articleLarge-v6.png",
+      "timestamp": "2026-10-22T09:04:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/opinion/focus-group-iowa-voters-midterms.html",
+      "headline": "Why More Than Half of These 13 Iowa Voters Are Considering Splitting Their Vote",
+      "image": "https://static01.nyt.com/images/2026/10/21/opinion/22-focus-group-iowa-voters-promo/-22-focus-group-iowa-voters-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-10-22T09:04:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/travel/things-to-do-kansas-city.html",
+      "headline": "36 Hours in Kansas City, Mo.",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22trav-hours-kansas-city-01-bmqj/22trav-hours-kansas-city-01-bmqj-articleLarge-v9.jpg",
+      "timestamp": "2026-10-22T09:03:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/us/inflation-prices-real-estate-child-care-affordabilty.html",
+      "headline": "Life Feeling Too Expensive? It’s Not Just You. And It’s Not Just Inflation.",
+      "image": "https://static01.nyt.com/images/2026/10/21/us/00-national-affording-still/00-national-affording-still-articleLarge.jpg",
+      "timestamp": "2026-10-22T01:09:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/books/emily-dickinson-poem-i-dwell-in-possibility.html",
+      "headline": "This Poem Will Hit You Where You Live",
+      "image": "https://static01.nyt.com/images/2026/10/16/books/00dickinson-poem-promo/00dickinson-poem-promo-articleLarge.jpg",
+      "timestamp": "2026-10-21T22:41:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/weather/subtropical-storm-josephine-map-path-tracker.html",
+      "headline": "Tracking Subtropical Storm Josephine",
+      "image": "https://static01.nyt.com/images/2026/10/21/weather/josephine-map-path-tracker-index/josephine-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-21T21:10:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/weather/tropical-storm-vance-hurricane-map-path.html",
+      "headline": "Tracking Tropical Storm Vance",
+      "image": "https://static01.nyt.com/images/2026/10/21/weather/twenty-two-e-map-path-tracker-index/twenty-two-e-map-path-tracker-index-articleLarge-v4.jpg",
+      "timestamp": "2026-10-21T20:47:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-21-polls-2026.html",
+      "headline": "Florida 21st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-21T15:28:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate",
+      "timestamp": "2026-10-21T08:58:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-rv-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of Registered Voters",
+      "timestamp": "2026-10-21T08:57:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of Registered Voters",
+      "timestamp": "2026-10-21T08:56:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/20/world/americas/venezuela-public-housing-flawed-construction-earthquakes.html",
+      "headline": "How Venezuela’s Public Housing Towers Were Built to Fail",
+      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/2026-08-21-venezuela-opppe-structures-index/2026-08-21-venezuela-opppe-structures-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-20T17:33:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/20/nyregion/cornell-jane-doe-letter.html",
+      "headline": "Jane Doe says she did not feel supported by Cornell’s president.",
+      "image": "https://static01.nyt.com/images/2026/10/20/doc-jane-doe-cornell-facultyr-promo/doc-jane-doe-cornell-facultyr-promo-articleLarge.png",
+      "timestamp": "2026-10-20T14:11:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/missouri-congressional-map-referendum-polls-2026.html",
+      "headline": "Missouri Congressional Map Referendum 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-19T15:26:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/19/nyregion/nyc-budgeting-affordability-dufont.html",
+      "headline": "How a Comedian and Production Assistant Lives on $30,000 in Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/10/14/nyregion/00met-affordingny-dufont-promo/00met-affordingny-dufont-articleLarge.jpg",
+      "timestamp": "2026-10-19T09:03:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/us/oj-simpson-joey-ippolito-memo.html",
+      "headline": "Read the Letter Detailing Joey Ippolito’s Tips About Mafia, O.J. Simpson",
+      "image": "https://static01.nyt.com/images/2026/10/16/doc-ippolito-sentencing-memo-promo/doc-ippolito-sentencing-memo-promo-articleLarge.png",
+      "timestamp": "2026-10-18T09:45:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/us/trump-immigrant-visas-decline.html",
+      "headline": "Legal Immigration Fell Sharply Under Trump Policies Adopted Early This Year",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-08-10-legal-immigration-ban-index/2026-08-10-legal-immigration-ban-index-articleLarge-v10.png",
+      "timestamp": "2026-10-18T09:00:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/world/americas/brazil-election-amazon-deforestation.html",
+      "headline": "Why the Future of the Amazon Could Depend on Brazil’s Election",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-08-brazil-elections-amazon-index/2026-10-08-brazil-elections-amazon-index-articleLarge-v9.jpg",
+      "timestamp": "2026-10-18T09:00:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/17/world/europe/ukraine-russia-war-drones-kill-zone.html",
+      "headline": "This Is the Kill Zone",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/2026-05-13-ukraine-kill-zone-index/2026-05-13-ukraine-kill-zone-index-articleLarge-v6.jpg",
+      "timestamp": "2026-10-17T09:01:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/17/nyregion/routine-laurie-tisch.html",
+      "headline": "How the Billionaire Owner of Two Sports Teams Spends a Day Chasing Wins",
+      "image": "https://static01.nyt.com/images/2026/10/25/nyregion/25met-routine-laurie-tisch-01-chfl/met-routine-laurie-tisch-01-chfl-articleLarge.jpg",
+      "timestamp": "2026-10-17T07:00:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/16/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 17, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/flashback-promo-2026-10-17-6/flashback-promo-2026-10-17-6-articleLarge.jpg",
+      "timestamp": "2026-10-16T16:10:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/us/politics/noncitizen-voting-data.html",
+      "headline": "How Claims of Widespread Noncitizen Voting Fall Apart",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-09-29-election-noncitizen-voting-index/2026-09-29-election-noncitizen-voting-index-articleLarge.jpg",
+      "timestamp": "2026-10-15T23:01:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-mexico-us-house-3-polls-2026.html",
+      "headline": "New Mexico 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-15T17:06:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-mexico-us-house-1-polls-2026.html",
+      "headline": "New Mexico 1st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-15T17:02:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/weather/champi-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Champi",
+      "image": "https://static01.nyt.com/images/2026/10/14/weather/twentynine-map-path-tracker-index/twentynine-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-10-15T15:12:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/upshot/ai-data-center-math.html",
+      "headline": "What Are Data Centers Doing? A Mind-Boggling Amount of Math.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/2026-09-28-ai-math-explainer-index/2026-09-28-ai-math-explainer-index-articleLarge-v2.png",
+      "timestamp": "2026-10-15T14:53:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/travel/things-to-do-tunis.html",
+      "headline": "36 Hours in Tunis",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/things-to-do-tunis-qpjc/things-to-do-tunis-qpjc-articleLarge-v3.jpg",
+      "timestamp": "2026-10-15T09:04:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/us/farmers-market-prices.html",
+      "headline": "Why Are Food Prices So High? Ask the Farmers Market Vendors.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15nat-farmers-market-costs-wghm/15nat-farmers-market-costs-wghm-articleLarge.jpg",
+      "timestamp": "2026-10-15T09:00:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/rhode-island-us-house-1-polls-2026.html",
+      "headline": "Rhode Island 1st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-14T21:50:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/magazine/yosemite-climbing-dad-east-buttress.html",
+      "headline": "Processing My Father’s Death by Climbing in His Footsteps",
+      "image": "https://static01.nyt.com/images/2026/09/25/magazine/25mag-Yosemite-04/25mag-Yosemite-04-articleLarge.jpg",
+      "timestamp": "2026-10-14T19:50:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/opinion/black-lawmakers-gerrymandering-supreme-court.html",
+      "headline": "These Six Black Lawmakers Have a Warning",
+      "image": "https://static01.nyt.com/images/2026/10/15/opinion/15opvid-gerrymandering-image/15opvid-gerrymandering-image-articleLarge-v2.png",
+      "timestamp": "2026-10-14T19:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/us/senate-letter-to-meta-on-research-tax-credit.html",
+      "headline": "Senators’ Letter to Meta",
+      "image": "https://static01.nyt.com/images/2026/10/14/doc-letter-to-meta-on-tax-cre-promo/doc-letter-to-meta-on-tax-cre-promo-articleLarge.png",
+      "timestamp": "2026-10-14T14:54:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/opinion/ebola-spread-africa-outbreak.html",
+      "headline": "I’ve Worked in Congo for Decades. I’ve Never Seen an Ebola Crisis Like This.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14kerr-promo-hvpg/14kerr-promo-hvpg-articleLarge.jpg",
+      "timestamp": "2026-10-14T09:03:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/weather/trudy-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Trudy",
+      "image": "https://static01.nyt.com/images/2026/10/13/weather/twenty-one-e-map-path-tracker-index/twenty-one-e-map-path-tracker-index-articleLarge-v6.jpg",
+      "timestamp": "2026-10-13T22:30:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/magazine/billionaire-wealth-tax-proposition-40.html",
+      "headline": "Why Is It So Hard to Tax the Ultra-Rich?",
+      "image": "https://static01.nyt.com/images/2026/10/14/magazine/14MAG-billionairesgfx-promostill/14MAG-billionairesgfx-promostill-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T20:56:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/georgia-us-house-3-polls-2026.html",
+      "headline": "Georgia 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-13T19:46:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/us/politics/midterm-election-michigan-el-sayed-rogers-debate.html",
+      "headline": "One Debate, Two Realities",
+      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/2026-10-08-pol-debate-worlds-index/2026-10-08-pol-debate-worlds-index-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:03:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/opinion/midterm-elections-trump-integrity.html",
+      "headline": "How Safe Is the Vote?",
+      "image": "https://static01.nyt.com/images/2026/09/29/opinion/00electionthreats/00electionthreats-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:02:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/opinion/ai-rules-regulations.html",
+      "headline": "Driver, Chatbot, Talking Bear: How Should We Interact With A.I.?",
+      "image": "https://static01.nyt.com/images/2026/10/13/opinion/13quiz/13quiz-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:02:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/12/world/middleeast/israel-lebanon-destruction.html",
+      "headline": "Israel’s Destruction of Southern Lebanon Intensified After the Cease-Fire",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-09-01-southern-lebanon-destruction-index/2026-09-01-southern-lebanon-destruction-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-12T09:49:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/12/nyregion/nyc-budgeting-affordability-crist.html",
+      "headline": "How a Book Editor Lives on $74,000 in Carroll Gardens, Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12met-affording-bookeditor-promo/12met-affording-bookeditor-01-tvqm-articleLarge.jpg",
+      "timestamp": "2026-10-12T09:02:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/10/magazine/steffen-skjottelvik-canada-journey-death.html",
+      "headline": "He Went Out on an Epic Wilderness Adventure. Only His Dogs Came Back.",
+      "image": "https://static01.nyt.com/images/2026/10/18/magazine/18mag-Skjottelvik-02/18mag-Skjottelvik-02-articleLarge-v2.jpg",
+      "timestamp": "2026-10-10T17:51:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/10/realestate/grace-coddington-hamptons-home-tour.html",
+      "headline": "Inside Grace Coddington’s Cozy and ‘Very Catty’ East Hampton Retreat",
+      "image": "https://static01.nyt.com/images/2026/10/10/realestate/grace-coddington-hamptons-home-tour-1791587341212/grace-coddington-hamptons-home-tour-1791587341212-articleLarge.jpg",
+      "timestamp": "2026-10-10T09:01:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/midterm-elections-early-voting-tracker-battleground-states.html",
+      "headline": "Tracking the Early Vote in the 2026 Midterm Elections",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00EA-EARLY-VOTE-TRACKER-PROMO-lvqt/00EA-EARLY-VOTE-TRACKER-PROMO-lvqt-articleLarge.jpg",
+      "timestamp": "2026-10-09T18:20:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/world/americas/earthquake-tracker-panama.html",
+      "headline": "Map: Large Earthquake Shakes Panama",
+      "image": "https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-articleLarge-v8.jpg",
+      "timestamp": "2026-10-09T18:16:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 10, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/flashback-promo-2026-10-10-6/flashback-promo-2026-10-10-6-articleLarge.jpg",
+      "timestamp": "2026-10-09T15:58:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-us-house-4-polls-2026.html",
+      "headline": "Colorado 4th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-09T13:56:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/us/politics/tiktok-texas-senate-talarico-paxton-midterms.html",
+      "headline": "On Texas TikTok, It’s All About Talarico",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-17-pol-tiktok-24-index/2026-09-17-pol-tiktok-24-index-articleLarge.jpg",
+      "timestamp": "2026-10-09T12:39:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/us/politics/trump-elections-results-doubt-midterms.html",
+      "headline": "Trump Has Cast Doubt on Elections on 440 Days in His Second Term",
+      "image": "https://static01.nyt.com/images/2026/10/08/us/trump-doubt-static-promo-sowing-doubt/trump-doubt-static-promo-sowing-doubt-articleLarge-v6.jpg",
+      "timestamp": "2026-10-09T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/us/elections/senate-races-midterms-battleground-states.html",
+      "headline": "This Is the Senate Battleground. Map Your Path to the Majority.",
+      "image": "https://static01.nyt.com/images/2026/10/08/08visualUploader-19225-cover/08visualUploader-19225-cover-articleLarge.jpg",
+      "timestamp": "2026-10-08T22:11:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/magazine/farm-raised-fish-aquaculture-overfishing.html",
+      "headline": "The Dirty Secret Behind the Farmed Fish You Eat",
+      "image": "https://static01.nyt.com/images/2026/10/25/magazine/25mag-fishmeal/25mag-fishmeal-articleLarge.jpg",
+      "timestamp": "2026-10-08T21:39:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/nyregion/maduro-indictment-torture-document.html",
+      "headline": "Prosecutors say Maduro used torture to hold on to power in Venezuela.",
+      "image": "https://static01.nyt.com/images/2026/10/08/doc-maduroindictmenttorture-promo/doc-maduroindictmenttorture-promo-articleLarge.png",
+      "timestamp": "2026-10-08T15:06:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/well/breast-cancer-quiz-risk-treatment-mutations.html",
+      "headline": "It’s the Most Common Cancer in Women. How Much Do You Know About It?",
+      "image": "https://static01.nyt.com/images/2026/10/06/well/8Well-BCancer-Quiz-03-promo/8Well-BCancer-Quiz-03-articleLarge.jpg",
+      "timestamp": "2026-10-08T09:03:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/travel/things-to-do-finger-lakes.html",
+      "headline": "36 Hours in the Finger Lakes, N.Y.",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/things-to-do-finger-lakes-01-bzwf/things-to-do-finger-lakes-01-bzwf-articleLarge.jpg",
+      "timestamp": "2026-10-08T09:03:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/opinion/los-angeles-mayor-election.html",
+      "headline": "Who Should Be Los Angeles’s Next Mayor?",
+      "image": "https://static01.nyt.com/images/2026/10/08/opinion/08choice-la-mayor-general-promo-still/08choice-la-mayor-general-promo-still-articleLarge-v2.jpg",
+      "timestamp": "2026-10-08T09:03:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html",
+      "headline": "This Photo Is an A.I. Fake. Can You Tell?",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-15-ai-look-close-index/2026-09-15-ai-look-close-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-08T09:02:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/07/your-money/college-degree-earnings-guide.html",
+      "headline": "A College-by-College Guide to Which Majors Pay Off — or Don’t",
+      "timestamp": "2026-10-08T01:56:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/07/weather/simon-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Simon",
+      "image": "https://static01.nyt.com/images/2026/10/07/weather/twenty-e-map-path-tracker-index/twenty-e-map-path-tracker-index-articleLarge-v7.jpg",
+      "timestamp": "2026-10-07T20:54:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/weather/tropical-storm-isaias-hurricane-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Nine",
+      "image": "https://static01.nyt.com/images/2026/10/06/weather/nine-map-path-tracker-index/nine-map-path-tracker-index-articleLarge-v8.jpg",
+      "timestamp": "2026-10-06T21:00:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/world/middleeast/yemen-houthis-reconstruct.html",
+      "headline": "How the Houthis Triumphed on the Red Sea and Sparked a New War in Yemen",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-28-houthis-offensive-index/2026-09-28-houthis-offensive-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-06T18:01:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/upshot/quiz-faces-history.html",
+      "headline": "Quiz: Can You Name 16 Iconic Figures From History?",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/2026-07-13-175-historical-faces-index/2026-07-13-175-historical-faces-index-articleLarge.jpg",
+      "timestamp": "2026-10-06T16:08:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/weather/koguma-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Koguma",
+      "image": "https://static01.nyt.com/images/2026/10/05/weather/koguma-map-path-tracker-index/koguma-map-path-tracker-index-articleLarge-v6.jpg",
+      "timestamp": "2026-10-06T14:22:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/upshot/data-center-scale.html",
+      "headline": "What the Data Center Boom Looks Like From the Sky",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/2026-08-19-data-center-scale-index/2026-08-19-data-center-scale-index-articleLarge-v2.jpg",
+      "timestamp": "2026-10-06T00:18:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/technology/ai-slop-food-images-restaurant-menus.html",
+      "headline": "Why A.I. Food Slop Looks So Gross",
+      "image": "https://static01.nyt.com/images/2026/09/30/world/oakImage-1790804262225-promo/oakImage-1790804262225-articleLarge.jpg",
+      "timestamp": "2026-10-05T23:11:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/us/politics/trump-free-speech-fence-lafayette-park.html",
+      "headline": "Inside Trump’s Plan to Fence Off a Historic Protest Site",
+      "timestamp": "2026-10-05T21:53:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/nyregion/nyc-budgeting-affordability-bendul.html",
+      "headline": "How a Dancer Lives on $13,500 in East Harlem",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05met-affording-bendul-promo/05met-affording-bendul-01-glqt-articleLarge.jpg",
+      "timestamp": "2026-10-05T09:03:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/upshot/10-minute-challenge-van-der-geest.html",
+      "headline": "10-Minute Challenge: 43 Paintings in One",
+      "image": "https://static01.nyt.com/images/2026/10/05/upshot/up-van-der-geest-home-page/up-van-der-geest-07-articleLarge.jpg",
+      "timestamp": "2026-10-04T22:58:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/us/elections/gerontocracy.html",
+      "headline": "Voters Say Congress Is Too Old. But Older Candidates Keep Winning.",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-09-02-gerentocracy-index/2026-09-02-gerentocracy-index-articleLarge-v3.png",
+      "timestamp": "2026-10-04T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-10-03T08:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-10-03T08:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Kansas",
+      "timestamp": "2026-10-03T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Kansas",
+      "timestamp": "2026-10-03T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "timestamp": "2026-10-03T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "timestamp": "2026-10-03T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-10-03T08:58:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-10-03T08:58:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-10-03T08:58:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-10-03T08:58:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/02/arts/television/best-tv-series-quiz.html",
+      "headline": "How Well Do You Know the Best TV Shows of the 21st Century?",
+      "image": "https://static01.nyt.com/images/2026/09/27/arts/tvquiz-static/tvquiz-static-articleLarge.jpg",
+      "timestamp": "2026-10-02T21:44:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/02/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 3, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/flashback-promo-2026-10-03-6/flashback-promo-2026-10-03-6-articleLarge.jpg",
+      "timestamp": "2026-10-02T17:06:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/02/us/nat-ufo-flying-objects-map.html",
+      "headline": "Read One of the Recently Released U.F.O. Documents",
+      "image": "https://static01.nyt.com/images/2026/09/29/doc-dow-uap-d078notional-mapw-promo/doc-dow-uap-d078notional-mapw-promo-articleLarge.png",
+      "timestamp": "2026-10-02T14:05:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/reader-votes-tv-shows-21st-century.html",
+      "headline": "The Best TV Shows of the 21st Century: Readers Choose Their Top Shows",
+      "image": "https://static01.nyt.com/images/2026/09/30/arts/best-tv-reader-ballot/best-tv-reader-ballot-articleLarge.jpg",
+      "timestamp": "2026-10-02T09:03:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/utah-us-house-4-polls-2026.html",
+      "headline": "Utah 4th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-02T00:26:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/utah-us-house-3-polls-2026.html",
+      "headline": "Utah 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-02T00:24:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/texas-us-house-10-polls-2026.html",
+      "headline": "Texas 10th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-02T00:21:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/01/books/state-of-libraries-librarians.html",
+      "headline": "Forget the Shushing. Librarians Have a Whole Lot to Say.",
+      "image": "https://static01.nyt.com/images/2026/10/02/books/state-of-libraries-librarians-1790881515642/state-of-libraries-librarians-1790881515642-articleLarge.jpg",
+      "timestamp": "2026-10-01T19:46:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/01/travel/things-to-do-vancouver.html",
+      "headline": "36 Hours in Vancouver, British Columbia",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01trav-hours-vancouver-pkht/01trav-hours-vancouver-pkht-articleLarge-v3.jpg",
+      "timestamp": "2026-10-01T09:03:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/30/nyregion/canal-street-redesign-nyc-traffic.html",
+      "headline": "Timeless, Infamous, Alive: Walking Canal Street",
+      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/00met-canal-st-dog-qbht/00met-canal-st-dog-qbht-articleLarge.jpg",
+      "timestamp": "2026-09-30T22:30:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/30/weather/choi-wan-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Choi-wan",
+      "image": "https://static01.nyt.com/images/2026/09/30/weather/twentysix-map-path-tracker-index/twentysix-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-30T20:32:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/us/facebook-2025-05-300041motion-for-partial-summary-judgment.html",
+      "headline": "Facebook v. IRS",
+      "image": "https://static01.nyt.com/images/2026/09/29/doc-facebook-2025-05-300041mo-promo/doc-facebook-2025-05-300041mo-promo-articleLarge.png",
+      "timestamp": "2026-09-29T22:01:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/us/quake-tracker-washington-seattle.html",
+      "headline": "Map: 4.2-Magnitude Earthquake Strikes Near Seattle",
+      "image": "https://static01.nyt.com/images/2026/09/29/world/29wea-quake-tracker-washington-nyt4qdpr-v2-index/29wea-quake-tracker-washington-nyt4qdpr-v2-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-29T21:55:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html",
+      "headline": "Will A.I. Make Your Brain Lazy? Here’s What the New Research Actually Shows.",
+      "image": "https://static01.nyt.com/images/2026/09/29/arts/Comp-1_00000/Comp-1_00000-articleLarge.jpg",
+      "timestamp": "2026-09-29T20:34:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/business/iran-war-hormuz-asia-oil-gas.html",
+      "headline": "How Asia Has Survived the Energy Crisis",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/2026-06-04-iran-asia-oil-index/2026-06-04-iran-asia-oil-index-articleLarge-v10.png",
+      "timestamp": "2026-09-29T08:54:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

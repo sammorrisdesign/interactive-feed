@@ -1,6 +1,54 @@
 {
-  "lastUpdated": "2026-09-23T07:17:29.890Z",
+  "lastUpdated": "2026-10-25T09:02:16.578Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/von-trump-bis-milei-wer-den-bolsonaros-nahesteht-ld.10043485",
+      "headline": "Von Trump bis Milei: Wer den Bolsonaros nahesteht",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/24/a4753ac0-9e26-4b41-be3f-9d380824b6e0.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1200,675,x0,y113&wmark=nzz",
+      "timestamp": "2026-10-25T04:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/russischer-satellit-verfolgt-us-satelliten-die-rekonstruktion-ld.10039194",
+      "headline": "Verfolgungsjagd im All: Russischer Militärsatellit riskiert eine Kollision mit einem US-Satelliten",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/23/5f7e824c-bdaf-4a70-94f4-8e7004a9ce60.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1885,1060,x18,y10&wmark=nzz",
+      "timestamp": "2026-10-24T10:00:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-entstand-leben-auf-der-erde-eine-bisher-unbekannte-geschichte-ld.10018926",
+      "headline": "Es begann auf dem Meeresgrund. Die bisher unbekannte Geschichte des Lebens",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/10/aa62b288-f9f9-4a9d-9065-2e6187dfe70f.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-10-22T12:21:04.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/angriffe-auf-ein-nadeloehr-russland-nimmt-kiews-bruecken-ins-visier-ld.10034659",
+      "headline": "Angriffe auf ein Nadelöhr: Russland nimmt Kiews Brücken ins Visier",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/17/d33e3632-a84b-4e2f-9970-c29355d89824.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3817,2147,x140,y0&wmark=nzz",
+      "timestamp": "2026-10-18T03:30:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-stadt-rafah-gibt-es-nicht-mehr-ld.10027308",
+      "headline": "Die Stadt Rafah gibt es nicht mehr",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/08/e4b83fe9-5daf-4a46-a13f-235f69c32b77.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y225&wmark=nzz",
+      "timestamp": "2026-10-11T07:12:24.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-schweiz-verbindungen-von-ex-bnd-chef-august-hanning-ld.10028037",
+      "headline": "Die Schweiz-Verbindungen des Ex-BND-Chefs August Hanning",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/08/895c696a-7730-4ca2-9f1d-35220d7be0a1.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3808,2142,x16,y9&wmark=nzz",
+      "timestamp": "2026-10-09T13:56:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

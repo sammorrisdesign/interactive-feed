@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-09-21T20:45:58.647Z",
+  "lastUpdated": "2026-10-16T18:54:08.899Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/14/texas-data-centers-water-use-penalties-enforcement/",
+      "headline": "Despite tough talk from Abbott and Paxton, Texas penalties for data center violations are light",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/20260910-RNC-Abbott-MS-02.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-10-14T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/08/texas-affordability-voter-guide-elections-cost-of-living/",
+      "headline": "How Texas candidates plan to lower the cost of gas, groceries and housing",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/conveyor-still-scaled.png?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-10-08T10:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/08/texas-rural-public-schools-charter-growth-struggle/",
+      "headline": "When a rural Texas school district struggled with growth, charter schools filled the void",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/20261005-Cleveland-ISD-AM-04-full.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-10-08T16:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/06/texas-2026-elections-competitive-races-us-congress-state-legislature/",
+      "headline": "These are the most competitive November races and where they are up and down Texas’ midterm ballot",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/hotlist-ideas-7-12-scaled.png?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-10-06T10:00:00.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "blueSkyHandle": "texastribune.bsky.social",

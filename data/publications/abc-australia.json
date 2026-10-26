@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-09-29T07:17:01.789Z",
+  "lastUpdated": "2026-10-23T21:50:08.634Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-24/watch-floodwaters-swallow-four-wheel-drive-in-six-minutes/107302040",
+      "headline": "It took less than six minutes for this 4WD to sink out of sight",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0f0f23f99505c5e5ee78808b61dffa12?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=240&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-threats-to-politicians/107286670",
+      "headline": "Threats up fourfold before Helen Haines attack",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4cbed21e7fa4e3730665e9d3fefcd544?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+      "headline": "Soaring AI stocks create lopsided US economy",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4c25fdf2d637dc1c52110f19574366f9?impolicy=wcms_crop_resize&cropH=672&cropW=895&xPos=114&yPos=41&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-02/former-minister-de-anne-kelly-co-founded-offshore-casino/107197106",
+      "headline": "Former federal minister De-Anne Kelly revealed as co-founder of offshore casino",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3d9dffacd99e8b4b842b029ea3d8a242?impolicy=wcms_crop_resize&cropH=1025&cropW=1367&xPos=280&yPos=121&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048",
+      "headline": "Falling through the air in minutes: How the flydubai incident unfolded",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3ed6ca997c5f1ce14dac45ace5c17600?impolicy=wcms_crop_resize&cropH=594&cropW=792&xPos=48&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

@@ -1,6 +1,2592 @@
 {
-  "lastUpdated": "2026-09-29T07:17:06.222Z",
+  "lastUpdated": "2026-10-26T12:12:09.940Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/markets/deals/tesla-vs-spacex-how-two-musk-companies-compare-they-weigh-merger-2026-10-26/",
+      "headline": "Tesla vs SpaceX: how the two Musk companies compare as they weigh merger",
+      "image": "https://www.reuters.com/resizer/v2/MKZJPQS36NDCPBV6NEKIKSEKHU.jpg?auth=9fcdd3509e6090cdf07935bf617305b61f463238b5f2a9838790f71be84dff01&width=1200&quality=80",
+      "timestamp": "2026-10-26T11:11:11.602Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/nyc-budgeting-affordability-carter.html",
+      "headline": "How New York City’s ‘Furniture Queen’ Lives on $48,630 in the Bronx",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26affordingny-carter-promo/26affordingny-carter-03-gzqf-articleLarge.jpg",
+      "timestamp": "2026-10-26T09:02:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/opinion/midterms-pollsters-pundits-scorecard-october.html",
+      "headline": "Is a Blue Wave Coming? 6 Pollsters and Pundits Offer Their Best Guesses.",
+      "image": "https://static01.nyt.com/images/2026/10/26/opinion/26midterm-scorecard/26midterm-scorecard-articleLarge-v3.jpg",
+      "timestamp": "2026-10-26T09:02:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/world/americas/brazil-election-results-maps.html",
+      "headline": "How Lula Came Back",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/2026-10-02-brazil-election-index/2026-10-02-brazil-election-index-articleLarge-v21.jpg",
+      "timestamp": "2026-10-26T06:04:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/wohnungsnot-schweiz-23-der-einfamilienhaeuser-unterbelegt-999626553432",
+      "headline": "Neue Daten zum Immomarkt: Zwei Drittel aller Einfamilienhäuser sind unterbelegt – wie sieht es in Ihrer Gemeinde aus?",
+      "timestamp": "2026-10-26T05:07:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/brazil-election-2026-live-second-round-results",
+      "headline": "Brazil election 2026: Live second round results",
+      "image": "https://i.guim.co.uk/img/media/27cf0f75664744a7e5011e058a7d77262fc7dc20/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0b5acc607fdbf54d7229640a21ccd3e5",
+      "timestamp": "2026-10-25T19:37:49.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/ccsf-chancellor-timeline/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31379916/1/rawImage.jpg",
+      "timestamp": "2026-10-25T17:56:08.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/weather/in-fa-map-path-tracker.html",
+      "headline": "Tracking Typhoon In-fa",
+      "image": "https://static01.nyt.com/images/2026/10/23/weather/thirty-map-path-tracker-index/thirty-map-path-tracker-index-articleLarge-v10.jpg",
+      "timestamp": "2026-10-25T14:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/26/dirt-cheap-welcome-to-the-delightful-queensland-town-that-cant-seem-to-give-land-away",
+      "headline": "Dirt cheap: welcome to the delightful Queensland town that can’t seem to give land away",
+      "image": "https://i.guim.co.uk/img/media/9536ca4938952087fb4dae3d5baa2df6fec72ce1/0_2307_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b7583e65435607034aa65c1d1c58ed6",
+      "timestamp": "2026-10-25T14:00:06.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/democrats-california-shasta-county-trump",
+      "headline": "FDR made it a blue bastion – now it’s Trump’s stronghold in California. Is it forever lost?",
+      "image": "https://i.guim.co.uk/img/media/8d482c44395d172442eaf5ae72440571139c5812/0_917_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=be78f52a9e879d55c4e1c15ba3ad78ed",
+      "timestamp": "2026-10-25T13:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/media/ng-interactive/2026/oct/25/inside-trumps-head-podcast",
+      "headline": "They wallow in Trump gunk 24/7. They say it’s necessary",
+      "image": "https://i.guim.co.uk/img/media/faddd28993ee6746fd5d3a361975b6ef24eb485d/214_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8054bdc0c50e5b6b6eb1d16ee94dd29c",
+      "timestamp": "2026-10-25T12:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/comedy-routine-deportation-ireland-woman-",
+      "headline": "This comedian jokes about deportation from Ireland … but it is happening for real",
+      "image": "https://i.guim.co.uk/img/media/5bbbccfc1aa0a68c0de01ecb9bd87b12e7162432/126_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=661e6e9ff888d97ab5a218bc0c956e52",
+      "timestamp": "2026-10-25T12:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/james-blair-trump-strategist-midterms-republicans",
+      "headline": "‘Brilliant James’ helped return Trump to the White House. Can he conquer the midterms?",
+      "image": "https://i.guim.co.uk/img/media/82681ef39662ec2eb00080948b8b383754f54427/367_0_5399_4320/master/5399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b58106ac3ba8ac8ab0fc5a20504613b3",
+      "timestamp": "2026-10-25T11:00:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s 10th Congressional District",
+      "timestamp": "2026-10-25T09:01:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa10-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s 10th Congressional District",
+      "timestamp": "2026-10-25T09:01:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa8-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Eighth Congressional District",
+      "timestamp": "2026-10-25T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa8-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Eighth Congressional District",
+      "timestamp": "2026-10-25T09:01:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa7-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Seventh Congressional District",
+      "timestamp": "2026-10-25T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa7-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Seventh Congressional District",
+      "timestamp": "2026-10-25T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s First U.S. House District",
+      "timestamp": "2026-10-25T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa1-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s First Congressional District",
+      "timestamp": "2026-10-25T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Inquirer/Siena Polls of the Likely Electorate in Four Pennsylvania Congressional Races",
+      "timestamp": "2026-10-25T09:01:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/25/polls/times-siena-pa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Inquirer/Siena Poll of the Likely Electorate in Pennsylvania’s Competitive U.S. House Races",
+      "timestamp": "2026-10-25T09:01:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/25/ten-days-shake-world-democratic-norms-pivotal-elections-brazil-israel-serbia-us",
+      "headline": "Ten days that could shake the world: democratic norms at stake in four pivotal elections ",
+      "image": "https://i.guim.co.uk/img/media/1b0c3162c6dbfdcf8306aec9a1ad21b9033c2ddf/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ddc4bbec644fe7e79aeb64a73b7f9062",
+      "timestamp": "2026-10-25T07:00:56.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/25/how-cocaine-conquered-the-uk-inside-britains-pubs-festivals-and-workplaces-the-drug-has-become-an-everyday-habit",
+      "headline": "How cocaine conquered the UK: in pubs, festivals and workplaces the drug has become an everyday habit ",
+      "image": "https://i.guim.co.uk/img/media/59954386324df73a35c61fcd9c94405799dd0d14/0_774_3438_2750/master/3438.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e19b2b6b10b9be5cab6203c9a0816b4f",
+      "timestamp": "2026-10-25T07:00:55.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/25/thats-the-way-the-city-works-how-the-uae-changed-the-face-of-andy-burnhams-manchester",
+      "headline": "‘That’s the way the city works’: how the UAE changed the face of Andy Burnham’s Manchester",
+      "image": "https://i.guim.co.uk/img/media/5d18e78d301848ee476161295fad0e090dc4951a/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=096414320a87410e796e5ef8b775caed",
+      "timestamp": "2026-10-25T06:00:54.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/von-trump-bis-milei-wer-den-bolsonaros-nahesteht-ld.10043485",
+      "headline": "Von Trump bis Milei: Wer den Bolsonaros nahesteht",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/24/a4753ac0-9e26-4b41-be3f-9d380824b6e0.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1200,675,x0,y113&wmark=nzz",
+      "timestamp": "2026-10-25T04:30:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/10/25/what-east-potomac-park-hains-point-have-meant-people-who-live-dc/",
+      "headline": "What East Potomac Park has meant to people who live in Washington",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/27DMK4RI55AZ7B2RD5JL63NJNU.JPG&w=300",
+      "timestamp": "2026-10-25T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/connecticut-us-house-5-polls-2026.html",
+      "headline": "Connecticut 5th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-24T22:45:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/lifestyle/fear-factory-2026-10-23/",
+      "headline": "Inside Hollywood's Fear Factory",
+      "image": "https://www.reuters.com/resizer/v2/3QVJ6VDLQRD5FNEQFPR72CC3PM.png?auth=2c35efc6215050410a5561102ff6fcd781ec5f6b2164c9ed399bfd916f22c307&width=1200&quality=80",
+      "timestamp": "2026-10-24T18:21:21.152Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-october-23/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-10-24T17:47:19.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/25/kati-thanda-lake-eyre-transformed-green-rainfall",
+      "headline": "Outback kaleidoscope: Australia’s fabled desert lake bursts to life in rare sight",
+      "image": "https://i.guim.co.uk/img/media/29e2efd16299ade89794a6c899121e71bf4d5290/286_0_6503_5205/master/6503.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ec191c0d6b1fdd3369992b1cb6c90298",
+      "timestamp": "2026-10-24T14:00:34.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/russischer-satellit-verfolgt-us-satelliten-die-rekonstruktion-ld.10039194",
+      "headline": "Verfolgungsjagd im All: Russischer Militärsatellit riskiert eine Kollision mit einem US-Satelliten",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/23/5f7e824c-bdaf-4a70-94f4-8e7004a9ce60.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1885,1060,x18,y10&wmark=nzz",
+      "timestamp": "2026-10-24T10:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/24/us/politics/midterms-congress-house-district-map.html",
+      "headline": "See the Districts That Will Determine Control of the House",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-09-21-house-districts-highlight-map-index/2026-09-21-house-districts-highlight-map-index-articleLarge-v4.png",
+      "timestamp": "2026-10-24T09:04:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/24/jd-vance-trump-midterms-white-house",
+      "headline": "Vance front and center in Republican midterms push – is this a dry run for a White House bid?",
+      "image": "https://i.guim.co.uk/img/media/c644a0871c76102cddb303d63fdfe9d61cd01e79/421_0_3113_2491/master/3113.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=642d72d1c1d1640dcbec5ce1a8ced090",
+      "timestamp": "2026-10-24T09:00:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/24/divided-israel-election-benjamin-netanyahu",
+      "headline": "As a divided Israel prepares to go to the polls, can Netanyahu pull off his greatest political trick yet?",
+      "image": "https://i.guim.co.uk/img/media/27cc759533b8f9f2e3ae4c0fb41773150fc0ecaa/0_900_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ae6db4e2097ab33ceffb6c639f74b4a9",
+      "timestamp": "2026-10-24T05:00:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/kansas-us-house-2-polls-2026.html",
+      "headline": "Kansas 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-24T00:52:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/travel/interactive/2026/10/24/route-66-turns-100-we-road-tripped-through-all-its-kitsch-glory/",
+      "headline": "Route 66 turns 100. We road-tripped through all its kitsch.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/BJC5B2S3BXWAC4F6HTXF74OOGU.JPG&w=300",
+      "timestamp": "2026-10-24T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/idaho-us-house-2-polls-2026.html",
+      "headline": "Idaho 2nd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-23T19:47:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/23/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 24, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/23/multimedia/flashback-promo-2026-10-24-6/flashback-promo-2026-10-24-6-articleLarge.jpg",
+      "timestamp": "2026-10-23T16:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/23/jesse-kelly-conservative-radio-trump",
+      "headline": "Being pro-Trump has been ‘easy radio’ for conservative hosts like Jesse Kelly. Those days are ending.",
+      "image": "https://i.guim.co.uk/img/media/d43f33ef5fbcff3111cf7614de4ad78e6c985a34/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c55d7037b458a0bc3fa2f91d39e6b9c1",
+      "timestamp": "2026-10-23T14:00:29.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/23/glacier-loss-climate-crisis-west",
+      "headline": "The US west has lost nearly 300 glaciers since the 1960s. Climate crisis is drastically shrinking what’s left",
+      "image": "https://i.guim.co.uk/img/media/ef541cf62fb2394a53dd360e37e63119424dd9a9/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8262fd1c9c34064532c747b1a7f5b5e6",
+      "timestamp": "2026-10-23T12:00:26.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-october-23/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-10-23T11:04:10.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/ar/entertainment/fear-factory-2026-10-23/",
+      "headline": "Fear factory",
+      "image": "https://www.reuters.com/resizer/v2/3QVJ6VDLQRD5FNEQFPR72CC3PM.png?auth=2c35efc6215050410a5561102ff6fcd781ec5f6b2164c9ed399bfd916f22c307&width=1200&quality=80",
+      "timestamp": "2026-10-23T11:02:38.605Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/23/books/bookstores-nyc-chinatown-east-village.html",
+      "headline": "How to Spend a Bookish Afternoon in Chinatown, the Lower East Side & the East Village",
+      "image": "https://static01.nyt.com/images/2026/10/14/books/00TBR-BOOKCRAWL-LES-Rabbit-Books-1/13visualUploader-50754-articleLarge.jpg",
+      "timestamp": "2026-10-23T09:02:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/ukrainian-soldier-severed-his-own-foot-survive-then-came-dramatic-rescue-2026-10-23/",
+      "headline": "A Ukrainian soldier severed his own foot to survive. Then came a dramatic rescue.",
+      "image": "https://www.reuters.com/resizer/v2/2IOOSMR3XZABZMNNANYHRX3CBE.jpg?auth=0b58a868369df3c898f2d1687624f4f4c2c7d17edbc8526a795131627fed1d12&width=1200&quality=80",
+      "timestamp": "2026-10-23T05:33:29.431Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/geburtsort-schweiz-oder-ausland-ihr-quartier-im-vergleich-198685379145",
+      "headline": "Interaktives Tool: Geburtsort Schweiz oder Ausland? So durchmischt ist Ihr Quartier im Vergleich",
+      "timestamp": "2026-10-23T04:02:50.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/23/the-white-house-farm-massacre-exclusive-new-forensic-evidence-suggests-sheila-caffell-killed-herself-is-jeremy-bamber-innocent",
+      "headline": "The White House Farm massacre – exclusive: new forensic evidence suggests Sheila Caffell killed herself. Is Jeremy Bamber innocent?",
+      "image": "https://i.guim.co.uk/img/media/c4eaff5dbea83e19c9aecd688e42cdbfc3fe4cbe/397_684_3371_2697/master/3371.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=072c0ebe6fa9da20bb669dcf1a4c122b",
+      "timestamp": "2026-10-23T04:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html",
+      "headline": "Trump’s ‘Smart Wall’ of A.I. Cameras Is Watching the Border, and More Than a Million People",
+      "image": "https://static01.nyt.com/images/2026/10/19/multimedia/border-towers-fvtg/border-towers-fvtg-articleLarge.jpg",
+      "timestamp": "2026-10-23T02:54:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/nyregion/new-york-at-work-broadway-swing.html",
+      "headline": "Who is the Understudy for the Understudies?",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/BROADWAY-SWING-TONED-promo/BROADWAY-SWING-TONED--zlmt-articleLarge-v3.jpg",
+      "timestamp": "2026-10-23T02:35:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/nyregion/new-york-at-work.html",
+      "headline": "New York at Work",
+      "image": "https://static01.nyt.com/images/2026/10/22/nyregion/00new-york-at-work/00new-york-at-work-articleLarge.jpg",
+      "timestamp": "2026-10-23T01:42:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/trump-golf-course-dc-east-potomac.html",
+      "headline": "What Trump’s Golf Course Plan Takes Away From D.C. Residents",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-10-19-golf-east-potomac-park-index/2026-10-19-golf-east-potomac-park-index-articleLarge-v4.jpg",
+      "timestamp": "2026-10-22T17:09:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/world/quake-tracker-china.html",
+      "headline": "Map: 7.0-Magnitude Earthquake Strikes China",
+      "image": "https://static01.nyt.com/images/2026/10/22/world/22wea-quake-tracker-china-nytbd9ie-v2-index/22wea-quake-tracker-china-nytbd9ie-v2-index-articleLarge-v9.jpg",
+      "timestamp": "2026-10-22T15:06:58.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wie-entstand-leben-auf-der-erde-eine-bisher-unbekannte-geschichte-ld.10018926",
+      "headline": "Es begann auf dem Meeresgrund. Die bisher unbekannte Geschichte des Lebens",
+      "image": "https://img-msp-prod.nzz.ch/2026/08/10/aa62b288-f9f9-4a9d-9065-2e6187dfe70f.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-10-22T12:21:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/22/us-midterms-tech-datacenters-ai",
+      "headline": "How tech became the villain of the US midterms ",
+      "image": "https://i.guim.co.uk/img/media/bee9ffbae201f232019437dd608cde56248e206a/0_618_2744_2194/master/2744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a9723e2a03c6e226b9ca8dba170daf2",
+      "timestamp": "2026-10-22T12:00:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+      "headline": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+      "image": "https://i.guim.co.uk/img/media/5a426a4caa58ecb7baabf8e19319bb4ee7c46a53/669_0_3162_2531/master/3162.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dcad87901dee69ab635a10fa637a6bc3",
+      "timestamp": "2026-10-22T11:22:23.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/santa-rosa-employee-pay/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31376545/1/rawImage.jpg",
+      "timestamp": "2026-10-22T11:04:11.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/us/ice-shooting-phoenix.html",
+      "headline": "Why Did an ICE Officer Shoot This Man?",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/00-garcia-sorto-qjch/00-garcia-sorto-qjch-articleLarge.jpg",
+      "timestamp": "2026-10-22T09:04:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/business/media/ai-music-streaming-spotify-apple-music.html",
+      "headline": "Would You Listen to A.I. Music? Maybe You Already Do.",
+      "image": "https://static01.nyt.com/images/2026/10/20/business/2026-08-17-ai-music-index/2026-08-17-ai-music-index-articleLarge-v6.png",
+      "timestamp": "2026-10-22T09:04:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/opinion/focus-group-iowa-voters-midterms.html",
+      "headline": "Why More Than Half of These 13 Iowa Voters Are Considering Splitting Their Vote",
+      "image": "https://static01.nyt.com/images/2026/10/21/opinion/22-focus-group-iowa-voters-promo/-22-focus-group-iowa-voters-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-10-22T09:04:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/22/travel/things-to-do-kansas-city.html",
+      "headline": "36 Hours in Kansas City, Mo.",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/22trav-hours-kansas-city-01-bmqj/22trav-hours-kansas-city-01-bmqj-articleLarge-v9.jpg",
+      "timestamp": "2026-10-22T09:03:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/phillies/inq2/mlb-offseason-free-agents-alec-bohm-brandon-marsh-stay-go-20261022.html",
+      "headline": "Phillies fans are fed up with Trea Turner, and more Stay or Go takeaways",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/PEZQS3QVGRE35EWJ2VKDQC37XQ.jpg",
+      "timestamp": "2026-10-22T09:01:01.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-22-2026",
+      "headline": "Today in Pictures, Oct 22, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/aa931bd8b6c2f0381f7600b864e628dea476210714e845d81c3b596e70587579?w=1200",
+      "timestamp": "2026-10-22T08:51:21.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/22/uk-budget-game-2026-john-healey-labour-andy-burnham",
+      "headline": "You be the chancellor: play our budget game to see if you can balance the books",
+      "image": "https://i.guim.co.uk/img/media/8beda193601d6a4281076ca2df24b23df213a10b/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ca6649796569c83923a2d3af8bd4e108",
+      "timestamp": "2026-10-22T08:04:59.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/europe/how-europes-emptying-countryside-is-fuelling-new-wildfire-crisis-2026-10-22/",
+      "headline": "How Europe's emptying countryside is fuelling a new wildfire crisis",
+      "image": "https://www.reuters.com/resizer/v2/7K2VYIXCUVBK5AUL4F7LQFI3TA.jpg?auth=83761b5aa80d34182de7f93298203dc0694c7e824c2fdc36fc3fdfbb1ae1bf5f&width=1200&quality=80",
+      "timestamp": "2026-10-22T05:18:58.511Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/us/inflation-prices-real-estate-child-care-affordabilty.html",
+      "headline": "Life Feeling Too Expensive? It’s Not Just You. And It’s Not Just Inflation.",
+      "image": "https://static01.nyt.com/images/2026/10/21/us/00-national-affording-still/00-national-affording-still-articleLarge.jpg",
+      "timestamp": "2026-10-22T01:09:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/books/emily-dickinson-poem-i-dwell-in-possibility.html",
+      "headline": "This Poem Will Hit You Where You Live",
+      "image": "https://static01.nyt.com/images/2026/10/16/books/00dickinson-poem-promo/00dickinson-poem-promo-articleLarge.jpg",
+      "timestamp": "2026-10-21T22:41:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/weather/subtropical-storm-josephine-map-path-tracker.html",
+      "headline": "Tracking Subtropical Storm Josephine",
+      "image": "https://static01.nyt.com/images/2026/10/21/weather/josephine-map-path-tracker-index/josephine-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-21T21:10:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/weather/tropical-storm-vance-hurricane-map-path.html",
+      "headline": "Tracking Tropical Storm Vance",
+      "image": "https://static01.nyt.com/images/2026/10/21/weather/twenty-two-e-map-path-tracker-index/twenty-two-e-map-path-tracker-index-articleLarge-v4.jpg",
+      "timestamp": "2026-10-21T20:47:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/21/lessons-from-hospice-workers-life-death",
+      "headline": "‘Don’t sweat the small stuff’: hospice workers share 12 lessons about life and death",
+      "image": "https://i.guim.co.uk/img/media/443f2ba51cfe50be95709a214f602d5e55f066a8/0_901_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a890b47801e4edb9b7e7b2c5e856dda6",
+      "timestamp": "2026-10-21T16:00:22.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/florida-us-house-21-polls-2026.html",
+      "headline": "Florida 21st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-21T15:28:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/22/youth-detention-sexual-abuse-in-custody-allegations-australia-ntwnfb",
+      "headline": "First a strip-search goes too far, then a boy is isolated in a cell … the former detainees who tell all-too-similar stories",
+      "image": "https://i.guim.co.uk/img/media/d91957ee1fe5955ca56383b70016a5c4beb727b9/0_402_3800_3040/master/3800.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0d4b0ccf7670bf272d76a74c1fb9287",
+      "timestamp": "2026-10-21T14:00:21.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/the-tragically-short-life-of-trevor-neo",
+      "headline": "The tragically short life of Trevor Neo",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/10/trevor-neo/trevor-neo.jpg",
+      "timestamp": "2026-10-21T13:45:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-eviction-courts-system",
+      "headline": "‘Sham tribunal’: one family’s battle with Louisiana’s ‘feudal’ eviction courts",
+      "image": "https://i.guim.co.uk/img/media/28744338567c9a6ace41dba2b08cef8fb86cd826/17_0_3167_2534/master/3167.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c375e4a78725b3092f05a0d76aad1dd3",
+      "timestamp": "2026-10-21T11:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/louisiana-justice-of-peace-courts-methodology",
+      "headline": "How the Guardian reported on Louisiana’s justice of the peace courts",
+      "image": "https://i.guim.co.uk/img/media/85adc058493b4219f688bdd21b2be358213d1a14/0_173_3316_2654/master/3316.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1ead729761d630750f748ba60c4e19a4",
+      "timestamp": "2026-10-21T11:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/21/trump-ice-construction-worker-deportation",
+      "headline": "‘Hunted like animals’: inside Trump’s war on the people who build America",
+      "image": "https://i.guim.co.uk/img/media/bc81e4c163cd5d10dbe68578e35851c73cd6b682/675_0_6280_5026/master/6280.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b70c6ae4334163baa89d44cf027b622",
+      "timestamp": "2026-10-21T10:00:02.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/political-ad-midterm-themes-data-analysis-20261021.html",
+      "headline": "Midterm messages: What politicians are saying in TV advertisements to secure your vote ",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/LIOZ32JUDVFB3DNYLNCCXGNECA.jpg",
+      "timestamp": "2026-10-21T09:01:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate",
+      "timestamp": "2026-10-21T08:58:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-rv-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of Registered Voters",
+      "timestamp": "2026-10-21T08:57:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/21/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of Registered Voters",
+      "timestamp": "2026-10-21T08:56:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/san-francisco-house-fundraising/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31329175/1/rawImage.jpg",
+      "timestamp": "2026-10-20T23:55:49.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/interaktiver-rechner-vergleichen-sie-ihren-zivilstand-516872050002",
+      "headline": "Interaktiver Rechner: Verheiratet, geschieden, ledig: Gehören Sie mit Ihrem Zivilstand zur Mehrheit oder zur Minderheit?",
+      "timestamp": "2026-10-20T19:41:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/20/world/americas/venezuela-public-housing-flawed-construction-earthquakes.html",
+      "headline": "How Venezuela’s Public Housing Towers Were Built to Fail",
+      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/2026-08-21-venezuela-opppe-structures-index/2026-08-21-venezuela-opppe-structures-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-20T17:33:38.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/voter-issues-midterms-elections",
+      "headline": "From Iran to AI: the six key voter issues shaping the US midterm elections",
+      "image": "https://i.guim.co.uk/img/media/77ba413d94e2c1875a601cf81711a48e9db44078/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f416a3759d1084211c7b794df68f4593",
+      "timestamp": "2026-10-20T16:52:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/20/nyregion/cornell-jane-doe-letter.html",
+      "headline": "Jane Doe says she did not feel supported by Cornell’s president.",
+      "image": "https://static01.nyt.com/images/2026/10/20/doc-jane-doe-cornell-facultyr-promo/doc-jane-doe-cornell-facultyr-promo-articleLarge.png",
+      "timestamp": "2026-10-20T14:11:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-peace-courts-evictions-fees",
+      "headline": "‘Big business’: little-known court system in Louisiana churns out thousands of evictions – and millions in fees for judges",
+      "image": "https://i.guim.co.uk/img/media/439d627e140a08982a37568e98b5226a343de197/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f3bed309ac40eec82120c6c874714e77",
+      "timestamp": "2026-10-20T11:00:34.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/20/louisiana-justice-of-the-peace-courts-key-findings",
+      "headline": "Key findings from the Guardian’s investigation of Louisiana’s justice of the peace courts",
+      "image": "https://i.guim.co.uk/img/media/79094dbca682085e4fb3dde2807cc74df5b80904/271_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=11bb04f19956b17cbee23dfde488e3b9",
+      "timestamp": "2026-10-20T11:00:33.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ff5859fb-dfa6-4fe5-a5cf-824a98ad32d4",
+      "headline": "The hidden water crisis beneath the American west",
+      "timestamp": "2026-10-20T10:00:03.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-20-2026",
+      "headline": "Today in Pictures, Oct 20, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/eb4f5237aea4aed75b312e1bf9e4e01b22c5db09fe576aa119d38455b8217f5a?w=1200",
+      "timestamp": "2026-10-20T07:54:59.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/valkyries-wnba-finals-photos/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31368493/1/rawImage.jpg",
+      "timestamp": "2026-10-20T04:16:52.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/248b7408-b4cd-46aa-a829-a54c618e31fe",
+      "headline": "Britain’s £100,000 tax trap",
+      "timestamp": "2026-10-20T04:00:12.000Z"
+    },
+    {
+      "publication": "The Pudding",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/2026/10/kevin-bacon",
+      "headline": "The Real Kevin Bacon",
+      "image": "https://pudding.cool/2026/10/kevin-bacon/assets/social.jpg",
+      "timestamp": "2026-10-20T04:00:00.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/pestizide-im-wasser-belastung-nach-schweizer-gemeinden-334006134627",
+      "headline": "Exklusive Daten: In diesen Schweizer Gemeinden ist das Grundwasser am stärksten mit Pestiziden belastet",
+      "timestamp": "2026-10-20T03:52:00.000Z"
+    },
+    {
+      "publication": "CNA",
+      "url": "https://www.channelnewsasia.com/interactive/ai-fake-videos-scam-quiz/%2E",
+      "headline": "Think you can spot a fake? 5 ways online deception works in the age of AI",
+      "image": "https://dam.mediacorp.sg/image/upload/s--z_OT4fKO--/c_fill,g_center,h_598,w_747/f_auto,q_auto/v1/mediacorp/cna/image/2026/10/07/ai-fake-video-article-shell_0.jpg?itok=yGzIxitm",
+      "timestamp": "2026-10-19T22:00:00.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/friends-with-work-benefits-young-singaporeans-say-work-friendships-help-their-careers-but-carry",
+      "headline": "Friends with work benefits: Young Singaporeans say work friendships help their careers, but carry risks",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/10/work-friendships/work-friendships.jpg",
+      "timestamp": "2026-10-19T21:00:00.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-october-16/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-10-19T17:46:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/missouri-congressional-map-referendum-polls-2026.html",
+      "headline": "Missouri Congressional Map Referendum 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-19T15:26:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/ca-house-11-fundraising-update/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31329175/1/rawImage.jpg",
+      "timestamp": "2026-10-19T11:04:06.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/ki-an-schulen-schlechte-noten-fuer-kinder-die-chatbots-nutzen-837992981027",
+      "headline": "Neue Studien: Kinder, die nur mit KI lernen, schreiben deutlich schlechtere Prüfungen",
+      "timestamp": "2026-10-19T09:36:37.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/19/nyregion/nyc-budgeting-affordability-dufont.html",
+      "headline": "How a Comedian and Production Assistant Lives on $30,000 in Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/10/14/nyregion/00met-affordingny-dufont-promo/00met-affordingny-dufont-articleLarge.jpg",
+      "timestamp": "2026-10-19T09:03:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/sixers/inq2/sixers-tickets-best-matchups-home-games-20261019.html",
+      "headline": "Sixers schedule and ticket prices: These are the games to target.",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/KSVGA4AUH5BVJFHSOQP7WZ3CCM.png",
+      "timestamp": "2026-10-19T09:01:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/entertainment/movies/interactive/2026/10/19/we-saw-everything-elizabeth-holmes-documentary-or-did-we/",
+      "headline": "We saw everything in the Elizabeth Holmes documentary. Or did we?",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/EV7O54BG64UPGHRKAMFK24ZT5A.jpg&w=300",
+      "timestamp": "2026-10-19T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2026/10/15/do-you-need-wash-these-foods-take-our-quiz/",
+      "headline": "Do you need to wash these foods? Take our quiz.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreieusscfvpwvecxsn5muyojh3s6p6vzonejwq7vdret53hw3cz3xva",
+      "timestamp": "2026-10-18T13:00:14.159Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/18/trump-justice-department-us-midterms",
+      "headline": "How Trump’s justice department is testing separation of powers before the US midterms",
+      "image": "https://i.guim.co.uk/img/media/180a926d6092c30c32b24d3d24817b5d9717e511/0_6_2664_2130/master/2664.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=50b6e7740a84aaf1822849cedf33f3cb",
+      "timestamp": "2026-10-18T10:00:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/us/oj-simpson-joey-ippolito-memo.html",
+      "headline": "Read the Letter Detailing Joey Ippolito’s Tips About Mafia, O.J. Simpson",
+      "image": "https://static01.nyt.com/images/2026/10/16/doc-ippolito-sentencing-memo-promo/doc-ippolito-sentencing-memo-promo-articleLarge.png",
+      "timestamp": "2026-10-18T09:45:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/us/trump-immigrant-visas-decline.html",
+      "headline": "Legal Immigration Fell Sharply Under Trump Policies Adopted Early This Year",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-08-10-legal-immigration-ban-index/2026-08-10-legal-immigration-ban-index-articleLarge-v10.png",
+      "timestamp": "2026-10-18T09:00:45.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/18/world/americas/brazil-election-amazon-deforestation.html",
+      "headline": "Why the Future of the Amazon Could Depend on Brazil’s Election",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-10-08-brazil-elections-amazon-index/2026-10-08-brazil-elections-amazon-index-articleLarge-v9.jpg",
+      "timestamp": "2026-10-18T09:00:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/18/4000-people-minding-our-own-business-four-decades-on-falklands-again-face-a-hostile-argentina",
+      "headline": "‘4,000 people minding our own business’: four decades on, Falklands again face a hostile Argentina",
+      "image": "https://i.guim.co.uk/img/media/695b7c54600f1a7aeb665fd7f024c80a6b5330d6/391_162_7606_6086/master/7606.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7e77b2ef5d825b90b55b043494b94711",
+      "timestamp": "2026-10-18T04:00:49.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/angriffe-auf-ein-nadeloehr-russland-nimmt-kiews-bruecken-ins-visier-ld.10034659",
+      "headline": "Angriffe auf ein Nadelöhr: Russland nimmt Kiews Brücken ins Visier",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/17/d33e3632-a84b-4e2f-9970-c29355d89824.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=3817,2147,x140,y0&wmark=nzz",
+      "timestamp": "2026-10-18T03:30:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/10/18/he-wanted-share-his-passion-now-these-teens-are-learning-hunt-with-bows/",
+      "headline": "He wanted to share his passion. Now these teens are learning to hunt with bows.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XAZG6YZ677GVTRFICJBVMULLXY.JPG&w=300",
+      "timestamp": "2026-10-18T00:00:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/18/invisible-clear-air-turbulence-airline-safety-climate-crisis",
+      "headline": "Hiding in plane sight: the invisible turbulence that can strike out of a clear blue sky",
+      "image": "https://i.guim.co.uk/img/media/fddfbb16a433f228a0d8ff3c15033ee8936ec135/1_0_3542_2835/master/3542.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3bad83a12487edd4f7a36464bff58be4",
+      "timestamp": "2026-10-17T19:00:40.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/18/frustration-hope-mingle-post-flood-lismore",
+      "headline": "‘We can’t leave people behind’: frustration and hope mingle in the wake of Lismore’s post-flood renewal",
+      "image": "https://i.guim.co.uk/img/media/422dcea13dd341fef196c75d5be4eff5acbb3271/0_1519_5504_4403/master/5504.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=31a4988a4abe9598de5fde428a1fade7",
+      "timestamp": "2026-10-17T19:00:39.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/trans-women-wnba-players-fans-advocacy",
+      "headline": "The right is pushing its anti-trans fury on the WNBA. Players and fans are loudly pushing back",
+      "image": "https://i.guim.co.uk/img/media/1320af6427dbf78ea4207b06913b1debf63c5fb9/0_58_2222_1777/master/2222.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=60786fd5532f1bf39b30ae34512a51ee",
+      "timestamp": "2026-10-17T14:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/oct/17/charles-burnett-film-my-brothers-wedding",
+      "headline": "‘Sometimes it’s not perfect, but it works’: film-maker Charles Burnett on his chronicling of Black working-class life",
+      "image": "https://i.guim.co.uk/img/media/1043cacae1cda276675a301400b29c516e413b8e/0_609_3011_2407/master/3011.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=27324905a9c1ce74d7d5ef80132b37fb",
+      "timestamp": "2026-10-17T13:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/17/california-datacenter-imperial",
+      "headline": "Inside the long, bitter fight over one man’s quest to build the biggest AI datacenter in California",
+      "image": "https://i.guim.co.uk/img/media/d767e28f4a63f2c033b1690340f479c914d87492/1000_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eed0cc19b9deae07f4e5afa17baac9e8",
+      "timestamp": "2026-10-17T13:00:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/17/world/europe/ukraine-russia-war-drones-kill-zone.html",
+      "headline": "This Is the Kill Zone",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/2026-05-13-ukraine-kill-zone-index/2026-05-13-ukraine-kill-zone-index-articleLarge-v6.jpg",
+      "timestamp": "2026-10-17T09:01:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/17/the-digger-disaster-what-an-epic-movie-flop-means-for-tom-cruise-and-hollywood",
+      "headline": "The Digger disaster: what an epic movie flop means for Tom Cruise and Hollywood",
+      "image": "https://i.guim.co.uk/img/media/dbf003ce0f05bc9ac077f2ee0fc4e961455945a6/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8b7ce00775e1db8dabe91b0be6c012ab",
+      "timestamp": "2026-10-17T08:12:20.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/17/nyregion/routine-laurie-tisch.html",
+      "headline": "How the Billionaire Owner of Two Sports Teams Spends a Day Chasing Wins",
+      "image": "https://static01.nyt.com/images/2026/10/25/nyregion/25met-routine-laurie-tisch-01-chfl/met-routine-laurie-tisch-01-chfl-articleLarge.jpg",
+      "timestamp": "2026-10-17T07:00:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2026/10/16/these-words-talked-their-way-into-dictionary-do-you-know-their-meaning/",
+      "headline": "These words talked their way into the dictionary. Do you know their meaning?",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreiehh3ujpk3d6r2i723ucsutmukemcdefykz7f4vq3bobnml2n6y74",
+      "timestamp": "2026-10-17T04:00:05.815Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/us/what-redistricting-means-tennessee-voters-2026-10-17/",
+      "headline": "What redistricting means for Tennessee voters",
+      "image": "https://www.reuters.com/resizer/v2/XBLUGSTILVBQBLG2ZUNZBOC6BA.jpg?auth=70d683f89337a630d9c83b3db22aed43ddc7f5740ffd5a128be924ee8ccd9b92&width=1200&quality=80",
+      "timestamp": "2026-10-17T00:03:25.949Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/95e1b194-7dab-4f69-87b4-27535772cf18",
+      "headline": "It’s nearly FT Alphaville's 20th birthday. We did a chart show to celebrate!",
+      "timestamp": "2026-10-16T19:17:48.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/16/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 17, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/16/multimedia/flashback-promo-2026-10-17-6/flashback-promo-2026-10-17-6-articleLarge.jpg",
+      "timestamp": "2026-10-16T16:10:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/17/judith-lucy-breast-cancer-my-wellness-odyssey-book",
+      "headline": "Judith Lucy on her cancer diagnosis: ‘I’m a bit over getting so much material out of my life’",
+      "image": "https://i.guim.co.uk/img/media/a726bf8d1eb76edf8cbe6feaeb67a626bcb107cb/574_0_5000_4002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78c905c74494b9ee26842ba62d3b2cac",
+      "timestamp": "2026-10-16T14:00:12.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/billionaires-fight-california-prop-40",
+      "headline": "The ultra-rich are spending one million dollars a day fighting California’s proposed billionaire tax",
+      "image": "https://i.guim.co.uk/img/media/278e5483c063fe17b8fe2273a6c7632a5f987ec9/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eb31382f896022c12fa047ee5f69a4e7",
+      "timestamp": "2026-10-16T13:00:11.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-october-16/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-10-16T11:06:16.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/16/jon-ossoff-georgia-senate-midterms",
+      "headline": "Jon Ossoff’s rise to US Senate was meteoric – how high can he go?",
+      "image": "https://i.guim.co.uk/img/media/a2630541c1324c86bd7f740d1fa9493dc3abebf1/0_0_1771_1418/master/1771.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ee3665e1452f319506bea55f67cbbfba",
+      "timestamp": "2026-10-16T09:00:56.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/tropical-storm-champi-track-the-cyclones-path",
+      "headline": "Tropical storm Champi: Track the cyclone’s path",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/10/cyclone-champi-tracker/cyclone-champi-tracker.jpg",
+      "timestamp": "2026-10-16T07:43:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/us/politics/noncitizen-voting-data.html",
+      "headline": "How Claims of Widespread Noncitizen Voting Fall Apart",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/2026-09-29-election-noncitizen-voting-index/2026-09-29-election-noncitizen-voting-index-articleLarge.jpg",
+      "timestamp": "2026-10-15T23:01:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/16/just-what-damage-can-the-emissions-from-a-new-fossil-fuel-facility-cause-a-new-tool-has-estimates",
+      "headline": "Just what damage can the emissions from a new fossil fuel facility cause? A new tool has estimates ",
+      "image": "https://i.guim.co.uk/img/media/1e0067da826e165bd118253c12e85235eb0cd8f1/0_0_1300_1040/master/1300.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=10d96daa6be9a379022747aafc2b225a",
+      "timestamp": "2026-10-15T19:00:38.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-mexico-us-house-3-polls-2026.html",
+      "headline": "New Mexico 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-15T17:06:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/new-mexico-us-house-1-polls-2026.html",
+      "headline": "New Mexico 1st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-15T17:02:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/weather/champi-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Champi",
+      "image": "https://static01.nyt.com/images/2026/10/14/weather/twentynine-map-path-tracker-index/twentynine-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-10-15T15:12:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/upshot/ai-data-center-math.html",
+      "headline": "What Are Data Centers Doing? A Mind-Boggling Amount of Math.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/2026-09-28-ai-math-explainer-index/2026-09-28-ai-math-explainer-index-articleLarge-v2.png",
+      "timestamp": "2026-10-15T14:53:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/16/survivors-harrowing-allegations-sexual-abuse-quamby-youth-detention-centre-canberra-ntwnfb",
+      "headline": "‘He’d take boys down to the chicken shed’: survivors share harrowing allegations of rape in Canberra youth detention",
+      "image": "https://i.guim.co.uk/img/media/0f35c460eeb9abd5060452c09d01b2b4e1317ac6/0_738_3527_2822/master/3527.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c482fa1cfc191a89fe952054b2a287ec",
+      "timestamp": "2026-10-15T14:00:17.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/travel/things-to-do-tunis.html",
+      "headline": "36 Hours in Tunis",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/things-to-do-tunis-qpjc/things-to-do-tunis-qpjc-articleLarge-v3.jpg",
+      "timestamp": "2026-10-15T09:04:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/15/us/farmers-market-prices.html",
+      "headline": "Why Are Food Prices So High? Ask the Farmers Market Vendors.",
+      "image": "https://static01.nyt.com/images/2026/10/15/multimedia/15nat-farmers-market-costs-wghm/15nat-farmers-market-costs-wghm-articleLarge.jpg",
+      "timestamp": "2026-10-15T09:00:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-15-2026",
+      "headline": "Today in Pictures, Oct 15, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/94211b62f18ea3a6666df6b03c40791e3c6587bc062f3af3eb972a64f4805355?w=1200",
+      "timestamp": "2026-10-15T07:30:52.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1a125f04-4de5-4840-a580-81ff06dc0c40",
+      "headline": "US inflation again set to be a crucial factor for the midterms",
+      "timestamp": "2026-10-15T04:30:08.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/rhode-island-us-house-1-polls-2026.html",
+      "headline": "Rhode Island 1st Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-14T21:50:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/magazine/yosemite-climbing-dad-east-buttress.html",
+      "headline": "Processing My Father’s Death by Climbing in His Footsteps",
+      "image": "https://static01.nyt.com/images/2026/09/25/magazine/25mag-Yosemite-04/25mag-Yosemite-04-articleLarge.jpg",
+      "timestamp": "2026-10-14T19:50:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/opinion/black-lawmakers-gerrymandering-supreme-court.html",
+      "headline": "These Six Black Lawmakers Have a Warning",
+      "image": "https://static01.nyt.com/images/2026/10/15/opinion/15opvid-gerrymandering-image/15opvid-gerrymandering-image-articleLarge-v2.png",
+      "timestamp": "2026-10-14T19:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/us/senate-letter-to-meta-on-research-tax-credit.html",
+      "headline": "Senators’ Letter to Meta",
+      "image": "https://static01.nyt.com/images/2026/10/14/doc-letter-to-meta-on-tax-cre-promo/doc-letter-to-meta-on-tax-cre-promo-articleLarge.png",
+      "timestamp": "2026-10-14T14:54:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/6934f481-b61c-4ab0-8064-a79493702f2c",
+      "headline": "Hot September CPI inflation keeps Fed on course for further tightening ",
+      "timestamp": "2026-10-14T13:21:31.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/india/how-india-polices-demonstrations-rules-data-tactics-2026-10-14/",
+      "headline": "How India polices demonstrations: rules, data, tactics",
+      "image": "https://www.reuters.com/resizer/v2/BKMTIDIJ7BACHNJOLZDUKQ5GGU.png?auth=d670e73b52eb716db82f1b82b64340bd59515be99c596136177500cfa82796bd&width=1200&quality=80",
+      "timestamp": "2026-10-14T12:22:00.202Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/family-zoning-san-francisco/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31355185/1/rawImage.jpg",
+      "timestamp": "2026-10-14T11:04:12.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/14/ai-terror-plots-fbi-extremism",
+      "headline": "Tool and target: US law enforcement grapple with AI-enabled terrorism and anti-tech extremism",
+      "image": "https://i.guim.co.uk/img/media/f54684e8b424601b8f8bd69c9e4af12df299fdbd/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=516f605384cb9ea6e9d17969e1522224",
+      "timestamp": "2026-10-14T10:00:03.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/14/georgia-midterms-election-official-politics",
+      "headline": "‘I don’t talk politics with anyone’: Georgia voting official on avoiding fiery debates ahead of midterms",
+      "image": "https://i.guim.co.uk/img/media/13be558718fca5b1baf52d2c73d1e0c4e757b49d/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c348491ec30f607fa9fb25bf910ee0bb",
+      "timestamp": "2026-10-14T10:00:02.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/14/texas-data-centers-water-use-penalties-enforcement/",
+      "headline": "Despite tough talk from Abbott and Paxton, Texas penalties for data center violations are light",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/20260910-RNC-Abbott-MS-02.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-10-14T10:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/14/opinion/ebola-spread-africa-outbreak.html",
+      "headline": "I’ve Worked in Congo for Decades. I’ve Never Seen an Ebola Crisis Like This.",
+      "image": "https://static01.nyt.com/images/2026/10/14/multimedia/14kerr-promo-hvpg/14kerr-promo-hvpg-articleLarge.jpg",
+      "timestamp": "2026-10-14T09:03:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/oct/14/europes-most-wanted-cocaine-trafficker-sierra-leone-crime-drugs-narco-state",
+      "headline": "How Europe’s most wanted cocaine trafficker turned Sierra Leone into the world’s first true narco state",
+      "image": "https://i.guim.co.uk/img/media/517ce20937547ddfab63a6538f5758cfedbe8aab/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=828c0b2460a7a70f01495ed10ce85766",
+      "timestamp": "2026-10-14T06:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/14/siam-amazing-park-thailand-oldest-amusement-park-flooded",
+      "headline": "An eerie trip inside Thailand’s oldest amusement park, deserted after flooding",
+      "image": "https://i.guim.co.uk/img/media/c8e6aac90082786880b93054a9dd80a3f35864f5/236_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0fe4779841033ede70ffa404b5089556",
+      "timestamp": "2026-10-14T01:36:25.000Z"
+    },
+    {
+      "publication": "Kontinentalist",
+      "blueSkyHandle": "kontinentalist.bsky.social",
+      "url": "https://kontinentalist.com/stories/thai-girls-love-conquered-the-world",
+      "image": "https://cdn-media.kontinentalist.com/thai-girls-love-conquered-the-world/thai-girls-love-conquered-the-world-1791794534.jpg",
+      "timestamp": "2026-10-14T00:11:21.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/everything-youve-saved/",
+      "headline": "Everything you’ve saved",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/36JCX3LLVRACJLKSZ5U52QMR2M.png&w=300",
+      "timestamp": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2026/10/14/7-exercises-an-orthopedic-surgeon-recommends-healthy-knees/",
+      "headline": "At 63, he’s a top knee expert. Here’s his exercise routine for strong knees.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/3GATVXDGZFHDPFIZY2GJGPAZLE.jpg&w=300",
+      "timestamp": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/best-dc-restaurants/",
+      "headline": "The 40 best restaurants in the D.C. area",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/JGMQSVYNRNG67HZ3XKPDCCCP7E.JPG&w=300",
+      "timestamp": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2026/10/14/reflecting-pool-liner-failed-more-places-than-previously-reported-inspection-found/",
+      "headline": "Reflecting pool liner failed in 85 places after flawed renovation, inspection found",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/DTE4U6NLPRGMFPPGX4YBTQQ2LY.png&w=300",
+      "timestamp": "2026-10-14T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/weather/trudy-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Trudy",
+      "image": "https://static01.nyt.com/images/2026/10/13/weather/twenty-one-e-map-path-tracker-index/twenty-one-e-map-path-tracker-index-articleLarge-v6.jpg",
+      "timestamp": "2026-10-13T22:30:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/magazine/billionaire-wealth-tax-proposition-40.html",
+      "headline": "Why Is It So Hard to Tax the Ultra-Rich?",
+      "image": "https://static01.nyt.com/images/2026/10/14/magazine/14MAG-billionairesgfx-promostill/14MAG-billionairesgfx-promostill-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T20:56:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/georgia-us-house-3-polls-2026.html",
+      "headline": "Georgia 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-13T19:46:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/13/embalmers-work-burials",
+      "headline": "‘You’re honoring a life well-lived’: embalmers describe their work (in great detail)",
+      "image": "https://i.guim.co.uk/img/media/d56f85564b1cfc682241e610288408cad2cc7767/0_593_2744_2194/master/2744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a7b5b186fa90dd1bbec59abf60243de7",
+      "timestamp": "2026-10-13T16:50:30.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "url": "https://www.houstonchronicle.com/projects/2026/top-houston-public-companies/",
+      "headline": "Houston's top-performing companies, ranked",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5wontugfwb4lv7nwonarkqw/bafkreialrhhkwyuabjfhlx2vjhagtlrpzx33qky2i7isgwc6abmymgn4zm",
+      "timestamp": "2026-10-13T16:03:42.725Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/oct/13/influencers-passive-income-side-hustles",
+      "headline": "Could I make six figures from my couch? Influencers said yes – so I tried",
+      "image": "https://i.guim.co.uk/img/media/b7108552b2711d69e485ffb9b83c87527ab50720/0_776_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f631bbd53a8152ffe9d69cd73b73eea",
+      "timestamp": "2026-10-13T14:00:04.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/13/ai-chatbot-death-plans",
+      "headline": "The people who don’t want their AI chatbots to die when they do: ‘I can’t have the switch turned off’",
+      "image": "https://i.guim.co.uk/img/media/070cff17583eb16baa5a6d72f89887bd9731ca06/0_628_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=05fb1d2fc13e0472012d803c7abff389",
+      "timestamp": "2026-10-13T10:00:04.000Z"
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/international/usa/america-let-s-talk-alles-ist-teurer-so-geht-es-amerikanern-vor-den-midterms",
+      "headline": "America, let's talk! – «Alles ist teurer» – so geht es Amerikanern vor den Midterms",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/d2ed44.jpg",
+      "timestamp": "2026-10-13T09:30:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/us/politics/midterm-election-michigan-el-sayed-rogers-debate.html",
+      "headline": "One Debate, Two Realities",
+      "image": "https://static01.nyt.com/images/2026/10/11/multimedia/2026-10-08-pol-debate-worlds-index/2026-10-08-pol-debate-worlds-index-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:03:24.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/opinion/midterm-elections-trump-integrity.html",
+      "headline": "How Safe Is the Vote?",
+      "image": "https://static01.nyt.com/images/2026/09/29/opinion/00electionthreats/00electionthreats-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:02:12.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/13/opinion/ai-rules-regulations.html",
+      "headline": "Driver, Chatbot, Talking Bear: How Should We Interact With A.I.?",
+      "image": "https://static01.nyt.com/images/2026/10/13/opinion/13quiz/13quiz-articleLarge-v2.jpg",
+      "timestamp": "2026-10-13T09:02:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/pennsylvania-philadelphia-2026-midterm-election-voter-guide-races-candidates-20261013.html",
+      "headline": "Your guide to the Pa. November election. Here’s who is on your ballot and what to know. ",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/SE25C4MJ2NDV5GR6GUQEN3NBJU.jpg",
+      "timestamp": "2026-10-13T09:01:01.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-13-2026",
+      "headline": "Today in Pictures, Oct 13, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/f2fdee0881be944b947aa11bb6b60c9ea04c182342bbaf619197e37a23a515fe?w=1200",
+      "timestamp": "2026-10-13T05:14:15.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/13/i-was-kidnapped-and-held-hostage-for-977-days-could-i-forgive-my-captors",
+      "headline": "I was kidnapped and held hostage for 977 days. Could I forgive my captors?",
+      "image": "https://i.guim.co.uk/img/media/1360d992df73b97d1504e9bbb99559d0eb12be57/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c09a1d613e440c3bd57af69f3cf21e2",
+      "timestamp": "2026-10-13T04:00:14.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/zoo-zuerich-warum-logos-immer-langweiliger-werden-197077112451",
+      "headline": "Zooh no!: «Seelenlos» und «austauschbar»: Warum viele Logos fast gleich aussehen",
+      "timestamp": "2026-10-13T03:45:00.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-october-9/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-10-12T17:03:09.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/12/world/middleeast/israel-lebanon-destruction.html",
+      "headline": "Israel’s Destruction of Southern Lebanon Intensified After the Cease-Fire",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-09-01-southern-lebanon-destruction-index/2026-09-01-southern-lebanon-destruction-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-12T09:49:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/12/nyregion/nyc-budgeting-affordability-crist.html",
+      "headline": "How a Book Editor Lives on $74,000 in Carroll Gardens, Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/10/12/multimedia/12met-affording-bookeditor-promo/12met-affording-bookeditor-01-tvqm-articleLarge.jpg",
+      "timestamp": "2026-10-12T09:02:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-12-2026",
+      "headline": "Today in Pictures, Oct 12, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/ffe7eb69740ea32f0e6fc9e1aad57031a5306ad27a86aede67f7c7975318c1a9?w=1200",
+      "timestamp": "2026-10-12T07:39:02.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2026/10/12/how-take-care-your-knees-your-20s-30s-40s-beyond/",
+      "headline": "How to take care of your knees in your 20s, 30s, 40s and beyond",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LTFXQ5RNTJGVNOS7PULJNZOZSI.jpg&w=300",
+      "timestamp": "2026-10-12T00:00:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-stadt-rafah-gibt-es-nicht-mehr-ld.10027308",
+      "headline": "Die Stadt Rafah gibt es nicht mehr",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/08/e4b83fe9-5daf-4a46-a13f-235f69c32b77.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=2400,1350,x0,y225&wmark=nzz",
+      "timestamp": "2026-10-11T07:12:24.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/11/executions-us-christa-pike",
+      "headline": "Capital punishment is surging in the US – but after Christa Pike’s botched execution, what is its future?",
+      "image": "https://i.guim.co.uk/img/media/9d334c489eaa2a4333274a91fde4126c589577df/1_0_3748_3000/master/3748.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1b9b65a3d1074260afa9c7ec3f6b715c",
+      "timestamp": "2026-10-11T05:00:16.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2026/10/11/how-ukraine-uses-precision-drone-strikes-hobble-russian-oil-refineries/",
+      "headline": "How Ukraine uses precision drone strikes to hobble Russian oil refineries",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5SEDOKOYWBBZFD3NKMPXK46PQQ.png&w=300",
+      "timestamp": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/10/11/these-are-voters-who-will-decide-midterm-elections/",
+      "headline": "These are the voters who will decide the midterm elections",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/57TTFVAJCZBPXP6VIISB6AGWJA.png&w=300",
+      "timestamp": "2026-10-11T00:00:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/11/australians-restoring-nature-in-retirement-bush-conservation",
+      "headline": "Still wielding a chainsaw at 85: the Australians restoring nature in retirement",
+      "image": "https://i.guim.co.uk/img/media/f7c5871948a77c509f374c056f377e92bc7f19a3/651_120_4325_3461/master/4325.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4465f7f57b70560994ff5b062a18a5d5",
+      "timestamp": "2026-10-10T19:00:07.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/10/magazine/steffen-skjottelvik-canada-journey-death.html",
+      "headline": "He Went Out on an Epic Wilderness Adventure. Only His Dogs Came Back.",
+      "image": "https://static01.nyt.com/images/2026/10/18/magazine/18mag-Skjottelvik-02/18mag-Skjottelvik-02-articleLarge-v2.jpg",
+      "timestamp": "2026-10-10T17:51:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/artanddesign/ng-interactive/2026/oct/10/edge-control-exhibition-deana-lawson",
+      "headline": "Edge Control: the art exhibition using hidden camera images to explore race and beauty",
+      "image": "https://i.guim.co.uk/img/media/9e02f686a51863033357db94172920daaf84c8b0/0_160_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5ab9f924492174220b56cbd50dfbe6ab",
+      "timestamp": "2026-10-10T12:00:57.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/10/realestate/grace-coddington-hamptons-home-tour.html",
+      "headline": "Inside Grace Coddington’s Cozy and ‘Very Catty’ East Hampton Retreat",
+      "image": "https://static01.nyt.com/images/2026/10/10/realestate/grace-coddington-hamptons-home-tour-1791587341212/grace-coddington-hamptons-home-tour-1791587341212-articleLarge.jpg",
+      "timestamp": "2026-10-10T09:01:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/grippe-monitor",
+      "headline": "Grippe-Monitor: Wie viele Fälle werden gerade gemeldet?",
+      "image": "https://img.sparknews.funkemedien.de/413428420/413428420_1792071981_v16_9_600.jpeg",
+      "timestamp": "2026-10-10T08:00:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
+      "headline": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die ",
+      "image": "https://i.guim.co.uk/img/media/dd86a3791de0721c9fae3aeb6def7ef9609df8bd/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=95836f9f69501a2d4123f44862ec1cb7",
+      "timestamp": "2026-10-10T05:00:48.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/sf-bay-area-highest-paid-executives/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31343876/1/rawImage.jpg",
+      "timestamp": "2026-10-09T20:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/elections/midterm-elections-early-voting-tracker-battleground-states.html",
+      "headline": "Tracking the Early Vote in the 2026 Midterm Elections",
+      "image": "https://static01.nyt.com/images/2026/10/08/multimedia/00EA-EARLY-VOTE-TRACKER-PROMO-lvqt/00EA-EARLY-VOTE-TRACKER-PROMO-lvqt-articleLarge.jpg",
+      "timestamp": "2026-10-09T18:20:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/world/americas/earthquake-tracker-panama.html",
+      "headline": "Map: Large Earthquake Shakes Panama",
+      "image": "https://static01.nyt.com/images/2026/10/09/world/09wea-quake-tracker-panama-nyt5dyjb-v2-index/09wea-quake-tracker-panama-nyt5dyjb-v2-index-articleLarge-v8.jpg",
+      "timestamp": "2026-10-09T18:16:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/09/what-happens-to-your-pets-when-you-die",
+      "headline": "What happens to your pets when you die?",
+      "image": "https://i.guim.co.uk/img/media/597f55644368baff95489ced6212a251268b7106/0_0_2744_2194/master/2744.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=198f81b8707f0259f5602d8518e185c7",
+      "timestamp": "2026-10-09T16:00:32.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 10, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/09/multimedia/flashback-promo-2026-10-10-6/flashback-promo-2026-10-10-6-articleLarge.jpg",
+      "timestamp": "2026-10-09T15:58:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/travel/ng-interactive/2026/oct/10/hitchhiker-sydney-perth-company-of-strangers-free-travel",
+      "headline": "I hitchhiked from Sydney to Perth, and found comfort in the company of strangers",
+      "image": "https://i.guim.co.uk/img/media/c0a72e1291d773b97a99507f07ef3e3c99e0926a/0_366_2346_1877/master/2346.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b994746b5ffab2977bb8f1b7358a7e0",
+      "timestamp": "2026-10-09T14:00:33.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/10/paul-barry-interview-people-should-not-be-off-limits",
+      "headline": "Paul Barry: ‘People should not be off limits’",
+      "image": "https://i.guim.co.uk/img/media/4406d3f50e53b003dde129b174eca7bc4f332d84/0_61_1903_1521/master/1903.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e651bf8936dae1c05475a36a23919937",
+      "timestamp": "2026-10-09T14:00:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/09/11-questions-to-ask-before-cutting-contact-family",
+      "headline": "11 questions to ask yourself before going no contact with a family member",
+      "image": "https://i.guim.co.uk/img/media/316f30a41de0872d037373352e704daf3c4a7a9f/62_2067_4260_3405/master/4260.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=75f0c686a87bb09eaf890d1e6f6c0a96",
+      "timestamp": "2026-10-09T14:00:31.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/colorado-us-house-4-polls-2026.html",
+      "headline": "Colorado 4th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-09T13:56:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-schweiz-verbindungen-von-ex-bnd-chef-august-hanning-ld.10028037",
+      "headline": "Die Schweiz-Verbindungen des Ex-BND-Chefs August Hanning",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/08/895c696a-7730-4ca2-9f1d-35220d7be0a1.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=3808,2142,x16,y9&wmark=nzz",
+      "timestamp": "2026-10-09T13:56:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/us/politics/tiktok-texas-senate-talarico-paxton-midterms.html",
+      "headline": "On Texas TikTok, It’s All About Talarico",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-17-pol-tiktok-24-index/2026-09-17-pol-tiktok-24-index-articleLarge.jpg",
+      "timestamp": "2026-10-09T12:39:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-october-9/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-10-09T11:04:17.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/09/midterm-voters-biggest-issues-trump",
+      "headline": "A national verdict on Trump 2.0 is coming. Nine midterm voters share where they stand",
+      "image": "https://i.guim.co.uk/img/media/cb1bc4c2a49b5d826cf940f38063e6d7e57ec19f/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=554d0848a274e002eb33da5c478bfd09",
+      "timestamp": "2026-10-09T10:00:25.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/09/us/politics/trump-elections-results-doubt-midterms.html",
+      "headline": "Trump Has Cast Doubt on Elections on 440 Days in His Second Term",
+      "image": "https://static01.nyt.com/images/2026/10/08/us/trump-doubt-static-promo-sowing-doubt/trump-doubt-static-promo-sowing-doubt-articleLarge-v6.jpg",
+      "timestamp": "2026-10-09T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/life/outdoors/inq2/fall-foilage-leaf-peeping-pennsylvania-top-down-20261009.html",
+      "headline": "See Pennsylvania's fall foliage transform from above",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/WAZAT6JQHJDCBL7QVFGUL4QWAI.png",
+      "timestamp": "2026-10-09T09:01:01.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/in-pictures-the-lion-city-is-buzzing-with-excitement-as-it-gears-up-for-2026-singapore-grand-prix",
+      "headline": "In Pictures: The Lion City is buzzing with excitement as it gears up for 2026 Singapore Grand Prix",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/297b743bd30ae71aa33f480aebae83bab7fd370cfb5671cace4e16702f5fc459?w=1200",
+      "timestamp": "2026-10-09T02:15:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/us/elections/senate-races-midterms-battleground-states.html",
+      "headline": "This Is the Senate Battleground. Map Your Path to the Majority.",
+      "image": "https://static01.nyt.com/images/2026/10/08/08visualUploader-19225-cover/08visualUploader-19225-cover-articleLarge.jpg",
+      "timestamp": "2026-10-08T22:11:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/magazine/farm-raised-fish-aquaculture-overfishing.html",
+      "headline": "The Dirty Secret Behind the Farmed Fish You Eat",
+      "image": "https://static01.nyt.com/images/2026/10/25/magazine/25mag-fishmeal/25mag-fishmeal-articleLarge.jpg",
+      "timestamp": "2026-10-08T21:39:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/10/08/hispanic-heritage-month-quiz-test-your-knowledge-hispanic-latino-culture/",
+      "headline": "Arepas! Astronauts! Test your knowledge this Hispanic Heritage Month.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreib4c3puqr34sf7khtuqs4amhzrncfn2zwhc62emqyvad2okghy6rm",
+      "timestamp": "2026-10-08T16:30:09.879Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/08/texas-rural-public-schools-charter-growth-struggle/",
+      "headline": "When a rural Texas school district struggled with growth, charter schools filled the void",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/20261005-Cleveland-ISD-AM-04-full.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-10-08T16:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/nyregion/maduro-indictment-torture-document.html",
+      "headline": "Prosecutors say Maduro used torture to hold on to power in Venezuela.",
+      "image": "https://static01.nyt.com/images/2026/10/08/doc-maduroindictmenttorture-promo/doc-maduroindictmenttorture-promo-articleLarge.png",
+      "timestamp": "2026-10-08T15:06:44.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/08/san-francisco-housing-ai-boom",
+      "headline": "An AI boom is sending San Francisco rents through the roof: ‘nowhere left for people to go’",
+      "image": "https://i.guim.co.uk/img/media/280b6926a5f1afa4d45cfbfbcbdfd26718240e40/0_273_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f5ab9cd38e0b72337d22f0d389c8443a",
+      "timestamp": "2026-10-08T14:00:22.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/private-school-college-admissions/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31320260/1/rawImage.jpg",
+      "timestamp": "2026-10-08T11:04:35.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/oakland-employee-pay/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31343504/1/rawImage.jpg",
+      "timestamp": "2026-10-08T11:04:30.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/oct/08/black-banjo-players-americana",
+      "headline": "How Black banjo players are changing Americana music",
+      "image": "https://i.guim.co.uk/img/media/a3d1541b8aa5b0923dd99c0b3664612e4fb9d562/0_371_1535_1228/master/1535.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e741549120d42ccf7652600729bfabe5",
+      "timestamp": "2026-10-08T11:00:18.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/08/texas-affordability-voter-guide-elections-cost-of-living/",
+      "headline": "How Texas candidates plan to lower the cost of gas, groceries and housing",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/conveyor-still-scaled.png?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-10-08T10:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/well/breast-cancer-quiz-risk-treatment-mutations.html",
+      "headline": "It’s the Most Common Cancer in Women. How Much Do You Know About It?",
+      "image": "https://static01.nyt.com/images/2026/10/06/well/8Well-BCancer-Quiz-03-promo/8Well-BCancer-Quiz-03-articleLarge.jpg",
+      "timestamp": "2026-10-08T09:03:49.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/travel/things-to-do-finger-lakes.html",
+      "headline": "36 Hours in the Finger Lakes, N.Y.",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/things-to-do-finger-lakes-01-bzwf/things-to-do-finger-lakes-01-bzwf-articleLarge.jpg",
+      "timestamp": "2026-10-08T09:03:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/opinion/los-angeles-mayor-election.html",
+      "headline": "Who Should Be Los Angeles’s Next Mayor?",
+      "image": "https://static01.nyt.com/images/2026/10/08/opinion/08choice-la-mayor-general-promo-still/08choice-la-mayor-general-promo-still-articleLarge-v2.jpg",
+      "timestamp": "2026-10-08T09:03:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html",
+      "headline": "This Photo Is an A.I. Fake. Can You Tell?",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-15-ai-look-close-index/2026-09-15-ai-look-close-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-08T09:02:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/phillies/inq2/phillies-free-agency-roster-stay-or-go-20261007.html",
+      "headline": "Which Phillies should stay or go for the 2027 season? Vote here",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/BOMEWOQLXJDHXKJYB7JXLMUA74.jpg",
+      "timestamp": "2026-10-08T09:01:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/08/ai-gig-work-refugees-kenya",
+      "headline": "‘Someone else will do it for less’: Refugees in Kenya are powering tech for dwindling pay",
+      "image": "https://i.guim.co.uk/img/media/53d66ebd8b4c6838ae365637ba65b0178b71b3f3/734_0_4836_3868/master/4836.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8e285f79a5c0ccccaafe33a3c5759908",
+      "timestamp": "2026-10-08T09:00:15.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-8-2026",
+      "headline": "Today in Pictures, Oct 8, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3db146790889c614568070c6a2894f9c8b1467040b467578db5b90ae40eb4762?w=1200",
+      "timestamp": "2026-10-08T08:12:40.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/07/your-money/college-degree-earnings-guide.html",
+      "headline": "A College-by-College Guide to Which Majors Pay Off — or Don’t",
+      "timestamp": "2026-10-08T01:56:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "South China Morning Post",
+      "url": "https://multimedia.scmp.com/infographics/news/economy/article/3364635/going-global-100/",
+      "headline": "Going Global 100\n",
+      "image": "https://multimedia.scmp.com/infographics/news/economy/article/3364635/going-global-100/cover.gif",
+      "timestamp": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2026/10/08/was-30-rock-perfect-tv-comedy-lets-discuss/",
+      "headline": "Was ‘30 Rock’ the perfect TV comedy? Let’s discuss.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/T3JO4BRQCCA5I6A66YK7IPFCII.jpg&w=300",
+      "timestamp": "2026-10-08T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/07/weather/simon-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Simon",
+      "image": "https://static01.nyt.com/images/2026/10/07/weather/twenty-e-map-path-tracker-index/twenty-e-map-path-tracker-index-articleLarge-v7.jpg",
+      "timestamp": "2026-10-07T20:54:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/07/north-carolina-farm-workers-disability-health-heat",
+      "headline": "Heatstroke ruined his health. Years before, it took the life of another farm worker at the same company",
+      "image": "https://i.guim.co.uk/img/media/39eef79f1433a6845051ea7876f952fea2c83f57/648_0_6141_4912/master/6141.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8004dfec2cff9f058963fdc161b5999f",
+      "timestamp": "2026-10-07T11:00:08.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/wohnungen-zuerich-so-viel-teurer-wird-ihre-miete-beim-umzug-814070116189",
+      "headline": "Interaktive Stadtkarte: Sie wollen zügeln? So viel teurer wird Ihre Miete in Zürich",
+      "timestamp": "2026-10-07T04:00:56.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/weather/tropical-storm-isaias-hurricane-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Nine",
+      "image": "https://static01.nyt.com/images/2026/10/06/weather/nine-map-path-tracker-index/nine-map-path-tracker-index-articleLarge-v8.jpg",
+      "timestamp": "2026-10-06T21:00:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/world/middleeast/yemen-houthis-reconstruct.html",
+      "headline": "How the Houthis Triumphed on the Red Sea and Sparked a New War in Yemen",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/2026-09-28-houthis-offensive-index/2026-09-28-houthis-offensive-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-06T18:01:18.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/upshot/quiz-faces-history.html",
+      "headline": "Quiz: Can You Name 16 Iconic Figures From History?",
+      "image": "https://static01.nyt.com/images/2026/10/06/multimedia/2026-07-13-175-historical-faces-index/2026-07-13-175-historical-faces-index-articleLarge.jpg",
+      "timestamp": "2026-10-06T16:08:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/06/how-to-get-comfortable-with-death",
+      "headline": "‘We live in grief-phobic societies’: experts on how to get more comfortable with death",
+      "image": "https://i.guim.co.uk/img/media/e9df1d1b25ea74ba1f5b6753c389e44125023b46/0_901_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d59b08ccfae72d584c2034446d0a238",
+      "timestamp": "2026-10-06T16:00:18.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/weather/koguma-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Koguma",
+      "image": "https://static01.nyt.com/images/2026/10/05/weather/koguma-map-path-tracker-index/koguma-map-path-tracker-index-articleLarge-v6.jpg",
+      "timestamp": "2026-10-06T14:22:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/oct/06/next-generation-2026-60-of-the-best-young-talents-in-world-football",
+      "headline": "Next Generation 2026: 60 of the best young talents in world football",
+      "image": "https://i.guim.co.uk/img/media/b7ba568b001c9d37f27a841072d55afde100d7cf/0_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=311902bcec8aed18d52bbd4f7d16bd70",
+      "timestamp": "2026-10-06T10:00:51.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/06/texas-2026-elections-competitive-races-us-congress-state-legislature/",
+      "headline": "These are the most competitive November races and where they are up and down Texas’ midterm ballot",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/hotlist-ideas-7-12-scaled.png?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-10-06T10:00:00.000Z"
+    },
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/interaktiv/article412946823/wahlergebnis-sachsen-anhalt-ergebnisse-afd-cdu-sitzverteilung-landtag.html",
+      "headline": "Sachsen-Anhalt: Sitzverteilung und Mehrheiten – die Wahlergebnisse in Grafiken",
+      "image": "https://img.sparknews.funkemedien.de/413085119/413085119_1791278337_v16_9_600.jpeg",
+      "timestamp": "2026-10-06T09:18:58.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/sixers/inq2/sixers-tickets-prices-lebron-james-jaylen-brown-20261006.html",
+      "headline": "LeBron James' Sixers tickets currently cost five times more than they did last season",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/BP7BGMT2HBCTJBKDHP72B36DAA.png",
+      "timestamp": "2026-10-06T09:01:01.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-6-2026",
+      "headline": "Today in Pictures, Oct 6, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/bd8122c9895bc1d2dd4729a11f6efab2b79ab4111a26d98022514c06f8bb8660?w=1200",
+      "timestamp": "2026-10-06T08:08:36.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/upshot/data-center-scale.html",
+      "headline": "What the Data Center Boom Looks Like From the Sky",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/2026-08-19-data-center-scale-index/2026-08-19-data-center-scale-index-articleLarge-v2.jpg",
+      "timestamp": "2026-10-06T00:18:23.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-october-2/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-10-06T00:18:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2026/10/06/i-felt-like-bait-timeline-cornell-university-rape-allegations/",
+      "headline": "‘I felt like bait’: A timeline of the Cornell University rape allegations",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/U3MG4EUGYGNZHGCT2VQNKE5RLQ.jpg&w=300",
+      "timestamp": "2026-10-06T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/06/technology/ai-slop-food-images-restaurant-menus.html",
+      "headline": "Why A.I. Food Slop Looks So Gross",
+      "image": "https://static01.nyt.com/images/2026/09/30/world/oakImage-1790804262225-promo/oakImage-1790804262225-articleLarge.jpg",
+      "timestamp": "2026-10-05T23:11:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/ca-property-map/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/26168578/1/rawImage.jpg",
+      "timestamp": "2026-10-05T22:44:38.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-welfare-tax-exemption-explainer/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31328634/1/rawImage.jpg",
+      "timestamp": "2026-10-05T21:58:12.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/us/politics/trump-free-speech-fence-lafayette-park.html",
+      "headline": "Inside Trump’s Plan to Fence Off a Historic Protest Site",
+      "timestamp": "2026-10-05T21:53:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/education/interactive/2026/10/05/banned-book-or-not-can-you-guess-plot/",
+      "headline": "Banned book or not? Can you guess from the plot?",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreib3udi3hwm7un47fyudo5yufm2hf2uoaadutdednp4cgyqtodmuze",
+      "timestamp": "2026-10-05T20:30:05.005Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/06/nsw-unmarked-graves-communal-burial-plots-investigation",
+      "headline": "Peter and Maria were mourned by people who loved them. So how did they end up in unmarked communal graves?",
+      "image": "https://i.guim.co.uk/img/media/beb96b43ef1944018e9ba0578546adfa63df5bd4/171_0_1667_1334/master/1667.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3762e8c7cb0e62899885fca5cfc86591",
+      "timestamp": "2026-10-05T14:00:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/05/the-surprising-cut-throat-race-for-los-angeles-mayor",
+      "headline": "The surprising, cut-throat race for Los Angeles mayor",
+      "image": "https://i.guim.co.uk/img/media/6c08c908ec787089f190e83b029794909f9f1e14/433_236_2857_2286/master/2857.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=90f13ca14e9c8b6964559ff0e2b306be",
+      "timestamp": "2026-10-05T13:00:25.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-sf-bay-area-voter-guide/",
+      "timestamp": "2026-10-05T11:06:09.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/",
+      "timestamp": "2026-10-05T11:04:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/oct/05/next-generation-2026-20-of-the-best-talents-at-premier-league-clubs",
+      "headline": "Next Generation 2026: 20 of the best talents at Premier League clubs",
+      "image": "https://i.guim.co.uk/img/media/fc1ba01924cf666e56b0846a7f96397946384f70/0_0_1250_1000/master/1250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34eaec8563ee6aac335342a223b7dd6b",
+      "timestamp": "2026-10-05T09:31:42.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/05/nyregion/nyc-budgeting-affordability-bendul.html",
+      "headline": "How a Dancer Lives on $13,500 in East Harlem",
+      "image": "https://static01.nyt.com/images/2026/10/05/multimedia/05met-affording-bendul-promo/05met-affording-bendul-01-glqt-articleLarge.jpg",
+      "timestamp": "2026-10-05T09:03:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/food/inq2/italian-hoagie-ingredients-poll-build-your-own-20261005.html",
+      "headline": "What ingredients are in the perfect Italian hoagie? Build your own and decide",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/XEKL7EBWTVDC5PKZI3NA56S5DI.jpg",
+      "timestamp": "2026-10-05T09:01:00.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/4431f0ea-7afc-447c-a2ce-0019b099135e",
+      "headline": "The executive MBA in data and charts",
+      "timestamp": "2026-10-05T03:30:02.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/upshot/10-minute-challenge-van-der-geest.html",
+      "headline": "10-Minute Challenge: 43 Paintings in One",
+      "image": "https://static01.nyt.com/images/2026/10/05/upshot/up-van-der-geest-home-page/up-van-der-geest-07-articleLarge.jpg",
+      "timestamp": "2026-10-04T22:58:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/brazil-presidential-election-2026-first-round-live-results",
+      "headline": "Brazil presidential election 2026: first-round live results",
+      "image": "https://i.guim.co.uk/img/media/57b638a4d4d903a611efbeecbdfac0df5ef21692/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4d970472064b7fb20ba9817a1d292900",
+      "timestamp": "2026-10-04T19:01:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/oct/05/australia-best-books-october-2026",
+      "headline": "Best Australian books out in October: Magda Szubanski, delicious recipes and a picture book ‘masterpiece’",
+      "image": "https://i.guim.co.uk/img/media/5bc0af66c3b5a1a1e347bea052bfbff4ff84e740/0_400_4000_3200/master/4000.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=20381aaca51fd305ea95d5cb9f54ec5b",
+      "timestamp": "2026-10-04T14:00:29.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/florida-20th-congressional-district-black-vote",
+      "headline": "The desperate, failed attempt to keep one Florida district Black",
+      "image": "https://i.guim.co.uk/img/media/00e07ed3f20e065451d4520608dd869a6f47f4f9/239_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b5c993371c9730422b2ed37370537268",
+      "timestamp": "2026-10-04T11:00:28.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/04/bobby-pulido-tejano-singer-texas-democrats",
+      "headline": "The Tejano singer trying to win back Latinos who voted for Trump, one quinceañera at a time",
+      "image": "https://i.guim.co.uk/img/media/0a2ffd64bcc1786e6ad58fa294e65c93a4b2d300/353_257_5517_4415/master/5517.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=214e40314c93aa4837043af857f04318",
+      "timestamp": "2026-10-04T10:00:24.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/04/us/elections/gerontocracy.html",
+      "headline": "Voters Say Congress Is Too Old. But Older Candidates Keep Winning.",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/2026-09-02-gerentocracy-index/2026-09-02-gerentocracy-index-articleLarge-v3.png",
+      "timestamp": "2026-10-04T09:01:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/10-minutes-to-decide-life-changing-call-kinship-carer",
+      "headline": "‘You have 10 minutes to decide’: answering the life-changing call to become a kinship carer",
+      "image": "https://i.guim.co.uk/img/media/30c00240f1af9269200d2df522334eaf0e3d0617/1716_2358_2611_2089/master/2611.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa934f5f16660ddd58157abcc8027f3e",
+      "timestamp": "2026-10-04T06:00:20.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/oct/04/incinerated-novels-destroyed-warehouses-russia-war-ukrainian-books",
+      "headline": "Incinerated novels and destroyed warehouses: Russia’s war on Ukrainian books",
+      "image": "https://i.guim.co.uk/img/media/9422b0a48fc5f21e07b358565ef461acae77e982/955_355_3097_2477/master/3097.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9549edbd19e1c8375434139ca9ef0854",
+      "timestamp": "2026-10-04T05:00:20.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/oct/04/young-generation-lonely-silence",
+      "headline": "‘There’s a lot of silence’: have we created a new ‘Lonely Generation’?",
+      "image": "https://i.guim.co.uk/img/media/310424a9fdf7d93165cfa8b0889c32678401a8bd/568_692_4385_3508/master/4385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fbd7daab6f9d844220617ed63b5d2fbe",
+      "timestamp": "2026-10-03T19:00:07.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/03/food-diet-weight-hunting",
+      "headline": "My relationship with food was broken. Then I killed my own dinner",
+      "image": "https://i.guim.co.uk/img/media/bf110b307a2a63440c08edd9d0c90559d5e9f43e/0_735_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b8d955cca380a4311383a114502faa6c",
+      "timestamp": "2026-10-03T12:00:59.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/jb-pritzker-profile-democrats-2028",
+      "headline": "A billionaire is one of Trump’s loudest critics. Will Democrats send him to the White House?",
+      "image": "https://i.guim.co.uk/img/media/79591e9ec044fe66520210ed7cb06d15c5b43bb4/0_469_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=409e1ddd76f348764100f66068955344",
+      "timestamp": "2026-10-03T10:00:56.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/03/uss-abraham-lincoln-returns-from-deployment",
+      "headline": "‘It’s been hard’: families await the return of the USS Abraham Lincoln",
+      "image": "https://i.guim.co.uk/img/media/714e328fdd9cac20d35a1995405fec35fa8dc3b7/423_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f993753f5e624a5b680de42bfac43ee5",
+      "timestamp": "2026-10-03T09:00:55.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-10-03T08:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Polls of the Likely Electorate in Battleground Senate Races",
+      "timestamp": "2026-10-03T08:58:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Kansas",
+      "timestamp": "2026-10-03T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-kansas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Kansas",
+      "timestamp": "2026-10-03T08:58:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "timestamp": "2026-10-03T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-texas-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Texas",
+      "timestamp": "2026-10-03T08:58:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-10-03T08:58:05.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-ohio-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-10-03T08:58:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-crosstabs.html",
+      "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-10-03T08:58:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/03/polls/times-siena-iowa-poll-toplines.html",
+      "headline": "Toplines: September 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-10-03T08:58:02.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/03/manchester-city-guilty-verdict-football",
+      "headline": "Manchester City’s guilty verdict brings football’s great sell-off crashing to earth",
+      "image": "https://i.guim.co.uk/img/media/8c1c0550c4c6eb321703bfc2955f03118113bbea/0_625_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8a01eecbd786c2fbe2211da9fc8a7bdb",
+      "timestamp": "2026-10-03T05:00:51.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/climate-environment/interactive/2026/10/03/gas-prices-are-soaring-should-you-buy-an-electric-car-take-our-quiz/",
+      "headline": "Gas prices are soaring. Should you buy an electric car? Take our quiz.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/GHHORIM5O5HWDIZHRV6VWNILLE.jpg&w=300",
+      "timestamp": "2026-10-03T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/02/arts/television/best-tv-series-quiz.html",
+      "headline": "How Well Do You Know the Best TV Shows of the 21st Century?",
+      "image": "https://static01.nyt.com/images/2026/09/27/arts/tvquiz-static/tvquiz-static-articleLarge.jpg",
+      "timestamp": "2026-10-02T21:44:39.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "NBC News",
+      "blueSkyHandle": "nbcnews.com",
+      "url": "https://www.nbcnews.com/data-graphics/statutes-limitations-rape-sexual-assault-rcna601009",
+      "headline": "Where you live matters when it comes to prosecuting rape suspects",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/2X1-ed255a.png",
+      "timestamp": "2026-10-02T19:19:55.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/americas/brazil-election-results-2026-10-02/",
+      "headline": "Brazil election results",
+      "image": "https://www.reuters.com/resizer/v2/RNWPLNBFJFGWJKYWOP3L3JHPCU.jpg?auth=3bb4545de4f4fa79b0310fda06fa3bd476b3b443fdccb12579d605f36bb502dc&width=1200&quality=80",
+      "timestamp": "2026-10-02T17:09:59.212Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/02/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Oct. 3, 2026",
+      "image": "https://static01.nyt.com/images/2026/10/02/multimedia/flashback-promo-2026-10-03-6/flashback-promo-2026-10-03-6-articleLarge.jpg",
+      "timestamp": "2026-10-02T17:06:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/international/praesidentschaftswahl-brasiliens-wahl-entscheidet-auch-ueber-die-zukunft-des-regenwaldes",
+      "headline": "Präsidentschaftswahl – Brasiliens Wahl entscheidet auch über die Zukunft des Regenwaldes",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/568fda.jpg",
+      "timestamp": "2026-10-02T17:03:12.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/middle-east/minutes-disaster-inside-flydubai-1073s-plunge-2026-10-02/",
+      "headline": "Minutes from disaster: Inside the flydubai flight as it plunged from the sky",
+      "image": "https://www.reuters.com/resizer/v2/S4IS4ROSUJHXBFL2JI2FGM6BKI.jpg?auth=cb1969be3480678e759d8982c129c5817b73f9c1a798f58363594e952c09fbc7&width=1200&quality=80",
+      "timestamp": "2026-10-02T15:12:38.711Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/03/icac-young-liberals-group-chats-trash-talking-ntwnfb",
+      "headline": "Inside the group chats of the trash-talking NSW young Liberals who dreamed big – then imploded",
+      "image": "https://i.guim.co.uk/img/media/407cbaf1a81f9a917ab32a7c29bb02fdbb6e6efe/0_0_4966_3973/master/4966.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=1e30548215e67367f70c81796f976186",
+      "timestamp": "2026-10-02T15:00:15.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/02/us/nat-ufo-flying-objects-map.html",
+      "headline": "Read One of the Recently Released U.F.O. Documents",
+      "image": "https://static01.nyt.com/images/2026/09/29/doc-dow-uap-d078notional-mapw-promo/doc-dow-uap-d078notional-mapw-promo-articleLarge.png",
+      "timestamp": "2026-10-02T14:05:31.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/02/feeling-wired-the-truth-about-nervous-system-resets",
+      "headline": "Feeling wired? The truth about ‘nervous system resets’ ",
+      "image": "https://i.guim.co.uk/img/media/d906d906e5677192f566f3d81a0ede0cce9d84ab/0_370_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cf5e7596d4c8a9e64cf02051d2c81858",
+      "timestamp": "2026-10-02T14:00:09.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/02/midterm-races-control-congress-charts-visuals",
+      "headline": "The US midterm races that will decide control of Congress – mapped",
+      "image": "https://i.guim.co.uk/img/media/d794cdad9b60a5c01e5609c16a65f2b7760f2241/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9dc89f8d47ada776e1519d3f28dae6d6",
+      "timestamp": "2026-10-02T11:30:41.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-october-2/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-10-02T11:04:13.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/arts/television/reader-votes-tv-shows-21st-century.html",
+      "headline": "The Best TV Shows of the 21st Century: Readers Choose Their Top Shows",
+      "image": "https://static01.nyt.com/images/2026/09/30/arts/best-tv-reader-ballot/best-tv-reader-ballot-articleLarge.jpg",
+      "timestamp": "2026-10-02T09:03:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-2-2026",
+      "headline": "Today in Pictures, Oct 2, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9377f7c022ae4c615c1901fba8aeaae248531be1fbfdb215d771ddfa07409ce2",
+      "timestamp": "2026-10-02T06:00:52.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/utah-us-house-4-polls-2026.html",
+      "headline": "Utah 4th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-02T00:26:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/utah-us-house-3-polls-2026.html",
+      "headline": "Utah 3rd Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-02T00:24:09.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/texas-us-house-10-polls-2026.html",
+      "headline": "Texas 10th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-02T00:21:56.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/01/books/state-of-libraries-librarians.html",
+      "headline": "Forget the Shushing. Librarians Have a Whole Lot to Say.",
+      "image": "https://static01.nyt.com/images/2026/10/02/books/state-of-libraries-librarians-1790881515642/state-of-libraries-librarians-1790881515642-articleLarge.jpg",
+      "timestamp": "2026-10-01T19:46:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/stage/ng-interactive/2026/oct/02/melbourne-ian-potter-state-theatre-reopening",
+      "headline": "After a huge and costly glow-up, the largest stage in the southern hemisphere is ready for play",
+      "image": "https://i.guim.co.uk/img/media/ed36fdcd2a881b0170e2c4117947ac0b9ce29498/821_0_5000_4002/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd4808bc5e78cfc03627b95943d2ca08",
+      "timestamp": "2026-10-01T14:01:52.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/01/peta-wool-protests",
+      "headline": "Peta claimed victory when fashion stopped using fur - so why are they back hijacking catwalks?",
+      "image": "https://i.guim.co.uk/img/media/deeeb207d0c4df8fbc8441bf027382e442152cdf/0_217_1284_1026/master/1284.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=16db1860b1fd8f17f9f75af27c5eef7f",
+      "timestamp": "2026-10-01T14:00:53.000Z"
+    },
+    {
+      "publication": "De Tijd",
+      "blueSkyHandle": "tijd.be",
+      "url": "https://multimedia.tijd.be/interactief/vliegroutes-brussel/",
+      "headline": "In kaart: Waarom steeds meer vliegtuigen boven Brussel landen",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tn6v3sxnszbm37msd5kyeqki/bafkreicusaomxsz3pnaez6so436ubwg6kq74femfpyrb2jridlqnadaere",
+      "timestamp": "2026-10-01T11:55:45.202Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/oct/01/united-astrology-conference",
+      "headline": "I went to America’s largest gathering of astrologers. It was a battle over how to read the stars",
+      "image": "https://i.guim.co.uk/img/media/f60bdeee18da0864a08ac9b00f508a5bff353149/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c67369e38004ba8a14b8faf6cf326dbd",
+      "timestamp": "2026-10-01T11:00:49.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/how-we-digitally-recreated-traditional-singaporean-games",
+      "headline": "How we digitally recreated traditional Singaporean games",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/10/lostgames-explainer/lostgames-facebook.jpg",
+      "timestamp": "2026-10-01T09:22:53.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/01/travel/things-to-do-vancouver.html",
+      "headline": "36 Hours in Vancouver, British Columbia",
+      "image": "https://static01.nyt.com/images/2026/10/01/multimedia/01trav-hours-vancouver-pkht/01trav-hours-vancouver-pkht-articleLarge-v3.jpg",
+      "timestamp": "2026-10-01T09:03:11.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/oct/01/they-showed-no-mercy-mapping-the-rohingya-villages-being-erased-by-rebel-forces",
+      "headline": "‘They showed no mercy’: mapping the Rohingya villages being erased by rebel forces",
+      "image": "https://i.guim.co.uk/img/media/e97b149a6351bd66f3bb5808c30d31d2a0ada88c/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b6a8d600baf32f54af0c37858e5fbde5",
+      "timestamp": "2026-10-01T09:00:33.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-1-2026",
+      "headline": "Today in Pictures, Oct 1, 2026",
+      "image": "https://static1.straitstimes.com.sg/s3fs-public/articles/2025/06/05/ST-bg.jpg",
+      "timestamp": "2026-10-01T05:13:20.000Z"
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/wissen/klimawandel/eisverlust-2026-massive-gletscherschmelze-so-viel-eis-verschwand-im-hitzesommer",
+      "headline": "Eisverlust 2026 – Massive Gletscherschmelze: So viel Eis verschwand im Hitzesommer",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf/750363.jpg",
+      "timestamp": "2026-10-01T04:19:53.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/ai-tokens/",
+      "headline": "AI got smarter. The bills got harder to control",
+      "timestamp": "2026-10-01T04:00:16.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/gletscherschwund-2026-schweiz-verliert-5-5-des-eisvolumens-888960176645",
+      "headline": "1850 bis heute: «Das ist ein Zerfall der Gletscherlandschaft»: So schlimm war der Rekordsommer für die Eismassen",
+      "timestamp": "2026-10-01T04:00:00.000Z"
+    },
+    {
+      "publication": "The Pudding",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/2026/10/lifeafter",
+      "headline": "Who believes in an afterlife?",
+      "image": "https://pudding.cool/2026/10/lifeafter/assets/social-facebook.jpg",
+      "timestamp": "2026-10-01T04:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/10/storylab/how-do-flock-cameras-work/",
+      "headline": "How do these Flock cameras work anyway? Here’s a visual breakdown.",
+      "image": "https://apps.bostonglobe.com/2026/10/storylab/how-do-flock-cameras-work/static/d69fb14df5a8d77f1b38bca42d8b147b/47498/HYRS7LUR5BFLHLIO7BSDRK4NLE.jpg",
+      "timestamp": "2026-10-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/30/nyregion/canal-street-redesign-nyc-traffic.html",
+      "headline": "Timeless, Infamous, Alive: Walking Canal Street",
+      "image": "https://static01.nyt.com/images/2026/09/30/multimedia/00met-canal-st-dog-qbht/00met-canal-st-dog-qbht-articleLarge.jpg",
+      "timestamp": "2026-09-30T22:30:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/30/weather/choi-wan-map-path-tracker.html",
+      "headline": "Tracking Tropical Storm Choi-wan",
+      "image": "https://static01.nyt.com/images/2026/09/30/weather/twentysix-map-path-tracker-index/twentysix-map-path-tracker-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-30T20:32:07.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/california-governor-steve-hilton-race",
+      "headline": "‘Of course I’m the underdog’: the British former spin doctor trying to turn California red",
+      "image": "https://i.guim.co.uk/img/media/e211536603931b451934462af343672b9993ed0d/0_805_3000_2398/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=79f9a036860b86a1927fc974b0dc3f00",
+      "timestamp": "2026-09-30T14:00:42.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/sep/30/native-american-lenape-art-exhibit",
+      "headline": "Abducted, renamed, but still here – the art of the first Native New Yorkers and their fight for their land",
+      "image": "https://i.guim.co.uk/img/media/16775807750d4899189240dfd78bc31a4fbe6b0b/254_258_2776_2220/master/2776.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7a0a890886fcf2447e0c43b6fd006ce1",
+      "timestamp": "2026-09-30T13:00:41.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/politics/ng-interactive/2026/sep/30/how-could-britain-look-under-proportional-representation-see-the-results-for-your-area",
+      "headline": "How could Great Britain look under proportional representation? See the results for your area",
+      "image": "https://i.guim.co.uk/img/media/959423d67a7b3f310eda336120b965c9682dea3b/1_0_5001_4002/master/5001.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5bce3c2d6b5c80d2e2cb84e5c5136c30",
+      "timestamp": "2026-09-30T12:45:42.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-sept-30-2026",
+      "headline": "Today in Pictures, Sept 30, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/068cd68e85830d1fb63b1233735c718c46b576d5a7642f3507bcfb22658282d5",
+      "timestamp": "2026-09-30T08:53:58.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/hochschulranking-schweizer-universitaeten-verlieren-plaetze-590730658702",
+      "headline": "Internationaler Vergleich: Schweizer Hochschulen fallen zurück – aber Uni-Rankings sind auch umstritten",
+      "timestamp": "2026-09-30T08:08:36.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/aad4e233-4be2-4973-ab81-e1e004fb353d",
+      "headline": "Salty seas get saltier and world ocean more acidic as heatwaves bring ‘profound change’",
+      "timestamp": "2026-09-30T06:01:16.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/us/facebook-2025-05-300041motion-for-partial-summary-judgment.html",
+      "headline": "Facebook v. IRS",
+      "image": "https://static01.nyt.com/images/2026/09/29/doc-facebook-2025-05-300041mo-promo/doc-facebook-2025-05-300041mo-promo-articleLarge.png",
+      "timestamp": "2026-09-29T22:01:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/us/quake-tracker-washington-seattle.html",
+      "headline": "Map: 4.2-Magnitude Earthquake Strikes Near Seattle",
+      "image": "https://static01.nyt.com/images/2026/09/29/world/29wea-quake-tracker-washington-nyt4qdpr-v2-index/29wea-quake-tracker-washington-nyt4qdpr-v2-index-articleLarge-v5.jpg",
+      "timestamp": "2026-09-29T21:55:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html",
+      "headline": "Will A.I. Make Your Brain Lazy? Here’s What the New Research Actually Shows.",
+      "image": "https://static01.nyt.com/images/2026/09/29/arts/Comp-1_00000/Comp-1_00000-articleLarge.jpg",
+      "timestamp": "2026-09-29T20:34:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/food/interactive/2026/09/29/are-you-storing-these-foods-wrong-take-our-quiz/",
+      "headline": "Are you storing these foods wrong? Take our quiz.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreif3tlqoojj23kmprrm3j5omgvawkjc2vy23r4ac2ebpg46o4no3ra",
+      "timestamp": "2026-09-29T20:00:12.505Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/praemien-2027-die-guenstigsten-krankenkassen-in-zuerich-540508510921",
+      "headline": "Prämien 2027: Das sind die günstigsten Krankenkassen in Zürich",
+      "timestamp": "2026-09-29T16:53:58.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/mieten-zuerich-in-welchem-quartier-sie-am-tiefsten-sind-556281218516",
+      "headline": "Preise nach Quartier: 3600 oder 2200 Franken: Wo Sie in Zürich wieviel Miete zahlen",
+      "timestamp": "2026-09-29T12:48:10.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global-development/ng-interactive/2026/sep/29/people-with-albinism-living-in-terror-in-madagascar",
+      "headline": "Murdered for their eyes: people with albinism living in terror in Madagascar",
+      "image": "https://i.guim.co.uk/img/media/b7ffb6f228921414a4127d29873f518261b8cc15/294_0_3195_2556/master/3195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=09e8654f82d2b2a68fcd120de4fca310",
+      "timestamp": "2026-09-29T09:00:59.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/09/29/business/iran-war-hormuz-asia-oil-gas.html",
+      "headline": "How Asia Has Survived the Energy Crisis",
+      "image": "https://static01.nyt.com/images/2026/09/18/multimedia/2026-06-04-iran-asia-oil-index/2026-06-04-iran-asia-oil-index-articleLarge-v10.png",
+      "timestamp": "2026-09-29T08:54:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-sept-29-2026",
@@ -24,6 +2610,22 @@
       "headline": "‘You’ve got to be pretty tough to be a drag queen out there’: Damien Frost’s immaculate queer portraits",
       "image": "https://i.guim.co.uk/img/media/6f034f2d430fc167eb9771637e0f008eb38284cd/648_0_4609_3691/master/4609.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=bfc67d38609954b2448c6b78a0fd3c55",
       "timestamp": "2026-09-29T00:37:01.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/nation/interactive/2026/09/29/see-how-record-el-nio-has-transformed-hawaiis-hurricane-season/",
+      "headline": "Hawaii’s wicked run of hurricanes is a preview of what El Niño has in store",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/LMVKMJ2TPA2Y63V3NMCF5LPCSA.jpg&w=300",
+      "timestamp": "2026-09-29T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/09/29/how-trumps-sweeping-changes-are-remaking-washington/",
+      "headline": "How Trump’s sweeping changes are remaking Washington",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/XTXXHIDE6NCDBH2NU6PLUXFG6I.png&w=300",
+      "timestamp": "2026-09-29T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
@@ -181886,6 +184488,46 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-24/watch-floodwaters-swallow-four-wheel-drive-in-six-minutes/107302040",
+      "headline": "It took less than six minutes for this 4WD to sink out of sight",
+      "image": "https://live-production.wcms.abc-cdn.net.au/0f0f23f99505c5e5ee78808b61dffa12?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=240&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-21/helen-haines-attack-threats-to-politicians/107286670",
+      "headline": "Threats up fourfold before Helen Haines attack",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4cbed21e7fa4e3730665e9d3fefcd544?impolicy=wcms_crop_resize&cropH=1080&cropW=1440&xPos=90&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-19/ai-stock-market-concentration-data/107261078",
+      "headline": "Soaring AI stocks create lopsided US economy",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4c25fdf2d637dc1c52110f19574366f9?impolicy=wcms_crop_resize&cropH=672&cropW=895&xPos=114&yPos=41&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-02/former-minister-de-anne-kelly-co-founded-offshore-casino/107197106",
+      "headline": "Former federal minister De-Anne Kelly revealed as co-founder of offshore casino",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3d9dffacd99e8b4b842b029ea3d8a242?impolicy=wcms_crop_resize&cropH=1025&cropW=1367&xPos=280&yPos=121&width=862&height=647",
+      "timestamp": null
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-01/how-flydubai-flight-fz1073-plunge-unfolded/107215048",
+      "headline": "Falling through the air in minutes: How the flydubai incident unfolded",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3ed6ca997c5f1ce14dac45ace5c17600?impolicy=wcms_crop_resize&cropH=594&cropW=792&xPos=48&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",
