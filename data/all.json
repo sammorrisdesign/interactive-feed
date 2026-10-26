@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-10-26T12:12:09.940Z",
+  "lastUpdated": "2026-10-26T18:29:26.268Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/comey-trump-firing-ruling.html",
+      "headline": "Maurene Comey’s rights were violated when she was fired, a judge ruled.",
+      "image": "https://static01.nyt.com/images/2026/10/26/doc-comey-decision-promo/doc-comey-decision-promo-articleLarge.png",
+      "timestamp": "2026-10-26T16:23:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global/ng-interactive/2026/oct/26/turn-envy-into-motivation",
+      "headline": "Self-destructive or helpful? How to harness envy for your benefit ",
+      "image": "https://i.guim.co.uk/img/media/474efc0221b69032492a29c4ad319b5b3fad850f/649_1173_3187_2550/master/3187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd69c09a1ca2621ec310a83371076378",
+      "timestamp": "2026-10-26T16:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/how-big-are-the-ai-datacentre-power-poles-that-sparked-a-community-backlash-in-melbourne",
+      "headline": "How tall are the AI datacentre power poles that sparked a community backlash in Melbourne?",
+      "image": "https://i.guim.co.uk/img/media/6205004ba4caf3ce4be6737dec0141193c8c4cf9/0_0_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7086b38333a85dfc7a1e983b66a52b1b",
+      "timestamp": "2026-10-26T14:00:44.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/weather/arnab-map-path-tracker.html",
+      "headline": "Tracking Tropical Cyclone Arnab",
+      "image": "https://static01.nyt.com/images/2026/10/26/weather/two-map-path-tracker-index/two-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-26T13:09:51.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/weather/olana-map-path-tracker.html",
+      "headline": "Tracking Tropical Depression Olana",
+      "image": "https://static01.nyt.com/images/2026/10/25/weather/three-c-map-path-tracker-index/three-c-map-path-tracker-index-articleLarge-v12.jpg",
+      "timestamp": "2026-10-26T12:56:09.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "Reuters",
       "blueSkyHandle": "reuters.com",
@@ -1199,6 +1242,14 @@
       "timestamp": "2026-10-14T10:00:00.000Z"
     },
     {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/geld/2026-10/wohneigentum-immobilienmarkt-generationen-miete-grafiken",
+      "headline": "Hier können Millennials günstige Boomer-Häuser finden",
+      "image": "https://img.zeit.de/geld/2026-10/wohneigentum-immobilienmarkt-generationen-miete-grafiken-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-10-14T09:34:43.805Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/10/14/opinion/ebola-spread-africa-outbreak.html",
@@ -1770,6 +1821,14 @@
       "timestamp": "2026-10-08T09:00:15.000Z"
     },
     {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-10/jobsuche-arbeitssuchende-beruf-dauer",
+      "headline": "So lange dauert die Jobsuche in Ihrer Branche",
+      "image": "https://img.zeit.de/arbeit/2026-10/jobsuche-arbeitssuchende-beruf-dauer-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-10-08T08:20:40.400Z"
+    },
+    {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-8-2026",
       "headline": "Today in Pictures, Oct 8, 2026",
@@ -1821,6 +1880,14 @@
       "url": "https://www.tagesanzeiger.ch/wohnungen-zuerich-so-viel-teurer-wird-ihre-miete-beim-umzug-814070116189",
       "headline": "Interaktive Stadtkarte: Sie wollen zügeln? So viel teurer wird Ihre Miete in Zürich",
       "timestamp": "2026-10-07T04:00:56.000Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie",
+      "headline": "Deutschland war nur einen Knopfdruck vom Superblackout entfernt",
+      "image": "https://img.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie-teaserbild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-10-07T03:32:55.476Z"
     },
     {
       "publication": "The New York Times",
@@ -1994,6 +2061,14 @@
       "blueSkyHandle": "sfchronicle.com",
       "url": "https://www.sfchronicle.com/projects/2026/california-sf-election-endorsements/",
       "timestamp": "2026-10-05T11:04:44.000Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/feuilleton/literatur/2026-10/buecherempfehlungen-herbst-literatur-lektuere-belletristik",
+      "headline": "Unsere 100 Bücher für den Herbst",
+      "image": "https://img.zeit.de/feuilleton/literatur/2026-10/buecherempfehlungen-herbst-literatur-lektuere-belletristik-teaser/super__767x511__mobile__scale_2",
+      "timestamp": "2026-10-05T10:39:41.389Z"
     },
     {
       "publication": "The Guardian",
@@ -2714,6 +2789,14 @@
       "isTemplated": false
     },
     {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-09/gehalt-vergleich-alter-einkommen-lohn-check",
+      "headline": "So viel verdienen andere in Ihrem Alter",
+      "image": "https://img.zeit.de/arbeit/2026-09/teaserbild-gehalt-alter/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-28T06:30:43.621Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/09/27/weather/rachel-map-path-tracker.html",
@@ -2895,6 +2978,14 @@
       "timestamp": "2026-09-25T12:00:50.000Z"
     },
     {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/2026-09/katzen-verhalten-koerpersprache-wissen-quiz",
+      "headline": "Verstehen Sie Katzen?",
+      "image": "https://img.zeit.de/wissenschaft/2026-09/katzen-verhalten-koerpersprache-wissen-quiz-teaser/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-25T11:12:08.018Z"
+    },
+    {
       "publication": "San Francisco Chronicle",
       "blueSkyHandle": "sfchronicle.com",
       "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-september-25/",
@@ -3071,6 +3162,14 @@
       "headline": "Cross-Tabs: September 2026 Times/Siena Poll of the Likely Electorate in Michigan",
       "timestamp": "2026-09-24T08:58:05.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-09/waermepumpe-heizung-preis-rechner-berater",
+      "headline": "Lohnt sich jetzt eine Wärmepumpe?",
+      "image": "https://img.zeit.de/2025/46/lohnt-die-sich-bild-2/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-24T08:36:58.928Z"
     },
     {
       "publication": "The New York Times",
@@ -3318,6 +3417,14 @@
       "isTemplated": false
     },
     {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/afd-mecklenburg-vorpommern-landtagswahl-abgeordnete-recherche",
+      "headline": "Das sind die neuen AfD-Abgeordneten im Schweriner Landtag",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/afd-mecklenburg-vorpommern-landtagswahl-abgeordnete-recherche-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-21T19:24:40.813Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/polls/georgia-us-house-11-polls-2026.html",
@@ -3392,6 +3499,14 @@
       "headline": "Help us find Fishtown's neighborhood boundaries",
       "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/STSVBA73BRAPRLEVBSLHXFYZCI.jpg",
       "timestamp": "2026-09-21T09:01:00.000Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-09/wahlergebnisse-berlin-abgeordnetenhaus-karte-wahllokale",
+      "headline": "Nicht nur Berlins Zentrum ist links",
+      "image": "https://img.zeit.de/politik/deutschland/2026-09/wahlergebnisse-berlin-abgeordnetenhaus-karte-wahllokale-teaserbild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-09-21T08:07:56.840Z"
     },
     {
       "publication": "Reuters",

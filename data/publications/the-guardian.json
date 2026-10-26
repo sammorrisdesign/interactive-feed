@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-25T19:50:54.561Z",
+  "lastUpdated": "2026-10-26T18:29:26.235Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/global/ng-interactive/2026/oct/26/turn-envy-into-motivation",
+      "headline": "Self-destructive or helpful? How to harness envy for your benefit ",
+      "image": "https://i.guim.co.uk/img/media/474efc0221b69032492a29c4ad319b5b3fad850f/649_1173_3187_2550/master/3187.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fd69c09a1ca2621ec310a83371076378",
+      "timestamp": "2026-10-26T16:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/how-big-are-the-ai-datacentre-power-poles-that-sparked-a-community-backlash-in-melbourne",
+      "headline": "How tall are the AI datacentre power poles that sparked a community backlash in Melbourne?",
+      "image": "https://i.guim.co.uk/img/media/6205004ba4caf3ce4be6737dec0141193c8c4cf9/0_0_1080_864/master/1080.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7086b38333a85dfc7a1e983b66a52b1b",
+      "timestamp": "2026-10-26T14:00:44.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
