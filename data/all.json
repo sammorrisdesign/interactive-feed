@@ -1,7 +1,4 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
   "lastUpdated": "2026-10-26T18:29:26.268Z",
   "articles": [
     {
@@ -83,18 +80,6 @@
       "isTemplated": false
     },
     {
-=======
-  "lastUpdated": "2026-10-26T05:44:43.119Z",
-  "articles": [
-    {
->>>>>>> b5f7cd7b5 (Automated update of feed)
-=======
-  "lastUpdated": "2026-10-26T12:12:09.940Z",
-=======
-  "lastUpdated": "2026-10-26T18:29:26.268Z",
->>>>>>> ac7633753 (merge main)
-  "articles": [
-    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/comey-trump-firing-ruling.html",
@@ -173,7 +158,6 @@
       "isTemplated": false
     },
     {
->>>>>>> df7871134 (Automated update of feed)
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/wohnungsnot-schweiz-23-der-einfamilienhaeuser-unterbelegt-999626553432",
       "headline": "Neue Daten zum Immomarkt: Zwei Drittel aller Einfamilienhäuser sind unterbelegt – wie sieht es in Ihrer Gemeinde aus?",

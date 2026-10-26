@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ac7633753 (merge main)
 [
   {
     "timestamp": "2026-10-26T18:29:04.231Z",
@@ -22,7 +18,6 @@
     "timestamp": "2026-10-26T18:29:25.541Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
-<<<<<<< HEAD
   },
   {
     "timestamp": "2026-10-26T05:44:06.641Z",
@@ -100,10 +95,3 @@
     "error": "Error fetching Website. 401 error message reported"
   }
 ]
-=======
-[]
->>>>>>> 295904a70 (Clearing the error logs)
-=======
-  }
-]
->>>>>>> ac7633753 (merge main)

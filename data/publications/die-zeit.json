@@ -1,21 +1,9 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
   "lastUpdated": "2026-10-26T18:29:25.560Z",
-=======
-  "lastUpdated": "2026-09-29T12:49:17.948Z",
->>>>>>> 0c09a755d (Switch Die Zeit to JSON feed)
-=======
-  "lastUpdated": "2026-10-26T18:29:25.560Z",
->>>>>>> ac7633753 (merge main)
   "articles": [
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ac7633753 (merge main)
       "url": "https://www.zeit.de/geld/2026-10/wohneigentum-immobilienmarkt-generationen-miete-grafiken",
       "headline": "Hier können Millennials günstige Boomer-Häuser finden",
       "image": "https://img.zeit.de/geld/2026-10/wohneigentum-immobilienmarkt-generationen-miete-grafiken-bild/super__767x511__mobile__scale_2",
@@ -48,11 +36,6 @@
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
-<<<<<<< HEAD
-=======
->>>>>>> 0c09a755d (Switch Die Zeit to JSON feed)
-=======
->>>>>>> ac7633753 (merge main)
       "url": "https://www.zeit.de/arbeit/2026-09/gehalt-vergleich-alter-einkommen-lohn-check",
       "headline": "So viel verdienen andere in Ihrem Alter",
       "image": "https://img.zeit.de/arbeit/2026-09/teaserbild-gehalt-alter/super__767x511__mobile__scale_2",

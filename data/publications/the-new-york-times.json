@@ -1,21 +1,9 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
   "lastUpdated": "2026-10-26T18:29:26.246Z",
-=======
-  "lastUpdated": "2026-10-26T12:12:01.026Z",
->>>>>>> df7871134 (Automated update of feed)
-=======
-  "lastUpdated": "2026-10-26T18:29:26.246Z",
->>>>>>> ac7633753 (merge main)
   "articles": [
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> ac7633753 (merge main)
       "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/comey-trump-firing-ruling.html",
       "headline": "Maurene Comey’s rights were violated when she was fired, a judge ruled.",
       "image": "https://static01.nyt.com/images/2026/10/26/doc-comey-decision-promo/doc-comey-decision-promo-articleLarge.png",
@@ -43,11 +31,6 @@
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
-<<<<<<< HEAD
-=======
->>>>>>> df7871134 (Automated update of feed)
-=======
->>>>>>> ac7633753 (merge main)
       "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/nyc-budgeting-affordability-carter.html",
       "headline": "How New York City’s ‘Furniture Queen’ Lives on $48,630 in the Bronx",
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26affordingny-carter-promo/26affordingny-carter-03-gzqf-articleLarge.jpg",
