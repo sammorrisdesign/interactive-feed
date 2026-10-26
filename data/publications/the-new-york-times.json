@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-10-25T17:23:09.520Z",
+  "lastUpdated": "2026-10-26T12:12:01.026Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/nyc-budgeting-affordability-carter.html",
+      "headline": "How New York City’s ‘Furniture Queen’ Lives on $48,630 in the Bronx",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26affordingny-carter-promo/26affordingny-carter-03-gzqf-articleLarge.jpg",
+      "timestamp": "2026-10-26T09:02:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/opinion/midterms-pollsters-pundits-scorecard-october.html",
+      "headline": "Is a Blue Wave Coming? 6 Pollsters and Pundits Offer Their Best Guesses.",
+      "image": "https://static01.nyt.com/images/2026/10/26/opinion/26midterm-scorecard/26midterm-scorecard-articleLarge-v3.jpg",
+      "timestamp": "2026-10-26T09:02:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/world/americas/brazil-election-results-maps.html",
+      "headline": "How Lula Came Back",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/2026-10-02-brazil-election-index/2026-10-02-brazil-election-index-articleLarge-v21.jpg",
+      "timestamp": "2026-10-26T06:04:58.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
