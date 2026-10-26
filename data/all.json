@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "lastUpdated": "2026-10-26T18:29:26.268Z",
   "articles": [
     {
@@ -86,6 +87,46 @@
   "articles": [
     {
 >>>>>>> b5f7cd7b5 (Automated update of feed)
+=======
+  "lastUpdated": "2026-10-26T12:12:09.940Z",
+  "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/markets/deals/tesla-vs-spacex-how-two-musk-companies-compare-they-weigh-merger-2026-10-26/",
+      "headline": "Tesla vs SpaceX: how the two Musk companies compare as they weigh merger",
+      "image": "https://www.reuters.com/resizer/v2/MKZJPQS36NDCPBV6NEKIKSEKHU.jpg?auth=9fcdd3509e6090cdf07935bf617305b61f463238b5f2a9838790f71be84dff01&width=1200&quality=80",
+      "timestamp": "2026-10-26T11:11:11.602Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/nyc-budgeting-affordability-carter.html",
+      "headline": "How New York City’s ‘Furniture Queen’ Lives on $48,630 in the Bronx",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26affordingny-carter-promo/26affordingny-carter-03-gzqf-articleLarge.jpg",
+      "timestamp": "2026-10-26T09:02:32.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/opinion/midterms-pollsters-pundits-scorecard-october.html",
+      "headline": "Is a Blue Wave Coming? 6 Pollsters and Pundits Offer Their Best Guesses.",
+      "image": "https://static01.nyt.com/images/2026/10/26/opinion/26midterm-scorecard/26midterm-scorecard-articleLarge-v3.jpg",
+      "timestamp": "2026-10-26T09:02:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/world/americas/brazil-election-results-maps.html",
+      "headline": "How Lula Came Back",
+      "image": "https://static01.nyt.com/images/2026/10/21/multimedia/2026-10-02-brazil-election-index/2026-10-02-brazil-election-index-articleLarge-v21.jpg",
+      "timestamp": "2026-10-26T06:04:58.000Z",
+      "isTemplated": false
+    },
+    {
+>>>>>>> df7871134 (Automated update of feed)
       "publication": "Tages-Anzeiger",
       "url": "https://www.tagesanzeiger.ch/wohnungsnot-schweiz-23-der-einfamilienhaeuser-unterbelegt-999626553432",
       "headline": "Neue Daten zum Immomarkt: Zwei Drittel aller Einfamilienhäuser sind unterbelegt – wie sieht es in Ihrer Gemeinde aus?",
