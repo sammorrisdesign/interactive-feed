@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-27T01:59:04.301Z",
+  "lastUpdated": "2026-10-27T07:34:03.540Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/upshot/gerrymandering-ranking.html",
+      "headline": "An Extremely Detailed Ranking of the Most Gerrymandered States in America",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/2025-08-11-simulated-districts-index/2025-08-11-simulated-districts-index-articleLarge.png",
+      "timestamp": "2026-10-27T03:53:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

@@ -1,6 +1,35 @@
 {
-  "lastUpdated": "2026-10-27T01:59:06.598Z",
+  "lastUpdated": "2026-10-27T07:34:07.502Z",
   "articles": [
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-27-2026",
+      "headline": "Today in Pictures, Oct 27, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9be006e1276f8403154220c1b86ff2df645a30c2b9496ff49026366f77198556?w=1200",
+      "timestamp": "2026-10-27T07:04:39.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f41fc704-c9e6-42de-b800-d43cabe61947",
+      "headline": "Inside Trump Jr’s Mongolian hunting trip with a Kremlin-linked oligarch",
+      "timestamp": "2026-10-27T05:00:10.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/midterms-2026-trump-baut-die-demokratie-im-rekordtempo-ab-165801283045",
+      "headline": "Ausgangslage vor Midterms: Trump baut die Demokratie im Rekordtempo ab – und steht damit für einen weltweiten Trend",
+      "timestamp": "2026-10-27T04:57:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/upshot/gerrymandering-ranking.html",
+      "headline": "An Extremely Detailed Ranking of the Most Gerrymandered States in America",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/2025-08-11-simulated-districts-index/2025-08-11-simulated-districts-index-articleLarge.png",
+      "timestamp": "2026-10-27T03:53:45.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
