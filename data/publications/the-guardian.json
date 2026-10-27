@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-26T18:29:26.235Z",
+  "lastUpdated": "2026-10-27T13:54:51.141Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech",
+      "headline": "Silicon Valley parents want the tech they help build out of their children’s schools",
+      "image": "https://i.guim.co.uk/img/media/15b6d18a2d4da6e46267ca0a09462787169b65f3/0_0_2399_1920/master/2399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7942353b726c195f1351a18c0b026fa4",
+      "timestamp": "2026-10-27T12:00:38.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+      "headline": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
+      "image": "https://i.guim.co.uk/img/media/6991475377c0d8fb27941596fd196b4e2ad59ad5/140_1237_3396_2717/master/3396.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa0d4a4f1ebff7f1051712dd6e5237dd",
+      "timestamp": "2026-10-27T05:00:04.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

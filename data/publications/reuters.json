@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-26T12:12:00.859Z",
+  "lastUpdated": "2026-10-27T13:54:50.636Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/middle-east/live-2026-israel-election-results-2026-10-27/",
+      "headline": "Live 2026 Israel election results",
+      "image": "https://www.reuters.com/resizer/v2/7U3V5HMVEVDYFLDBENSB5O7BKM.jpg?auth=c16ae27e193569822e03cb7b18eb0eeb371fa5b7497a4db6296139fd8ad754b3&width=1200&quality=80",
+      "timestamp": "2026-10-27T09:54:49.346Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/us/midterm-downturn-2026-10-27/",
+      "headline": "The midterm downturn",
+      "image": "https://www.reuters.com/resizer/v2/VD4DYUPTK5BOLKXZQA7SCLXOU4.png?auth=1a9adf6740dbf867325cea385362d0c3b658ee7419f9a4ae7e051190273e156c&width=1200&quality=80",
+      "timestamp": "2026-10-27T08:22:02.311Z"
+    },
     {
       "publication": "Reuters",
       "blueSkyHandle": "reuters.com",

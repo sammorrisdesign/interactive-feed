@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-10-27T07:34:07.502Z",
+  "lastUpdated": "2026-10-27T13:54:57.984Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/27/silicon-valley-schools-education-tech",
+      "headline": "Silicon Valley parents want the tech they help build out of their children’s schools",
+      "image": "https://i.guim.co.uk/img/media/15b6d18a2d4da6e46267ca0a09462787169b65f3/0_0_2399_1920/master/2399.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7942353b726c195f1351a18c0b026fa4",
+      "timestamp": "2026-10-27T12:00:38.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/middle-east/live-2026-israel-election-results-2026-10-27/",
+      "headline": "Live 2026 Israel election results",
+      "image": "https://www.reuters.com/resizer/v2/7U3V5HMVEVDYFLDBENSB5O7BKM.jpg?auth=c16ae27e193569822e03cb7b18eb0eeb371fa5b7497a4db6296139fd8ad754b3&width=1200&quality=80",
+      "timestamp": "2026-10-27T09:54:49.346Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/entertainment/inq2/halloween-haunted-locations-philadelphia-20261030.html",
+      "headline": "Five tales of haunted Philadelphia locations, from Washington Square to Grumblethorpe",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/BUGZUX6VBJF7VBVLGCYMVYKJ7M.jpg",
+      "timestamp": "2026-10-27T09:01:01.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/us/midterm-downturn-2026-10-27/",
+      "headline": "The midterm downturn",
+      "image": "https://www.reuters.com/resizer/v2/VD4DYUPTK5BOLKXZQA7SCLXOU4.png?auth=1a9adf6740dbf867325cea385362d0c3b658ee7419f9a4ae7e051190273e156c&width=1200&quality=80",
+      "timestamp": "2026-10-27T08:22:02.311Z"
+    },
     {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-27-2026",
@@ -11,9 +43,24 @@
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/703b7dc9-086f-4985-9afa-232afd94e087",
+      "headline": "Growth in every postcode? What the UK economy really looks like",
+      "timestamp": "2026-10-27T05:00:18.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
       "url": "https://www.ft.com/content/f41fc704-c9e6-42de-b800-d43cabe61947",
       "headline": "Inside Trump Jr’s Mongolian hunting trip with a Kremlin-linked oligarch",
       "timestamp": "2026-10-27T05:00:10.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/27/would-you-pay-to-have-the-best-baby-liberal-eugenics-and-the-troubling-quest-for-human-perfection",
+      "headline": "Would you pay to have the ‘best baby’? Liberal eugenics and the troubling quest for human perfection",
+      "image": "https://i.guim.co.uk/img/media/6991475377c0d8fb27941596fd196b4e2ad59ad5/140_1237_3396_2717/master/3396.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=fa0d4a4f1ebff7f1051712dd6e5237dd",
+      "timestamp": "2026-10-27T05:00:04.000Z"
     },
     {
       "publication": "Tages-Anzeiger",
@@ -47,6 +94,22 @@
       "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27met-ballot-proposals-kghf/27met-ballot-proposals-kghf-articleLarge-v3.jpg",
       "timestamp": "2026-10-27T00:38:24.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/10/27/two-schooners-raced-along-chesapeake-bay-victory-tradition/",
+      "headline": "Two schooners raced along the Chesapeake Bay for victory — and tradition",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5JW5NVCMXJKG2MTVIU4WPUUB6U.JPG&w=300",
+      "timestamp": "2026-10-27T00:00:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/investigations/interactive/2026/10/27/trumps-arch-would-cast-shadow-arlington-cemetery/",
+      "headline": "Trump’s arch would cast shadow on Arlington Cemetery",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HUHL6I3GXNFIXDUXH74IQ2T22U.jpg&w=300",
+      "timestamp": "2026-10-27T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
