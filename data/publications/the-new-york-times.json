@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-26T18:29:26.246Z",
+  "lastUpdated": "2026-10-27T01:59:04.301Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/technology/ai-agent-hacks-training.html",
+      "headline": "A.I.’s Rogue Behavior Starts With Its Training",
+      "image": "https://static01.nyt.com/images/2026/10/22/multimedia/2026-09-26-ai-agent-behaviors-index/2026-09-26-ai-agent-behaviors-index-articleLarge.png",
+      "timestamp": "2026-10-27T01:04:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/26/nyregion/nyc-ballot-measures-proposals.html",
+      "headline": "What to Know About the 5 Proposals on the Ballot in New York City",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/27met-ballot-proposals-kghf/27met-ballot-proposals-kghf-articleLarge-v3.jpg",
+      "timestamp": "2026-10-27T00:38:24.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
