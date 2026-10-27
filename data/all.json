@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-10-27T13:54:57.984Z",
+  "lastUpdated": "2026-10-27T19:12:19.367Z",
   "articles": [
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/eagles/inq2/eagles-trade-deadline-landon-dickerson-moro-ojomo-hollywood-brown-20261027.html",
+      "headline": "Which Eagles will be traded, from Saquon Barkley to Riq Woolen? See our votes and cast your own.",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/DWUW3IQZ3BEFXDONTFHTCHGISY.jpg",
+      "timestamp": "2026-10-27T18:55:05.373Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/wellness/interactive/2026/10/27/are-you-falling-these-common-procrastination-traps-take-our-quiz/",
+      "headline": "Are you falling for these common procrastination traps? Take our quiz.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreibcqur2o5vud36fgxuzqy3j6dbgw5upboxhidzzf3dyr5jh4jvkje",
+      "timestamp": "2026-10-27T18:30:06.699Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "url": "https://www.houstonchronicle.com/projects/2026/midterm-races-to-watch/",
+      "headline": "If you care about data centers, ICE raids or inflation, watch these Texas races",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5wontugfwb4lv7nwonarkqw/bafkreif4jzpcdcwtpgrs46ik6lc6qdrdpyf6bp6vtaz47sffepy5ggehxq",
+      "timestamp": "2026-10-27T17:14:33.601Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
