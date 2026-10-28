@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-28T15:42:27.733Z",
+  "lastUpdated": "2026-10-28T20:45:13.326Z",
   "articles": [
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/europe/how-high-speed-train-crash-unfolded-central-spain-2026-10-28/",
+      "headline": "How a high-speed train crash unfolded in central Spain",
+      "image": "https://www.reuters.com/resizer/v2/SB3FZWVR3BAQJEOUJ4FUUV57IA.jpg?auth=821131dccb9c2784e78de76c05f38caeb892e6c811943e57dff90563af92d9a7&width=1200&quality=80",
+      "timestamp": "2026-10-28T16:37:09.523Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -2601,6 +2609,14 @@
       "timestamp": "2026-10-03T05:00:51.000Z"
     },
     {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/10/business/south-station-tower-boston-real-estate/",
+      "headline": "‘The good, the bad, and the ugly.’ How South Station Tower embodies Boston’s real estate economy.",
+      "image": "https://apps.bostonglobe.com/2026/10/business/south-station-tower-boston-real-estate/static/d21f6fa8249f97deae9a5753078ff5fb/47498/W7YVTLV5YEL7C75KSZ7ICTAUUI.jpg",
+      "timestamp": "2026-10-03T00:00:00.000Z"
+    },
+    {
       "publication": "The Washington Post",
       "blueSkyHandle": "washingtonpost.com",
       "url": "https://www.washingtonpost.com/climate-environment/interactive/2026/10/03/gas-prices-are-soaring-should-you-buy-an-electric-car-take-our-quiz/",
@@ -3116,6 +3132,14 @@
       "image": "https://static01.nyt.com/images/2026/09/27/weather/eighteen-e-map-path-tracker-index/eighteen-e-map-path-tracker-index-articleLarge-v11.jpg",
       "timestamp": "2026-09-28T00:40:35.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/09/spotlight/massachusetts-nursing-homes-outside-owners/regalcare-eliyahu-mirlis/",
+      "headline": "Residents left in soiled diapers. Calls for help unanswered. What happened when this N.J. man bought Mass. nursing homes.",
+      "image": "https://apps.bostonglobe.com/2026/09/spotlight/massachusetts-nursing-homes-outside-owners/static/8c54523a5fcc18e9c4a4b993f827a40f/47498/32PJSLNF6LCUNKA5WA4X2LGIX4.jpg",
+      "timestamp": "2026-09-28T00:00:00.000Z"
     },
     {
       "publication": "The Washington Post",

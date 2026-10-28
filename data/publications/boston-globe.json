@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-06T23:32:28.332Z",
+  "lastUpdated": "2026-10-28T20:45:09.820Z",
   "articles": [
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/10/business/south-station-tower-boston-real-estate/",
+      "headline": "‘The good, the bad, and the ugly.’ How South Station Tower embodies Boston’s real estate economy.",
+      "image": "https://apps.bostonglobe.com/2026/10/business/south-station-tower-boston-real-estate/static/d21f6fa8249f97deae9a5753078ff5fb/47498/W7YVTLV5YEL7C75KSZ7ICTAUUI.jpg",
+      "timestamp": "2026-10-03T00:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/09/spotlight/massachusetts-nursing-homes-outside-owners/regalcare-eliyahu-mirlis/",
+      "headline": "Residents left in soiled diapers. Calls for help unanswered. What happened when this N.J. man bought Mass. nursing homes.",
+      "image": "https://apps.bostonglobe.com/2026/09/spotlight/massachusetts-nursing-homes-outside-owners/static/8c54523a5fcc18e9c4a4b993f827a40f/47498/32PJSLNF6LCUNKA5WA4X2LGIX4.jpg",
+      "timestamp": "2026-09-28T00:00:00.000Z"
+    },
     {
       "publication": "Boston Globe",
       "blueSkyHandle": "bostonglobe.bsky.social",
