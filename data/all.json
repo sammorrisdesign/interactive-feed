@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-27T19:12:19.367Z",
+  "lastUpdated": "2026-10-28T02:29:51.017Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/27/science/earth/el-nino-climate-faq.html",
+      "headline": "Everything You Could Possibly Want to Know About El Niño",
+      "image": "https://static01.nyt.com/images/2026/10/26/arts/elnino-promo32_cover/elnino-promo32_cover-articleLarge-v5.jpg",
+      "timestamp": "2026-10-28T00:33:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Philadelphia Inquirer",
       "blueSkyHandle": "inquirer.com",
