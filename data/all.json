@@ -1,6 +1,152 @@
 {
-  "lastUpdated": "2026-10-28T08:55:13.300Z",
+  "lastUpdated": "2026-10-28T15:42:27.733Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/world/europe/spain-train-crash-what-happened.html",
+      "headline": "How Two Trains Collided in Spain",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-28-spain-train-crash-index/2026-10-28-spain-train-crash-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-28T15:15:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/hat-dieses-video-die-massen-in-frankreich-fuer-den-17-oktober-mobilisiert-ld.10040751",
+      "headline": "Hat dieses Video die Massen in Frankreich für den 17. Oktober mobilisiert?",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/27/7574fa77-f7d1-45d4-949c-fba637c3119e.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y94&wmark=nzz",
+      "timestamp": "2026-10-28T15:02:32.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/money/ng-interactive/2026/oct/28/budget-income-tax-thresholds-frozen-take-home-pay",
+      "headline": "Income tax: Healey’s budget leaves thresholds frozen again. How much more will you pay?",
+      "image": "https://i.guim.co.uk/img/media/fd8fc2226e42f5dace5cdf46887c5d7640e8b6f8/696_0_6139_4912/master/6139.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a05ec12e32154c06f3376cf4d61c155a",
+      "timestamp": "2026-10-28T15:01:13.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/business/ng-interactive/2026/oct/29/electricity-insurance-and-eggs-see-how-has-life-in-australia-got-more-expensive",
+      "headline": "Electricity, insurance and eggs: see how has life in Australia got more expensive",
+      "image": "https://i.guim.co.uk/img/media/bc2d79b5a1f2703a7c5382681eb23553a64472da/793_0_7161_5733/master/7161.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=87528f96d70323f40e039107d1250b0b",
+      "timestamp": "2026-10-28T14:00:05.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/28/california-bill-essayli-us-attorney",
+      "headline": "The pro-Trump prosecutor trying to stop California ballots from being counted",
+      "image": "https://i.guim.co.uk/img/media/c0617c75d2c109958a57a5c8027f132e6a92ea64/878_352_4079_3263/master/4079.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=edb17f7573f3b38859b164c867386783",
+      "timestamp": "2026-10-28T14:00:04.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Minnesota",
+      "timestamp": "2026-10-28T11:24:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-fl-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Florida",
+      "timestamp": "2026-10-28T11:24:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in South Carolina",
+      "timestamp": "2026-10-28T11:23:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-fl-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Florida",
+      "timestamp": "2026-10-28T11:23:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Minnesota",
+      "timestamp": "2026-10-28T11:22:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in South Carolina",
+      "timestamp": "2026-10-28T11:22:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/oct/28/turner-classic-movies-skydance-merger",
+      "headline": "Film buffs love it. Trump and Tom Hanks hosted it. Can TCM survive a Hollywood mega-merger?",
+      "image": "https://i.guim.co.uk/img/media/4ee095f7bae6f38b04b00f68159333b5f6396e43/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b16c2ef72c28ac510cb07e8e5e43e44",
+      "timestamp": "2026-10-28T11:00:01.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/10/28/texas-suburbs-growth-democratic-shift-us-senate-charts/",
+      "headline": "Six charts that explain how Texas’ suburbs became a midterm battleground",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/10/1002-ATX-Urban-Sprawl-JV-16-scaled.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-10-28T10:00:00.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/what-can-hdb-names-reveal-about-singapore",
+      "headline": "What can HDB names reveal about Singapore",
+      "image": "https://www.straitstimes.com/multimedia/graphics/assets/facebook_images/2026/10/video-explainer-hdb-names/video-explainer-hdb-names.jpg",
+      "timestamp": "2026-10-28T09:54:48.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/us/politics/ad-spending-house-senate-election-campaigns.html",
+      "headline": "Where the Parties Are Outspending Each Other in the Midterm Ad War",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-09-30-ad-spending-index/2026-09-30-ad-spending-index-articleLarge-v5.png",
+      "timestamp": "2026-10-28T09:06:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/us/politics/midterm-elections-10th-congressional-district-stelson-perry.html",
+      "headline": "Two Blocks in Pennsylvania Show Why It’s So Hard for Campaigns to Reach Voters",
+      "image": "https://static01.nyt.com/images/2026/10/26/us/politics/midterm-elections-10th-congressional-district-stelson-perry-1793113450145/midterm-elections-10th-congressional-district-stelson-perry-1793113450145-articleLarge.png",
+      "timestamp": "2026-10-28T09:05:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/opinion/american-dream-affordability.html",
+      "headline": "What America Is Living Without",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28affordability-promometa/28affordability-fgwm-articleLarge.jpg",
+      "timestamp": "2026-10-28T09:01:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ee862c14-9e71-4023-b632-5c76b7b92892",
+      "headline": "The FT Budget quiz: How weird is the UK?",
+      "timestamp": "2026-10-28T05:00:15.000Z"
+    },
     {
       "publication": "FT",
       "blueSkyHandle": "data.ft.com",
@@ -16,6 +162,14 @@
       "image": "https://static01.nyt.com/images/2026/10/26/arts/elnino-promo32_cover/elnino-promo32_cover-articleLarge-v5.jpg",
       "timestamp": "2026-10-28T00:33:10.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/10/28/photos-dc-annual-high-heel-race/",
+      "headline": "The heels were high. The stakes weren’t.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/5ZQK3UBM6RUA5F5IIS5N54QKII.JPG&w=300",
+      "timestamp": "2026-10-28T00:00:00.000Z"
     },
     {
       "publication": "The Philadelphia Inquirer",

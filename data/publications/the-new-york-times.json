@@ -1,6 +1,90 @@
 {
-  "lastUpdated": "2026-10-28T02:29:49.947Z",
+  "lastUpdated": "2026-10-28T15:42:15.032Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/world/europe/spain-train-crash-what-happened.html",
+      "headline": "How Two Trains Collided in Spain",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/2026-10-28-spain-train-crash-index/2026-10-28-spain-train-crash-index-articleLarge-v3.jpg",
+      "timestamp": "2026-10-28T15:15:06.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Minnesota",
+      "timestamp": "2026-10-28T11:24:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-fl-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Florida",
+      "timestamp": "2026-10-28T11:24:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in South Carolina",
+      "timestamp": "2026-10-28T11:23:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-fl-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Florida",
+      "timestamp": "2026-10-28T11:23:10.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-mn-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Minnesota",
+      "timestamp": "2026-10-28T11:22:42.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/polls/times-siena-sc-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in South Carolina",
+      "timestamp": "2026-10-28T11:22:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/us/politics/ad-spending-house-senate-election-campaigns.html",
+      "headline": "Where the Parties Are Outspending Each Other in the Midterm Ad War",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-09-30-ad-spending-index/2026-09-30-ad-spending-index-articleLarge-v5.png",
+      "timestamp": "2026-10-28T09:06:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/us/politics/midterm-elections-10th-congressional-district-stelson-perry.html",
+      "headline": "Two Blocks in Pennsylvania Show Why It’s So Hard for Campaigns to Reach Voters",
+      "image": "https://static01.nyt.com/images/2026/10/26/us/politics/midterm-elections-10th-congressional-district-stelson-perry-1793113450145/midterm-elections-10th-congressional-district-stelson-perry-1793113450145-articleLarge.png",
+      "timestamp": "2026-10-28T09:05:59.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/opinion/american-dream-affordability.html",
+      "headline": "What America Is Living Without",
+      "image": "https://static01.nyt.com/images/2026/10/28/multimedia/28affordability-promometa/28affordability-fgwm-articleLarge.jpg",
+      "timestamp": "2026-10-28T09:01:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
