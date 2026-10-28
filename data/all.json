@@ -1,6 +1,13 @@
 {
-  "lastUpdated": "2026-10-28T02:29:51.017Z",
+  "lastUpdated": "2026-10-28T08:55:13.300Z",
   "articles": [
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/a89fa128-8fcb-4ff4-bd8b-6bb591ccd9c1",
+      "headline": "The globetrotting Trump brothers",
+      "timestamp": "2026-10-28T05:00:07.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -33,6 +40,14 @@
       "headline": "If you care about data centers, ICE raids or inflation, watch these Texas races",
       "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5wontugfwb4lv7nwonarkqw/bafkreif4jzpcdcwtpgrs46ik6lc6qdrdpyf6bp6vtaz47sffepy5ggehxq",
       "timestamp": "2026-10-27T17:14:33.601Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/food/ng-interactive/2026/oct/28/better-pasta-six-easy-tips-julia-busuttil-nishimura-simple-pleasures",
+      "headline": "Fresh isn’t always best: six easy ways to make better pasta, according to Julia Busuttil Nishimura",
+      "image": "https://i.guim.co.uk/img/media/8bb71aa89d5411084270c8e096f74f2d479fdf8b/0_1410_3307_2646/master/3307.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=34af454ae7b5d0bd68e5f0c51b2c5f86",
+      "timestamp": "2026-10-27T14:00:35.000Z"
     },
     {
       "publication": "The Guardian",
