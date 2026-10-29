@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-28T15:42:15.032Z",
+  "lastUpdated": "2026-10-29T00:34:54.402Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/28/style/gen-z-job-market.html",
+      "headline": "Searching for Jobs, Gen Z Feels Like It’s Staring Into ‘the Void’",
+      "image": "https://static01.nyt.com/images/2026/10/28/style/ST-JOB-VOID-illo/ST-JOB-VOID-illo-articleLarge.jpg",
+      "timestamp": "2026-10-29T00:22:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
