@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-10-29T00:34:54.402Z",
+  "lastUpdated": "2026-10-29T13:55:17.234Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/california-us-house-4-polls-2026.html",
+      "headline": "California 4th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-29T13:06:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/29/well/sugar-health-quiz-halloween-candy.html",
+      "headline": "How Much Do You Know About Sugar?",
+      "image": "https://static01.nyt.com/images/2026/10/30/well/30WELL-SUGAR-QUIZ30-promo/30WELL-SUGAR-QUIZ30-articleLarge.jpg",
+      "timestamp": "2026-10-29T09:03:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

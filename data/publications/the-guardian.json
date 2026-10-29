@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-28T15:42:14.391Z",
+  "lastUpdated": "2026-10-29T13:55:17.212Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/oct/29/psychics-push-back-ai-readings",
+      "headline": "Computerized clairvoyance: psychics push back against AI-generated readings",
+      "image": "https://i.guim.co.uk/img/media/8965bdb4347fba9c905e802374a3cebfea5c77ac/375_0_2250_1800/master/2250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=38ac9a1ae9ce58d068c79cefb916c051",
+      "timestamp": "2026-10-29T11:00:31.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
