@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-10-29T00:34:56.834Z",
+  "lastUpdated": "2026-10-29T06:44:06.653Z",
   "articles": [
+    {
+      "publication": "Berliner Morgenpost",
+      "url": "https://www.morgenpost.de/berlin/article413523822/analyse-mit-grafiken-so-vielfaeltig-ist-berlins-neues-abgeordnetenhaus.html",
+      "headline": "Analyse mit Grafiken: So vielfältig ist Berlins neues Abgeordnetenhaus",
+      "image": "https://img.sparknews.funkemedien.de/413396785/413396785_1791800709_v16_9_600.jpeg",
+      "timestamp": "2026-10-29T05:00:00.000Z"
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/mitholz-explosionskatastrophe-damit-der-berg-nicht-explodiert",
+      "headline": "Mitholz Explosionskatastrophe – Damit der Berg nicht explodiert",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/45641f.jpg",
+      "timestamp": "2026-10-29T04:56:09.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
@@ -184962,6 +184976,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-29/prices-cost-of-living-inflation-tracker/107296304",
+      "headline": "What's going on with the price of everything? We've tracked the data",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7408cadd25388f48bec217a2cff01cba?impolicy=wcms_crop_resize&cropH=1026&cropW=1368&xPos=162&yPos=126&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

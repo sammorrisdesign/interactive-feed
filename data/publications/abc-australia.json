@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-23T21:50:08.634Z",
+  "lastUpdated": "2026-10-29T06:43:58.881Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-10-29/prices-cost-of-living-inflation-tracker/107296304",
+      "headline": "What's going on with the price of everything? We've tracked the data",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7408cadd25388f48bec217a2cff01cba?impolicy=wcms_crop_resize&cropH=1026&cropW=1368&xPos=162&yPos=126&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
