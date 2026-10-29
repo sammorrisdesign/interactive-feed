@@ -1,6 +1,40 @@
 {
-  "lastUpdated": "2026-10-29T13:55:21.858Z",
+  "lastUpdated": "2026-10-29T19:24:06.676Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/polls/minnesota-us-house-8-polls-2026.html",
+      "headline": "Minnesota 8th Congressional District 2026: Latest Polls",
+      "image": "https://static01.nyt.com/images/2026/09/16/us/midterm-elections-promo-polling/midterm-elections-promo-polling-articleLarge.jpg",
+      "timestamp": "2026-10-29T19:03:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "ProPublica",
+      "blueSkyHandle": "propublica.bsky.social",
+      "url": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
+      "headline": "Search More Than 500 Cases of U.S. Citizens Detained by Immigration Agents",
+      "image": "https://www.propublica.org/wp-content/uploads/2026/10/Citizens2.0-APPpromov4_maxHeight_3000_maxWidth_3000.jpg?w=300",
+      "timestamp": "2026-10-29T17:50:00.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/business/interactive/2026/10/29/everything-feels-more-expensive-do-you-know-what-actually-got-pricier-this-year/",
+      "headline": "Everything feels more expensive. Do you know what actually got pricier this year?",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreiamgud4fzai4ctvrrhs5boknwt4ghallc5art3ufrxp4egezvcmna",
+      "timestamp": "2026-10-29T17:00:21.002Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/us/wirecutter-holiday-gift-guide.html",
+      "headline": "The 2026 Holiday Gift Guide",
+      "image": "https://static01.nyt.com/images/2026/10/29/us/wirecutter-holiday-gift-guide-1793277715826/wirecutter-holiday-gift-guide-1793277715826-articleLarge.jpg",
+      "timestamp": "2026-10-29T15:28:19.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
