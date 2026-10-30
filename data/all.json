@@ -1,6 +1,37 @@
 {
-  "lastUpdated": "2026-10-30T02:50:36.690Z",
+  "lastUpdated": "2026-10-30T09:33:32.531Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/ukraine-iran-trump-elections",
+      "headline": "Are Trump’s global actions, from Ukraine to Iran, going to hurt him in elections?",
+      "image": "https://i.guim.co.uk/img/media/38340cfed51c97772110a19139f035123c63862a/0_58_3765_3012/master/3765.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0a6c75ef0c566cd4587528d0fd905747",
+      "timestamp": "2026-10-30T08:00:49.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/staerkster-el-nino-seit-messbeginn-das-sind-die-folgen-649454930047",
+      "headline": "Hochwasser und Dürren: «Stärkster El Niño seit Jahrhunderten»: So wirkt sich das Klimaphänomen rund um den Globus aus",
+      "timestamp": "2026-10-30T05:06:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/oct/30/the-white-house-farm-massacre-phone-calls-could-a-single-disputed-digit-set-jeremy-bamber-free",
+      "headline": "The White House Farm massacre phone calls: could a single disputed digit set Jeremy Bamber free?",
+      "image": "https://i.guim.co.uk/img/media/c1433275c0b9a34b0cd5cf86e143f3edd7457b0f/602_1425_2458_1965/master/2458.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=08d2e73409220bd044affa02fc6a74e1",
+      "timestamp": "2026-10-30T05:00:47.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/29/realestate/halloween-trick-or-treat-new-york-memories.html",
+      "headline": "The Best Trick-or-Treating Happens in Apartment Buildings",
+      "image": "https://static01.nyt.com/images/2026/10/30/realestate/halloween-trick-or-treat-new-york-memories-1793322087544/halloween-trick-or-treat-new-york-memories-1793322087544-articleLarge.jpg",
+      "timestamp": "2026-10-30T03:18:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

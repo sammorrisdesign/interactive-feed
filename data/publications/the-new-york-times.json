@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-30T02:50:35.079Z",
+  "lastUpdated": "2026-10-30T09:33:30.376Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/29/realestate/halloween-trick-or-treat-new-york-memories.html",
+      "headline": "The Best Trick-or-Treating Happens in Apartment Buildings",
+      "image": "https://static01.nyt.com/images/2026/10/30/realestate/halloween-trick-or-treat-new-york-memories-1793322087544/halloween-trick-or-treat-new-york-memories-1793322087544-articleLarge.jpg",
+      "timestamp": "2026-10-30T03:18:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
