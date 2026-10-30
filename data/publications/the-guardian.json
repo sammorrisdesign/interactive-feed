@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-10-30T09:33:30.336Z",
+  "lastUpdated": "2026-10-30T16:31:11.235Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/wellness/ng-interactive/2026/oct/30/death-grief-loss-book",
+      "headline": "I wrote a book about death. Here’s what people really think about dying",
+      "image": "https://i.guim.co.uk/img/media/a3bc3fc72a39726ba1ed4a6fc55f4a30b877ac30/0_38_2398_1919/master/2398.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9195d5b18040a8cc153e94d0840ea990",
+      "timestamp": "2026-10-30T16:00:17.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/california-billionaire-tax",
+      "headline": "Billionaire tax: how a union leader’s ‘crazy’ idea became the defining issue of California’s midterms",
+      "image": "https://i.guim.co.uk/img/media/f84e43fdfd782096ab7cda1b19640357b6b43cb3/299_52_2305_1844/master/2305.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9747e48aa3a1fac27d0f8c926e5d33a8",
+      "timestamp": "2026-10-30T15:00:19.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/oct/31/who-is-jess-wilson-mp-victoria-election-2026-liberal-leader-profile-interview-ntwnfb",
+      "headline": "Who is Jess Wilson? The millennial Liberal leader on the cusp of history in Victorian election",
+      "image": "https://i.guim.co.uk/img/media/cca3b9474c4ebe67f54ac2850ed737a041127d0e/435_0_6442_5155/master/6442.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3868ec0e83c3bbadf4b53deb7defe8cf",
+      "timestamp": "2026-10-30T14:00:19.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/31/jaguar-jonze-i-am-more-fragile-and-vulnerable-now-but-at-the-same-time-i-am-so-much-stronger-ntwnfb",
+      "headline": "Jaguar Jonze: ‘I am more fragile and vulnerable now. But at the same time, I am so much stronger’",
+      "image": "https://i.guim.co.uk/img/media/e36f48b682779e4a6aa9e36f0b8202f70203bc58/600_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6836d92a068e88fc5d8b9cf3712d950c",
+      "timestamp": "2026-10-30T14:00:16.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/30/burbank-california-los-angeles-halloween-capital",
+      "headline": "Serial killers, set designers, and hordes of skeletons: welcome to the Halloween capital of America ",
+      "image": "https://i.guim.co.uk/img/media/a3b6f6e5c73414bab20f04cbf0c5f693181e46f1/0_485_3000_2399/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6844c587baae6358b700539d20483c22",
+      "timestamp": "2026-10-30T14:00:15.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
