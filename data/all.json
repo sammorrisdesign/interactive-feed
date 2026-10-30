@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-29T23:29:15.551Z",
+  "lastUpdated": "2026-10-30T02:50:36.690Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/29/nyregion/nyc-marathon-jobs-workers.html",
+      "headline": "Who Measures the Marathon?",
+      "image": "https://static01.nyt.com/images/2026/11/20/multimedia/2026-10-30-jobs-marathon-measure-promo/2026-10-30-jobs-marathon-measure-promo-articleLarge.jpg",
+      "timestamp": "2026-10-30T01:42:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
