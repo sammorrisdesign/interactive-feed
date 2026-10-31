@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-31T00:56:13.986Z",
+  "lastUpdated": "2026-10-31T06:37:06.776Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/im-sudan-geraten-maerkte-zunehmend-ins-visier-von-drohnen-ld.10048386",
+      "headline": "Im Sudan geraten Märkte zunehmend ins Visier von Drohnen",
+      "image": "https://img-msp-prod.nzz.ch/2026/10/29/cee29808-6b61-4437-9a24-9d2c4cc72935.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=2278,1281,x0,y165&wmark=nzz",
+      "timestamp": "2026-10-31T04:30:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/oct/31/mv-odyssey-cruise-passengers-nightmare-stranded-cambodia",
+      "headline": "The cursed cruise: how the dream of never-ending luxury at sea became a nightmare",
+      "image": "https://i.guim.co.uk/img/media/e96410a2761eb0e162d5013cac119ec046f80576/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2e02d18329048fc0e1519bbdbd331bbe",
+      "timestamp": "2026-10-31T03:00:31.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
