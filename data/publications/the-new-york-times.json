@@ -1,6 +1,40 @@
 {
-  "lastUpdated": "2026-10-31T00:56:11.712Z",
+  "lastUpdated": "2026-10-31T13:16:33.954Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/31/upshot/marathon-new-york-improvers.html",
+      "headline": "These Runners Got Faster at the N.Y.C. Marathon. The Data Says You Can Too.",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/2026-10-21-up-marathon-improvers-index/2026-10-21-up-marathon-improvers-index-articleLarge.jpg",
+      "timestamp": "2026-10-31T09:06:08.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/31/polls/times-siena-ne-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Nebraska",
+      "timestamp": "2026-10-31T08:58:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/31/polls/times-siena-ne-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Nebraska",
+      "timestamp": "2026-10-31T08:57:00.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/31/nyregion/routine-maria-taylor.html",
+      "headline": "How NBC’s Maria Taylor Gets Ready for a Big Night With the Knicks",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/routine-maria-taylor-promo-kvfh/routine-maria-taylor-promo-kvfh-articleLarge.jpg",
+      "timestamp": "2026-10-31T07:00:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

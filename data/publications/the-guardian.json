@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-31T06:37:04.382Z",
+  "lastUpdated": "2026-10-31T13:16:33.782Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/nine-voters-us-midterms-extremism-congress-hegseth",
+      "headline": "Election integrity, extremism and Pete Hegseth: nine voters on the US midterm election",
+      "image": "https://i.guim.co.uk/img/media/cb1bc4c2a49b5d826cf940f38063e6d7e57ec19f/0_0_3000_2400/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=554d0848a274e002eb33da5c478bfd09",
+      "timestamp": "2026-10-31T11:00:44.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/elon-musk-midterms-spending-visualized",
+      "headline": "The staggering $446m Elon Musk has spent on the US midterms – visualized",
+      "image": "https://i.guim.co.uk/img/media/87f71c610e349be86307c3bc3899c73108b60411/1_0_2999_2400/master/2999.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=393b26abfd87694aeaee564d7ca734d1",
+      "timestamp": "2026-10-31T10:00:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
