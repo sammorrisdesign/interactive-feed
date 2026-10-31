@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-31T13:16:39.780Z",
+  "lastUpdated": "2026-10-31T17:51:34.499Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/alaska-unalaska-fishing-trump",
+      "headline": "It’s closer to Beijing than Washington – and residents of this Alaskan outpost are reeling from Trump’s policies",
+      "image": "https://i.guim.co.uk/img/media/2d9891601b733e39f0e0dd2d5b7984c52dcc43e3/537_0_5382_4304/master/5382.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8258ed9c7699f6c898bff1a095ce8f37",
+      "timestamp": "2026-10-31T16:00:47.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/31/trump-allies-interfere-us-midterm-elections",
+      "headline": "How Trump and his allies seek to interfere in the US midterm elections",
+      "image": "https://i.guim.co.uk/img/media/8f0febc9faba7e95233a2b4d68584847863c1017/0_0_5354_4283/master/5354.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f43a014e1d105aef5b31137811a2b555",
+      "timestamp": "2026-10-31T14:00:44.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
