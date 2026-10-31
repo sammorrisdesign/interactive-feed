@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-31T13:16:33.954Z",
+  "lastUpdated": "2026-10-31T23:57:11.546Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/31/us/elections/midterm-vote-count-expectations.html",
+      "headline": "When to Expect Midterm Results in Each State on Election Night",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/2026-10-26-vote-count-expectations-index/2026-10-26-vote-count-expectations-index-articleLarge-v3.png",
+      "timestamp": "2026-10-31T23:35:37.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
