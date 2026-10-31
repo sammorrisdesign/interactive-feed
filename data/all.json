@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-10-30T21:22:12.363Z",
+  "lastUpdated": "2026-10-31T00:56:13.986Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/oct/31/cosplay-community-bring-costumes-to-the-streets",
+      "headline": "Cosplay any day: the growing community bringing costumes to the streets",
+      "image": "https://i.guim.co.uk/img/media/743df81a17a1cb4ca4697dfe45437108ee2cd659/592_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=3b4941876870743b9a97f8d26c42d33f",
+      "timestamp": "2026-10-31T00:00:27.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/30/arts/photo-quiz-game-175.html",
+      "headline": "Photo Quiz: Guess the Year",
+      "image": "https://static01.nyt.com/images/2026/10/30/us/tk-image-slug-175-photo-game/tk-image-slug-175-photo-game-articleLarge.jpg",
+      "timestamp": "2026-10-30T23:37:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Economist",
       "url": "https://www.economist.com/interactive/graphic-detail/2026/10/30/stalled-on-the-front-lines-russia-hits-ukraine-harder",

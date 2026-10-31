@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-30T21:22:09.149Z",
+  "lastUpdated": "2026-10-31T00:56:11.712Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/10/30/arts/photo-quiz-game-175.html",
+      "headline": "Photo Quiz: Guess the Year",
+      "image": "https://static01.nyt.com/images/2026/10/30/us/tk-image-slug-175-photo-game/tk-image-slug-175-photo-game-articleLarge.jpg",
+      "timestamp": "2026-10-30T23:37:27.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
