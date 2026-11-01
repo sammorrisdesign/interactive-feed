@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-10-31T23:57:12.891Z",
+  "lastUpdated": "2026-11-01T04:49:04.507Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/world/asia/india-pollution-vehicles.html",
+      "headline": "Honk if You Know Why Delhi’s Air Is So Bad",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/2026-10-27-india-vehicle-pollution-index/2026-10-27-india-vehicle-pollution-index-articleLarge.jpg",
+      "timestamp": "2026-11-01T04:01:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
