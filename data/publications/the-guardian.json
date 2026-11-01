@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-01T11:38:44.469Z",
+  "lastUpdated": "2026-11-01T17:35:33.573Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/01/wisconsin-city-menomie-meta-datacenter",
+      "headline": "How a small Wisconsin city scuttled a secretive $1.6bn datacenter project",
+      "image": "https://i.guim.co.uk/img/media/61be171119618d6d06feb21e32b64fd03ce80952/0_1049_2403_1922/master/2403.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=df1c0873f79204d752450382f26fdc00",
+      "timestamp": "2026-11-01T17:31:24.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/music/ng-interactive/2026/nov/02/odette-on-a-later-in-life-autism-diagnosis-it-completely-revolutionised-the-way-that-i-exist",
+      "headline": "Odette on a later-in-life autism diagnosis: ‘It completely revolutionised the way that I exist’",
+      "image": "https://i.guim.co.uk/img/media/70d0d8b0ca13d1a5f014a4f1ae2ffdaed995fffd/33_0_5496_4399/master/5496.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=085df437dee1a23d4bdf38145b1f934b",
+      "timestamp": "2026-11-01T14:00:14.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

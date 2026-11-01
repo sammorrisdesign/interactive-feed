@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-01T11:38:44.498Z",
+  "lastUpdated": "2026-11-01T17:35:33.599Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/weather/murasu-map-path-tracker.html",
+      "headline": "Tracking Tropical Cyclone Murasu",
+      "image": "https://static01.nyt.com/images/2026/11/01/weather/four-map-path-tracker-index/four-map-path-tracker-index-articleLarge-v3.jpg",
+      "timestamp": "2026-11-01T13:31:44.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

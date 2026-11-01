@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-29T06:43:58.881Z",
+  "lastUpdated": "2026-11-01T17:35:32.986Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-02/rise-in-young-men-open-to-extreme-measures-for-a-cause/107326932",
+      "headline": "One in four young men now say violence for a cause can be justified",
+      "image": "https://live-production.wcms.abc-cdn.net.au/9fb8917c12e83530f4a1cc22b7054265?impolicy=wcms_crop_resize&cropH=1868&cropW=2486&xPos=265&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
