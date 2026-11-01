@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-01T04:49:03.075Z",
+  "lastUpdated": "2026-11-01T11:38:44.498Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/us/politics/2026-midterm-top-donors.html",
+      "headline": "Meet the megadonors pumping $2 Billion into the 2026 Midterms",
+      "image": "https://static01.nyt.com/images/2026/10/30/big-donors-74428/big-donors-74428-articleLarge.jpg",
+      "timestamp": "2026-11-01T10:04:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
