@@ -1,6 +1,20 @@
 {
-  "lastUpdated": "2026-11-02T01:13:40.809Z",
+  "lastUpdated": "2026-11-02T07:56:11.166Z",
   "articles": [
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-2-2026",
+      "headline": "Today in Pictures, Nov 2, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/a7070973f9c5885a1a2346da6db2a226e85783d146e87cf16fd7bd78544b9842?w=1200",
+      "timestamp": "2026-11-02T06:11:29.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://ig.ft.com/ai-safety/",
+      "headline": "The race to keep AI under control",
+      "timestamp": "2026-11-02T05:00:08.000Z"
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
