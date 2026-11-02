@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-02T01:13:38.243Z",
+  "lastUpdated": "2026-11-02T17:47:43.483Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/02/nyregion/nyc-budgeting-affordability-jordan.html",
+      "headline": "How a Franciscan Priest Lives on a Vow of Poverty in Midtown Manhattan",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/02met-affordingny-jordan-promo/02met-affordingny-jordan-01-hmfq-articleLarge.jpg",
+      "timestamp": "2026-11-02T10:04:36.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/02/us/elections/polls-closing-time-midterm-elections.html",
+      "headline": "What Time Do Polls Close?",
+      "image": "https://static01.nyt.com/images/2026/10/29/multimedia/2026-10-09-midterms26-poll-closing-times-index/2026-10-09-midterms26-poll-closing-times-index-articleLarge.png",
+      "timestamp": "2026-11-02T10:04:33.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/02/us/trump-administration-court-orders-deflect.html",
+      "headline": "7 Ways Trump Deflects the Courts",
+      "image": "https://static01.nyt.com/images/2026/10/31/multimedia/31dc-trump-courts-list-gkbv/31dc-trump-courts-list-gkbv-articleLarge-v2.jpg",
+      "timestamp": "2026-11-02T10:03:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

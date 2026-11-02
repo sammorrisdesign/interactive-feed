@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-01T17:35:33.573Z",
+  "lastUpdated": "2026-11-02T17:47:43.440Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/02/who-funded-midterms",
+      "headline": "Who funded the midterms? Inside US elections’ historic bipartisan spending",
+      "image": "https://i.guim.co.uk/img/media/d39d6a925972d0e26ae320f6a1afb945bdebea02/1_0_5666_4533/master/5666.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=eae9f9d524c3da8105c8c3aca5221d04",
+      "timestamp": "2026-11-02T11:00:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
