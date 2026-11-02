@@ -1,6 +1,88 @@
 {
-  "lastUpdated": "2026-11-01T17:35:37.127Z",
+  "lastUpdated": "2026-11-02T01:13:40.809Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/upshot/above-the-clouds-okeeffe.html",
+      "headline": "10-Minute Challenge: “Above the Clouds I,” by Georgia O’Keeffe",
+      "image": "https://static01.nyt.com/images/2026/11/02/upshot/up-okeeffe/up-okeeffe-articleLarge.jpg",
+      "timestamp": "2026-11-02T01:09:52.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ia-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "image": "https://static01.nyt.com/newsgraphics/images/icons/defaultPromoCrop.png",
+      "timestamp": "2026-11-02T00:53:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ia-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Iowa",
+      "timestamp": "2026-11-02T00:53:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-me-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Maine",
+      "timestamp": "2026-11-02T00:53:26.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-me-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Maine",
+      "timestamp": "2026-11-02T00:53:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ak-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Alaska",
+      "timestamp": "2026-11-02T00:53:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-ak-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of the Likely Electorate in Alaska",
+      "timestamp": "2026-11-02T00:53:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-oh-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Ohio",
+      "timestamp": "2026-11-02T00:53:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-oh-poll-toplines.html",
+      "headline": "Toplines: October 2026 Times/Siena Poll of Likely Electorate in Ohio",
+      "timestamp": "2026-11-02T00:53:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/01/polls/times-siena-mi-poll-crosstabs.html",
+      "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Michigan",
+      "timestamp": "2026-11-02T00:53:18.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
