@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02T17:47:50.277Z",
+  "lastUpdated": "2026-11-03T00:27:24.475Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,26 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/steuerrechner-wofuer-ihr-geld-in-der-schweiz-ausgegeben-wird-231266401269",
+      "headline": "Interaktives Tool: Wofür werden Ihre Steuern ausgegeben? Finden Sie es mit unserem Rechner heraus",
+      "timestamp": "2026-11-02T20:47:18.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/5ed63d08-66f3-4ad3-9ec7-2ec8b590fc85",
+      "headline": "Big majority of US voters disapprove of Trump’s handling of inflation: FT poll ",
+      "timestamp": "2026-11-02T20:38:05.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/1626b14d-524f-4d2a-94d1-860ae4a68692",
+      "headline": "Key races that will decide the US midterm elections",
+      "timestamp": "2026-11-02T20:12:26.000Z"
     },
     {
       "publication": "The Guardian",
@@ -138,6 +158,14 @@
       "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Michigan",
       "timestamp": "2026-11-02T00:53:18.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/world/interactive/2026/11/02/see-inside-gen-z-protests-sweeping-europe-dissent-grows/",
+      "headline": "See inside the Gen Z protests sweeping Europe as dissent grows",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/KO2THMDJTPDHJJAK7K4KI43HQQ.jpg&w=300",
+      "timestamp": "2026-11-02T00:00:00.000Z"
     },
     {
       "publication": "The Washington Post",
