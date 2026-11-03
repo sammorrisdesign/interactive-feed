@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T07:06:53.598Z",
+  "lastUpdated": "2026-11-03T15:24:31.783Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,147 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-wyoming.html",
+      "headline": "Wyoming Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-wy-e1004d/eln-PRE-2026-11-03-state-wy-e1004d-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-utah.html",
+      "headline": "Utah Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-ut-053bb1/eln-PRE-2026-11-03-state-ut-053bb1-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-washington-dc.html",
+      "headline": "Washington, D.C. Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-dc-0f5906/eln-PRE-2026-11-03-state-dc-0f5906-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-washington.html",
+      "headline": "Washington Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-wa-a7ddcc/eln-PRE-2026-11-03-state-wa-a7ddcc-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-south-dakota.html",
+      "headline": "South Dakota Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-sd-c35f05/eln-PRE-2026-11-03-state-sd-c35f05-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-rhode-island.html",
+      "headline": "Rhode Island Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-ri-235850/eln-PRE-2026-11-03-state-ri-235850-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/04/best-tv-shows-and-movies-streaming-in-australia-this-month",
+      "headline": "Best TV shows and movies streaming in Australia this month",
+      "image": "https://i.guim.co.uk/img/media/2f687a4cdf49b04f8fd9b12bba1344cf9dfdc0a5/0_313_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6c4f7ec7790ec9b9bfc0daa4dc0511ef",
+      "timestamp": "2026-11-03T14:00:44.000Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "url": "http://houstonchronicle.com/projects/2026/campaign-finance-election-2026/",
+      "headline": "Who is funding Texas’ biggest races? Meet the donors shaping the election",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5wontugfwb4lv7nwonarkqw/bafkreifmsc6mi5trikhteaocivigbha6h6owzjexkgyoau3xgjcs2attsq",
+      "timestamp": "2026-11-03T12:29:55.977Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "url": "https://www.houstonchronicle.com/projects/2026/houston-texas-november-election-endorsements/",
+      "headline": "Texas Voter Guide: See which candidates are endorsed by our Editorial Board",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5wontugfwb4lv7nwonarkqw/bafkreifom5zmxei65wwzr3ltjp25ty7gopznh44jvitksmvtpkptl5isum",
+      "timestamp": "2026-11-03T12:29:55.976Z"
+    },
+    {
+      "publication": "Houston Chronicle",
+      "blueSkyHandle": "houstonchronicle.com",
+      "url": "https://www.houstonchronicle.com/projects/2026/houston-texas-november-election-voter-guide/",
+      "headline": "Texas Voter Guide: Explore races and candidates in the Nov. 3 election",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5wontugfwb4lv7nwonarkqw/bafkreigmvrgal2rl6so7o5vfpax3fo3exqaoobhd3ybqrqoqmja7k632sy",
+      "timestamp": "2026-11-03T12:29:55.975Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-full-results-senate-house-governor-races",
+      "headline": "US midterm elections 2026: live results from Senate, House and governor races in all 50 states",
+      "image": "https://i.guim.co.uk/img/media/6da2159b43ce089f731de4de2126efc213a74843/0_0_5052_4041/master/5052.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=12c4105e7cfb3e20d4096a8c2a73426b",
+      "timestamp": "2026-11-03T12:00:06.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://apps.texastribune.org/features/2026/texas-general-election-live-results-2026/",
+      "headline": "See November 2026 midterm election results as votes come in across Texas.",
+      "image": "https://apps.texastribune.org/features/2026/texas-general-election-live-results-2026/assets/images/share-art-67f903b01a.png",
+      "timestamp": "2026-11-03T11:00:00.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/food/inq2/italian-hoagie-reader-vote-results-20261103.html",
+      "headline": "After thousands of reader votes, this is the canonical Italian Hoagie recipe",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/5MLB7UDU4JB35BTX444J6XXUVY.jpg",
+      "timestamp": "2026-11-03T10:01:01.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/pa-state-house-senate-midterm-election-live-results-20261103.html",
+      "headline": "Pa. state Senate and House election results for 2026 midterms",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/OXIHF2CX7ZESJLHIOZNPJIXZ3Y.png",
+      "timestamp": "2026-11-03T10:01:01.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/politics/election/inq2/pa-governor-us-senate-house-midterm-election-live-results-20261103.html",
+      "headline": "Pa. Governor, U.S. Senate NJ, and U.S. House election results for 2026 midterms",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/C6NKIOZGPNDWLF7LPLKXNYGMPE.png",
+      "timestamp": "2026-11-03T10:01:01.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/03/midterm-elections-candidates-swing-states",
+      "headline": "The candidates who will decide the US midterm elections",
+      "image": "https://i.guim.co.uk/img/media/5965b77afd33b143de1530fc65dc4a7ecd327bfc/579_333_2660_2128/master/2660.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d439d185c7aa3e31bf10a44ff763be80",
+      "timestamp": "2026-11-03T10:00:46.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/ca8ba515-592b-4c1d-a1d0-d8b2a94ccd30",
+      "headline": "Live US midterm elections results — in charts and maps",
+      "timestamp": "2026-11-03T06:29:13.000Z"
     },
     {
       "publication": "The Guardian",

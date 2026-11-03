@@ -1,6 +1,60 @@
 {
-  "lastUpdated": "2026-11-03T07:06:47.290Z",
+  "lastUpdated": "2026-11-03T15:24:15.642Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-wyoming.html",
+      "headline": "Wyoming Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-wy-e1004d/eln-PRE-2026-11-03-state-wy-e1004d-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-utah.html",
+      "headline": "Utah Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-ut-053bb1/eln-PRE-2026-11-03-state-ut-053bb1-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-washington-dc.html",
+      "headline": "Washington, D.C. Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-dc-0f5906/eln-PRE-2026-11-03-state-dc-0f5906-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:46.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-washington.html",
+      "headline": "Washington Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-wa-a7ddcc/eln-PRE-2026-11-03-state-wa-a7ddcc-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-south-dakota.html",
+      "headline": "South Dakota Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-sd-c35f05/eln-PRE-2026-11-03-state-sd-c35f05-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-rhode-island.html",
+      "headline": "Rhode Island Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/30/multimedia/eln-PRE-2026-11-03-state-ri-235850/eln-PRE-2026-11-03-state-ri-235850-articleLarge.jpg",
+      "timestamp": "2026-11-03T14:41:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
