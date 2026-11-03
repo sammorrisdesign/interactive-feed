@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-01T17:35:32.986Z",
+  "lastUpdated": "2026-11-03T21:10:50.970Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
+      "headline": "See live results from the 2026 US midterm elections",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4e9486d7d195472cb16b60e4ac767ff6?impolicy=wcms_crop_resize&cropH=1067&cropW=1423&xPos=89&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
