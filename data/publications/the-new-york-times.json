@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-02T17:47:43.483Z",
+  "lastUpdated": "2026-11-03T07:06:47.290Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/02/magazine/brain-injury-music-perfect-pitch-edward-freytag.html",
+      "headline": "The Brain Injury That Made a Middle-School Teacher a Musical Genius",
+      "image": "https://static01.nyt.com/images/2026/11/03/magazine/03MAG-brainmusic-still/03MAG-brainmusic-still-articleLarge-v2.jpg",
+      "timestamp": "2026-11-03T01:07:57.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
