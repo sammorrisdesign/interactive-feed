@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-04T01:33:16.716Z",
+  "lastUpdated": "2026-11-04T08:33:50.820Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-key-ballot-measures.html",
+      "headline": "Key Ballot Measure Election Results",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/eln-POST-2026-11-03-collection-8663ff/eln-POST-2026-11-03-collection-8663ff-articleLarge-v4.jpg",
+      "timestamp": "2026-11-04T04:02:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

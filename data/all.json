@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T01:33:20.810Z",
+  "lastUpdated": "2026-11-04T08:33:51.730Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,15 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-key-ballot-measures.html",
+      "headline": "Key Ballot Measure Election Results",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/eln-POST-2026-11-03-collection-8663ff/eln-POST-2026-11-03-collection-8663ff-articleLarge-v4.jpg",
+      "timestamp": "2026-11-04T04:02:01.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The New York Times",
