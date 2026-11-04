@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-03T21:10:51.016Z",
+  "lastUpdated": "2026-11-04T01:33:16.716Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate-precinct-maps.html",
+      "headline": "Detailed Maps of the 2026 Senate Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-midterm-precinct-map-index/2026-midterm-precinct-map-index-articleLarge-v5.png",
+      "timestamp": "2026-11-04T01:29:43.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

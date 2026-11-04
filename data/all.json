@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-03T21:10:58.469Z",
+  "lastUpdated": "2026-11-04T01:33:20.810Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,37 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate-precinct-maps.html",
+      "headline": "Detailed Maps of the 2026 Senate Election Results",
+      "image": "https://static01.nyt.com/images/2026/10/27/multimedia/2026-midterm-precinct-map-index/2026-midterm-precinct-map-index-articleLarge-v5.png",
+      "timestamp": "2026-11-04T01:29:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/kongresswahlen-was-fuer-trump-auf-dem-spiel-steht-530510816832",
+      "headline": "US-Kongresswahlen: Die USA wählen: Alle Resultate im Überblick",
+      "timestamp": "2026-11-04T00:54:01.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/11/03/see-where-votes-are-being-counted-senate-house-midterm-races/",
+      "headline": "See where votes are being counted in Senate and House midterm races",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreihg72fgeenpgytlv6web7qhywbp7jvfki6okdumbmj6wpbwsljg2m",
+      "timestamp": "2026-11-03T23:20:01.847Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/midterms-us-kongresswahlen-ergebnisse-live",
+      "headline": "Die Ergebnisse der Midterms 2026 – live",
+      "image": "https://img.zeit.de/politik/ausland/2026-11/midterms-us-kongresswahlen-ergebnisse-live-teaserbild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-03T22:08:52.247Z"
     },
     {
       "publication": "The New York Times",
