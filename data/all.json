@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T16:48:32.355Z",
+  "lastUpdated": "2026-11-04T22:23:39.196Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,22 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/f27626ac-8427-45d7-a995-a8dfe8d01bd9",
+      "headline": "Poor and Hispanic voters fuel blue wave",
+      "timestamp": "2026-11-04T19:12:33.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/04/us/elections/midterms-swing-voters-democrats.html",
+      "headline": "Every Major Demographic Group Swung Left Amid Trump Backlash",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-10-14-midterms-demo-analysis-index/2026-10-14-midterms-demo-analysis-index-articleLarge-v2.png",
+      "timestamp": "2026-11-04T17:53:23.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The Guardian",
