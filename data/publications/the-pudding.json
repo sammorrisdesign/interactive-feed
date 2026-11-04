@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-10-20T17:45:21.197Z",
+  "lastUpdated": "2026-11-04T16:48:22.462Z",
   "articles": [
+    {
+      "publication": "The Pudding",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/projects/lopi",
+      "headline": "lo-pi radio",
+      "image": "https://pudding.cool/projects/lopi/assets/social2.jpg",
+      "timestamp": "2026-11-03T05:00:00.000Z"
+    },
+    {
+      "publication": "The Pudding",
+      "blueSkyHandle": "puddingviz.bsky.social",
+      "url": "https://pudding.cool/2026/11/pi",
+      "headline": "The Afterlife of Pi",
+      "image": "https://pudding.cool/2026/11/pi/assets/images/og.jpg",
+      "timestamp": "2026-11-03T05:00:00.000Z"
+    },
     {
       "publication": "The Pudding",
       "blueSkyHandle": "puddingviz.bsky.social",

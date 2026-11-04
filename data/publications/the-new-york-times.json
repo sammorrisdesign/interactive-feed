@@ -1,6 +1,96 @@
 {
-  "lastUpdated": "2026-11-04T08:33:50.820Z",
+  "lastUpdated": "2026-11-04T16:48:22.306Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/04/us/elections/midterms-senate-states.html",
+      "headline": "The 7 States That Flipped and Broke Republican Control of the Senate",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-10-20-midterms-senate-analysis-senate/2026-10-20-midterms-senate-analysis-senate-articleLarge-v3.png",
+      "timestamp": "2026-11-04T11:56:57.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-colorado.html",
+      "headline": "How Colorado Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/colorado-estimates-2026-promo/colorado-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:16:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-wisconsin.html",
+      "headline": "How Wisconsin Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/wisconsin-estimates-2026-promo/wisconsin-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:13:55.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-wyoming.html",
+      "headline": "How Wyoming Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/wyoming-estimates-2026-promo/wyoming-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:13:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-virginia.html",
+      "headline": "How Virginia Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/virginia-estimates-2026-promo/virginia-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:13:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-washington.html",
+      "headline": "How Washington Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/washington-estimates-2026-promo/washington-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:13:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-west-virginia.html",
+      "headline": "How West Virginia Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/west-virginia-estimates-2026-promo/west-virginia-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:13:54.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-utah.html",
+      "headline": "How Utah Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/utah-estimates-2026-promo/utah-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:13:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-texas.html",
+      "headline": "How Texas Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/texas-estimates-2026-promo/texas-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:13:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/elections/voter-trends-tennessee.html",
+      "headline": "How Tennessee Voted in 2026",
+      "image": "https://static01.nyt.com/images/2026/11/02/multimedia/tennessee-estimates-2026-promo/tennessee-estimates-2026-promo-articleLarge-v2.png",
+      "timestamp": "2026-11-04T11:13:53.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

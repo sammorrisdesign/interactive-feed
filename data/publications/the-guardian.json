@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-03T15:24:15.618Z",
+  "lastUpdated": "2026-11-04T16:48:22.274Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/04/midterm-election-results-maps-guide",
+      "headline": "Where Trump and Republicans lost the midterms – a visual analysis of the key states",
+      "image": "https://i.guim.co.uk/img/media/49b47b05ec4bbdddeef54a6beaf53bc3e6d50f45/0_0_4083_3267/master/4083.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f9e57755d7e60f0e071663738a6b18ec",
+      "timestamp": "2026-11-04T14:34:12.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
