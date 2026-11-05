@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-05T10:17:58.353Z",
+  "lastUpdated": "2026-11-05T18:09:36.349Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/05/world/africa/earthquake-tracker-tanzania.html",
+      "headline": "Map: 5.1-Magnitude Earthquake Shakes Tanzania",
+      "image": "https://static01.nyt.com/images/2026/11/05/world/05wea-quake-tracker-tanzania-nytflna9-v2-index/05wea-quake-tracker-tanzania-nytflna9-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-11-05T11:11:40.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

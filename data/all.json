@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T10:18:05.666Z",
+  "lastUpdated": "2026-11-05T18:09:40.293Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,15 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/05/world/africa/earthquake-tracker-tanzania.html",
+      "headline": "Map: 5.1-Magnitude Earthquake Shakes Tanzania",
+      "image": "https://static01.nyt.com/images/2026/11/05/world/05wea-quake-tracker-tanzania-nytflna9-v2-index/05wea-quake-tracker-tanzania-nytflna9-v2-index-articleLarge-v2.jpg",
+      "timestamp": "2026-11-05T11:11:40.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The New York Times",
@@ -33,6 +42,14 @@
       "headline": "You will die. That’s why your life is worth living  ",
       "image": "https://i.guim.co.uk/img/media/5d66d1e12fcbbb09f5986a26c4a404c8b9c60410/0_745_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f2261e5642560a0c61dc61eaa4e36ea",
       "timestamp": "2026-11-05T10:00:05.000Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/lebensmittelkosten-usa-deutschland-ausgaben-vergleich",
+      "headline": "So viel kostet Ihr Einkauf in den USA",
+      "image": "https://img.zeit.de/politik/2026-10/lebensmittelkosten-usa-deutschland-ausgaben-vergleich-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-05T09:59:54.170Z"
     },
     {
       "publication": "The Straits Times",
@@ -69,6 +86,14 @@
       "headline": "Republicans lost ground in rural Texas, adding to historic wipeout",
       "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-East-Texas-Election-Day-MC-18.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
       "timestamp": "2026-11-05T01:21:22.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/11/05/taps-finally-plays-arlington-teenage-soldier-killed-civil-war/",
+      "headline": "Taps finally play at Arlington for teenage soldier killed in Civil War",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4QOHXYZPGRAEBRWWCDHOQS24SY.JPG&w=300",
+      "timestamp": "2026-11-05T00:00:00.000Z"
     },
     {
       "publication": "Texas Tribune",
