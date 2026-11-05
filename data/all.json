@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T18:09:40.293Z",
+  "lastUpdated": "2026-11-05T23:46:04.026Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,22 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/culture/ng-interactive/2026/nov/06/powerhouse-parramatta-opening-festival",
+      "headline": "Powerhouse Parramatta opens this weekend – and it’s dazzling inside and out",
+      "image": "https://i.guim.co.uk/img/media/f98712649872f00498ef7bae039a13ef7ee16f70/605_0_6623_5301/master/6623.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=13b5740834780747a1d453c02080bbaa",
+      "timestamp": "2026-11-05T23:00:36.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/us/latinos-drive-democratic-gains-republican-strongholds-2026-11-05/",
+      "headline": "Latinos drive Democratic gains in Republican strongholds",
+      "image": "https://www.reuters.com/resizer/v2/J7V3FTIGSRG5HFR63TTBUARQNE.jpg?auth=33e9919f6c42d66f6b42151b081458c16768a52cb00c1ff93680befcecb332c2&width=1200&quality=80",
+      "timestamp": "2026-11-05T20:31:11.334Z"
     },
     {
       "publication": "The New York Times",
