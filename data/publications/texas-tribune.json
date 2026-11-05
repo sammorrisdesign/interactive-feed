@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-11-03T15:24:14.370Z",
+  "lastUpdated": "2026-11-05T02:39:24.651Z",
   "articles": [
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-rural-vote-2026/",
+      "headline": "Republicans lost ground in rural Texas, adding to historic wipeout",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-East-Texas-Election-Day-MC-18.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-11-05T01:21:22.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-blue-wave-voter-turnout/",
+      "headline": "Surge in voter turnout in urban, border counties carried Texas blue wave",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261104-Whataburger-Talarico-Hinojosa-BD-03.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-11-04T23:39:13.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-republicans-infighting-blame-trump-paxton-2026-election-loss/",
+      "headline": "After historic rout, Texas Republicans train fire on Trump, Paxton and each other in search for answers",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-Election-Night-Watch-Party-Paxton-ST-06.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-11-04T23:37:50.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-border-counties-voter-turnout/",
+      "headline": "After supporting Trump in 2024, Texas border counties fueled Democrats’ big night",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-RGV-Election-Day-BB-12.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-11-04T20:27:11.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-democrats-blue-wave/",
+      "headline": "Democrats seize power in Texas, ending decades of GOP dominance",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-Gina-Hinojosa-Watch-Party-LS-13-full.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-11-04T07:59:42.000Z"
+    },
     {
       "publication": "Texas Tribune",
       "blueSkyHandle": "texastribune.bsky.social",

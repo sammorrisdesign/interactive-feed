@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-03T21:10:50.970Z",
+  "lastUpdated": "2026-11-05T02:39:22.256Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-05/us-midterm-election-results-swing-maps/107347894",
+      "headline": "The swing maps bathed in blue that show how voters turned on Trump",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7c18ab7f4a5bb44dda0fab2c39c3a010?impolicy=wcms_crop_resize&cropH=1359&cropW=1813&xPos=647&yPos=1&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

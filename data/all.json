@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-04T22:23:39.196Z",
+  "lastUpdated": "2026-11-05T02:39:31.535Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,47 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-rural-vote-2026/",
+      "headline": "Republicans lost ground in rural Texas, adding to historic wipeout",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-East-Texas-Election-Day-MC-18.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-11-05T01:21:22.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-blue-wave-voter-turnout/",
+      "headline": "Surge in voter turnout in urban, border counties carried Texas blue wave",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261104-Whataburger-Talarico-Hinojosa-BD-03.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-11-04T23:39:13.000Z"
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-republicans-infighting-blame-trump-paxton-2026-election-loss/",
+      "headline": "After historic rout, Texas Republicans train fire on Trump, Paxton and each other in search for answers",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-Election-Night-Watch-Party-Paxton-ST-06.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-11-04T23:37:50.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/04/us/elections/texas-midterm-shift-democrats.html",
+      "headline": "How Democrats Turned Texas Blue",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-10-20-midterms-senate-analysis-texas/2026-10-20-midterms-senate-analysis-texas-articleLarge.png",
+      "timestamp": "2026-11-04T23:20:17.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-border-counties-voter-turnout/",
+      "headline": "After supporting Trump in 2024, Texas border counties fueled Democrats’ big night",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-RGV-Election-Day-BB-12.jpg?fit=2560%2C1707&ssl=1&quality=100&w=1200&h=630",
+      "timestamp": "2026-11-04T20:27:11.000Z"
     },
     {
       "publication": "FT",
@@ -129,6 +170,14 @@
       "isTemplated": false
     },
     {
+      "publication": "Texas Tribune",
+      "blueSkyHandle": "texastribune.bsky.social",
+      "url": "https://www.texastribune.org/2026/11/04/texas-democrats-blue-wave/",
+      "headline": "Democrats seize power in Texas, ending decades of GOP dominance",
+      "image": "https://i0.wp.com/www.texastribune.org/wp-content/uploads/2026/11/20261103-Gina-Hinojosa-Watch-Party-LS-13-full.jpg?quality=100&w=1200&h=630&ssl=1",
+      "timestamp": "2026-11-04T07:59:42.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-key-ballot-measures.html",
@@ -151,6 +200,14 @@
       "url": "https://www.tagesanzeiger.ch/kongresswahlen-was-fuer-trump-auf-dem-spiel-steht-530510816832",
       "headline": "US-Kongresswahlen: Die USA wählen: Alle Resultate im Überblick",
       "timestamp": "2026-11-04T00:54:01.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/photography/interactive/2026/11/04/photos-election-midterms/",
+      "headline": "See how Americans celebrated Democrats’ historic sweep",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/B2AWQ5I2IWYLAOGQLK3ZZD3VOI.jpg&w=300",
+      "timestamp": "2026-11-04T00:00:00.000Z"
     },
     {
       "publication": "The Washington Post",
@@ -185975,6 +186032,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-05/us-midterm-election-results-swing-maps/107347894",
+      "headline": "The swing maps bathed in blue that show how voters turned on Trump",
+      "image": "https://live-production.wcms.abc-cdn.net.au/7c18ab7f4a5bb44dda0fab2c39c3a010?impolicy=wcms_crop_resize&cropH=1359&cropW=1813&xPos=647&yPos=1&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

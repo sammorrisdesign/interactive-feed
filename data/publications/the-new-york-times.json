@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-04T22:23:37.635Z",
+  "lastUpdated": "2026-11-05T02:39:24.682Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/04/us/elections/texas-midterm-shift-democrats.html",
+      "headline": "How Democrats Turned Texas Blue",
+      "image": "https://static01.nyt.com/images/2026/11/04/multimedia/2026-10-20-midterms-senate-analysis-texas/2026-10-20-midterms-senate-analysis-texas-articleLarge.png",
+      "timestamp": "2026-11-04T23:20:17.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
