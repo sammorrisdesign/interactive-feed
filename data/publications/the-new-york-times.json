@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-05T02:39:24.682Z",
+  "lastUpdated": "2026-11-05T10:17:58.353Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/05/books/moebius-comic-books-fantasy-influence.html",
+      "headline": "This Comic Book Artist Helped Shape Sci-Fi As We Know It",
+      "image": "https://static01.nyt.com/images/2026/11/04/books/04moebius/04moebius-articleLarge.jpg",
+      "timestamp": "2026-11-05T10:03:20.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/05/world/asia/kpop-newjeans-contract.html",
+      "headline": "Secret Deals Reveal K-Pop’s Firm Grip on a Top Girl Group",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-kpop-contracts-02-kmvw/05int-kpop-contracts-02-kmvw-articleLarge.jpg",
+      "timestamp": "2026-11-05T10:01:10.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
