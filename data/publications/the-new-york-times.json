@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-05T18:09:36.349Z",
+  "lastUpdated": "2026-11-06T04:57:05.451Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/05/us/elections/democrats-house-majority-midterms-data.html",
+      "headline": "Sizing Up the Democrats’ Takeover of the House",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/2026-10-15-midterms-house-analysis-house-wave/2026-10-15-midterms-house-analysis-house-wave-articleLarge-v7.png",
+      "timestamp": "2026-11-06T00:27:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

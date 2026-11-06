@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T23:46:04.026Z",
+  "lastUpdated": "2026-11-06T04:57:08.248Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,22 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/05/us/elections/democrats-house-majority-midterms-data.html",
+      "headline": "Sizing Up the Democrats’ Takeover of the House",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/2026-10-15-midterms-house-analysis-house-wave/2026-10-15-midterms-house-analysis-house-wave-articleLarge-v7.png",
+      "timestamp": "2026-11-06T00:27:14.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-6-2026",
+      "headline": "Today in Pictures, Nov 6, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b48abee4570ce0d9c5a4bcd75d72e0d9b62ef1e7ff3922daf04b45e2cbd0839c?w=1200",
+      "timestamp": "2026-11-05T23:46:21.000Z"
     },
     {
       "publication": "The Guardian",
