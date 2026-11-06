@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T19:50:21.929Z",
+  "lastUpdated": "2026-11-06T23:56:15.326Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,24 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate-governor-house-flips.html",
+      "headline": "The Newly Elected Democrats Who Flipped Seats, and Whom They Unseated",
+      "image": "https://static01.nyt.com/images/2026/11/06/us/newly-elects-promo/newly-elects-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-11-06T22:28:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/06/weather/tropical-storm-pena-pacific-map-path.html",
+      "headline": "Tracking Tropical Storm Pena",
+      "image": "https://static01.nyt.com/images/2026/11/06/weather/pena-map-path-tracker-index/pena-map-path-tracker-index-articleLarge-v2.jpg",
+      "timestamp": "2026-11-06T21:30:51.000Z",
+      "isTemplated": false
     },
     {
       "publication": "Reuters",
