@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T12:44:21.778Z",
+  "lastUpdated": "2026-11-06T19:50:21.929Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,23 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/world/us/donald-trump/how-much-does-it-cost-lose-senate-more-than-1-billion-2026-11-06/",
+      "headline": "How much does it cost to lose the Senate? More than $1 billion",
+      "image": "https://www.reuters.com/resizer/v2/AOHCMYMJXRDGFO36GDWAKDZXZI.JPG?auth=d7c05800eaa551380a1031e4cb8fa25b433664d445751821420610fb62bee0d0&width=1200&quality=80",
+      "timestamp": "2026-11-06T18:21:28.440Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/06/upshot/flashback.html",
+      "headline": "Flashback: Your Weekly History Quiz, Nov. 7, 2026",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/flashback-promo-2026-11-07-6/flashback-promo-2026-11-07-6-articleLarge.jpg",
+      "timestamp": "2026-11-06T17:06:33.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The New York Times",
@@ -32,6 +49,83 @@
       "headline": "The Jeremy Bamber files: three crucial questions about the White House Farm massacre",
       "image": "https://i.guim.co.uk/img/media/9471be8fb4059474148cf78802df808d764ff410/353_900_3138_2510/master/3138.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1cce9982c89432650b03662c038fd79",
       "timestamp": "2026-11-06T05:00:43.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31395896/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/california/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023843/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/sonoma-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023837/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/contra-costa-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023841/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/napa-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023840/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/solano-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023835/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/marin-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023839/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/san-jose-santa-clara-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023836/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/alameda-county-oakland/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023842/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/san-francisco/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023838/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/election-results/san-mateo-county/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31023834/1/rawImage.jpg",
+      "timestamp": "2026-11-06T00:40:39.000Z"
     },
     {
       "publication": "The New York Times",
@@ -135,6 +229,13 @@
       "headline": "Tracking the seasonal fires and smog across northern India and Pakistan",
       "image": "https://www.reuters.com/resizer/v2/M4BK73YT2ZDKRFGBAG7KVVL46Q.jpg?auth=a70dfdcccab60ea1eab6a081b5f2242c8e0e6bbb764782791e2d9254adc66476&width=1200&quality=80",
       "timestamp": "2026-11-05T04:03:44.954Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/valkyries-parade-photos/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31415579/1/rawImage.jpg",
+      "timestamp": "2026-11-05T02:55:32.000Z"
     },
     {
       "publication": "Texas Tribune",
@@ -971,6 +1072,13 @@
       "isTemplated": false
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/news-quiz-october-30/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/15930203/1/rawImage.jpg",
+      "timestamp": "2026-10-30T18:38:02.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/10/30/upshot/flashback.html",
@@ -1020,6 +1128,13 @@
       "timestamp": "2026-10-30T14:00:15.000Z"
     },
     {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-october-30/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-10-30T11:04:15.000Z"
+    },
+    {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-oct-30-2026",
       "headline": "Today in Pictures, Oct 30, 2026",
@@ -1065,6 +1180,20 @@
       "image": "https://static01.nyt.com/images/2026/11/20/multimedia/2026-10-30-jobs-marathon-measure-promo/2026-10-30-jobs-marathon-measure-promo-articleLarge.jpg",
       "timestamp": "2026-10-30T01:42:29.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/drugged-driving-epidemic/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31392624/1/rawImage.jpg",
+      "timestamp": "2026-10-30T01:35:30.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/sf-bay-area-private-school-tuition/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31395133/1/rawImage.jpg",
+      "timestamp": "2026-10-30T01:21:14.000Z"
     },
     {
       "publication": "The Washington Post",
@@ -1390,6 +1519,13 @@
       "headline": "Which Eagles will be traded, from Saquon Barkley to Riq Woolen? See our votes and cast your own.",
       "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/DWUW3IQZ3BEFXDONTFHTCHGISY.jpg",
       "timestamp": "2026-10-27T18:55:05.373Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/san-francisco-friends/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31390016/1/rawImage.jpg",
+      "timestamp": "2026-10-27T18:51:03.000Z"
     },
     {
       "publication": "The Washington Post",
