@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-06T04:57:05.451Z",
+  "lastUpdated": "2026-11-06T12:44:18.175Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/06/business/polymarket-kalshi-prediction-markets-midterm-elections-accuracy.html",
+      "headline": "How Accurate Were Prediction Markets at Picking Midterm Winners?",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/2026-10-20-pol-odds-index/2026-10-20-pol-odds-index-articleLarge-v7.png",
+      "timestamp": "2026-11-06T10:04:25.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

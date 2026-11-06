@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-05T23:46:01.513Z",
+  "lastUpdated": "2026-11-06T12:44:18.131Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/uk-news/ng-interactive/2026/nov/06/jeremy-bamber-files-three-crucial-questions-white-house-farm-massacre",
+      "headline": "The Jeremy Bamber files: three crucial questions about the White House Farm massacre",
+      "image": "https://i.guim.co.uk/img/media/9471be8fb4059474148cf78802df808d764ff410/353_900_3138_2510/master/3138.png?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=c1cce9982c89432650b03662c038fd79",
+      "timestamp": "2026-11-06T05:00:43.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
