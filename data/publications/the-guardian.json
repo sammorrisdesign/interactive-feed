@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-06T12:44:18.131Z",
+  "lastUpdated": "2026-11-07T11:28:24.373Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+      "headline": "The end of Maga as we know it",
+      "image": "https://i.guim.co.uk/img/media/0312d200602b299fe774847a5f06b6f25056098c/1238_380_2087_1670/master/2087.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=dfe8c133d5bbf26f91dc6c1774e0d681",
+      "timestamp": "2026-11-07T06:00:05.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
+      "headline": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+      "image": "https://i.guim.co.uk/img/media/ab150660e1c0941c2982524b3f3d02283867ef5d/350_0_2943_2354/master/2943.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0e5ecdc610a2d06237b1b6cde0a465ce",
+      "timestamp": "2026-11-07T05:00:02.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/07/how-injured-ukrainian-soldier-rescued-by-drone",
+      "headline": "‘My biggest fear was being shot down’: how an injured Ukrainian soldier was evacuated by drone",
+      "image": "https://i.guim.co.uk/img/media/ea6f92671552b4050dc27bc34b4ee5f26d0b9d39/293_0_1637_1310/master/1637.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=04c5210d84ce814d0fc5221b017fdc86",
+      "timestamp": "2026-11-07T05:00:02.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
