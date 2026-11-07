@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-07T11:28:24.412Z",
+  "lastUpdated": "2026-11-07T16:58:03.820Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/07/opinion/democrats-congress-trump.html",
+      "headline": "Democrats Are in Power Now. This Is What They Should Do.",
+      "image": "https://static01.nyt.com/images/2026/11/08/opinion/07midterm-dems-package-image/07midterm-dems-package-image-articleLarge.jpg",
+      "timestamp": "2026-11-07T12:00:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

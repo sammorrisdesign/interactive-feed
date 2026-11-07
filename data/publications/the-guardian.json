@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-07T11:28:24.373Z",
+  "lastUpdated": "2026-11-07T16:58:03.792Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/future-of-lightning-global-heating-weather-australia",
+      "headline": "Thunderstruck: what does the future hold for lightning?",
+      "image": "https://i.guim.co.uk/img/media/db20b5e67ea16dc68b43f864c0ec42c03a854557/139_0_3733_2987/master/3733.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=779f71722b989a98a934b2788f137414",
+      "timestamp": "2026-11-07T14:00:13.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/07/philadelphia-blocking-food-delivery-robots",
+      "headline": "Standing in the way of slop bowls: the woman blocking food delivery robots ",
+      "image": "https://i.guim.co.uk/img/media/6c9b99624b2d4f830d94948c591fde5d07839cf9/148_0_6358_5086/master/6358.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=19c1a80021e2814f0bbcd0178aea2c0c",
+      "timestamp": "2026-11-07T14:00:12.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/society/ng-interactive/2026/nov/07/feral-children-parenting",
+      "headline": "In defense of feral children",
+      "image": "https://i.guim.co.uk/img/media/89f8345e8bfc4c7ee6f5c143152d2c19be125e5c/216_822_4030_3224/master/4030.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2dc94e91dca48cb5ab0fac8cfa9c85e7",
+      "timestamp": "2026-11-07T13:00:11.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
