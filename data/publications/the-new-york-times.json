@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-07T16:58:03.820Z",
+  "lastUpdated": "2026-11-08T00:09:40.055Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/07/your-money/personal-finance-debt-money.html",
+      "headline": "Four Americans. Four Financial Goals. A Load of Debt.",
+      "image": "https://static01.nyt.com/images/2026/10/28/business/00money-year-promo/00money-year-promo-articleLarge-v3.jpg",
+      "timestamp": "2026-11-07T23:19:35.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
