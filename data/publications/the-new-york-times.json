@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-08T00:09:40.055Z",
+  "lastUpdated": "2026-11-08T06:28:06.093Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/07/nyregion/cornell-jane-doe-messages.html",
+      "headline": "Read the Text Messages at the Center of the Cornell Rape Inquiry",
+      "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-10-20-messages-index/2026-10-20-messages-index-articleLarge.png",
+      "timestamp": "2026-11-08T03:04:02.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

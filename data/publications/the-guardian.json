@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-07T16:58:03.792Z",
+  "lastUpdated": "2026-11-08T06:28:06.075Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+      "headline": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+      "image": "https://i.guim.co.uk/img/media/09d27a91ac5dc51fcea6ef2db11a85053e40bb50/0_158_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=b0b47f8cdb45df26b32c9c29fda88e1f",
+      "timestamp": "2026-11-08T06:00:33.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/science/ng-interactive/2026/nov/08/ukraine-space-critical-war-starlink",
+      "headline": "Ukraine’s new frontier: how space has become critical to balance of the war",
+      "image": "https://i.guim.co.uk/img/media/a2e74883c34189ee475959f8f42c735f8b9f1483/0_883_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5a4839bb5ad6f2b017eea2bd809a73c0",
+      "timestamp": "2026-11-08T05:00:30.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

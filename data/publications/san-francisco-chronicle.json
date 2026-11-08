@@ -1,6 +1,26 @@
 {
-  "lastUpdated": "2026-11-06T19:49:59.833Z",
+  "lastUpdated": "2026-11-08T06:28:05.557Z",
   "articles": [
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/sf-school-demographic-changes/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31421171/1/rawImage.jpg",
+      "timestamp": "2026-11-07T12:04:05.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/sf-black-population-bayview/",
+      "timestamp": "2026-11-06T19:35:04.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-november-6/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-11-06T12:03:59.000Z"
+    },
     {
       "publication": "San Francisco Chronicle",
       "blueSkyHandle": "sfchronicle.com",

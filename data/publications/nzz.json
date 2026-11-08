@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-10-31T06:37:03.981Z",
+  "lastUpdated": "2026-11-08T06:28:05.345Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/im-westen-aethiopiens-sammeln-sich-truppen-bringen-sie-eine-wende-im-sudankrieg-ld.10054392",
+      "headline": "Im Westen Äthiopiens sammeln sich Truppen. Bringen sie eine Wende im Sudan-Krieg?",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/05/6022bc88-bf53-487d-aa2c-ccfc920d3304.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-11-08T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

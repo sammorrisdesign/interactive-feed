@@ -103,5 +103,35 @@
     "timestamp": "2026-11-08T00:09:39.992Z",
     "publication": "WSJ",
     "error": "Error fetching Website. 401 error message reported"
+  },
+  {
+    "timestamp": "2026-11-08T06:27:37.522Z",
+    "publication": "Bloomberg",
+    "error": "Error fetching XML. 404 error message reported"
+  },
+  {
+    "timestamp": "2026-11-08T06:27:41.426Z",
+    "publication": "ESPN",
+    "error": "Error fetching RSS. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-11-08T06:27:41.454Z",
+    "publication": "ESPN",
+    "error": "Error fetching Sitemap. \n Response: {}"
+  },
+  {
+    "timestamp": "2026-11-08T06:27:58.981Z",
+    "publication": "The Economist",
+    "error": "Error fetching Website. 403 error message reported"
+  },
+  {
+    "timestamp": "2026-11-08T06:28:04.830Z",
+    "publication": "USA Today",
+    "error": "Error fetching XML. 402 error message reported"
+  },
+  {
+    "timestamp": "2026-11-08T06:28:04.962Z",
+    "publication": "WSJ",
+    "error": "Error fetching Website. 401 error message reported"
   }
 ]
