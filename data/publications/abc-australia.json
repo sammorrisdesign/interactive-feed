@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-05T02:39:22.256Z",
+  "lastUpdated": "2026-11-08T22:38:44.662Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-09/whats-in-our-weekly-shop/107286868",
+      "headline": "This is what a weekly shop looks like for seven households in 2026",
+      "image": "https://live-production.wcms.abc-cdn.net.au/e5b63af04f7fc36efa7aaeaa1876a444?impolicy=wcms_crop_resize&cropH=1691&cropW=2255&xPos=998&yPos=888&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
