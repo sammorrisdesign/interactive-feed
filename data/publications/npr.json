@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-08-12T14:22:27.844Z",
+  "lastUpdated": "2026-11-08T18:38:20.880Z",
   "articles": [
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/color-climate-change-coral-lakes/",
+      "headline": "Climate change is altering the colors we see in the world: an illustrated journey",
+      "image": "https://apps.npr.org/color-climate-change-coral-lakes/assets/synced/images/resized/promo.gif",
+      "timestamp": "2026-11-08T00:00:00.000Z"
+    },
+    {
+      "publication": "NPR",
+      "blueSkyHandle": "npr.org",
+      "url": "https://apps.npr.org/2026-election-results/",
+      "headline": "2026 Election Results: Live",
+      "image": "https://apps.npr.org/2026-election-results/assets/synced/promos/2026-results.png",
+      "timestamp": "2026-11-03T00:00:00.000Z"
+    },
     {
       "publication": "NPR",
       "blueSkyHandle": "npr.org",

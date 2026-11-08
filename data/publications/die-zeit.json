@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-05T18:09:36.287Z",
+  "lastUpdated": "2026-11-08T18:38:20.857Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/digital/2026-11/sicherheitsluecken-kuenstliche-intelligenz-cybersicherheit-software",
+      "headline": "Stecken wir schon in der Cyberapokalypse?",
+      "image": "https://img.zeit.de/digital/2026-11/sicherheitsluecken-kuenstliche-intelligenz-cybersicherheit-software-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-08T15:36:25.532Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/gesellschaftstypen-deutschland-spaltung-studie-meinungsforschung",
+      "headline": "Aus diesen sieben Typen besteht Deutschland",
+      "image": "https://img.zeit.de/politik/deutschland/2026-11/gesellschaftstypen-deutschland-spaltung-studie-meinungsforschung-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-07T10:13:01.029Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/familie/2026-11/schwangerschaft-koerper-veraenderung-folgen-geburt-koerper",
+      "headline": "Wie eine Schwangerschaft den Körper verändert – für immer",
+      "image": "https://img.zeit.de/familie/2026-11/teaser-schwanger-standfinal-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-06T13:09:57.755Z"
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
