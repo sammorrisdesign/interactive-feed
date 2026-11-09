@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-09T10:02:56.838Z",
+  "lastUpdated": "2026-11-09T20:55:58.884Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/09/business/nvidia-huang-email-memo.html",
+      "headline": "Read the Memo Jensen Huang Sent to Nvidia Employees",
+      "image": "https://static01.nyt.com/images/2026/11/09/doc-amessage-promo/doc-amessage-promo-articleLarge.png",
+      "timestamp": "2026-11-09T11:18:28.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/09/nyregion/nyc-budgeting-affordability-duah.html",
+      "headline": "How a Personal Finance Entrepreneur Lives on $130,000 a Year in Brooklyn",
+      "image": "https://static01.nyt.com/images/2026/11/09/multimedia/09met-affording-duah-promo/09met-affording-duah-01-hwtb-articleLarge.jpg",
+      "timestamp": "2026-11-09T10:02:51.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
