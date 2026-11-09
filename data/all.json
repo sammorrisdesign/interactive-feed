@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-08T22:38:45.694Z",
+  "lastUpdated": "2026-11-09T10:02:59.542Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,23 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/09/world/europe/turkey-plastic-waste.html",
+      "headline": "How Europe’s Trash Ends Up on Turkey’s Beaches",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/2026-10-20-turkey-plastic-recycling-index/2026-10-20-turkey-plastic-recycling-index-articleLarge-v3.png",
+      "timestamp": "2026-11-09T07:14:13.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/drei-toedliche-minuten-in-krakau-ld.10057930",
+      "headline": "Drei tödliche Minuten in Krakau",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/09/381a431c-28e8-4e17-b42c-64ce6b91455a.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-11-09T04:30:00.000Z"
     },
     {
       "publication": "Die Zeit",

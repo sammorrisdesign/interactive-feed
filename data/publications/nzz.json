@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-08T06:28:05.345Z",
+  "lastUpdated": "2026-11-09T10:02:56.690Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/drei-toedliche-minuten-in-krakau-ld.10057930",
+      "headline": "Drei tödliche Minuten in Krakau",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/09/381a431c-28e8-4e17-b42c-64ce6b91455a.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-11-09T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
