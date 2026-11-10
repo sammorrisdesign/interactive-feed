@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-10T11:30:10.078Z",
+  "lastUpdated": "2026-11-10T18:46:39.832Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/10/australian-music-streaming-songwriters-bands-artists",
+      "headline": "Australians are streaming more music than ever – but homegrown songs are being skipped",
+      "image": "https://i.guim.co.uk/img/media/b498825c5b43ee5f1e1005e19ff18e9ec22ca74b/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a11142ebeb2f372db5b4c2b86e2f72be",
+      "timestamp": "2026-11-10T14:00:54.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/tv-and-radio/ng-interactive/2026/nov/10/david-walliams-accused-sex-grooming-allegations-young-women",
+      "headline": "‘It wasn’t long until he asked me if I’d ever had sex before’: David Walliams accused of preying on young women for sex",
+      "image": "https://i.guim.co.uk/img/media/47f95b5dffd6d6d6b219fefc9fd8ffab4e88020d/1_0_4998_4000/master/4998.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=32ac2b76bc10cc8edfbee66f17cc0467",
+      "timestamp": "2026-11-10T12:00:52.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
