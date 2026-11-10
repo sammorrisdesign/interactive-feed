@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-09T20:55:58.884Z",
+  "lastUpdated": "2026-11-10T03:08:28.682Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html",
+      "headline": "The U.S. Is Driving Away Young Scientists",
+      "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26SCI-LOST-GEN-SCIENCE-static-promo/26SCI-LOST-GEN-SCIENCE-details-vmkh-articleLarge.jpg",
+      "timestamp": "2026-11-10T01:02:07.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
