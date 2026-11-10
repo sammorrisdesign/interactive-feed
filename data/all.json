@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T03:08:29.971Z",
+  "lastUpdated": "2026-11-10T11:30:14.021Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -9,6 +9,29 @@
       "timestamp": "2026-12-01T00:00:00.000Z"
     },
     {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/life/inq2/best-gifts-philadelphia-holidays-xmas-2026-20261110.html",
+      "headline": "The best Philadelphia holiday gift ideas for everyone in 2026",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/BAGL7FFY4VCYXC5XG3DI6X4SSA.jpg",
+      "timestamp": "2026-11-10T10:01:01.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-10-2026",
+      "headline": "Today in Pictures, Nov 10, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/3926af6ffab903c7931ef60754d6b7e5cfef63ab902baef03be66d882dad90e5?w=1200",
+      "timestamp": "2026-11-10T07:04:50.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/10/ultimate-1-50-the-male-footballers-best-associated-with-each-squad-number",
+      "headline": "Ultimate 1-50: the male footballers best associated with each squad number",
+      "image": "https://i.guim.co.uk/img/media/8b8266c11f37f734cb122e22b6d3815075a4a4ee/2_0_4936_3951/master/4936.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=52c3b6245958f3a8c30876acf5720302",
+      "timestamp": "2026-11-10T06:00:30.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/11/09/science/trump-funding-cuts-young-scientists-phd-research.html",
@@ -16,6 +39,14 @@
       "image": "https://static01.nyt.com/images/2026/10/26/multimedia/26SCI-LOST-GEN-SCIENCE-static-promo/26SCI-LOST-GEN-SCIENCE-details-vmkh-articleLarge.jpg",
       "timestamp": "2026-11-10T01:02:07.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/dc-md-va/interactive/2026/11/10/photographers-pursuit-falls-fleeting-colors/",
+      "headline": "A photographer’s pursuit of fall’s fleeting colors",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/SWUQP2PFPETGOU5LQSBSJHYUSA.JPG&w=300",
+      "timestamp": "2026-11-10T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",
