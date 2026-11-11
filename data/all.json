@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10T18:46:41.766Z",
+  "lastUpdated": "2026-11-11T04:33:14.091Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,14 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html",
+      "headline": "How a Misquote by a Supreme Court Justice Imperils Gun Restrictions",
+      "timestamp": "2026-11-11T00:22:29.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The Guardian",

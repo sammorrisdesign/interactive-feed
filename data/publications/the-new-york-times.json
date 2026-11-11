@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-10T03:08:28.682Z",
+  "lastUpdated": "2026-11-11T04:33:13.949Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html",
+      "headline": "How a Misquote by a Supreme Court Justice Imperils Gun Restrictions",
+      "timestamp": "2026-11-11T00:22:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
