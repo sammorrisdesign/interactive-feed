@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11T04:33:14.091Z",
+  "lastUpdated": "2026-11-11T12:24:21.314Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -9,12 +9,65 @@
       "timestamp": "2026-12-01T00:00:00.000Z"
     },
     {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/11/the-temperature-was-building-and-it-was-getting-more-and-more-frightening-this-is-climate-breakdown",
+      "headline": "‘My classroom was 30C. No one was learning. Then I started to feel dizzy’ – This is climate breakdown",
+      "image": "https://i.guim.co.uk/img/media/d036f8faa1cad02c4879075546c96629abe1da0b/0_1430_4000_3198/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=46e9a67c385c8b572f9841d760cd24b8",
+      "timestamp": "2026-11-11T12:00:49.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/11/project-2025-federal-data-trump-administration",
+      "headline": "Project 2025 had a plan to target federal data. The Trump administration obeyed",
+      "image": "https://i.guim.co.uk/img/media/71502a6a574fb7c454654cd153fa2b1429adb5bc/305_40_2385_1908/master/2385.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0bfa331cc1bd6b390836df0cdb8a127b",
+      "timestamp": "2026-11-11T11:00:47.000Z"
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/news/inq2/ss-united-states-reef-sinking-process-florida-20261111.html",
+      "headline": "How the SS United States will become the world’s largest artificial reef",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/2BEUORGFNFASPPJYI3A4B5BDRY.jpg",
+      "timestamp": "2026-11-11T10:01:01.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-11-2026",
+      "headline": "Today in Pictures, Nov 11, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/9f2ea7fc9fa71d86c7e9207c780c9d5dd43958c9bc599f76c0ed1f865c0fc66d?t=og",
+      "timestamp": "2026-11-11T05:50:33.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/wetter-so-viel-regen-und-sonne-hat-ihre-gemeinde-923682827825",
+      "headline": "Datenanalyse zum Wetter: Grauer November: So wenig Sonne hat Ihre Gemeinde im Vergleich",
+      "timestamp": "2026-11-11T04:47:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wo-vertraegt-deutschlands-landschaft-noch-windraeder-ld.10051986",
+      "headline": "Wo verträgt Deutschlands Landschaft noch Windräder?",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/09/dd07daea-3ed3-4cc5-8158-e3e496b212b0.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y169&wmark=nzz",
+      "timestamp": "2026-11-11T04:30:00.000Z"
+    },
+    {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
       "url": "https://www.nytimes.com/interactive/2026/11/10/us/supreme-court-guns-misquote.html",
       "headline": "How a Misquote by a Supreme Court Justice Imperils Gun Restrictions",
       "timestamp": "2026-11-11T00:22:29.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2026/11/11/their-ptsd-resisted-treatment-these-vets-tried-ayahuasca-instead/",
+      "headline": "Their PTSD resisted treatment. These vets tried ayahuasca instead.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/4RJR3QLDIUOX2RRQZ7AUSTQWDM.JPG&w=300",
+      "timestamp": "2026-11-11T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",

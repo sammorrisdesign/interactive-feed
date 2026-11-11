@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-09T10:02:56.690Z",
+  "lastUpdated": "2026-11-11T12:24:13.795Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/wo-vertraegt-deutschlands-landschaft-noch-windraeder-ld.10051986",
+      "headline": "Wo verträgt Deutschlands Landschaft noch Windräder?",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/09/dd07daea-3ed3-4cc5-8158-e3e496b212b0.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y169&wmark=nzz",
+      "timestamp": "2026-11-11T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
