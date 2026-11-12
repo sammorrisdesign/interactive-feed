@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-11-12T09:13:46.128Z",
+  "lastUpdated": "2026-11-12T17:41:12.279Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/nov/13/ralph-carr-convicted-rapist-new-allegations-sexual-touching-ntwnfb",
+      "headline": "New allegations against convicted rapist Ralph Carr revealed: ‘I was blacking out while saying no’",
+      "image": "https://i.guim.co.uk/img/media/2edc2936ffee25365c9eceb3888279158b83c43a/0_226_2000_1599/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5343f543d10b5b440e0fda4af3b062c5",
+      "timestamp": "2026-11-12T14:00:45.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/12/nepal-tibet-flood-bidur-this-is-climate-breakdown",
+      "headline": "‘I was home alone when the glacier collapsed. My mum called and told me to run’ – This is climate breakdown",
+      "image": "https://i.guim.co.uk/img/media/fc500b380dd5141383bf9e6b7968b5afdb666fd1/224_2_1112_891/master/1112.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=da072b07f9936cc10ad68c106e759adc",
+      "timestamp": "2026-11-12T12:00:48.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/cfpb-consumer-financial-protection-bureau-consumers",
+      "headline": "‘Screwed twice’: The CFPB says it’s looking out for consumers. Its own data tells a different story",
+      "image": "https://i.guim.co.uk/img/media/34a35ff94d0c11b00f79817a8b116d20b7c84b2e/0_541_2400_1919/master/2400.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cbe194c5b599344417ec35d7db27a3e3",
+      "timestamp": "2026-11-12T12:00:48.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/12/maga-dead-manosphere-trump",
+      "headline": "‘Maga is dead, Maga is effeminate’: why has the manosphere rejected Trump?",
+      "image": "https://i.guim.co.uk/img/media/e6cb058d25b8e579224072bee27fa25b397b99a9/233_326_3500_2801/master/3500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=6cad4b9eab93b8faf41f0a7d3e8125cb",
+      "timestamp": "2026-11-12T11:00:46.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/12/motorway-services",
+      "headline": "‘We can’t be at the bottom indefinitely’: Can Britain’s most maligned service station be turned around?",
+      "image": "https://i.guim.co.uk/img/media/563ccb1ff6f78ea7d5f29c68ca9d29e747258b61/0_900_4000_3200/master/4000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97219de2f8ead893d3b25602c9ab38f4",
+      "timestamp": "2026-11-12T05:00:10.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
