@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T17:41:18.817Z",
+  "lastUpdated": "2026-11-12T23:10:05.704Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,20 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/fahrplanwechsel-2026-zuerichs-tramlinien-im-ueberblick-ld.10049708",
+      "headline": "Fährt Ihr Tram wieder wie früher? Der Überblick zum Fahrplanwechsel 2026 in Zürich",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/11/d5b18af1-0fac-420b-b75b-b16458975073.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y127&wmark=nzz",
+      "timestamp": "2026-11-12T20:00:00.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/jugendarbeitslosigkeit-12-6-prozent-rekord-in-der-schweiz-201866505134",
+      "headline": "Schweizer Rekord: Noch nie waren so viele Junge arbeitslos. Diese Ausbildung bietet die besten Chancen",
+      "timestamp": "2026-11-12T18:02:07.000Z"
     },
     {
       "publication": "The Guardian",
@@ -186783,6 +186797,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432",
+      "headline": "Worried doctors urge action on frequent shortages of critical drugs",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bce9b592617140e6cb5689254b6eee7f?impolicy=wcms_crop_resize&cropH=1700&cropW=2267&xPos=504&yPos=243&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",

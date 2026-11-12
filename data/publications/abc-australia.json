@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-08T22:38:44.662Z",
+  "lastUpdated": "2026-11-12T23:09:59.392Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-13/repeated-critical-medicine-shortages-new-analysis/107242432",
+      "headline": "Worried doctors urge action on frequent shortages of critical drugs",
+      "image": "https://live-production.wcms.abc-cdn.net.au/bce9b592617140e6cb5689254b6eee7f?impolicy=wcms_crop_resize&cropH=1700&cropW=2267&xPos=504&yPos=243&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

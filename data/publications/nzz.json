@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-12T17:41:11.197Z",
+  "lastUpdated": "2026-11-12T23:09:59.855Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/fahrplanwechsel-2026-zuerichs-tramlinien-im-ueberblick-ld.10049708",
+      "headline": "Fährt Ihr Tram wieder wie früher? Der Überblick zum Fahrplanwechsel 2026 in Zürich",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/11/d5b18af1-0fac-420b-b75b-b16458975073.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y127&wmark=nzz",
+      "timestamp": "2026-11-12T20:00:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
