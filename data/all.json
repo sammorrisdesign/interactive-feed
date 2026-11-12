@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12T01:46:56.660Z",
+  "lastUpdated": "2026-11-12T09:13:47.559Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,20 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/migros-vs-coop-kennzahlen-der-detailhaendler-im-vergleich-520827991749",
+      "headline": "Vergleich in 13 Punkten: Wer ist besser, Migros oder Coop? Das grosse Duell",
+      "timestamp": "2026-11-12T04:48:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/12/how-namdaemun-scarf-man-became-seouls-biggest-attraction",
+      "headline": "‘He’s the hottest thing right now’: how a $1 scarf seller became Seoul’s biggest attraction",
+      "image": "https://i.guim.co.uk/img/media/97191372b272790630ab6406a68785bcbdff81de/91_0_1368_1094/master/1368.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8f47560be2bcbb17b23e1b81b8b3ad92",
+      "timestamp": "2026-11-12T03:33:38.000Z"
     },
     {
       "publication": "The Straits Times",
