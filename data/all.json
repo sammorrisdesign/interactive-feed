@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-13T03:30:42.171Z",
+  "lastUpdated": "2026-11-13T11:27:58.700Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -9,11 +9,74 @@
       "timestamp": "2026-12-01T00:00:00.000Z"
     },
     {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/13/cybertruck-maga-hat-on-wheels-end",
+      "headline": "Farewell, Cybertruck: why the winding down of the ‘Maga hat on wheels’ is a sign of the times",
+      "image": "https://i.guim.co.uk/img/media/97cc90b0a69f0679476b1cbbe7720f9d590ea754/232_406_2528_2020/master/2528.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=2fbf43dd95fad0d155db9d9abd290a49",
+      "timestamp": "2026-11-13T11:00:17.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/13/technology/nvidia-jensen-huang.html",
+      "headline": "The Fall of Jensen Huang",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/2026-11-09-nvidia-timeline-index/2026-11-09-nvidia-timeline-index-articleLarge-v4.jpg",
+      "timestamp": "2026-11-13T10:04:35.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/13/arts/photo-quiz-game-175.html",
+      "headline": "Can You Guess When This Photo Was Taken?",
+      "image": "https://static01.nyt.com/images/2026/11/12/us/photo-game-2026-11-13-175-photo-game/photo-game-2026-11-13-175-photo-game-articleLarge.jpg",
+      "timestamp": "2026-11-13T10:02:37.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Philadelphia Inquirer",
+      "blueSkyHandle": "inquirer.com",
+      "url": "https://inquirer.com/news/philadelphia/inq2/schuylkill-swing-bridge-how-it-works-video-20261113.html",
+      "headline": "Philly’s newest bridge over the Schuylkill swings opens to the public. Here’s how it works.",
+      "image": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/UB35ZMQNGBGGBODHXYHOZPJIKU.jpg",
+      "timestamp": "2026-11-13T10:01:01.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/7377e093-d58e-4303-853a-5aa82b6a747e",
+      "headline": "Russia loses almost half a million lives in Ukraine war",
+      "timestamp": "2026-11-13T05:00:27.000Z"
+    },
+    {
+      "publication": "Tages-Anzeiger",
+      "url": "https://www.tagesanzeiger.ch/winterthur-altstadt-wem-gehoeren-die-liegenschaften-756535790774",
+      "headline": "Wem die Altstadt gehört: Firmen dominieren die Marktgasse in Winterthur: «Heute könnte ich mir kein Haus mehr leisten», sagt der Gewerbler",
+      "timestamp": "2026-11-13T04:58:00.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/chinas-exporte-brechen-rekorde-unsere-interaktive-uebersicht-zeigt-welche-produkte-am-staerksten-zulegen-und-in-welche-laender-sie-gehen-ld.10046983",
+      "headline": "Chinas Exporte brechen Rekorde. Unsere interaktive Übersicht zeigt, welche Produkte am stärksten zulegen und in welche Länder sie geliefert werden",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/09/78cfe764-d994-43e6-a252-ea55fedc1904.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y169&wmark=nzz",
+      "timestamp": "2026-11-13T04:30:00.000Z"
+    },
+    {
       "publication": "The Straits Times",
       "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-13-2026",
       "headline": "Today in Pictures, Nov 13, 2026",
       "image": "https://cassette.sphdigital.com.sg/image/straitstimes/c6d30f28c1aaec9447e5cad52f82a33afe9077fb9698f00b0749d9c834193a32?t=og",
       "timestamp": "2026-11-13T00:52:23.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/11/13/timeline-president-trump-jensen-huang-close-relationship/",
+      "headline": "See how disgraced Nvidia CEO Jensen Huang became a close Trump ally",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/HRUW3SJA6BBCHB2PHQ66DUP2EQ.jpg&w=300",
+      "timestamp": "2026-11-13T00:00:00.000Z"
     },
     {
       "publication": "NZZ",

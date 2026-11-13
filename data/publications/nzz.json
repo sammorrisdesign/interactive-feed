@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-12T23:09:59.855Z",
+  "lastUpdated": "2026-11-13T11:27:51.416Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/chinas-exporte-brechen-rekorde-unsere-interaktive-uebersicht-zeigt-welche-produkte-am-staerksten-zulegen-und-in-welche-laender-sie-gehen-ld.10046983",
+      "headline": "Chinas Exporte brechen Rekorde. Unsere interaktive Übersicht zeigt, welche Produkte am stärksten zulegen und in welche Länder sie geliefert werden",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/09/78cfe764-d994-43e6-a252-ea55fedc1904.png?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1801,1013,x0,y169&wmark=nzz",
+      "timestamp": "2026-11-13T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
