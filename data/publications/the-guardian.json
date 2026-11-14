@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-11-14T06:51:19.986Z",
+  "lastUpdated": "2026-11-14T13:55:46.812Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/nov/14/arizona-abortion-laws-religion-doctor",
+      "headline": "The abortion doctor who leads with her faith: ‘God is forgiving’",
+      "image": "https://i.guim.co.uk/img/media/23f4ad36bebf54ad78b07e8b1e3989d749794071/0_1352_5243_4193/master/5243.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=97be9ed5fef0c955d996ee743b626253",
+      "timestamp": "2026-11-14T12:00:45.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/14/trump-lame-duck-presidency-outcome",
+      "headline": "Will Trump’s lame duck presidency push him further beyond constraints of the law?",
+      "image": "https://i.guim.co.uk/img/media/f850cba9168bff3c2fc933bd2b10aa840d98f1b2/0_216_2109_1686/master/2109.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3f1e1406cdde4409c3549790d1294c5",
+      "timestamp": "2026-11-14T11:00:43.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+      "headline": "‘It’s like the wild west’: how AI has rocked the literary world ",
+      "image": "https://i.guim.co.uk/img/media/b8a39bdb32dea0bb0e41f2a5aa45ffef61974668/725_1297_5935_4748/master/5935.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=117c27a2f9da3e1c4f06abfc82b06ffb",
+      "timestamp": "2026-11-14T09:00:40.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
