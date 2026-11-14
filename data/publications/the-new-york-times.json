@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-13T18:40:26.116Z",
+  "lastUpdated": "2026-11-14T06:51:20.006Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/13/us/us-airports-ground-stop.html",
+      "headline": "See How Air Travel Ground to a Halt at the 6 Busiest U.S. Airports",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/2026-11-13-aviation-shutdown-index/2026-11-13-aviation-shutdown-index-articleLarge-v4.jpg",
+      "timestamp": "2026-11-14T04:55:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

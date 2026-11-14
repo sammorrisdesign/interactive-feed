@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-13T18:40:26.096Z",
+  "lastUpdated": "2026-11-14T06:51:19.986Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer",
+      "headline": "this week’s UK cinema releases",
+      "image": "https://i.guim.co.uk/img/media/6592065df5d7754af2792be886bea25d6d521091/760_663_3366_2693/master/3366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0bc8de5611f81ed4f53e7dbb1a32423",
+      "timestamp": "2026-11-14T05:00:35.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

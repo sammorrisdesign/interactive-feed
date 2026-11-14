@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-14T00:08:03.268Z",
+  "lastUpdated": "2026-11-14T06:51:21.780Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,30 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/576640c4-8d35-4504-b1a5-f01c0ca1f5bc",
+      "headline": "Record polar vortex breakdown raises cold weather risk",
+      "timestamp": "2026-11-14T05:00:38.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/14/this-week-uk-cinema-releases-cynthia-erivo-prima-facie-johnny-depp-ebenezer",
+      "headline": "this week’s UK cinema releases",
+      "image": "https://i.guim.co.uk/img/media/6592065df5d7754af2792be886bea25d6d521091/760_663_3366_2693/master/3366.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e0bc8de5611f81ed4f53e7dbb1a32423",
+      "timestamp": "2026-11-14T05:00:35.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/13/us/us-airports-ground-stop.html",
+      "headline": "See How Air Travel Ground to a Halt at the 6 Busiest U.S. Airports",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/2026-11-13-aviation-shutdown-index/2026-11-13-aviation-shutdown-index-articleLarge-v4.jpg",
+      "timestamp": "2026-11-14T04:55:50.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The Economist",
