@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-16T08:16:48.684Z",
+  "lastUpdated": "2026-11-16T18:46:01.598Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/climate/ai-data-center-pollution-carbon-emissions.html",
+      "headline": "Carbon Emissions of Biggest U.S. Data Centers Already Rival Entire Countries, Study Reveals",
+      "image": "https://static01.nyt.com/images/2026/11/13/multimedia/2026-10-29-ai-co2-index/2026-10-29-ai-co2-index-articleLarge-v4.png",
+      "timestamp": "2026-11-16T16:00:01.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/nyregion/nyc-budgeting-affordability-brown.html",
+      "headline": "How an Actor and Cafe Owner Lives on $35,000 in Astoria",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/12met-affordingny-SonnieBrown-promo/12met-affordingny-SonnieBrown-01-mvqw-articleLarge.jpg",
+      "timestamp": "2026-11-16T10:02:40.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/world/europe/trump-ukraine-russia-war.html",
+      "headline": "Trump Has Eased Up on Russia, but Russia Hasn’t Eased Up on Ukraine",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/2026-10-26-ukraine-russia-index/2026-10-26-ukraine-russia-index-articleLarge-v3.png",
+      "timestamp": "2026-11-16T10:02:36.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
