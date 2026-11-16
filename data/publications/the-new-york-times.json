@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-14T06:51:20.006Z",
+  "lastUpdated": "2026-11-16T08:16:48.684Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/15/nyregion/moma-art-conservator.html",
+      "headline": "Who Maintains MoMA’s Masterpieces?",
+      "image": "https://static01.nyt.com/images/2026/11/12/multimedia/MOMA-promo/MOMA-promo-articleLarge-v2.jpg",
+      "timestamp": "2026-11-16T02:41:14.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
