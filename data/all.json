@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16T18:46:10.517Z",
+  "lastUpdated": "2026-11-17T02:16:41.651Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,78 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/10-days-175-years-reader-feedback.html",
+      "headline": "Did We Miss One of the Most Important Days of the Past 175 Years? Tell Us.",
+      "image": "https://static01.nyt.com/images/2026/11/29/magazine/29mag-promostills/29mag-promostills-articleLarge.jpg",
+      "timestamp": "2026-11-16T21:47:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/10-days-175-years-runner-ups.html",
+      "headline": "The Days That Almost Made the List",
+      "image": "https://static01.nyt.com/images/2026/11/29/magazine/29mag-promostills-02/29mag-promostills-02-articleLarge.jpg",
+      "timestamp": "2026-11-16T21:46:48.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/wannsee-conference-nazis-final-solution.html",
+      "headline": "The Day Evil Became a System",
+      "image": "https://static01.nyt.com/images/2026/11/29/magazine/29mag-promostill-wannsee/29mag-promostill-wannsee-articleLarge-v2.jpg",
+      "timestamp": "2026-11-16T21:38:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/electric-grid-edison-light-power.html",
+      "headline": "The Day The Lights Turned On",
+      "image": "https://static01.nyt.com/images/2026/11/29/magazine/29mag-promostill-electricalgrid/29mag-promostill-electricalgrid-articleLarge.jpg",
+      "timestamp": "2026-11-16T21:36:04.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/china-capitalism-deng-xiaoping-east.html",
+      "headline": "The Day a New Superpower Was Born",
+      "image": "https://static01.nyt.com/images/2026/11/29/magazine/29mag-promostill-deng/29mag-promostill-deng-articleLarge.jpg",
+      "timestamp": "2026-11-16T21:30:53.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/15th-amendment-voting-rights-democracy.html",
+      "headline": "The Day America Made a Promise",
+      "image": "https://static01.nyt.com/images/2026/11/29/magazine/29mag-promostill-15th/29mag-promostill-15th-articleLarge.jpg",
+      "timestamp": "2026-11-16T21:29:30.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/arpanet-internet-computers-network.html",
+      "headline": "The Day That Rewired Us",
+      "image": "https://static01.nyt.com/images/2026/11/29/magazine/29mag-promostill-arpanet/29mag-promostill-arpanet-articleLarge.jpg",
+      "timestamp": "2026-11-16T21:28:27.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/16/magazine/birth-control-pill-women-liberation.html",
+      "headline": "The Day That Gave Women Control",
+      "image": "https://static01.nyt.com/images/2026/11/29/magazine/29mag-promostill-pill/29mag-promostill-pill-articleLarge.jpg",
+      "timestamp": "2026-11-16T21:26:58.000Z",
+      "isTemplated": false
     },
     {
       "publication": "Reuters",
@@ -66,6 +138,14 @@
       "image": "https://static01.nyt.com/images/2026/11/12/multimedia/MOMA-promo/MOMA-promo-articleLarge-v2.jpg",
       "timestamp": "2026-11-16T02:41:14.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2026/11/16/we-have-new-james-bond-are-we-happy-about-it/",
+      "headline": "We have a new James Bond. But are we happy about it?",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/R7WBWJCOTBGEFPRGTSMMQRRAAM.jpg&w=300",
+      "timestamp": "2026-11-16T00:00:00.000Z"
     },
     {
       "publication": "The Guardian",
@@ -184,6 +264,13 @@
       "headline": "‘Can you snatch it back?’ What happened after a HungryPanda delivery rider’s order was brazenly stolen in Melbourne’s CBD",
       "image": "https://i.guim.co.uk/img/media/eb0706c2f4482d0ce9277dde7ae4c29f2e2b3ce7/0_0_2500_2000/master/2500.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b529356dca61562db3679059dd8e2c1",
       "timestamp": "2026-11-13T14:00:20.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/front-page-covers-quiz-november-13/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/27145965/1/rawImage.jpg",
+      "timestamp": "2026-11-13T12:04:29.000Z"
     },
     {
       "publication": "The Guardian",
