@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-12T23:09:59.392Z",
+  "lastUpdated": "2026-11-17T10:57:08.516Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-17/how-robert-pattinson-went-from-twilight-to-james-bond/107393970",
+      "headline": "Robert Pattinson as James Bond throws out the 007 playbook",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3ca8a296fe377b95c0b273cf49f014a4?impolicy=wcms_crop_resize&cropH=3571&cropW=4761&xPos=0&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",

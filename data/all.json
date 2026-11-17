@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-17T02:16:41.651Z",
+  "lastUpdated": "2026-11-17T10:57:13.414Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,35 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/in-pictures-beijings-parks-and-palace-museum-dazzle-in-golden-autumn-hues",
+      "headline": "In Pictures: Beijing’s parks and Palace Museum dazzle in golden autumn hues",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/d45c2c4911c3d314ce2f783fc921376a4a5ddf5a223838b288a32dbaf67c6e89?t=og",
+      "timestamp": "2026-11-17T08:25:55.000Z"
+    },
+    {
+      "publication": "FT",
+      "blueSkyHandle": "data.ft.com",
+      "url": "https://www.ft.com/content/18d940b2-c869-475a-a8a4-934544d13618",
+      "headline": "Behind the Deutsche Bank investigation: Ask a question ",
+      "timestamp": "2026-11-17T07:01:17.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-17-2026",
+      "headline": "Today in Pictures, Nov 17, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/b7f7ba70feff08aec8362a309820b67b84bc69f40a4ac52264c240f328bf1f00?t=og",
+      "timestamp": "2026-11-17T05:51:55.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/health/interactive/2026/11/17/see-how-minutes-daily-exercise-could-extend-your-lifespan/",
+      "headline": "How much life could a 10-minute walk buy you? Try our calculator.",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/A2RC7OOWBVETBPZTKPMQEI76UA.jpg&w=300",
+      "timestamp": "2026-11-17T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
@@ -187139,6 +187168,14 @@
       "twitterHandle": "SCMPgraphics",
       "url": "https://www.scmp.com/infographics/article/1287739/slice-profit",
       "timestamp": "2011-01-13T16:00:00.000Z"
+    },
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-17/how-robert-pattinson-went-from-twilight-to-james-bond/107393970",
+      "headline": "Robert Pattinson as James Bond throws out the 007 playbook",
+      "image": "https://live-production.wcms.abc-cdn.net.au/3ca8a296fe377b95c0b273cf49f014a4?impolicy=wcms_crop_resize&cropH=3571&cropW=4761&xPos=0&yPos=0&width=862&height=647",
+      "timestamp": null
     },
     {
       "publication": "ABC Australia",
