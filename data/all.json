@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T02:03:18.133Z",
+  "lastUpdated": "2026-11-18T10:29:13.079Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -9,11 +9,45 @@
       "timestamp": "2026-12-01T00:00:00.000Z"
     },
     {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/schweiz/bundesratswahl-2026-parmelin-nachfolge-srf-schaetzt-alle-moeglichen-svp-tickets-ein",
+      "headline": "Bundesratswahl 2026 – Parmelin-Nachfolge: SRF schätzt alle möglichen SVP-Tickets ein",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/03caf0.jpg",
+      "timestamp": "2026-11-18T08:47:56.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-18-2026",
+      "headline": "Today in Pictures, Nov 18, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/034733f4a37ca76252bf04afdc3645c24abc5a15b829e48870bee692cbb8136a?t=og",
+      "timestamp": "2026-11-18T05:46:59.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/tesla-arbitration-clauses/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31430089/1/rawImage.jpg",
+      "timestamp": "2026-11-18T01:06:12.000Z"
+    },
+    {
       "publication": "CNA",
       "url": "https://www.channelnewsasia.com/interactive/lava-chasers-active-volcanoes/%2E",
       "headline": "Meet the explorers chasing risky volcanic eruptions",
       "image": "https://dam.mediacorp.sg/image/upload/s--aSJwcLx1--/c_fill,g_center,h_598,w_747/f_auto,q_auto/v1/mediacorp/cna/image/2026/11/13/laval-chasers-article-shell_0.gif?itok=rbJ2TG3D",
       "timestamp": "2026-11-17T22:00:00.000Z"
+    },
+    {
+      "publication": "San Francisco Chronicle",
+      "blueSkyHandle": "sfchronicle.com",
+      "url": "https://www.sfchronicle.com/projects/2026/sf-bakery-lines/",
+      "image": "https://s.hdnux.com/photos/0/0/0/0/31164543/1/rawImage.jpg",
+      "timestamp": "2026-11-17T18:13:52.000Z"
+    },
+    {
+      "publication": "National Geographic",
+      "url": "https://www.nationalgeographic.com/photography/graphics/power-of-photography",
+      "image": "https://i.natgeofe.com/n/2753f9e5-9321-4552-86c2-ce2b92172681/SPI-11960.jpg?w=1200",
+      "timestamp": "2026-11-17T14:02:45.760Z"
     },
     {
       "publication": "SRF",
