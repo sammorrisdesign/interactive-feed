@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T10:29:13.079Z",
+  "lastUpdated": "2026-11-18T18:59:22.355Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -9,11 +9,27 @@
       "timestamp": "2026-12-01T00:00:00.000Z"
     },
     {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/18/el-bosque-mexico-displaced-sea-level-this-is-climate-breakdown",
+      "headline": "‘The sea washed away trees, then a whole row of houses. I knew it was time to get out’ – This is climate breakdown",
+      "image": "https://i.guim.co.uk/img/media/e54b42e3182b9d75ff85764ea02eec507c78e210/355_599_2923_2339/master/2923.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=15d46f46f77e3d4b38865e6c7c25f2e0",
+      "timestamp": "2026-11-18T12:00:58.000Z"
+    },
+    {
       "publication": "SRF",
       "url": "https://www.srf.ch/news/schweiz/bundesratswahl-2026-parmelin-nachfolge-srf-schaetzt-alle-moeglichen-svp-tickets-ein",
       "headline": "Bundesratswahl 2026 – Parmelin-Nachfolge: SRF schätzt alle möglichen SVP-Tickets ein",
       "image": "https://www.srf.ch/static/cms/images/branded_srf_news/03caf0.jpg",
       "timestamp": "2026-11-18T08:47:56.000Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/ausland/2026-11/russische-verluste-krieg-soldaten-daten",
+      "headline": "Diese geheimen Daten zeigen, wie Putin in der Ukraine scheitert",
+      "image": "https://img.zeit.de/politik/ausland/2026-11/rosstat-leak/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-18T05:59:25.342Z"
     },
     {
       "publication": "The Straits Times",
@@ -28,6 +44,14 @@
       "url": "https://www.sfchronicle.com/projects/2026/tesla-arbitration-clauses/",
       "image": "https://s.hdnux.com/photos/0/0/0/0/31430089/1/rawImage.jpg",
       "timestamp": "2026-11-18T01:06:12.000Z"
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/politics/interactive/2026/11/18/these-are-senate-democrats-backing-schumer-van-hollen-majority-leader/",
+      "headline": "These are the Senate Democrats backing Schumer and Van Hollen for majority leader",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/G5P47BE7QFEWBKGYMYJDQ2AEIA.png&w=300",
+      "timestamp": "2026-11-18T00:00:00.000Z"
     },
     {
       "publication": "CNA",
@@ -767,6 +791,14 @@
       "image": "https://static01.nyt.com/images/2026/11/06/multimedia/2026-10-20-messages-index/2026-10-20-messages-index-articleLarge.png",
       "timestamp": "2026-11-08T03:04:02.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/11/business/healthcare/massachusetts-primary-care-doctor-workday/",
+      "headline": "A primary care doctor’s day: Nearly 14 hours, a deluge of patient messages, and a human touch",
+      "image": "https://apps.bostonglobe.com/2026/11/business/healthcare/massachusetts-primary-care-doctor-workday/static/3e45686a1225506031c231c9ad8691e1/47498/SIATEJBLSWZJJ4PCBBPNGEUAUI.jpg",
+      "timestamp": "2026-11-08T00:00:00.000Z"
     },
     {
       "publication": "NPR",
@@ -4485,6 +4517,14 @@
       "headline": "Deutschland war nur einen Knopfdruck vom Superblackout entfernt",
       "image": "https://img.zeit.de/digital/2026-10/hackerangriff-solaranlagen-sicherheitsluecke-blackout-solarenergie-teaserbild/super__767x511__mobile__scale_2",
       "timestamp": "2026-10-07T03:32:55.476Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/10/storylab/love-is-blind-boston/",
+      "headline": "Love Is WICKED Blind: Everything you need to know about the Boston season",
+      "image": "https://apps.bostonglobe.com/2026/10/storylab/love-is-blind-boston/static/e96f6a8cc99241e0cb9492e105d56712/47498/C7PACAARRZFABD4E2OXXEBFAKY.jpg",
+      "timestamp": "2026-10-07T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
