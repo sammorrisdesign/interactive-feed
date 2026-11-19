@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-19T01:01:25.466Z",
+  "lastUpdated": "2026-11-19T18:28:33.884Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/world/middleeast/iran-economy-groceries-inflation.html",
+      "headline": "The Disappearing Iranian Meal",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/2026-10-14-iran-cost-crisis-index/2026-10-14-iran-cost-crisis-index-articleLarge-v6.jpg",
+      "timestamp": "2026-11-19T10:39:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/upshot/voter-trend-takeaways.html",
+      "headline": "Five Takeaways From the Most Detailed Data We Have on Midterm Voters",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/2026-11-11-tvt-takeaways-index/2026-11-11-tvt-takeaways-index-articleLarge-v4.png",
+      "timestamp": "2026-11-19T10:03:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/travel/things-to-do-sydney.html",
+      "headline": "36 Hours in Sydney, Australia",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trav-hours-sydney-vzwm/19trav-hours-sydney-vzwm-articleLarge.jpg",
+      "timestamp": "2026-11-19T10:03:12.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

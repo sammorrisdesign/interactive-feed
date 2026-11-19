@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19T09:05:36.385Z",
+  "lastUpdated": "2026-11-19T18:28:40.433Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,56 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "Reuters",
+      "blueSkyHandle": "reuters.com",
+      "url": "https://www.reuters.com/business/anthropics-ipo-makes-history-2026-11-19/",
+      "headline": "Anthropic's IPO makes history",
+      "image": "https://www.reuters.com/resizer/v2/BDQO55HPDZAGZKD2BU44RIKAMQ.jpg?auth=994cdf0e668f145e045734f8a82ac40ec0fd824ad7789a7a5087f43478372e6b&width=1200&quality=80",
+      "timestamp": "2026-11-19T14:16:00.193Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/19/bond-films-ranked-by-critics-and-box-office",
+      "headline": "The best and worst Bond films: ranked by critics and box office",
+      "image": "https://i.guim.co.uk/img/media/77b5c4c8c848bac3bbeb7c844393531ed5146936/0_0_1620_1296/master/1620.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a9465e679bfa706086787f5cc0eb4ebc",
+      "timestamp": "2026-11-19T14:00:51.000Z"
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/radio-srf-1/mundart/shitstorm-monsterbank-kennen-sie-alle-schweizer-woerter-des-jahres",
+      "headline": "Shitstorm, Monsterbank, # – Kennen Sie alle Schweizer «Wörter des Jahres»?",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf/d880505.jpg",
+      "timestamp": "2026-11-19T13:28:29.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/world/middleeast/iran-economy-groceries-inflation.html",
+      "headline": "The Disappearing Iranian Meal",
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/2026-10-14-iran-cost-crisis-index/2026-10-14-iran-cost-crisis-index-articleLarge-v6.jpg",
+      "timestamp": "2026-11-19T10:39:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/upshot/voter-trend-takeaways.html",
+      "headline": "Five Takeaways From the Most Detailed Data We Have on Midterm Voters",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/2026-11-11-tvt-takeaways-index/2026-11-11-tvt-takeaways-index-articleLarge-v4.png",
+      "timestamp": "2026-11-19T10:03:41.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/travel/things-to-do-sydney.html",
+      "headline": "36 Hours in Sydney, Australia",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/19trav-hours-sydney-vzwm/19trav-hours-sydney-vzwm-articleLarge.jpg",
+      "timestamp": "2026-11-19T10:03:12.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The Straits Times",
@@ -31,6 +81,14 @@
       "image": "https://static01.nyt.com/images/2026/11/18/multimedia/2026-09-29-anthropic-ipo-index/2026-09-29-anthropic-ipo-index-articleLarge-v3.png",
       "timestamp": "2026-11-19T00:34:25.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/style/interactive/2026/11/19/best-things-say-someone-going-through-divorce/",
+      "headline": "What to say — or not! — to someone going through divorce, according to readers",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/E6LDFD53W5EK3BSPKV74PKT4AQ.jpg&w=300",
+      "timestamp": "2026-11-19T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
