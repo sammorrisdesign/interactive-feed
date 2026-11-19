@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-18T18:59:22.355Z",
+  "lastUpdated": "2026-11-19T01:01:27.826Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,24 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/18/technology/anthropic-ipo-compared.html",
+      "headline": "How Anthropic’s I.P.O. Valuation Stacks Up With the Biggest Tech Debuts Since the ’80s",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/2026-09-29-anthropic-ipo-index/2026-09-29-anthropic-ipo-index-articleLarge-v3.png",
+      "timestamp": "2026-11-19T00:34:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/18/us/politics/schumer-senate-leader-endorsements.html",
+      "headline": "Tracking Who Senate Democrats Support for Majority Leader",
+      "image": "https://static01.nyt.com/images/2026/11/18/multimedia/2026-11-16-senate-leadership-count-index/2026-11-16-senate-leadership-count-index-articleLarge-v9.jpg",
+      "timestamp": "2026-11-18T20:15:50.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The Guardian",
