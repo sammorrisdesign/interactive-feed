@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-15T09:44:04.077Z",
+  "lastUpdated": "2026-11-19T09:05:33.570Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/von-reisfeldern-zur-tech-metropole-shenzhens-rasanter-aufstieg-ld.10067663",
+      "headline": "Von Reisfeldern zur Tech-Metropole: der rasante Aufstieg der Gipfel-Metropole Shenzhen",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/18/09626b65-702b-4bc7-8a84-9851f0e9a3d9.jpg?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1920,1080,x0,y0&wmark=nzz",
+      "timestamp": "2026-11-19T04:30:00.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",
