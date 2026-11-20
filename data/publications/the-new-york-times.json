@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-20T00:49:12.586Z",
+  "lastUpdated": "2026-11-20T08:01:20.989Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/nyregion/brooklyn-building-collapse-excavation-foundation.html",
+      "headline": "Excavation Compromised Building That Collapsed, Visual Evidence Suggests",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/2026-11-13-flatbush-building-collapse-index/2026-11-13-flatbush-building-collapse-index-articleLarge-v3.jpg",
+      "timestamp": "2026-11-20T03:27:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/arts/gta-vi-game-design.html",
+      "headline": "The Countless Temptations of Grand Theft Auto VI",
+      "image": "https://static01.nyt.com/images/2026/11/19/arts/gta-vi-game-design-promo/gta-vi-game-design-promo-articleLarge.jpg",
+      "timestamp": "2026-11-20T03:06:49.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

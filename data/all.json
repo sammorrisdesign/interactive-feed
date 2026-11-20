@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T00:49:13.718Z",
+  "lastUpdated": "2026-11-20T08:01:24.458Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,40 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/football/ng-interactive/2026/nov/20/male-footballers-best-associated-each-shirt-number-readers-edit",
+      "headline": "The male footballers best associated with each shirt number – the readers’ edition",
+      "image": "https://i.guim.co.uk/img/media/e915b62b593d2af5c5615cc210a752d3196133d8/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=29340ea838aec127c3bdcc7d91001ba0",
+      "timestamp": "2026-11-20T06:00:24.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/die-generation-z-protestiert-gegen-steigende-preise-sparmassnahmen-und-fehlenden-klimaschutz-wie-schlecht-geht-es-den-jungen-in-europa-wirklich-ld.10051632",
+      "headline": "Die Generation Z protestiert gegen steigende Preise, Sparmassnahmen und fehlenden Klimaschutz. Wie schlecht geht es den Jungen in Europa wirklich?",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/19/69cafc29-c5f5-41bd-843a-4aedd9ca58c8.png?width=1200&height=675&fit=bounds&quality=75&auto=webp&crop=1635,920,x78,y4&wmark=nzz",
+      "timestamp": "2026-11-20T04:30:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/nyregion/brooklyn-building-collapse-excavation-foundation.html",
+      "headline": "Excavation Compromised Building That Collapsed, Visual Evidence Suggests",
+      "image": "https://static01.nyt.com/images/2026/11/19/multimedia/2026-11-13-flatbush-building-collapse-index/2026-11-13-flatbush-building-collapse-index-articleLarge-v3.jpg",
+      "timestamp": "2026-11-20T03:27:25.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/arts/gta-vi-game-design.html",
+      "headline": "The Countless Temptations of Grand Theft Auto VI",
+      "image": "https://static01.nyt.com/images/2026/11/19/arts/gta-vi-game-design-promo/gta-vi-game-design-promo-articleLarge.jpg",
+      "timestamp": "2026-11-20T03:06:49.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The New York Times",
