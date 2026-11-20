@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-19T18:28:33.884Z",
+  "lastUpdated": "2026-11-20T00:49:12.586Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/19/us/trump-arc-washington-military.html",
+      "headline": "Snipers Next to Tourists? Trump Has Conflicting Goals for the Arch.",
+      "image": "https://static01.nyt.com/images/2026/11/18/us/arch-military-promo-arch-military-complex/arch-military-promo-arch-military-complex-articleLarge.jpg",
+      "timestamp": "2026-11-19T22:38:05.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
