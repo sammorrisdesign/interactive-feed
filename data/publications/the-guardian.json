@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-20T08:01:20.971Z",
+  "lastUpdated": "2026-11-20T17:05:38.829Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/20/cop31-draft-climate-text-explained",
+      "headline": "Cop31 draft climate text dissected: what it says and what it means",
+      "image": "https://i.guim.co.uk/img/media/a076237da6786a84fb44957e8df41dc09dc831aa/602_0_6024_4819/master/6024.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=beabab113be3eaa9a6ab2c60af61ae13",
+      "timestamp": "2026-11-20T16:47:05.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/environment/ng-interactive/2026/nov/20/ferocity-of-heatwave-took-them-by-surprise-anne-sophie-woronoff-climate-breakdown",
+      "headline": "‘I went to bed … then Dad called to say Mum was convulsing’ - This is climate breakdown",
+      "image": "https://i.guim.co.uk/img/media/d39756f8ffc806f77f622736d2dcb76faed0a607/0_319_2657_2124/master/2657.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d3ad07d76858a60418a7399ba99e34ab",
+      "timestamp": "2026-11-20T12:00:18.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

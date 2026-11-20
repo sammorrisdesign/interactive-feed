@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-20T08:01:20.989Z",
+  "lastUpdated": "2026-11-20T17:05:38.854Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/20/arts/jan-van-eyck-portraits-exhibition.html",
+      "headline": "The Genius of Jan van Eyck in Three Works",
+      "image": "https://static01.nyt.com/images/2026/11/20/arts/20cul-vaneyck-promo/20cul-vaneyck-promo-articleLarge.jpg",
+      "timestamp": "2026-11-20T10:02:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
