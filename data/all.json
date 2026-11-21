@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-20T23:14:50.924Z",
+  "lastUpdated": "2026-11-21T04:07:43.057Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,15 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/20/world/americas/earthquake-peru-map-tracker.html",
+      "headline": "Map: Earthquake Shakes Peru",
+      "image": "https://static01.nyt.com/images/2026/11/21/world/20wea-quake-tracker-peru-nytcz7ry-v2-index/20wea-quake-tracker-peru-nytcz7ry-v2-index-articleLarge-v3.jpg",
+      "timestamp": "2026-11-21T01:46:33.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The New York Times",
