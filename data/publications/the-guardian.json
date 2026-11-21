@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-20T17:05:38.829Z",
+  "lastUpdated": "2026-11-21T12:53:37.458Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/21/light-in-the-dark-20-long-books-for-short-winter-days",
+      "headline": "Light in the dark: 20 long books for short winter days",
+      "image": "https://i.guim.co.uk/img/media/34091c4da9e8c5587b702d1851f5c3e857a68e56/539_1429_5171_4137/master/5171.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0395906d0df39d64ef588fab27cf547e",
+      "timestamp": "2026-11-21T09:00:53.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/21/hungry-for-action-our-critics-verdicts-on-the-weeks-uk-cinema-releases",
+      "headline": "Hungry for action? Our critics’ verdicts on the week’s UK cinema releases",
+      "image": "https://i.guim.co.uk/img/media/20fb49996b2efa5ff467e0d03c22ab4a569ced79/4_0_4195_3355/master/4195.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d79ba082ca0afa63d1e62ffbca0cc14",
+      "timestamp": "2026-11-21T06:00:50.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

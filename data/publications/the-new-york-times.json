@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-21T04:07:41.913Z",
+  "lastUpdated": "2026-11-21T12:53:37.479Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/21/nyregion/routine-jessica-tarlov.html",
+      "headline": "How a Liberal Fox News Host Braced for a Game-Changing Election Day",
+      "image": "https://static01.nyt.com/images/2026/11/21/multimedia/21met-routine-jessica-tarlov-promo/21met-routine-jessica-tarlov-promo-articleLarge.jpg",
+      "timestamp": "2026-11-21T08:00:00.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
