@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-23T01:55:54.645Z",
+  "lastUpdated": "2026-11-23T10:15:32.541Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+      "headline": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+      "image": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8845dd9368ddc195bbb4d2367f639ae",
+      "timestamp": "2026-11-21T14:00:01.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",

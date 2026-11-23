@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T01:55:55.722Z",
+  "lastUpdated": "2026-11-23T10:15:39.052Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,55 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/23/nyregion/nyc-budgeting-affordability-allais.html",
+      "headline": "How Two Opera Singers (With Day Jobs) Live on $170,000 in Harlem",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23met-affording-opera--03-qvcp/23met-affording-opera--03-qvcp-articleLarge.jpg",
+      "timestamp": "2026-11-23T08:00:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/11/18/how-are-you-really-telling-chatgpt-tiktok-facebook-take-our-privacy-quiz/",
+      "headline": "Your data can be exposed without a hack. Here’s how to protect it.",
+      "image": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:k5nskatzhyxersjilvtnz4lh/bafkreiazph3kkvhqn4fzzpexzq5dazrt52nrqhwxvdx3eayyqt4rtg6fze",
+      "timestamp": "2026-11-23T07:00:06.824Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-23-2026",
+      "headline": "Today in Pictures, Nov 23, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/1b86ef2ff38950b48180ddaeffeb4b1c7997ee95134717aa8e828e17c6d4f66a?t=og",
+      "timestamp": "2026-11-23T05:54:39.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html",
+      "headline": "What’s in Those Drugs at Gas Stations? We Tested Some to Find Out.",
+      "image": "https://static01.nyt.com/images/2026/11/19/well/00well-gasstation-promo/00well-gasstation-promo-articleLarge.jpg",
+      "timestamp": "2026-11-23T05:16:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "SRF",
+      "url": "https://www.srf.ch/news/schweiz/exklusive-recherche-169-versuchte-femizide-so-brutal-ist-die-gewalt-gegen-frauen",
+      "headline": "Exklusive Recherche – 169 versuchte Femizide – so brutal ist die Gewalt gegen Frauen",
+      "image": "https://www.srf.ch/static/cms/images/branded_srf_news/31eeef.jpg",
+      "timestamp": "2026-11-23T05:00:21.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/22/dining/thanksgiving-literature.html",
+      "headline": "A Readable Feast:The Literature of Thanksgiving",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/23FD-thanksgiving-lit1-flct/23FD-thanksgiving-lit1-flct-articleLarge-v2.jpg",
+      "timestamp": "2026-11-23T02:42:46.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The Guardian",
@@ -40,6 +89,14 @@
       "headline": "The Australian fashion artisans who still make clothes by hand",
       "image": "https://i.guim.co.uk/img/media/405eecc3dd443fae634f72e26dd8b17843fac008/0_1427_4992_3992/master/4992.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5089258368e36bfcf18ef2bdc043a8cc",
       "timestamp": "2026-11-21T19:00:07.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/technology/ng-interactive/2026/nov/21/shaking-crying-trouble-breathing-breaking-up-with-ai-companions",
+      "headline": "‘I was shaking, crying, having trouble breathing’: the uncharted trauma of breaking up with AI companions",
+      "image": "https://i.guim.co.uk/img/media/fbb1db8f761639f3693a6f337b815d2473bc48a3/0_0_5790_4631/master/5790.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=d8845dd9368ddc195bbb4d2367f639ae",
+      "timestamp": "2026-11-21T14:00:01.000Z"
     },
     {
       "publication": "The Guardian",

@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-22T15:31:13.632Z",
+  "lastUpdated": "2026-11-23T10:15:32.574Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/23/nyregion/nyc-budgeting-affordability-allais.html",
+      "headline": "How Two Opera Singers (With Day Jobs) Live on $170,000 in Harlem",
+      "image": "https://static01.nyt.com/images/2026/11/23/multimedia/23met-affording-opera--03-qvcp/23met-affording-opera--03-qvcp-articleLarge.jpg",
+      "timestamp": "2026-11-23T08:00:19.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/23/well/gas-station-drugs-vape-weed-kratom-hallucinogens.html",
+      "headline": "What’s in Those Drugs at Gas Stations? We Tested Some to Find Out.",
+      "image": "https://static01.nyt.com/images/2026/11/19/well/00well-gasstation-promo/00well-gasstation-promo-articleLarge.jpg",
+      "timestamp": "2026-11-23T05:16:22.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/22/dining/thanksgiving-literature.html",
+      "headline": "A Readable Feast:The Literature of Thanksgiving",
+      "image": "https://static01.nyt.com/images/2026/11/25/multimedia/23FD-thanksgiving-lit1-flct/23FD-thanksgiving-lit1-flct-articleLarge-v2.jpg",
+      "timestamp": "2026-11-23T02:42:46.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
