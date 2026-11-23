@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-17T10:57:08.516Z",
+  "lastUpdated": "2026-11-23T22:09:12.053Z",
   "articles": [
+    {
+      "publication": "ABC Australia",
+      "blueSkyHandle": "news.abc.net.au",
+      "url": "https://www.abc.net.au/news/2026-11-24/rental-affordability-remains-at-crisis-levels-across-australia/107379494",
+      "headline": "Big squeeze on Australian renters deepens, spreads",
+      "image": "https://live-production.wcms.abc-cdn.net.au/4e7eb2ac59b1786f1f8e79aa810a416a?impolicy=wcms_crop_resize&cropH=1399&cropW=1865&xPos=116&yPos=0&width=862&height=647",
+      "timestamp": null
+    },
     {
       "publication": "ABC Australia",
       "blueSkyHandle": "news.abc.net.au",
