@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T22:09:22.698Z",
+  "lastUpdated": "2026-11-24T06:14:16.282Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,48 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The Straits Times",
+      "url": "https://www.straitstimes.com/multimedia/photos/today-in-pictures-nov-24-2026",
+      "headline": "Today in Pictures, Nov 24, 2026",
+      "image": "https://cassette.sphdigital.com.sg/image/straitstimes/e93c2565499cb35f44d727b7b9bd57807b242d43389189e1580d560a917d40ac?t=og",
+      "timestamp": "2026-11-24T06:01:40.000Z"
+    },
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/bundeshaushalt-2027-wo-wuerden-sie-sparen-das-nzz-spiel-ld.10068565",
+      "headline": "Sie sind Lars Klingbeil: Wo kürzen Sie?",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/19/329e488a-93d9-4f40-b9f1-d1e688ee3658.jpg?width=1200&height=674&fit=bounds&quality=75&auto=webp&crop=1800,1012,x0,y195&wmark=nzz",
+      "timestamp": "2026-11-24T04:30:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/23/books/book-recommendations-notables.html",
+      "headline": "Which Notable Book of 2026 Should I Read First?",
+      "image": "https://static01.nyt.com/images/2026/12/06/books/24TBR-100Notables-02/24TBR-100Notables-02-articleLarge.jpg",
+      "timestamp": "2026-11-24T03:00:03.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/23/arts/nyt-critics-175-anniversary.html",
+      "headline": "They Heard. They Saw. They Reviewed.",
+      "image": "https://static01.nyt.com/images/2026/11/20/books/00critics/00critics-articleLarge.jpg",
+      "timestamp": "2026-11-24T00:45:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/23/magazine/catholic-converts-gen-z.html",
+      "headline": "‘People Are Far More Open About It’: Three Gen Z Men on Becoming Catholic",
+      "image": "https://static01.nyt.com/images/2026/12/06/magazine/06mag-WWLN-catholics/06mag-WWLN-catholics-articleLarge-v3.jpg",
+      "timestamp": "2026-11-23T23:30:27.000Z",
+      "isTemplated": false
     },
     {
       "publication": "The Washington Post",
