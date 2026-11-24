@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-24T06:14:16.282Z",
+  "lastUpdated": "2026-11-24T18:04:44.929Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,14 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/worth-going-further/ng-interactive/2026/nov/24/road-trip-art-trip-or-music-trip",
+      "headline": "Road trip, art trip or music trip?",
+      "image": "https://i.guim.co.uk/img/media/bdee5070a6661b740271687a64182641f0bb5289/0_0_2500_2000/master/2500.jpg?width=700&quality=85&auto=format&fit=max&s=ffadb9fa3c6170238b0919985459bf99",
+      "timestamp": "2026-11-24T12:52:19.000Z"
     },
     {
       "publication": "The Straits Times",
@@ -40,6 +48,14 @@
       "image": "https://static01.nyt.com/images/2026/11/20/books/00critics/00critics-articleLarge.jpg",
       "timestamp": "2026-11-24T00:45:21.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "The Washington Post",
+      "blueSkyHandle": "washingtonpost.com",
+      "url": "https://www.washingtonpost.com/technology/interactive/2026/11/24/nvidias-jensen-huang-two-weeks-that-rocked-us-capitalism/",
+      "headline": "Nvidia’s Jensen Huang and the two weeks that rocked U.S. capitalism",
+      "image": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/VO4NZMMIDQ4QEZQMQ5BBDC3AJU.JPG&w=300",
+      "timestamp": "2026-11-24T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
@@ -1802,6 +1818,14 @@
       "timestamp": "2026-11-04T00:54:01.000Z"
     },
     {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/11/multimedia/navigating-autism-in-adulthood-connor-family-story/",
+      "headline": "Loving Connor is easy. It’s the letting go that’s hard.",
+      "image": "https://apps.bostonglobe.com/2026/11/multimedia/navigating-autism-in-adulthood-connor-family-story/static/f49c25f02fe2712114ab1417d706097b/47498/5T3IGACM4U3ANAR7KO4M4NUJOM.jpg",
+      "timestamp": "2026-11-04T00:00:00.000Z"
+    },
+    {
       "publication": "The Washington Post",
       "blueSkyHandle": "washingtonpost.com",
       "url": "https://www.washingtonpost.com/photography/interactive/2026/11/04/photos-election-midterms/",
@@ -2197,6 +2221,14 @@
       "headline": "Cross-Tabs: October 2026 Times/Siena Poll of the Likely Electorate in Michigan",
       "timestamp": "2026-11-02T00:53:18.000Z",
       "isTemplated": false
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/2026/11/spotlight/watchman-device-boston-scientific-afib/",
+      "headline": "Doctors have questions about the Watchman. Boston Scientific has a sales pitch.",
+      "image": "https://apps.bostonglobe.com/2026/11/spotlight/watchman-device-boston-scientific-afib/static/2ca4575bee911252ad285c4d09f461a0/47498/BG5LZUW73JDHNCI34UDE2235XQ.jpg",
+      "timestamp": "2026-11-02T00:00:00.000Z"
     },
     {
       "publication": "The Washington Post",
@@ -149210,6 +149242,14 @@
       "url": "https://apps.bostonglobe.com/opinion/graphics/2022/11/2022-editorial-endorsements-quick-guide/",
       "headline": "2022 Editorial Board endorsements quick guid",
       "timestamp": "2022-11-01T04:00:00.000Z"
+    },
+    {
+      "publication": "Boston Globe",
+      "blueSkyHandle": "bostonglobe.bsky.social",
+      "url": "https://apps.bostonglobe.com/sports/graphics/high-school-football-thanksgiving-rivalries/",
+      "headline": "Thanksgiving high school football games: Look up your school’s record against your rival",
+      "image": "https://apps.bostonglobe.com/sports/graphics/high-school-football-thanksgiving-rivalries/static/6184a6230f469f69dd9dee1190dabc49/47498/TZYTUR4PC3KLTYDNMVZEN2HMV4.jpg",
+      "timestamp": "2022-11-01T00:00:00.000Z"
     },
     {
       "publication": "The New York Times",
