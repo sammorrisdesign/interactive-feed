@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-11-24T06:14:13.310Z",
+  "lastUpdated": "2026-11-25T02:41:39.602Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/24/us/politics/congress-new-members-democrats.html",
+      "headline": "Meet the Incoming Members of Congress",
+      "image": "https://static01.nyt.com/images/2026/11/23/us/new-congress-static-promo-2026-11-17-new-congress/new-congress-static-promo-2026-11-17-new-congress-articleLarge-v2.jpg",
+      "timestamp": "2026-11-25T02:20:50.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/24/climate/iowa-lead-detonation-explained.html",
+      "headline": "See How the Army Plans to Blow Up Five Tons of Toxic Lead Compounds in Iowa",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/2026-iowa-lead-detonation-index/2026-iowa-lead-detonation-index-articleLarge-v10.jpg",
+      "timestamp": "2026-11-25T00:40:43.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/24/weather/iowa-maps-lead-wind.html",
+      "headline": "Maps: Tracking the Iowa Ammunition Plant Detonation",
+      "image": "https://static01.nyt.com/images/2026/11/24/multimedia/2026-11-23-iowa-lead-mapping-index/2026-11-23-iowa-lead-mapping-index-articleLarge-v10.jpg",
+      "timestamp": "2026-11-24T22:28:29.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

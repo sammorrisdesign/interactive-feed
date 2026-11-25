@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-11-18T18:59:17.129Z",
+  "lastUpdated": "2026-11-25T02:41:38.271Z",
   "articles": [
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wissenschaft/geschichte/2026-11/ns-frauenverbaende-aufnahmeantraege-suche",
+      "headline": "Hitlers Helferinnen: War Ihre Oma dabei?",
+      "image": "https://img.zeit.de/wissenschaft/2026-11/ns-frauenverbaende-aufnahmeantraege-suche-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-24T10:06:16.380Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/arbeit/2026-11/optimismus-freude-emotionen-alltag-test",
+      "headline": "Wie optimistisch sind Sie?",
+      "image": "https://img.zeit.de/arbeit/2026-11/optimismus-freude-emotionen-alltag-test-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-23T09:03:09.847Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/politik/deutschland/2026-11/sabotageakte-russland-hybrider-krieg-desinformation-spionage",
+      "headline": "Wo Russland Deutschland angreift",
+      "image": "https://img.zeit.de/politik/deutschland/2026-10/sabotageakte-russland-hybrider-krieg-desinformation-spionage-bild/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-21T08:03:47.826Z"
+    },
+    {
+      "publication": "Die Zeit",
+      "blueSkyHandle": "zeit.de",
+      "url": "https://www.zeit.de/wirtschaft/2026-11/stromsteuer-senkung-energiekosten-haushalt-stromverbrauch",
+      "headline": "So viel sparen Sie durch die Stromsteuersenkung",
+      "image": "https://img.zeit.de/wirtschaft/2025-07/teaser-stromsteuer-senkung-energiekosten-haushalt-stromverbrauch/super__767x511__mobile__scale_2",
+      "timestamp": "2026-11-18T09:40:06.825Z"
+    },
     {
       "publication": "Die Zeit",
       "blueSkyHandle": "zeit.de",
