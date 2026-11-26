@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T03:55:32.150Z",
+  "lastUpdated": "2026-11-26T13:30:32.958Z",
   "articles": [
     {
       "publication": "South China Morning Post",
@@ -7,6 +7,15 @@
       "headline": "Lessons from a tragedy\n",
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/540x360/public/d8/images/2026/10/29/cover-cms.jpg?itok=vEB9_ChL&v=1793267107",
       "timestamp": "2026-12-01T00:00:00.000Z"
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/26/travel/things-to-do-penang.html",
+      "headline": "36 Hours in Penang, Malaysia",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26trav-hours-penang-bjfc/26trav-hours-penang-bjfc-articleLarge-v23.jpg",
+      "timestamp": "2026-11-26T10:04:06.000Z",
+      "isTemplated": false
     },
     {
       "publication": "CNA",

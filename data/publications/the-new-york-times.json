@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-25T02:41:39.602Z",
+  "lastUpdated": "2026-11-26T13:30:31.665Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/26/travel/things-to-do-penang.html",
+      "headline": "36 Hours in Penang, Malaysia",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/26trav-hours-penang-bjfc/26trav-hours-penang-bjfc-articleLarge-v23.jpg",
+      "timestamp": "2026-11-26T10:04:06.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
