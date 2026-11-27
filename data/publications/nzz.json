@@ -1,6 +1,14 @@
 {
-  "lastUpdated": "2026-11-24T06:14:13.252Z",
+  "lastUpdated": "2026-11-27T14:39:48.192Z",
   "articles": [
+    {
+      "publication": "NZZ",
+      "blueSkyHandle": "nzz.ch",
+      "url": "https://www.nzz.ch/visuals/aktuell/gasspeicher-und-stauseen-sind-schlecht-gefuellt-so-entwickeln-sich-die-energiepreise-in-der-schweiz-ld.1927555",
+      "headline": "Gasspeicher und Stauseen sind schlecht gefüllt: So entwickeln sich die Energiepreise in der Schweiz",
+      "image": "https://img-msp-prod.nzz.ch/2026/11/26/a8fa3f94-48b9-45dc-be01-19f31ed68cdf.gif?width=800&height=450&fit=bounds&quality=75&auto=webp&crop=800,450,x0,y15",
+      "timestamp": "2026-11-27T11:31:44.000Z"
+    },
     {
       "publication": "NZZ",
       "blueSkyHandle": "nzz.ch",

@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-11-26T13:30:31.665Z",
+  "lastUpdated": "2026-11-27T14:39:48.243Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/27/upshot/grand-theft-auto-comparisons.html",
+      "headline": "Just How Big Was the Grand Theft Auto VI Launch?",
+      "image": "https://static01.nyt.com/images/2026/11/26/multimedia/2026-11-23-gtavi-comparisons-index/2026-11-23-gtavi-comparisons-index-articleLarge.jpg",
+      "timestamp": "2026-11-27T10:03:50.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",
