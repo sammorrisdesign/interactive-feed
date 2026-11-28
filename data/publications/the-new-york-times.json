@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-11-27T23:11:07.238Z",
+  "lastUpdated": "2026-11-28T13:51:21.303Z",
   "articles": [
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/28/business/gift-guide-impossible-items-us-tariffs-security.html",
+      "headline": "The Ultimate Guide for Gifts You Can’t Buy",
+      "image": "https://static01.nyt.com/images/2026/11/28/business/28biz-gift-guide-promo/28biz-gift-guide-promo-articleLarge.jpg",
+      "timestamp": "2026-11-28T10:02:21.000Z",
+      "isTemplated": false
+    },
+    {
+      "publication": "The New York Times",
+      "blueSkyHandle": "nytimes.com",
+      "url": "https://www.nytimes.com/interactive/2026/11/28/dining/paprika-pepper-serbia.html",
+      "headline": "A Village Powered by Paprika",
+      "image": "https://static01.nyt.com/images/2026/11/24/dining/food-traditions-paprika-promo/food-traditions-paprika-promo-articleLarge.png",
+      "timestamp": "2026-11-28T10:02:01.000Z",
+      "isTemplated": false
+    },
     {
       "publication": "The New York Times",
       "blueSkyHandle": "nytimes.com",

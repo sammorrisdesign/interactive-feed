@@ -1,6 +1,22 @@
 {
-  "lastUpdated": "2026-11-25T12:03:36.115Z",
+  "lastUpdated": "2026-11-28T13:51:21.273Z",
   "articles": [
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/australia-news/ng-interactive/2026/nov/28/victorian-election-results-2026-live-tracker-victoria-state-poll-who-won-is-winning-votes-count-map-seats-latest-update",
+      "headline": "Live Victorian election results 2026: votes tracker, latest VEC seat count, electorate map, swing seats, upper house counts",
+      "image": "https://i.guim.co.uk/img/media/f9fc55f2001ddc742f5ca2426aabcecfca23c19a/0_0_2000_1600/master/2000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=f8577a77fd9b26c64c66fa6a11679e35",
+      "timestamp": "2026-11-28T12:36:27.000Z"
+    },
+    {
+      "publication": "The Guardian",
+      "blueSkyHandle": "theguardian.com",
+      "url": "https://www.theguardian.com/film/ng-interactive/2026/nov/28/hot-or-not-the-guardians-film-critics-run-the-rule-over-the-weeks-uk-cinema-releases",
+      "headline": "Hot or not? The Guardian’s film critics run the rule over the week’s UK cinema releases",
+      "image": "https://i.guim.co.uk/img/media/1f3b079b41463ba2b3d9963544c436f0678459c0/0_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cc15121ac71a6e1a39511c7c8e09a7f5",
+      "timestamp": "2026-11-28T06:00:33.000Z"
+    },
     {
       "publication": "The Guardian",
       "blueSkyHandle": "theguardian.com",
